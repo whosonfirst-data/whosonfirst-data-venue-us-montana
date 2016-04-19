@@ -1,0 +1,67 @@
+{
+  "id": 186186715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.53046,45.763235,-108.53046,45.763235",
+    "geom:latitude":45.763235,
+    "geom:longitude":-108.53046,
+    "iso:country":"US",
+    "sg:address":"305 Calhoun Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 8635",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UIzWPBaxdKxMVlimVhHqP_45.763235_-108.530460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4c7e0507c2d5f4afcbb32054d0b09c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":186186715
+        }
+    ],
+    "wof:id":186186715,
+    "wof:lastmodified":1449052421,
+    "wof:name":"Neibauer Construction",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [-108.53046,45.763235,-108.53046,45.763235],
+  "geometry": {"coordinates":[-108.53046,45.763235],"type":"Point"}
+}

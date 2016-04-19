@@ -1,0 +1,65 @@
+{
+  "id": 186282217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.337387,47.503273,-111.337387,47.503273",
+    "geom:latitude":47.503273,
+    "geom:longitude":-111.337387,
+    "iso:country":"US",
+    "sg:address":"409 14th St SW",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 452 8561",
+    "sg:postcode":"59404",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972763,
+        102085113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WkAmgDjRzVHyea94Mu4WO_47.503273_-111.337387@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5eb4ecd1dcc1d71b7ab42a201103162",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085113,
+            "locality_id":85972763,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186282217
+        }
+    ],
+    "wof:id":186282217,
+    "wof:lastmodified":1449052047,
+    "wof:name":"Rocky Mountain Truck Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-111.337387,47.503273,-111.337387,47.503273],
+  "geometry": {"coordinates":[-111.337387,47.503273],"type":"Point"}
+}

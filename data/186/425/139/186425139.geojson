@@ -1,0 +1,70 @@
+{
+  "id": 186425139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.427741,45.856614,-108.427741,45.856614",
+    "geom:latitude":45.856614,
+    "geom:longitude":-108.427741,
+    "iso:country":"US",
+    "sg:address":"2001 Dover Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6688",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QhLVF38gPvrdbbfdib228_45.856614_-108.427741@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"960f8b197ecefe6f8dc330f8502cdde6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186425139
+        }
+    ],
+    "wof:id":186425139,
+    "wof:lastmodified":1449051339,
+    "wof:name":"D's Insulation",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [-108.427741,45.856614,-108.427741,45.856614],
+  "geometry": {"coordinates":[-108.427741,45.856614],"type":"Point"}
+}

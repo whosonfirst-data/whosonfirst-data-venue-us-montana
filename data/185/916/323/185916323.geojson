@@ -1,0 +1,66 @@
+{
+  "id": 185916323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.55856,45.660118,-110.55856,45.660118",
+    "geom:latitude":45.660118,
+    "geom:longitude":-110.55856,
+    "iso:country":"US",
+    "sg:address":"232 S Main St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 3332",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03HTxuI6aTffOGOyNTQD77_45.660118_-110.558560@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b16aeafec351b0ce06551c1ec6ea59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":185916323
+        }
+    ],
+    "wof:id":185916323,
+    "wof:lastmodified":1449007491,
+    "wof:name":"Mental Health Ctr",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [-110.55856,45.660118,-110.55856,45.660118],
+  "geometry": {"coordinates":[-110.55856,45.660118],"type":"Point"}
+}

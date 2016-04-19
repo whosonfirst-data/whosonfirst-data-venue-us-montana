@@ -1,0 +1,67 @@
+{
+  "id": 186432801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.497833,45.782065,-108.497833,45.782065",
+    "geom:latitude":45.782065,
+    "geom:longitude":-108.497833,
+    "iso:country":"US",
+    "sg:address":"2340 1st Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6717",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02D2K5lyo2WTfSvARgolTo_45.782065_-108.497833@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"670a138348732712a3b0fc6771a943e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186432801
+        }
+    ],
+    "wof:id":186432801,
+    "wof:lastmodified":1449050188,
+    "wof:name":"Billings Auto Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [-108.497833,45.782065,-108.497833,45.782065],
+  "geometry": {"coordinates":[-108.497833,45.782065],"type":"Point"}
+}

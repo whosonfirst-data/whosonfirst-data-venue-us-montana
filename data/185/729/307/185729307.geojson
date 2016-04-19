@@ -1,0 +1,71 @@
+{
+  "id": 185729307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.611859,45.769685,-108.611859,45.769685",
+    "geom:latitude":45.769685,
+    "geom:longitude":-108.611859,
+    "iso:country":"US",
+    "sg:address":"3723 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 3070",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fZ8jvvuXoypgw5NxxULJt_45.769685_-108.611859@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"316dd98805bced90036c9eff4ccafe1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185729307
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185729307
+        }
+    ],
+    "wof:id":185729307,
+    "wof:lastmodified":1449007442,
+    "wof:name":"Billings Career Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-108.611859,45.769685,-108.611859,45.769685],
+  "geometry": {"coordinates":[-108.611859,45.769685],"type":"Point"}
+}

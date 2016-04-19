@@ -1,0 +1,75 @@
+{
+  "id": 186404387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.375312,45.820415,-108.375312,45.820415",
+    "geom:latitude":45.820415,
+    "geom:longitude":-108.375312,
+    "iso:country":"US",
+    "sg:address":"1260 Calamity Jane Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8367",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house",
+        "residential",
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yxoJd42SDn48N1yXtAmTA_45.820415_-108.375312@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"669392e28bcbcf8cc3b4bcdfc0b093e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186404387
+        }
+    ],
+    "wof:id":186404387,
+    "wof:lastmodified":1449052149,
+    "wof:name":"Mark Soderquist Custom Paint",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "residential",
+        "paint"
+    ]
+},
+  "bbox": [-108.375312,45.820415,-108.375312,45.820415],
+  "geometry": {"coordinates":[-108.375312,45.820415],"type":"Point"}
+}

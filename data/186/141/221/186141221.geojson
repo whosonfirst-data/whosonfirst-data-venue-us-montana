@@ -1,0 +1,69 @@
+{
+  "id": 186141221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.476082,45.811709,-108.476082,45.811709",
+    "geom:latitude":45.811709,
+    "geom:longitude":-108.476082,
+    "iso:country":"US",
+    "sg:address":"523 Lake Elmo Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 5350",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PbrgvQnqlL6Elt10R2P0P_45.811709_-108.476082@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc2f567687eac9b4496794c1f60d5721",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186141221
+        }
+    ],
+    "wof:id":186141221,
+    "wof:lastmodified":1449051333,
+    "wof:name":"Web Construction",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [-108.476082,45.811709,-108.476082,45.811709],
+  "geometry": {"coordinates":[-108.476082,45.811709],"type":"Point"}
+}

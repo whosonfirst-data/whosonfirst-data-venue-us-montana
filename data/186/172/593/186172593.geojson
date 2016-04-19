@@ -1,0 +1,68 @@
+{
+  "id": 186172593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.512964,45.778253,-108.512964,45.778253",
+    "geom:latitude":45.778253,
+    "geom:longitude":-108.512964,
+    "iso:country":"US",
+    "sg:address":"30 N 34th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 8731",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rNLdbicOReeVCwpyPqzJv_45.778253_-108.512964@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8690a62010fb42dc6245708d3139bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":186172593
+        }
+    ],
+    "wof:id":186172593,
+    "wof:lastmodified":1449051452,
+    "wof:name":"K W Signature Homes",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-108.512964,45.778253,-108.512964,45.778253],
+  "geometry": {"coordinates":[-108.512964,45.778253],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185766585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.538276,45.768913,-108.538276,45.768913",
+    "geom:latitude":45.768913,
+    "geom:longitude":-108.538276,
+    "iso:country":"US",
+    "sg:address":"105 Florine Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 1180",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gKsVLZu7E75XK0wsWUAsY_45.768913_-108.538276@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1bf3289138a0ac61b2c8c630f86258e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185766585
+        }
+    ],
+    "wof:id":185766585,
+    "wof:lastmodified":1449006580,
+    "wof:name":"I D Corp",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.538276,45.768913,-108.538276,45.768913],
+  "geometry": {"coordinates":[-108.538276,45.768913],"type":"Point"}
+}

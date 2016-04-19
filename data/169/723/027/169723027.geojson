@@ -1,0 +1,70 @@
+{
+  "id": 169723027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.552417,45.783965,-108.552417,45.783965",
+    "geom:latitude":45.783965,
+    "geom:longitude":-108.552417,
+    "iso:country":"US",
+    "sg:address":"1444 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 9168",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_039lyD6MTCoT26N0YYxEUb_45.783965_-108.552417@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70e531d6518fd88b33f1b5b29742e984",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169723027
+        }
+    ],
+    "wof:id":169723027,
+    "wof:lastmodified":1449034615,
+    "wof:name":"United Blood Svc",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [-108.552417,45.783965,-108.552417,45.783965],
+  "geometry": {"coordinates":[-108.552417,45.783965],"type":"Point"}
+}

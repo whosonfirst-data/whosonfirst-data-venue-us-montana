@@ -1,0 +1,66 @@
+{
+  "id": 186152401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.518098,45.974868,-112.518098,45.974868",
+    "geom:latitude":45.974868,
+    "geom:longitude":-112.518098,
+    "iso:country":"US",
+    "sg:address":"1460 Holmes Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 1841",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_689mbKCnyBjYCSdnGJ1DUj_45.974868_-112.518098@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a3db4c4756fd5c9fcb8d10be802b87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":186152401
+        }
+    ],
+    "wof:id":186152401,
+    "wof:lastmodified":1449052388,
+    "wof:name":"Math Place",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [-112.518098,45.974868,-112.518098,45.974868],
+  "geometry": {"coordinates":[-112.518098,45.974868],"type":"Point"}
+}

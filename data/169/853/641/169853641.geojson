@@ -1,0 +1,70 @@
+{
+  "id": 169853641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.44367,45.857249,-108.44367,45.857249",
+    "geom:latitude":45.857249,
+    "geom:longitude":-108.44367,
+    "iso:country":"US",
+    "sg:address":"1620 Rosecrans Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 3997",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mail",
+        "carrier",
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jgrqE5NHNgnyL7x7uNY06_45.857249_-108.443670@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"613eca53ba6ad1a5b60d74522ae74b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":169853641
+        }
+    ],
+    "wof:id":169853641,
+    "wof:lastmodified":1449034011,
+    "wof:name":"Markley Star Route Carriers",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "carrier",
+        "contract"
+    ]
+},
+  "bbox": [-108.44367,45.857249,-108.44367,45.857249],
+  "geometry": {"coordinates":[-108.44367,45.857249],"type":"Point"}
+}

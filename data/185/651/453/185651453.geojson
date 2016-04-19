@@ -1,0 +1,66 @@
+{
+  "id": 185651453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.440304,45.829347,-108.440304,45.829347",
+    "geom:latitude":45.829347,
+    "geom:longitude":-108.440304,
+    "iso:country":"US",
+    "sg:address":"1613 Janie St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 7088",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RdUoErtXLqKNQxINL7YoE_45.829347_-108.440304@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5285af6a4c5e9e5ade1a4867c76d31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185651453
+        }
+    ],
+    "wof:id":185651453,
+    "wof:lastmodified":1449006932,
+    "wof:name":"Montana Roofing Co",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-108.440304,45.829347,-108.440304,45.829347],
+  "geometry": {"coordinates":[-108.440304,45.829347],"type":"Point"}
+}

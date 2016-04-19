@@ -1,0 +1,72 @@
+{
+  "id": 186061161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.526638,45.769578,-108.526638,45.769578",
+    "geom:latitude":45.769578,
+    "geom:longitude":-108.526638,
+    "iso:country":"US",
+    "sg:address":"4560 State Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4093",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "used",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sa5fCYvH7qU5wevzsDFum_45.769578_-108.526638@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0299fbe3667c26a2940dfd61f49ab01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":186061161
+        }
+    ],
+    "wof:id":186061161,
+    "wof:lastmodified":1449052294,
+    "wof:name":"Midwest Truck Parts Shop",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "truck"
+    ]
+},
+  "bbox": [-108.526638,45.769578,-108.526638,45.769578],
+  "geometry": {"coordinates":[-108.526638,45.769578],"type":"Point"}
+}

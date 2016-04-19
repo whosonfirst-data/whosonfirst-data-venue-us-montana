@@ -1,0 +1,68 @@
+{
+  "id": 185799893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.768557,45.672334,-108.768557,45.672334",
+    "geom:latitude":45.672334,
+    "geom:longitude":-108.768557,
+    "iso:country":"US",
+    "sg:address":"311 Colorado Ave",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 8115",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eynDBVgvW5ug1CS2GM4mm_45.672334_-108.768557@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2b9eb4fa7b79b52c99d6847fccdb262",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185799893
+        }
+    ],
+    "wof:id":185799893,
+    "wof:lastmodified":1449008216,
+    "wof:name":"W C Heating & Cooling",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-108.768557,45.672334,-108.768557,45.672334],
+  "geometry": {"coordinates":[-108.768557,45.672334],"type":"Point"}
+}

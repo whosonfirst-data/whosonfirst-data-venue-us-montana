@@ -1,0 +1,68 @@
+{
+  "id": 185815001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.308821,48.186133,-114.308821,48.186133",
+    "geom:latitude":48.186133,
+    "geom:longitude":-114.308821,
+    "iso:country":"US",
+    "sg:address":"1301 S Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 4011",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iNptSVyclcx54AScrtoIS_48.186133_-114.308821@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31e3a1ccd5308bd0ceed170a68b71440",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185815001
+        }
+    ],
+    "wof:id":185815001,
+    "wof:lastmodified":1449007404,
+    "wof:name":"Tar",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-114.308821,48.186133,-114.308821,48.186133],
+  "geometry": {"coordinates":[-114.308821,48.186133],"type":"Point"}
+}

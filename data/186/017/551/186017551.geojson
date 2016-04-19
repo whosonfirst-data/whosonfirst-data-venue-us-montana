@@ -1,0 +1,68 @@
+{
+  "id": 186017551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.551207,45.777054,-108.551207,45.777054",
+    "geom:latitude":45.777054,
+    "geom:longitude":-108.551207,
+    "iso:country":"US",
+    "sg:address":"1305 Broadwater Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8393",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jFQ6q8MJAdKDD2kVzINfV_45.777054_-108.551207@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a874355fed322be024dee3b26c1a0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186017551
+        }
+    ],
+    "wof:id":186017551,
+    "wof:lastmodified":1449051797,
+    "wof:name":"Willard's 4x4",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.551207,45.777054,-108.551207,45.777054],
+  "geometry": {"coordinates":[-108.551207,45.777054],"type":"Point"}
+}

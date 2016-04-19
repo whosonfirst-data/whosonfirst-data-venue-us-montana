@@ -1,0 +1,67 @@
+{
+  "id": 169782647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.493273,45.793213,-108.493273,45.793213",
+    "geom:latitude":45.793213,
+    "geom:longitude":-108.493273,
+    "iso:country":"US",
+    "sg:address":"402 N 15th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 7317",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4goRCcH1B22av5kBnI6paS_45.793213_-108.493273@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad93d747d4fc002f95a625d557bb63ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":169782647
+        }
+    ],
+    "wof:id":169782647,
+    "wof:lastmodified":1449032670,
+    "wof:name":"Montana Muffler & Auto Sales",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-108.493273,45.793213,-108.493273,45.793213],
+  "geometry": {"coordinates":[-108.493273,45.793213],"type":"Point"}
+}

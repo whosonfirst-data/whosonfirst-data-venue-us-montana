@@ -1,0 +1,65 @@
+{
+  "id": 186127161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.155149,46.233282,-114.155149,46.233282",
+    "geom:latitude":46.233282,
+    "geom:longitude":-114.155149,
+    "iso:country":"US",
+    "sg:address":"1100 S 1st St",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 375 9393",
+    "sg:postcode":"59840",
+    "sg:province":"MT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65l8CFVugrouP2Qf8Z2Uav_46.233282_-114.155149@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e50d9f2bdaab4f7ae30ecfba91232abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186127161
+        }
+    ],
+    "wof:id":186127161,
+    "wof:lastmodified":1449052805,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-114.155149,46.233282,-114.155149,46.233282],
+  "geometry": {"coordinates":[-114.155149,46.233282],"type":"Point"}
+}

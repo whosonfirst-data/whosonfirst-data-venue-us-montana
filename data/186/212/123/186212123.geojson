@@ -1,0 +1,66 @@
+{
+  "id": 186212123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.587638,45.783938,-108.587638,45.783938",
+    "geom:latitude":45.783938,
+    "geom:longitude":-108.587638,
+    "iso:country":"US",
+    "sg:address":"2802 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 7113",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kGLwAck0ZljdnzrEnUkGV_45.783938_-108.587638@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69b0480323987f288f38ab96c31ef32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186212123
+        }
+    ],
+    "wof:id":186212123,
+    "wof:lastmodified":1449052109,
+    "wof:name":"Valet Today Cleaners",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-108.587638,45.783938,-108.587638,45.783938],
+  "geometry": {"coordinates":[-108.587638,45.783938],"type":"Point"}
+}

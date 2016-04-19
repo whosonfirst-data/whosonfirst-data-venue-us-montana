@@ -1,0 +1,68 @@
+{
+  "id": 169767131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.490826,45.829512,-108.490826,45.829512",
+    "geom:latitude":45.829512,
+    "geom:longitude":-108.490826,
+    "iso:country":"US",
+    "sg:address":"227 Glenhaven Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 9101",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73MNPnko6VxQU9j2bQK4XM_45.829512_-108.490826@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ee580c2ba6f39bab871a5906186d6f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":169767131
+        }
+    ],
+    "wof:id":169767131,
+    "wof:lastmodified":1449033625,
+    "wof:name":"Kuck Trucking Inc",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [-108.490826,45.829512,-108.490826,45.829512],
+  "geometry": {"coordinates":[-108.490826,45.829512],"type":"Point"}
+}

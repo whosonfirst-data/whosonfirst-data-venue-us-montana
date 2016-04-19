@@ -1,0 +1,68 @@
+{
+  "id": 337278599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.547179,45.989523,-112.547179,45.989523",
+    "geom:latitude":45.989523,
+    "geom:longitude":-112.547179,
+    "iso:country":"US",
+    "sg:address":"400 Greenwood Ave W",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 4381",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M0sjbvQPL4v9qB575Q3rS_45.989523_-112.547179@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12f22af117eb551d3a8a2cc9e37ef8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":337278599
+        }
+    ],
+    "wof:id":337278599,
+    "wof:lastmodified":1449027391,
+    "wof:name":"LA Velle Greenwood Co",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [-112.547179,45.989523,-112.547179,45.989523],
+  "geometry": {"coordinates":[-112.547179,45.989523],"type":"Point"}
+}

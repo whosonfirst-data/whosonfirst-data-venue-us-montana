@@ -1,0 +1,68 @@
+{
+  "id": 186192903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.50546,45.77851,-108.50546,45.77851",
+    "geom:latitude":45.77851,
+    "geom:longitude":-108.50546,
+    "iso:country":"US",
+    "sg:address":"2921 1st Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 2809",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aSBVf78Q0XcmGkhEFb22r_45.778510_-108.505460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5582dccd91ed53fa9bf7d8f2a6e8ff33",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":186192903
+        }
+    ],
+    "wof:id":186192903,
+    "wof:lastmodified":1449052250,
+    "wof:name":"Three Bar Saddlery",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [-108.50546,45.77851,-108.50546,45.77851],
+  "geometry": {"coordinates":[-108.50546,45.77851],"type":"Point"}
+}

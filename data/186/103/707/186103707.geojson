@@ -1,0 +1,67 @@
+{
+  "id": 186103707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.94303,48.175284,-111.94303,48.175284",
+    "geom:latitude":48.175284,
+    "geom:longitude":-111.94303,
+    "iso:country":"US",
+    "sg:address":"3 N Main St",
+    "sg:city":"Conrad",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 278 5154",
+    "sg:postcode":"59425",
+    "sg:province":"MT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972687,
+        102083907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09uw5pkflLUXLKuIYIynHp_48.175284_-111.943030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e34d64bd1350f0771e007438afc2f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083907,
+            "locality_id":85972687,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186103707
+        }
+    ],
+    "wof:id":186103707,
+    "wof:lastmodified":1449052044,
+    "wof:name":"City Center Car Wash & Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-111.94303,48.175284,-111.94303,48.175284],
+  "geometry": {"coordinates":[-111.94303,48.175284],"type":"Point"}
+}

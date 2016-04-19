@@ -1,0 +1,67 @@
+{
+  "id": 186296345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.934314,46.617406,-111.934314,46.617406",
+    "geom:latitude":46.617406,
+    "geom:longitude":-111.934314,
+    "iso:country":"US",
+    "sg:address":"3015 L Dr",
+    "sg:city":"Helena",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 227 6983",
+    "sg:postcode":"59602",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973105,
+        102085151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xhMaJsHmnw9nOGKx1wrlw_46.617406_-111.934314@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51cbe92ddfb5e8ab0d5b62ca91f5319d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085151,
+            "locality_id":85973105,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186296345
+        }
+    ],
+    "wof:id":186296345,
+    "wof:lastmodified":1449052514,
+    "wof:name":"Lowry Pump & Well Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-111.934314,46.617406,-111.934314,46.617406],
+  "geometry": {"coordinates":[-111.934314,46.617406],"type":"Point"}
+}

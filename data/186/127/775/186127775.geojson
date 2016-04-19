@@ -1,0 +1,67 @@
+{
+  "id": 186127775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-115.35048,47.599584,-115.35048,47.599584",
+    "geom:latitude":47.599584,
+    "geom:longitude":-115.35048,
+    "iso:country":"US",
+    "sg:address":"320 Gallatin St",
+    "sg:city":"Thompson Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 827 7575",
+    "sg:postcode":"59873",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972641,
+        102085063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VSUdRshUchrY29u1ci0pl_47.599584_-115.350480@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3f28ac8cc99b9a8989788c347c794bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085063,
+            "locality_id":85972641,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186127775
+        }
+    ],
+    "wof:id":186127775,
+    "wof:lastmodified":1449052808,
+    "wof:name":"Bernie's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-115.35048,47.599584,-115.35048,47.599584],
+  "geometry": {"coordinates":[-115.35048,47.599584],"type":"Point"}
+}

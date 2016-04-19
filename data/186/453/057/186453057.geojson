@@ -1,0 +1,80 @@
+{
+  "id": 186453057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.577773,45.761269,-108.577773,45.761269",
+    "geom:latitude":45.761269,
+    "geom:longitude":-108.577773,
+    "iso:country":"US",
+    "sg:address":"2 Prospect Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9327",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XeHnwPdrciMgi0cJty4LH_45.761269_-108.577773@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b43e56ef1009b16a1d05100fe3ec3548",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186453057
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186453057
+        }
+    ],
+    "wof:id":186453057,
+    "wof:lastmodified":1449052354,
+    "wof:name":"Final Step Floorings",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [-108.577773,45.761269,-108.577773,45.761269],
+  "geometry": {"coordinates":[-108.577773,45.761269],"type":"Point"}
+}

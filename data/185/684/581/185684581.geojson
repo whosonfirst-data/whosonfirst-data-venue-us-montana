@@ -1,0 +1,66 @@
+{
+  "id": 185684581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.497718,45.792331,-108.497718,45.792331",
+    "geom:latitude":45.792331,
+    "geom:longitude":-108.497718,
+    "iso:country":"US",
+    "sg:address":"501 N 18th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0101",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "steel"
+    ],
+    "sg:website":"www.empiresteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UNFuFgJKXyAykSGBvrIbJ_45.792331_-108.497718@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e2dcdf438d5054cb179a5f1421c54a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185684581
+        }
+    ],
+    "wof:id":185684581,
+    "wof:lastmodified":1449007010,
+    "wof:name":"Empire Steel Mfg Co",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [-108.497718,45.792331,-108.497718,45.792331],
+  "geometry": {"coordinates":[-108.497718,45.792331],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186048555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.551136,45.673917,-110.551136,45.673917",
+    "geom:latitude":45.673917,
+    "geom:longitude":-110.551136,
+    "iso:country":"US",
+    "sg:address":"1302 E Montana St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 9482",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TdMl4m4chRTsBfTDPpdnX_45.673917_-110.551136@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09e2bafe92dd4f0b5610f9e8c370da56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":186048555
+        }
+    ],
+    "wof:id":186048555,
+    "wof:lastmodified":1449051332,
+    "wof:name":"Bosley Apartments",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-110.551136,45.673917,-110.551136,45.673917],
+  "geometry": {"coordinates":[-110.551136,45.673917],"type":"Point"}
+}

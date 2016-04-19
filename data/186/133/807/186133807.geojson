@@ -1,0 +1,66 @@
+{
+  "id": 186133807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.03027,45.679253,-111.03027,45.679253",
+    "geom:latitude":45.679253,
+    "geom:longitude":-111.03027,
+    "iso:country":"US",
+    "sg:address":"502 E Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 7049",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lbCLSrlje0oDchY2w2S0S_45.679253_-111.030270@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e27a36f76b27dd49ea6015b74cfd149",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891715,
+            "region_id":85688617,
+            "venue_id":186133807
+        }
+    ],
+    "wof:id":186133807,
+    "wof:lastmodified":1449052545,
+    "wof:name":"Brence Exxon",
+    "wof:parent_id":85891715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-111.03027,45.679253,-111.03027,45.679253],
+  "geometry": {"coordinates":[-111.03027,45.679253],"type":"Point"}
+}

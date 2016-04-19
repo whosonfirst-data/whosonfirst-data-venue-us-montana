@@ -1,0 +1,68 @@
+{
+  "id": 186314291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.092914,46.926538,-114.092914,46.926538",
+    "geom:latitude":46.926538,
+    "geom:longitude":-114.092914,
+    "iso:country":"US",
+    "sg:address":"5765 W Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 329 4900",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fire",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bs9XCX0sNW87rmTdLQiUW_46.926538_-114.092914@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d333fe1466e686585c0a72225da18e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":186314291
+        }
+    ],
+    "wof:id":186314291,
+    "wof:lastmodified":1449052921,
+    "wof:name":"Northern Region Forestry Svc",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "protection"
+    ]
+},
+  "bbox": [-114.092914,46.926538,-114.092914,46.926538],
+  "geometry": {"coordinates":[-114.092914,46.926538],"type":"Point"}
+}

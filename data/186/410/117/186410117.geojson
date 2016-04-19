@@ -1,0 +1,67 @@
+{
+  "id": 186410117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.482396,45.797207,-108.482396,45.797207",
+    "geom:latitude":45.797207,
+    "geom:longitude":-108.482396,
+    "iso:country":"US",
+    "sg:address":"777 4th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 3133",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36do1XCIsEOJ9Wji10HWe0_45.797207_-108.482396@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89e527cd9fff97a7df16cbb1ea5988da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186410117
+        }
+    ],
+    "wof:id":186410117,
+    "wof:lastmodified":1449050297,
+    "wof:name":"Pacific Recycling",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [-108.482396,45.797207,-108.482396,45.797207],
+  "geometry": {"coordinates":[-108.482396,45.797207],"type":"Point"}
+}

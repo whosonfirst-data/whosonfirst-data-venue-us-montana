@@ -1,0 +1,75 @@
+{
+  "id": 185860103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.52712,46.013362,-112.52712,46.013362",
+    "geom:latitude":46.013362,
+    "geom:longitude":-112.52712,
+    "iso:country":"US",
+    "sg:address":"445 E Park St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 8533",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tool",
+        "taxidermist",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rdYKA0XF8oa8YoKqWdMam_46.013362_-112.527120@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13a1438534e7fdb28868fa6d2cc799ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185860103
+        }
+    ],
+    "wof:id":185860103,
+    "wof:lastmodified":1449007329,
+    "wof:name":"Kivela's Taxidermy",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "taxidermist",
+        "mfg"
+    ]
+},
+  "bbox": [-112.52712,46.013362,-112.52712,46.013362],
+  "geometry": {"coordinates":[-112.52712,46.013362],"type":"Point"}
+}

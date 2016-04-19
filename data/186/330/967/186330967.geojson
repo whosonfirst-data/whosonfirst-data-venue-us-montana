@@ -1,0 +1,68 @@
+{
+  "id": 186330967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.041154,45.681206,-111.041154,45.681206",
+    "geom:latitude":45.681206,
+    "geom:longitude":-111.041154,
+    "iso:country":"US",
+    "sg:address":"220 W Lamme St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 3490",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "machine",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wo7ikJ3rOV73IgJCi1NmX_45.681206_-111.041154@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd7c0758250a57c45f2a2b2d47c8f94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":186330967
+        }
+    ],
+    "wof:id":186330967,
+    "wof:lastmodified":1449051719,
+    "wof:name":"IBM",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "business"
+    ]
+},
+  "bbox": [-111.041154,45.681206,-111.041154,45.681206],
+  "geometry": {"coordinates":[-111.041154,45.681206],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186409435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.524291,45.999057,-112.524291,45.999057",
+    "geom:latitude":45.999057,
+    "geom:longitude":-112.524291,
+    "iso:country":"US",
+    "sg:address":"1415 Utah Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 8520",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Uc8qp9NlZiwBiBZBej6P_45.999057_-112.524291@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47766259fccf1be075e229728ba1c2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186409435
+        }
+    ],
+    "wof:id":186409435,
+    "wof:lastmodified":1449051480,
+    "wof:name":"Dowland Auto Repair",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.524291,45.999057,-112.524291,45.999057],
+  "geometry": {"coordinates":[-112.524291,45.999057],"type":"Point"}
+}

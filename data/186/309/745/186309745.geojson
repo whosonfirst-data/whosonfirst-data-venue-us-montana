@@ -1,0 +1,77 @@
+{
+  "id": 186309745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576232,45.75305,-108.576232,45.75305",
+    "geom:latitude":45.75305,
+    "geom:longitude":-108.576232,
+    "iso:country":"US",
+    "sg:address":"960 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 3330",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iM4j29nEHS63BfK8AuJc8_45.753050_-108.576232@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e3fcdf0b53e98c07cff23eba4c657b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186309745
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186309745
+        }
+    ],
+    "wof:id":186309745,
+    "wof:lastmodified":1449050993,
+    "wof:name":"Wireless Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [-108.576232,45.75305,-108.576232,45.75305],
+  "geometry": {"coordinates":[-108.576232,45.75305],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 185713287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.306562,47.499539,-111.306562,47.499539",
+    "geom:latitude":47.499539,
+    "geom:longitude":-111.306562,
+    "iso:country":"US",
+    "sg:address":"701 River Dr S",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 453 1443",
+    "sg:postcode":"59405",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972763,
+        102085113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M82KhlHseDv5ZVTVbLQPO_47.499539_-111.306562@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f25c48bb71311529b6f5365d1b73810",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085113,
+            "locality_id":85972763,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185713287
+        }
+    ],
+    "wof:id":185713287,
+    "wof:lastmodified":1449008066,
+    "wof:name":"K-D Moving Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-111.306562,47.499539,-111.306562,47.499539],
+  "geometry": {"coordinates":[-111.306562,47.499539],"type":"Point"}
+}

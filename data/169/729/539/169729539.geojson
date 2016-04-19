@@ -1,0 +1,70 @@
+{
+  "id": 169729539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.57603,45.756651,-108.57603,45.756651",
+    "geom:latitude":45.756651,
+    "geom:longitude":-108.57603,
+    "iso:country":"US",
+    "sg:address":"751 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2193",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Azs0ul3GXzBDHu4eauWIH_45.756651_-108.576030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e3e02cfa1eb09d1be67307449469df8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":169729539
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":169729539
+        }
+    ],
+    "wof:id":169729539,
+    "wof:lastmodified":1449034350,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-108.57603,45.756651,-108.57603,45.756651],
+  "geometry": {"coordinates":[-108.57603,45.756651],"type":"Point"}
+}

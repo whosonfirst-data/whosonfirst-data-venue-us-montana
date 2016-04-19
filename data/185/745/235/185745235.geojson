@@ -1,0 +1,68 @@
+{
+  "id": 185745235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.510803,45.991161,-112.510803,45.991161",
+    "geom:latitude":45.991161,
+    "geom:longitude":-112.510803,
+    "iso:country":"US",
+    "sg:address":"2210 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 2401",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0senvGMkNF0No1Gqm9BSCc_45.991161_-112.510803@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62bdac9bc88a8432977b185ed595de7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185745235
+        }
+    ],
+    "wof:id":185745235,
+    "wof:lastmodified":1449008122,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [-112.510803,45.991161,-112.510803,45.991161],
+  "geometry": {"coordinates":[-112.510803,45.991161],"type":"Point"}
+}

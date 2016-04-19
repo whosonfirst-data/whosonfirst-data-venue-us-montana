@@ -1,0 +1,68 @@
+{
+  "id": 185785449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.04679,46.822332,-114.04679,46.822332",
+    "geom:latitude":46.822332,
+    "geom:longitude":-114.04679,
+    "iso:country":"US",
+    "sg:address":"103 Shelby Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 5762",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qmvTAiTPwJKjPV2GhVYdu_46.822332_-114.046790@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2aae180e4314e1280809b72c5591a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185785449
+        }
+    ],
+    "wof:id":185785449,
+    "wof:lastmodified":1449007959,
+    "wof:name":"Kindermusik",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [-114.04679,46.822332,-114.04679,46.822332],
+  "geometry": {"coordinates":[-114.04679,46.822332],"type":"Point"}
+}

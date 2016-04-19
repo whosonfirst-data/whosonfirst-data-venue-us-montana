@@ -1,0 +1,72 @@
+{
+  "id": 185817981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.014651,46.850613,-114.014651,46.850613",
+    "geom:latitude":46.850613,
+    "geom:longitude":-114.014651,
+    "iso:country":"US",
+    "sg:address":"1019 W Central Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 3155",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H3c2a59TAOarNIhugvaGd_46.850613_-114.014651@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a8d1c6f91ee7d140c3177af62114476",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185817981
+        }
+    ],
+    "wof:id":185817981,
+    "wof:lastmodified":1449007907,
+    "wof:name":"Safelite Autoglass",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [-114.014651,46.850613,-114.014651,46.850613],
+  "geometry": {"coordinates":[-114.014651,46.850613],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 186364981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.469747,45.837669,-108.469747,45.837669",
+    "geom:latitude":45.837669,
+    "geom:longitude":-108.469747,
+    "iso:country":"US",
+    "sg:address":"2212 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 0014",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "wrecker",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3onzJQarXbG8Aj4YRLZy0Y_45.837669_-108.469747@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1793b6389232b33d159bbd97694d5e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":186364981
+        }
+    ],
+    "wof:id":186364981,
+    "wof:lastmodified":1449051892,
+    "wof:name":"Interstate Wrecker Service",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker",
+        "general"
+    ]
+},
+  "bbox": [-108.469747,45.837669,-108.469747,45.837669],
+  "geometry": {"coordinates":[-108.469747,45.837669],"type":"Point"}
+}

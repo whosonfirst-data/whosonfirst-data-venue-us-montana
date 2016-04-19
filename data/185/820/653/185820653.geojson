@@ -1,0 +1,76 @@
+{
+  "id": 185820653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.59009,45.779743,-108.59009,45.779743",
+    "geom:latitude":45.779743,
+    "geom:longitude":-108.59009,
+    "iso:country":"US",
+    "sg:address":"2924 Lynwood Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 7802",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AbEOzqogiRQBG3kNHC1dO_45.779743_-108.590090@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e77f52eba70d3b53dfe6c778e9c61587",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185820653
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185820653
+        }
+    ],
+    "wof:id":185820653,
+    "wof:lastmodified":1449007461,
+    "wof:name":"Apex Masonry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-108.59009,45.779743,-108.59009,45.779743],
+  "geometry": {"coordinates":[-108.59009,45.779743],"type":"Point"}
+}

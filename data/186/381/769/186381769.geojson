@@ -1,0 +1,67 @@
+{
+  "id": 186381769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.520627,45.793387,-108.520627,45.793387",
+    "geom:latitude":45.793387,
+    "geom:longitude":-108.520627,
+    "iso:country":"US",
+    "sg:address":"1232 N 30th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 238 6190",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xSfFZcijI0sIFUObnKjaI_45.793387_-108.520627@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e30a4492bd37c20df810a8ab04728d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":186381769
+        }
+    ],
+    "wof:id":186381769,
+    "wof:lastmodified":1449050468,
+    "wof:name":"Pediatric Cardiology",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-108.520627,45.793387,-108.520627,45.793387],
+  "geometry": {"coordinates":[-108.520627,45.793387],"type":"Point"}
+}

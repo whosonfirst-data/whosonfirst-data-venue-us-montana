@@ -1,0 +1,66 @@
+{
+  "id": 169849779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.059602,45.71639,-111.059602,45.71639",
+    "geom:latitude":45.71639,
+    "geom:longitude":-111.059602,
+    "iso:country":"US",
+    "sg:address":"1103 Reeves Rd E",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 4650",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TFlG6z6zetOeb2kCNSPBg_45.716390_-111.059602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7109c01259dcc6a1a6ee1c71380c171f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891695,
+            "region_id":85688617,
+            "venue_id":169849779
+        }
+    ],
+    "wof:id":169849779,
+    "wof:lastmodified":1449033297,
+    "wof:name":"Moos Family Chiropractic",
+    "wof:parent_id":85891695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-111.059602,45.71639,-111.059602,45.71639],
+  "geometry": {"coordinates":[-111.059602,45.71639],"type":"Point"}
+}

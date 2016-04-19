@@ -1,0 +1,68 @@
+{
+  "id": 186197197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.007492,46.845976,-114.007492,46.845976",
+    "geom:latitude":46.845976,
+    "geom:longitude":-114.007492,
+    "iso:country":"US",
+    "sg:address":"629 Fairview Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 8554",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jeqLNgOPHBStK2h557uRn_46.845976_-114.007492@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab6c6a0749b8c9ef709a487ba3652cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186197197
+        }
+    ],
+    "wof:id":186197197,
+    "wof:lastmodified":1449052678,
+    "wof:name":"Bills Dental Lab",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-114.007492,46.845976,-114.007492,46.845976],
+  "geometry": {"coordinates":[-114.007492,46.845976],"type":"Point"}
+}

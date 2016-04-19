@@ -1,0 +1,75 @@
+{
+  "id": 186056101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.484298,45.827414,-108.484298,45.827414",
+    "geom:latitude":45.827414,
+    "geom:longitude":-108.484298,
+    "iso:country":"US",
+    "sg:address":"19 Wicks Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 9800",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "miscellaneous"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mEffCSVPGiKaU5JzVXJLW_45.827414_-108.484298@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52958987ffa3d07da6943dbc48accdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186056101
+        }
+    ],
+    "wof:id":186056101,
+    "wof:lastmodified":1449051140,
+    "wof:name":"Homestead Self Storage LLC",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "miscellaneous"
+    ]
+},
+  "bbox": [-108.484298,45.827414,-108.484298,45.827414],
+  "geometry": {"coordinates":[-108.484298,45.827414],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186365829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.724096,46.396142,-112.724096,46.396142",
+    "geom:latitude":46.396142,
+    "geom:longitude":-112.724096,
+    "iso:country":"US",
+    "sg:address":"820 Montana Ave",
+    "sg:city":"Deer Lodge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 846 2007",
+    "sg:postcode":"59722",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972845,
+        102085093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qwe1ptC6ef0FRxgKWEAbR_46.396142_-112.724096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a53ce481165fb3e849d7e9cd45f20824",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085093,
+            "locality_id":85972845,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186365829
+        }
+    ],
+    "wof:id":186365829,
+    "wof:lastmodified":1449050845,
+    "wof:name":"Ryan Plumbing & Heating Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-112.724096,46.396142,-112.724096,46.396142],
+  "geometry": {"coordinates":[-112.724096,46.396142],"type":"Point"}
+}

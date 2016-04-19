@@ -1,0 +1,68 @@
+{
+  "id": 186321199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.339779,45.953594,-108.339779,45.953594",
+    "geom:latitude":45.953594,
+    "geom:longitude":-108.339779,
+    "iso:country":"US",
+    "sg:address":"5704 Meadowmist Dr",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 5060",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WzWPXUsXgJdJZwfP9LIes_45.953594_-108.339779@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e67dc9f6e0a11e5a8ddc21d9bdda2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186321199
+        }
+    ],
+    "wof:id":186321199,
+    "wof:lastmodified":1449050325,
+    "wof:name":"Diamond Directional Services",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-108.339779,45.953594,-108.339779,45.953594],
+  "geometry": {"coordinates":[-108.339779,45.953594],"type":"Point"}
+}

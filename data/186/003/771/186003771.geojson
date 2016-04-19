@@ -1,0 +1,66 @@
+{
+  "id": 186003771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.560196,45.762609,-108.560196,45.762609",
+    "geom:latitude":45.762609,
+    "geom:longitude":-108.560196,
+    "iso:country":"US",
+    "sg:address":"1705 Monad Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8805",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jbPU9UX0LWzpXQlGZyFnZ_45.762609_-108.560196@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11cc28b902e2e6cbab5a2e2162acf73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186003771
+        }
+    ],
+    "wof:id":186003771,
+    "wof:lastmodified":1449052818,
+    "wof:name":"MET Special Transit",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [-108.560196,45.762609,-108.560196,45.762609],
+  "geometry": {"coordinates":[-108.560196,45.762609],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186081119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.01631,45.677814,-111.01631,45.677814",
+    "geom:latitude":45.677814,
+    "geom:longitude":-111.01631,
+    "iso:country":"US",
+    "sg:address":"1401 E Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 5451",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EgSRecH5XvVlka2JqLQ80_45.677814_-111.016310@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5af1d9ce990b58cfc478137f88c7e7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891715,
+            "region_id":85688617,
+            "venue_id":186081119
+        }
+    ],
+    "wof:id":186081119,
+    "wof:lastmodified":1449051213,
+    "wof:name":"Auto Stop",
+    "wof:parent_id":85891715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-111.01631,45.677814,-111.01631,45.677814],
+  "geometry": {"coordinates":[-111.01631,45.677814],"type":"Point"}
+}

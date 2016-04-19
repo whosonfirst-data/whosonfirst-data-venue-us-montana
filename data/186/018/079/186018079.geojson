@@ -1,0 +1,87 @@
+{
+  "id": 186018079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.507789,45.956702,-112.507789,45.956702",
+    "geom:latitude":45.956702,
+    "geom:longitude":-112.507789,
+    "iso:country":"US",
+    "sg:address":"4602 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 6694",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "charter",
+        "leasing",
+        "fueling",
+        "chart",
+        "air",
+        "aircraft",
+        "base",
+        "operator",
+        "fixed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75Ma4aE7fTjILkHPX433rs_45.956702_-112.507789@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e8c6e0c7e2e58da6a5b365b1e0ca774",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":186018079
+        }
+    ],
+    "wof:id":186018079,
+    "wof:lastmodified":1449051716,
+    "wof:name":"Butte Aviation Inc",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charter",
+        "leasing",
+        "fueling",
+        "chart",
+        "air",
+        "aircraft",
+        "base",
+        "operator",
+        "fixed"
+    ]
+},
+  "bbox": [-112.507789,45.956702,-112.507789,45.956702],
+  "geometry": {"coordinates":[-112.507789,45.956702],"type":"Point"}
+}

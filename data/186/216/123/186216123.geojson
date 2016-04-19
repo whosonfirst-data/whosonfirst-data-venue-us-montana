@@ -1,0 +1,66 @@
+{
+  "id": 186216123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.513682,45.773508,-108.513682,45.773508",
+    "geom:latitude":45.773508,
+    "geom:longitude":-108.513682,
+    "iso:country":"US",
+    "sg:address":"120 S 37th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 5634",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45HnyzntxVBaUlowU0EXLM_45.773508_-108.513682@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be77eb2308bc75705e0f036b8573b062",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":186216123
+        }
+    ],
+    "wof:id":186216123,
+    "wof:lastmodified":1449052719,
+    "wof:name":"Shafers Auto Inc",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-108.513682,45.773508,-108.513682,45.773508],
+  "geometry": {"coordinates":[-108.513682,45.773508],"type":"Point"}
+}

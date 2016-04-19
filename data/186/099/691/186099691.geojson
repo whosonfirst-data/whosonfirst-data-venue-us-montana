@@ -1,0 +1,67 @@
+{
+  "id": 186099691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.532624,45.790833,-108.532624,45.790833",
+    "geom:latitude":45.790833,
+    "geom:longitude":-108.532624,
+    "iso:country":"US",
+    "sg:address":"620 Beverly Hill Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 7555",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kzOewanD0c4zCDrD4mAtt_45.790833_-108.532624@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6bfa62e315ff575c91bc0372cc45787",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":186099691
+        }
+    ],
+    "wof:id":186099691,
+    "wof:lastmodified":1449052116,
+    "wof:name":"JBM-Fisher Plumbing",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-108.532624,45.790833,-108.532624,45.790833],
+  "geometry": {"coordinates":[-108.532624,45.790833],"type":"Point"}
+}

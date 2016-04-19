@@ -1,0 +1,68 @@
+{
+  "id": 186386227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.314503,45.85638,-108.314503,45.85638",
+    "geom:latitude":45.85638,
+    "geom:longitude":-108.314503,
+    "iso:country":"US",
+    "sg:address":"3327 White Buffalo Rd",
+    "sg:city":"Huntley",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 348 2448",
+    "sg:postcode":"59037",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t2bcTxzvDJYsUym10HDxf_45.856380_-108.314503@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9ac29fc36c4a2f89e289649013bcf4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186386227
+        }
+    ],
+    "wof:id":186386227,
+    "wof:lastmodified":1449051780,
+    "wof:name":"Triple L Transportation",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-108.314503,45.85638,-108.314503,45.85638],
+  "geometry": {"coordinates":[-108.314503,45.85638],"type":"Point"}
+}

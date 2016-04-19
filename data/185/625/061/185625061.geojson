@@ -1,0 +1,67 @@
+{
+  "id": 185625061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.487612,45.789547,-108.487612,45.789547",
+    "geom:latitude":45.789547,
+    "geom:longitude":-108.487612,
+    "iso:country":"US",
+    "sg:address":"1400 Montana Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 9886",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d7M3AZuzskWI9LkwvkbBo_45.789547_-108.487612@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aaca8a31200437e7ff453efd54812c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185625061
+        }
+    ],
+    "wof:id":185625061,
+    "wof:lastmodified":1449008239,
+    "wof:name":"Backwoods Auto Sales",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-108.487612,45.789547,-108.487612,45.789547],
+  "geometry": {"coordinates":[-108.487612,45.789547],"type":"Point"}
+}

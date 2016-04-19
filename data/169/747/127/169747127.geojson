@@ -1,0 +1,68 @@
+{
+  "id": 169747127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-104.686292,47.131285,-104.686292,47.131285",
+    "geom:latitude":47.131285,
+    "geom:longitude":-104.686292,
+    "iso:country":"US",
+    "sg:address":"440 Colorado Blvd",
+    "sg:city":"Glendive",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 377 5291",
+    "sg:postcode":"59330",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dept",
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972825,
+        102085189,
+        85802737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TdaajsdlFDJFgVR4Nmckc_47.131285_-104.686292@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52da8411f090089eed321d1e534f6195",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085189,
+            "locality_id":85972825,
+            "neighbourhood_id":85802737,
+            "region_id":85688617,
+            "venue_id":169747127
+        }
+    ],
+    "wof:id":169747127,
+    "wof:lastmodified":1449033291,
+    "wof:name":"Dawson County Sheriffs Office",
+    "wof:parent_id":85802737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "sheriff"
+    ]
+},
+  "bbox": [-104.686292,47.131285,-104.686292,47.131285],
+  "geometry": {"coordinates":[-104.686292,47.131285],"type":"Point"}
+}

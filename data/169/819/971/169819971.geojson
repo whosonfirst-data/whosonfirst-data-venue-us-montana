@@ -1,0 +1,71 @@
+{
+  "id": 169819971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.84338,46.411832,-105.84338,46.411832",
+    "geom:latitude":46.411832,
+    "geom:longitude":-105.84338,
+    "iso:country":"US",
+    "sg:address":"1411 Leighton Blvd",
+    "sg:city":"Miles City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 234 3459",
+    "sg:postcode":"59301",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972691,
+        102085197
+    ],
+    "wof:brand_id":420574177,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZOKvBCruAzmkWjgy3L3Wo_46.411832_-105.843380@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd99763281c4f930256ad2840f301789",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085197,
+            "locality_id":85972691,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169819971
+        }
+    ],
+    "wof:id":169819971,
+    "wof:lastmodified":1457208603,
+    "wof:name":"Alcoholics Anonymous",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -105.84338,
+    46.411832,
+    -105.84338,
+    46.411832
+],
+  "geometry": {"coordinates":[-105.84338,46.411832],"type":"Point"}
+}

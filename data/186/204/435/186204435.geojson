@@ -1,0 +1,67 @@
+{
+  "id": 186204435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.01518,45.671832,-111.01518,45.671832",
+    "geom:latitude":45.671832,
+    "geom:longitude":-111.01518,
+    "iso:country":"US",
+    "sg:address":"1532 Ellis St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 4501",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IUOaMW6KC8De0HkSz7QVC_45.671832_-111.015180@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4146c2d964b89ad03adcf38fe425bcfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186204435
+        }
+    ],
+    "wof:id":186204435,
+    "wof:lastmodified":1449053101,
+    "wof:name":"Bozeman Physical Therapy Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-111.01518,45.671832,-111.01518,45.671832],
+  "geometry": {"coordinates":[-111.01518,45.671832],"type":"Point"}
+}

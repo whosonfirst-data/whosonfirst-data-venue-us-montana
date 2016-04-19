@@ -1,0 +1,79 @@
+{
+  "id": 186355477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576051,45.759937,-108.576051,45.759937",
+    "geom:latitude":45.759937,
+    "geom:longitude":-108.576051,
+    "iso:country":"US",
+    "sg:address":"505 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9300",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "sg:website":"www.carpetone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eFhfoNvuXLmt8VV6M1Wy1_45.759937_-108.576051@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"148d6d25e0d47baa70b518dac0638f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186355477
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186355477
+        }
+    ],
+    "wof:id":186355477,
+    "wof:lastmodified":1449051136,
+    "wof:name":"Carpet One",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [-108.576051,45.759937,-108.576051,45.759937],
+  "geometry": {"coordinates":[-108.576051,45.759937],"type":"Point"}
+}

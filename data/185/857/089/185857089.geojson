@@ -1,0 +1,69 @@
+{
+  "id": 185857089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.420182,47.061483,-109.420182,47.061483",
+    "geom:latitude":47.061483,
+    "geom:longitude":-109.420182,
+    "iso:country":"US",
+    "sg:address":"811 3rd Ave S",
+    "sg:city":"Lewistown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 366 8294",
+    "sg:postcode":"59457",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972863,
+        102085207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OhhEWgvYL5RGfSYa9GJIY_47.061483_-109.420182@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5af4ebc4b311b5b652aa3cc11954ee41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085207,
+            "locality_id":85972863,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185857089
+        }
+    ],
+    "wof:id":185857089,
+    "wof:lastmodified":1449007642,
+    "wof:name":"Lewistown Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-109.420182,47.061483,-109.420182,47.061483],
+  "geometry": {"coordinates":[-109.420182,47.061483],"type":"Point"}
+}

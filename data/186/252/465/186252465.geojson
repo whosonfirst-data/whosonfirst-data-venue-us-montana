@@ -1,0 +1,68 @@
+{
+  "id": 186252465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.477279,45.828923,-108.477279,45.828923",
+    "geom:latitude":45.828923,
+    "geom:longitude":-108.477279,
+    "iso:country":"US",
+    "sg:address":"333 Stillwater Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 861 9999",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GbrhXhmppRMtbfYairTu1_45.828923_-108.477279@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28c15291336357ecad23f751c3393cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186252465
+        }
+    ],
+    "wof:id":186252465,
+    "wof:lastmodified":1449050661,
+    "wof:name":"Tiger Construction",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-108.477279,45.828923,-108.477279,45.828923],
+  "geometry": {"coordinates":[-108.477279,45.828923],"type":"Point"}
+}

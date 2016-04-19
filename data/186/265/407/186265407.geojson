@@ -1,0 +1,70 @@
+{
+  "id": 186265407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.077654,46.863145,-114.077654,46.863145",
+    "geom:latitude":46.863145,
+    "geom:longitude":-114.077654,
+    "iso:country":"US",
+    "sg:address":"3909 S 7th St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 4836",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cpTc6LB3R3FQypFFayYtb_46.863145_-114.077654@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4472747443df444a04892f0aef98e083",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186265407
+        }
+    ],
+    "wof:id":186265407,
+    "wof:lastmodified":1449051304,
+    "wof:name":"Petersen Trucking",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-114.077654,46.863145,-114.077654,46.863145],
+  "geometry": {"coordinates":[-114.077654,46.863145],"type":"Point"}
+}

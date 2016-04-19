@@ -1,0 +1,68 @@
+{
+  "id": 185999811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.4617,45.841807,-108.4617,45.841807",
+    "geom:latitude":45.841807,
+    "geom:longitude":-108.4617,
+    "iso:country":"US",
+    "sg:address":"822 Mary St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8686",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "transmission",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H0hmMzE69xO1xjyr8YHdU_45.841807_-108.461700@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1757dfd1f74d703d33edd6fe4b9988c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185999811
+        }
+    ],
+    "wof:id":185999811,
+    "wof:lastmodified":1449008024,
+    "wof:name":"Neagle Transmission Repairs",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive"
+    ]
+},
+  "bbox": [-108.4617,45.841807,-108.4617,45.841807],
+  "geometry": {"coordinates":[-108.4617,45.841807],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169703531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.037324,45.688489,-111.037324,45.688489",
+    "geom:latitude":45.688489,
+    "geom:longitude":-111.037324,
+    "iso:country":"US",
+    "sg:address":"807 N Tracy Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 2434",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iH9sI2KL2kpHbQMocI4Kn_45.688489_-111.037324@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33315e1dc89318b243fcabaeeeebf104",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169703531
+        }
+    ],
+    "wof:id":169703531,
+    "wof:lastmodified":1449033687,
+    "wof:name":"Galavan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [-111.037324,45.688489,-111.037324,45.688489],
+  "geometry": {"coordinates":[-111.037324,45.688489],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186150941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.434764,45.803777,-108.434764,45.803777",
+    "geom:latitude":45.803777,
+    "geom:longitude":-108.434764,
+    "iso:country":"US",
+    "sg:address":"1912 Old Hardin Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 2677",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hAzkbkBS90KfSAlTda37y_45.803777_-108.434764@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe69e4d5f29d3867c340f760ff810e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186150941
+        }
+    ],
+    "wof:id":186150941,
+    "wof:lastmodified":1449050291,
+    "wof:name":"Steiner Leasing",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [-108.434764,45.803777,-108.434764,45.803777],
+  "geometry": {"coordinates":[-108.434764,45.803777],"type":"Point"}
+}

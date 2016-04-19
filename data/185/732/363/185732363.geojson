@@ -1,0 +1,66 @@
+{
+  "id": 185732363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.00187,46.876841,-114.00187,46.876841",
+    "geom:latitude":46.876841,
+    "geom:longitude":-114.00187,
+    "iso:country":"US",
+    "sg:address":"610 W Spruce St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 6472",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZdK5pmRS8Qb8RpWMyt8iF_46.876841_-114.001870@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29a189c6b0415c76c97ff8f3807ec730",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":185732363
+        }
+    ],
+    "wof:id":185732363,
+    "wof:lastmodified":1449008277,
+    "wof:name":"D N Gillespie MD",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-114.00187,46.876841,-114.00187,46.876841],
+  "geometry": {"coordinates":[-114.00187,46.876841],"type":"Point"}
+}

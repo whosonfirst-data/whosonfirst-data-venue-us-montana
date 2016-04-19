@@ -1,0 +1,67 @@
+{
+  "id": 186170207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-105.201667,48.112916,-105.201667,48.112916",
+    "geom:latitude":48.112916,
+    "geom:longitude":-105.201667,
+    "iso:country":"US",
+    "sg:address":"301 F St W",
+    "sg:city":"Poplar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 768 3861",
+    "sg:postcode":"59255",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972873,
+        102085139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7blqwcbXKHvHN8KpA6h0jb_48.112916_-105.201667@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a73fc456dbdc2e2cc1695ff87dc96f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085139,
+            "locality_id":85972873,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186170207
+        }
+    ],
+    "wof:id":186170207,
+    "wof:lastmodified":1449050489,
+    "wof:name":"Dave's Auto Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-105.201667,48.112916,-105.201667,48.112916],
+  "geometry": {"coordinates":[-105.201667,48.112916],"type":"Point"}
+}

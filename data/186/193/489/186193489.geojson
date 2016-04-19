@@ -1,0 +1,66 @@
+{
+  "id": 186193489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.277281,48.21809,-114.277281,48.21809",
+    "geom:latitude":48.21809,
+    "geom:longitude":-114.277281,
+    "iso:country":"US",
+    "sg:address":"2070 US Hwy 2 E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 6936",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xGKpp7PjYLj4pk3vrxdNL_48.218090_-114.277281@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef53855f1ce9b1fc17236be450bdb34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186193489
+        }
+    ],
+    "wof:id":186193489,
+    "wof:lastmodified":1449050847,
+    "wof:name":"Auto Body Repair",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [-114.277281,48.21809,-114.277281,48.21809],
+  "geometry": {"coordinates":[-114.277281,48.21809],"type":"Point"}
+}

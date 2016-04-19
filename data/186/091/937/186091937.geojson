@@ -1,0 +1,67 @@
+{
+  "id": 186091937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.399706,45.818,-108.399706,45.818",
+    "geom:latitude":45.818,
+    "geom:longitude":-108.399706,
+    "iso:country":"US",
+    "sg:address":"3329 Driftwood Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 1460",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.lockwoodfire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DoZ3YyFVWD5obOvXr6Ojh_45.818000_-108.399706@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed9d2316a8523bf89477b88ec57dc060",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186091937
+        }
+    ],
+    "wof:id":186091937,
+    "wof:lastmodified":1449050506,
+    "wof:name":"Lockwood Fire Dept",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-108.399706,45.818,-108.399706,45.818],
+  "geometry": {"coordinates":[-108.399706,45.818],"type":"Point"}
+}

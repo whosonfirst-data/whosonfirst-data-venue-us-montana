@@ -1,0 +1,68 @@
+{
+  "id": 186164321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.014686,46.855322,-114.014686,46.855322",
+    "geom:latitude":46.855322,
+    "geom:longitude":-114.014686,
+    "iso:country":"US",
+    "sg:address":"1620 Regent St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 4289",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mZbjjcHG1ftUd9poSO2uP_46.855322_-114.014686@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b86a0151d31f61ce74b40dad6265a881",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186164321
+        }
+    ],
+    "wof:id":186164321,
+    "wof:lastmodified":1449050569,
+    "wof:name":"Precision Milled Ceramics",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-114.014686,46.855322,-114.014686,46.855322],
+  "geometry": {"coordinates":[-114.014686,46.855322],"type":"Point"}
+}

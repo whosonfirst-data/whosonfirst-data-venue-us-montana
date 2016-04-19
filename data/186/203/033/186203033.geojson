@@ -1,0 +1,70 @@
+{
+  "id": 186203033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.5094,45.817442,-108.5094,45.817442",
+    "geom:latitude":45.817442,
+    "geom:longitude":-108.5094,
+    "iso:country":"US",
+    "sg:address":"947 Senora Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 8405",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x5LPMjfBTKE3okGvXdpNO_45.817442_-108.509400@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cde28e7ae211559e05dfbf1a20c68e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186203033
+        }
+    ],
+    "wof:id":186203033,
+    "wof:lastmodified":1449051565,
+    "wof:name":"Expedite Cartage Inc",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-108.5094,45.817442,-108.5094,45.817442],
+  "geometry": {"coordinates":[-108.5094,45.817442],"type":"Point"}
+}

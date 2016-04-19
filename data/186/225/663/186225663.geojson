@@ -1,0 +1,68 @@
+{
+  "id": 186225663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.223432,48.221499,-114.223432,48.221499",
+    "geom:latitude":48.221499,
+    "geom:longitude":-114.223432,
+    "iso:country":"US",
+    "sg:address":"296 Amdahl Ln",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 6470",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QsCeyKVE8rBwDwA9Irvgp_48.221499_-114.223432@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26d87282f535cd5750b21983beb772ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186225663
+        }
+    ],
+    "wof:id":186225663,
+    "wof:lastmodified":1449051214,
+    "wof:name":"Wagoner Excavation",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [-114.223432,48.221499,-114.223432,48.221499],
+  "geometry": {"coordinates":[-114.223432,48.221499],"type":"Point"}
+}

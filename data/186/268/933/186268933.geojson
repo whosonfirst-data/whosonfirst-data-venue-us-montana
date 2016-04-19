@@ -1,0 +1,68 @@
+{
+  "id": 186268933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.583828,45.772922,-108.583828,45.772922",
+    "geom:latitude":45.772922,
+    "geom:longitude":-108.583828,
+    "iso:country":"US",
+    "sg:address":"2615 Cook Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 0333",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B1lvFkESmMW5IhZmTTCJh_45.772922_-108.583828@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4dac2bc62ea6a421cbdb0caf008eeda4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186268933
+        }
+    ],
+    "wof:id":186268933,
+    "wof:lastmodified":1449051904,
+    "wof:name":"Sun Lite Electric Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.583828,45.772922,-108.583828,45.772922],
+  "geometry": {"coordinates":[-108.583828,45.772922],"type":"Point"}
+}

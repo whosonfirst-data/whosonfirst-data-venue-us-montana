@@ -1,0 +1,70 @@
+{
+  "id": 185996729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.40476,48.247578,-114.40476,48.247578",
+    "geom:latitude":48.247578,
+    "geom:longitude":-114.40476,
+    "iso:country":"US",
+    "sg:address":"261 Coclet Ln",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 7048",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AS2nnoTfvE2nb2KoqVOSE_48.247578_-114.404760@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14253af26a19c6252e508dade7022b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185996729
+        }
+    ],
+    "wof:id":185996729,
+    "wof:lastmodified":1449007044,
+    "wof:name":"Schrepfer Trucking",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-114.40476,48.247578,-114.40476,48.247578],
+  "geometry": {"coordinates":[-114.40476,48.247578],"type":"Point"}
+}

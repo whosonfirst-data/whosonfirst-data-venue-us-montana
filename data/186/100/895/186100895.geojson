@@ -1,0 +1,66 @@
+{
+  "id": 186100895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.524073,46.002758,-112.524073,46.002758",
+    "geom:latitude":46.002758,
+    "geom:longitude":-112.524073,
+    "iso:country":"US",
+    "sg:address":"1102 E Front St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 3603",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40T2rLJAZu8RBAbuk6tAZV_46.002758_-112.524073@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f85f96afa3b2f31ea9bf1cd93ae79958",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186100895
+        }
+    ],
+    "wof:id":186100895,
+    "wof:lastmodified":1449052335,
+    "wof:name":"Berge Automotive",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-112.524073,46.002758,-112.524073,46.002758],
+  "geometry": {"coordinates":[-112.524073,46.002758],"type":"Point"}
+}

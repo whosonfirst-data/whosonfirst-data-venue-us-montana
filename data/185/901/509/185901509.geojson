@@ -1,0 +1,68 @@
+{
+  "id": 185901509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.565424,45.77532,-108.565424,45.77532",
+    "geom:latitude":45.77532,
+    "geom:longitude":-108.565424,
+    "iso:country":"US",
+    "sg:address":"436 Glee Pl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 0864",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KAlWWFL42A0aakLoNWtpl_45.775320_-108.565424@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68b48d20353bc417ad577322081adef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185901509
+        }
+    ],
+    "wof:id":185901509,
+    "wof:lastmodified":1449007276,
+    "wof:name":"Gmf",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [-108.565424,45.77532,-108.565424,45.77532],
+  "geometry": {"coordinates":[-108.565424,45.77532],"type":"Point"}
+}

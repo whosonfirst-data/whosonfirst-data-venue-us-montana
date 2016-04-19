@@ -1,0 +1,67 @@
+{
+  "id": 169722947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.981408,45.708055,-110.981408,45.708055",
+    "geom:latitude":45.708055,
+    "geom:longitude":-110.981408,
+    "iso:country":"US",
+    "sg:address":"4050 Bridger Canyon Rd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 9265",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "national",
+        "refuge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085133,
+        85891691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BZnCqalvlXgVYAgLGiKm4_45.708055_-110.981408@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a90b368d8ab137063e93daa79970f92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":-1,
+            "neighbourhood_id":85891691,
+            "region_id":85688617,
+            "venue_id":169722947
+        }
+    ],
+    "wof:id":169722947,
+    "wof:lastmodified":1449033849,
+    "wof:name":"Bozeman Fish Technology Center",
+    "wof:parent_id":85891691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "refuge"
+    ]
+},
+  "bbox": [-110.981408,45.708055,-110.981408,45.708055],
+  "geometry": {"coordinates":[-110.981408,45.708055],"type":"Point"}
+}

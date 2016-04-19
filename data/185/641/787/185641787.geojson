@@ -1,0 +1,67 @@
+{
+  "id": 185641787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.215528,47.500762,-111.215528,47.500762",
+    "geom:latitude":47.500762,
+    "geom:longitude":-111.215528,
+    "iso:country":"US",
+    "sg:address":"620 57th St S",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 727 5746",
+    "sg:postcode":"59405",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972763,
+        102085113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_521qevH8eDzElrwkbey7RW_47.500762_-111.215528@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b300a07b91d0eb5334ec6f9a6a17088",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085113,
+            "locality_id":85972763,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185641787
+        }
+    ],
+    "wof:id":185641787,
+    "wof:lastmodified":1449007843,
+    "wof:name":"Sinclair Oil Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-111.215528,47.500762,-111.215528,47.500762],
+  "geometry": {"coordinates":[-111.215528,47.500762],"type":"Point"}
+}

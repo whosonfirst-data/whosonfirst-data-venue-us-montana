@@ -1,0 +1,67 @@
+{
+  "id": 169852337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.879189,47.456414,-114.879189,47.456414",
+    "geom:latitude":47.456414,
+    "geom:longitude":-114.879189,
+    "iso:country":"US",
+    "sg:address":"315 E Railroad Ave",
+    "sg:city":"Plains",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 826 4004",
+    "sg:postcode":"59859",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972645,
+        102085063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gfoAPtsZVqfcwOYOSG4PO_47.456414_-114.879189@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"efab8fbb0b0881bd9d1fb6aeb6fc6514",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085063,
+            "locality_id":85972645,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169852337
+        }
+    ],
+    "wof:id":169852337,
+    "wof:lastmodified":1449035401,
+    "wof:name":"Outback Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-114.879189,47.456414,-114.879189,47.456414],
+  "geometry": {"coordinates":[-114.879189,47.456414],"type":"Point"}
+}

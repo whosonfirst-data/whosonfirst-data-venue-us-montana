@@ -1,0 +1,71 @@
+{
+  "id": 185877229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.133039,46.944532,-114.133039,46.944532",
+    "geom:latitude":46.944532,
+    "geom:longitude":-114.133039,
+    "iso:country":"US",
+    "sg:address":"9730 Derby Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 5151",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ],
+    "sg:website":"www.jimpalmertrucking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18DLWD6LKP5zsVSHWZgTDd_46.944532_-114.133039@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"121538f6b4f12142eae77dbe6970e45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":185877229
+        }
+    ],
+    "wof:id":185877229,
+    "wof:lastmodified":1449007732,
+    "wof:name":"Jim Palmer Trucking",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [-114.133039,46.944532,-114.133039,46.944532],
+  "geometry": {"coordinates":[-114.133039,46.944532],"type":"Point"}
+}

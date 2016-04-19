@@ -1,0 +1,68 @@
+{
+  "id": 169745365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.572269,45.76078,-108.572269,45.76078",
+    "geom:latitude":45.76078,
+    "geom:longitude":-108.572269,
+    "iso:country":"US",
+    "sg:address":"2115 Canyon Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5155",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yW3zZz0wPd1GmG6ozlq6k_45.760780_-108.572269@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ab74e61a179196db1ab98ce12f3ce03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169745365
+        }
+    ],
+    "wof:id":169745365,
+    "wof:lastmodified":1449035810,
+    "wof:name":"Canyon Ridge",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-108.572269,45.76078,-108.572269,45.76078],
+  "geometry": {"coordinates":[-108.572269,45.76078],"type":"Point"}
+}

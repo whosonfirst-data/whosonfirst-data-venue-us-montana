@@ -1,0 +1,68 @@
+{
+  "id": 186134521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.519146,45.771965,-108.519146,45.771965",
+    "geom:latitude":45.771965,
+    "geom:longitude":-108.519146,
+    "iso:country":"US",
+    "sg:address":"4015 1st Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 1232",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "organs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sBcab5xasS3VtbkIo81l9_45.771965_-108.519146@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83c9c8169594ab761cad4b487c046e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":186134521
+        }
+    ],
+    "wof:id":186134521,
+    "wof:lastmodified":1449052887,
+    "wof:name":"Circuit Rider",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "organs"
+    ]
+},
+  "bbox": [-108.519146,45.771965,-108.519146,45.771965],
+  "geometry": {"coordinates":[-108.519146,45.771965],"type":"Point"}
+}

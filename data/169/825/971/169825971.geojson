@@ -1,0 +1,67 @@
+{
+  "id": 169825971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.018227,45.702804,-111.018227,45.702804",
+    "geom:latitude":45.702804,
+    "geom:longitude":-111.018227,
+    "iso:country":"US",
+    "sg:address":"2011 Bridger Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 6573",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zoVZPbvtSIrpLPmx8Ge8L_45.702804_-111.018227@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf6e8527c2a8b7cd7439cfc01d907859",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169825971
+        }
+    ],
+    "wof:id":169825971,
+    "wof:lastmodified":1449032817,
+    "wof:name":"GL Henninger Elc Contracter",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-111.018227,45.702804,-111.018227,45.702804],
+  "geometry": {"coordinates":[-111.018227,45.702804],"type":"Point"}
+}

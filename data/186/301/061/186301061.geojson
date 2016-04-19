@@ -1,0 +1,68 @@
+{
+  "id": 186301061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.430075,45.801151,-108.430075,45.801151",
+    "geom:latitude":45.801151,
+    "geom:longitude":-108.430075,
+    "iso:country":"US",
+    "sg:address":"46 Lauretta Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 3601",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VRyLahcTL1aOVDzkwWTzu_45.801151_-108.430075@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f8c8fac4feec0775a3018d6f067cd802",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186301061
+        }
+    ],
+    "wof:id":186301061,
+    "wof:lastmodified":1449051083,
+    "wof:name":"J & R Auto Repair",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [-108.430075,45.801151,-108.430075,45.801151],
+  "geometry": {"coordinates":[-108.430075,45.801151],"type":"Point"}
+}

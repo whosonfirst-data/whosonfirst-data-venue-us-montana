@@ -1,0 +1,74 @@
+{
+  "id": 185674417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.574461,45.769829,-108.574461,45.769829",
+    "geom:latitude":45.769829,
+    "geom:longitude":-108.574461,
+    "iso:country":"US",
+    "sg:address":"2343 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7051",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carwash",
+        "gasoline",
+        "polishing",
+        "station",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SFLqGiVDRO0WBlVjFqt7J_45.769829_-108.574461@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"402ebba794dada89f11ed446326c7b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185674417
+        }
+    ],
+    "wof:id":185674417,
+    "wof:lastmodified":1449007803,
+    "wof:name":"Don's Car Wash",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "gasoline",
+        "polishing",
+        "station",
+        "washing"
+    ]
+},
+  "bbox": [-108.574461,45.769829,-108.574461,45.769829],
+  "geometry": {"coordinates":[-108.574461,45.769829],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 186220315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-115.350236,47.59707,-115.350236,47.59707",
+    "geom:latitude":47.59707,
+    "geom:longitude":-115.350236,
+    "iso:country":"US",
+    "sg:address":"108 Madison St",
+    "sg:city":"Thompson Falls",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 827 4399",
+    "sg:postcode":"59873",
+    "sg:province":"MT",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972641,
+        102085063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HRmeNiDIAgDbDoMq8pivf_47.597070_-115.350236@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1294f5e3f2c01ef6f3828e04a6e1730",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085063,
+            "locality_id":85972641,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186220315
+        }
+    ],
+    "wof:id":186220315,
+    "wof:lastmodified":1449052942,
+    "wof:name":"Corrections Dept-Probation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [-115.350236,47.59707,-115.350236,47.59707],
+  "geometry": {"coordinates":[-115.350236,47.59707],"type":"Point"}
+}

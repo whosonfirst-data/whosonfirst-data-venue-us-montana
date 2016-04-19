@@ -1,0 +1,67 @@
+{
+  "id": 185796251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.000939,46.859166,-114.000939,46.859166",
+    "geom:latitude":46.859166,
+    "geom:longitude":-114.000939,
+    "iso:country":"US",
+    "sg:address":"425 Blaine St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 3344",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085103,
+        85891729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UD9ViRlueo02kLP8FWPYv_46.859166_-114.000939@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6280ec5fe4a71176de8181b3396a33cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":-1,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":185796251
+        }
+    ],
+    "wof:id":185796251,
+    "wof:lastmodified":1449007373,
+    "wof:name":"Jolles Properties",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-114.000939,46.859166,-114.000939,46.859166],
+  "geometry": {"coordinates":[-114.000939,46.859166],"type":"Point"}
+}

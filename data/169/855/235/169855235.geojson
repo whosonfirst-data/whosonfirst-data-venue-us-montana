@@ -1,0 +1,70 @@
+{
+  "id": 169855235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.550551,46.008554,-112.550551,46.008554",
+    "geom:latitude":46.008554,
+    "geom:longitude":-112.550551,
+    "iso:country":"US",
+    "sg:address":"903 W Porphyry St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 9910",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4faieFVn8qKlAD4yATgoYY_46.008554_-112.550551@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66b551d83adf9c3e24cf2e63565b5c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":169855235
+        }
+    ],
+    "wof:id":169855235,
+    "wof:lastmodified":1449035109,
+    "wof:name":"Al & Ray's Body & Paint Shop",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-112.550551,46.008554,-112.550551,46.008554],
+  "geometry": {"coordinates":[-112.550551,46.008554],"type":"Point"}
+}

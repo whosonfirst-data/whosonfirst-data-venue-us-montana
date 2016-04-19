@@ -1,0 +1,68 @@
+{
+  "id": 169725953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.528189,46.013167,-112.528189,46.013167",
+    "geom:latitude":46.013167,
+    "geom:longitude":-112.528189,
+    "iso:country":"US",
+    "sg:address":"304 E Park St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 9400",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "archery",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nmdo2bcoENcXBaOf9NqWh_46.013167_-112.528189@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79459b63d8612c574cf80f1df076117f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":169725953
+        }
+    ],
+    "wof:id":169725953,
+    "wof:lastmodified":1449033495,
+    "wof:name":"Rocky Mountain Archery",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "archery",
+        "equipment"
+    ]
+},
+  "bbox": [-112.528189,46.013167,-112.528189,46.013167],
+  "geometry": {"coordinates":[-112.528189,46.013167],"type":"Point"}
+}

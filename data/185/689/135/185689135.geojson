@@ -1,0 +1,80 @@
+{
+  "id": 185689135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.597449,45.752885,-108.597449,45.752885",
+    "geom:latitude":45.752885,
+    "geom:longitude":-108.597449,
+    "iso:country":"US",
+    "sg:address":"37 Gatewood Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 7453",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "light",
+        "tube",
+        "bulb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zyzTVcJUagIoGPqj2gimy_45.752885_-108.597449@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddd3623f60131dec2ecba21a17b4690c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185689135
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185689135
+        }
+    ],
+    "wof:id":185689135,
+    "wof:lastmodified":1449007963,
+    "wof:name":"Big Sky Lighting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "light",
+        "tube",
+        "bulb"
+    ]
+},
+  "bbox": [-108.597449,45.752885,-108.597449,45.752885],
+  "geometry": {"coordinates":[-108.597449,45.752885],"type":"Point"}
+}

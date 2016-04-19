@@ -1,0 +1,66 @@
+{
+  "id": 186388023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.440101,45.806872,-108.440101,45.806872",
+    "geom:latitude":45.806872,
+    "geom:longitude":-108.440101,
+    "iso:country":"US",
+    "sg:address":"1524 Lockwood Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 5368",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jDrMhZZvnSqkcU2UMSwaC_45.806872_-108.440101@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72f70c17c3656ecf07868c4c6b85cade",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186388023
+        }
+    ],
+    "wof:id":186388023,
+    "wof:lastmodified":1449050376,
+    "wof:name":"Saft-Tow",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-108.440101,45.806872,-108.440101,45.806872],
+  "geometry": {"coordinates":[-108.440101,45.806872],"type":"Point"}
+}

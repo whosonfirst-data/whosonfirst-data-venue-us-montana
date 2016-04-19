@@ -1,0 +1,67 @@
+{
+  "id": 186459637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.51331,45.754123,-108.51331,45.754123",
+    "geom:latitude":45.754123,
+    "geom:longitude":-108.51331,
+    "iso:country":"US",
+    "sg:address":"3921 Chamberlain Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 8368",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_246nO32e0jv4oMsI3lzlyy_45.754123_-108.513310@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bd5de065c9080e65fa8ba8d76c2cdc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":186459637
+        }
+    ],
+    "wof:id":186459637,
+    "wof:lastmodified":1449051462,
+    "wof:name":"Caton Glass",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [-108.51331,45.754123,-108.51331,45.754123],
+  "geometry": {"coordinates":[-108.51331,45.754123],"type":"Point"}
+}

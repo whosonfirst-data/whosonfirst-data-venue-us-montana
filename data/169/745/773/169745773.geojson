@@ -1,0 +1,65 @@
+{
+  "id": 169745773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939807,48.181621,-111.939807,48.181621",
+    "geom:latitude":48.181621,
+    "geom:longitude":-111.939807,
+    "iso:country":"US",
+    "sg:address":"307 N Main St",
+    "sg:city":"Conrad",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 278 3236",
+    "sg:postcode":"59425",
+    "sg:province":"MT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972687,
+        102083907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_559K6fWUG16JsWWOpicltC_48.181621_-111.939807@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3e09a511fc99342d988703f78baf255",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083907,
+            "locality_id":85972687,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169745773
+        }
+    ],
+    "wof:id":169745773,
+    "wof:lastmodified":1449035810,
+    "wof:name":"Conrad Veterinary Hospital Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-111.939807,48.181621,-111.939807,48.181621],
+  "geometry": {"coordinates":[-111.939807,48.181621],"type":"Point"}
+}

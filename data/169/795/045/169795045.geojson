@@ -1,0 +1,68 @@
+{
+  "id": 169795045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.540948,45.772889,-108.540948,45.772889",
+    "geom:latitude":45.772889,
+    "geom:longitude":-108.540948,
+    "iso:country":"US",
+    "sg:address":"218 10th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 9394",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ERolpLAe8wG3jKsYpclzW_45.772889_-108.540948@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfaeac3b4c7b1d00a988a9ab93336720",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169795045
+        }
+    ],
+    "wof:id":169795045,
+    "wof:lastmodified":1449034643,
+    "wof:name":"Billings Electric",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.540948,45.772889,-108.540948,45.772889],
+  "geometry": {"coordinates":[-108.540948,45.772889],"type":"Point"}
+}

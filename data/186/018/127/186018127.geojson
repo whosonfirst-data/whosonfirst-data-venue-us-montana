@@ -1,0 +1,68 @@
+{
+  "id": 186018127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.035306,46.828345,-114.035306,46.828345",
+    "geom:latitude":46.828345,
+    "geom:longitude":-114.035306,
+    "iso:country":"US",
+    "sg:address":"4720 23rd Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 5100",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operation",
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I6vdzxgrejt4bmyr3TCYS_46.828345_-114.035306@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5dae42189b13767892a2bffc9be494c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186018127
+        }
+    ],
+    "wof:id":186018127,
+    "wof:lastmodified":1449051716,
+    "wof:name":"Hillside Manor Nrsng & Convlsc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "skilled"
+    ]
+},
+  "bbox": [-114.035306,46.828345,-114.035306,46.828345],
+  "geometry": {"coordinates":[-114.035306,46.828345],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185610073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.57465,45.77375,-108.57465,45.77375",
+    "geom:latitude":45.77375,
+    "geom:longitude":-108.57465,
+    "iso:country":"US",
+    "sg:address":"2110 Miles Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6147",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DubLlLW7hhMHqH21bi1JJ_45.773750_-108.574650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"626518c005b72d6dd1543eefa06e5525",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185610073
+        }
+    ],
+    "wof:id":185610073,
+    "wof:lastmodified":1449008165,
+    "wof:name":"Math Tutor",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [-108.57465,45.77375,-108.57465,45.77375],
+  "geometry": {"coordinates":[-108.57465,45.77375],"type":"Point"}
+}

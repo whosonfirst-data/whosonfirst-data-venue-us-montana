@@ -1,0 +1,66 @@
+{
+  "id": 186185081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.050455,45.699879,-111.050455,45.699879",
+    "geom:latitude":45.699879,
+    "geom:longitude":-111.050455,
+    "iso:country":"US",
+    "sg:address":"810 Mandeville Ln",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 2369",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HsBhqhzptXgML8KkVesqX_45.699879_-111.050455@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15968bc851cffaf2299c4910f0e10b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891705,
+            "region_id":85688617,
+            "venue_id":186185081
+        }
+    ],
+    "wof:id":186185081,
+    "wof:lastmodified":1449050852,
+    "wof:name":"Bozeman Laundry 101",
+    "wof:parent_id":85891705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [-111.050455,45.699879,-111.050455,45.699879],
+  "geometry": {"coordinates":[-111.050455,45.699879],"type":"Point"}
+}

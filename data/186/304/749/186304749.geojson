@@ -1,0 +1,66 @@
+{
+  "id": 186304749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.534586,46.016166,-112.534586,46.016166",
+    "geom:latitude":46.016166,
+    "geom:longitude":-112.534586,
+    "iso:country":"US",
+    "sg:address":"1 E Copper St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 9470",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ezi1p0oGJPpDcuFiHALoU_46.016166_-112.534586@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d2d78a63a81d110d0a11164b1b7b83f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186304749
+        }
+    ],
+    "wof:id":186304749,
+    "wof:lastmodified":1449052346,
+    "wof:name":"Western Montana Mental Health",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [-112.534586,46.016166,-112.534586,46.016166],
+  "geometry": {"coordinates":[-112.534586,46.016166],"type":"Point"}
+}

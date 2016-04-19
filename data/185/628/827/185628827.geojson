@@ -1,0 +1,68 @@
+{
+  "id": 185628827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.017526,46.849257,-114.017526,46.849257",
+    "geom:latitude":46.849257,
+    "geom:longitude":-114.017526,
+    "iso:country":"US",
+    "sg:address":"2325 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 2244",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "institution",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C5HC9nST8Sc708sgRdeTZ_46.849257_-114.017526@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"172895e340c3e158bd50aa7078cc4648",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185628827
+        }
+    ],
+    "wof:id":185628827,
+    "wof:lastmodified":1449007920,
+    "wof:name":"B&R Check Holders",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "institution",
+        "business"
+    ]
+},
+  "bbox": [-114.017526,46.849257,-114.017526,46.849257],
+  "geometry": {"coordinates":[-114.017526,46.849257],"type":"Point"}
+}

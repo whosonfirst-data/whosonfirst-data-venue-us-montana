@@ -1,0 +1,68 @@
+{
+  "id": 185724741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.50793,45.97685,-112.50793,45.97685",
+    "geom:latitude":45.97685,
+    "geom:longitude":-112.50793,
+    "iso:country":"US",
+    "sg:address":"3350 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 1900",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AXexYMybivFBu6jZ2Dlov_45.976850_-112.507930@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca07ff4faab0e17fe62132cceb3fc61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":185724741
+        }
+    ],
+    "wof:id":185724741,
+    "wof:lastmodified":1449008152,
+    "wof:name":"Enterprise Rent-A-Car Company",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [-112.50793,45.97685,-112.50793,45.97685],
+  "geometry": {"coordinates":[-112.50793,45.97685],"type":"Point"}
+}

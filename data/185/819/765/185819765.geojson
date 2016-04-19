@@ -1,0 +1,76 @@
+{
+  "id": 185819765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.171029,46.247249,-114.171029,46.247249",
+    "geom:latitude":46.247249,
+    "geom:longitude":-114.171029,
+    "iso:country":"US",
+    "sg:address":"1201 Westwood Dr",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 375 1771",
+    "sg:postcode":"59840",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "holistic",
+        "practitioner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972787,
+        102085185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57qB5fReozkhCTcT8PEder_46.247249_-114.171029@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61285ea56e463dd9f753ec8d4ffe47fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085185,
+            "locality_id":85972787,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185819765
+        }
+    ],
+    "wof:id":185819765,
+    "wof:lastmodified":1449006991,
+    "wof:name":"Rocky Mountain Natural Mdcn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "holistic",
+        "practitioner"
+    ]
+},
+  "bbox": [-114.171029,46.247249,-114.171029,46.247249],
+  "geometry": {"coordinates":[-114.171029,46.247249],"type":"Point"}
+}

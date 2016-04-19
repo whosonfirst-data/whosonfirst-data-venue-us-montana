@@ -1,0 +1,67 @@
+{
+  "id": 185619129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.022368,46.613311,-112.022368,46.613311",
+    "geom:latitude":46.613311,
+    "geom:longitude":-112.022368,
+    "iso:country":"US",
+    "sg:address":"1101 Enterprise Dr",
+    "sg:city":"Helena",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 457 9466",
+    "sg:postcode":"59601",
+    "sg:province":"MT",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972711,
+        102085151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sTXyBYND2e70O28DrxgUZ_46.613311_-112.022368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"132a4fcfdf244f9d422780b56d20aa46",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085151,
+            "locality_id":85972711,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185619129
+        }
+    ],
+    "wof:id":185619129,
+    "wof:lastmodified":1449006902,
+    "wof:name":"Enterprise Clean & Coin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [-112.022368,46.613311,-112.022368,46.613311],
+  "geometry": {"coordinates":[-112.022368,46.613311],"type":"Point"}
+}

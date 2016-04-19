@@ -1,0 +1,68 @@
+{
+  "id": 186385389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.311953,48.197798,-114.311953,48.197798",
+    "geom:latitude":48.197798,
+    "geom:longitude":-114.311953,
+    "iso:country":"US",
+    "sg:address":"120 1st Ave E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 6363",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B2iqz1ipSGs0KVfZEERvG_48.197798_-114.311953@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c4c45bb326525213d74ed3cc9f216d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186385389
+        }
+    ],
+    "wof:id":186385389,
+    "wof:lastmodified":1449051963,
+    "wof:name":"Liberty Theater",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [-114.311953,48.197798,-114.311953,48.197798],
+  "geometry": {"coordinates":[-114.311953,48.197798],"type":"Point"}
+}

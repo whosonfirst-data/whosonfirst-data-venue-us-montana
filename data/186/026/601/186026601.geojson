@@ -1,0 +1,69 @@
+{
+  "id": 186026601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.528695,45.796952,-108.528695,45.796952",
+    "geom:latitude":45.796952,
+    "geom:longitude":-108.528695,
+    "iso:country":"US",
+    "sg:address":"541 Highland Park Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 8765",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zPUDZt7bAQvCIt0e2tXDY_45.796952_-108.528695@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19c66da2cad224f979f9e80eb6b8555f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":186026601
+        }
+    ],
+    "wof:id":186026601,
+    "wof:lastmodified":1449051950,
+    "wof:name":"Denny's Electric",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.528695,45.796952,-108.528695,45.796952],
+  "geometry": {"coordinates":[-108.528695,45.796952],"type":"Point"}
+}

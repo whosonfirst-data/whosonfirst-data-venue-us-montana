@@ -1,0 +1,67 @@
+{
+  "id": 185714753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.486374,45.794061,-108.486374,45.794061",
+    "geom:latitude":45.794061,
+    "geom:longitude":-108.486374,
+    "iso:country":"US",
+    "sg:address":"1021 3rd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 9654",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06E1VM7SOjXYCJdqW26rlf_45.794061_-108.486374@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae21f76f3087bd83445d87640e4c5d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185714753
+        }
+    ],
+    "wof:id":185714753,
+    "wof:lastmodified":1449007415,
+    "wof:name":"Speedometer & Auto Electric",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.486374,45.794061,-108.486374,45.794061],
+  "geometry": {"coordinates":[-108.486374,45.794061],"type":"Point"}
+}

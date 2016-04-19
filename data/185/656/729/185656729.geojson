@@ -1,0 +1,70 @@
+{
+  "id": 185656729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.658933,45.761659,-108.658933,45.761659",
+    "geom:latitude":45.761659,
+    "geom:longitude":-108.658933,
+    "iso:country":"US",
+    "sg:address":"723 56th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 0517",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nDXLecOu9q7xAzHOs765m_45.761659_-108.658933@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7df264b5c8ceb8407ec3d7aeb8a5d37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185656729
+        }
+    ],
+    "wof:id":185656729,
+    "wof:lastmodified":1449007647,
+    "wof:name":"Woolsey Trucking",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-108.658933,45.761659,-108.658933,45.761659],
+  "geometry": {"coordinates":[-108.658933,45.761659],"type":"Point"}
+}

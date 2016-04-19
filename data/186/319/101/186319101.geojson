@@ -1,0 +1,66 @@
+{
+  "id": 186319101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.77463,45.672233,-108.77463,45.672233",
+    "geom:latitude":45.672233,
+    "geom:longitude":-108.77463,
+    "iso:country":"US",
+    "sg:address":"320 3rd Ave",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 661 1091",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lwl7hkR4iV3Nmll0f2ESa_45.672233_-108.774630@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"596965b0a48199d3a485fcf315927ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":186319101
+        }
+    ],
+    "wof:id":186319101,
+    "wof:lastmodified":1449051467,
+    "wof:name":"Laurel East Veterinary Svc",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-108.77463,45.672233,-108.77463,45.672233],
+  "geometry": {"coordinates":[-108.77463,45.672233],"type":"Point"}
+}

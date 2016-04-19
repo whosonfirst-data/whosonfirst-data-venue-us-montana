@@ -1,0 +1,68 @@
+{
+  "id": 186082651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.034339,46.900925,-114.034339,46.900925",
+    "geom:latitude":46.900925,
+    "geom:longitude":-114.034339,
+    "iso:country":"US",
+    "sg:address":"2825 Stockyard Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 8149",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "refrigeration",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yeFdW13Q0V5bqSuAGwAch_46.900925_-114.034339@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b764ce4bb8763122258d29428216283",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":186082651
+        }
+    ],
+    "wof:id":186082651,
+    "wof:lastmodified":1449050334,
+    "wof:name":"Allbrands Appliance Service",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "electrical"
+    ]
+},
+  "bbox": [-114.034339,46.900925,-114.034339,46.900925],
+  "geometry": {"coordinates":[-114.034339,46.900925],"type":"Point"}
+}

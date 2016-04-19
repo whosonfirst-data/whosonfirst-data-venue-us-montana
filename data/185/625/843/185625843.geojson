@@ -1,0 +1,65 @@
+{
+  "id": 185625843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.034452,46.59491,-112.034452,46.59491",
+    "geom:latitude":46.59491,
+    "geom:longitude":-112.034452,
+    "iso:country":"US",
+    "sg:address":"735 N Main St",
+    "sg:city":"Helena",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 449 7987",
+    "sg:postcode":"59601",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972711,
+        102085151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SFC4yKeMsl0uiGbi7WFa7_46.594910_-112.034452@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b204d3b450e34cf690ad20b9e88f6cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085151,
+            "locality_id":85972711,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185625843
+        }
+    ],
+    "wof:id":185625843,
+    "wof:lastmodified":1449008236,
+    "wof:name":"Auto Tech",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-112.034452,46.59491,-112.034452,46.59491],
+  "geometry": {"coordinates":[-112.034452,46.59491],"type":"Point"}
+}

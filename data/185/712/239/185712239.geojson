@@ -1,0 +1,67 @@
+{
+  "id": 185712239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-105.849753,46.407381,-105.849753,46.407381",
+    "geom:latitude":46.407381,
+    "geom:longitude":-105.849753,
+    "iso:country":"US",
+    "sg:address":"16 N 7th St",
+    "sg:city":"Miles City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 232 6661",
+    "sg:postcode":"59301",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972691,
+        102085197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xoYgDJ20Xsv9D7cclnTIq_46.407381_-105.849753@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"797a48ce03d77fb047a02dc8534a5380",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085197,
+            "locality_id":85972691,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185712239
+        }
+    ],
+    "wof:id":185712239,
+    "wof:lastmodified":1449007297,
+    "wof:name":"Short Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-105.849753,46.407381,-105.849753,46.407381],
+  "geometry": {"coordinates":[-105.849753,46.407381],"type":"Point"}
+}

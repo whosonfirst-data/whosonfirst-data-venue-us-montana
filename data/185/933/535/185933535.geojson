@@ -1,0 +1,68 @@
+{
+  "id": 185933535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.665768,45.73786,-108.665768,45.73786",
+    "geom:latitude":45.73786,
+    "geom:longitude":-108.665768,
+    "iso:country":"US",
+    "sg:address":"5850 Creek Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 0333",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mm9yNjZSDktU6wqIkQSAc_45.737860_-108.665768@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ace629675eea5d3442e285af636be6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185933535
+        }
+    ],
+    "wof:id":185933535,
+    "wof:lastmodified":1449006943,
+    "wof:name":"Sun-Lite Electric",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.665768,45.73786,-108.665768,45.73786],
+  "geometry": {"coordinates":[-108.665768,45.73786],"type":"Point"}
+}

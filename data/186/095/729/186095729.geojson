@@ -1,0 +1,80 @@
+{
+  "id": 186095729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.598713,45.740792,-108.598713,45.740792",
+    "geom:latitude":45.740792,
+    "geom:longitude":-108.598713,
+    "iso:country":"US",
+    "sg:address":"3211 Hesper Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 5030",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xj5LKJyIjOzvDzmBBjS1n_45.740792_-108.598713@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f29fb95b45ea80b9ba53bd77d70786a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186095729
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186095729
+        }
+    ],
+    "wof:id":186095729,
+    "wof:lastmodified":1449051731,
+    "wof:name":"Big Sky Security",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [-108.598713,45.740792,-108.598713,45.740792],
+  "geometry": {"coordinates":[-108.598713,45.740792],"type":"Point"}
+}

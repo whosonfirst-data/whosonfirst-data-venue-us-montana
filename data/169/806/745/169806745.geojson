@@ -1,0 +1,73 @@
+{
+  "id": 169806745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.49428,45.774234,-108.49428,45.774234",
+    "geom:latitude":45.774234,
+    "geom:longitude":-108.49428,
+    "iso:country":"US",
+    "sg:address":"841 S 26th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 5745",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876261
+    ],
+    "wof:brand_id":420573749,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KOXjvcv7Y5yv3Vjgr9pVd_45.774234_-108.494280@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e053e89a76cc74a1d12dc8b6151babd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":169806745
+        }
+    ],
+    "wof:id":169806745,
+    "wof:lastmodified":1457207043,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -108.49428,
+    45.774234,
+    -108.49428,
+    45.774234
+],
+  "geometry": {"coordinates":[-108.49428,45.774234],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 186126679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.596896,45.75599,-108.596896,45.75599",
+    "geom:latitude":45.75599,
+    "geom:longitude":-108.596896,
+    "iso:country":"US",
+    "sg:address":"3202 Henesta Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 4548",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "leasing",
+        "tap",
+        "equipment",
+        "disc",
+        "tape",
+        "video",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YijfGYw5MenIvbTtR6ioL_45.755990_-108.596896@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ea0ec855f489a94c9f78b279d42adfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186126679
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186126679
+        }
+    ],
+    "wof:id":186126679,
+    "wof:lastmodified":1449051373,
+    "wof:name":"King Avenue Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "tap",
+        "equipment",
+        "disc",
+        "tape",
+        "video",
+        "merchandise"
+    ]
+},
+  "bbox": [-108.596896,45.75599,-108.596896,45.75599],
+  "geometry": {"coordinates":[-108.596896,45.75599],"type":"Point"}
+}

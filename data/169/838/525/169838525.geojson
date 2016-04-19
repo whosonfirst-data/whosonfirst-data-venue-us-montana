@@ -1,0 +1,68 @@
+{
+  "id": 169838525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.3258,48.213041,-114.3258,48.213041",
+    "geom:latitude":48.213041,
+    "geom:longitude":-114.3258,
+    "iso:country":"US",
+    "sg:address":"1280 Burns Way",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 5266",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nVT88kQTkbs7sPvnNWm5g_48.213041_-114.325800@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"918561169f6150247c78a65cc601f00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":169838525
+        }
+    ],
+    "wof:id":169838525,
+    "wof:lastmodified":1449033082,
+    "wof:name":"Kalispell Medical Offices",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-114.3258,48.213041,-114.3258,48.213041],
+  "geometry": {"coordinates":[-114.3258,48.213041],"type":"Point"}
+}

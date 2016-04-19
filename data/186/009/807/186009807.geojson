@@ -1,0 +1,79 @@
+{
+  "id": 186009807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.589185,45.733967,-108.589185,45.733967",
+    "geom:latitude":45.733967,
+    "geom:longitude":-108.589185,
+    "iso:country":"US",
+    "sg:address":"6840 Trade Center Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 5000",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UBaWEwO4mfrY2SY4agy7j_45.733967_-108.589185@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f1929a6def83a33a766869d23b4af8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186009807
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186009807
+        }
+    ],
+    "wof:id":186009807,
+    "wof:lastmodified":1449052980,
+    "wof:name":"Gardner Distributing Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [-108.589185,45.733967,-108.589185,45.733967],
+  "geometry": {"coordinates":[-108.589185,45.733967],"type":"Point"}
+}

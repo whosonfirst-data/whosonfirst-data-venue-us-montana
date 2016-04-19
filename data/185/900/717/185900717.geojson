@@ -1,0 +1,67 @@
+{
+  "id": 185900717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.505984,45.788268,-108.505984,45.788268",
+    "geom:latitude":45.788268,
+    "geom:longitude":-108.505984,
+    "iso:country":"US",
+    "sg:address":"2424 6th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 3397",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3irA3qSAdCTmUdVVJsfAoG_45.788268_-108.505984@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fafc8e3f3c921afa65a54400d932ccdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185900717
+        }
+    ],
+    "wof:id":185900717,
+    "wof:lastmodified":1449007302,
+    "wof:name":"Metric Wrench",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.505984,45.788268,-108.505984,45.788268],
+  "geometry": {"coordinates":[-108.505984,45.788268],"type":"Point"}
+}

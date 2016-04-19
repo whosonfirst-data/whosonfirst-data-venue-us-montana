@@ -1,0 +1,66 @@
+{
+  "id": 186033383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.502731,45.993942,-112.502731,45.993942",
+    "geom:latitude":45.993942,
+    "geom:longitude":-112.502731,
+    "iso:country":"US",
+    "sg:address":"2000 Farragut Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 8569",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fJresEiA9IqJSlSTc4X0i_45.993942_-112.502731@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2e54fb59173f3157e0bcdb6ed2a1fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186033383
+        }
+    ],
+    "wof:id":186033383,
+    "wof:lastmodified":1449050957,
+    "wof:name":"Lockett's Bakery & Restaurant",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-112.502731,45.993942,-112.502731,45.993942],
+  "geometry": {"coordinates":[-112.502731,45.993942],"type":"Point"}
+}

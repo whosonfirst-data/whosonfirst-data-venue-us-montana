@@ -1,0 +1,72 @@
+{
+  "id": 186433825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.531325,46.005896,-112.531325,46.005896",
+    "geom:latitude":46.005896,
+    "geom:longitude":-112.531325,
+    "iso:country":"US",
+    "sg:address":"743 S Wyoming St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 1219",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "firm",
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nfeyfNJFDyrSGAZMBhEbC_46.005896_-112.531325@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ffb531651c9dd5889282ee8003a743d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186433825
+        }
+    ],
+    "wof:id":186433825,
+    "wof:lastmodified":1449050556,
+    "wof:name":"City Transfer & Storage",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firm",
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [-112.531325,46.005896,-112.531325,46.005896],
+  "geometry": {"coordinates":[-112.531325,46.005896],"type":"Point"}
+}

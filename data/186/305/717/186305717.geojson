@@ -1,0 +1,70 @@
+{
+  "id": 186305717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.503748,45.817096,-108.503748,45.817096",
+    "geom:latitude":45.817096,
+    "geom:longitude":-108.503748,
+    "iso:country":"US",
+    "sg:address":"1057 Neptune Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 1142",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g0oegtnYxAyWdCp1xQRw1_45.817096_-108.503748@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f1f4d976535a282ad6ba071cb211732",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186305717
+        }
+    ],
+    "wof:id":186305717,
+    "wof:lastmodified":1449050792,
+    "wof:name":"Kamp Trucking",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-108.503748,45.817096,-108.503748,45.817096],
+  "geometry": {"coordinates":[-108.503748,45.817096],"type":"Point"}
+}

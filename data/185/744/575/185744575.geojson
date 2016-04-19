@@ -1,0 +1,67 @@
+{
+  "id": 185744575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.709011,46.762566,-113.709011,46.762566",
+    "geom:latitude":46.762566,
+    "geom:longitude":-113.709011,
+    "iso:country":"US",
+    "sg:address":"20680 US Hwy 10",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 825 4211",
+    "sg:postcode":"59825",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085103,
+        85891729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1igXIKeiw4d4TA6cAhH3FD_46.762566_-113.709011@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc00e4ccb49158d79c88037ff3607df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":-1,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":185744575
+        }
+    ],
+    "wof:id":185744575,
+    "wof:lastmodified":1449007174,
+    "wof:name":"Pamin Trucking",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trailer"
+    ]
+},
+  "bbox": [-113.709011,46.762566,-113.709011,46.762566],
+  "geometry": {"coordinates":[-113.709011,46.762566],"type":"Point"}
+}

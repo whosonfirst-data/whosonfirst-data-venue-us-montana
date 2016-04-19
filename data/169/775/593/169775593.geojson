@@ -1,0 +1,67 @@
+{
+  "id": 169775593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.926187,47.385774,-110.926187,47.385774",
+    "geom:latitude":47.385774,
+    "geom:longitude":-110.926187,
+    "iso:country":"US",
+    "sg:address":"201 Main St",
+    "sg:city":"Coffee Creek",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 567 2385",
+    "sg:postcode":"59412",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dept",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972769,
+        102085113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dHK6ABy9tC6rdnImVCVmu_47.385774_-110.926187@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32e817af9c13279f4636114ab4e99244",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085113,
+            "locality_id":85972769,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169775593
+        }
+    ],
+    "wof:id":169775593,
+    "wof:lastmodified":1449035117,
+    "wof:name":"Coffee Creek Fire District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "volunteer"
+    ]
+},
+  "bbox": [-110.926187,47.385774,-110.926187,47.385774],
+  "geometry": {"coordinates":[-110.926187,47.385774],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185737137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.018284,46.841591,-114.018284,46.841591",
+    "geom:latitude":46.841591,
+    "geom:longitude":-114.018284,
+    "iso:country":"US",
+    "sg:address":"2801 S Russell St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 7551",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dflfuHJ0FN27WModXrAx4_46.841591_-114.018284@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"caddf110dcbb0484affd6f29362e8e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185737137
+        }
+    ],
+    "wof:id":185737137,
+    "wof:lastmodified":1449006980,
+    "wof:name":"Lloyd's Shoe Repair",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [-114.018284,46.841591,-114.018284,46.841591],
+  "geometry": {"coordinates":[-114.018284,46.841591],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186417083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.41573,48.213315,-114.41573,48.213315",
+    "geom:latitude":48.213315,
+    "geom:longitude":-114.41573,
+    "iso:country":"US",
+    "sg:address":"1580 Three Mile Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 0145",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dEg8jXw2Efpw0W8waT6xH_48.213315_-114.415730@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3ba21185415072ce600ef96d323f04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186417083
+        }
+    ],
+    "wof:id":186417083,
+    "wof:lastmodified":1449051473,
+    "wof:name":"Edward Hankinson Trucking",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-114.41573,48.213315,-114.41573,48.213315],
+  "geometry": {"coordinates":[-114.41573,48.213315],"type":"Point"}
+}

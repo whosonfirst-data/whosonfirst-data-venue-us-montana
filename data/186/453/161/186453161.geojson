@@ -1,0 +1,66 @@
+{
+  "id": 186453161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.542597,45.776943,-108.542597,45.776943",
+    "geom:latitude":45.776943,
+    "geom:longitude":-108.542597,
+    "iso:country":"US",
+    "sg:address":"1038 Broadwater Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 8365",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QZhEJWJ7dCaHXiCIQFn51_45.776943_-108.542597@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d8aa46e50c610449a7093f4d70ee675",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186453161
+        }
+    ],
+    "wof:id":186453161,
+    "wof:lastmodified":1449052351,
+    "wof:name":"Broadwater Place Dental",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-108.542597,45.776943,-108.542597,45.776943],
+  "geometry": {"coordinates":[-108.542597,45.776943],"type":"Point"}
+}

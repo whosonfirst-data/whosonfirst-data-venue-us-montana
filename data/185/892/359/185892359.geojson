@@ -1,0 +1,68 @@
+{
+  "id": 185892359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.123909,46.989549,-114.123909,46.989549",
+    "geom:latitude":46.989549,
+    "geom:longitude":-114.123909,
+    "iso:country":"US",
+    "sg:address":"12380 Landmark Ln",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 6812",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M0jBYkYlVlTckWvRD2P5l_46.989549_-114.123909@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2169d24719d9b1dd0f5ed8aa5a1c3568",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":185892359
+        }
+    ],
+    "wof:id":185892359,
+    "wof:lastmodified":1449006842,
+    "wof:name":"George R Svoboda",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "rental"
+    ]
+},
+  "bbox": [-114.123909,46.989549,-114.123909,46.989549],
+  "geometry": {"coordinates":[-114.123909,46.989549],"type":"Point"}
+}

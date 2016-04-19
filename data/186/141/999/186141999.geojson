@@ -1,0 +1,68 @@
+{
+  "id": 186141999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.134062,46.87083,-114.134062,46.87083",
+    "geom:latitude":46.87083,
+    "geom:longitude":-114.134062,
+    "iso:country":"US",
+    "sg:address":"9755 Horseback Ridge Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 405 543 7440",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "washing",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jgCb5gy8Z7SMY6km6F5kQ_46.870830_-114.134062@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2b1aa37f38c682e201d9a831a08a323",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":186141999
+        }
+    ],
+    "wof:id":186141999,
+    "wof:lastmodified":1449051333,
+    "wof:name":"Acme Endeavors",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "washing",
+        "vehicle"
+    ]
+},
+  "bbox": [-114.134062,46.87083,-114.134062,46.87083],
+  "geometry": {"coordinates":[-114.134062,46.87083],"type":"Point"}
+}

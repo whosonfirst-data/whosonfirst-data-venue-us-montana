@@ -1,0 +1,68 @@
+{
+  "id": 169862245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.549707,45.766149,-108.549707,45.766149",
+    "geom:latitude":45.766149,
+    "geom:longitude":-108.549707,
+    "iso:country":"US",
+    "sg:address":"1301 Industrial Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 3197",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "apartment",
+        "complex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TltP7KpopqM6hC7Nwy3gr_45.766149_-108.549707@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fc1ae23907143391e5b824c84395173",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169862245
+        }
+    ],
+    "wof:id":169862245,
+    "wof:lastmodified":1449036047,
+    "wof:name":"Ponderosa Acres",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "complex"
+    ]
+},
+  "bbox": [-108.549707,45.766149,-108.549707,45.766149],
+  "geometry": {"coordinates":[-108.549707,45.766149],"type":"Point"}
+}

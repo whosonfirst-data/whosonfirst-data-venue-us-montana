@@ -1,0 +1,74 @@
+{
+  "id": 185749955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.519496,45.792398,-108.519496,45.792398",
+    "geom:latitude":45.792398,
+    "geom:longitude":-108.519496,
+    "iso:country":"US",
+    "sg:address":"2900 12th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 7333",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PQerh1vp8oIxf3OlYXScf_45.792398_-108.519496@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff326ea84ac8d8f900e86c5085b3d0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":185749955
+        }
+    ],
+    "wof:id":185749955,
+    "wof:lastmodified":1449007074,
+    "wof:name":"Casablanca Coffee Kiosk",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [-108.519496,45.792398,-108.519496,45.792398],
+  "geometry": {"coordinates":[-108.519496,45.792398],"type":"Point"}
+}

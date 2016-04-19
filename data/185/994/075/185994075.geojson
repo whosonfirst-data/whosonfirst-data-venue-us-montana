@@ -1,0 +1,66 @@
+{
+  "id": 185994075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.309419,48.184202,-114.309419,48.184202",
+    "geom:latitude":48.184202,
+    "geom:longitude":-114.309419,
+    "iso:country":"US",
+    "sg:address":"1402 Airport Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 2341",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pFoCGkOD4DT5soYfghZg9_48.184202_-114.309419@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c01c9d3117d04dcb0b3a663d848bfa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185994075
+        }
+    ],
+    "wof:id":185994075,
+    "wof:lastmodified":1449006656,
+    "wof:name":"Southside Speedy Lube Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-114.309419,48.184202,-114.309419,48.184202],
+  "geometry": {"coordinates":[-114.309419,48.184202],"type":"Point"}
+}

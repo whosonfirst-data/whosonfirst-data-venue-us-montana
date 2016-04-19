@@ -1,0 +1,66 @@
+{
+  "id": 185861383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.030017,46.850545,-114.030017,46.850545",
+    "geom:latitude":46.850545,
+    "geom:longitude":-114.030017,
+    "iso:country":"US",
+    "sg:address":"2011 W Central Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 2255",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TaSxv2K5VZosmK3lQXj2I_46.850545_-114.030017@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af053b3f19dddd6eb5f68885a71be99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185861383
+        }
+    ],
+    "wof:id":185861383,
+    "wof:lastmodified":1449008188,
+    "wof:name":"Lolo Towing",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [-114.030017,46.850545,-114.030017,46.850545],
+  "geometry": {"coordinates":[-114.030017,46.850545],"type":"Point"}
+}

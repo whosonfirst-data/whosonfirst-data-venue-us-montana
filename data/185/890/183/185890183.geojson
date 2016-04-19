@@ -1,0 +1,67 @@
+{
+  "id": 185890183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.280844,47.488759,-111.280844,47.488759",
+    "geom:latitude":47.488759,
+    "geom:longitude":-111.280844,
+    "iso:country":"US",
+    "sg:address":"1501 High St",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 761 7038",
+    "sg:postcode":"59405",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972763,
+        102085113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sBJMcctEM94QNGCmt0pIN_47.488759_-111.280844@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26d9c9518659a399238abac315935d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085113,
+            "locality_id":85972763,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185890183
+        }
+    ],
+    "wof:id":185890183,
+    "wof:lastmodified":1449006974,
+    "wof:name":"Murray Berg LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-111.280844,47.488759,-111.280844,47.488759],
+  "geometry": {"coordinates":[-111.280844,47.488759],"type":"Point"}
+}

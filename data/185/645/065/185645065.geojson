@@ -1,0 +1,72 @@
+{
+  "id": 185645065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.597613,45.758868,-108.597613,45.758868",
+    "geom:latitude":45.758868,
+    "geom:longitude":-108.597613,
+    "iso:country":"US",
+    "sg:address":"3231 Granger Ave E",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 3115",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:website":"www.billings.k12.mt.us/bigsky",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nb20xxow65jZyppbQLTDI_45.758868_-108.597613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e8dbf9a45dfa86dcdc561c8cc6398ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185645065
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185645065
+        }
+    ],
+    "wof:id":185645065,
+    "wof:lastmodified":1449006777,
+    "wof:name":"Big Sky Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-108.597613,45.758868,-108.597613,45.758868],
+  "geometry": {"coordinates":[-108.597613,45.758868],"type":"Point"}
+}

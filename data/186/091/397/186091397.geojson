@@ -1,0 +1,77 @@
+{
+  "id": 186091397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.583241,45.744139,-108.583241,45.744139",
+    "geom:latitude":45.744139,
+    "geom:longitude":-108.583241,
+    "iso:country":"US",
+    "sg:address":"2660 Gabel Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 4700",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SwsZDBBJPorzc2L1ApakX_45.744139_-108.583241@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"254060c0732592787ba1578056a55e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186091397
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186091397
+        }
+    ],
+    "wof:id":186091397,
+    "wof:lastmodified":1449050509,
+    "wof:name":"Dakota Cartidge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-108.583241,45.744139,-108.583241,45.744139],
+  "geometry": {"coordinates":[-108.583241,45.744139],"type":"Point"}
+}

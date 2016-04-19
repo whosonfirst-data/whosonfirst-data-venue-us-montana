@@ -1,0 +1,68 @@
+{
+  "id": 185930915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.009512,46.849845,-114.009512,46.849845",
+    "geom:latitude":46.849845,
+    "geom:longitude":-114.009512,
+    "iso:country":"US",
+    "sg:address":"704 W Sussex Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 0700",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wkkxZ56cYsy0SULIW3bnC_46.849845_-114.009512@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fff1fb3de4ab86f68d423e85882b124c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185930915
+        }
+    ],
+    "wof:id":185930915,
+    "wof:lastmodified":1449007116,
+    "wof:name":"American Mortgage of Montana",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [-114.009512,46.849845,-114.009512,46.849845],
+  "geometry": {"coordinates":[-114.009512,46.849845],"type":"Point"}
+}

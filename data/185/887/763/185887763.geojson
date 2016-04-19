@@ -1,0 +1,77 @@
+{
+  "id": 185887763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.571208,45.779716,-108.571208,45.779716",
+    "geom:latitude":45.779716,
+    "geom:longitude":-108.571208,
+    "iso:country":"US",
+    "sg:address":"2128 Clark Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9011",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "upholstered",
+        "household",
+        "upholsterer",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BheIkU5uFv9nYv7H4JFKc_45.779716_-108.571208@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ef2f70dc0c9960ea6e2b124f093ca73",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185887763
+        }
+    ],
+    "wof:id":185887763,
+    "wof:lastmodified":1449007903,
+    "wof:name":"Personal Upholstery Service",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholstered",
+        "household",
+        "upholsterer",
+        "mfg"
+    ]
+},
+  "bbox": [-108.571208,45.779716,-108.571208,45.779716],
+  "geometry": {"coordinates":[-108.571208,45.779716],"type":"Point"}
+}

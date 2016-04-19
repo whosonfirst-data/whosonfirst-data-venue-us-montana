@@ -1,0 +1,68 @@
+{
+  "id": 185761893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.056971,45.679233,-111.056971,45.679233",
+    "geom:latitude":45.679233,
+    "geom:longitude":-111.056971,
+    "iso:country":"US",
+    "sg:address":"1232 W Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 585 8052",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JVXqDnkqfhyBbHDx5UeRw_45.679233_-111.056971@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b084dfd4d9d8338935de94557b4e44ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891711,
+            "region_id":85688617,
+            "venue_id":185761893
+        }
+    ],
+    "wof:id":185761893,
+    "wof:lastmodified":1449007847,
+    "wof:name":"Threshold Sports Inc",
+    "wof:parent_id":85891711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "sport"
+    ]
+},
+  "bbox": [-111.056971,45.679233,-111.056971,45.679233],
+  "geometry": {"coordinates":[-111.056971,45.679233],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169785915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.54228,45.764039,-108.54228,45.764039",
+    "geom:latitude":45.764039,
+    "geom:longitude":-108.54228,
+    "iso:country":"US",
+    "sg:address":"240 Moore Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 7823",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6allbhGzYxfSjobRPtOnGL_45.764039_-108.542280@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"acd0f69256ae4cb6041bdef64ed59226",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169785915
+        }
+    ],
+    "wof:id":169785915,
+    "wof:lastmodified":1449035398,
+    "wof:name":"Stevens Brothers Mechanical",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [-108.54228,45.764039,-108.54228,45.764039],
+  "geometry": {"coordinates":[-108.54228,45.764039],"type":"Point"}
+}

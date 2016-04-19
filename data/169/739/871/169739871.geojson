@@ -1,0 +1,73 @@
+{
+  "id": 169739871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.080307,46.765522,-114.080307,46.765522",
+    "geom:latitude":46.765522,
+    "geom:longitude":-114.080307,
+    "iso:country":"US",
+    "sg:address":"10953 US Hwy 93",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 3863",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operation",
+        "casino"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VOnXXz4Q45kIqm3IFZpmt_46.765522_-114.080307@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b04e0e0ce79615f7e50d57d54d13d13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":169739871
+        }
+    ],
+    "wof:id":169739871,
+    "wof:lastmodified":1449034063,
+    "wof:name":"Lucky Lil's Casino",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "casino"
+    ]
+},
+  "bbox": [-114.080307,46.765522,-114.080307,46.765522],
+  "geometry": {"coordinates":[-114.080307,46.765522],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186350029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.501211,45.779559,-108.501211,45.779559",
+    "geom:latitude":45.779559,
+    "geom:longitude":-108.501211,
+    "iso:country":"US",
+    "sg:address":"123 S 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 6821",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical",
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09ys9NWSuhw5Q6R1fIOUfo_45.779559_-108.501211@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb4f35cb7a85ab381b6b2adf4f7b982a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":186350029
+        }
+    ],
+    "wof:id":186350029,
+    "wof:lastmodified":1449051735,
+    "wof:name":"Deering Clinic",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "executive"
+    ]
+},
+  "bbox": [-108.501211,45.779559,-108.501211,45.779559],
+  "geometry": {"coordinates":[-108.501211,45.779559],"type":"Point"}
+}

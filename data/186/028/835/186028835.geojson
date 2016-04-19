@@ -1,0 +1,72 @@
+{
+  "id": 186028835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.753718,45.674288,-108.753718,45.674288",
+    "geom:latitude":45.674288,
+    "geom:longitude":-108.753718,
+    "iso:country":"US",
+    "sg:address":"519 Fir Ave",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 670 0655",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "leasing",
+        "driver",
+        "truck",
+        "no"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j3DaCmfh6MufMfCg3lLWv_45.674288_-108.753718@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"186a65750efcf61818b69a71e496bf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":186028835
+        }
+    ],
+    "wof:id":186028835,
+    "wof:lastmodified":1449051831,
+    "wof:name":"Truck Leasing",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "driver",
+        "truck",
+        "no"
+    ]
+},
+  "bbox": [-108.753718,45.674288,-108.753718,45.674288],
+  "geometry": {"coordinates":[-108.753718,45.674288],"type":"Point"}
+}

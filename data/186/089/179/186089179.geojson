@@ -1,0 +1,72 @@
+{
+  "id": 186089179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.496911,45.780381,-108.496911,45.780381",
+    "geom:latitude":45.780381,
+    "geom:longitude":-108.496911,
+    "iso:country":"US",
+    "sg:address":"224 S 24th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 5190",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "boiler",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6czQRcu8S7v4w9UpgzSnep_45.780381_-108.496911@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a5c813858023c2f82eaa0da61398eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186089179
+        }
+    ],
+    "wof:id":186089179,
+    "wof:lastmodified":1449050951,
+    "wof:name":"E L Boiler Works Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "cleaning"
+    ]
+},
+  "bbox": [-108.496911,45.780381,-108.496911,45.780381],
+  "geometry": {"coordinates":[-108.496911,45.780381],"type":"Point"}
+}

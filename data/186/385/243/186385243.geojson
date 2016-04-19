@@ -1,0 +1,67 @@
+{
+  "id": 186385243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.993525,46.870763,-113.993525,46.870763",
+    "geom:latitude":46.870763,
+    "geom:longitude":-113.993525,
+    "iso:country":"US",
+    "sg:address":"127 E Main St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 0022",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "probation",
+        "parole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085103,
+        85891729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05idwr1ETbxB7zW5rGFsyZ_46.870763_-113.993525@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d2beff3faf3f260ce615a68b0de36fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":-1,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":186385243
+        }
+    ],
+    "wof:id":186385243,
+    "wof:lastmodified":1449051963,
+    "wof:name":"Adult Probation & Parole Off",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation",
+        "parole"
+    ]
+},
+  "bbox": [-113.993525,46.870763,-113.993525,46.870763],
+  "geometry": {"coordinates":[-113.993525,46.870763],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186129509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.567922,45.653819,-110.567922,45.653819",
+    "geom:latitude":45.653819,
+    "geom:longitude":-110.567922,
+    "iso:country":"US",
+    "sg:address":"307 S 10th St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 3562",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "outfitter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48P2wnFeHzBaEwjHPLevxE_45.653819_-110.567922@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5e5d0d8e49a9890017435f2256455ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":186129509
+        }
+    ],
+    "wof:id":186129509,
+    "wof:lastmodified":1449052488,
+    "wof:name":"John Greene's Fly Fishing",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outfitter"
+    ]
+},
+  "bbox": [-110.567922,45.653819,-110.567922,45.653819],
+  "geometry": {"coordinates":[-110.567922,45.653819],"type":"Point"}
+}

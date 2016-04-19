@@ -1,0 +1,71 @@
+{
+  "id": 186009773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.990583,46.57602,-111.990583,46.57602",
+    "geom:latitude":46.57602,
+    "geom:longitude":-111.990583,
+    "iso:country":"US",
+    "sg:address":"915 Saddle Dr",
+    "sg:city":"Helena",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 449 4900",
+    "sg:postcode":"59601",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential",
+        "skilled",
+        "nursing",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972711,
+        102085151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OX61FDN3Il8h3DLOrQlks_46.576020_-111.990583@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"128c35646325e66764de9e28fbbc8513",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085151,
+            "locality_id":85972711,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186009773
+        }
+    ],
+    "wof:id":186009773,
+    "wof:lastmodified":1449052978,
+    "wof:name":"Waterford",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "skilled",
+        "nursing",
+        "facility"
+    ]
+},
+  "bbox": [-111.990583,46.57602,-111.990583,46.57602],
+  "geometry": {"coordinates":[-111.990583,46.57602],"type":"Point"}
+}

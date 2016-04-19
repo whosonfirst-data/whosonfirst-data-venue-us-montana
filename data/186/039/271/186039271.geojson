@@ -1,0 +1,66 @@
+{
+  "id": 186039271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.490805,45.818073,-108.490805,45.818073",
+    "geom:latitude":45.818073,
+    "geom:longitude":-108.490805,
+    "iso:country":"US",
+    "sg:address":"145 Norris Ct W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 2505",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20jP70HxpGjSa2Uiv0k5Yz_45.818073_-108.490805@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f6e55b01764777f34c4c00455252c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186039271
+        }
+    ],
+    "wof:id":186039271,
+    "wof:lastmodified":1449052680,
+    "wof:name":"Goldstar Inc",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-108.490805,45.818073,-108.490805,45.818073],
+  "geometry": {"coordinates":[-108.490805,45.818073],"type":"Point"}
+}

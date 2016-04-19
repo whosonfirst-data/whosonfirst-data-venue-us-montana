@@ -1,0 +1,70 @@
+{
+  "id": 186122497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.535157,45.769908,-108.535157,45.769908",
+    "geom:latitude":45.769908,
+    "geom:longitude":-108.535157,
+    "iso:country":"US",
+    "sg:address":"723 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4124",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "diagnostic",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O0rA0ZJ1wsE8IO8Lj0lhV_45.769908_-108.535157@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf3d222a992b260836ae377f58a301f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186122497
+        }
+    ],
+    "wof:id":186122497,
+    "wof:lastmodified":1449051903,
+    "wof:name":"Mike's Automotive Diagnostics",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic",
+        "automotive"
+    ]
+},
+  "bbox": [-108.535157,45.769908,-108.535157,45.769908],
+  "geometry": {"coordinates":[-108.535157,45.769908],"type":"Point"}
+}

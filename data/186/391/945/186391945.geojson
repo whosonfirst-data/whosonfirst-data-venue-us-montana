@@ -1,0 +1,66 @@
+{
+  "id": 186391945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.765956,45.670535,-108.765956,45.670535",
+    "geom:latitude":45.670535,
+    "geom:longitude":-108.765956,
+    "iso:country":"US",
+    "sg:address":"419 E Main St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 4309",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75O6fBsLuy7i0xG6hkE3LY_45.670535_-108.765956@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0b1346067485aeee2cb997a02f86aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":186391945
+        }
+    ],
+    "wof:id":186391945,
+    "wof:lastmodified":1449052093,
+    "wof:name":"Beartooth Veterinary Service",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-108.765956,45.670535,-108.765956,45.670535],
+  "geometry": {"coordinates":[-108.765956,45.670535],"type":"Point"}
+}

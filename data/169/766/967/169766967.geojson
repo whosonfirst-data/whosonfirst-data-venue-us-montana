@@ -1,0 +1,65 @@
+{
+  "id": 169766967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.122519,45.666308,-111.122519,45.666308",
+    "geom:latitude":45.666308,
+    "geom:longitude":-111.122519,
+    "iso:country":"US",
+    "sg:address":"129 Percival Path",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 3930",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972981,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iK5SEdrDk2YOaq4F5Vn2z_45.666308_-111.122519@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e415cd825f05fa44c556caffe9382d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972981,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169766967
+        }
+    ],
+    "wof:id":169766967,
+    "wof:lastmodified":1449032641,
+    "wof:name":"Rae Subdivision County Sewer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer"
+    ]
+},
+  "bbox": [-111.122519,45.666308,-111.122519,45.666308],
+  "geometry": {"coordinates":[-111.122519,45.666308],"type":"Point"}
+}

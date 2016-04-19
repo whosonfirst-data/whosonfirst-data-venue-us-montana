@@ -1,0 +1,81 @@
+{
+  "id": 186066775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.591438,45.731837,-108.591438,45.731837",
+    "geom:latitude":45.731837,
+    "geom:longitude":-108.591438,
+    "iso:country":"US",
+    "sg:address":"2041 Harnish Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 0951",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "product",
+        "mfg",
+        "precision",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7esgP5kmuDvwYcUONSoIdL_45.731837_-108.591438@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6645ece9b615d48b12178473e70179d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186066775
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186066775
+        }
+    ],
+    "wof:id":186066775,
+    "wof:lastmodified":1449051158,
+    "wof:name":"Clements Rubber Products Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg",
+        "precision",
+        "supply"
+    ]
+},
+  "bbox": [-108.591438,45.731837,-108.591438,45.731837],
+  "geometry": {"coordinates":[-108.591438,45.731837],"type":"Point"}
+}

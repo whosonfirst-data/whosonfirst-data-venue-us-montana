@@ -1,0 +1,70 @@
+{
+  "id": 169801553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.998649,46.871939,-113.998649,46.871939",
+    "geom:latitude":46.871939,
+    "geom:longitude":-113.998649,
+    "iso:country":"US",
+    "sg:address":"255 W Front St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 8373",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "clinic",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Og4pFL6pOM2jJBgYfjguN_46.871939_-113.998649@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd798a522bb12f416d3e125b304f3067",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":169801553
+        }
+    ],
+    "wof:id":169801553,
+    "wof:lastmodified":1449035377,
+    "wof:name":"James Wemple PHD",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-113.998649,46.871939,-113.998649,46.871939],
+  "geometry": {"coordinates":[-113.998649,46.871939],"type":"Point"}
+}

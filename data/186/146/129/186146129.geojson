@@ -1,0 +1,68 @@
+{
+  "id": 186146129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.513611,45.773475,-108.513611,45.773475",
+    "geom:latitude":45.773475,
+    "geom:longitude":-108.513611,
+    "iso:country":"US",
+    "sg:address":"116 S 37th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4338",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lettering",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pV50fE0D9ZZRinO5AhEl8_45.773475_-108.513611@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"055424b1e868eadfad8ef7d257b6e906",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":186146129
+        }
+    ],
+    "wof:id":186146129,
+    "wof:lastmodified":1449051488,
+    "wof:name":"Holly Painting Co",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lettering",
+        "truck"
+    ]
+},
+  "bbox": [-108.513611,45.773475,-108.513611,45.773475],
+  "geometry": {"coordinates":[-108.513611,45.773475],"type":"Point"}
+}

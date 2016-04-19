@@ -1,0 +1,68 @@
+{
+  "id": 169785245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.047247,46.867104,-114.047247,46.867104",
+    "geom:latitude":46.867104,
+    "geom:longitude":-114.047247,
+    "iso:country":"US",
+    "sg:address":"312 Short St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 327 9706",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "flooring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xJT4V5nACoHmIuY2ISgup_46.867104_-114.047247@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35f88b406417132cbdd3c025368df3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":169785245
+        }
+    ],
+    "wof:id":169785245,
+    "wof:lastmodified":1449035399,
+    "wof:name":"Thompson Flooring Inc",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flooring",
+        "contractor"
+    ]
+},
+  "bbox": [-114.047247,46.867104,-114.047247,46.867104],
+  "geometry": {"coordinates":[-114.047247,46.867104],"type":"Point"}
+}

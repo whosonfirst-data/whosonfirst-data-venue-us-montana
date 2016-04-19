@@ -1,0 +1,75 @@
+{
+  "id": 185715057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566559,45.760554,-108.566559,45.760554",
+    "geom:latitude":45.760554,
+    "geom:longitude":-108.566559,
+    "iso:country":"US",
+    "sg:address":"547 S 20th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 7032",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J3QblVZGOBgYjRDXWt88X_45.760554_-108.566559@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb3dd5c1551cc2077d2963f3f88c005c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185715057
+        }
+    ],
+    "wof:id":185715057,
+    "wof:lastmodified":1449007897,
+    "wof:name":"American West Gallery",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [-108.566559,45.760554,-108.566559,45.760554],
+  "geometry": {"coordinates":[-108.566559,45.760554],"type":"Point"}
+}

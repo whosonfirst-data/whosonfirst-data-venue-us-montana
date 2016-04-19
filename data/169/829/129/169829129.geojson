@@ -1,0 +1,68 @@
+{
+  "id": 169829129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.442544,45.867357,-108.442544,45.867357",
+    "geom:latitude":45.867357,
+    "geom:longitude":-108.442544,
+    "iso:country":"US",
+    "sg:address":"1412 Sagebrush Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 6328",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "new",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21zuZow0GTt6XFBLMQDlLa_45.867357_-108.442544@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"320baa5dfc61f1af90f42932fbbceae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":169829129
+        }
+    ],
+    "wof:id":169829129,
+    "wof:lastmodified":1449035745,
+    "wof:name":"Town and Country Motor Sales",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used"
+    ]
+},
+  "bbox": [-108.442544,45.867357,-108.442544,45.867357],
+  "geometry": {"coordinates":[-108.442544,45.867357],"type":"Point"}
+}

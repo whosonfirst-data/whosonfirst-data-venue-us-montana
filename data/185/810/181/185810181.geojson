@@ -1,0 +1,65 @@
+{
+  "id": 185810181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.997409,46.856114,-113.997409,46.856114",
+    "geom:latitude":46.856114,
+    "geom:longitude":-113.997409,
+    "iso:country":"US",
+    "sg:address":"1547 S Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 5785",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085103,
+        85891729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gHMX75hSomCAUNlIpn9LL_46.856114_-113.997409@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c57ddc65c00a71a301bf8eb374eaa108",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":-1,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":185810181
+        }
+    ],
+    "wof:id":185810181,
+    "wof:lastmodified":1449007084,
+    "wof:name":"JTL Dental Lab",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [-113.997409,46.856114,-113.997409,46.856114],
+  "geometry": {"coordinates":[-113.997409,46.856114],"type":"Point"}
+}

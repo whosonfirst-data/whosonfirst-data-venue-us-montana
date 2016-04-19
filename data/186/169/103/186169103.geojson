@@ -1,0 +1,68 @@
+{
+  "id": 186169103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.339727,48.19783,-114.339727,48.19783",
+    "geom:latitude":48.19783,
+    "geom:longitude":-114.339727,
+    "iso:country":"US",
+    "sg:address":"516 Corporate Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 7113",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42mqZwajKq39Cdu1W8DG5Z_48.197830_-114.339727@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a28918c69c1d7e1a73f58c12ffe34c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186169103
+        }
+    ],
+    "wof:id":186169103,
+    "wof:lastmodified":1449052019,
+    "wof:name":"Westgate Senior Apartments",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-114.339727,48.19783,-114.339727,48.19783],
+  "geometry": {"coordinates":[-114.339727,48.19783],"type":"Point"}
+}

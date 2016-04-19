@@ -1,0 +1,66 @@
+{
+  "id": 186079667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.573667,45.783196,-108.573667,45.783196",
+    "geom:latitude":45.783196,
+    "geom:longitude":-108.573667,
+    "iso:country":"US",
+    "sg:address":"2125 Alderson Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 670 9240",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rxgQI92r5YKRKi2slP3px_45.783196_-108.573667@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2297c4d81cedf3d30ed432c0a842552a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186079667
+        }
+    ],
+    "wof:id":186079667,
+    "wof:lastmodified":1449052558,
+    "wof:name":"A-Z Cleaning",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-108.573667,45.783196,-108.573667,45.783196],
+  "geometry": {"coordinates":[-108.573667,45.783196],"type":"Point"}
+}

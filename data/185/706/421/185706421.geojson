@@ -1,0 +1,68 @@
+{
+  "id": 185706421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.451253,45.830231,-108.451253,45.830231",
+    "geom:latitude":45.830231,
+    "geom:longitude":-108.451253,
+    "iso:country":"US",
+    "sg:address":"1327 Maurine St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8956",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lx3bpSmF87rb7dbU07mC4_45.830231_-108.451253@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00dc2ecfc32831d03b10d3fb2277fece",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185706421
+        }
+    ],
+    "wof:id":185706421,
+    "wof:lastmodified":1449006718,
+    "wof:name":"C & J Transportation",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-108.451253,45.830231,-108.451253,45.830231],
+  "geometry": {"coordinates":[-108.451253,45.830231],"type":"Point"}
+}

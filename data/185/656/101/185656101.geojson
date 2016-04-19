@@ -1,0 +1,66 @@
+{
+  "id": 185656101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.492881,45.770877,-108.492881,45.770877",
+    "geom:latitude":45.770877,
+    "geom:longitude":-108.492881,
+    "iso:country":"US",
+    "sg:address":"1120 S 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6325",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.energylab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02XekGUvjQk7c4waj6VUBF_45.770877_-108.492881@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eacadcb9da4e2d1d9ed81356ea2691a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":185656101
+        }
+    ],
+    "wof:id":185656101,
+    "wof:lastmodified":1449007646,
+    "wof:name":"Energy Laboratories Inc",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [-108.492881,45.770877,-108.492881,45.770877],
+  "geometry": {"coordinates":[-108.492881,45.770877],"type":"Point"}
+}

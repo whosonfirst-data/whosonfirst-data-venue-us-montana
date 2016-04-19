@@ -1,0 +1,67 @@
+{
+  "id": 186338213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.020763,46.5977,-112.020763,46.5977",
+    "geom:latitude":46.5977,
+    "geom:longitude":-112.020763,
+    "iso:country":"US",
+    "sg:address":"1330 N Montana Ave",
+    "sg:city":"Helena",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 443 5098",
+    "sg:postcode":"59601",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972711,
+        102085151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eIzukfrU7qjtq2JoVOr7W_46.597700_-112.020763@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a205efa83978af2c9af975fe4bb5542",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085151,
+            "locality_id":85972711,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186338213
+        }
+    ],
+    "wof:id":186338213,
+    "wof:lastmodified":1449051319,
+    "wof:name":"Malfunction Junction Sinclair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-112.020763,46.5977,-112.020763,46.5977],
+  "geometry": {"coordinates":[-112.020763,46.5977],"type":"Point"}
+}

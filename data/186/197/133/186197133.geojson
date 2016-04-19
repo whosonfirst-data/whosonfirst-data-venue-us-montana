@@ -1,0 +1,76 @@
+{
+  "id": 186197133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.596898,45.75614,-108.596898,45.75614",
+    "geom:latitude":45.75614,
+    "geom:longitude":-108.596898,
+    "iso:country":"US",
+    "sg:address":"3203 Henesta Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 4010",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YC3nW4xjydF6OYRJnGXnt_45.756140_-108.596898@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1bbab3d9101ce851af473c65453dcc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186197133
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186197133
+        }
+    ],
+    "wof:id":186197133,
+    "wof:lastmodified":1449052676,
+    "wof:name":"Sweetheart Bread",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-108.596898,45.75614,-108.596898,45.75614],
+  "geometry": {"coordinates":[-108.596898,45.75614],"type":"Point"}
+}

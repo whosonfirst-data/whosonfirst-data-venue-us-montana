@@ -1,0 +1,68 @@
+{
+  "id": 186356413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.518639,45.979972,-112.518639,45.979972",
+    "geom:latitude":45.979972,
+    "geom:longitude":-112.518639,
+    "iso:country":"US",
+    "sg:address":"3400 Hill Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 3400",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_453ImtWjmxbNERyRxkNMsg_45.979972_-112.518639@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3ab4ca698b00bbf8d02138cdb9f1d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":186356413
+        }
+    ],
+    "wof:id":186356413,
+    "wof:lastmodified":1449052530,
+    "wof:name":"Legion Oasis Apartments",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-112.518639,45.979972,-112.518639,45.979972],
+  "geometry": {"coordinates":[-112.518639,45.979972],"type":"Point"}
+}

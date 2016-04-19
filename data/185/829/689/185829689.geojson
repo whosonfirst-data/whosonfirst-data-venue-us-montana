@@ -1,0 +1,67 @@
+{
+  "id": 185829689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.963399,46.130946,-112.963399,46.130946",
+    "geom:latitude":46.130946,
+    "geom:longitude":-112.963399,
+    "iso:country":"US",
+    "sg:address":"819 W Park Ave",
+    "sg:city":"Anaconda",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 563 6707",
+    "sg:postcode":"59711",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972705,
+        102085161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35heTXS5dkIKENyjG2EL8N_46.130946_-112.963399@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"818b58f2951301389b82e89574689120",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085161,
+            "locality_id":85972705,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185829689
+        }
+    ],
+    "wof:id":185829689,
+    "wof:lastmodified":1449008104,
+    "wof:name":"Town Pump Inc & Affiliates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-112.963399,46.130946,-112.963399,46.130946],
+  "geometry": {"coordinates":[-112.963399,46.130946],"type":"Point"}
+}

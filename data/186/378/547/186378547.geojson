@@ -1,0 +1,68 @@
+{
+  "id": 186378547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.018351,46.884816,-114.018351,46.884816",
+    "geom:latitude":46.884816,
+    "geom:longitude":-114.018351,
+    "iso:country":"US",
+    "sg:address":"1314 N Russell St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 1115",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uaFGTp6D6JPjD6zHyrgpT_46.884816_-114.018351@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"040303a79f72fa895bdb4abe60e2d57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":186378547
+        }
+    ],
+    "wof:id":186378547,
+    "wof:lastmodified":1449052180,
+    "wof:name":"Hickman Sites",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "rental"
+    ]
+},
+  "bbox": [-114.018351,46.884816,-114.018351,46.884816],
+  "geometry": {"coordinates":[-114.018351,46.884816],"type":"Point"}
+}

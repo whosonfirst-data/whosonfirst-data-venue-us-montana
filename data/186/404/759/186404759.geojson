@@ -1,0 +1,68 @@
+{
+  "id": 186404759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.542252,45.769797,-108.542252,45.769797",
+    "geom:latitude":45.769797,
+    "geom:longitude":-108.542252,
+    "iso:country":"US",
+    "sg:address":"1001 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 5265",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zcm5otrvLEH4sxxWYMPcL_45.769797_-108.542252@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7cf2c3c18ffdf0c31e33df6ceb1a4a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186404759
+        }
+    ],
+    "wof:id":186404759,
+    "wof:lastmodified":1449052149,
+    "wof:name":"Wagner's Mechanical Inc",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-108.542252,45.769797,-108.542252,45.769797],
+  "geometry": {"coordinates":[-108.542252,45.769797],"type":"Point"}
+}

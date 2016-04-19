@@ -1,0 +1,70 @@
+{
+  "id": 186226071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.018245,46.835915,-114.018245,46.835915",
+    "geom:latitude":46.835915,
+    "geom:longitude":-114.018245,
+    "iso:country":"US",
+    "sg:address":"3700 S Russell St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 8530",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0msMhXwYhgNtI9fOjJls3o_46.835915_-114.018245@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad0db24ee1296eb2a90b0d7465432d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186226071
+        }
+    ],
+    "wof:id":186226071,
+    "wof:lastmodified":1449052302,
+    "wof:name":"Mark Coward MD PC",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [-114.018245,46.835915,-114.018245,46.835915],
+  "geometry": {"coordinates":[-114.018245,46.835915],"type":"Point"}
+}

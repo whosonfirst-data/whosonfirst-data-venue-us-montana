@@ -1,0 +1,65 @@
+{
+  "id": 186227287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.331743,45.854065,-111.331743,45.854065",
+    "geom:latitude":45.854065,
+    "geom:longitude":-111.331743,
+    "iso:country":"US",
+    "sg:address":"207 6th St S",
+    "sg:city":"Manhattan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 284 3393",
+    "sg:postcode":"59741",
+    "sg:province":"MT",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972655,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PmXh4GVNUzQR35avZ4dTj_45.854065_-111.331743@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fcc523cb7b97ed777a4a8996f3b76c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972655,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186227287
+        }
+    ],
+    "wof:id":186227287,
+    "wof:lastmodified":1449050982,
+    "wof:name":"Manhattan Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-111.331743,45.854065,-111.331743,45.854065],
+  "geometry": {"coordinates":[-111.331743,45.854065],"type":"Point"}
+}

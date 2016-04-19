@@ -1,0 +1,66 @@
+{
+  "id": 186430309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.997298,46.87183,-113.997298,46.87183",
+    "geom:latitude":46.87183,
+    "geom:longitude":-113.997298,
+    "iso:country":"US",
+    "sg:address":"233 W Main St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 7084",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ib5IV2hA1qwElYHz2EkXC_46.871830_-113.997298@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee7b81449e1c22c9d61727ea05da53ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":186430309
+        }
+    ],
+    "wof:id":186430309,
+    "wof:lastmodified":1449052084,
+    "wof:name":"Reynolds Radiator",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-113.997298,46.87183,-113.997298,46.87183],
+  "geometry": {"coordinates":[-113.997298,46.87183],"type":"Point"}
+}

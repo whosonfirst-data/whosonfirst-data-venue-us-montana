@@ -1,0 +1,66 @@
+{
+  "id": 185751509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.263129,48.221336,-114.263129,48.221336",
+    "geom:latitude":48.221336,
+    "geom:longitude":-114.263129,
+    "iso:country":"US",
+    "sg:address":"111 Bernard Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 2358",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66VRxVxG6NdHbf06dHl7Cq_48.221336_-114.263129@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1cbfafc6dd6a25b90e0cc9cf134a630c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185751509
+        }
+    ],
+    "wof:id":185751509,
+    "wof:lastmodified":1449006677,
+    "wof:name":"Celtic Motors",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-114.263129,48.221336,-114.263129,48.221336],
+  "geometry": {"coordinates":[-114.263129,48.221336],"type":"Point"}
+}

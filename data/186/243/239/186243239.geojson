@@ -1,0 +1,75 @@
+{
+  "id": 186243239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.579207,45.745953,-108.579207,45.745953",
+    "geom:latitude":45.745953,
+    "geom:longitude":-108.579207,
+    "iso:country":"US",
+    "sg:address":"2550 Gabel Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 3737",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a0unkp0afLDjoiwUpOouW_45.745953_-108.579207@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62b63ab4a37b2fec0a32fe0b7eec9b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186243239
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186243239
+        }
+    ],
+    "wof:id":186243239,
+    "wof:lastmodified":1449051261,
+    "wof:name":"Tire Rama Service Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [-108.579207,45.745953,-108.579207,45.745953],
+  "geometry": {"coordinates":[-108.579207,45.745953],"type":"Point"}
+}

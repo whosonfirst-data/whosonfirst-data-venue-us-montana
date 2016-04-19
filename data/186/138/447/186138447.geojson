@@ -1,0 +1,70 @@
+{
+  "id": 186138447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.415317,45.878142,-108.415317,45.878142",
+    "geom:latitude":45.878142,
+    "geom:longitude":-108.415317,
+    "iso:country":"US",
+    "sg:address":"4212 Hwy 312",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6554",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "engine",
+        "airplane",
+        "rebuilds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vq0vEyx7OvYQ1znzUqViR_45.878142_-108.415317@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7096b037a7c5610fa6d812a08ba8e8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186138447
+        }
+    ],
+    "wof:id":186138447,
+    "wof:lastmodified":1449051150,
+    "wof:name":"Mac Aircraft Engine Inc",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "airplane",
+        "rebuilds"
+    ]
+},
+  "bbox": [-108.415317,45.878142,-108.415317,45.878142],
+  "geometry": {"coordinates":[-108.415317,45.878142],"type":"Point"}
+}

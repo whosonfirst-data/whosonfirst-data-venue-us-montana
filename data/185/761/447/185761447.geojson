@@ -1,0 +1,72 @@
+{
+  "id": 185761447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.433467,45.809714,-108.433467,45.809714",
+    "geom:latitude":45.809714,
+    "geom:longitude":-108.433467,
+    "iso:country":"US",
+    "sg:address":"607 Exxon Refinery Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 5400",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "terminal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:brand_id":420574309,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fICGRmFZnl2XRw8HHRr4c_45.809714_-108.433467@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15110399fd4a945fba634ec603194081",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":185761447
+        }
+    ],
+    "wof:id":185761447,
+    "wof:lastmodified":1457208767,
+    "wof:name":"Exxon",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal"
+    ]
+},
+  "bbox": [
+    -108.433467,
+    45.809714,
+    -108.433467,
+    45.809714
+],
+  "geometry": {"coordinates":[-108.43346699999999,45.809714],"type":"Point"}
+}

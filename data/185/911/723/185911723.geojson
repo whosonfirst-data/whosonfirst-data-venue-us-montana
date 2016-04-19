@@ -1,0 +1,70 @@
+{
+  "id": 185911723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.630881,45.783468,-108.630881,45.783468",
+    "geom:latitude":45.783468,
+    "geom:longitude":-108.630881,
+    "iso:country":"US",
+    "sg:address":"1365 Bluegrass Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4077",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SiOeb5Y1ouurO3W6Im6Hf_45.783468_-108.630881@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72d860b6c132d87c2557c60f93ad37c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185911723
+        }
+    ],
+    "wof:id":185911723,
+    "wof:lastmodified":1449007970,
+    "wof:name":"Raymond Halsey",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-108.630881,45.783468,-108.630881,45.783468],
+  "geometry": {"coordinates":[-108.630881,45.783468],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 185645985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.502398,45.985401,-112.502398,45.985401",
+    "geom:latitude":45.985401,
+    "geom:longitude":-112.502398,
+    "iso:country":"US",
+    "sg:address":"2825 Farragut Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 7038",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "apartment",
+        "complex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kijb9xjfH8T5TpsUOgBra_45.985401_-112.502398@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e4fd1979f46a8fa18f63083fe66868c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185645985
+        }
+    ],
+    "wof:id":185645985,
+    "wof:lastmodified":1449006775,
+    "wof:name":"Sunset Silver Bow Apartments",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "complex"
+    ]
+},
+  "bbox": [-112.502398,45.985401,-112.502398,45.985401],
+  "geometry": {"coordinates":[-112.502398,45.985401],"type":"Point"}
+}

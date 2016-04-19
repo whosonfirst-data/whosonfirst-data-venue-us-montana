@@ -1,0 +1,67 @@
+{
+  "id": 186283983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.514091,45.752028,-108.514091,45.752028",
+    "geom:latitude":45.752028,
+    "geom:longitude":-108.514091,
+    "iso:country":"US",
+    "sg:address":"3708 S Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 4668",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AW2ln0dsTUBBeLSE9SiHM_45.752028_-108.514091@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7fa8b6f6e00a8645f7d64d47a2ec8765",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":186283983
+        }
+    ],
+    "wof:id":186283983,
+    "wof:lastmodified":1449051169,
+    "wof:name":"Yellowstone Meat Co",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [-108.514091,45.752028,-108.514091,45.752028],
+  "geometry": {"coordinates":[-108.514091,45.752028],"type":"Point"}
+}

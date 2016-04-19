@@ -1,0 +1,70 @@
+{
+  "id": 186129475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.485538,45.832303,-108.485538,45.832303",
+    "geom:latitude":45.832303,
+    "geom:longitude":-108.485538,
+    "iso:country":"US",
+    "sg:address":"1810 Venus Cir",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 4748",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tp1a2J1puVaYtivgrrp3L_45.832303_-108.485538@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d9e87855c89d5eff593aee3672aef32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186129475
+        }
+    ],
+    "wof:id":186129475,
+    "wof:lastmodified":1449052491,
+    "wof:name":"Dana Rau Trucking",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-108.485538,45.832303,-108.485538,45.832303],
+  "geometry": {"coordinates":[-108.485538,45.832303],"type":"Point"}
+}

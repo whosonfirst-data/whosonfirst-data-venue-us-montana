@@ -1,0 +1,67 @@
+{
+  "id": 186391711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-104.515705,48.144436,-104.515705,48.144436",
+    "geom:latitude":48.144436,
+    "geom:longitude":-104.515705,
+    "iso:country":"US",
+    "sg:address":"7 1st St E",
+    "sg:city":"Culbertson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 787 5822",
+    "sg:postcode":"59218",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972879,
+        102085139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30zoBq2OcGlshpQNfPVafb_48.144436_-104.515705@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36e98b4160b44a876f699a52c74772f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085139,
+            "locality_id":85972879,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186391711
+        }
+    ],
+    "wof:id":186391711,
+    "wof:lastmodified":1449052097,
+    "wof:name":"Steve's Automotive Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-104.515705,48.144436,-104.515705,48.144436],
+  "geometry": {"coordinates":[-104.515705,48.144436],"type":"Point"}
+}

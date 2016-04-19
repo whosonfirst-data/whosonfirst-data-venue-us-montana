@@ -1,0 +1,68 @@
+{
+  "id": 185701223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.535591,46.034959,-112.535591,46.034959",
+    "geom:latitude":46.034959,
+    "geom:longitude":-112.535591,
+    "iso:country":"US",
+    "sg:address":"2105 N Main St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 1076",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JVTdcReju6F5SPWwWTAEo_46.034959_-112.535591@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0d2781d6d28d07e5fbdf722d98a47ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185701223
+        }
+    ],
+    "wof:id":185701223,
+    "wof:lastmodified":1449007887,
+    "wof:name":"Moulton Water Treatment Plant",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [-112.535591,46.034959,-112.535591,46.034959],
+  "geometry": {"coordinates":[-112.535591,46.034959],"type":"Point"}
+}

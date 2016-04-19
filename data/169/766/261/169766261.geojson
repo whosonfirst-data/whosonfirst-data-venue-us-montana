@@ -1,0 +1,68 @@
+{
+  "id": 169766261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.490766,45.838364,-108.490766,45.838364",
+    "geom:latitude":45.838364,
+    "geom:longitude":-108.490766,
+    "iso:country":"US",
+    "sg:address":"2215 St Andrews Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 2447",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LJ2xymgBixJ9BCEh0c8zC_45.838364_-108.490766@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"527c885e0d9d65f840df6db9cbe1a144",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":169766261
+        }
+    ],
+    "wof:id":169766261,
+    "wof:lastmodified":1449032636,
+    "wof:name":"Billings Anesthesiology",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-108.490766,45.838364,-108.490766,45.838364],
+  "geometry": {"coordinates":[-108.490766,45.838364],"type":"Point"}
+}

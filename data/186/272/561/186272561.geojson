@@ -1,0 +1,66 @@
+{
+  "id": 186272561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.617595,45.798452,-108.617595,45.798452",
+    "geom:latitude":45.798452,
+    "geom:longitude":-108.617595,
+    "iso:country":"US",
+    "sg:address":"4020 Rimrock Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 8862",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iMXlTzmzZGULAuSjvt4ex_45.798452_-108.617595@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"beae2c6a968656bb17934103c45d05da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186272561
+        }
+    ],
+    "wof:id":186272561,
+    "wof:lastmodified":1449052848,
+    "wof:name":"Kirk Violins Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [-108.617595,45.798452,-108.617595,45.798452],
+  "geometry": {"coordinates":[-108.617595,45.798452],"type":"Point"}
+}

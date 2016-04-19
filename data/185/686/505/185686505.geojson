@@ -1,0 +1,67 @@
+{
+  "id": 185686505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.503935,45.760668,-108.503935,45.760668",
+    "geom:latitude":45.760668,
+    "geom:longitude":-108.503935,
+    "iso:country":"US",
+    "sg:address":"3010 Hannon Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 9527",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DZv8q73d7IbVH36UPf9KV_45.760668_-108.503935@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a741863f68b5cedc46cd0f54f00f7aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":185686505
+        }
+    ],
+    "wof:id":185686505,
+    "wof:lastmodified":1449007837,
+    "wof:name":"C W X",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-108.503935,45.760668,-108.503935,45.760668],
+  "geometry": {"coordinates":[-108.503935,45.760668],"type":"Point"}
+}

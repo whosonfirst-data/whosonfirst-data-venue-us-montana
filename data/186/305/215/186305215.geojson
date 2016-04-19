@@ -1,0 +1,67 @@
+{
+  "id": 186305215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.49349,45.787981,-108.49349,45.787981",
+    "geom:latitude":45.787981,
+    "geom:longitude":-108.49349,
+    "iso:country":"US",
+    "sg:address":"1702 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 1555",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01ulhG238wnwxaUsftnjXw_45.787981_-108.493490@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0a24f30ff770ecd5beebd4f0515da14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186305215
+        }
+    ],
+    "wof:id":186305215,
+    "wof:lastmodified":1449050804,
+    "wof:name":"Macs Used Boxes",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-108.49349,45.787981,-108.49349,45.787981],
+  "geometry": {"coordinates":[-108.49349,45.787981],"type":"Point"}
+}

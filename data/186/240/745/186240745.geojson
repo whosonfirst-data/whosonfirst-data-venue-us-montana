@@ -1,0 +1,67 @@
+{
+  "id": 186240745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.732349,45.678376,-108.732349,45.678376",
+    "geom:latitude":45.678376,
+    "geom:longitude":-108.732349,
+    "iso:country":"US",
+    "sg:address":"2378 US Hwy 212",
+    "sg:city":"Ashland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 784 2344",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "government"
+    ],
+    "sg:website":"www.fs.fed.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C73YGiO8nveq2sZmN72Rs_45.678376_-108.732349@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1838312f68e7ff9350297034d897a1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":186240745
+        }
+    ],
+    "wof:id":186240745,
+    "wof:lastmodified":1449050526,
+    "wof:name":"US Forest Svc Ranger Station",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [-108.732349,45.678376,-108.732349,45.678376],
+  "geometry": {"coordinates":[-108.732349,45.678376],"type":"Point"}
+}

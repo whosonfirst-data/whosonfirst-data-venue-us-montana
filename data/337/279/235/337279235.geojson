@@ -1,0 +1,68 @@
+{
+  "id": 337279235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.455918,45.891947,-108.455918,45.891947",
+    "geom:latitude":45.891947,
+    "geom:longitude":-108.455918,
+    "iso:country":"US",
+    "sg:address":"5040 Middle Valley Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 7298",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dWWEVuU1pR4NIhK3Y7QO3_45.891947_-108.455918@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e9ca43ebf0b3dcae4e1b899aa25e49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":337279235
+        }
+    ],
+    "wof:id":337279235,
+    "wof:lastmodified":1449027319,
+    "wof:name":"Northern Lights Express",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-108.455918,45.891947,-108.455918,45.891947],
+  "geometry": {"coordinates":[-108.455918,45.891947],"type":"Point"}
+}

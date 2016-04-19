@@ -1,0 +1,68 @@
+{
+  "id": 186435767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.5555,45.793756,-108.5555,45.793756",
+    "geom:latitude":45.793756,
+    "geom:longitude":-108.5555,
+    "iso:country":"US",
+    "sg:address":"2475 Village Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 3937",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15HDLSbps5U945EV8LG0ly_45.793756_-108.555500@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9772f2bfbf3573c5842c66c6b23dda1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186435767
+        }
+    ],
+    "wof:id":186435767,
+    "wof:lastmodified":1449052771,
+    "wof:name":"LA Greca Morledge-Hampton",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-108.5555,45.793756,-108.5555,45.793756],
+  "geometry": {"coordinates":[-108.5555,45.793756],"type":"Point"}
+}

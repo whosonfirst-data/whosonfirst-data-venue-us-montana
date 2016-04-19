@@ -1,0 +1,81 @@
+{
+  "id": 185831795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.582715,45.742156,-108.582715,45.742156",
+    "geom:latitude":45.742156,
+    "geom:longitude":-108.582715,
+    "iso:country":"US",
+    "sg:address":"6624 S Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 1043",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "line",
+        "gas",
+        "power",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fU1GFnTlLGQeWXbwJSkMF_45.742156_-108.582715@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8834529eb87ef1fbd6d5279b8f4ea1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185831795
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185831795
+        }
+    ],
+    "wof:id":185831795,
+    "wof:lastmodified":1449007558,
+    "wof:name":"Rocky Mountain Contractors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "gas",
+        "power",
+        "contractor"
+    ]
+},
+  "bbox": [-108.582715,45.742156,-108.582715,45.742156],
+  "geometry": {"coordinates":[-108.582715,45.742156],"type":"Point"}
+}

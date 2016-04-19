@@ -1,0 +1,67 @@
+{
+  "id": 169833695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-104.190749,46.986359,-104.190749,46.986359",
+    "geom:latitude":46.986359,
+    "geom:longitude":-104.190749,
+    "iso:country":"US",
+    "sg:address":"212 1st Ave SW",
+    "sg:city":"Wibaux",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 795 2411",
+    "sg:postcode":"59353",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dept",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972727,
+        102085199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nT7D3mOK9veXrDTTaBItT_46.986359_-104.190749@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9eff327ba41e1e06507816d544eda4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085199,
+            "locality_id":85972727,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169833695
+        }
+    ],
+    "wof:id":169833695,
+    "wof:lastmodified":1449033105,
+    "wof:name":"Wibaux Volunteer Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "volunteer"
+    ]
+},
+  "bbox": [-104.190749,46.986359,-104.190749,46.986359],
+  "geometry": {"coordinates":[-104.190749,46.986359],"type":"Point"}
+}

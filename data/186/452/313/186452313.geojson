@@ -1,0 +1,67 @@
+{
+  "id": 186452313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-105.636979,48.095766,-105.636979,48.095766",
+    "geom:latitude":48.095766,
+    "geom:longitude":-105.636979,
+    "iso:country":"US",
+    "sg:address":"225 Hwy 2",
+    "sg:city":"Wolf Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 653 1652",
+    "sg:postcode":"59201",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972875,
+        102085139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NhjeczvJRAG8DoSNkwWpx_48.095766_-105.636979@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12ec51dc941849c28c1c67734a11d42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085139,
+            "locality_id":85972875,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186452313
+        }
+    ],
+    "wof:id":186452313,
+    "wof:lastmodified":1449051030,
+    "wof:name":"Peters Auto Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-105.636979,48.095766,-105.636979,48.095766],
+  "geometry": {"coordinates":[-105.636979,48.095766],"type":"Point"}
+}

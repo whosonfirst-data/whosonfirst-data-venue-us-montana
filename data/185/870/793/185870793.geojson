@@ -1,0 +1,66 @@
+{
+  "id": 185870793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.534579,46.013718,-112.534579,46.013718",
+    "geom:latitude":46.013718,
+    "geom:longitude":-112.534579,
+    "iso:country":"US",
+    "sg:address":"60 E Broadway St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 7001",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o1uqbXKElqmTN5ZCa1uVy_46.013718_-112.534579@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ba755cb4c6bb4a1e966f8306c846504",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185870793
+        }
+    ],
+    "wof:id":185870793,
+    "wof:lastmodified":1449007030,
+    "wof:name":"Acoma Catering & Banquets",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [-112.534579,46.013718,-112.534579,46.013718],
+  "geometry": {"coordinates":[-112.534579,46.013718],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186046053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.507724,45.782303,-108.507724,45.782303",
+    "geom:latitude":45.782303,
+    "geom:longitude":-108.507724,
+    "iso:country":"US",
+    "sg:address":"113 N 29th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 2720",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IwNS2C2CF0nYpMGvunGVB_45.782303_-108.507724@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d3276f3ccbc04e0ed363098569e5ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":186046053
+        }
+    ],
+    "wof:id":186046053,
+    "wof:lastmodified":1449051864,
+    "wof:name":"Beartooth Coffee Roasters",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-108.507724,45.782303,-108.507724,45.782303],
+  "geometry": {"coordinates":[-108.507724,45.782303],"type":"Point"}
+}

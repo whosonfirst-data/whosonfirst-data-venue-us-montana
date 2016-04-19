@@ -1,0 +1,67 @@
+{
+  "id": 186130093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.484806,45.792379,-108.484806,45.792379",
+    "geom:latitude":45.792379,
+    "geom:longitude":-108.484806,
+    "iso:country":"US",
+    "sg:address":"1019 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 1380",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5voCcaTkBfxIQDlXTG2OnA_45.792379_-108.484806@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47bed17aad0de75f942fd5b18859aa1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186130093
+        }
+    ],
+    "wof:id":186130093,
+    "wof:lastmodified":1449051314,
+    "wof:name":"Clark Enterprises",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-108.484806,45.792379,-108.484806,45.792379],
+  "geometry": {"coordinates":[-108.484806,45.792379],"type":"Point"}
+}

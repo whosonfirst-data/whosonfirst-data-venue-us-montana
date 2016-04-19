@@ -1,0 +1,68 @@
+{
+  "id": 185713519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.01247,46.852434,-114.01247,46.852434",
+    "geom:latitude":46.852434,
+    "geom:longitude":-114.01247,
+    "iso:country":"US",
+    "sg:address":"1906 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 6155",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "supermarket",
+        "chain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CZ113nGXMRgBWm00LVo4Z_46.852434_-114.012470@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdf1bfc29c06e6f745997333a7449e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185713519
+        }
+    ],
+    "wof:id":185713519,
+    "wof:lastmodified":1449008069,
+    "wof:name":"Smiths",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supermarket",
+        "chain"
+    ]
+},
+  "bbox": [-114.01247,46.852434,-114.01247,46.852434],
+  "geometry": {"coordinates":[-114.01247,46.852434],"type":"Point"}
+}

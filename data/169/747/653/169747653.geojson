@@ -1,0 +1,68 @@
+{
+  "id": 169747653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.527874,45.771131,-108.527874,45.771131",
+    "geom:latitude":45.771131,
+    "geom:longitude":-108.527874,
+    "iso:country":"US",
+    "sg:address":"1 5th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 632 4400",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SarxcdZp19oWAApeauS8E_45.771131_-108.527874@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8378524f9c16d66dbcb2750a1817a93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169747653
+        }
+    ],
+    "wof:id":169747653,
+    "wof:lastmodified":1449033289,
+    "wof:name":"Wilting Plumbing & Heating",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-108.527874,45.771131,-108.527874,45.771131],
+  "geometry": {"coordinates":[-108.527874,45.771131],"type":"Point"}
+}

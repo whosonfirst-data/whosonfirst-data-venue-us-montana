@@ -1,0 +1,67 @@
+{
+  "id": 186018229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.059235,46.602902,-112.059235,46.602902",
+    "geom:latitude":46.602902,
+    "geom:longitude":-112.059235,
+    "iso:country":"US",
+    "sg:address":"1500 Cannon St",
+    "sg:city":"Helena",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 443 0169",
+    "sg:postcode":"59601",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972711,
+        102085151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AK6lALDlW17vwIB4g6UQE_46.602902_-112.059235@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6bf510b7e8efd7b2d0f5be7bbce1501",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085151,
+            "locality_id":85972711,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186018229
+        }
+    ],
+    "wof:id":186018229,
+    "wof:lastmodified":1449051714,
+    "wof:name":"Helena Valley Womens Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-112.059235,46.602902,-112.059235,46.602902],
+  "geometry": {"coordinates":[-112.059235,46.602902],"type":"Point"}
+}

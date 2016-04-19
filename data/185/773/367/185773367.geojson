@@ -1,0 +1,69 @@
+{
+  "id": 185773367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-107.602168,45.731923,-107.602168,45.731923",
+    "geom:latitude":45.731923,
+    "geom:longitude":-107.602168,
+    "iso:country":"US",
+    "sg:address":"201 E Railroad St",
+    "sg:city":"Hardin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 665 3969",
+    "sg:postcode":"59034",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972749,
+        102085169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50nyU9DG3rkoNm0pmjFxwu_45.731923_-107.602168@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76c7f7415e6adb46c4b2305127373ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085169,
+            "locality_id":85972749,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185773367
+        }
+    ],
+    "wof:id":185773367,
+    "wof:lastmodified":1449006800,
+    "wof:name":"Jay's Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-107.602168,45.731923,-107.602168,45.731923],
+  "geometry": {"coordinates":[-107.602168,45.731923],"type":"Point"}
+}

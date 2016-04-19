@@ -1,0 +1,72 @@
+{
+  "id": 186127395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.524862,45.77609,-108.524862,45.77609",
+    "geom:latitude":45.77609,
+    "geom:longitude":-108.524862,
+    "iso:country":"US",
+    "sg:address":"322 Custer Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 3233",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fXvezKrIDdyMFVi97lrq7_45.776090_-108.524862@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b156bc2a83236a4911f9c560d5e819ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":186127395
+        }
+    ],
+    "wof:id":186127395,
+    "wof:lastmodified":1449052808,
+    "wof:name":"All Hours Sewer Svc",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [-108.524862,45.77609,-108.524862,45.77609],
+  "geometry": {"coordinates":[-108.524862,45.77609],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185609867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.539375,46.012695,-112.539375,46.012695",
+    "geom:latitude":46.012695,
+    "geom:longitude":-112.539375,
+    "iso:country":"US",
+    "sg:address":"207 W Park St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 2985",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NRmGCKvOhvczFN5N5TlNx_46.012695_-112.539375@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6041f9d7e9ccfe8b995d7f0c9b541ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185609867
+        }
+    ],
+    "wof:id":185609867,
+    "wof:lastmodified":1449007204,
+    "wof:name":"Park Street Laundromat",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [-112.539375,46.012695,-112.539375,46.012695],
+  "geometry": {"coordinates":[-112.539375,46.012695],"type":"Point"}
+}

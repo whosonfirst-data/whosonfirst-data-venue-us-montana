@@ -1,0 +1,75 @@
+{
+  "id": 169781509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.538427,45.769139,-108.538427,45.769139",
+    "geom:latitude":45.769139,
+    "geom:longitude":-108.538427,
+    "iso:country":"US",
+    "sg:address":"136 Florine Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 9100",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cabinet",
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KyFBRNwHHw5VdEaIKm93U_45.769139_-108.538427@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02f8fa2d1aac97e9555af5bfd5c6c1d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169781509
+        }
+    ],
+    "wof:id":169781509,
+    "wof:lastmodified":1449033309,
+    "wof:name":"Cabinet Specialties",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabinet",
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [-108.538427,45.769139,-108.538427,45.769139],
+  "geometry": {"coordinates":[-108.538427,45.769139],"type":"Point"}
+}

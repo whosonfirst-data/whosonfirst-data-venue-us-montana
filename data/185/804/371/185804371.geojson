@@ -1,0 +1,65 @@
+{
+  "id": 185804371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-105.854366,46.404966,-105.854366,46.404966",
+    "geom:latitude":46.404966,
+    "geom:longitude":-105.854366,
+    "iso:country":"US",
+    "sg:address":"3 Main St",
+    "sg:city":"Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 486 5400",
+    "sg:postcode":"59301",
+    "sg:province":"MT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972691,
+        102085197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f42bxdmMVwuPO6pbCEOmH_46.404966_-105.854366@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de73b7c5e84de06f334af6db404279c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085197,
+            "locality_id":85972691,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185804371
+        }
+    ],
+    "wof:id":185804371,
+    "wof:lastmodified":1449007711,
+    "wof:name":"Fallon Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-105.854366,46.404966,-105.854366,46.404966],
+  "geometry": {"coordinates":[-105.854366,46.404966],"type":"Point"}
+}

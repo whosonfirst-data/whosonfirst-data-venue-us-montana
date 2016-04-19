@@ -1,0 +1,82 @@
+{
+  "id": 185644189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576207,45.753924,-108.576207,45.753924",
+    "geom:latitude":45.753924,
+    "geom:longitude":-108.576207,
+    "iso:country":"US",
+    "sg:address":"1050 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8645",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cglPnIeZ1VEJtSsiQu5UZ_45.753924_-108.576207@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf837f6ee141d6e16e6fffbd45223d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185644189
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185644189
+        }
+    ],
+    "wof:id":185644189,
+    "wof:lastmodified":1449007525,
+    "wof:name":"Priori Care Staffing Solutions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [-108.576207,45.753924,-108.576207,45.753924],
+  "geometry": {"coordinates":[-108.576207,45.753924],"type":"Point"}
+}

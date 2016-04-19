@@ -1,0 +1,73 @@
+{
+  "id": 185622599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.302718,47.506465,-111.302718,47.506465",
+    "geom:latitude":47.506465,
+    "geom:longitude":-111.302718,
+    "iso:country":"US",
+    "sg:address":"215 1st Ave N",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 771 2160",
+    "sg:postcode":"59401",
+    "sg:province":"MT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972763,
+        102085113
+    ],
+    "wof:brand_id":420573749,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2faEMJIlJ6Q7Ae7AxIuhDF_47.506465_-111.302718@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"197d5e9e4c0bbbb1c4a64a6e688a63d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085113,
+            "locality_id":85972763,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185622599
+        }
+    ],
+    "wof:id":185622599,
+    "wof:lastmodified":1457207044,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -111.302718,
+    47.506465,
+    -111.302718,
+    47.506465
+],
+  "geometry": {"coordinates":[-111.302718,47.506465],"type":"Point"}
+}

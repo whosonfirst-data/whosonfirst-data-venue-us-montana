@@ -1,0 +1,68 @@
+{
+  "id": 185834393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.539711,45.768999,-108.539711,45.768999",
+    "geom:latitude":45.768999,
+    "geom:longitude":-108.539711,
+    "iso:country":"US",
+    "sg:address":"236 Prickett Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8841",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NV9qyxc719nlYTEDvT88z_45.768999_-108.539711@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"644f0fb28de8903927e01eff51f307b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185834393
+        }
+    ],
+    "wof:id":185834393,
+    "wof:lastmodified":1449006763,
+    "wof:name":"D & J Roofing",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [-108.539711,45.768999,-108.539711,45.768999],
+  "geometry": {"coordinates":[-108.539711,45.768999],"type":"Point"}
+}

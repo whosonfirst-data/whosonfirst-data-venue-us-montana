@@ -1,0 +1,68 @@
+{
+  "id": 185736655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.588433,45.784097,-108.588433,45.784097",
+    "geom:latitude":45.784097,
+    "geom:longitude":-108.588433,
+    "iso:country":"US",
+    "sg:address":"2975 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 0871",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fJbUTHyOik1XoFQztsqIE_45.784097_-108.588433@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b50da228b5df9a4a45a431b102022ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185736655
+        }
+    ],
+    "wof:id":185736655,
+    "wof:lastmodified":1449008170,
+    "wof:name":"C H S",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-108.588433,45.784097,-108.588433,45.784097],
+  "geometry": {"coordinates":[-108.588433,45.784097],"type":"Point"}
+}

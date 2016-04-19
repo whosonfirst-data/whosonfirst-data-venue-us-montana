@@ -1,0 +1,68 @@
+{
+  "id": 186035261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.037313,45.680601,-111.037313,45.680601",
+    "geom:latitude":45.680601,
+    "geom:longitude":-111.037313,
+    "iso:country":"US",
+    "sg:address":"121 N Tracy Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 9793",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NlpCIM4DnTTHNsKiVlL6K_45.680601_-111.037313@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04ac4d2078f7e419d304b0e00ce51f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":186035261
+        }
+    ],
+    "wof:id":186035261,
+    "wof:lastmodified":1449052494,
+    "wof:name":"Kilbride Painting",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [-111.037313,45.680601,-111.037313,45.680601],
+  "geometry": {"coordinates":[-111.037313,45.680601],"type":"Point"}
+}

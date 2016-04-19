@@ -1,0 +1,66 @@
+{
+  "id": 186115627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.361542,45.943814,-108.361542,45.943814",
+    "geom:latitude":45.943814,
+    "geom:longitude":-108.361542,
+    "iso:country":"US",
+    "sg:address":"4939 Shepherd Acton Rd",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 698 8791",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NfWAHD4iJDHAvFQQhzxWR_45.943814_-108.361542@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8ecd8bc29dc1c9b2f7e9c806b8fdca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186115627
+        }
+    ],
+    "wof:id":186115627,
+    "wof:lastmodified":1449050231,
+    "wof:name":"Big Sky Towing & Auto Repair",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [-108.361542,45.943814,-108.361542,45.943814],
+  "geometry": {"coordinates":[-108.361542,45.943814],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186191633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.514614,45.790223,-108.514614,45.790223",
+    "geom:latitude":45.790223,
+    "geom:longitude":-108.514614,
+    "iso:country":"US",
+    "sg:address":"2800 10th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 255 8400",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i3LSUGZliFPlcv2kbzHex_45.790223_-108.514614@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"350e79822d4a0a77b6b34860a76f22ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186191633
+        }
+    ],
+    "wof:id":186191633,
+    "wof:lastmodified":1449051987,
+    "wof:name":"Sleep Disorders Ctr",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-108.514614,45.790223,-108.514614,45.790223],
+  "geometry": {"coordinates":[-108.514614,45.790223],"type":"Point"}
+}

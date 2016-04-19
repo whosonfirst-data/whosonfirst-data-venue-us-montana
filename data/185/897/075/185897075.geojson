@@ -1,0 +1,66 @@
+{
+  "id": 185897075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.780585,45.669128,-108.780585,45.669128",
+    "geom:latitude":45.669128,
+    "geom:longitude":-108.780585,
+    "iso:country":"US",
+    "sg:address":"20 7th Ave",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 2889",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wU6RTlqSsEnnFppwBZOqq_45.669128_-108.780585@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12cbc791c5027de54b42ae223d18f8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185897075
+        }
+    ],
+    "wof:id":185897075,
+    "wof:lastmodified":1449007974,
+    "wof:name":"Friendship Veterinary Ctr",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-108.780585,45.669128,-108.780585,45.669128],
+  "geometry": {"coordinates":[-108.780585,45.669128],"type":"Point"}
+}

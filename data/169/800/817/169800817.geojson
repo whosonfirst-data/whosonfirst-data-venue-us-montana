@@ -1,0 +1,67 @@
+{
+  "id": 169800817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-106.637651,48.189951,-106.637651,48.189951",
+    "geom:latitude":48.189951,
+    "geom:longitude":-106.637651,
+    "iso:country":"US",
+    "sg:address":"341 Francis St",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 228 9819",
+    "sg:postcode":"59230",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shelter",
+        "homeless"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972901,
+        102085109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r3t4HV4kyPTg0HfvOP6F4_48.189951_-106.637651@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"836000dc8b71ed0f7dbd778d5882908b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085109,
+            "locality_id":85972901,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169800817
+        }
+    ],
+    "wof:id":169800817,
+    "wof:lastmodified":1449032940,
+    "wof:name":"Francis House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "homeless"
+    ]
+},
+  "bbox": [-106.637651,48.189951,-106.637651,48.189951],
+  "geometry": {"coordinates":[-106.637651,48.189951],"type":"Point"}
+}

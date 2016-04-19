@@ -1,0 +1,68 @@
+{
+  "id": 186422275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.516608,45.999165,-112.516608,45.999165",
+    "geom:latitude":45.999165,
+    "geom:longitude":-112.516608,
+    "iso:country":"US",
+    "sg:address":"1600 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 3241",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4co9ReuQV0P0lDETz8uBtM_45.999165_-112.516608@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0794391e28f920ff046a517f6a2c5806",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186422275
+        }
+    ],
+    "wof:id":186422275,
+    "wof:lastmodified":1449050446,
+    "wof:name":"Parts Plus Inc",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [-112.516608,45.999165,-112.516608,45.999165],
+  "geometry": {"coordinates":[-112.516608,45.999165],"type":"Point"}
+}

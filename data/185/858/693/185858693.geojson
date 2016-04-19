@@ -1,0 +1,65 @@
+{
+  "id": 185858693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.483097,45.796908,-108.483097,45.796908",
+    "geom:latitude":45.796908,
+    "geom:longitude":-108.483097,
+    "iso:country":"US",
+    "sg:address":"711 4th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 9601",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SM2uQPJeQUIwmd8gU5Rvo_45.796908_-108.483097@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54f9482f64b31644dfaa0fd70b559583",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185858693
+        }
+    ],
+    "wof:id":185858693,
+    "wof:lastmodified":1449006769,
+    "wof:name":"Medtrans",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-108.483097,45.796908,-108.483097,45.796908],
+  "geometry": {"coordinates":[-108.483097,45.796908],"type":"Point"}
+}

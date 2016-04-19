@@ -1,0 +1,71 @@
+{
+  "id": 186147849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.946497,48.167218,-111.946497,48.167218",
+    "geom:latitude":48.167218,
+    "geom:longitude":-111.946497,
+    "iso:country":"US",
+    "sg:address":"514 S Front St",
+    "sg:city":"Conrad",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 278 3205",
+    "sg:postcode":"59425",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hospital",
+        "specialty",
+        "psychiatric",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972687,
+        102083907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LCkTrrmZ8gRAXehzp4AVI_48.167218_-111.946497@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c10eadb3523476db4b589d65960e6039",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083907,
+            "locality_id":85972687,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186147849
+        }
+    ],
+    "wof:id":186147849,
+    "wof:lastmodified":1449052729,
+    "wof:name":"Golden Trangle Mental Hlth Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty",
+        "psychiatric",
+        "outpatient"
+    ]
+},
+  "bbox": [-111.946497,48.167218,-111.946497,48.167218],
+  "geometry": {"coordinates":[-111.946497,48.167218],"type":"Point"}
+}

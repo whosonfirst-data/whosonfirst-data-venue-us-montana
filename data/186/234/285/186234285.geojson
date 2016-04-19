@@ -1,0 +1,70 @@
+{
+  "id": 186234285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.627184,45.726198,-108.627184,45.726198",
+    "geom:latitude":45.726198,
+    "geom:longitude":-108.627184,
+    "iso:country":"US",
+    "sg:address":"4217 Neibauer Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 3792",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75Sofc02aGai7vZZ5vaTR8_45.726198_-108.627184@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"663bbbcc8132cb84abaf9099677ab957",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186234285
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186234285
+        }
+    ],
+    "wof:id":186234285,
+    "wof:lastmodified":1449052887,
+    "wof:name":"Town & Country Upholstery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-108.627184,45.726198,-108.627184,45.726198],
+  "geometry": {"coordinates":[-108.627184,45.726198],"type":"Point"}
+}

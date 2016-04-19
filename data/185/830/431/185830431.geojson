@@ -1,0 +1,67 @@
+{
+  "id": 185830431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.51269,45.787391,-108.51269,45.787391",
+    "geom:latitude":45.787391,
+    "geom:longitude":-108.51269,
+    "iso:country":"US",
+    "sg:address":"721 N 29th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6075",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MFjWp0dzX7mldxhbwOfKK_45.787391_-108.512690@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9ae1ab3d0892a63e012103c1263c9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185830431
+        }
+    ],
+    "wof:id":185830431,
+    "wof:lastmodified":1449006956,
+    "wof:name":"Intermntain Planned Parenthood",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-108.51269,45.787391,-108.51269,45.787391],
+  "geometry": {"coordinates":[-108.51269,45.787391],"type":"Point"}
+}

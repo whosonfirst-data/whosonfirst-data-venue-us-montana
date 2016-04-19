@@ -1,0 +1,67 @@
+{
+  "id": 186064241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.495218,45.789682,-108.495218,45.789682",
+    "geom:latitude":45.789682,
+    "geom:longitude":-108.495218,
+    "iso:country":"US",
+    "sg:address":"202 N 18th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2436",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "product",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AKgZvzDCFy7shge8aTnmX_45.789682_-108.495218@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53da81d6fcf96302f121be5aea9a4730",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186064241
+        }
+    ],
+    "wof:id":186064241,
+    "wof:lastmodified":1449051338,
+    "wof:name":"B & B Ceramics",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "ceramic"
+    ]
+},
+  "bbox": [-108.495218,45.789682,-108.495218,45.789682],
+  "geometry": {"coordinates":[-108.495218,45.789682],"type":"Point"}
+}

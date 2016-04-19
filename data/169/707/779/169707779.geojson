@@ -1,0 +1,69 @@
+{
+  "id": 169707779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.282469,48.212203,-114.282469,48.212203",
+    "geom:latitude":48.212203,
+    "geom:longitude":-114.282469,
+    "iso:country":"US",
+    "sg:address":"1309 US Hwy 2 E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 7757",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.lorensauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69uJRMI0azlyWmummCOMU9_48.212203_-114.282469@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4fd18af8be1353354b5072eb59c0c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":169707779
+        }
+    ],
+    "wof:id":169707779,
+    "wof:lastmodified":1449035440,
+    "wof:name":"Loren's Auto Repair Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-114.282469,48.212203,-114.282469,48.212203],
+  "geometry": {"coordinates":[-114.282469,48.212203],"type":"Point"}
+}

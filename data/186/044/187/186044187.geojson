@@ -1,0 +1,66 @@
+{
+  "id": 186044187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.590061,45.784108,-108.590061,45.784108",
+    "geom:latitude":45.784108,
+    "geom:longitude":-108.590061,
+    "iso:country":"US",
+    "sg:address":"2911 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4922",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BUitvUGc8RP4qBjtSaG1P_45.784108_-108.590061@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3189ff8da36fe636d33ea78aa2157cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186044187
+        }
+    ],
+    "wof:id":186044187,
+    "wof:lastmodified":1449051766,
+    "wof:name":"Grand Avenue Dental Care",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-108.590061,45.784108,-108.590061,45.784108],
+  "geometry": {"coordinates":[-108.590061,45.784108],"type":"Point"}
+}

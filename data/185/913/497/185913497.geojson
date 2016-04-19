@@ -1,0 +1,70 @@
+{
+  "id": 185913497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.763137,45.671224,-108.763137,45.671224",
+    "geom:latitude":45.671224,
+    "geom:longitude":-108.763137,
+    "iso:country":"US",
+    "sg:address":"619 E Main St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 1299",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YnpfDvRtMAJMDPCtWlANQ_45.671224_-108.763137@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f534f855e6ccb26eeb69903be9ac75ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185913497
+        }
+    ],
+    "wof:id":185913497,
+    "wof:lastmodified":1449007237,
+    "wof:name":"Mel's Auto Clinic",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [-108.763137,45.671224,-108.763137,45.671224],
+  "geometry": {"coordinates":[-108.763137,45.671224],"type":"Point"}
+}

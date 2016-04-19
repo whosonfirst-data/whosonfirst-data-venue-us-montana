@@ -1,0 +1,68 @@
+{
+  "id": 169710789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.728345,45.758885,-108.728345,45.758885",
+    "geom:latitude":45.758885,
+    "geom:longitude":-108.728345,
+    "iso:country":"US",
+    "sg:address":"455 83rd St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 0272",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bWJ0ATj8SA658ZS9R8NAk_45.758885_-108.728345@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a686d2fe893b66cca23b301fbb533a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":169710789
+        }
+    ],
+    "wof:id":169710789,
+    "wof:lastmodified":1449032885,
+    "wof:name":"Montana Concrete",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-108.728345,45.758885,-108.728345,45.758885],
+  "geometry": {"coordinates":[-108.728345,45.758885],"type":"Point"}
+}

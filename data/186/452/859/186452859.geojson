@@ -1,0 +1,65 @@
+{
+  "id": 186452859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.995617,46.580704,-111.995617,46.580704",
+    "geom:latitude":46.580704,
+    "geom:longitude":-111.995617,
+    "iso:country":"US",
+    "sg:address":"65 Medical Park Dr",
+    "sg:city":"Helena",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 442 2113",
+    "sg:postcode":"59601",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972711,
+        102085151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4he8QIUnUtUSijI1T6oWKt_46.580704_-111.995617@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1aa3fd7909be35e3da932a7df5008c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085151,
+            "locality_id":85972711,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186452859
+        }
+    ],
+    "wof:id":186452859,
+    "wof:lastmodified":1449051032,
+    "wof:name":"Ronald Mow MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-111.995617,46.580704,-111.995617,46.580704],
+  "geometry": {"coordinates":[-111.995617,46.580704],"type":"Point"}
+}

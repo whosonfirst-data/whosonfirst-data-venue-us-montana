@@ -1,0 +1,77 @@
+{
+  "id": 169822601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.570291,45.654247,-110.570291,45.654247",
+    "geom:latitude":45.654247,
+    "geom:longitude":-110.570291,
+    "iso:country":"US",
+    "sg:address":"206 S 11th St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 0760",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plant",
+        "storage",
+        "cold",
+        "locker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AA3J0weyrA8zxNHZKBtuv_45.654247_-110.570291@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4f850a228cb0c827991e0c05be06130",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":169822601
+        }
+    ],
+    "wof:id":169822601,
+    "wof:lastmodified":1449035863,
+    "wof:name":"Livingstone Meat Co",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "storage",
+        "cold",
+        "locker"
+    ]
+},
+  "bbox": [-110.570291,45.654247,-110.570291,45.654247],
+  "geometry": {"coordinates":[-110.570291,45.654247],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186312225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.533278,46.012229,-112.533278,46.012229",
+    "geom:latitude":46.012229,
+    "geom:longitude":-112.533278,
+    "iso:country":"US",
+    "sg:address":"1 E Galena St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 2459",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CxmYUj9xP3PSqjMzA69Lp_46.012229_-112.533278@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09c3484f74c3dc7f1a9f3240fe963afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186312225
+        }
+    ],
+    "wof:id":186312225,
+    "wof:lastmodified":1449051725,
+    "wof:name":"Brown Plumbing & Heating",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-112.533278,46.012229,-112.533278,46.012229],
+  "geometry": {"coordinates":[-112.533278,46.012229],"type":"Point"}
+}

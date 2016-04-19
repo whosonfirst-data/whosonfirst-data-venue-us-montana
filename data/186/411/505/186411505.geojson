@@ -1,0 +1,68 @@
+{
+  "id": 186411505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.058081,46.811023,-114.058081,46.811023",
+    "geom:latitude":46.811023,
+    "geom:longitude":-114.058081,
+    "iso:country":"US",
+    "sg:address":"6525 Linda Vista Blvd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 5238",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xeAYoS5Lnw02FSeSzwE8O_46.811023_-114.058081@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd70627d2852200bc134c64ac10e08dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186411505
+        }
+    ],
+    "wof:id":186411505,
+    "wof:lastmodified":1449050398,
+    "wof:name":"Flatland Properties Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-114.058081,46.811023,-114.058081,46.811023],
+  "geometry": {"coordinates":[-114.058081,46.811023],"type":"Point"}
+}

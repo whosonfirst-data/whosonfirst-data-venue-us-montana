@@ -1,0 +1,70 @@
+{
+  "id": 185814987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.18476,47.81376,-112.18476,47.81376",
+    "geom:latitude":47.81376,
+    "geom:longitude":-112.18476,
+    "iso:country":"US",
+    "sg:address":"215 N Main Ave",
+    "sg:city":"Choteau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 466 2583",
+    "sg:postcode":"59422",
+    "sg:province":"MT",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972855,
+        102085149,
+        85810939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tCTa30E7ABbX5sJQvRc7e_47.813760_-112.184760@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e5620cf1099d9ee99a2a4728b869cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085149,
+            "locality_id":85972855,
+            "neighbourhood_id":85810939,
+            "region_id":85688617,
+            "venue_id":185814987
+        }
+    ],
+    "wof:id":185814987,
+    "wof:lastmodified":1449006911,
+    "wof:name":"Kelly's Service",
+    "wof:parent_id":85810939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [-112.18476,47.81376,-112.18476,47.81376],
+  "geometry": {"coordinates":[-112.18476,47.81376],"type":"Point"}
+}

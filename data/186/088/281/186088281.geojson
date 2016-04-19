@@ -1,0 +1,76 @@
+{
+  "id": 186088281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.602469,45.752801,-108.602469,45.752801",
+    "geom:latitude":45.752801,
+    "geom:longitude":-108.602469,
+    "iso:country":"US",
+    "sg:address":"49 Woodgrain Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6862",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HWH6X3VumjbSiOawapm58_45.752801_-108.602469@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"125a7bd10db414aac9e1bfbd2ed919bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186088281
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186088281
+        }
+    ],
+    "wof:id":186088281,
+    "wof:lastmodified":1449052408,
+    "wof:name":"Speed Clean",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [-108.602469,45.752801,-108.602469,45.752801],
+  "geometry": {"coordinates":[-108.602469,45.752801],"type":"Point"}
+}

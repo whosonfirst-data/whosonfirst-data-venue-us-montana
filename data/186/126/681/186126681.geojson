@@ -1,0 +1,68 @@
+{
+  "id": 186126681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.543403,46.009318,-112.543403,46.009318",
+    "geom:latitude":46.009318,
+    "geom:longitude":-112.543403,
+    "iso:country":"US",
+    "sg:address":"515 W Diamond St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 9790",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dgfIOCuKhaM6ucy8729XV_46.009318_-112.543403@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ccdcc42b307b4f7b60bd2208f52a16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186126681
+        }
+    ],
+    "wof:id":186126681,
+    "wof:lastmodified":1449051374,
+    "wof:name":"Lockmer & Sons Construction",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [-112.543403,46.009318,-112.543403,46.009318],
+  "geometry": {"coordinates":[-112.543403,46.009318],"type":"Point"}
+}

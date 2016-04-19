@@ -1,0 +1,67 @@
+{
+  "id": 185598791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.489048,45.79263,-108.489048,45.79263",
+    "geom:latitude":45.79263,
+    "geom:longitude":-108.489048,
+    "iso:country":"US",
+    "sg:address":"204 N 13th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 3807",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ERfcWvQOuve9UktW3vJqQ_45.792630_-108.489048@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab620d6d30df21c02d96c916bf03acf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185598791
+        }
+    ],
+    "wof:id":185598791,
+    "wof:lastmodified":1449006665,
+    "wof:name":"Auto & Truck Repair",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.489048,45.79263,-108.489048,45.79263],
+  "geometry": {"coordinates":[-108.489048,45.79263],"type":"Point"}
+}

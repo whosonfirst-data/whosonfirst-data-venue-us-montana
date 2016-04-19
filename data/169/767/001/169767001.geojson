@@ -1,0 +1,66 @@
+{
+  "id": 169767001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.039513,46.856066,-114.039513,46.856066",
+    "geom:latitude":46.856066,
+    "geom:longitude":-114.039513,
+    "iso:country":"US",
+    "sg:address":"1536 S Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 8088",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nbMNgIO8L6RZYPeHLTzO0_46.856066_-114.039513@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"899ec1979624db46e81ed6843b7f03a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":169767001
+        }
+    ],
+    "wof:id":169767001,
+    "wof:lastmodified":1449033624,
+    "wof:name":"Rocky Mountain Internet",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [-114.039513,46.856066,-114.039513,46.856066],
+  "geometry": {"coordinates":[-114.039513,46.856066],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186019025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.44352,45.852572,-108.44352,45.852572",
+    "geom:latitude":45.852572,
+    "geom:longitude":-108.44352,
+    "iso:country":"US",
+    "sg:address":"1635 Quarterhorse Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 9684",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FdGl7Ow7hW7xaQ4ntsU3T_45.852572_-108.443520@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a67ba2767af8bcda18fbbd2c20479f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":186019025
+        }
+    ],
+    "wof:id":186019025,
+    "wof:lastmodified":1449051924,
+    "wof:name":"KC Electric",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.44352,45.852572,-108.44352,45.852572],
+  "geometry": {"coordinates":[-108.44352,45.852572],"type":"Point"}
+}

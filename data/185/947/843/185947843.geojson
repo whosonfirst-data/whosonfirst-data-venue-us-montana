@@ -1,0 +1,68 @@
+{
+  "id": 185947843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.12637,46.944587,-114.12637,46.944587",
+    "geom:latitude":46.944587,
+    "geom:longitude":-114.12637,
+    "iso:country":"US",
+    "sg:address":"7719 Thornton Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 2278",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32sAjom3BxPg0xkjMStymA_46.944587_-114.126370@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37acc63df8276a06f09675c9bc87862d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":185947843
+        }
+    ],
+    "wof:id":185947843,
+    "wof:lastmodified":1449007755,
+    "wof:name":"Missoula R V Repair",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [-114.12637,46.944587,-114.12637,46.944587],
+  "geometry": {"coordinates":[-114.12637,46.944587],"type":"Point"}
+}

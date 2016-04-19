@@ -1,0 +1,67 @@
+{
+  "id": 186451971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.51111,45.789357,-108.51111,45.789357",
+    "geom:latitude":45.789357,
+    "geom:longitude":-108.51111,
+    "iso:country":"US",
+    "sg:address":"822 N 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0773",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TH7Dx7ktOy2lHGFLDk4A7_45.789357_-108.511110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18e0b861beef5b9abdb017996258c77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186451971
+        }
+    ],
+    "wof:id":186451971,
+    "wof:lastmodified":1449051544,
+    "wof:name":"Corridor Exxon Tire & Auto",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.51111,45.789357,-108.51111,45.789357],
+  "geometry": {"coordinates":[-108.51111,45.789357],"type":"Point"}
+}

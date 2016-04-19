@@ -1,0 +1,66 @@
+{
+  "id": 185659789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.519053,45.997887,-112.519053,45.997887",
+    "geom:latitude":45.997887,
+    "geom:longitude":-112.519053,
+    "iso:country":"US",
+    "sg:address":"1612 S Warren Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 3542",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rsAafIwN6UaV7fCczfFzc_45.997887_-112.519053@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c4a0d55dbec23ccd1c6761486d7b4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185659789
+        }
+    ],
+    "wof:id":185659789,
+    "wof:lastmodified":1449006780,
+    "wof:name":"Treasure State Auto Repair",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-112.519053,45.997887,-112.519053,45.997887],
+  "geometry": {"coordinates":[-112.519053,45.997887],"type":"Point"}
+}

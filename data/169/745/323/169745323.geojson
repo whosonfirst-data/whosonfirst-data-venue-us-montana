@@ -1,0 +1,68 @@
+{
+  "id": 169745323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.398297,45.812142,-108.398297,45.812142",
+    "geom:latitude":45.812142,
+    "geom:longitude":-108.398297,
+    "iso:country":"US",
+    "sg:address":"3306 Becraft Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7652",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "livestock",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iNbNQjYO5zrwHMttqyQnb_45.812142_-108.398297@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d00c76f24d0392c4a8be2e6a34d309d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":169745323
+        }
+    ],
+    "wof:id":169745323,
+    "wof:lastmodified":1449035810,
+    "wof:name":"Chuck Larsen Livestock Transpt",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock",
+        "hauling"
+    ]
+},
+  "bbox": [-108.398297,45.812142,-108.398297,45.812142],
+  "geometry": {"coordinates":[-108.398297,45.812142],"type":"Point"}
+}

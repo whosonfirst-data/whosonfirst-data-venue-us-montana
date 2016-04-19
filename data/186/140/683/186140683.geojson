@@ -1,0 +1,68 @@
+{
+  "id": 186140683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.314602,48.196065,-114.314602,48.196065",
+    "geom:latitude":48.196065,
+    "geom:longitude":-114.314602,
+    "iso:country":"US",
+    "sg:address":"248 1st Ave W",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 0187",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JcyDcjYwjWDNJNOOmBSAa_48.196065_-114.314602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc4f14d48421291503485aabd3aaf56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186140683
+        }
+    ],
+    "wof:id":186140683,
+    "wof:lastmodified":1449050757,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [-114.314602,48.196065,-114.314602,48.196065],
+  "geometry": {"coordinates":[-114.314602,48.196065],"type":"Point"}
+}

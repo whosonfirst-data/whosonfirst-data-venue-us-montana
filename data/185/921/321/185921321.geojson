@@ -1,0 +1,68 @@
+{
+  "id": 185921321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.051654,48.184978,-114.051654,48.184978",
+    "geom:latitude":48.184978,
+    "geom:longitude":-114.051654,
+    "iso:country":"US",
+    "sg:address":"2796 Foothill Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 2764",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mill",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wLU7cRqGgigNsajRcP1h3_48.184978_-114.051654@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c216c474dbd9d4959b0aab93939551a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185921321
+        }
+    ],
+    "wof:id":185921321,
+    "wof:lastmodified":1449007630,
+    "wof:name":"Turner Mill",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill",
+        "welding"
+    ]
+},
+  "bbox": [-114.051654,48.184978,-114.051654,48.184978],
+  "geometry": {"coordinates":[-114.051654,48.184978],"type":"Point"}
+}

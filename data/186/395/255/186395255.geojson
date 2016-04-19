@@ -1,0 +1,68 @@
+{
+  "id": 186395255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.022082,46.847979,-114.022082,46.847979",
+    "geom:latitude":46.847979,
+    "geom:longitude":-114.022082,
+    "iso:country":"US",
+    "sg:address":"2501 S Catlin St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 327 9772",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SyT8rUeLBviSYN3XTPlbn_46.847979_-114.022082@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"062d6ad7f318999ed97459f4268252b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186395255
+        }
+    ],
+    "wof:id":186395255,
+    "wof:lastmodified":1449052617,
+    "wof:name":"Laurence V Ayres MD",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-114.022082,46.847979,-114.022082,46.847979],
+  "geometry": {"coordinates":[-114.022082,46.847979],"type":"Point"}
+}

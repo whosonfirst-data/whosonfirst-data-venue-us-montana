@@ -1,0 +1,68 @@
+{
+  "id": 186243587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.42413,48.316376,-114.42413,48.316376",
+    "geom:latitude":48.316376,
+    "geom:longitude":-114.42413,
+    "iso:country":"US",
+    "sg:address":"330 Lore Lake Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 7959",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41tg9gkHwWrvAkXRUti9Ao_48.316376_-114.424130@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fdf395ce514094a31db88c23dcc7530e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186243587
+        }
+    ],
+    "wof:id":186243587,
+    "wof:lastmodified":1449051260,
+    "wof:name":"Sams Riders Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-114.42413,48.316376,-114.42413,48.316376],
+  "geometry": {"coordinates":[-114.42413,48.316376],"type":"Point"}
+}

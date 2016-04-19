@@ -1,0 +1,76 @@
+{
+  "id": 185716103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.504774,45.777496,-108.504774,45.777496",
+    "geom:latitude":45.777496,
+    "geom:longitude":-108.504774,
+    "iso:country":"US",
+    "sg:address":"2906 2nd Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6687",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential",
+        "property",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:brand_id":420573827,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aN2tc3RrIilns1nBHI3dD_45.777496_-108.504774@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ce525d669c25ad31394e48e5097f257",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":185716103
+        }
+    ],
+    "wof:id":185716103,
+    "wof:lastmodified":1457207569,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "property",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -108.504774,
+    45.777496,
+    -108.504774,
+    45.777496
+],
+  "geometry": {"coordinates":[-108.504774,45.777496],"type":"Point"}
+}

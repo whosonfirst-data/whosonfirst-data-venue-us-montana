@@ -1,0 +1,69 @@
+{
+  "id": 185992667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.545697,45.784131,-108.545697,45.784131",
+    "geom:latitude":45.784131,
+    "geom:longitude":-108.545697,
+    "iso:country":"US",
+    "sg:address":"1145 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 5559",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "rent",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58Su35QvsWefqBJnXubA71_45.784131_-108.545697@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29e761fe08917eea69b7be51b0f5828d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":185992667
+        }
+    ],
+    "wof:id":185992667,
+    "wof:lastmodified":1449007373,
+    "wof:name":"Ski Station",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "rent",
+        "skiing"
+    ]
+},
+  "bbox": [-108.545697,45.784131,-108.545697,45.784131],
+  "geometry": {"coordinates":[-108.545697,45.784131],"type":"Point"}
+}

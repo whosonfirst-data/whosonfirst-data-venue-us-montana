@@ -1,0 +1,66 @@
+{
+  "id": 186111129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.540405,45.777117,-108.540405,45.777117",
+    "geom:latitude":45.777117,
+    "geom:longitude":-108.540405,
+    "iso:country":"US",
+    "sg:address":"921 Broadwater Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 2475",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LUxbAecGMzbzHn2vqQEcz_45.777117_-108.540405@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16affc2d29547a216d9569d51b6622a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186111129
+        }
+    ],
+    "wof:id":186111129,
+    "wof:lastmodified":1449053107,
+    "wof:name":"Gregory L Dorow DDS",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-108.540405,45.777117,-108.540405,45.777117],
+  "geometry": {"coordinates":[-108.540405,45.777117],"type":"Point"}
+}

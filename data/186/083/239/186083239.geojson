@@ -1,0 +1,66 @@
+{
+  "id": 186083239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.268401,48.263483,-114.268401,48.263483",
+    "geom:latitude":48.263483,
+    "geom:longitude":-114.268401,
+    "iso:country":"US",
+    "sg:address":"3258 US Hwy 2 E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 5326",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02eSjHVvnBJ5z4VqcYIWcB_48.263483_-114.268401@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"489ebd51ee05430e3280e290488ca38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186083239
+        }
+    ],
+    "wof:id":186083239,
+    "wof:lastmodified":1449051650,
+    "wof:name":"Black Magic Industrial",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-114.268401,48.263483,-114.268401,48.263483],
+  "geometry": {"coordinates":[-114.268401,48.263483],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 185840521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.604327,45.769693,-108.604327,45.769693",
+    "geom:latitude":45.769693,
+    "geom:longitude":-108.604327,
+    "iso:country":"US",
+    "sg:address":"3419 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 0400",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EbT3RMxUrnk8myIMyowGU_45.769693_-108.604327@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"381158927f4226104ddb745bbfd4cbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185840521
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185840521
+        }
+    ],
+    "wof:id":185840521,
+    "wof:lastmodified":1449007873,
+    "wof:name":"K W Signature Homes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-108.604327,45.769693,-108.604327,45.769693],
+  "geometry": {"coordinates":[-108.604327,45.769693],"type":"Point"}
+}

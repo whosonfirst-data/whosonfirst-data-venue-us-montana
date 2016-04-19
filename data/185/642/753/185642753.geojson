@@ -1,0 +1,68 @@
+{
+  "id": 185642753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.442308,45.832924,-108.442308,45.832924",
+    "geom:latitude":45.832924,
+    "geom:longitude":-108.442308,
+    "iso:country":"US",
+    "sg:address":"1906 Natalie St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7303",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "heavy",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fkPDpkcFswLF2AAKkwGi3_45.832924_-108.442308@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b171341d3fa0e042b434c5f30681bb99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185642753
+        }
+    ],
+    "wof:id":185642753,
+    "wof:lastmodified":1449006685,
+    "wof:name":"Franks Crane Service",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "construction"
+    ]
+},
+  "bbox": [-108.442308,45.832924,-108.442308,45.832924],
+  "geometry": {"coordinates":[-108.442308,45.832924],"type":"Point"}
+}

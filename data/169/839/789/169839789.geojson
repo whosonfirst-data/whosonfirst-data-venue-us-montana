@@ -1,0 +1,68 @@
+{
+  "id": 169839789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.089631,45.68063,-111.089631,45.68063",
+    "geom:latitude":45.68063,
+    "geom:longitude":-111.089631,
+    "iso:country":"US",
+    "sg:address":"107 Teton Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 582 8274",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F4f9MNCPCcBwwb7AOjW8X_45.680630_-111.089631@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"159cfd23684f01e07bceaf0e94aa2517",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891697,
+            "region_id":85688617,
+            "venue_id":169839789
+        }
+    ],
+    "wof:id":169839789,
+    "wof:lastmodified":1449034665,
+    "wof:name":"Incomprehensibilities Inc",
+    "wof:parent_id":85891697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [-111.089631,45.68063,-111.089631,45.68063],
+  "geometry": {"coordinates":[-111.089631,45.68063],"type":"Point"}
+}

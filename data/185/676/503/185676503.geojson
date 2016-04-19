@@ -1,0 +1,72 @@
+{
+  "id": 185676503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.546068,46.010749,-112.546068,46.010749",
+    "geom:latitude":46.010749,
+    "geom:longitude":-112.546068,
+    "iso:country":"US",
+    "sg:address":"200 S Clark St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 4268",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "therapist",
+        "specialty",
+        "outpatient",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58G7lK1mxNlJvQShOajYTa_46.010749_-112.546068@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"848a32eb298c0c7c44bb2f4dd1f2c25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185676503
+        }
+    ],
+    "wof:id":185676503,
+    "wof:lastmodified":1449007630,
+    "wof:name":"Butte Physical Therapy Center",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "specialty",
+        "outpatient",
+        "physical"
+    ]
+},
+  "bbox": [-112.546068,46.010749,-112.546068,46.010749],
+  "geometry": {"coordinates":[-112.546068,46.010749],"type":"Point"}
+}

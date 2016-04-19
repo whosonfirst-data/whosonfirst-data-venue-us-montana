@@ -1,0 +1,68 @@
+{
+  "id": 186077683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.406265,45.812174,-108.406265,45.812174",
+    "geom:latitude":45.812174,
+    "geom:longitude":-108.406265,
+    "iso:country":"US",
+    "sg:address":"711 Starlight Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 598 4321",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uwwMrD6VslPYopzsmV0Wv_45.812174_-108.406265@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"932e78a0778d651b3c7263486c8391ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186077683
+        }
+    ],
+    "wof:id":186077683,
+    "wof:lastmodified":1449050825,
+    "wof:name":"J B's Tile",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [-108.406265,45.812174,-108.406265,45.812174],
+  "geometry": {"coordinates":[-108.406265,45.812174],"type":"Point"}
+}

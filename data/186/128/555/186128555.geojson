@@ -1,0 +1,68 @@
+{
+  "id": 186128555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.338896,48.204335,-114.338896,48.204335",
+    "geom:latitude":48.204335,
+    "geom:longitude":-114.338896,
+    "iso:country":"US",
+    "sg:address":"206 Cooper Ln",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 9019",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G9RAMMhQOorG4LJOTtQrC_48.204335_-114.338896@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c763d8c4f71914f2a9b907e03c39412f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186128555
+        }
+    ],
+    "wof:id":186128555,
+    "wof:lastmodified":1449051410,
+    "wof:name":"West Wind Village Apartments",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-114.338896,48.204335,-114.338896,48.204335],
+  "geometry": {"coordinates":[-114.338896,48.204335],"type":"Point"}
+}

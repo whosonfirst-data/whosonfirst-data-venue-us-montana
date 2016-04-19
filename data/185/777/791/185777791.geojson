@@ -1,0 +1,66 @@
+{
+  "id": 185777791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.037641,46.907145,-114.037641,46.907145",
+    "geom:latitude":46.907145,
+    "geom:longitude":-114.037641,
+    "iso:country":"US",
+    "sg:address":"4555 N Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 0880",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xCcOA28ESn9uiblopI1aT_46.907145_-114.037641@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab5a620820d298ce9965ba8b6a4e8f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":185777791
+        }
+    ],
+    "wof:id":185777791,
+    "wof:lastmodified":1449007472,
+    "wof:name":"Jacobsen Bros Auto Refinishing",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-114.037641,46.907145,-114.037641,46.907145],
+  "geometry": {"coordinates":[-114.037641,46.907145],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 169826489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.480345,45.817512,-108.480345,45.817512",
+    "geom:latitude":45.817512,
+    "geom:longitude":-108.480345,
+    "iso:country":"US",
+    "sg:address":"51 King Arthur Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 9398",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FHKWRBmVzcdB3TV4HPrbC_45.817512_-108.480345@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c12246059a352d7f37f8bb8201463a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":169826489
+        }
+    ],
+    "wof:id":169826489,
+    "wof:lastmodified":1449035073,
+    "wof:name":"Wendell Wilson Piano Tuning",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [-108.480345,45.817512,-108.480345,45.817512],
+  "geometry": {"coordinates":[-108.480345,45.817512],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 186204923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.610003,45.773891,-108.610003,45.773891",
+    "geom:latitude":45.773891,
+    "geom:longitude":-108.610003,
+    "iso:country":"US",
+    "sg:address":"3842 Heritage Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 3299",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79GKSKNL8jGha7trVjnKMB_45.773891_-108.610003@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ba03a1c3f1ff8d3cd48a000d222833b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186204923
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186204923
+        }
+    ],
+    "wof:id":186204923,
+    "wof:lastmodified":1449053100,
+    "wof:name":"Ginny Wanner's Assisted Living",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-108.610003,45.773891,-108.610003,45.773891],
+  "geometry": {"coordinates":[-108.610003,45.773891],"type":"Point"}
+}

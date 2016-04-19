@@ -1,0 +1,68 @@
+{
+  "id": 185837663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.502268,45.986052,-112.502268,45.986052",
+    "geom:latitude":45.986052,
+    "geom:longitude":-112.502268,
+    "iso:country":"US",
+    "sg:address":"2423 Cornell Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 7033",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "clinic",
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jWTHCST4AZvZJoCZZelfG_45.986052_-112.502268@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9b63914f9e5a8cf806d531f1be6adc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185837663
+        }
+    ],
+    "wof:id":185837663,
+    "wof:lastmodified":1449006866,
+    "wof:name":"Dr James P Herzog",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "dentist"
+    ]
+},
+  "bbox": [-112.502268,45.986052,-112.502268,45.986052],
+  "geometry": {"coordinates":[-112.502268,45.986052],"type":"Point"}
+}

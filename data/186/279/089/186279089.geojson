@@ -1,0 +1,68 @@
+{
+  "id": 186279089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.538344,45.772086,-108.538344,45.772086",
+    "geom:latitude":45.772086,
+    "geom:longitude":-108.538344,
+    "iso:country":"US",
+    "sg:address":"915 Cook Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 1198",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lQdfa2Bg0f3z1Tp6xAtZ7_45.772086_-108.538344@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"572474fac945c3ed16a3a2fb94d10e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186279089
+        }
+    ],
+    "wof:id":186279089,
+    "wof:lastmodified":1449051601,
+    "wof:name":"Acme Asphalt",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-108.538344,45.772086,-108.538344,45.772086],
+  "geometry": {"coordinates":[-108.538344,45.772086],"type":"Point"}
+}

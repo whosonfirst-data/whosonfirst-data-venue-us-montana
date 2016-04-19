@@ -1,0 +1,65 @@
+{
+  "id": 169793175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.253302,45.640298,-109.253302,45.640298",
+    "geom:latitude":45.640298,
+    "geom:longitude":-109.253302,
+    "iso:country":"US",
+    "sg:address":"400 E 3rd Ave N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 322 5326",
+    "sg:postcode":"59019",
+    "sg:province":"MT",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972899,
+        102085143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m7t60kVCtQHODWBNFCOuI_45.640298_-109.253302@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84d16c94c2f55e58376c5863202faf41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085143,
+            "locality_id":85972899,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169793175
+        }
+    ],
+    "wof:id":169793175,
+    "wof:lastmodified":1449034508,
+    "wof:name":"Stillwater County Sheriff",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [-109.253302,45.640298,-109.253302,45.640298],
+  "geometry": {"coordinates":[-109.253302,45.640298],"type":"Point"}
+}

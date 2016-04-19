@@ -1,0 +1,71 @@
+{
+  "id": 186151759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.467853,45.823403,-108.467853,45.823403",
+    "geom:latitude":45.823403,
+    "geom:longitude":-108.467853,
+    "iso:country":"US",
+    "sg:address":"703 Anchor St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 3338",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "shop",
+        "frame"
+    ],
+    "sg:website":"www.chassisworks.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rgLzmjLFBsomqvLpvsFgI_45.823403_-108.467853@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70ad5c0744f33b73410a7a94f41f69eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":186151759
+        }
+    ],
+    "wof:id":186151759,
+    "wof:lastmodified":1449050284,
+    "wof:name":"Chassis Works",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "frame"
+    ]
+},
+  "bbox": [-108.467853,45.823403,-108.467853,45.823403],
+  "geometry": {"coordinates":[-108.467853,45.823403],"type":"Point"}
+}

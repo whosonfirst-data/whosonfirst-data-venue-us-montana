@@ -1,0 +1,67 @@
+{
+  "id": 186119783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.087612,45.672935,-111.087612,45.672935",
+    "geom:latitude":45.672935,
+    "geom:longitude":-111.087612,
+    "iso:country":"US",
+    "sg:address":"3710 Fallon St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 522 2520",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "ranger",
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NfTUoRR8GfDpEXoqfLe6e_45.672935_-111.087612@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e78152e1b39d1ce63d7c43bcf20a1d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186119783
+        }
+    ],
+    "wof:id":186119783,
+    "wof:lastmodified":1449052277,
+    "wof:name":"Bozeman Ranger District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranger",
+        "district"
+    ]
+},
+  "bbox": [-111.087612,45.672935,-111.087612,45.672935],
+  "geometry": {"coordinates":[-111.087612,45.672935],"type":"Point"}
+}

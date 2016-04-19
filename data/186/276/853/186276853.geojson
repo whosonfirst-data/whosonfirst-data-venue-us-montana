@@ -1,0 +1,76 @@
+{
+  "id": 186276853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.579656,45.759508,-108.579656,45.759508",
+    "geom:latitude":45.759508,
+    "geom:longitude":-108.579656,
+    "iso:country":"US",
+    "sg:address":"21 Vista Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 0951",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D4kWoXoH9ZUj2hk9kgrT2_45.759508_-108.579656@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08384feccd62236c72730ccbff5ab3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186276853
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186276853
+        }
+    ],
+    "wof:id":186276853,
+    "wof:lastmodified":1449050372,
+    "wof:name":"Robert C Fenton",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [-108.579656,45.759508,-108.579656,45.759508],
+  "geometry": {"coordinates":[-108.579656,45.759508],"type":"Point"}
+}

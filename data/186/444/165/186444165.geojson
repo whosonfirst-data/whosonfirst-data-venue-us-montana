@@ -1,0 +1,66 @@
+{
+  "id": 186444165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.051573,45.679213,-111.051573,45.679213",
+    "geom:latitude":45.679213,
+    "geom:longitude":-111.051573,
+    "iso:country":"US",
+    "sg:address":"1006 W Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 8711",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03fQ1fljohPLnzYGbrhoq6_45.679213_-111.051573@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60c28a00d495adee07870e1f488781ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891711,
+            "region_id":85688617,
+            "venue_id":186444165
+        }
+    ],
+    "wof:id":186444165,
+    "wof:lastmodified":1449052652,
+    "wof:name":"Bozeman Urgent Care",
+    "wof:parent_id":85891711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-111.051573,45.679213,-111.051573,45.679213],
+  "geometry": {"coordinates":[-111.051573,45.679213],"type":"Point"}
+}

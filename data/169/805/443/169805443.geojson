@@ -1,0 +1,68 @@
+{
+  "id": 169805443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.761029,45.660106,-108.761029,45.660106",
+    "geom:latitude":45.660106,
+    "geom:longitude":-108.761029,
+    "iso:country":"US",
+    "sg:address":"753 Bernhardt Rd",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0138",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "refined",
+        "pipeline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u8vqX40o567mk1kI0lcB0_45.660106_-108.761029@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a92ea8e2f65d43ca8135a4e262d099b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":169805443
+        }
+    ],
+    "wof:id":169805443,
+    "wof:lastmodified":1449033789,
+    "wof:name":"Cenex Pipeline",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refined",
+        "pipeline"
+    ]
+},
+  "bbox": [-108.761029,45.660106,-108.761029,45.660106],
+  "geometry": {"coordinates":[-108.761029,45.660106],"type":"Point"}
+}

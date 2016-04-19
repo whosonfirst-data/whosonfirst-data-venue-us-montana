@@ -1,0 +1,66 @@
+{
+  "id": 186003343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.521452,46.002264,-112.521452,46.002264",
+    "geom:latitude":46.002264,
+    "geom:longitude":-112.521452,
+    "iso:country":"US",
+    "sg:address":"1311 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 3106",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u9bQ3ZiIbdx3YyAaaUXmn_46.002264_-112.521452@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2054734bb2573cb48887fd4a8866348d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186003343
+        }
+    ],
+    "wof:id":186003343,
+    "wof:lastmodified":1449052818,
+    "wof:name":"Persnickety Cleaners",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-112.521452,46.002264,-112.521452,46.002264],
+  "geometry": {"coordinates":[-112.521452,46.002264],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169859251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.54217,45.769872,-108.54217,45.769872",
+    "geom:latitude":45.769872,
+    "geom:longitude":-108.54217,
+    "iso:country":"US",
+    "sg:address":"1005 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 0032",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B44Bddqv0ktexA778uBCu_45.769872_-108.542170@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd5c08b45b53d8ea63e4c25d81493abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169859251
+        }
+    ],
+    "wof:id":169859251,
+    "wof:lastmodified":1449035041,
+    "wof:name":"Vacuum Clinic",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [-108.54217,45.769872,-108.54217,45.769872],
+  "geometry": {"coordinates":[-108.54217,45.769872],"type":"Point"}
+}

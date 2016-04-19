@@ -1,0 +1,66 @@
+{
+  "id": 186212841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.329322,48.221189,-114.329322,48.221189",
+    "geom:latitude":48.221189,
+    "geom:longitude":-114.329322,
+    "iso:country":"US",
+    "sg:address":"135 Commons Way",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 7942",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F4d9bXLYNVHyb4eUYZX6S_48.221189_-114.329322@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbaf64ce98b2a8db3682367684b6464c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186212841
+        }
+    ],
+    "wof:id":186212841,
+    "wof:lastmodified":1449052111,
+    "wof:name":"Kalispell Diagnostic Svc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [-114.329322,48.221189,-114.329322,48.221189],
+  "geometry": {"coordinates":[-114.329322,48.221189],"type":"Point"}
+}

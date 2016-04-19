@@ -1,0 +1,65 @@
+{
+  "id": 169811877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.500378,45.778703,-108.500378,45.778703",
+    "geom:latitude":45.778703,
+    "geom:longitude":-108.500378,
+    "iso:country":"US",
+    "sg:address":"223 S 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 325 1847",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xKwOkl2ClRQlWAwCwxTKj_45.778703_-108.500378@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86c82b1a1c7563a27abc43dbe60bce7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":169811877
+        }
+    ],
+    "wof:id":169811877,
+    "wof:lastmodified":1449034273,
+    "wof:name":"Big G Building Maintenance Cln",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-108.500378,45.778703,-108.500378,45.778703],
+  "geometry": {"coordinates":[-108.500378,45.778703],"type":"Point"}
+}

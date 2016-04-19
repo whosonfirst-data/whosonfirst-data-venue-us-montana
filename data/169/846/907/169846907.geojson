@@ -1,0 +1,70 @@
+{
+  "id": 169846907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.555995,45.657762,-110.555995,45.657762",
+    "geom:latitude":45.657762,
+    "geom:longitude":-110.555995,
+    "iso:country":"US",
+    "sg:address":"422 S Main St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 3323",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nc85Wfl9eA1k7wRUqnSrE_45.657762_-110.555995@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2312de74f067ca9f697cf05b35297b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":169846907
+        }
+    ],
+    "wof:id":169846907,
+    "wof:lastmodified":1449035218,
+    "wof:name":"Medical Eye Specialists P C",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [-110.555995,45.657762,-110.555995,45.657762],
+  "geometry": {"coordinates":[-110.555995,45.657762],"type":"Point"}
+}

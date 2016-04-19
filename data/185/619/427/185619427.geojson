@@ -1,0 +1,69 @@
+{
+  "id": 185619427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.055493,45.685732,-111.055493,45.685732",
+    "geom:latitude":45.685732,
+    "geom:longitude":-111.055493,
+    "iso:country":"US",
+    "sg:address":"1409 Durston Rd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 2444",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "sg:website":"www.onestepahead.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S6CiqSh62cewC6TEGnkvg_45.685732_-111.055493@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09745eb2b1851385e4d2b49d4d6e1f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891685,
+            "region_id":85688617,
+            "venue_id":185619427
+        }
+    ],
+    "wof:id":185619427,
+    "wof:lastmodified":1449006901,
+    "wof:name":"One Step Ahead",
+    "wof:parent_id":85891685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-111.055493,45.685732,-111.055493,45.685732],
+  "geometry": {"coordinates":[-111.055493,45.685732],"type":"Point"}
+}

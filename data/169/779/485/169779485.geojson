@@ -1,0 +1,66 @@
+{
+  "id": 169779485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.55633,45.765518,-108.55633,45.765518",
+    "geom:latitude":45.765518,
+    "geom:longitude":-108.55633,
+    "iso:country":"US",
+    "sg:address":"302 Edward St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 8407",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JALJO31esbgvTSKosfsKi_45.765518_-108.556330@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35d77212496e49b8b0f370ce591c33cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169779485
+        }
+    ],
+    "wof:id":169779485,
+    "wof:lastmodified":1449033199,
+    "wof:name":"City of Billings",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [-108.55633,45.765518,-108.55633,45.765518],
+  "geometry": {"coordinates":[-108.55633,45.765518],"type":"Point"}
+}

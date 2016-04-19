@@ -1,0 +1,72 @@
+{
+  "id": 185688661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.316794,48.33859,-114.316794,48.33859",
+    "geom:latitude":48.33859,
+    "geom:longitude":-114.316794,
+    "iso:country":"US",
+    "sg:address":"120 Taylor Rd",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 9226",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fuel",
+        "reduction",
+        "forest",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VmUhm9vNq8F958pBkuFBn_48.338590_-114.316794@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"facd234e3a8c774d0ecd5e88adcb59b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185688661
+        }
+    ],
+    "wof:id":185688661,
+    "wof:lastmodified":1449007210,
+    "wof:name":"Forest Fuel Management",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fuel",
+        "reduction",
+        "forest",
+        "mechanical"
+    ]
+},
+  "bbox": [-114.316794,48.33859,-114.316794,48.33859],
+  "geometry": {"coordinates":[-114.316794,48.33859],"type":"Point"}
+}

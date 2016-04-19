@@ -1,0 +1,69 @@
+{
+  "id": 186314491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-107.624679,45.72615,-107.624679,45.72615",
+    "geom:latitude":45.72615,
+    "geom:longitude":-107.624679,
+    "iso:country":"US",
+    "sg:address":"900 Rangeview Dr",
+    "sg:city":"Hardin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 665 1212",
+    "sg:postcode":"59034",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972749,
+        102085169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dzWKd7ktNtWFCucll6LMj_45.726150_-107.624679@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9b0c612ede50ed475da894c122d669f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085169,
+            "locality_id":85972749,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186314491
+        }
+    ],
+    "wof:id":186314491,
+    "wof:lastmodified":1449052921,
+    "wof:name":"Rapid Transit Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-107.624679,45.72615,-107.624679,45.72615],
+  "geometry": {"coordinates":[-107.624679,45.72615],"type":"Point"}
+}

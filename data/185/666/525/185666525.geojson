@@ -1,0 +1,78 @@
+{
+  "id": 185666525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-106.641178,48.205252,-106.641178,48.205252",
+    "geom:latitude":48.205252,
+    "geom:longitude":-106.641178,
+    "iso:country":"US",
+    "sg:address":"931 US Hwy 2",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 228 9799",
+    "sg:postcode":"59230",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972901,
+        102085109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aiQnrrg4Nw2pTDXOloC8O_48.205252_-106.641178@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6fa08e137307d9b26ae768cfd2aadab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085109,
+            "locality_id":85972901,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185666525
+        }
+    ],
+    "wof:id":185666525,
+    "wof:lastmodified":1449007188,
+    "wof:name":"C B's Detailing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean",
+        "automotive"
+    ]
+},
+  "bbox": [-106.641178,48.205252,-106.641178,48.205252],
+  "geometry": {"coordinates":[-106.641178,48.205252],"type":"Point"}
+}

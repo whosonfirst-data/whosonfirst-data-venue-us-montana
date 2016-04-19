@@ -1,0 +1,70 @@
+{
+  "id": 186042437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.535714,45.769761,-108.535714,45.769761",
+    "geom:latitude":45.769761,
+    "geom:longitude":-108.535714,
+    "iso:country":"US",
+    "sg:address":"702 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8255",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CEZFAMiTvnLo0B2v18mPc_45.769761_-108.535714@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cff20a350c794b297f55af1314101ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186042437
+        }
+    ],
+    "wof:id":186042437,
+    "wof:lastmodified":1449052363,
+    "wof:name":"American Red Cross Blood Svc",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [-108.535714,45.769761,-108.535714,45.769761],
+  "geometry": {"coordinates":[-108.535714,45.769761],"type":"Point"}
+}

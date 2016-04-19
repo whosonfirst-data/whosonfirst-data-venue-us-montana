@@ -1,0 +1,77 @@
+{
+  "id": 186439993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.280534,48.225984,-114.280534,48.225984",
+    "geom:latitude":48.225984,
+    "geom:longitude":-114.280534,
+    "iso:country":"US",
+    "sg:address":"45 W Evergreen Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 1144",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fencing",
+        "material",
+        "cage",
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c8AD0orLa1tvYz4KGK1D0_48.225984_-114.280534@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ecc87f65236cf7d5920c0b0cc75fc40",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186439993
+        }
+    ],
+    "wof:id":186439993,
+    "wof:lastmodified":1449051128,
+    "wof:name":"Kalispell Fence Company",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fencing",
+        "material",
+        "cage",
+        "fence"
+    ]
+},
+  "bbox": [-114.280534,48.225984,-114.280534,48.225984],
+  "geometry": {"coordinates":[-114.280534,48.225984],"type":"Point"}
+}

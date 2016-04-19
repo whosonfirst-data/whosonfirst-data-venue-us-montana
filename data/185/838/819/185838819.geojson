@@ -1,0 +1,68 @@
+{
+  "id": 185838819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.572163,45.761524,-108.572163,45.761524",
+    "geom:latitude":45.761524,
+    "geom:longitude":-108.572163,
+    "iso:country":"US",
+    "sg:address":"2222 George St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 0442",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W1KSN3XxJSjwoBs0qd6Sz_45.761524_-108.572163@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9051a28aebd07646a85380d63630ed3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185838819
+        }
+    ],
+    "wof:id":185838819,
+    "wof:lastmodified":1449006796,
+    "wof:name":"George Eastlick Estate",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [-108.572163,45.761524,-108.572163,45.761524],
+  "geometry": {"coordinates":[-108.572163,45.761524],"type":"Point"}
+}

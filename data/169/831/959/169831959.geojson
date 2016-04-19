@@ -1,0 +1,68 @@
+{
+  "id": 169831959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.009557,46.854423,-114.009557,46.854423",
+    "geom:latitude":46.854423,
+    "geom:longitude":-114.009557,
+    "iso:country":"US",
+    "sg:address":"1700 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 1788",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dX6AU5W0YqmxYJfI2OR4O_46.854423_-114.009557@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a03457facfd8f003a389cf7c0f276dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":169831959
+        }
+    ],
+    "wof:id":169831959,
+    "wof:lastmodified":1449034628,
+    "wof:name":"Brooks Street Cleaners",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [-114.009557,46.854423,-114.009557,46.854423],
+  "geometry": {"coordinates":[-114.009557,46.854423],"type":"Point"}
+}

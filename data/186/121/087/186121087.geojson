@@ -1,0 +1,66 @@
+{
+  "id": 186121087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.602707,45.885546,-110.602707,45.885546",
+    "geom:latitude":45.885546,
+    "geom:longitude":-110.602707,
+    "iso:country":"US",
+    "sg:address":"311 Miles St",
+    "sg:city":"Clyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 686 4778",
+    "sg:postcode":"59018",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RI71y3yJXEeW7a5m935Kf_45.885546_-110.602707@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce3fdea0c86463a65e42b3900ec802c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":186121087
+        }
+    ],
+    "wof:id":186121087,
+    "wof:lastmodified":1449052411,
+    "wof:name":"Clyde Park Tavern",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [-110.602707,45.885546,-110.602707,45.885546],
+  "geometry": {"coordinates":[-110.602707,45.885546],"type":"Point"}
+}

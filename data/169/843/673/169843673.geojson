@@ -1,0 +1,81 @@
+{
+  "id": 169843673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576095,45.752503,-108.576095,45.752503",
+    "geom:latitude":45.752503,
+    "geom:longitude":-108.576095,
+    "iso:country":"US",
+    "sg:address":"905 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 9411",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "discount",
+        "optical",
+        "center",
+        "pharmacy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gty6r7hDM5IPyzhElyWej_45.752503_-108.576095@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c68a0d80b7e5abec7197f0fb072519f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":169843673
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":169843673
+        }
+    ],
+    "wof:id":169843673,
+    "wof:lastmodified":1449032968,
+    "wof:name":"Shopko Store 106",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "discount",
+        "optical",
+        "center",
+        "pharmacy"
+    ]
+},
+  "bbox": [-108.576095,45.752503,-108.576095,45.752503],
+  "geometry": {"coordinates":[-108.576095,45.752503],"type":"Point"}
+}

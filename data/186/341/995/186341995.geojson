@@ -1,0 +1,66 @@
+{
+  "id": 186341995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.533844,45.998254,-112.533844,45.998254",
+    "geom:latitude":45.998254,
+    "geom:longitude":-112.533844,
+    "iso:country":"US",
+    "sg:address":"8 W Front St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 2614",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grocery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xTMoSEfFyDzrVLJvtCV7B_45.998254_-112.533844@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2c76ee3db823d5fa88263b9e24e7fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":186341995
+        }
+    ],
+    "wof:id":186341995,
+    "wof:lastmodified":1449052921,
+    "wof:name":"Front Street Market",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery"
+    ]
+},
+  "bbox": [-112.533844,45.998254,-112.533844,45.998254],
+  "geometry": {"coordinates":[-112.533844,45.998254],"type":"Point"}
+}

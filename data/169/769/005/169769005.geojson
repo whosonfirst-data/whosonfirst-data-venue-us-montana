@@ -1,0 +1,61 @@
+{
+  "id": 169769005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.47489,45.806356,-108.47489,45.806356",
+    "geom:latitude":45.806356,
+    "geom:longitude":-108.47489,
+    "iso:country":"US",
+    "sg:address":"402 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8002",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:website":"www.tacojohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w7vJVWaCxYmn93XLoMn16_45.806356_-108.474890@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0de6f17ba0b2808e3511610ddaa843a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":169769005
+        }
+    ],
+    "wof:id":169769005,
+    "wof:lastmodified":1449033786,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-108.47489,45.806356,-108.47489,45.806356],
+  "geometry": {"coordinates":[-108.47489,45.806356],"type":"Point"}
+}

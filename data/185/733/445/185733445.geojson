@@ -1,0 +1,68 @@
+{
+  "id": 185733445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.312204,48.19457,-114.312204,48.19457",
+    "geom:latitude":48.19457,
+    "geom:longitude":-114.312204,
+    "iso:country":"US",
+    "sg:address":"433 Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 7080",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CvlGVVkcYqKFsBOkCp0Ie_48.194570_-114.312204@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"945abb98475c0c862e36505cc1de8cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185733445
+        }
+    ],
+    "wof:id":185733445,
+    "wof:lastmodified":1449006825,
+    "wof:name":"Crane Roberta L MA",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-114.312204,48.19457,-114.312204,48.19457],
+  "geometry": {"coordinates":[-114.312204,48.19457],"type":"Point"}
+}

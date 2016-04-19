@@ -1,0 +1,71 @@
+{
+  "id": 185881195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.264115,47.514732,-111.264115,47.514732",
+    "geom:latitude":47.514732,
+    "geom:longitude":-111.264115,
+    "iso:country":"US",
+    "sg:address":"813 25th St N",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 761 6720",
+    "sg:postcode":"59401",
+    "sg:province":"MT",
+    "sg:tags":[
+        "supply",
+        "general",
+        "motor",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972763,
+        102085113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44MM5mseFc4gR1WuDV3dnw_47.514732_-111.264115@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09dc150275d27111a4b839e114b20b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085113,
+            "locality_id":85972763,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185881195
+        }
+    ],
+    "wof:id":185881195,
+    "wof:lastmodified":1449007544,
+    "wof:name":"Automotive Machine Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "general",
+        "motor",
+        "mfg"
+    ]
+},
+  "bbox": [-111.264115,47.514732,-111.264115,47.514732],
+  "geometry": {"coordinates":[-111.264115,47.514732],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 169696853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.506464,45.782892,-108.506464,45.782892",
+    "geom:latitude":45.782892,
+    "geom:longitude":-108.506464,
+    "iso:country":"US",
+    "sg:address":"115 N 28th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2929",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "stationer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PYl8q1ayzmz9bbi7HK52B_45.782892_-108.506464@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76d8563b0dd26bfe159fb46746e2188a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":169696853
+        }
+    ],
+    "wof:id":169696853,
+    "wof:lastmodified":1449032923,
+    "wof:name":"Rebecca's Paper Chase",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stationer"
+    ]
+},
+  "bbox": [-108.506464,45.782892,-108.506464,45.782892],
+  "geometry": {"coordinates":[-108.506464,45.782892],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 186306479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576076,45.753358,-108.576076,45.753358",
+    "geom:latitude":45.753358,
+    "geom:longitude":-108.576076,
+    "iso:country":"US",
+    "sg:address":"993 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6662",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:brand_id":420574027,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s9nNpWI3x8E3hBXz9tOgN_45.753358_-108.576076@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1d2a6cf90f8434954e36a227573e45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186306479
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186306479
+        }
+    ],
+    "wof:id":186306479,
+    "wof:lastmodified":1457208157,
+    "wof:name":"American Express Financial Adv",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -108.576076,
+    45.753358,
+    -108.576076,
+    45.753358
+],
+  "geometry": {"coordinates":[-108.576076,45.753358],"type":"Point"}
+}

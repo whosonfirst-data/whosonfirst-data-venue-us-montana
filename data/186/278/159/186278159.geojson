@@ -1,0 +1,66 @@
+{
+  "id": 186278159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.016861,46.866082,-114.016861,46.866082",
+    "geom:latitude":46.866082,
+    "geom:longitude":-114.016861,
+    "iso:country":"US",
+    "sg:address":"1330 S 4th St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 8309",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F2W16cCSJjgTL0Y8NpspG_46.866082_-114.016861@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b9a17fa7b03f7a221cc7ea5e761e957",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":186278159
+        }
+    ],
+    "wof:id":186278159,
+    "wof:lastmodified":1449051860,
+    "wof:name":"Western Mt Mental Health",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [-114.016861,46.866082,-114.016861,46.866082],
+  "geometry": {"coordinates":[-114.016861,46.866082],"type":"Point"}
+}

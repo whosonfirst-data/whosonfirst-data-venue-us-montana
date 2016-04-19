@@ -1,0 +1,66 @@
+{
+  "id": 186150489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.340826,45.813798,-108.340826,45.813798",
+    "geom:latitude":45.813798,
+    "geom:longitude":-108.340826,
+    "iso:country":"US",
+    "sg:address":"820 Petrified Tree Pass",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 9800",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U4rVRoZfEG48sGY8tIUDf_45.813798_-108.340826@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"705a65a91a6c087ae6436f1681716e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186150489
+        }
+    ],
+    "wof:id":186150489,
+    "wof:lastmodified":1449050290,
+    "wof:name":"Wells Fargo Education Fncl Svc",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [-108.340826,45.813798,-108.340826,45.813798],
+  "geometry": {"coordinates":[-108.340826,45.813798],"type":"Point"}
+}

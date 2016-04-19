@@ -1,0 +1,67 @@
+{
+  "id": 186025033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.123443,45.67104,-111.123443,45.67104",
+    "geom:latitude":45.67104,
+    "geom:longitude":-111.123443,
+    "iso:country":"US",
+    "sg:address":"8498 Huffine Ln",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 2252",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "machine",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972981,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nPf3x2bd5eHnZR4hHFCOo_45.671040_-111.123443@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35434096ea342c7e49f1145487d01c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972981,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186025033
+        }
+    ],
+    "wof:id":186025033,
+    "wof:lastmodified":1449052566,
+    "wof:name":"Montana Machine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "mfg"
+    ]
+},
+  "bbox": [-111.123443,45.67104,-111.123443,45.67104],
+  "geometry": {"coordinates":[-111.123443,45.67104],"type":"Point"}
+}

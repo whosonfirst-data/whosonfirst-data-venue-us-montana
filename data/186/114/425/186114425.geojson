@@ -1,0 +1,72 @@
+{
+  "id": 186114425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.527514,46.005048,-112.527514,46.005048",
+    "geom:latitude":46.005048,
+    "geom:longitude":-112.527514,
+    "iso:country":"US",
+    "sg:address":"926 S Arizona St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 4889",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:brand_id":420574295,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k82C8OIxiiqWT6R6RWC2t_46.005048_-112.527514@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86d1e8edfdae7819946fc8c297d78111",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186114425
+        }
+    ],
+    "wof:id":186114425,
+    "wof:lastmodified":1457208749,
+    "wof:name":"Fedex",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -112.527514,
+    46.005048,
+    -112.527514,
+    46.005048
+],
+  "geometry": {"coordinates":[-112.527514,46.005048],"type":"Point"}
+}

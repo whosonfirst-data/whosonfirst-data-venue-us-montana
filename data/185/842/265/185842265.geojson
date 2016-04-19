@@ -1,0 +1,66 @@
+{
+  "id": 185842265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.538335,46.01275,-112.538335,46.01275",
+    "geom:latitude":46.01275,
+    "geom:longitude":-112.538335,
+    "iso:country":"US",
+    "sg:address":"133 W Park St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 6278",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gFK1jTJI9tl1Rhlu7VIJa_46.012750_-112.538335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13c6c3de76f67efeb2e647d8f891b6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185842265
+        }
+    ],
+    "wof:id":185842265,
+    "wof:lastmodified":1449006726,
+    "wof:name":"Park Street Liquors",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [-112.538335,46.01275,-112.538335,46.01275],
+  "geometry": {"coordinates":[-112.538335,46.01275],"type":"Point"}
+}

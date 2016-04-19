@@ -1,0 +1,67 @@
+{
+  "id": 169784455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.508992,45.789506,-108.508992,45.789506",
+    "geom:latitude":45.789506,
+    "geom:longitude":-108.508992,
+    "iso:country":"US",
+    "sg:address":"2525 8th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 238 2885",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tT3nVCUvRMlrq88n9wKUr_45.789506_-108.508992@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5f2b5ae14c72bf051bf1d34399077e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":169784455
+        }
+    ],
+    "wof:id":169784455,
+    "wof:lastmodified":1449034896,
+    "wof:name":"Phillip J Key MD",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-108.508992,45.789506,-108.508992,45.789506],
+  "geometry": {"coordinates":[-108.508992,45.789506],"type":"Point"}
+}

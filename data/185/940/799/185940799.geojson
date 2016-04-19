@@ -1,0 +1,68 @@
+{
+  "id": 185940799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.457422,45.848786,-108.457422,45.848786",
+    "geom:latitude":45.848786,
+    "geom:longitude":-108.457422,
+    "iso:country":"US",
+    "sg:address":"2954 Hwy 312",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4399",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zOgmbQaesmYQGeZjfeUq2_45.848786_-108.457422@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0ef927f639f7a09ba10b681cfe0b94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185940799
+        }
+    ],
+    "wof:id":185940799,
+    "wof:lastmodified":1449007010,
+    "wof:name":"Big Sky Exhaust & Brake Co",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.457422,45.848786,-108.457422,45.848786],
+  "geometry": {"coordinates":[-108.457422,45.848786],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 185715619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.587669,45.775387,-108.587669,45.775387",
+    "geom:latitude":45.775387,
+    "geom:longitude":-108.587669,
+    "iso:country":"US",
+    "sg:address":"409 29th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 3838",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jyTZamBlcx0lAw9X2IxeX_45.775387_-108.587669@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3577598d4bba01cf7e6ce735b4af2130",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185715619
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185715619
+        }
+    ],
+    "wof:id":185715619,
+    "wof:lastmodified":1449007894,
+    "wof:name":"Meisenheimer Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [-108.587669,45.775387,-108.587669,45.775387],
+  "geometry": {"coordinates":[-108.587669,45.775387],"type":"Point"}
+}

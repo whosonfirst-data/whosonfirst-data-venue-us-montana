@@ -1,0 +1,74 @@
+{
+  "id": 186313953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.554752,45.749339,-108.554752,45.749339",
+    "geom:latitude":45.749339,
+    "geom:longitude":-108.554752,
+    "iso:country":"US",
+    "sg:address":"5364 Midland Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 7777",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "video",
+        "tape",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FNp4gJR8zPTNnQJS7zubl_45.749339_-108.554752@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e2b290afc618a8a68205fec16d4bf95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":186313953
+        }
+    ],
+    "wof:id":186313953,
+    "wof:lastmodified":1449050346,
+    "wof:name":"Broadway Adult Books & Video",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape",
+        "dealer"
+    ]
+},
+  "bbox": [-108.554752,45.749339,-108.554752,45.749339],
+  "geometry": {"coordinates":[-108.554752,45.749339],"type":"Point"}
+}

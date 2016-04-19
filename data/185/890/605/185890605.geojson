@@ -1,0 +1,66 @@
+{
+  "id": 185890605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.504411,45.786348,-108.504411,45.786348",
+    "geom:latitude":45.786348,
+    "geom:longitude":-108.504411,
+    "iso:country":"US",
+    "sg:address":"315 N 25th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 6177",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.turleydentalcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IEIABlYpDnc0Hsb7UdDuo_45.786348_-108.504411@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"538441b396506beae9b26b08d3c77701",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185890605
+        }
+    ],
+    "wof:id":185890605,
+    "wof:lastmodified":1449006974,
+    "wof:name":"Turley Dental Care",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-108.504411,45.786348,-108.504411,45.786348],
+  "geometry": {"coordinates":[-108.504411,45.786348],"type":"Point"}
+}

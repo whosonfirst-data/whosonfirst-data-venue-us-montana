@@ -1,0 +1,68 @@
+{
+  "id": 169744179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.347598,48.423659,-114.347598,48.423659",
+    "geom:latitude":48.423659,
+    "geom:longitude":-114.347598,
+    "iso:country":"US",
+    "sg:address":"5 Bearberry Ln",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 5206",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DwZfoPcg49S0Z8IOIaHCq_48.423659_-114.347598@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1520f26d30f100555a344648709a7205",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":169744179
+        }
+    ],
+    "wof:id":169744179,
+    "wof:lastmodified":1449033881,
+    "wof:name":"Vision Dental Arts",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-114.347598,48.423659,-114.347598,48.423659],
+  "geometry": {"coordinates":[-114.347598,48.423659],"type":"Point"}
+}

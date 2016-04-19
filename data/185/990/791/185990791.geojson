@@ -1,0 +1,70 @@
+{
+  "id": 185990791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.999051,46.87244,-113.999051,46.87244",
+    "geom:latitude":46.87244,
+    "geom:longitude":-113.999051,
+    "iso:country":"US",
+    "sg:address":"345 W Front St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 3686",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FbXjDlA9Z5yVGHa3tQED3_46.872440_-113.999051@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2ebd0162084e8fa51b27317bf1ed314",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":185990791
+        }
+    ],
+    "wof:id":185990791,
+    "wof:lastmodified":1449007672,
+    "wof:name":"Twin Modal Inc",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking",
+        "vehicle"
+    ]
+},
+  "bbox": [-113.999051,46.87244,-113.999051,46.87244],
+  "geometry": {"coordinates":[-113.999051,46.87244],"type":"Point"}
+}

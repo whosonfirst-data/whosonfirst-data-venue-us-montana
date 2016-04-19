@@ -1,0 +1,68 @@
+{
+  "id": 186003001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.182424,47.811275,-112.182424,47.811275",
+    "geom:latitude":47.811275,
+    "geom:longitude":-112.182424,
+    "iso:country":"US",
+    "sg:address":"29 N Main Ave",
+    "sg:city":"Choteau",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 466 2121",
+    "sg:postcode":"59422",
+    "sg:province":"MT",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972855,
+        102085149,
+        85810939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AAclOrwgRVjaiIhXl3Rc6_47.811275_-112.182424@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"705a4a8fa37ac56db99f3d262da60b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085149,
+            "locality_id":85972855,
+            "neighbourhood_id":85810939,
+            "region_id":85688617,
+            "venue_id":186003001
+        }
+    ],
+    "wof:id":186003001,
+    "wof:lastmodified":1449052816,
+    "wof:name":"Choteau Senior Citizens",
+    "wof:parent_id":85810939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [-112.182424,47.811275,-112.182424,47.811275],
+  "geometry": {"coordinates":[-112.182424,47.811275],"type":"Point"}
+}

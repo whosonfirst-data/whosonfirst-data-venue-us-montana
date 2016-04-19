@@ -1,0 +1,66 @@
+{
+  "id": 169819547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.342614,45.902632,-108.342614,45.902632",
+    "geom:latitude":45.902632,
+    "geom:longitude":-108.342614,
+    "iso:country":"US",
+    "sg:address":"7612 Hwy 312",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6642",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P4LxcBesx8cQ7GvG6J5rH_45.902632_-108.342614@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"983f7fa0d81f7e22576fd59f8a473b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":169819547
+        }
+    ],
+    "wof:id":169819547,
+    "wof:lastmodified":1449033478,
+    "wof:name":"Shepherd Huntley Anml Care Ctr",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-108.342614,45.902632,-108.342614,45.902632],
+  "geometry": {"coordinates":[-108.342614,45.902632],"type":"Point"}
+}

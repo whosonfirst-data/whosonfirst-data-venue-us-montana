@@ -1,0 +1,66 @@
+{
+  "id": 185862549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.388935,45.841213,-108.388935,45.841213",
+    "geom:latitude":45.841213,
+    "geom:longitude":-108.388935,
+    "iso:country":"US",
+    "sg:address":"3925 Coulson Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 5222",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nyIDePXk3XCXHdLFgyxec_45.841213_-108.388935@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"125b7719a246a097819b1ad3abf272da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":185862549
+        }
+    ],
+    "wof:id":185862549,
+    "wof:lastmodified":1449008265,
+    "wof:name":"J & L Machine",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-108.388935,45.841213,-108.388935,45.841213],
+  "geometry": {"coordinates":[-108.388935,45.841213],"type":"Point"}
+}

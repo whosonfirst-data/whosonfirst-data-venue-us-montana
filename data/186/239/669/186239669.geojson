@@ -1,0 +1,67 @@
+{
+  "id": 186239669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.989945,46.870814,-113.989945,46.870814",
+    "geom:latitude":46.870814,
+    "geom:longitude":-113.989945,
+    "iso:country":"US",
+    "sg:address":"319 E Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 327 8787",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085103,
+        85891729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hWff59rNU43aRKkYKPChB_46.870814_-113.989945@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fdb5e1e1731191e380c267c65e083b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":-1,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":186239669
+        }
+    ],
+    "wof:id":186239669,
+    "wof:lastmodified":1449050499,
+    "wof:name":"Hazel House Properties",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [-113.989945,46.870814,-113.989945,46.870814],
+  "geometry": {"coordinates":[-113.989945,46.870814],"type":"Point"}
+}

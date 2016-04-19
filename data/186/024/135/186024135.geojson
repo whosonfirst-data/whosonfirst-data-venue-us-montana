@@ -1,0 +1,66 @@
+{
+  "id": 186024135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470758,45.820828,-108.470758,45.820828",
+    "geom:latitude":45.820828,
+    "geom:longitude":-108.470758,
+    "iso:country":"US",
+    "sg:address":"1219 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 0442",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QBvkRajFn251xKl3gkuxP_45.820828_-108.470758@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de49fd3c8e3dff8938c309ab8df256d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":186024135
+        }
+    ],
+    "wof:id":186024135,
+    "wof:lastmodified":1449051669,
+    "wof:name":"Kwik-Way 16",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [-108.470758,45.820828,-108.470758,45.820828],
+  "geometry": {"coordinates":[-108.470758,45.820828],"type":"Point"}
+}

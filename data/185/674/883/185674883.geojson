@@ -1,0 +1,67 @@
+{
+  "id": 185674883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.490887,45.792971,-108.490887,45.792971",
+    "geom:latitude":45.792971,
+    "geom:longitude":-108.490887,
+    "iso:country":"US",
+    "sg:address":"1314 4th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 3701",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vXYDrhwUVahEgc8kTHbBD_45.792971_-108.490887@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6939141f52f435edc54de7e8306f849",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185674883
+        }
+    ],
+    "wof:id":185674883,
+    "wof:lastmodified":1449007807,
+    "wof:name":"Jim's Auto Repair",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.490887,45.792971,-108.490887,45.792971],
+  "geometry": {"coordinates":[-108.490887,45.792971],"type":"Point"}
+}

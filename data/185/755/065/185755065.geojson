@@ -1,0 +1,66 @@
+{
+  "id": 185755065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.022389,46.869256,-114.022389,46.869256",
+    "geom:latitude":46.869256,
+    "geom:longitude":-114.022389,
+    "iso:country":"US",
+    "sg:address":"243 S Catlin St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 0319",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qkIvU6fmWlAaFSmGnege2_46.869256_-114.022389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55374cee856849f17d6f63100c17466b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":185755065
+        }
+    ],
+    "wof:id":185755065,
+    "wof:lastmodified":1449007066,
+    "wof:name":"Mountain Tops of Missoula Inc",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-114.022389,46.869256,-114.022389,46.869256],
+  "geometry": {"coordinates":[-114.022389,46.869256],"type":"Point"}
+}

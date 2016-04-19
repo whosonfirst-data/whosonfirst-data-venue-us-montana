@@ -1,0 +1,68 @@
+{
+  "id": 185708469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.02987,46.857482,-114.02987,46.857482",
+    "geom:latitude":46.857482,
+    "geom:longitude":-114.02987,
+    "iso:country":"US",
+    "sg:address":"2019 S 13th St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 2328",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2llcZ7gx6YfFhQVTqxoP8M_46.857482_-114.029870@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04fbceaff4b30cfde228069fe93f80be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185708469
+        }
+    ],
+    "wof:id":185708469,
+    "wof:lastmodified":1449006873,
+    "wof:name":"James Wallace Guitar Studio",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [-114.02987,46.857482,-114.02987,46.857482],
+  "geometry": {"coordinates":[-114.02987,46.857482],"type":"Point"}
+}

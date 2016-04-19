@@ -1,0 +1,66 @@
+{
+  "id": 185899791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.72855,45.683415,-108.72855,45.683415",
+    "geom:latitude":45.683415,
+    "geom:longitude":-108.72855,
+    "iso:country":"US",
+    "sg:address":"1213 Elkhorn Dr",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 8496",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6175E1cdoiN49AXX5m1ybv_45.683415_-108.728550@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9cf7c043126b57a44fae9224802dea3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185899791
+        }
+    ],
+    "wof:id":185899791,
+    "wof:lastmodified":1449008117,
+    "wof:name":"Boesh Engineering & Testing",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [-108.72855,45.683415,-108.72855,45.683415],
+  "geometry": {"coordinates":[-108.72855,45.683415],"type":"Point"}
+}

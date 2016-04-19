@@ -1,0 +1,68 @@
+{
+  "id": 186077153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.063152,46.859602,-114.063152,46.859602",
+    "geom:latitude":46.859602,
+    "geom:longitude":-114.063152,
+    "iso:country":"US",
+    "sg:address":"3201 Spurgin Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 5531",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "state",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qPZ6YEpzQfqjZBxq2Y3ut_46.859602_-114.063152@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"271b936b115c3d8dbfe032620de59105",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186077153
+        }
+    ],
+    "wof:id":186077153,
+    "wof:lastmodified":1449050827,
+    "wof:name":"Lost Creek State Park",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "parks"
+    ]
+},
+  "bbox": [-114.063152,46.859602,-114.063152,46.859602],
+  "geometry": {"coordinates":[-114.063152,46.859602],"type":"Point"}
+}

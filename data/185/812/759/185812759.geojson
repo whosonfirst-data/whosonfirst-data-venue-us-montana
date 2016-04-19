@@ -1,0 +1,66 @@
+{
+  "id": 185812759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.539005,45.982976,-112.539005,45.982976",
+    "geom:latitude":45.982976,
+    "geom:longitude":-112.539005,
+    "iso:country":"US",
+    "sg:address":"2811 S Montana St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 3874",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4azV0RwMHYsNtXfNoPP6Ht_45.982976_-112.539005@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d169ab3c3b9cc7910ba5c5e2e95b539e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":185812759
+        }
+    ],
+    "wof:id":185812759,
+    "wof:lastmodified":1449006630,
+    "wof:name":"Bill Field Trucking",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [-112.539005,45.982976,-112.539005,45.982976],
+  "geometry": {"coordinates":[-112.539005,45.982976],"type":"Point"}
+}

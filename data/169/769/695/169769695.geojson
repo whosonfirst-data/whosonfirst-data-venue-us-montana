@@ -1,0 +1,68 @@
+{
+  "id": 169769695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.105158,45.237441,-112.105158,45.237441",
+    "geom:latitude":45.237441,
+    "geom:longitude":-112.105158,
+    "iso:country":"US",
+    "sg:address":"981 Upper Ruby Rd",
+    "sg:city":"Alder",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 842 5356",
+    "sg:postcode":"59710",
+    "sg:province":"MT",
+    "sg:tags":[
+        "breeder",
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DMug0eBdee16b531kuG9d_45.237441_-112.105158@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c39c8c792afd5793f7a27428ec65887",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":169769695
+        }
+    ],
+    "wof:id":169769695,
+    "wof:lastmodified":1449033783,
+    "wof:name":"Maloney Ranch",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "horse"
+    ]
+},
+  "bbox": [-112.105158,45.237441,-112.105158,45.237441],
+  "geometry": {"coordinates":[-112.105158,45.237441],"type":"Point"}
+}

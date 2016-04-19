@@ -1,0 +1,74 @@
+{
+  "id": 186166349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470627,45.815519,-108.470627,45.815519",
+    "geom:latitude":45.815519,
+    "geom:longitude":-108.470627,
+    "iso:country":"US",
+    "sg:address":"905 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0865",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "sg:website":"www.godfathers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:brand_id":420575225,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s5V1kcyf49bj8zAYTt5vL_45.815519_-108.470627@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db5a6d77627526ff757ff324c9713a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186166349
+        }
+    ],
+    "wof:id":186166349,
+    "wof:lastmodified":1457209470,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.470627,
+    45.815519,
+    -108.470627,
+    45.815519
+],
+  "geometry": {"coordinates":[-108.47062699999999,45.815519],"type":"Point"}
+}

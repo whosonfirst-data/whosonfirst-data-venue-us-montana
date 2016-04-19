@@ -1,0 +1,67 @@
+{
+  "id": 185868165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-115.55459,48.389802,-115.55459,48.389802",
+    "geom:latitude":48.389802,
+    "geom:longitude":-115.55459,
+    "iso:country":"US",
+    "sg:address":"711 California Ave",
+    "sg:city":"Libby",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 293 3755",
+    "sg:postcode":"59923",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972735,
+        102085175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TzAvabavKsthqRf8JHq1Q_48.389802_-115.554590@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32dc3d8be27718f4b7062723f12f5174",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085175,
+            "locality_id":85972735,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185868165
+        }
+    ],
+    "wof:id":185868165,
+    "wof:lastmodified":1449006651,
+    "wof:name":"Lincoln County Community Hlth",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-115.55459,48.389802,-115.55459,48.389802],
+  "geometry": {"coordinates":[-115.55459,48.389802],"type":"Point"}
+}

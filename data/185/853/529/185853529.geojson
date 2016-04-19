@@ -1,0 +1,67 @@
+{
+  "id": 185853529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.028523,45.683867,-111.028523,45.683867",
+    "geom:latitude":45.683867,
+    "geom:longitude":-111.028523,
+    "iso:country":"US",
+    "sg:address":"511 N Wallace Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 8567",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "rental"
+    ],
+    "sg:website":"www.karststage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r4GaCBkyGMKwtcRHkAV8N_45.683867_-111.028523@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a429f3a8626d0e6bc836ceddd2277692",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876473,
+            "region_id":85688617,
+            "venue_id":185853529
+        }
+    ],
+    "wof:id":185853529,
+    "wof:lastmodified":1449007261,
+    "wof:name":"Karst Stage",
+    "wof:parent_id":85876473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [-111.028523,45.683867,-111.028523,45.683867],
+  "geometry": {"coordinates":[-111.028523,45.683867],"type":"Point"}
+}

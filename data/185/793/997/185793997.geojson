@@ -1,0 +1,77 @@
+{
+  "id": 185793997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.572595,45.752499,-108.572595,45.752499",
+    "geom:latitude":45.752499,
+    "geom:longitude":-108.572595,
+    "iso:country":"US",
+    "sg:address":"2235 Grant Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 238 0750",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:website":"www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:brand_id":420573867,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AIBsQDMnjyIqXueoBj8aK_45.752499_-108.572595@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25f267c9a3d8ced80c6d02ccf0ebd98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185793997
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185793997
+        }
+    ],
+    "wof:id":185793997,
+    "wof:lastmodified":1457207729,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.572595,
+    45.752499,
+    -108.572595,
+    45.752499
+],
+  "geometry": {"coordinates":[-108.57259500000001,45.752499],"type":"Point"}
+}

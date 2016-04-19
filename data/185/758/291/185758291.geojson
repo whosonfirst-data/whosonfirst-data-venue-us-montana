@@ -1,0 +1,66 @@
+{
+  "id": 185758291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.324258,48.211187,-114.324258,48.211187",
+    "geom:latitude":48.211187,
+    "geom:longitude":-114.324258,
+    "iso:country":"US",
+    "sg:address":"75 Claremont St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 7600",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "oncologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qy4XkXzP7LYwc1zw7bIQ3_48.211187_-114.324258@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d4d278cd967d07273a520e39dee5bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185758291
+        }
+    ],
+    "wof:id":185758291,
+    "wof:lastmodified":1449007090,
+    "wof:name":"Glacier Oncology",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oncologist"
+    ]
+},
+  "bbox": [-114.324258,48.211187,-114.324258,48.211187],
+  "geometry": {"coordinates":[-114.324258,48.211187],"type":"Point"}
+}

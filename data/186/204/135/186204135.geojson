@@ -1,0 +1,66 @@
+{
+  "id": 186204135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.310164,48.189015,-114.310164,48.189015",
+    "geom:latitude":48.189015,
+    "geom:longitude":-114.310164,
+    "iso:country":"US",
+    "sg:address":"1001 S Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 2015",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q6RbRovQsT7agYLdwjyJw_48.189015_-114.310164@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afc6b43d8fd51a4db7eb082dec6efdf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186204135
+        }
+    ],
+    "wof:id":186204135,
+    "wof:lastmodified":1449053099,
+    "wof:name":"Kelley Appraisal",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [-114.310164,48.189015,-114.310164,48.189015],
+  "geometry": {"coordinates":[-114.310164,48.189015],"type":"Point"}
+}

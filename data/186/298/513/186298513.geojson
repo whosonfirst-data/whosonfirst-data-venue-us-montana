@@ -1,0 +1,76 @@
+{
+  "id": 186298513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.62587,45.772199,-108.62587,45.772199",
+    "geom:latitude":45.772199,
+    "geom:longitude":-108.62587,
+    "iso:country":"US",
+    "sg:address":"4221 Wells Pl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 9240",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RLKg5lCxTjag1dV1L8E7Z_45.772199_-108.625870@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f8e21b9e91a7317318e4a40c5741e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":186298513
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186298513
+        }
+    ],
+    "wof:id":186298513,
+    "wof:lastmodified":1449051111,
+    "wof:name":"Precision Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-108.62587,45.772199,-108.62587,45.772199],
+  "geometry": {"coordinates":[-108.62587,45.772199],"type":"Point"}
+}

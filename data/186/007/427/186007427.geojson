@@ -1,0 +1,72 @@
+{
+  "id": 186007427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.510682,45.928504,-112.510682,45.928504",
+    "geom:latitude":45.928504,
+    "geom:longitude":-112.510682,
+    "iso:country":"US",
+    "sg:address":"115 N Parkmont",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 4886",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:brand_id":420574421,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GITychJ5m5pcPwLb70HZG_45.928504_-112.510682@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c88c6073886b5162fa395b4ed94fa3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":186007427
+        }
+    ],
+    "wof:id":186007427,
+    "wof:lastmodified":1457208877,
+    "wof:name":"UPS",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -112.510682,
+    45.928504,
+    -112.510682,
+    45.928504
+],
+  "geometry": {"coordinates":[-112.510682,45.928504],"type":"Point"}
+}

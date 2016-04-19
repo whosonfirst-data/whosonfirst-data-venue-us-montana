@@ -1,0 +1,66 @@
+{
+  "id": 169721633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.032764,45.679379,-111.032764,45.679379",
+    "geom:latitude":45.679379,
+    "geom:longitude":-111.032764,
+    "iso:country":"US",
+    "sg:address":"211 E Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 9355",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aDggxVrZ02kRkNEV5WO71_45.679379_-111.032764@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e9b4a043d0b23c18156cad1cd0ae742",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":169721633
+        }
+    ],
+    "wof:id":169721633,
+    "wof:lastmodified":1449035962,
+    "wof:name":"Rocking-R Bar",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [-111.032764,45.679379,-111.032764,45.679379],
+  "geometry": {"coordinates":[-111.032764,45.679379],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 185625631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.832432,46.438999,-109.832432,46.438999",
+    "geom:latitude":46.438999,
+    "geom:longitude":-109.832432,
+    "iso:country":"US",
+    "sg:address":"207 3rd St NE",
+    "sg:city":"Harlowton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 632 5570",
+    "sg:postcode":"59036",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972895,
+        102085183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZdnJGnryGcd4x7G2yqBkK_46.438999_-109.832432@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ea99c192156691f2d35f0a0e8faef45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085183,
+            "locality_id":85972895,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185625631
+        }
+    ],
+    "wof:id":185625631,
+    "wof:lastmodified":1449008238,
+    "wof:name":"Midtown Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-109.832432,46.438999,-109.832432,46.438999],
+  "geometry": {"coordinates":[-109.832432,46.438999],"type":"Point"}
+}

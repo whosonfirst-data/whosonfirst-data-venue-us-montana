@@ -1,0 +1,68 @@
+{
+  "id": 186143649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.067054,45.654887,-111.067054,45.654887",
+    "geom:latitude":45.654887,
+    "geom:longitude":-111.067054,
+    "iso:country":"US",
+    "sg:address":"100 S Discovery Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 582 0227",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "programming",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oG9EMFvGfDFpVxTnfM9jI_45.654887_-111.067054@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8cb6f92e33d82ea54ddcf31cb752b6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891709,
+            "region_id":85688617,
+            "venue_id":186143649
+        }
+    ],
+    "wof:id":186143649,
+    "wof:lastmodified":1449052554,
+    "wof:name":"Photon Dynamics Inc",
+    "wof:parent_id":85891709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming",
+        "custom"
+    ]
+},
+  "bbox": [-111.067054,45.654887,-111.067054,45.654887],
+  "geometry": {"coordinates":[-111.067054,45.654887],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 186339163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.022404,46.863423,-114.022404,46.863423",
+    "geom:latitude":46.863423,
+    "geom:longitude":-114.022404,
+    "iso:country":"US",
+    "sg:address":"800 S Catlin St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 2301",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "general",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FoUrs9M5x7sRBLiYI7Haw_46.863423_-114.022404@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65bfa1021a2b6d192d5c27ee36008ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186339163
+        }
+    ],
+    "wof:id":186339163,
+    "wof:lastmodified":1449051575,
+    "wof:name":"Automotive Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general",
+        "exhaust"
+    ]
+},
+  "bbox": [-114.022404,46.863423,-114.022404,46.863423],
+  "geometry": {"coordinates":[-114.022404,46.863423],"type":"Point"}
+}

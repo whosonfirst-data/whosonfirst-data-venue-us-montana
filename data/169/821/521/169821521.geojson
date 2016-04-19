@@ -1,0 +1,66 @@
+{
+  "id": 169821521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.018238,46.878077,-114.018238,46.878077",
+    "geom:latitude":46.878077,
+    "geom:longitude":-114.018238,
+    "iso:country":"US",
+    "sg:address":"1450 W Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 0022",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63FCBAlxTm6o8UfX7JtZEB_46.878077_-114.018238@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdfb283ca07a7b0a290d45d0da94c43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":169821521
+        }
+    ],
+    "wof:id":169821521,
+    "wof:lastmodified":1449034493,
+    "wof:name":"Cats On Broadway Hospital",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal"
+    ]
+},
+  "bbox": [-114.018238,46.878077,-114.018238,46.878077],
+  "geometry": {"coordinates":[-114.018238,46.878077],"type":"Point"}
+}

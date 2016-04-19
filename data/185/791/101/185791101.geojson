@@ -1,0 +1,66 @@
+{
+  "id": 185791101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.998883,46.872179,-113.998883,46.872179",
+    "geom:latitude":46.872179,
+    "geom:longitude":-113.998883,
+    "iso:country":"US",
+    "sg:address":"231 W Front St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 9694",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08TRhF6T8KPgROYWcUNtJI_46.872179_-113.998883@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f73e3fc7b8d31179c3719cf59cd9e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":185791101
+        }
+    ],
+    "wof:id":185791101,
+    "wof:lastmodified":1449007863,
+    "wof:name":"Boardroom Lounge",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [-113.998883,46.872179,-113.998883,46.872179],
+  "geometry": {"coordinates":[-113.998883,46.872179],"type":"Point"}
+}

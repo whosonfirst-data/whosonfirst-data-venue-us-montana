@@ -1,0 +1,67 @@
+{
+  "id": 186178919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.496341,45.789279,-108.496341,45.789279",
+    "geom:latitude":45.789279,
+    "geom:longitude":-108.496341,
+    "iso:country":"US",
+    "sg:address":"1813 3rd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 9555",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D9jSJqeLxGkGiTXXhrSpP_45.789279_-108.496341@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42f435ce65ecb34881f1a44d7ddff0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186178919
+        }
+    ],
+    "wof:id":186178919,
+    "wof:lastmodified":1449052287,
+    "wof:name":"Foreign Cars Only",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.496341,45.789279,-108.496341,45.789279],
+  "geometry": {"coordinates":[-108.496341,45.789279],"type":"Point"}
+}

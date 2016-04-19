@@ -1,0 +1,67 @@
+{
+  "id": 186283931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.496577,45.772913,-108.496577,45.772913",
+    "geom:latitude":45.772913,
+    "geom:longitude":-108.496577,
+    "iso:country":"US",
+    "sg:address":"821 S 28th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 1591",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YsRABnj3655dWnojhfJnM_45.772913_-108.496577@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bec7ca8b0cc50c807b9f03aad15e474",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":186283931
+        }
+    ],
+    "wof:id":186283931,
+    "wof:lastmodified":1449051169,
+    "wof:name":"Mush & Me Property Maintenance",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [-108.496577,45.772913,-108.496577,45.772913],
+  "geometry": {"coordinates":[-108.496577,45.772913],"type":"Point"}
+}

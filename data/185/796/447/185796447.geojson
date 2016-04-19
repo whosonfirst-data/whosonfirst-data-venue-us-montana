@@ -1,0 +1,67 @@
+{
+  "id": 185796447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.529848,45.757665,-108.529848,45.757665",
+    "geom:latitude":45.757665,
+    "geom:longitude":-108.529848,
+    "iso:country":"US",
+    "sg:address":"4436 Stone St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2059",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DAvZ2cS2zw3fktx97Jlx2_45.757665_-108.529848@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"167c85ded78a4b2ff2a55648671e352e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":185796447
+        }
+    ],
+    "wof:id":185796447,
+    "wof:lastmodified":1449007376,
+    "wof:name":"Ballard Unloading Services",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-108.529848,45.757665,-108.529848,45.757665],
+  "geometry": {"coordinates":[-108.529848,45.757665],"type":"Point"}
+}

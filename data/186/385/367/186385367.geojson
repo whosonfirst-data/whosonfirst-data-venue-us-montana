@@ -1,0 +1,70 @@
+{
+  "id": 186385367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.547574,46.007753,-112.547574,46.007753",
+    "geom:latitude":46.007753,
+    "geom:longitude":-112.547574,
+    "iso:country":"US",
+    "sg:address":"700 W Gold St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 6391",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yjtQBZo4MEE5l46V5X757_46.007753_-112.547574@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e9ab6c352d791cff6eebe8394d09ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186385367
+        }
+    ],
+    "wof:id":186385367,
+    "wof:lastmodified":1449051964,
+    "wof:name":"Big Sky Neuroscience and Spine",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [-112.547574,46.007753,-112.547574,46.007753],
+  "geometry": {"coordinates":[-112.547574,46.007753],"type":"Point"}
+}

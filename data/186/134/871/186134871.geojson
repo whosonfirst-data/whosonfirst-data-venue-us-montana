@@ -1,0 +1,75 @@
+{
+  "id": 186134871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.61622,45.725791,-108.61622,45.725791",
+    "geom:latitude":45.725791,
+    "geom:longitude":-108.61622,
+    "iso:country":"US",
+    "sg:address":"7900 S Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 2410",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fNrCD9KFMlVPUW3BK8rVz_45.725791_-108.616220@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dbb48d24a429d1d15eda16a16dc71c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186134871
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186134871
+        }
+    ],
+    "wof:id":186134871,
+    "wof:lastmodified":1449052885,
+    "wof:name":"Billings Nursery & Landscaping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [-108.61622,45.725791,-108.61622,45.725791],
+  "geometry": {"coordinates":[-108.61622,45.725791],"type":"Point"}
+}

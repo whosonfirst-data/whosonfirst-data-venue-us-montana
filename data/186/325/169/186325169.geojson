@@ -1,0 +1,66 @@
+{
+  "id": 186325169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.04587,46.84605,-114.04587,46.84605",
+    "geom:latitude":46.84605,
+    "geom:longitude":-114.04587,
+    "iso:country":"US",
+    "sg:address":"2831 Fort Missoula Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 1171",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SCDh5NRXmoVEphjCxOJ4P_46.846050_-114.045870@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"791b21b65606db19d94ee83ef1d97885",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186325169
+        }
+    ],
+    "wof:id":186325169,
+    "wof:lastmodified":1449051414,
+    "wof:name":"Ankle & Foot Care Clinic",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-114.04587,46.84605,-114.04587,46.84605],
+  "geometry": {"coordinates":[-114.04587,46.84605],"type":"Point"}
+}

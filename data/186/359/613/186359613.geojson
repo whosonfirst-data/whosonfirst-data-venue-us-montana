@@ -1,0 +1,72 @@
+{
+  "id": 186359613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.538251,45.784112,-108.538251,45.784112",
+    "geom:latitude":45.784112,
+    "geom:longitude":-108.538251,
+    "iso:country":"US",
+    "sg:address":"813 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 5555",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "acupuncture",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nMEQR2niNTbvvBYpwmlss_45.784112_-108.538251@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dbe35f065329bb576869c2991804a804",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":186359613
+        }
+    ],
+    "wof:id":186359613,
+    "wof:lastmodified":1449050200,
+    "wof:name":"A Acupuncture Research Center",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture",
+        "medical"
+    ]
+},
+  "bbox": [-108.538251,45.784112,-108.538251,45.784112],
+  "geometry": {"coordinates":[-108.538251,45.784112],"type":"Point"}
+}

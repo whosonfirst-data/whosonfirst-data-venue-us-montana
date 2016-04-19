@@ -1,0 +1,70 @@
+{
+  "id": 186154321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.498314,45.828619,-108.498314,45.828619",
+    "geom:latitude":45.828619,
+    "geom:longitude":-108.498314,
+    "iso:country":"US",
+    "sg:address":"1666 Lakehills Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7310",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0duGa9hD8JFthqVRo4Zxys_45.828619_-108.498314@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35e19099358c5def860f2e9331325ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186154321
+        }
+    ],
+    "wof:id":186154321,
+    "wof:lastmodified":1449053055,
+    "wof:name":"Krueger Construction",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-108.498314,45.828619,-108.498314,45.828619],
+  "geometry": {"coordinates":[-108.498314,45.828619],"type":"Point"}
+}

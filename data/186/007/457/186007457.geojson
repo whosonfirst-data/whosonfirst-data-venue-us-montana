@@ -1,0 +1,68 @@
+{
+  "id": 186007457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.015444,46.837447,-114.015444,46.837447",
+    "geom:latitude":46.837447,
+    "geom:longitude":-114.015444,
+    "iso:country":"US",
+    "sg:address":"1235 34th St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 4113",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77C8hpDrTwzPA8YOdqC19V_46.837447_-114.015444@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"501afca9c91309ae8a1f834c39630751",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186007457
+        }
+    ],
+    "wof:id":186007457,
+    "wof:lastmodified":1449052549,
+    "wof:name":"Missoula Housing Authority",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "maintenance"
+    ]
+},
+  "bbox": [-114.015444,46.837447,-114.015444,46.837447],
+  "geometry": {"coordinates":[-114.015444,46.837447],"type":"Point"}
+}

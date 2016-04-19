@@ -1,0 +1,72 @@
+{
+  "id": 169713795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.332325,48.21949,-114.332325,48.21949",
+    "geom:latitude":48.21949,
+    "geom:longitude":-114.332325,
+    "iso:country":"US",
+    "sg:address":"327 Parkway Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 4818",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical",
+        "retail",
+        "oxygen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ebVl9yDXwcHEUwyVn1DJ5_48.219490_-114.332325@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2406fffb669afd0643836f0948872913",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":169713795
+        }
+    ],
+    "wof:id":169713795,
+    "wof:lastmodified":1449035651,
+    "wof:name":"Community Home Oxygen",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "retail",
+        "oxygen",
+        "supply"
+    ]
+},
+  "bbox": [-114.332325,48.21949,-114.332325,48.21949],
+  "geometry": {"coordinates":[-114.332325,48.21949],"type":"Point"}
+}

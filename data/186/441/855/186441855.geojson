@@ -1,0 +1,80 @@
+{
+  "id": 186441855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.593549,45.758729,-108.593549,45.758729",
+    "geom:latitude":45.758729,
+    "geom:longitude":-108.593549,
+    "iso:country":"US",
+    "sg:address":"3030 Stillwater Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6129",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yJTOALJQbuINgv8xX0KfN_45.758729_-108.593549@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"591912f246f6b2b7944edf12562bbd88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186441855
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186441855
+        }
+    ],
+    "wof:id":186441855,
+    "wof:lastmodified":1449050455,
+    "wof:name":"De Gala",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [-108.593549,45.758729,-108.593549,45.758729],
+  "geometry": {"coordinates":[-108.593549,45.758729],"type":"Point"}
+}

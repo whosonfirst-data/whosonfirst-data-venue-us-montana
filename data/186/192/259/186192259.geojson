@@ -1,0 +1,68 @@
+{
+  "id": 186192259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.508538,45.786953,-108.508538,45.786953",
+    "geom:latitude":45.786953,
+    "geom:longitude":-108.508538,
+    "iso:country":"US",
+    "sg:address":"515 N 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 4803",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shelter",
+        "homeless"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j6Kv4hUjSRhAEuVV4SobJ_45.786953_-108.508538@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25c35daaca1046f737d59cc820a14b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":186192259
+        }
+    ],
+    "wof:id":186192259,
+    "wof:lastmodified":1449052251,
+    "wof:name":"Mental Health Ctr",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "homeless"
+    ]
+},
+  "bbox": [-108.508538,45.786953,-108.508538,45.786953],
+  "geometry": {"coordinates":[-108.508538,45.786953],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 185915911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470742,45.825825,-108.470742,45.825825",
+    "geom:latitude":45.825825,
+    "geom:longitude":-108.470742,
+    "iso:country":"US",
+    "sg:address":"1423 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 1941",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "sg:website":"www.quiznos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:brand_id":420574399,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UacXVQQdyMfj8ro2kceQz_45.825825_-108.470742@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89de3f70c723c0523436fc1a0492addd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185915911
+        }
+    ],
+    "wof:id":185915911,
+    "wof:lastmodified":1457208858,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -108.470742,
+    45.825825,
+    -108.470742,
+    45.825825
+],
+  "geometry": {"coordinates":[-108.470742,45.825825],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186178063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.047781,45.650014,-111.047781,45.650014",
+    "geom:latitude":45.650014,
+    "geom:longitude":-111.047781,
+    "iso:country":"US",
+    "sg:address":"3020 Teslow Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 1212",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77mm2xltHPs2W1gWzzObMm_45.650014_-111.047781@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8615f02e34300f9d593b3ce14a40a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891717,
+            "region_id":85688617,
+            "venue_id":186178063
+        }
+    ],
+    "wof:id":186178063,
+    "wof:lastmodified":1449052284,
+    "wof:name":"Dr Jeffrey C Squire Od",
+    "wof:parent_id":85891717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-111.047781,45.650014,-111.047781,45.650014],
+  "geometry": {"coordinates":[-111.047781,45.650014],"type":"Point"}
+}

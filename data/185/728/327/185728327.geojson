@@ -1,0 +1,67 @@
+{
+  "id": 185728327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.558373,45.783969,-108.558373,45.783969",
+    "geom:latitude":45.783969,
+    "geom:longitude":-108.558373,
+    "iso:country":"US",
+    "sg:address":"1628 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 6226",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "sg:website":"www.masterlube.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wHerqnWVVPyisl1hn6E0g_45.783969_-108.558373@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5630df714db6b6f3ca678d48a6483c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185728327
+        }
+    ],
+    "wof:id":185728327,
+    "wof:lastmodified":1449006986,
+    "wof:name":"Master Lube",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-108.558373,45.783969,-108.558373,45.783969],
+  "geometry": {"coordinates":[-108.558373,45.783969],"type":"Point"}
+}

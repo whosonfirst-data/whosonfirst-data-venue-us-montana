@@ -1,0 +1,68 @@
+{
+  "id": 186348705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.336502,48.370859,-114.336502,48.370859",
+    "geom:latitude":48.370859,
+    "geom:longitude":-114.336502,
+    "iso:country":"US",
+    "sg:address":"125 Blanchard Lake Rd",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 4357",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VYdm3UfmTHffQBOlrbZGQ_48.370859_-114.336502@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e2a18988fdcf05ae5e41eb68a1461dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186348705
+        }
+    ],
+    "wof:id":186348705,
+    "wof:lastmodified":1449050395,
+    "wof:name":"Bohemian Grange Hall",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-114.336502,48.370859,-114.336502,48.370859],
+  "geometry": {"coordinates":[-114.336502,48.370859],"type":"Point"}
+}

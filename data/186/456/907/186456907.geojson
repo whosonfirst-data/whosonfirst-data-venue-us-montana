@@ -1,0 +1,68 @@
+{
+  "id": 186456907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.029688,45.679408,-111.029688,45.679408",
+    "geom:latitude":45.679408,
+    "geom:longitude":-111.029688,
+    "iso:country":"US",
+    "sg:address":"549 E Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 7112",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "paint",
+        "wallpaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pd5hxShwZDGQrMpU9OeSS_45.679408_-111.029688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"232c0f20ed8e2d5aa825fbd0a41bd5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891715,
+            "region_id":85688617,
+            "venue_id":186456907
+        }
+    ],
+    "wof:id":186456907,
+    "wof:lastmodified":1449051177,
+    "wof:name":"Paint Pot",
+    "wof:parent_id":85891715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "wallpaper"
+    ]
+},
+  "bbox": [-111.029688,45.679408,-111.029688,45.679408],
+  "geometry": {"coordinates":[-111.029688,45.679408],"type":"Point"}
+}

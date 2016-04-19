@@ -1,0 +1,76 @@
+{
+  "id": 169836909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.590816,45.773598,-108.590816,45.773598",
+    "geom:latitude":45.773598,
+    "geom:longitude":-108.590816,
+    "iso:country":"US",
+    "sg:address":"2926 Howard Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 9231",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K6fimoUsKltL5wxHiXdkk_45.773598_-108.590816@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc6a97ec0a6477a8fec9dca837115bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":169836909
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":169836909
+        }
+    ],
+    "wof:id":169836909,
+    "wof:lastmodified":1449034870,
+    "wof:name":"L & R Dish Installation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation"
+    ]
+},
+  "bbox": [-108.590816,45.773598,-108.590816,45.773598],
+  "geometry": {"coordinates":[-108.590816,45.773598],"type":"Point"}
+}

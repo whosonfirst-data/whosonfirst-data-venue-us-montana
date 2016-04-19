@@ -1,0 +1,70 @@
+{
+  "id": 186430303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.322291,48.215769,-114.322291,48.215769",
+    "geom:latitude":48.215769,
+    "geom:longitude":-114.322291,
+    "iso:country":"US",
+    "sg:address":"310 Sunnyview Ln",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 1724",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "medical",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_647gDBcHnNMUqHNBr08Zah_48.215769_-114.322291@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1137190b75047710727eb00f0eb8332d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186430303
+        }
+    ],
+    "wof:id":186430303,
+    "wof:lastmodified":1449052085,
+    "wof:name":"Applied Health Service Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "medical",
+        "rental"
+    ]
+},
+  "bbox": [-114.322291,48.215769,-114.322291,48.215769],
+  "geometry": {"coordinates":[-114.322291,48.215769],"type":"Point"}
+}

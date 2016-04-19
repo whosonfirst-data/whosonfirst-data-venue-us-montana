@@ -1,0 +1,68 @@
+{
+  "id": 185750949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.534583,45.990404,-112.534583,45.990404",
+    "geom:latitude":45.990404,
+    "geom:longitude":-112.534583,
+    "iso:country":"US",
+    "sg:address":"2323 S Main St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 5255",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "livestock",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bcT6QVmoul2TDwivvm92v_45.990404_-112.534583@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec4b7a9721d858b2db0356d5132f8a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":185750949
+        }
+    ],
+    "wof:id":185750949,
+    "wof:lastmodified":1449007592,
+    "wof:name":"Seymour Livestock Trucking",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock",
+        "hauling"
+    ]
+},
+  "bbox": [-112.534583,45.990404,-112.534583,45.990404],
+  "geometry": {"coordinates":[-112.534583,45.990404],"type":"Point"}
+}

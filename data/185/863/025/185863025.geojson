@@ -1,0 +1,66 @@
+{
+  "id": 185863025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.549428,46.006978,-112.549428,46.006978",
+    "geom:latitude":46.006978,
+    "geom:longitude":-112.549428,
+    "iso:country":"US",
+    "sg:address":"800 W Platinum St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 6070",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ERufhPXvnwOt73qNViHhJ_46.006978_-112.549428@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47b57af637a918cb4af4df60316115c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185863025
+        }
+    ],
+    "wof:id":185863025,
+    "wof:lastmodified":1449007702,
+    "wof:name":"Mountain Vista Clinic",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-112.549428,46.006978,-112.549428,46.006978],
+  "geometry": {"coordinates":[-112.549428,46.006978],"type":"Point"}
+}

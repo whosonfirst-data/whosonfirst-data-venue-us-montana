@@ -1,0 +1,74 @@
+{
+  "id": 186002693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.735021,45.368886,-110.735021,45.368886",
+    "geom:latitude":45.368886,
+    "geom:longitude":-110.735021,
+    "iso:country":"US",
+    "sg:address":"305 Story Rd",
+    "sg:city":"Emigrant",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 333 4333",
+    "sg:postcode":"59027",
+    "sg:province":"MT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:brand_id":420573749,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IcWkfVHTRnKb5NHctsKpM_45.368886_-110.735021@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7506aa7bcc1317be2ad63c0b1f8246bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":186002693
+        }
+    ],
+    "wof:id":186002693,
+    "wof:lastmodified":1457207044,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -110.735021,
+    45.368886,
+    -110.735021,
+    45.368886
+],
+  "geometry": {"coordinates":[-110.735021,45.368886],"type":"Point"}
+}

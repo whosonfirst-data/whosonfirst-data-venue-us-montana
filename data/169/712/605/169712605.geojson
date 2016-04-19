@@ -1,0 +1,66 @@
+{
+  "id": 169712605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.02375,46.848775,-114.02375,46.848775",
+    "geom:latitude":46.848775,
+    "geom:longitude":-114.02375,
+    "iso:country":"US",
+    "sg:address":"1709 South Ave W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 9428",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LjXC6WsVH7AU69Sm7DgxA_46.848775_-114.023750@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4767ca6649b8765e079d5e85c03d3250",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":169712605
+        }
+    ],
+    "wof:id":169712605,
+    "wof:lastmodified":1449034088,
+    "wof:name":"Montana TV & Video Service",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [-114.02375,46.848775,-114.02375,46.848775],
+  "geometry": {"coordinates":[-114.02375,46.848775],"type":"Point"}
+}

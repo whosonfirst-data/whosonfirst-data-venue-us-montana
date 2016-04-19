@@ -1,0 +1,65 @@
+{
+  "id": 185739623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.033573,45.703101,-111.033573,45.703101",
+    "geom:latitude":45.703101,
+    "geom:longitude":-111.033573,
+    "iso:country":"US",
+    "sg:address":"2101 Industrial Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 0037",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60TK4DnX0dVOMMeYu9k9s5_45.703101_-111.033573@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b49be9e03173cde4e3abce256e1fa131",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185739623
+        }
+    ],
+    "wof:id":185739623,
+    "wof:lastmodified":1449007283,
+    "wof:name":"Laidlaw Medical Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-111.033573,45.703101,-111.033573,45.703101],
+  "geometry": {"coordinates":[-111.033573,45.703101],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 186158173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.031465,45.699977,-111.031465,45.699977",
+    "geom:latitude":45.699977,
+    "geom:longitude":-111.031465,
+    "iso:country":"US",
+    "sg:address":"302 E Griffin Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 2278",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iIroUQOr2IVwxLeEYJxRB_45.699977_-111.031465@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa317a1842dc43068094db8826e6fb87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186158173
+        }
+    ],
+    "wof:id":186158173,
+    "wof:lastmodified":1449052155,
+    "wof:name":"AmeriGas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ]
+},
+  "bbox": [-111.031465,45.699977,-111.031465,45.699977],
+  "geometry": {"coordinates":[-111.031465,45.699977],"type":"Point"}
+}

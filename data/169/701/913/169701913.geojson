@@ -1,0 +1,68 @@
+{
+  "id": 169701913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470791,45.830662,-108.470791,45.830662",
+    "geom:latitude":45.830662,
+    "geom:longitude":-108.470791,
+    "iso:country":"US",
+    "sg:address":"1745 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 4354",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iwaU1JIy8TemkkaL59NlW_45.830662_-108.470791@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82469092e622e963a218188fb3db1fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":169701913
+        }
+    ],
+    "wof:id":169701913,
+    "wof:lastmodified":1449035271,
+    "wof:name":"Jurrette's School Of Dance",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-108.470791,45.830662,-108.470791,45.830662],
+  "geometry": {"coordinates":[-108.470791,45.830662],"type":"Point"}
+}

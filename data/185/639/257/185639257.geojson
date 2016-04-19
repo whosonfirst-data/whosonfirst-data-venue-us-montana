@@ -1,0 +1,68 @@
+{
+  "id": 185639257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.301301,45.903243,-108.301301,45.903243",
+    "geom:latitude":45.903243,
+    "geom:longitude":-108.301301,
+    "iso:country":"US",
+    "sg:address":"1659 Heath St",
+    "sg:city":"Huntley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 348 3168",
+    "sg:postcode":"59037",
+    "sg:province":"MT",
+    "sg:tags":[
+        "transmission",
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71uCVA9BBnq3FtLI5CVxiq_45.903243_-108.301301@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5d4a4ba9b87e1614d1aa0464e2e1854",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":185639257
+        }
+    ],
+    "wof:id":185639257,
+    "wof:lastmodified":1449008196,
+    "wof:name":"K Enterprises Truck",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "tractor"
+    ]
+},
+  "bbox": [-108.301301,45.903243,-108.301301,45.903243],
+  "geometry": {"coordinates":[-108.301301,45.903243],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186083561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.514133,45.996487,-112.514133,45.996487",
+    "geom:latitude":45.996487,
+    "geom:longitude":-112.514133,
+    "iso:country":"US",
+    "sg:address":"1820 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 6609",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JkkzkBF0AJtNFmBMR8CJ3_45.996487_-112.514133@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4088449bbf33c6912b82e4e7d5b0f11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186083561
+        }
+    ],
+    "wof:id":186083561,
+    "wof:lastmodified":1449051653,
+    "wof:name":"Butte Healing Arts Ctr",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [-112.514133,45.996487,-112.514133,45.996487],
+  "geometry": {"coordinates":[-112.514133,45.996487],"type":"Point"}
+}

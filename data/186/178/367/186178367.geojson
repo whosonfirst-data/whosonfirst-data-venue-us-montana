@@ -1,0 +1,68 @@
+{
+  "id": 186178367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.037249,45.679265,-111.037249,45.679265",
+    "geom:latitude":45.679265,
+    "geom:longitude":-111.037249,
+    "iso:country":"US",
+    "sg:address":"1 E Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 585 3420",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KsNZNJt1na3V0p4wCZ4Dd_45.679265_-111.037249@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1cf06d9e31302981d343ad497596545e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":186178367
+        }
+    ],
+    "wof:id":186178367,
+    "wof:lastmodified":1449052285,
+    "wof:name":"Langlas & Assoc Inc",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-111.037249,45.679265,-111.037249,45.679265],
+  "geometry": {"coordinates":[-111.037249,45.679265],"type":"Point"}
+}

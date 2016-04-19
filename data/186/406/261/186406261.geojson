@@ -1,0 +1,68 @@
+{
+  "id": 186406261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.471727,45.832296,-108.471727,45.832296",
+    "geom:latitude":45.832296,
+    "geom:longitude":-108.471727,
+    "iso:country":"US",
+    "sg:address":"435 Jaque Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 3694",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uGgaKqWGvcfi7mcshQ6Tf_45.832296_-108.471727@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"722f96777a66cf6c4722a3cd357ecbca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186406261
+        }
+    ],
+    "wof:id":186406261,
+    "wof:lastmodified":1449051812,
+    "wof:name":"Montana Transport Co",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [-108.471727,45.832296,-108.471727,45.832296],
+  "geometry": {"coordinates":[-108.471727,45.832296],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 186203399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.604586,45.773623,-108.604586,45.773623",
+    "geom:latitude":45.773623,
+    "geom:longitude":-108.604586,
+    "iso:country":"US",
+    "sg:address":"427 35th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 3590",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WSu62tm2ox7urPdR1sEL9_45.773623_-108.604586@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"684f142439c304de280c582456346000",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186203399
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186203399
+        }
+    ],
+    "wof:id":186203399,
+    "wof:lastmodified":1449051565,
+    "wof:name":"Luecks Faucet Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-108.604586,45.773623,-108.604586,45.773623],
+  "geometry": {"coordinates":[-108.604586,45.773623],"type":"Point"}
+}

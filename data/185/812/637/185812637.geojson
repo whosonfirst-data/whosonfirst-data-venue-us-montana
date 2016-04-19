@@ -1,0 +1,70 @@
+{
+  "id": 185812637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.47611,45.806047,-108.47611,45.806047",
+    "geom:latitude":45.806047,
+    "geom:longitude":-108.47611,
+    "iso:country":"US",
+    "sg:address":"410 Lake Elmo Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 2503",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54YdDrjk8tstgZtE2TbgiD_45.806047_-108.476110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3fc4c5e9b834b7df1462c16bbef6fb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185812637
+        }
+    ],
+    "wof:id":185812637,
+    "wof:lastmodified":1449006624,
+    "wof:name":"Custom Cuts",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-108.47611,45.806047,-108.47611,45.806047],
+  "geometry": {"coordinates":[-108.47611,45.806047],"type":"Point"}
+}

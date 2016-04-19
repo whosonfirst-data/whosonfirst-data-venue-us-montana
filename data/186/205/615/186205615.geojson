@@ -1,0 +1,66 @@
+{
+  "id": 186205615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.447927,45.794802,-108.447927,45.794802",
+    "geom:latitude":45.794802,
+    "geom:longitude":-108.447927,
+    "iso:country":"US",
+    "sg:address":"1509 Rosebud Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 1778",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mIBMRXwaqenY6bF9E3fnb_45.794802_-108.447927@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c39798a1f59ec9073d9ae2691fb57ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186205615
+        }
+    ],
+    "wof:id":186205615,
+    "wof:lastmodified":1449051979,
+    "wof:name":"Billings Luxury Sedan Svc",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-108.447927,45.794802,-108.447927,45.794802],
+  "geometry": {"coordinates":[-108.447927,45.794802],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169790405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.969035,48.506413,-110.969035,48.506413",
+    "geom:latitude":48.506413,
+    "geom:longitude":-110.969035,
+    "iso:country":"US",
+    "sg:address":"113 Van Buren Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 759 5655",
+    "sg:postcode":"59522",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972713,
+        102085147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IIKWXWLkVZFPc0MZRDhje_48.506413_-110.969035@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"927583f97cff3d90155ed754f365a0b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085147,
+            "locality_id":85972713,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169790405
+        }
+    ],
+    "wof:id":169790405,
+    "wof:lastmodified":1449035189,
+    "wof:name":"J & R Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-110.969035,48.506413,-110.969035,48.506413],
+  "geometry": {"coordinates":[-110.969035,48.506413],"type":"Point"}
+}

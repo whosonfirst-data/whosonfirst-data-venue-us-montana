@@ -1,0 +1,66 @@
+{
+  "id": 186282811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.11848,46.889038,-114.11848,46.889038",
+    "geom:latitude":46.889038,
+    "geom:longitude":-114.11848,
+    "iso:country":"US",
+    "sg:address":"1985 Oriole Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 6956",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74uTmgUinuJKlfoJ1e4w3g_46.889038_-114.118480@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1952181bbaa1c0878a85f0bc1f6269fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":186282811
+        }
+    ],
+    "wof:id":186282811,
+    "wof:lastmodified":1449052045,
+    "wof:name":"D JS Automotive Repair",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-114.11848,46.889038,-114.11848,46.889038],
+  "geometry": {"coordinates":[-114.11848,46.889038],"type":"Point"}
+}

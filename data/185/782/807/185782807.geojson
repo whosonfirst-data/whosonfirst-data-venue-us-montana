@@ -1,0 +1,66 @@
+{
+  "id": 185782807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.276964,48.22346,-114.276964,48.22346",
+    "geom:latitude":48.22346,
+    "geom:longitude":-114.276964,
+    "iso:country":"US",
+    "sg:address":"2181 US Hwy 2 E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 8120",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24HsKiI0XMr7uIsYI18TIe_48.223460_-114.276964@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4931b391f386f7d3d8d29c7ef5b88eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185782807
+        }
+    ],
+    "wof:id":185782807,
+    "wof:lastmodified":1449006585,
+    "wof:name":"Just Desserts",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-114.276964,48.22346,-114.276964,48.22346],
+  "geometry": {"coordinates":[-114.276964,48.22346],"type":"Point"}
+}

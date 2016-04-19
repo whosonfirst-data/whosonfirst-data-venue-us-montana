@@ -1,0 +1,66 @@
+{
+  "id": 186088495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.570891,45.654429,-110.570891,45.654429",
+    "geom:latitude":45.654429,
+    "geom:longitude":-110.570891,
+    "iso:country":"US",
+    "sg:address":"1100 W Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 9788",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xjqk7onWW5rGxZduQ76ms_45.654429_-110.570891@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"557466aae035aaa0ef92bbab58d632d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":186088495
+        }
+    ],
+    "wof:id":186088495,
+    "wof:lastmodified":1449052409,
+    "wof:name":"Pony Express Lube Center",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-110.570891,45.654429,-110.570891,45.654429],
+  "geometry": {"coordinates":[-110.570891,45.654429],"type":"Point"}
+}

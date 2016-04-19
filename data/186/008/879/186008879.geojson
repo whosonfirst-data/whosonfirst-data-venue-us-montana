@@ -1,0 +1,71 @@
+{
+  "id": 186008879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.248457,47.49415,-111.248457,47.49415",
+    "geom:latitude":47.49415,
+    "geom:longitude":-111.248457,
+    "iso:country":"US",
+    "sg:address":"3505 10th Ave S",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 454 8820",
+    "sg:postcode":"59405",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972763,
+        102085113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lBNdtJ4LpolwdAOxbVurK_47.494150_-111.248457@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08aec6396aab53307d2e144b598569dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085113,
+            "locality_id":85972763,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186008879
+        }
+    ],
+    "wof:id":186008879,
+    "wof:lastmodified":1449051223,
+    "wof:name":"IAB Auto Transport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ]
+},
+  "bbox": [-111.248457,47.49415,-111.248457,47.49415],
+  "geometry": {"coordinates":[-111.248457,47.49415],"type":"Point"}
+}

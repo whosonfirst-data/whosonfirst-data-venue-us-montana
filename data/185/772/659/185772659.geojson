@@ -1,0 +1,68 @@
+{
+  "id": 185772659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.408676,45.811069,-108.408676,45.811069",
+    "geom:latitude":45.811069,
+    "geom:longitude":-108.408676,
+    "iso:country":"US",
+    "sg:address":"727 Enfield St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 4313",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_039iAFSKASSdCiBodl1BOl_45.811069_-108.408676@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ed803f32ef77e9c73421dcd34f5b48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":185772659
+        }
+    ],
+    "wof:id":185772659,
+    "wof:lastmodified":1449007335,
+    "wof:name":"R & R Svc & Repair",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-108.408676,45.811069,-108.408676,45.811069],
+  "geometry": {"coordinates":[-108.408676,45.811069],"type":"Point"}
+}

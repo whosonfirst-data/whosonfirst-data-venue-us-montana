@@ -1,0 +1,67 @@
+{
+  "id": 169725053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.429201,45.806211,-108.429201,45.806211",
+    "geom:latitude":45.806211,
+    "geom:longitude":-108.429201,
+    "iso:country":"US",
+    "sg:address":"2102 Old Hardin Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 3391",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.s-bar-s.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xuT0ENB762V2KbhZjQXdK_45.806211_-108.429201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a4489fcd504b8bdefe1fd3ff2c47560",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":169725053
+        }
+    ],
+    "wof:id":169725053,
+    "wof:lastmodified":1449033491,
+    "wof:name":"S Bar S Supply Co",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-108.429201,45.806211,-108.429201,45.806211],
+  "geometry": {"coordinates":[-108.429201,45.806211],"type":"Point"}
+}

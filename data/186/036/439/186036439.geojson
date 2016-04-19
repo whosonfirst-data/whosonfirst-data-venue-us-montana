@@ -1,0 +1,75 @@
+{
+  "id": 186036439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.615251,45.743282,-108.615251,45.743282",
+    "geom:latitude":45.743282,
+    "geom:longitude":-108.615251,
+    "iso:country":"US",
+    "sg:address":"3961 Temple Pl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 7057",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RScJzPoE1W72OlDblaYWF_45.743282_-108.615251@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"318e205553cff766c0fbdc41d0bb3ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186036439
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186036439
+        }
+    ],
+    "wof:id":186036439,
+    "wof:lastmodified":1449050994,
+    "wof:name":"Ridge Runner",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [-108.615251,45.743282,-108.615251,45.743282],
+  "geometry": {"coordinates":[-108.615251,45.743282],"type":"Point"}
+}

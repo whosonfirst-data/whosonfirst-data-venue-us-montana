@@ -1,0 +1,68 @@
+{
+  "id": 185723971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.445452,45.828254,-108.445452,45.828254",
+    "geom:latitude":45.828254,
+    "geom:longitude":-108.445452,
+    "iso:country":"US",
+    "sg:address":"1510 Cheryl St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 855 2373",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D0TnmIcNCHK9RQJ6Bu4pq_45.828254_-108.445452@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89471e366d7dcdeeba6e73e11f0b1ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185723971
+        }
+    ],
+    "wof:id":185723971,
+    "wof:lastmodified":1449007553,
+    "wof:name":"Honey Do Contracting",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-108.445452,45.828254,-108.445452,45.828254],
+  "geometry": {"coordinates":[-108.445452,45.828254],"type":"Point"}
+}

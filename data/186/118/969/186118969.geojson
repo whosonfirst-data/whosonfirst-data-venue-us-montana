@@ -1,0 +1,68 @@
+{
+  "id": 186118969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.041963,46.89088,-114.041963,46.89088",
+    "geom:latitude":46.89088,
+    "geom:longitude":-114.041963,
+    "iso:country":"US",
+    "sg:address":"3620 American Way",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 7009",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jTtQntwpTYsIoSQxUpTAO_46.890880_-114.041963@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc531052b563e2500d07d6f94e513aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":186118969
+        }
+    ],
+    "wof:id":186118969,
+    "wof:lastmodified":1449052496,
+    "wof:name":"Hunters Glen",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-114.041963,46.89088,-114.041963,46.89088],
+  "geometry": {"coordinates":[-114.041963,46.89088],"type":"Point"}
+}

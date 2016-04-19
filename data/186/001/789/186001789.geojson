@@ -1,0 +1,70 @@
+{
+  "id": 186001789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.205934,48.185912,-114.205934,48.185912",
+    "geom:latitude":48.185912,
+    "geom:longitude":-114.205934,
+    "iso:country":"US",
+    "sg:address":"1085 Egan Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 2333",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OoxedwywAWqo7aXa5bowe_48.185912_-114.205934@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c510b8bd912b848f76b67bc04baf6de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186001789
+        }
+    ],
+    "wof:id":186001789,
+    "wof:lastmodified":1449051008,
+    "wof:name":"Medical Messengers Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-114.205934,48.185912,-114.205934,48.185912],
+  "geometry": {"coordinates":[-114.205934,48.185912],"type":"Point"}
+}

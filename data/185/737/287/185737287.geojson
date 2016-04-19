@@ -1,0 +1,68 @@
+{
+  "id": 185737287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.656028,45.801545,-108.656028,45.801545",
+    "geom:latitude":45.801545,
+    "geom:longitude":-108.656028,
+    "iso:country":"US",
+    "sg:address":"3126 Lloyd Mangrum Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 2814",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rTBLjMDXrYkIDYbACqZwF_45.801545_-108.656028@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae298b6c26ccd022d15ef0f987727eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185737287
+        }
+    ],
+    "wof:id":185737287,
+    "wof:lastmodified":1449006977,
+    "wof:name":"McCalla APT",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-108.656028,45.801545,-108.656028,45.801545],
+  "geometry": {"coordinates":[-108.656028,45.801545],"type":"Point"}
+}

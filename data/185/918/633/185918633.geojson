@@ -1,0 +1,67 @@
+{
+  "id": 185918633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.492127,45.788795,-108.492127,45.788795",
+    "geom:latitude":45.788795,
+    "geom:longitude":-108.492127,
+    "iso:country":"US",
+    "sg:address":"1617 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 0019",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YCmbIFdQY04GzTAwRgadZ_45.788795_-108.492127@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6abec1636af2f52539b36900b0e99461",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185918633
+        }
+    ],
+    "wof:id":185918633,
+    "wof:lastmodified":1449007682,
+    "wof:name":"Auto Plaza",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-108.492127,45.788795,-108.492127,45.788795],
+  "geometry": {"coordinates":[-108.492127,45.788795],"type":"Point"}
+}

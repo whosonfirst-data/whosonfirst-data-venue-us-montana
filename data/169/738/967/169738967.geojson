@@ -1,0 +1,66 @@
+{
+  "id": 169738967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.009381,46.85327,-114.009381,46.85327",
+    "geom:latitude":46.85327,
+    "geom:longitude":-114.009381,
+    "iso:country":"US",
+    "sg:address":"715 Kensington Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 0560",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35lBASmNKpEY84PelGJeaX_46.853270_-114.009381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"259cea3d4227940876b88c5d10f2808e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":169738967
+        }
+    ],
+    "wof:id":169738967,
+    "wof:lastmodified":1449035098,
+    "wof:name":"Missoula Cnty Assn of Realtors",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "association"
+    ]
+},
+  "bbox": [-114.009381,46.85327,-114.009381,46.85327],
+  "geometry": {"coordinates":[-114.009381,46.85327],"type":"Point"}
+}

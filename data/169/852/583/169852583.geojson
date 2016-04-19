@@ -1,0 +1,65 @@
+{
+  "id": 169852583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.948821,46.868828,-113.948821,46.868828",
+    "geom:latitude":46.868828,
+    "geom:longitude":-113.948821,
+    "iso:country":"US",
+    "sg:address":"505 Highton St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 3286",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085103,
+        85891729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kDtHIULv1OjtPZMHlfxZm_46.868828_-113.948821@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cdb3d6f5f9dec96fc8a5790eac6f9e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":-1,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":169852583
+        }
+    ],
+    "wof:id":169852583,
+    "wof:lastmodified":1449035403,
+    "wof:name":"KWIK Stop Sinclair",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [-113.948821,46.868828,-113.948821,46.868828],
+  "geometry": {"coordinates":[-113.948821,46.868828],"type":"Point"}
+}

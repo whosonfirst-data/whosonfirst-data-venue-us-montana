@@ -1,0 +1,70 @@
+{
+  "id": 185919457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.351773,45.926204,-108.351773,45.926204",
+    "geom:latitude":45.926204,
+    "geom:longitude":-108.351773,
+    "iso:country":"US",
+    "sg:address":"5224 Percheron Rd",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6242",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vXnDzZnXfVlMtAsaRBPFT_45.926204_-108.351773@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4162b8ecba66435ab655c9bb01251094",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":185919457
+        }
+    ],
+    "wof:id":185919457,
+    "wof:lastmodified":1449007831,
+    "wof:name":"Montana Rural Letter Carriers",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-108.351773,45.926204,-108.351773,45.926204],
+  "geometry": {"coordinates":[-108.351773,45.926204],"type":"Point"}
+}

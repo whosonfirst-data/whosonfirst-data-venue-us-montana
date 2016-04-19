@@ -1,0 +1,68 @@
+{
+  "id": 169770095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.535809,45.763973,-108.535809,45.763973",
+    "geom:latitude":45.763973,
+    "geom:longitude":-108.535809,
+    "iso:country":"US",
+    "sg:address":"354 S Billings Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 3550",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g34es5D29Zpv96BDG7524_45.763973_-108.535809@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"848393a774c2ce887af1154c72e935cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169770095
+        }
+    ],
+    "wof:id":169770095,
+    "wof:lastmodified":1449036036,
+    "wof:name":"Midland Electric Contracting",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.535809,45.763973,-108.535809,45.763973],
+  "geometry": {"coordinates":[-108.535809,45.763973],"type":"Point"}
+}

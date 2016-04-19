@@ -1,0 +1,67 @@
+{
+  "id": 186075039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.525487,45.768416,-108.525487,45.768416",
+    "geom:latitude":45.768416,
+    "geom:longitude":-108.525487,
+    "iso:country":"US",
+    "sg:address":"26 Orchard Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8465",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Va4QojglI6xNxpaw54lOx_45.768416_-108.525487@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8579c73069d272a4401c118342dfbf18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":186075039
+        }
+    ],
+    "wof:id":186075039,
+    "wof:lastmodified":1449051841,
+    "wof:name":"Magic City Repair",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.525487,45.768416,-108.525487,45.768416],
+  "geometry": {"coordinates":[-108.525487,45.768416],"type":"Point"}
+}

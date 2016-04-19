@@ -1,0 +1,65 @@
+{
+  "id": 185903801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.487323,45.791156,-108.487323,45.791156",
+    "geom:latitude":45.791156,
+    "geom:longitude":-108.487323,
+    "iso:country":"US",
+    "sg:address":"1211 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4847",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sOOZB6T9hNb8C5Bid2wGC_45.791156_-108.487323@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7dd732b9e9fce76fb6c96a5f329de41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185903801
+        }
+    ],
+    "wof:id":185903801,
+    "wof:lastmodified":1449006692,
+    "wof:name":"Billings Veterinary Svc",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-108.487323,45.791156,-108.487323,45.791156],
+  "geometry": {"coordinates":[-108.487323,45.791156],"type":"Point"}
+}

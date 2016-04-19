@@ -1,0 +1,70 @@
+{
+  "id": 185633953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.329678,48.218498,-114.329678,48.218498",
+    "geom:latitude":48.218498,
+    "geom:longitude":-114.329678,
+    "iso:country":"US",
+    "sg:address":"200 Heritage Way",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 3950",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "chemical",
+        "dependency",
+        "psychiatric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10zEBZkKrzPazKaHtL5ptV_48.218498_-114.329678@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54fc5e1e276273e332f39f5210c1e8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185633953
+        }
+    ],
+    "wof:id":185633953,
+    "wof:lastmodified":1449008185,
+    "wof:name":"Pathways Treatment Center",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "dependency",
+        "psychiatric"
+    ]
+},
+  "bbox": [-114.329678,48.218498,-114.329678,48.218498],
+  "geometry": {"coordinates":[-114.329678,48.218498],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185638211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.015281,46.885498,-114.015281,46.885498",
+    "geom:latitude":46.885498,
+    "geom:longitude":-114.015281,
+    "iso:country":"US",
+    "sg:address":"1500 Burns St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 7565",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AT91dESSqilbeMcqhKkGi_46.885498_-114.015281@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2a43bd3d411680f643c8f96be62d8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":185638211
+        }
+    ],
+    "wof:id":185638211,
+    "wof:lastmodified":1449006673,
+    "wof:name":"Molerway Freight Lines",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-114.015281,46.885498,-114.015281,46.885498],
+  "geometry": {"coordinates":[-114.015281,46.885498],"type":"Point"}
+}

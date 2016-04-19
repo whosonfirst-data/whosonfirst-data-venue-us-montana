@@ -1,0 +1,66 @@
+{
+  "id": 169729061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.737578,45.347726,-111.737578,45.347726",
+    "geom:latitude":45.347726,
+    "geom:longitude":-111.737578,
+    "iso:country":"US",
+    "sg:address":"419 Steffens St",
+    "sg:city":"Ennis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 682 4135",
+    "sg:postcode":"59729",
+    "sg:province":"MT",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sRtYKdBCIjmn5Lz7WS86j_45.347726_-111.737578@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b34f67e3367db718ade0bc1c27815a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":169729061
+        }
+    ],
+    "wof:id":169729061,
+    "wof:lastmodified":1449034347,
+    "wof:name":"Jordan Creek Taxidermy",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [-111.737578,45.347726,-111.737578,45.347726],
+  "geometry": {"coordinates":[-111.737578,45.347726],"type":"Point"}
+}

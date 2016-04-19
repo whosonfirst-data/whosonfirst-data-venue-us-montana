@@ -1,0 +1,70 @@
+{
+  "id": 186001423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.699567,45.760041,-108.699567,45.760041",
+    "geom:latitude":45.760041,
+    "geom:longitude":-108.699567,
+    "iso:country":"US",
+    "sg:address":"533 S 72nd St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 4833",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lm3tzoDP3tmaAf5xZrgiE_45.760041_-108.699567@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b723002b38cd1b5de791418c36b2d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":186001423
+        }
+    ],
+    "wof:id":186001423,
+    "wof:lastmodified":1449051007,
+    "wof:name":"Forever Trucking LLC",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-108.699567,45.760041,-108.699567,45.760041],
+  "geometry": {"coordinates":[-108.699567,45.760041],"type":"Point"}
+}

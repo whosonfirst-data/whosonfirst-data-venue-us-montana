@@ -1,0 +1,68 @@
+{
+  "id": 169835563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576187,45.780607,-108.576187,45.780607",
+    "geom:latitude":45.780607,
+    "geom:longitude":-108.576187,
+    "iso:country":"US",
+    "sg:address":"805 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 698 7484",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72ZWK6TToVGgb8MzPiVE0g_45.780607_-108.576187@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c091d7770e1f7bb2944dbb20a5ef4643",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":169835563
+        }
+    ],
+    "wof:id":169835563,
+    "wof:lastmodified":1449033159,
+    "wof:name":"King Auto Sales",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-108.576187,45.780607,-108.576187,45.780607],
+  "geometry": {"coordinates":[-108.576187,45.780607],"type":"Point"}
+}

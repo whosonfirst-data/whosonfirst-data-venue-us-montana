@@ -1,0 +1,66 @@
+{
+  "id": 186367181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.539057,45.999535,-112.539057,45.999535",
+    "geom:latitude":45.999535,
+    "geom:longitude":-112.539057,
+    "iso:country":"US",
+    "sg:address":"1101 S Montana St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 0023",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P0rWB3WOeVA2vEiKyUh9h_45.999535_-112.539057@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4076bd1b298edec082b9477e458b22dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186367181
+        }
+    ],
+    "wof:id":186367181,
+    "wof:lastmodified":1449051954,
+    "wof:name":"Sound Health Imaging",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-112.539057,45.999535,-112.539057,45.999535],
+  "geometry": {"coordinates":[-112.539057,45.999535],"type":"Point"}
+}

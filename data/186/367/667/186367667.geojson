@@ -1,0 +1,68 @@
+{
+  "id": 186367667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.533888,45.999773,-112.533888,45.999773",
+    "geom:latitude":45.999773,
+    "geom:longitude":-112.533888,
+    "iso:country":"US",
+    "sg:address":"1103 Missouri Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 2139",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eJQ3IqbuvfGPaiBklkoNa_45.999773_-112.533888@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7bd18d152d14e4bfffc609947bdc4f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186367667
+        }
+    ],
+    "wof:id":186367667,
+    "wof:lastmodified":1449051955,
+    "wof:name":"Valley Dental Center",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-112.533888,45.999773,-112.533888,45.999773],
+  "geometry": {"coordinates":[-112.533888,45.999773],"type":"Point"}
+}

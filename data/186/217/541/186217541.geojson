@@ -1,0 +1,72 @@
+{
+  "id": 186217541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.498729,45.789185,-108.498729,45.789185",
+    "geom:latitude":45.789185,
+    "geom:longitude":-108.498729,
+    "iso:country":"US",
+    "sg:address":"2030 4th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 9792",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "oxygen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lEJja5yIYodhZEQ9oAwZJ_45.789185_-108.498729@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3afe9a9703bd9dae7ca1be698be47cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186217541
+        }
+    ],
+    "wof:id":186217541,
+    "wof:lastmodified":1449052867,
+    "wof:name":"Community Home Oxygen Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oxygen",
+        "supply"
+    ]
+},
+  "bbox": [-108.498729,45.789185,-108.498729,45.789185],
+  "geometry": {"coordinates":[-108.498729,45.789185],"type":"Point"}
+}

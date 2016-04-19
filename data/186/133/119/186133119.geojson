@@ -1,0 +1,66 @@
+{
+  "id": 186133119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.046314,45.679278,-111.046314,45.679278",
+    "geom:latitude":45.679278,
+    "geom:longitude":-111.046314,
+    "iso:country":"US",
+    "sg:address":"1 N 7th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 5653",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uBLZ9JkHz2yTXkNAoRQQs_45.679278_-111.046314@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d8966b5ccc003919ca21c815ff2ef6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891685,
+            "region_id":85688617,
+            "venue_id":186133119
+        }
+    ],
+    "wof:id":186133119,
+    "wof:lastmodified":1449052548,
+    "wof:name":"Birtio Barber Shop",
+    "wof:parent_id":85891685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-111.046314,45.679278,-111.046314,45.679278],
+  "geometry": {"coordinates":[-111.046314,45.679278],"type":"Point"}
+}

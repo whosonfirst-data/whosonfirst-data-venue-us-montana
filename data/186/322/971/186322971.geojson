@@ -1,0 +1,67 @@
+{
+  "id": 186322971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.480742,45.811186,-108.480742,45.811186",
+    "geom:latitude":45.811186,
+    "geom:longitude":-108.480742,
+    "iso:country":"US",
+    "sg:address":"611 Shamrock Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 5864",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LCve5BHLhEOSiTBoHcvhq_45.811186_-108.480742@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c0af74d9c7bf8e5dc248c95da587f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186322971
+        }
+    ],
+    "wof:id":186322971,
+    "wof:lastmodified":1449050219,
+    "wof:name":"Weststate Electric",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-108.480742,45.811186,-108.480742,45.811186],
+  "geometry": {"coordinates":[-108.480742,45.811186],"type":"Point"}
+}

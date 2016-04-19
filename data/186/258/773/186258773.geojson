@@ -1,0 +1,80 @@
+{
+  "id": 186258773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.587702,45.749736,-108.587702,45.749736",
+    "geom:latitude":45.749736,
+    "geom:longitude":-108.587702,
+    "iso:country":"US",
+    "sg:address":"1106 S 29th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 0595",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "sg:website":"www.northlandautomotive.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Da8PQR841NPjCZ9y23UdX_45.749736_-108.587702@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"954a289b7c3770fe21d7e634c01c3f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186258773
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186258773
+        }
+    ],
+    "wof:id":186258773,
+    "wof:lastmodified":1449052456,
+    "wof:name":"Northland Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [-108.587702,45.749736,-108.587702,45.749736],
+  "geometry": {"coordinates":[-108.587702,45.749736],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186360725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.56535,45.801729,-108.56535,45.801729",
+    "geom:latitude":45.801729,
+    "geom:longitude":-108.56535,
+    "iso:country":"US",
+    "sg:address":"1922 Mulberry Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6486",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76bkRSc1xphbiUwBwi4yGB_45.801729_-108.565350@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"263ec52553677ab610bf66f474998156",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186360725
+        }
+    ],
+    "wof:id":186360725,
+    "wof:lastmodified":1449052390,
+    "wof:name":"Wyse Electric",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-108.56535,45.801729,-108.56535,45.801729],
+  "geometry": {"coordinates":[-108.56535,45.801729],"type":"Point"}
+}

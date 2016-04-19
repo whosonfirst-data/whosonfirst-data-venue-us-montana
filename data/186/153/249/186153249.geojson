@@ -1,0 +1,66 @@
+{
+  "id": 186153249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.539528,46.015219,-112.539528,46.015219",
+    "geom:latitude":46.015219,
+    "geom:longitude":-112.539528,
+    "iso:country":"US",
+    "sg:address":"211 W Quartz St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 1275",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R3L8Iq9gMPSt1e0PtqvVu_46.015219_-112.539528@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cda2c260400d49c470bc0f0d7169286c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186153249
+        }
+    ],
+    "wof:id":186153249,
+    "wof:lastmodified":1449052217,
+    "wof:name":"Cindi Shaw Plant Maintenance",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-112.539528,46.015219,-112.539528,46.015219],
+  "geometry": {"coordinates":[-112.539528,46.015219],"type":"Point"}
+}

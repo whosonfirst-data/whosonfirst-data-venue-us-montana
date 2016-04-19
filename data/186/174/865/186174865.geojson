@@ -1,0 +1,68 @@
+{
+  "id": 186174865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.450183,45.80525,-108.450183,45.80525",
+    "geom:latitude":45.80525,
+    "geom:longitude":-108.450183,
+    "iso:country":"US",
+    "sg:address":"542 Klenck Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 5667",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PxaWNuSQafNhtiZs4IBJa_45.805250_-108.450183@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6491bb658082a06fff968d2962a3252d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186174865
+        }
+    ],
+    "wof:id":186174865,
+    "wof:lastmodified":1449050718,
+    "wof:name":"Eagle Landscaping",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [-108.450183,45.80525,-108.450183,45.80525],
+  "geometry": {"coordinates":[-108.450183,45.80525],"type":"Point"}
+}

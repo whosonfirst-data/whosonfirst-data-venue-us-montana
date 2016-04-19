@@ -1,0 +1,65 @@
+{
+  "id": 186087697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.976355,45.482199,-108.976355,45.482199",
+    "geom:latitude":45.482199,
+    "geom:longitude":-108.976355,
+    "iso:country":"US",
+    "sg:address":"505 W Central Ave",
+    "sg:city":"Joliet",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 962 3133",
+    "sg:postcode":"59041",
+    "sg:province":"MT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972839,
+        102085111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55YfHJMLb5BsdKD8720Tlu_45.482199_-108.976355@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"085140d110ab21f74b18189a7e7ebeb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085111,
+            "locality_id":85972839,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186087697
+        }
+    ],
+    "wof:id":186087697,
+    "wof:lastmodified":1449051615,
+    "wof:name":"Joliet Police",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-108.976355,45.482199,-108.976355,45.482199],
+  "geometry": {"coordinates":[-108.976355,45.482199],"type":"Point"}
+}

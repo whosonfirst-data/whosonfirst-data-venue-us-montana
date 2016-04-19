@@ -1,0 +1,68 @@
+{
+  "id": 185643737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.566567,45.667409,-110.566567,45.667409",
+    "geom:latitude":45.667409,
+    "geom:longitude":-110.566567,
+    "iso:country":"US",
+    "sg:address":"730 N Main St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 220 1206",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "co",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XlLN9PyefqL1Q1L7Z2G7c_45.667409_-110.566567@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e69457f26abb48d798eb272c0b17c120",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":185643737
+        }
+    ],
+    "wof:id":185643737,
+    "wof:lastmodified":1449008002,
+    "wof:name":"Viking Trucking",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "co",
+        "trucking"
+    ]
+},
+  "bbox": [-110.566567,45.667409,-110.566567,45.667409],
+  "geometry": {"coordinates":[-110.566567,45.667409],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186253015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.500969,45.987216,-112.500969,45.987216",
+    "geom:latitude":45.987216,
+    "geom:longitude":-112.500969,
+    "iso:country":"US",
+    "sg:address":"2700 Meade Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 533 0526",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ePKNHdTJp88mmy0kcnKGB_45.987216_-112.500969@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82f2e5468e6c5cf6ee39cd1b627b380a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186253015
+        }
+    ],
+    "wof:id":186253015,
+    "wof:lastmodified":1449052682,
+    "wof:name":"Thompson & Assoc",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [-112.500969,45.987216,-112.500969,45.987216],
+  "geometry": {"coordinates":[-112.500969,45.987216],"type":"Point"}
+}

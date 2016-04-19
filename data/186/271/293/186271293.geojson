@@ -1,0 +1,70 @@
+{
+  "id": 186271293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.762932,45.671217,-108.762932,45.671217",
+    "geom:latitude":45.671217,
+    "geom:longitude":-108.762932,
+    "iso:country":"US",
+    "sg:address":"601 E Main St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 7145",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49oOys8tNLyCoCnwNH3V5n_45.671217_-108.762932@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd1f46c35f45cfdfe545d335a524e154",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":186271293
+        }
+    ],
+    "wof:id":186271293,
+    "wof:lastmodified":1449051775,
+    "wof:name":"Modern Auto Collision & Repair",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-108.762932,45.671217,-108.762932,45.671217],
+  "geometry": {"coordinates":[-108.762932,45.671217],"type":"Point"}
+}

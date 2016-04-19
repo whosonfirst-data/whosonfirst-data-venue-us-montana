@@ -1,0 +1,67 @@
+{
+  "id": 186079885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.480745,45.811854,-108.480745,45.811854",
+    "geom:latitude":45.811854,
+    "geom:longitude":-108.480745,
+    "iso:country":"US",
+    "sg:address":"727 Shamrock Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 670 2060",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q38txtTezSv1u7NrfxVKx_45.811854_-108.480745@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5acacf661b627c77e90b6c0ff404a4e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186079885
+        }
+    ],
+    "wof:id":186079885,
+    "wof:lastmodified":1449052558,
+    "wof:name":"Catspaw Electric Inc",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.480745,45.811854,-108.480745,45.811854],
+  "geometry": {"coordinates":[-108.480745,45.811854],"type":"Point"}
+}

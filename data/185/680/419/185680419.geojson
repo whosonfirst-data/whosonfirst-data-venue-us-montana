@@ -1,0 +1,68 @@
+{
+  "id": 185680419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.495688,45.811636,-108.495688,45.811636",
+    "geom:latitude":45.811636,
+    "geom:longitude":-108.495688,
+    "iso:country":"US",
+    "sg:address":"348 Sahara Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 672 3354",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63mfwSHbTaaXLLd9pbmJs9_45.811636_-108.495688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"413e8d8053cbd0942aa7467b12459f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":185680419
+        }
+    ],
+    "wof:id":185680419,
+    "wof:lastmodified":1449007726,
+    "wof:name":"Handley Construction",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-108.495688,45.811636,-108.495688,45.811636],
+  "geometry": {"coordinates":[-108.495688,45.811636],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185631799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.572302,45.799991,-108.572302,45.799991",
+    "geom:latitude":45.799991,
+    "geom:longitude":-108.572302,
+    "iso:country":"US",
+    "sg:address":"2210 Fairway Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 7393",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mXm30grI8brBeLBtQQ0Nn_45.799991_-108.572302@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c917f2063f2a1de89c77ffc295675e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185631799
+        }
+    ],
+    "wof:id":185631799,
+    "wof:lastmodified":1449007105,
+    "wof:name":"Viking Apts",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-108.572302,45.799991,-108.572302,45.799991],
+  "geometry": {"coordinates":[-108.572302,45.799991],"type":"Point"}
+}

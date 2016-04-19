@@ -1,0 +1,68 @@
+{
+  "id": 185810005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.552571,45.784109,-108.552571,45.784109",
+    "geom:latitude":45.784109,
+    "geom:longitude":-108.552571,
+    "iso:country":"US",
+    "sg:address":"1447 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8711",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OkJrAs51RgmZla6DcjzF6_45.784109_-108.552571@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ec27aa9f31691e5c3da9296dee0b72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185810005
+        }
+    ],
+    "wof:id":185810005,
+    "wof:lastmodified":1449007084,
+    "wof:name":"Lucky's Auto Sales",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-108.552571,45.784109,-108.552571,45.784109],
+  "geometry": {"coordinates":[-108.552571,45.784109],"type":"Point"}
+}

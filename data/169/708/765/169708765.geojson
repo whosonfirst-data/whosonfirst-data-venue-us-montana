@@ -1,0 +1,68 @@
+{
+  "id": 169708765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.385794,45.832074,-108.385794,45.832074",
+    "geom:latitude":45.832074,
+    "geom:longitude":-108.385794,
+    "iso:country":"US",
+    "sg:address":"1815 Canary Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 591 2130",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_646MEBqN16igpDfFPmCDFb_45.832074_-108.385794@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f5977135600a3b18ddffb74d9057276",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":169708765
+        }
+    ],
+    "wof:id":169708765,
+    "wof:lastmodified":1449033210,
+    "wof:name":"Mr C's Chimney Sweeps",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [-108.385794,45.832074,-108.385794,45.832074],
+  "geometry": {"coordinates":[-108.385794,45.832074],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185605621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.56151,45.779858,-108.56151,45.779858",
+    "geom:latitude":45.779858,
+    "geom:longitude":-108.56151,
+    "iso:country":"US",
+    "sg:address":"903 18th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6912",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4taK0pduQrCJ9C6bTdTz4Z_45.779858_-108.561510@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"658c6348e63e8d1ef9663531df8c6fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185605621
+        }
+    ],
+    "wof:id":185605621,
+    "wof:lastmodified":1449007415,
+    "wof:name":"Big Sky Painting & Power Wash",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [-108.56151,45.779858,-108.56151,45.779858],
+  "geometry": {"coordinates":[-108.56151,45.779858],"type":"Point"}
+}

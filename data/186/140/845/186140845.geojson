@@ -1,0 +1,68 @@
+{
+  "id": 186140845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.549427,46.007732,-112.549427,46.007732",
+    "geom:latitude":46.007732,
+    "geom:longitude":-112.549427,
+    "iso:country":"US",
+    "sg:address":"600 S Excelsior Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 1700",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "reservation",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sLe4ANBni5ddPYG31uPHn_46.007732_-112.549427@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4ea4395ac942514734f9e0590d8dc0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186140845
+        }
+    ],
+    "wof:id":186140845,
+    "wof:lastmodified":1449050755,
+    "wof:name":"Sato Travel",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reservation",
+        "center"
+    ]
+},
+  "bbox": [-112.549427,46.007732,-112.549427,46.007732],
+  "geometry": {"coordinates":[-112.549427,46.007732],"type":"Point"}
+}

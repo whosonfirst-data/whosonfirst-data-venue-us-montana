@@ -1,0 +1,65 @@
+{
+  "id": 186146689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.904418,46.878678,-113.904418,46.878678",
+    "geom:latitude":46.878678,
+    "geom:longitude":-113.904418,
+    "iso:country":"US",
+    "sg:address":"6705 Juniper Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 258 6142",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085103,
+        85891733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qyZ2OITYuRqsJATMpdv5Q_46.878678_-113.904418@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4eaccbb0d715abf07b5c02a503beb0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":-1,
+            "neighbourhood_id":85891733,
+            "region_id":85688617,
+            "venue_id":186146689
+        }
+    ],
+    "wof:id":186146689,
+    "wof:lastmodified":1449051488,
+    "wof:name":"Mountain Auto Towing",
+    "wof:parent_id":85891733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-113.904418,46.878678,-113.904418,46.878678],
+  "geometry": {"coordinates":[-113.904418,46.878678],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 186102673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.593398,45.776329,-108.593398,45.776329",
+    "geom:latitude":45.776329,
+    "geom:longitude":-108.593398,
+    "iso:country":"US",
+    "sg:address":"372 Montclair Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7470",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32P2SGMsMO7PuAlkGMUeKE_45.776329_-108.593398@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25cfaf17411c2130bb2a4cfdff0da84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186102673
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186102673
+        }
+    ],
+    "wof:id":186102673,
+    "wof:lastmodified":1449052826,
+    "wof:name":"Krafts Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [-108.593398,45.776329,-108.593398,45.776329],
+  "geometry": {"coordinates":[-108.593398,45.776329],"type":"Point"}
+}

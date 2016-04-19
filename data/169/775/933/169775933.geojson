@@ -1,0 +1,74 @@
+{
+  "id": 169775933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.330408,48.201903,-114.330408,48.201903",
+    "geom:latitude":48.201903,
+    "geom:longitude":-114.330408,
+    "iso:country":"US",
+    "sg:address":"350 N Meridian Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 6450",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:brand_id":420573749,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wUVlIBlDCS8vuI2G7bThP_48.201903_-114.330408@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f682d2c7d986663bbde0fb347509c348",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":169775933
+        }
+    ],
+    "wof:id":169775933,
+    "wof:lastmodified":1457207042,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -114.330408,
+    48.201903,
+    -114.330408,
+    48.201903
+],
+  "geometry": {"coordinates":[-114.33040800000001,48.201903],"type":"Point"}
+}

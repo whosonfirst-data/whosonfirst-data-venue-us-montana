@@ -1,0 +1,68 @@
+{
+  "id": 186241933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.497513,45.81793,-108.497513,45.81793",
+    "geom:latitude":45.81793,
+    "geom:longitude":-108.497513,
+    "iso:country":"US",
+    "sg:address":"1006 Toole Cir",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 9294",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PZ4ixxMydwYJQaYjFZ3w8_45.817930_-108.497513@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03999b50322220fa37a3e832f15d2c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186241933
+        }
+    ],
+    "wof:id":186241933,
+    "wof:lastmodified":1449052966,
+    "wof:name":"Parker Tile Inc",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [-108.497513,45.81793,-108.497513,45.81793],
+  "geometry": {"coordinates":[-108.497513,45.81793],"type":"Point"}
+}

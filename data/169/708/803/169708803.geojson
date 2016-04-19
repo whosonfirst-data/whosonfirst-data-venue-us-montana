@@ -1,0 +1,66 @@
+{
+  "id": 169708803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470628,45.816725,-108.470628,45.816725",
+    "geom:latitude":45.816725,
+    "geom:longitude":-108.470628,
+    "iso:country":"US",
+    "sg:address":"1005 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 5572",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CwHjpmSSpA0AHzzxPIGxS_45.816725_-108.470628@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29ae7ac3c9cb8eb507e83cc8ccf949df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":169708803
+        }
+    ],
+    "wof:id":169708803,
+    "wof:lastmodified":1449033212,
+    "wof:name":"Finish Line Auto Sls Billings",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [-108.470628,45.816725,-108.470628,45.816725],
+  "geometry": {"coordinates":[-108.470628,45.816725],"type":"Point"}
+}

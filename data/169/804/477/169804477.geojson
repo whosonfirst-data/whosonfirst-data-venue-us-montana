@@ -1,0 +1,70 @@
+{
+  "id": 169804477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470872,45.82394,-108.470872,45.82394",
+    "geom:latitude":45.82394,
+    "geom:longitude":-108.470872,
+    "iso:country":"US",
+    "sg:address":"1342 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 1856",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MvyGXMLHsmM8nhx34zJ3g_45.823940_-108.470872@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5bead0a4ee744d19686ba57cc1bf623f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":169804477
+        }
+    ],
+    "wof:id":169804477,
+    "wof:lastmodified":1449034984,
+    "wof:name":"Auto Body Specialists Inc",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-108.470872,45.82394,-108.470872,45.82394],
+  "geometry": {"coordinates":[-108.470872,45.82394],"type":"Point"}
+}

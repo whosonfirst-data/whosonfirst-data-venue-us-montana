@@ -1,0 +1,66 @@
+{
+  "id": 185765335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.035051,46.848848,-114.035051,46.848848",
+    "geom:latitude":46.848848,
+    "geom:longitude":-114.035051,
+    "iso:country":"US",
+    "sg:address":"2340 South Ave W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 0171",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BixoCZeFE4WM9OAVOqsHw_46.848848_-114.035051@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"725f9f3acab3552816893385171618c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185765335
+        }
+    ],
+    "wof:id":185765335,
+    "wof:lastmodified":1449007537,
+    "wof:name":"Jerry's Transmission",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [-114.035051,46.848848,-114.035051,46.848848],
+  "geometry": {"coordinates":[-114.035051,46.848848],"type":"Point"}
+}

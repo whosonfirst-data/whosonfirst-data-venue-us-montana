@@ -1,0 +1,70 @@
+{
+  "id": 186128175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.403996,48.29829,-114.403996,48.29829",
+    "geom:latitude":48.29829,
+    "geom:longitude":-114.403996,
+    "iso:country":"US",
+    "sg:address":"401 Lost Creek Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 0232",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "local",
+        "except",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44kUic7agyVxW5qTWGSQH9_48.298290_-114.403996@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"490c2570b3796f17f240ecd980be6b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186128175
+        }
+    ],
+    "wof:id":186128175,
+    "wof:lastmodified":1449051411,
+    "wof:name":"Kevin Collom",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "except",
+        "trucking"
+    ]
+},
+  "bbox": [-114.403996,48.29829,-114.403996,48.29829],
+  "geometry": {"coordinates":[-114.403996,48.29829],"type":"Point"}
+}

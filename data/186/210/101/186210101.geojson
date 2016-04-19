@@ -1,0 +1,68 @@
+{
+  "id": 186210101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.491657,46.002736,-112.491657,46.002736",
+    "geom:latitude":46.002736,
+    "geom:longitude":-112.491657,
+    "iso:country":"US",
+    "sg:address":"1021 Continental Dr",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 1013",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48IVfFjX5UW7BV4qTQf0G8_46.002736_-112.491657@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e87cc9552ad7f1b9c27d06c40279ae54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186210101
+        }
+    ],
+    "wof:id":186210101,
+    "wof:lastmodified":1449051301,
+    "wof:name":"Continental Drive Toy Storage",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-112.491657,46.002736,-112.491657,46.002736],
+  "geometry": {"coordinates":[-112.491657,46.002736],"type":"Point"}
+}

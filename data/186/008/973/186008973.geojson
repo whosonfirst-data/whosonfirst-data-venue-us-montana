@@ -1,0 +1,68 @@
+{
+  "id": 186008973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.519138,46.000824,-112.519138,46.000824",
+    "geom:latitude":46.000824,
+    "geom:longitude":-112.519138,
+    "iso:country":"US",
+    "sg:address":"1375 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 9092",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SvEdxkjPwfAPozts7Uied_46.000824_-112.519138@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25f36106ab403158e8c25eb640b05800",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186008973
+        }
+    ],
+    "wof:id":186008973,
+    "wof:lastmodified":1449051224,
+    "wof:name":"Met Tavern",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [-112.519138,46.000824,-112.519138,46.000824],
+  "geometry": {"coordinates":[-112.519138,46.000824],"type":"Point"}
+}

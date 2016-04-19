@@ -1,0 +1,68 @@
+{
+  "id": 186098403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.566087,45.507486,-110.566087,45.507486",
+    "geom:latitude":45.507486,
+    "geom:longitude":-110.566087,
+    "iso:country":"US",
+    "sg:address":"170 Pine Creek Rd",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 2567",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ciKHEqodfmpXzB7wF86QM_45.507486_-110.566087@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"111fd8a8802be338f982bd6879dbd3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":186098403
+        }
+    ],
+    "wof:id":186098403,
+    "wof:lastmodified":1449052740,
+    "wof:name":"Baskin Construction",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [-110.566087,45.507486,-110.566087,45.507486],
+  "geometry": {"coordinates":[-110.566087,45.507486],"type":"Point"}
+}

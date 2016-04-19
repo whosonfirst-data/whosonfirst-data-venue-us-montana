@@ -1,0 +1,67 @@
+{
+  "id": 186112311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.498415,45.789214,-108.498415,45.789214",
+    "geom:latitude":45.789214,
+    "geom:longitude":-108.498415,
+    "iso:country":"US",
+    "sg:address":"314 N 20th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0900",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e7ITHJaUUDmxJI99S9A5b_45.789214_-108.498415@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21c5addec322f384482bc799fdd0ada5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186112311
+        }
+    ],
+    "wof:id":186112311,
+    "wof:lastmodified":1449051607,
+    "wof:name":"Beare's Automotive Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.498415,45.789214,-108.498415,45.789214],
+  "geometry": {"coordinates":[-108.498415,45.789214],"type":"Point"}
+}

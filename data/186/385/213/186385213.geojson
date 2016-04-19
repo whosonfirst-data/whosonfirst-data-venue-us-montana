@@ -1,0 +1,67 @@
+{
+  "id": 186385213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.928436,46.126495,-112.928436,46.126495",
+    "geom:latitude":46.126495,
+    "geom:longitude":-112.928436,
+    "iso:country":"US",
+    "sg:address":"1501 E Park Ave",
+    "sg:city":"Anaconda",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 563 2440",
+    "sg:postcode":"59711",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972705,
+        102085161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yXSCao83AbUGDhV5KRfdC_46.126495_-112.928436@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e31b7f0d2f810c50e9d07e5c9f67feb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085161,
+            "locality_id":85972705,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186385213
+        }
+    ],
+    "wof:id":186385213,
+    "wof:lastmodified":1449051962,
+    "wof:name":"Anaconda Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [-112.928436,46.126495,-112.928436,46.126495],
+  "geometry": {"coordinates":[-112.928436,46.126495],"type":"Point"}
+}

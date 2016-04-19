@@ -1,0 +1,69 @@
+{
+  "id": 186161113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.993627,46.870806,-113.993627,46.870806",
+    "geom:latitude":46.870806,
+    "geom:longitude":-113.993627,
+    "iso:country":"US",
+    "sg:address":"137 E Main St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 3300",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "league",
+        "baseball",
+        "minor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085103,
+        85891729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cqUZ9AL4IZml3Fz0L5peq_46.870806_-113.993627@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a416717c1962d79c2296a55d084c899f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":-1,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":186161113
+        }
+    ],
+    "wof:id":186161113,
+    "wof:lastmodified":1449051428,
+    "wof:name":"Missoula Osprey Prof Basbal",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "league",
+        "baseball",
+        "minor"
+    ]
+},
+  "bbox": [-113.993627,46.870806,-113.993627,46.870806],
+  "geometry": {"coordinates":[-113.993627,46.870806],"type":"Point"}
+}

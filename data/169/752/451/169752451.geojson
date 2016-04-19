@@ -1,0 +1,68 @@
+{
+  "id": 169752451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.502725,45.999996,-112.502725,45.999996",
+    "geom:latitude":45.999996,
+    "geom:longitude":-112.502725,
+    "iso:country":"US",
+    "sg:address":"2344 Grand Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 491 1677",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hV3e9Rd3usCXII6lLAsli_45.999996_-112.502725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d794a25aa58ae88b26941943530e986",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":169752451
+        }
+    ],
+    "wof:id":169752451,
+    "wof:lastmodified":1449033250,
+    "wof:name":"Racetrack Vfd",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [-112.502725,45.999996,-112.502725,45.999996],
+  "geometry": {"coordinates":[-112.502725,45.999996],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169814821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.041529,46.827454,-114.041529,46.827454",
+    "geom:latitude":46.827454,
+    "geom:longitude":-114.041529,
+    "iso:country":"US",
+    "sg:address":"2505 Arcadia Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 2415",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MyXzUYOZSKSkyMXPlzXs4_46.827454_-114.041529@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df0c5b6a1bdcb8cc74bad802e2b3dcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":169814821
+        }
+    ],
+    "wof:id":169814821,
+    "wof:lastmodified":1449033294,
+    "wof:name":"Spiffy Cleaners",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [-114.041529,46.827454,-114.041529,46.827454],
+  "geometry": {"coordinates":[-114.041529,46.827454],"type":"Point"}
+}

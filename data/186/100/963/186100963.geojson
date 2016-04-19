@@ -1,0 +1,68 @@
+{
+  "id": 186100963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.450113,45.827497,-108.450113,45.827497",
+    "geom:latitude":45.827497,
+    "geom:longitude":-108.450113,
+    "iso:country":"US",
+    "sg:address":"1299 Wicks Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 0500",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ERSfMpbXAhmX0087gxuwK_45.827497_-108.450113@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fcfc97f6defbeb5af232258db5e3df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":186100963
+        }
+    ],
+    "wof:id":186100963,
+    "wof:lastmodified":1449052336,
+    "wof:name":"Sprague Construction Inc",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "residential"
+    ]
+},
+  "bbox": [-108.450113,45.827497,-108.450113,45.827497],
+  "geometry": {"coordinates":[-108.450113,45.827497],"type":"Point"}
+}

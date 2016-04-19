@@ -1,0 +1,68 @@
+{
+  "id": 185736065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.47002,45.837065,-108.47002,45.837065",
+    "geom:latitude":45.837065,
+    "geom:longitude":-108.47002,
+    "iso:country":"US",
+    "sg:address":"2120 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 3496",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jGr1YvTPGsFFBpqZ1xaTj_45.837065_-108.470020@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17cd32ba230f40cf2bb557072b7001e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":185736065
+        }
+    ],
+    "wof:id":185736065,
+    "wof:lastmodified":1449008172,
+    "wof:name":"Pioneer Auto Sales Inc",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-108.47002,45.837065,-108.47002,45.837065],
+  "geometry": {"coordinates":[-108.47002,45.837065],"type":"Point"}
+}

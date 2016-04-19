@@ -1,0 +1,68 @@
+{
+  "id": 169802889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.413851,45.819617,-108.413851,45.819617",
+    "geom:latitude":45.819617,
+    "geom:longitude":-108.413851,
+    "iso:country":"US",
+    "sg:address":"1443 Coulson Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 4715",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lettering",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UWY7qc85yuA3P9YU7Tm7Z_45.819617_-108.413851@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fe932df86bb023e306214ddc1b968cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":169802889
+        }
+    ],
+    "wof:id":169802889,
+    "wof:lastmodified":1449035339,
+    "wof:name":"Duck's Painting & Sandblasting",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lettering",
+        "truck"
+    ]
+},
+  "bbox": [-108.413851,45.819617,-108.413851,45.819617],
+  "geometry": {"coordinates":[-108.413851,45.819617],"type":"Point"}
+}

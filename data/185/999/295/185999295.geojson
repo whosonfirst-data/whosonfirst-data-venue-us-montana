@@ -1,0 +1,70 @@
+{
+  "id": 185999295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.046122,45.681929,-111.046122,45.681929",
+    "geom:latitude":45.681929,
+    "geom:longitude":-111.046122,
+    "iso:country":"US",
+    "sg:address":"210 N 7th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 8213",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "security",
+        "system",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FqKNJr1CKTkhQ7yz9IxpR_45.681929_-111.046122@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3926e8785959f7b5541565909624f49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891685,
+            "region_id":85688617,
+            "venue_id":185999295
+        }
+    ],
+    "wof:id":185999295,
+    "wof:lastmodified":1449008022,
+    "wof:name":"Daves Key Shop",
+    "wof:parent_id":85891685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security",
+        "system",
+        "locksmith"
+    ]
+},
+  "bbox": [-111.046122,45.681929,-111.046122,45.681929],
+  "geometry": {"coordinates":[-111.046122,45.681929],"type":"Point"}
+}

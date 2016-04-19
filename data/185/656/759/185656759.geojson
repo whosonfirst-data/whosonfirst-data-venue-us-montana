@@ -1,0 +1,66 @@
+{
+  "id": 185656759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.080911,46.852431,-114.080911,46.852431",
+    "geom:latitude":46.852431,
+    "geom:longitude":-114.080911,
+    "iso:country":"US",
+    "sg:address":"4004 North Ave W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 8134",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OtZVVlBuaQILFVrJK77lp_46.852431_-114.080911@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76c8659ff1950f735c71e6878324cb0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185656759
+        }
+    ],
+    "wof:id":185656759,
+    "wof:lastmodified":1449007650,
+    "wof:name":"Montana Central Vac",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [-114.080911,46.852431,-114.080911,46.852431],
+  "geometry": {"coordinates":[-114.080911,46.852431],"type":"Point"}
+}

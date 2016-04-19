@@ -1,0 +1,77 @@
+{
+  "id": 185809169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.582024,45.750613,-108.582024,45.750613",
+    "geom:latitude":45.750613,
+    "geom:longitude":-108.582024,
+    "iso:country":"US",
+    "sg:address":"2625 Enterprise Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5858",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33Ltnzr0f7pc3X19AjlVue_45.750613_-108.582024@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7bb2344efa4d29184818da545c04e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185809169
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185809169
+        }
+    ],
+    "wof:id":185809169,
+    "wof:lastmodified":1449007942,
+    "wof:name":"Farmer Brothers Coffee Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-108.582024,45.750613,-108.582024,45.750613],
+  "geometry": {"coordinates":[-108.582024,45.750613],"type":"Point"}
+}

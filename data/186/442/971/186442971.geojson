@@ -1,0 +1,70 @@
+{
+  "id": 186442971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.273122,48.135672,-114.273122,48.135672",
+    "geom:latitude":48.135672,
+    "geom:longitude":-114.273122,
+    "iso:country":"US",
+    "sg:address":"200 Auction Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 1448",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AmyM1mUkrNuez41e4ZBEL_48.135672_-114.273122@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4220e75eb731640fbfabac9019be99b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186442971
+        }
+    ],
+    "wof:id":186442971,
+    "wof:lastmodified":1449051549,
+    "wof:name":"Kalispell Livestock Auction",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ]
+},
+  "bbox": [-114.273122,48.135672,-114.273122,48.135672],
+  "geometry": {"coordinates":[-114.273122,48.135672],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185741049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.567248,45.666138,-110.567248,45.666138",
+    "geom:latitude":45.666138,
+    "geom:longitude":-110.567248,
+    "iso:country":"US",
+    "sg:address":"617 N 2nd St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 5339",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JFEueQgXscwFweiQlVcG0_45.666138_-110.567248@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8990ac12b1471e63a9f6419d956d7943",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":185741049
+        }
+    ],
+    "wof:id":185741049,
+    "wof:lastmodified":1449006670,
+    "wof:name":"Ackerman Excavating Inc",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [-110.567248,45.666138,-110.567248,45.666138],
+  "geometry": {"coordinates":[-110.567248,45.666138],"type":"Point"}
+}

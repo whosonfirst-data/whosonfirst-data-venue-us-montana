@@ -1,0 +1,68 @@
+{
+  "id": 186041953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.504435,45.782594,-108.504435,45.782594",
+    "geom:latitude":45.782594,
+    "geom:longitude":-108.504435,
+    "iso:country":"US",
+    "sg:address":"10 N 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 238 2500",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3duJCemR8Tx8SWgPFMmvWM_45.782594_-108.504435@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eaa7378f1d1968e55be9e0a16eaf251e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":186041953
+        }
+    ],
+    "wof:id":186041953,
+    "wof:lastmodified":1449051356,
+    "wof:name":"Fred E Gunville MD",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-108.504435,45.782594,-108.504435,45.782594],
+  "geometry": {"coordinates":[-108.504435,45.782594],"type":"Point"}
+}

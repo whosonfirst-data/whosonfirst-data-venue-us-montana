@@ -1,0 +1,70 @@
+{
+  "id": 186131099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.276043,48.234339,-114.276043,48.234339",
+    "geom:latitude":48.234339,
+    "geom:longitude":-114.276043,
+    "iso:country":"US",
+    "sg:address":"2431 US Hwy 2 E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 0123",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dTpa2vPza3NBzkrCrR7Zf_48.234339_-114.276043@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb1cb5a5e708682a7ef541f27249b39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186131099
+        }
+    ],
+    "wof:id":186131099,
+    "wof:lastmodified":1449051189,
+    "wof:name":"Charles E Keller",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-114.276043,48.234339,-114.276043,48.234339],
+  "geometry": {"coordinates":[-114.276043,48.234339],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185904093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.325216,48.221127,-114.325216,48.221127",
+    "geom:latitude":48.221127,
+    "geom:longitude":-114.325216,
+    "iso:country":"US",
+    "sg:address":"420 Windward Way",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 5194",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yWBmBosN6J9UqM1Tsc0IP_48.221127_-114.325216@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ede001dcf5653ef014227ff2838b74a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185904093
+        }
+    ],
+    "wof:id":185904093,
+    "wof:lastmodified":1449008253,
+    "wof:name":"Sinopah House",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-114.325216,48.221127,-114.325216,48.221127],
+  "geometry": {"coordinates":[-114.325216,48.221127],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169733137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.495729,45.787049,-108.495729,45.787049",
+    "geom:latitude":45.787049,
+    "geom:longitude":-108.495729,
+    "iso:country":"US",
+    "sg:address":"1921 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 1147",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RElTUseYEAw9fZu1jP3bA_45.787049_-108.495729@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85a4d83e21e67055f2b6d0794312dea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":169733137
+        }
+    ],
+    "wof:id":169733137,
+    "wof:lastmodified":1449033149,
+    "wof:name":"Dollar Rent A Car",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-108.495729,45.787049,-108.495729,45.787049],
+  "geometry": {"coordinates":[-108.495729,45.787049],"type":"Point"}
+}

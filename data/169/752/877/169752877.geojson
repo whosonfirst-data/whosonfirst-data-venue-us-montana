@@ -1,0 +1,75 @@
+{
+  "id": 169752877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584313,45.741283,-108.584313,45.741283",
+    "geom:latitude":45.741283,
+    "geom:longitude":-108.584313,
+    "iso:country":"US",
+    "sg:address":"6550 S Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 2755",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RC30rwYfANxs4Rs1BogzK_45.741283_-108.584313@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12e40881291956c0bf9275f4af97abe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":169752877
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":169752877
+        }
+    ],
+    "wof:id":169752877,
+    "wof:lastmodified":1449033251,
+    "wof:name":"T C Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-108.584313,45.741283,-108.584313,45.741283],
+  "geometry": {"coordinates":[-108.584313,45.741283],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169720365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.530117,46.007852,-112.530117,46.007852",
+    "geom:latitude":46.007852,
+    "geom:longitude":-112.530117,
+    "iso:country":"US",
+    "sg:address":"640 S Arizona St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 3406",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34qIX8392I78sknOu60LzM_46.007852_-112.530117@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9959be8ec9fc5985c018ebad0fe817d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":169720365
+        }
+    ],
+    "wof:id":169720365,
+    "wof:lastmodified":1449033480,
+    "wof:name":"Aware",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [-112.530117,46.007852,-112.530117,46.007852],
+  "geometry": {"coordinates":[-112.530117,46.007852],"type":"Point"}
+}

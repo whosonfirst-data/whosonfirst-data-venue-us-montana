@@ -1,0 +1,72 @@
+{
+  "id": 185879841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.310434,48.189696,-114.310434,48.189696",
+    "geom:latitude":48.189696,
+    "geom:longitude":-114.310434,
+    "iso:country":"US",
+    "sg:address":"800 S Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 758 5550",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "county",
+        "govt",
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70xpHpPJ9kqm9J4fs3mIIW_48.189696_-114.310434@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19a6ca9c74515a3b8ef5069c22b96987",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185879841
+        }
+    ],
+    "wof:id":185879841,
+    "wof:lastmodified":1449006611,
+    "wof:name":"Juvenile Detention Center",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [-114.310434,48.189696,-114.310434,48.189696],
+  "geometry": {"coordinates":[-114.310434,48.189696],"type":"Point"}
+}

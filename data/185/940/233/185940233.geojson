@@ -1,0 +1,83 @@
+{
+  "id": 185940233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.594305,45.731758,-108.594305,45.731758",
+    "geom:latitude":45.731758,
+    "geom:longitude":-108.594305,
+    "iso:country":"US",
+    "sg:address":"6956 Commercial Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 1200",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wooden",
+        "mfg",
+        "truss",
+        "roof",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JhATYWymTjUclytWQEuM4_45.731758_-108.594305@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87848da69a608074f4898137788c62e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185940233
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185940233
+        }
+    ],
+    "wof:id":185940233,
+    "wof:lastmodified":1449007011,
+    "wof:name":"Pride Industries Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wooden",
+        "mfg",
+        "truss",
+        "roof",
+        "floor"
+    ]
+},
+  "bbox": [-108.594305,45.731758,-108.594305,45.731758],
+  "geometry": {"coordinates":[-108.594305,45.731758],"type":"Point"}
+}

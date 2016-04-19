@@ -1,0 +1,68 @@
+{
+  "id": 185621291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.555066,46.008404,-112.555066,46.008404",
+    "geom:latitude":46.008404,
+    "geom:longitude":-112.555066,
+    "iso:country":"US",
+    "sg:address":"1210 W Porphyry St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Soap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 3822",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "detergent",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mM0W3eXEEe4fy73QBizLd_46.008404_-112.555066@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86c2513a611b2f3ef50d8845a5bbbf31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185621291
+        }
+    ],
+    "wof:id":185621291,
+    "wof:lastmodified":1449008031,
+    "wof:name":"Porphyry Soap Co",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detergent",
+        "mfg"
+    ]
+},
+  "bbox": [-112.555066,46.008404,-112.555066,46.008404],
+  "geometry": {"coordinates":[-112.555066,46.008404],"type":"Point"}
+}

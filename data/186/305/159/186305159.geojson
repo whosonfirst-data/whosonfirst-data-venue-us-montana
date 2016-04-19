@@ -1,0 +1,68 @@
+{
+  "id": 186305159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.032072,45.679239,-111.032072,45.679239",
+    "geom:latitude":45.679239,
+    "geom:longitude":-111.032072,
+    "iso:country":"US",
+    "sg:address":"310 E Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 582 4982",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "apparel",
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Etno7KTrVLwB80B0k2M9K_45.679239_-111.032072@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e36a7fbffe22d1368e2fbea4e10b94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":186305159
+        }
+    ],
+    "wof:id":186305159,
+    "wof:lastmodified":1449050793,
+    "wof:name":"Berrys Shoes & Apparel",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "ready"
+    ]
+},
+  "bbox": [-111.032072,45.679239,-111.032072,45.679239],
+  "geometry": {"coordinates":[-111.032072,45.679239],"type":"Point"}
+}

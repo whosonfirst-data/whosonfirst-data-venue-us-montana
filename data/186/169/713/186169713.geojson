@@ -1,0 +1,71 @@
+{
+  "id": 186169713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.471079,45.812808,-108.471079,45.812808",
+    "geom:latitude":45.812808,
+    "geom:longitude":-108.471079,
+    "iso:country":"US",
+    "sg:address":"730 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 1643",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:brand_id":420573931,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KWss9wlcg47unLuOxjnez_45.812808_-108.471079@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcee72de8b5c8e3946ac9aeeb2045fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186169713
+        }
+    ],
+    "wof:id":186169713,
+    "wof:lastmodified":1457207946,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -108.471079,
+    45.812808,
+    -108.471079,
+    45.812808
+],
+  "geometry": {"coordinates":[-108.471079,45.812808],"type":"Point"}
+}

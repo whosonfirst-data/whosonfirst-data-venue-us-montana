@@ -1,0 +1,68 @@
+{
+  "id": 186083805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.400981,45.878515,-108.400981,45.878515",
+    "geom:latitude":45.878515,
+    "geom:longitude":-108.400981,
+    "iso:country":"US",
+    "sg:address":"2839 Drury Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6387",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UsuNLGgeuYZPlgztHeUGZ_45.878515_-108.400981@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0aa3d371d90f58b717f497791f717e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186083805
+        }
+    ],
+    "wof:id":186083805,
+    "wof:lastmodified":1449051651,
+    "wof:name":"A All Purpose Storage",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-108.400981,45.878515,-108.400981,45.878515],
+  "geometry": {"coordinates":[-108.400981,45.878515],"type":"Point"}
+}

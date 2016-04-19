@@ -1,0 +1,67 @@
+{
+  "id": 169799299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.065618,45.686432,-111.065618,45.686432",
+    "geom:latitude":45.686432,
+    "geom:longitude":-111.065618,
+    "iso:country":"US",
+    "sg:address":"603 Emily Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 7788",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SrMmSHFzc78dTAFQ64wkt_45.686432_-111.065618@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcd3af71aa44a78dbb1f26bca5e14bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169799299
+        }
+    ],
+    "wof:id":169799299,
+    "wof:lastmodified":1449035986,
+    "wof:name":"Arcadia Gardens Apts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-111.065618,45.686432,-111.065618,45.686432],
+  "geometry": {"coordinates":[-111.065618,45.686432],"type":"Point"}
+}

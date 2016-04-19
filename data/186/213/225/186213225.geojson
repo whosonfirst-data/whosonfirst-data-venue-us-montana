@@ -1,0 +1,66 @@
+{
+  "id": 186213225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.556262,45.752496,-108.556262,45.752496",
+    "geom:latitude":45.752496,
+    "geom:longitude":-108.556262,
+    "iso:country":"US",
+    "sg:address":"833 Mullowney Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 3877",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.usfreddaway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fJwyo8EllLNUyQjJLyqRq_45.752496_-108.556262@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9f85333c4f1afd919ea6710024631ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186213225
+        }
+    ],
+    "wof:id":186213225,
+    "wof:lastmodified":1449050284,
+    "wof:name":"USF Reddaway Inc",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [-108.556262,45.752496,-108.556262,45.752496],
+  "geometry": {"coordinates":[-108.556262,45.752496],"type":"Point"}
+}

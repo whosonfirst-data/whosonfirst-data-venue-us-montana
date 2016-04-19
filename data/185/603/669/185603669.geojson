@@ -1,0 +1,78 @@
+{
+  "id": 185603669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.586474,45.762457,-108.586474,45.762457",
+    "geom:latitude":45.762457,
+    "geom:longitude":-108.586474,
+    "iso:country":"US",
+    "sg:address":"2901 Monad Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 2040",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NMpv6wHXanVvTyeF5CUJa_45.762457_-108.586474@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"975562328af3d7a6e4069e159904664e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185603669
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185603669
+        }
+    ],
+    "wof:id":185603669,
+    "wof:lastmodified":1449007985,
+    "wof:name":"Kenmark Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-108.586474,45.762457,-108.586474,45.762457],
+  "geometry": {"coordinates":[-108.586474,45.762457],"type":"Point"}
+}

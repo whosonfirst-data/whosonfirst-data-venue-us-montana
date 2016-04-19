@@ -1,0 +1,66 @@
+{
+  "id": 186211567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.737093,45.744165,-108.737093,45.744165",
+    "geom:latitude":45.744165,
+    "geom:longitude":-108.737093,
+    "iso:country":"US",
+    "sg:address":"8740 Longmeadow Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 4197",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UPUnE0BQ6TwuybMQ1v0iD_45.744165_-108.737093@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"150395a0dfd8a4db10031401ceebed8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":186211567
+        }
+    ],
+    "wof:id":186211567,
+    "wof:lastmodified":1449051054,
+    "wof:name":"Mountain Aire Heating & Air Co",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-108.737093,45.744165,-108.737093,45.744165],
+  "geometry": {"coordinates":[-108.737093,45.744165],"type":"Point"}
+}

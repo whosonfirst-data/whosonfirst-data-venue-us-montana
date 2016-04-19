@@ -1,0 +1,68 @@
+{
+  "id": 186283867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.305022,48.203823,-114.305022,48.203823",
+    "geom:latitude":48.203823,
+    "geom:longitude":-114.305022,
+    "iso:country":"US",
+    "sg:address":"627 E Idaho St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 7755",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "glass",
+        "install"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RxFkib3J6Jkzhnp3OvuOi_48.203823_-114.305022@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5f9aee08d0ceed5553e110d2346617d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186283867
+        }
+    ],
+    "wof:id":186283867,
+    "wof:lastmodified":1449051168,
+    "wof:name":"Safelite Autoglass",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "install"
+    ]
+},
+  "bbox": [-114.305022,48.203823,-114.305022,48.203823],
+  "geometry": {"coordinates":[-114.305022,48.203823],"type":"Point"}
+}

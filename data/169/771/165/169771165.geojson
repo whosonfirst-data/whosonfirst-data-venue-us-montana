@@ -1,0 +1,68 @@
+{
+  "id": 169771165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.507031,45.781393,-108.507031,45.781393",
+    "geom:latitude":45.781393,
+    "geom:longitude":-108.507031,
+    "iso:country":"US",
+    "sg:address":"14 N 29th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 6133",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ltvrBZJJPZgwrEqQwl2Y5_45.781393_-108.507031@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a02a35d60e71ff569ba2ef11855a0301",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":169771165
+        }
+    ],
+    "wof:id":169771165,
+    "wof:lastmodified":1449034488,
+    "wof:name":"Montana Dance Action",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-108.507031,45.781393,-108.507031,45.781393],
+  "geometry": {"coordinates":[-108.507031,45.781393],"type":"Point"}
+}

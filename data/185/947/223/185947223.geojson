@@ -1,0 +1,70 @@
+{
+  "id": 185947223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.325627,48.212825,-114.325627,48.212825",
+    "geom:latitude":48.212825,
+    "geom:longitude":-114.325627,
+    "iso:country":"US",
+    "sg:address":"1287 Burns Way",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 8120",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical",
+        "practice",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78CtSVGyTytWEGvKcrXZXn_48.212825_-114.325627@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bcb73361a9cbc18bd448683a15035dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185947223
+        }
+    ],
+    "wof:id":185947223,
+    "wof:lastmodified":1449007755,
+    "wof:name":"Family Health Care PC",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "practice",
+        "general"
+    ]
+},
+  "bbox": [-114.325627,48.212825,-114.325627,48.212825],
+  "geometry": {"coordinates":[-114.325627,48.212825],"type":"Point"}
+}

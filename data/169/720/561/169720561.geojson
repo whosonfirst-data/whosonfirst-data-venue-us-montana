@@ -1,0 +1,73 @@
+{
+  "id": 169720561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.16345,47.689696,-114.16345,47.689696",
+    "geom:latitude":47.689696,
+    "geom:longitude":-114.16345,
+    "iso:country":"US",
+    "sg:address":"610 Main St",
+    "sg:city":"Polson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 883 8044",
+    "sg:postcode":"59860",
+    "sg:province":"MT",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972719,
+        102085121
+    ],
+    "wof:brand_id":420575395,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JeHuhotiPm2WtSP1DMlbk_47.689696_-114.163450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"617db850d10840944614ebad7b100fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085121,
+            "locality_id":85972719,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169720561
+        }
+    ],
+    "wof:id":169720561,
+    "wof:lastmodified":1457209566,
+    "wof:name":"Glass Doctor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -114.16345,
+    47.689696,
+    -114.16345,
+    47.689696
+],
+  "geometry": {"coordinates":[-114.16345,47.689696],"type":"Point"}
+}

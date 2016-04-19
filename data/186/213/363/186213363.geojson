@@ -1,0 +1,70 @@
+{
+  "id": 186213363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.040377,46.826422,-114.040377,46.826422",
+    "geom:latitude":46.826422,
+    "geom:longitude":-114.040377,
+    "iso:country":"US",
+    "sg:address":"2412 S Hills Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 5711",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential",
+        "intermediate",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39G7zOtEPkWU2fuggEU7Za_46.826422_-114.040377@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42e868c23a1a9588fb1a4bcf743ef4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186213363
+        }
+    ],
+    "wof:id":186213363,
+    "wof:lastmodified":1449050288,
+    "wof:name":"South Hills Group Home",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "intermediate",
+        "facility"
+    ]
+},
+  "bbox": [-114.040377,46.826422,-114.040377,46.826422],
+  "geometry": {"coordinates":[-114.040377,46.826422],"type":"Point"}
+}

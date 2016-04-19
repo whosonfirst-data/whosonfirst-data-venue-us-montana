@@ -1,0 +1,75 @@
+{
+  "id": 186359955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.647119,45.704275,-108.647119,45.704275",
+    "geom:latitude":45.704275,
+    "geom:longitude":-108.647119,
+    "iso:country":"US",
+    "sg:address":"3606 Mallard Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 2406",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qeGQ0Lvust24QueyTsu9H_45.704275_-108.647119@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68166f50d10eceb425e83754f1203e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186359955
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186359955
+        }
+    ],
+    "wof:id":186359955,
+    "wof:lastmodified":1449050202,
+    "wof:name":"Stricker Heating & Cooling Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-108.647119,45.704275,-108.647119,45.704275],
+  "geometry": {"coordinates":[-108.647119,45.704275],"type":"Point"}
+}

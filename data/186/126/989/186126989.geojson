@@ -1,0 +1,65 @@
+{
+  "id": 186126989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-106.642458,48.19607,-106.642458,48.19607",
+    "geom:latitude":48.19607,
+    "geom:longitude":-106.642458,
+    "iso:country":"US",
+    "sg:address":"802 2nd Ave S",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 228 2604",
+    "sg:postcode":"59230",
+    "sg:province":"MT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972901,
+        102085109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01tmB1KtfFuxn4dsYkLLKz_48.196070_-106.642458@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"269e62037aa75518998029385920bb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085109,
+            "locality_id":85972901,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186126989
+        }
+    ],
+    "wof:id":186126989,
+    "wof:lastmodified":1449051374,
+    "wof:name":"Dan's Auto Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [-106.642458,48.19607,-106.642458,48.19607],
+  "geometry": {"coordinates":[-106.642458,48.19607],"type":"Point"}
+}

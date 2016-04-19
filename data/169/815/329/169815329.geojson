@@ -1,0 +1,68 @@
+{
+  "id": 169815329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.509141,45.925506,-112.509141,45.925506",
+    "geom:latitude":45.925506,
+    "geom:longitude":-112.509141,
+    "iso:country":"US",
+    "sg:address":"185 S Parkmont",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 7829",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bvQHYFtCzRDv3G1h9M3pw_45.925506_-112.509141@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c69b8d950b65de6516cfe1f3ced7ee3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":169815329
+        }
+    ],
+    "wof:id":169815329,
+    "wof:lastmodified":1449034279,
+    "wof:name":"Peak Groundwater Svc",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.509141,45.925506,-112.509141,45.925506],
+  "geometry": {"coordinates":[-112.509141,45.925506],"type":"Point"}
+}

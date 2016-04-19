@@ -1,0 +1,75 @@
+{
+  "id": 169772275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576028,45.756545,-108.576028,45.756545",
+    "geom:latitude":45.756545,
+    "geom:longitude":-108.576028,
+    "iso:country":"US",
+    "sg:address":"741 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 9196",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aIw7TrXgldKxz6OhLwqv4_45.756545_-108.576028@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8953ff286fbe11aada210bb358968a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":169772275
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":169772275
+        }
+    ],
+    "wof:id":169772275,
+    "wof:lastmodified":1449034151,
+    "wof:name":"Valet Today Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-108.576028,45.756545,-108.576028,45.756545],
+  "geometry": {"coordinates":[-108.576028,45.756545],"type":"Point"}
+}

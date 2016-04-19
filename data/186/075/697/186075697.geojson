@@ -1,0 +1,68 @@
+{
+  "id": 186075697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.451194,45.828414,-108.451194,45.828414",
+    "geom:latitude":45.828414,
+    "geom:longitude":-108.451194,
+    "iso:country":"US",
+    "sg:address":"1327 Cheryl St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 861 7110",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fjCiKCY8idKlhnASjnzJ7_45.828414_-108.451194@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"904b86d0848af0f43d7f8b6ed7c262ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":186075697
+        }
+    ],
+    "wof:id":186075697,
+    "wof:lastmodified":1449051840,
+    "wof:name":"Delta Electric",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.451194,45.828414,-108.451194,45.828414],
+  "geometry": {"coordinates":[-108.451194,45.828414],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 186291715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.023604,46.84699,-114.023604,46.84699",
+    "geom:latitude":46.84699,
+    "geom:longitude":-114.023604,
+    "iso:country":"US",
+    "sg:address":"1721 Dearborn Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 9301",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carwash",
+        "auto",
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cORAMaHqqbikrBMDw7fCQ_46.846990_-114.023604@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5897f24dc180ed9d116109b9ba8b30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186291715
+        }
+    ],
+    "wof:id":186291715,
+    "wof:lastmodified":1449051204,
+    "wof:name":"Southside Auto Reconditioning",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "auto",
+        "body"
+    ]
+},
+  "bbox": [-114.023604,46.84699,-114.023604,46.84699],
+  "geometry": {"coordinates":[-114.023604,46.84699],"type":"Point"}
+}

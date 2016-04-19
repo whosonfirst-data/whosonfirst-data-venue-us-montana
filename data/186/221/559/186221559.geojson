@@ -1,0 +1,68 @@
+{
+  "id": 186221559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.414147,45.820672,-108.414147,45.820672",
+    "geom:latitude":45.820672,
+    "geom:longitude":-108.414147,
+    "iso:country":"US",
+    "sg:address":"1938 Johnson Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 1902",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4URxlfC4Lb6ZGaTKwBBFiG_45.820672_-108.414147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec12588ac944486701a2ebd71bb615a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186221559
+        }
+    ],
+    "wof:id":186221559,
+    "wof:lastmodified":1449051555,
+    "wof:name":"Lonsome Dove Concrete Pumping",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [-108.414147,45.820672,-108.414147,45.820672],
+  "geometry": {"coordinates":[-108.414147,45.820672],"type":"Point"}
+}

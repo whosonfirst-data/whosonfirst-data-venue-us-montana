@@ -1,0 +1,75 @@
+{
+  "id": 186360443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584063,45.745212,-108.584063,45.745212",
+    "geom:latitude":45.745212,
+    "geom:longitude":-108.584063,
+    "iso:country":"US",
+    "sg:address":"2701 Gabel Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8700",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59ohBAI2ZgHCJfot87BUBO_45.745212_-108.584063@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28ea26f2dc49de7fe7730d18a2815a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186360443
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186360443
+        }
+    ],
+    "wof:id":186360443,
+    "wof:lastmodified":1449052391,
+    "wof:name":"Dal-Tile",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile"
+    ]
+},
+  "bbox": [-108.584063,45.745212,-108.584063,45.745212],
+  "geometry": {"coordinates":[-108.584063,45.745212],"type":"Point"}
+}

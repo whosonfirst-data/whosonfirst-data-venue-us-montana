@@ -1,0 +1,68 @@
+{
+  "id": 185914991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.045861,46.846056,-114.045861,46.846056",
+    "geom:latitude":46.846056,
+    "geom:longitude":-114.045861,
+    "iso:country":"US",
+    "sg:address":"2833 Fort Missoula Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 6559",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medicine",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eMifckp1FQngZsdgAHShQ_46.846056_-114.045861@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e41f69c99191c9103cf5314e6b4ef3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185914991
+        }
+    ],
+    "wof:id":185914991,
+    "wof:lastmodified":1449007223,
+    "wof:name":"Big Sky Surgery Center LLC",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "clinic"
+    ]
+},
+  "bbox": [-114.045861,46.846056,-114.045861,46.846056],
+  "geometry": {"coordinates":[-114.045861,46.846056],"type":"Point"}
+}

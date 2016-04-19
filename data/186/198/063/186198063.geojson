@@ -1,0 +1,72 @@
+{
+  "id": 186198063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.510251,45.781304,-108.510251,45.781304",
+    "geom:latitude":45.781304,
+    "geom:longitude":-108.510251,
+    "iso:country":"US",
+    "sg:address":"3011 2nd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 255 2200",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:brand_id":420573981,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TvkZTl8erMTowGBXvjEht_45.781304_-108.510251@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1eeeaccc875e0271680ced297ba1d8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":186198063
+        }
+    ],
+    "wof:id":186198063,
+    "wof:lastmodified":1457208062,
+    "wof:name":"AT&T",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -108.510251,
+    45.781304,
+    -108.510251,
+    45.781304
+],
+  "geometry": {"coordinates":[-108.510251,45.781304],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186195047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470662,45.818797,-108.470662,45.818797",
+    "geom:latitude":45.818797,
+    "geom:longitude":-108.470662,
+    "iso:country":"US",
+    "sg:address":"1111 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 2582",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hOlT1r8hIAocxFyz1VCPU_45.818797_-108.470662@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69b5e6deee8aac1bd010e19e145182a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":186195047
+        }
+    ],
+    "wof:id":186195047,
+    "wof:lastmodified":1449052133,
+    "wof:name":"Denise Mehia Walk In Clinic",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-108.470662,45.818797,-108.470662,45.818797],
+  "geometry": {"coordinates":[-108.470662,45.818797],"type":"Point"}
+}

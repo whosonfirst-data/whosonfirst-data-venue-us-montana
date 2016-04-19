@@ -1,0 +1,68 @@
+{
+  "id": 169807441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.50512,45.955007,-112.50512,45.955007",
+    "geom:latitude":45.955007,
+    "geom:longitude":-112.50512,
+    "iso:country":"US",
+    "sg:address":"18 Airport Rd",
+    "sg:city":"Ennis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 682 7411",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54Cy1kY5J9lf5mIuZDOqZG_45.955007_-112.505120@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6cc048b66afe018d3d717006fe6f598",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":169807441
+        }
+    ],
+    "wof:id":169807441,
+    "wof:lastmodified":1449033535,
+    "wof:name":"Matson Excavation",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [-112.50512,45.955007,-112.50512,45.955007],
+  "geometry": {"coordinates":[-112.50512,45.955007],"type":"Point"}
+}

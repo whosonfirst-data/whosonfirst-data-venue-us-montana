@@ -1,0 +1,66 @@
+{
+  "id": 185846593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.689325,45.740534,-108.689325,45.740534",
+    "geom:latitude":45.740534,
+    "geom:longitude":-108.689325,
+    "iso:country":"US",
+    "sg:address":"6746 Hesper Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6474",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Itj6JIFYzziiNxZ1V0tCa_45.740534_-108.689325@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81580de411f50df40d374e423c9e061a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185846593
+        }
+    ],
+    "wof:id":185846593,
+    "wof:lastmodified":1449007876,
+    "wof:name":"Western Welding",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [-108.689325,45.740534,-108.689325,45.740534],
+  "geometry": {"coordinates":[-108.689325,45.740534],"type":"Point"}
+}

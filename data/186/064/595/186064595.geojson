@@ -1,0 +1,66 @@
+{
+  "id": 186064595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.080023,46.762571,-114.080023,46.762571",
+    "geom:latitude":46.762571,
+    "geom:longitude":-114.080023,
+    "iso:country":"US",
+    "sg:address":"108 Tyler Way",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 0490",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NamWt0oNhksU1VjSHuWwF_46.762571_-114.080023@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26fca5ffae02a92d67a7f90a396311b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186064595
+        }
+    ],
+    "wof:id":186064595,
+    "wof:lastmodified":1449051338,
+    "wof:name":"Lolo Dental Clinic",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-114.080023,46.762571,-114.080023,46.762571],
+  "geometry": {"coordinates":[-114.080023,46.762571],"type":"Point"}
+}

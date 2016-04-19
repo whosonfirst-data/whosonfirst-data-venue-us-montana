@@ -1,0 +1,71 @@
+{
+  "id": 186193691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.522399,45.769683,-108.522399,45.769683",
+    "geom:latitude":45.769683,
+    "geom:longitude":-108.522399,
+    "iso:country":"US",
+    "sg:address":"4220 State Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 1190",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20ORWnGFoujmW9VEXo2Glu_45.769683_-108.522399@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d60a4e130929d65952c7bbbe56f5f122",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":186193691
+        }
+    ],
+    "wof:id":186193691,
+    "wof:lastmodified":1449050845,
+    "wof:name":"Video Action",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-108.522399,45.769683,-108.522399,45.769683],
+  "geometry": {"coordinates":[-108.522399,45.769683],"type":"Point"}
+}

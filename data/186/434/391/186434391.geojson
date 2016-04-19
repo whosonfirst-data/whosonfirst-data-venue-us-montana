@@ -1,0 +1,66 @@
+{
+  "id": 186434391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.539353,46.008516,-112.539353,46.008516",
+    "geom:latitude":46.008516,
+    "geom:longitude":-112.539353,
+    "iso:country":"US",
+    "sg:address":"441 S Montana St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 9108",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EIguwWyJ9KKgBywav1l1R_46.008516_-112.539353@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6cd9a2e7ef5649eaab07c0e722e739b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186434391
+        }
+    ],
+    "wof:id":186434391,
+    "wof:lastmodified":1449050979,
+    "wof:name":"Montana Muffler & Tire Inc",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [-112.539353,46.008516,-112.539353,46.008516],
+  "geometry": {"coordinates":[-112.539353,46.008516],"type":"Point"}
+}

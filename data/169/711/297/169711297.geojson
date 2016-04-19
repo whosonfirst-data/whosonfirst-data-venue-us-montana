@@ -1,0 +1,68 @@
+{
+  "id": 169711297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.112664,48.159025,-114.112664,48.159025",
+    "geom:latitude":48.159025,
+    "geom:longitude":-114.112664,
+    "iso:country":"US",
+    "sg:address":"90 Indian Ridge Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 3416",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EjIlMpKKVZUUSLAfLEvNY_48.159025_-114.112664@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"993841fd50d75c522e047a62c80494fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":169711297
+        }
+    ],
+    "wof:id":169711297,
+    "wof:lastmodified":1449035354,
+    "wof:name":"Electrical Management Services",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-114.112664,48.159025,-114.112664,48.159025],
+  "geometry": {"coordinates":[-114.112664,48.159025],"type":"Point"}
+}

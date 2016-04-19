@@ -1,0 +1,68 @@
+{
+  "id": 185762073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.369799,48.416246,-114.369799,48.416246",
+    "geom:latitude":48.416246,
+    "geom:longitude":-114.369799,
+    "iso:country":"US",
+    "sg:address":"810 Patton Ln",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 7288",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i6AM7mbtsUJUE8dAzrvo0_48.416246_-114.369799@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0229d1df766a055884ca6a054043c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185762073
+        }
+    ],
+    "wof:id":185762073,
+    "wof:lastmodified":1449007736,
+    "wof:name":"Langton Excavation",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [-114.369799,48.416246,-114.369799,48.416246],
+  "geometry": {"coordinates":[-114.369799,48.416246],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185676411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.781751,45.668242,-108.781751,45.668242",
+    "geom:latitude":45.668242,
+    "geom:longitude":-108.781751,
+    "iso:country":"US",
+    "sg:address":"808 W Main St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 8886",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sd2S57IHi80smbAs44tnJ_45.668242_-108.781751@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67f554a28de98c5376f558749b32b67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185676411
+        }
+    ],
+    "wof:id":185676411,
+    "wof:lastmodified":1449007622,
+    "wof:name":"Ace Electric",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.781751,45.668242,-108.781751,45.668242],
+  "geometry": {"coordinates":[-108.781751,45.668242],"type":"Point"}
+}

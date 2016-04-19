@@ -1,0 +1,77 @@
+{
+  "id": 185785797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.646968,45.704202,-108.646968,45.704202",
+    "geom:latitude":45.704202,
+    "geom:longitude":-108.646968,
+    "iso:country":"US",
+    "sg:address":"3611 Mallard Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6851",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63Q6JIu4Pi6ZQggx1D2Gnx_45.704202_-108.646968@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9aa597946a436994df06cde8e413626",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185785797
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185785797
+        }
+    ],
+    "wof:id":185785797,
+    "wof:lastmodified":1449007957,
+    "wof:name":"True Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [-108.646968,45.704202,-108.646968,45.704202],
+  "geometry": {"coordinates":[-108.646968,45.704202],"type":"Point"}
+}

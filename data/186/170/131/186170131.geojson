@@ -1,0 +1,73 @@
+{
+  "id": 186170131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-105.642545,48.100986,-105.642545,48.100986",
+    "geom:latitude":48.100986,
+    "geom:longitude":-105.642545,
+    "iso:country":"US",
+    "sg:address":"315 Knapp St",
+    "sg:city":"Wolf Point",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 653 2100",
+    "sg:postcode":"59201",
+    "sg:province":"MT",
+    "sg:tags":[
+        "skilled",
+        "general",
+        "nursing",
+        "care",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972875,
+        102085139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qR0wmw9cN4OpVhIsf3L8U_48.100986_-105.642545@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50fa71676263d7e7ba2e4cef32e8b46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085139,
+            "locality_id":85972875,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186170131
+        }
+    ],
+    "wof:id":186170131,
+    "wof:lastmodified":1449050489,
+    "wof:name":"Trinity Hospital Association",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled",
+        "general",
+        "nursing",
+        "care",
+        "facility"
+    ]
+},
+  "bbox": [-105.642545,48.100986,-105.642545,48.100986],
+  "geometry": {"coordinates":[-105.642545,48.100986],"type":"Point"}
+}

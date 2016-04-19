@@ -1,0 +1,68 @@
+{
+  "id": 185811941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.563321,45.784129,-108.563321,45.784129",
+    "geom:latitude":45.784129,
+    "geom:longitude":-108.563321,
+    "iso:country":"US",
+    "sg:address":"1841 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 8390",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ah6lsy3ysNDeP52a4vpPt_45.784129_-108.563321@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92f64a66fe8ab5e9e7387ec874b4744c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185811941
+        }
+    ],
+    "wof:id":185811941,
+    "wof:lastmodified":1449007398,
+    "wof:name":"Billings Gunsmiths",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [-108.563321,45.784129,-108.563321,45.784129],
+  "geometry": {"coordinates":[-108.563321,45.784129],"type":"Point"}
+}

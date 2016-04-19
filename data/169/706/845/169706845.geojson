@@ -1,0 +1,73 @@
+{
+  "id": 169706845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.471745,45.810594,-108.471745,45.810594",
+    "geom:latitude":45.810594,
+    "geom:longitude":-108.471745,
+    "iso:country":"US",
+    "sg:address":"595 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 9350",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "video",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:brand_id":420573911,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v7shZyb75GTji7jmqRli0_45.810594_-108.471745@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"561caaebe584eff09177399f93647d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":169706845
+        }
+    ],
+    "wof:id":169706845,
+    "wof:lastmodified":1457207886,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "store"
+    ]
+},
+  "bbox": [
+    -108.471745,
+    45.810594,
+    -108.471745,
+    45.810594
+],
+  "geometry": {"coordinates":[-108.471745,45.810594],"type":"Point"}
+}

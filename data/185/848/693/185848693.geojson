@@ -1,0 +1,70 @@
+{
+  "id": 185848693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.068388,45.710915,-111.068388,45.710915",
+    "geom:latitude":45.710915,
+    "geom:longitude":-111.068388,
+    "iso:country":"US",
+    "sg:address":"2023 Burke St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 556 1058",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "company",
+        "bank",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M2QE7L07hFyJN9XoErvjX_45.710915_-111.068388@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6de189eb3000d167a76d9a1f2d22cd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891695,
+            "region_id":85688617,
+            "venue_id":185848693
+        }
+    ],
+    "wof:id":185848693,
+    "wof:lastmodified":1449006829,
+    "wof:name":"First Interstate Bank Inv Svc",
+    "wof:parent_id":85891695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "bank",
+        "holding"
+    ]
+},
+  "bbox": [-111.068388,45.710915,-111.068388,45.710915],
+  "geometry": {"coordinates":[-111.068388,45.710915],"type":"Point"}
+}

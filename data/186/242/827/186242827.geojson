@@ -1,0 +1,70 @@
+{
+  "id": 186242827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.009354,46.883633,-114.009354,46.883633",
+    "geom:latitude":46.883633,
+    "geom:longitude":-114.009354,
+    "iso:country":"US",
+    "sg:address":"1221 Shakespeare St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 2848",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "city",
+        "line",
+        "bus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x5xeCUuBAvHx0RSHFELj5_46.883633_-114.009354@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cdb65d8a6ad5fa126d3b78b0a5ed9f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":186242827
+        }
+    ],
+    "wof:id":186242827,
+    "wof:lastmodified":1449052700,
+    "wof:name":"Mountian Line",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "line",
+        "bus"
+    ]
+},
+  "bbox": [-114.009354,46.883633,-114.009354,46.883633],
+  "geometry": {"coordinates":[-114.009354,46.883633],"type":"Point"}
+}

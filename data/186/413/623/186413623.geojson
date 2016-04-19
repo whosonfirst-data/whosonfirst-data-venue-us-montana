@@ -1,0 +1,67 @@
+{
+  "id": 186413623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.487578,45.793485,-108.487578,45.793485",
+    "geom:latitude":45.793485,
+    "geom:longitude":-108.487578,
+    "iso:country":"US",
+    "sg:address":"1123 3rd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 2222",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R1TAOcaATo8bYfIXneJ4A_45.793485_-108.487578@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a791832a1b79d3c22a40ce3433e8b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186413623
+        }
+    ],
+    "wof:id":186413623,
+    "wof:lastmodified":1449050824,
+    "wof:name":"G & M Auto Parts",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [-108.487578,45.793485,-108.487578,45.793485],
+  "geometry": {"coordinates":[-108.487578,45.793485],"type":"Point"}
+}

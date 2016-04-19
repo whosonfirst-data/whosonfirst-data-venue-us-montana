@@ -1,0 +1,70 @@
+{
+  "id": 169848201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.545036,45.775133,-108.545036,45.775133",
+    "geom:latitude":45.775133,
+    "geom:longitude":-108.545036,
+    "iso:country":"US",
+    "sg:address":"1149 Terry Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 690 0154",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J08dGeiFhDokiqe8wd2Pr_45.775133_-108.545036@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57f6f30e9cc2ebeea57defb430785b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169848201
+        }
+    ],
+    "wof:id":169848201,
+    "wof:lastmodified":1449033156,
+    "wof:name":"Master Dent Co",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-108.545036,45.775133,-108.545036,45.775133],
+  "geometry": {"coordinates":[-108.545036,45.775133],"type":"Point"}
+}

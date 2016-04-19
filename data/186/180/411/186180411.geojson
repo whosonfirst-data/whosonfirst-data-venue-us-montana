@@ -1,0 +1,68 @@
+{
+  "id": 186180411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.081688,46.885354,-114.081688,46.885354",
+    "geom:latitude":46.885354,
+    "geom:longitude":-114.081688,
+    "iso:country":"US",
+    "sg:address":"6145 Mullan Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 880 4820",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30rxkGcX8VuX55XvF1le55_46.885354_-114.081688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45ae737c6f0f801c6c2a04e7dd06d060",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":186180411
+        }
+    ],
+    "wof:id":186180411,
+    "wof:lastmodified":1449050375,
+    "wof:name":"Crd Electric",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-114.081688,46.885354,-114.081688,46.885354],
+  "geometry": {"coordinates":[-114.081688,46.885354],"type":"Point"}
+}

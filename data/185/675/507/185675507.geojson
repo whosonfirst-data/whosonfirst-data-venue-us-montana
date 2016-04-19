@@ -1,0 +1,68 @@
+{
+  "id": 185675507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.404096,48.29829,-114.404096,48.29829",
+    "geom:latitude":48.29829,
+    "geom:longitude":-114.404096,
+    "iso:country":"US",
+    "sg:address":"405 Lost Creek Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 3645",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D35UioChj5TrVUNz3SRlM_48.298290_-114.404096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"918c84a49b073e09120cec8a4d119631",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185675507
+        }
+    ],
+    "wof:id":185675507,
+    "wof:lastmodified":1449007456,
+    "wof:name":"Tri City Electric Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-114.404096,48.29829,-114.404096,48.29829],
+  "geometry": {"coordinates":[-114.404096,48.29829],"type":"Point"}
+}

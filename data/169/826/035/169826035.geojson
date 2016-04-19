@@ -1,0 +1,68 @@
+{
+  "id": 169826035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.616379,45.788457,-108.616379,45.788457",
+    "geom:latitude":45.788457,
+    "geom:longitude":-108.616379,
+    "iso:country":"US",
+    "sg:address":"1650 Swanson Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6677",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y9sWHTbot32ylMIzmRdeX_45.788457_-108.616379@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb868a2abac348c4842343c77a2dcd00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":169826035
+        }
+    ],
+    "wof:id":169826035,
+    "wof:lastmodified":1449035073,
+    "wof:name":"American Mortgage of Montana",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [-108.616379,45.788457,-108.616379,45.788457],
+  "geometry": {"coordinates":[-108.616379,45.788457],"type":"Point"}
+}

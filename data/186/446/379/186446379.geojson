@@ -1,0 +1,66 @@
+{
+  "id": 186446379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.011273,46.853321,-114.011273,46.853321",
+    "geom:latitude":46.853321,
+    "geom:longitude":-114.011273,
+    "iso:country":"US",
+    "sg:address":"800 Kensington Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 4408",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KowsWrBsLFyhhGPJPjTij_46.853321_-114.011273@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7d74a35cc9e481f29b32a4de4035242",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186446379
+        }
+    ],
+    "wof:id":186446379,
+    "wof:lastmodified":1449052793,
+    "wof:name":"Hospice Of Missoula",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [-114.011273,46.853321,-114.011273,46.853321],
+  "geometry": {"coordinates":[-114.011273,46.853321],"type":"Point"}
+}

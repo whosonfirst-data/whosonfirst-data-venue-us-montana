@@ -1,0 +1,68 @@
+{
+  "id": 185998885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.081728,46.76068,-114.081728,46.76068",
+    "geom:latitude":46.76068,
+    "geom:longitude":-114.081728,
+    "iso:country":"US",
+    "sg:address":"11555 US Hwy 93",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 4604",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nfSFzrqMpk0Sq03qr1RDv_46.760680_-114.081728@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52789de67b285febccde47154a4a88ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185998885
+        }
+    ],
+    "wof:id":185998885,
+    "wof:lastmodified":1449007124,
+    "wof:name":"Lolo Xpress Lube Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-114.081728,46.76068,-114.081728,46.76068],
+  "geometry": {"coordinates":[-114.081728,46.76068],"type":"Point"}
+}

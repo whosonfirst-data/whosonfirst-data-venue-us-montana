@@ -1,0 +1,68 @@
+{
+  "id": 185696773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.304931,48.1818,-114.304931,48.1818",
+    "geom:latitude":48.1818,
+    "geom:longitude":-114.304931,
+    "iso:country":"US",
+    "sg:address":"1880 US Hwy 93 S",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 1939",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tBvGr5eruucE7uqy2POTd_48.181800_-114.304931@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4cfd143829e88459114c46c3446d0aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185696773
+        }
+    ],
+    "wof:id":185696773,
+    "wof:lastmodified":1449006728,
+    "wof:name":"Dollar Rent A Car",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [-114.304931,48.1818,-114.304931,48.1818],
+  "geometry": {"coordinates":[-114.304931,48.1818],"type":"Point"}
+}

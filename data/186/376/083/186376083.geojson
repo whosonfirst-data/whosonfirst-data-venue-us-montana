@@ -1,0 +1,68 @@
+{
+  "id": 186376083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.338101,48.41154,-114.338101,48.41154",
+    "geom:latitude":48.41154,
+    "geom:longitude":-114.338101,
+    "iso:country":"US",
+    "sg:address":"111 Baker Ave",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 881 4008",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20K73gBYls6hV5S1pUdDaP_48.411540_-114.338101@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b673e96d0f23bae798a991ba10784c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186376083
+        }
+    ],
+    "wof:id":186376083,
+    "wof:lastmodified":1449051310,
+    "wof:name":"M Sobba MD",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-114.338101,48.41154,-114.338101,48.41154],
+  "geometry": {"coordinates":[-114.338101,48.41154],"type":"Point"}
+}

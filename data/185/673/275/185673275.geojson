@@ -1,0 +1,70 @@
+{
+  "id": 185673275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.464391,45.898447,-108.464391,45.898447",
+    "geom:latitude":45.898447,
+    "geom:longitude":-108.464391,
+    "iso:country":"US",
+    "sg:address":"5510 Deadwood Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6994",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FADHiayZFLVk4eE7kHVkr_45.898447_-108.464391@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40fb9ff7ddfb7ad87dca4c5186aa17dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185673275
+        }
+    ],
+    "wof:id":185673275,
+    "wof:lastmodified":1449007240,
+    "wof:name":"Pampered Pets Day Care & Brdng",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [-108.464391,45.898447,-108.464391,45.898447],
+  "geometry": {"coordinates":[-108.464391,45.898447],"type":"Point"}
+}

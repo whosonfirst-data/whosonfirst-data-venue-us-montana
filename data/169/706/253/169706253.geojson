@@ -1,0 +1,76 @@
+{
+  "id": 169706253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.59294,45.769616,-108.59294,45.769616",
+    "geom:latitude":45.769616,
+    "geom:longitude":-108.59294,
+    "iso:country":"US",
+    "sg:address":"3040 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 8600",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LauToJrnl3QNyGBmwF6FQ_45.769616_-108.592940@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34bdfc2e6a56e622e9407590b35bbd67",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":169706253
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":169706253
+        }
+    ],
+    "wof:id":169706253,
+    "wof:lastmodified":1449032915,
+    "wof:name":"Hunter's Point Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-108.59294,45.769616,-108.59294,45.769616],
+  "geometry": {"coordinates":[-108.59294,45.769616],"type":"Point"}
+}

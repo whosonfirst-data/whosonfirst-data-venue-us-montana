@@ -1,0 +1,66 @@
+{
+  "id": 169772213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.526813,45.974839,-112.526813,45.974839",
+    "geom:latitude":45.974839,
+    "geom:longitude":-112.526813,
+    "iso:country":"US",
+    "sg:address":"520 Holmes Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 3606",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jYOGrSm7s3OzPQIsfAM0y_45.974839_-112.526813@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83fa60bd49db98b81a389ee980561073",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":169772213
+        }
+    ],
+    "wof:id":169772213,
+    "wof:lastmodified":1449034149,
+    "wof:name":"Red Wrecker Svc",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [-112.526813,45.974839,-112.526813,45.974839],
+  "geometry": {"coordinates":[-112.526813,45.974839],"type":"Point"}
+}

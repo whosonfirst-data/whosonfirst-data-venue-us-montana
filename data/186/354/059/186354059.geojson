@@ -1,0 +1,70 @@
+{
+  "id": 186354059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.335635,48.372394,-114.335635,48.372394",
+    "geom:latitude":48.372394,
+    "geom:longitude":-114.335635,
+    "iso:country":"US",
+    "sg:address":"5820 US Hwy 93",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 2524",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "small",
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LMf9rE0Fqns1EeQokDJuZ_48.372394_-114.335635@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c520b6e7b3464ac983cce0acc788634c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186354059
+        }
+    ],
+    "wof:id":186354059,
+    "wof:lastmodified":1449052720,
+    "wof:name":"Alpine Animal Hospital",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [-114.335635,48.372394,-114.335635,48.372394],
+  "geometry": {"coordinates":[-114.335635,48.372394],"type":"Point"}
+}

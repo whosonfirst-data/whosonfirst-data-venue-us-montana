@@ -1,0 +1,68 @@
+{
+  "id": 186405103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.384955,45.826806,-108.384955,45.826806",
+    "geom:latitude":45.826806,
+    "geom:longitude":-108.384955,
+    "iso:country":"US",
+    "sg:address":"1706 Canary Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 9541",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xKSi191g3zXlf8pYEqIrR_45.826806_-108.384955@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a61c8bf45c2f01dc9312a320937d5763",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186405103
+        }
+    ],
+    "wof:id":186405103,
+    "wof:lastmodified":1449052797,
+    "wof:name":"Dnd Security",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [-108.384955,45.826806,-108.384955,45.826806],
+  "geometry": {"coordinates":[-108.384955,45.826806],"type":"Point"}
+}

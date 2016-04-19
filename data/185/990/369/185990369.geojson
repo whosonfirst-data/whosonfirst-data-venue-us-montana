@@ -1,0 +1,69 @@
+{
+  "id": 185990369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.745959,46.390049,-112.745959,46.390049",
+    "geom:latitude":46.390049,
+    "geom:longitude":-112.745959,
+    "iso:country":"US",
+    "sg:address":"1214 Idaho St",
+    "sg:city":"Deer Lodge",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 846 3528",
+    "sg:postcode":"59722",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972845,
+        102085093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZAnmLBx0c0vDnAbE9VPFs_46.390049_-112.745959@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"333422678ed0c5d48f38f7d1dbb98ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085093,
+            "locality_id":85972845,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185990369
+        }
+    ],
+    "wof:id":185990369,
+    "wof:lastmodified":1449007671,
+    "wof:name":"Christensen Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-112.745959,46.390049,-112.745959,46.390049],
+  "geometry": {"coordinates":[-112.745959,46.390049],"type":"Point"}
+}

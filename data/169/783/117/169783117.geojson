@@ -1,0 +1,68 @@
+{
+  "id": 169783117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.549553,45.762357,-108.549553,45.762357",
+    "geom:latitude":45.762357,
+    "geom:longitude":-108.549553,
+    "iso:country":"US",
+    "sg:address":"1318 Monad Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6210",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DFalDNKjnSjpFlliHYI1I_45.762357_-108.549553@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2562398bfed71f3624c765cedb6f6476",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169783117
+        }
+    ],
+    "wof:id":169783117,
+    "wof:lastmodified":1449032793,
+    "wof:name":"Vannoy Metal Works",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [-108.549553,45.762357,-108.549553,45.762357],
+  "geometry": {"coordinates":[-108.549553,45.762357],"type":"Point"}
+}

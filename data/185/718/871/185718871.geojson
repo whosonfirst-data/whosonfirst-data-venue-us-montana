@@ -1,0 +1,68 @@
+{
+  "id": 185718871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.556475,45.78166,-108.556475,45.78166",
+    "geom:latitude":45.78166,
+    "geom:longitude":-108.556475,
+    "iso:country":"US",
+    "sg:address":"1116 16th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 8877",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DNKV3FCQ1ifQs8Jy9dJqT_45.781660_-108.556475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"326c695f91a2c34edec285dd17749c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185718871
+        }
+    ],
+    "wof:id":185718871,
+    "wof:lastmodified":1449006964,
+    "wof:name":"Alpine Casino",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [-108.556475,45.78166,-108.556475,45.78166],
+  "geometry": {"coordinates":[-108.556475,45.78166],"type":"Point"}
+}

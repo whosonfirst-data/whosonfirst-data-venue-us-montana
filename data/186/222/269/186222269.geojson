@@ -1,0 +1,66 @@
+{
+  "id": 186222269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.077713,46.886749,-114.077713,46.886749",
+    "geom:latitude":46.886749,
+    "geom:longitude":-114.077713,
+    "iso:country":"US",
+    "sg:address":"1715 Dukes Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 0510",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GNYnuWD5gXtqCcCELNPfD_46.886749_-114.077713@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0dbb5ce1d67faac3e4fb1e1c4ddb7cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":186222269
+        }
+    ],
+    "wof:id":186222269,
+    "wof:lastmodified":1449052162,
+    "wof:name":"Clipper Barber Shop",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-114.077713,46.886749,-114.077713,46.886749],
+  "geometry": {"coordinates":[-114.077713,46.886749],"type":"Point"}
+}

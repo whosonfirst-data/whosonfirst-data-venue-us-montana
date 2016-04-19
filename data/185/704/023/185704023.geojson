@@ -1,0 +1,75 @@
+{
+  "id": 185704023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.555663,45.777836,-108.555663,45.777836",
+    "geom:latitude":45.777836,
+    "geom:longitude":-108.555663,
+    "iso:country":"US",
+    "sg:address":"1530 Wyoming Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 9147",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repair",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ReqTiKcey9qb66EUYohDR_45.777836_-108.555663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69d5f09766173aea3e5d35e1ceaccfd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185704023
+        }
+    ],
+    "wof:id":185704023,
+    "wof:lastmodified":1449007027,
+    "wof:name":"Automotive Performance Center",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [-108.555663,45.777836,-108.555663,45.777836],
+  "geometry": {"coordinates":[-108.555663,45.777836],"type":"Point"}
+}

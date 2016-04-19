@@ -1,0 +1,70 @@
+{
+  "id": 169799737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.487116,45.990009,-112.487116,45.990009",
+    "geom:latitude":45.990009,
+    "geom:longitude":-112.487116,
+    "iso:country":"US",
+    "sg:address":"2400 Continental Dr",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 6556",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fCgS2uN05d6COwbKcd5QK_45.990009_-112.487116@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aaddcf733d585b723daf1c66913e126c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":169799737
+        }
+    ],
+    "wof:id":169799737,
+    "wof:lastmodified":1449035986,
+    "wof:name":"Butte Convalescent Center",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [-112.487116,45.990009,-112.487116,45.990009],
+  "geometry": {"coordinates":[-112.487116,45.990009],"type":"Point"}
+}

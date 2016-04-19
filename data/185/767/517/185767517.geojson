@@ -1,0 +1,81 @@
+{
+  "id": 185767517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.596718,45.744398,-108.596718,45.744398",
+    "geom:latitude":45.744398,
+    "geom:longitude":-108.596718,
+    "iso:country":"US",
+    "sg:address":"1521 S 32nd St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 4310",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Bw5bd9JdHKnEm38BirDF6_45.744398_-108.596718@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74cef7892a1895eff97defdf12c7fbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185767517
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185767517
+        }
+    ],
+    "wof:id":185767517,
+    "wof:lastmodified":1449007079,
+    "wof:name":"Montana Prestressed Concrete",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ]
+},
+  "bbox": [-108.596718,45.744398,-108.596718,45.744398],
+  "geometry": {"coordinates":[-108.596718,45.744398],"type":"Point"}
+}

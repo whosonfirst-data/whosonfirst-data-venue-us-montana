@@ -1,0 +1,68 @@
+{
+  "id": 186165281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.53403,45.998337,-112.53403,45.998337",
+    "geom:latitude":45.998337,
+    "geom:longitude":-112.53403,
+    "iso:country":"US",
+    "sg:address":"25 W Front St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 3282",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kHDIkn7N3Co4bXdpakeja_45.998337_-112.534030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"463759b2471a01be604268ffa126f39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186165281
+        }
+    ],
+    "wof:id":186165281,
+    "wof:lastmodified":1449053035,
+    "wof:name":"City-County Home Health Svc",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [-112.53403,45.998337,-112.53403,45.998337],
+  "geometry": {"coordinates":[-112.53403,45.998337],"type":"Point"}
+}

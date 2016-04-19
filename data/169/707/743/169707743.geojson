@@ -1,0 +1,66 @@
+{
+  "id": 169707743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.061854,46.810071,-114.061854,46.810071",
+    "geom:latitude":46.810071,
+    "geom:longitude":-114.061854,
+    "iso:country":"US",
+    "sg:address":"4575 Mark Ct",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 3457",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qPZ8GFKqEeAZi00pZDXXx_46.810071_-114.061854@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b32e3842c259eebdf959b5a03ab647f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":169707743
+        }
+    ],
+    "wof:id":169707743,
+    "wof:lastmodified":1449035442,
+    "wof:name":"Maid Bergage of Missoula",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [-114.061854,46.810071,-114.061854,46.810071],
+  "geometry": {"coordinates":[-114.061854,46.810071],"type":"Point"}
+}

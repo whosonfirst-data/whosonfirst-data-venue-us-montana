@@ -1,0 +1,69 @@
+{
+  "id": 186452501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.288627,47.516303,-111.288627,47.516303",
+    "geom:latitude":47.516303,
+    "geom:longitude":-111.288627,
+    "iso:country":"US",
+    "sg:address":"1011 10th Ave N",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 454 1604",
+    "sg:postcode":"59401",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972763,
+        102085113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nwvDBbFFesXtPWEkTjMsN_47.516303_-111.288627@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c466202aa4ac1be002a85b0ddc582d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085113,
+            "locality_id":85972763,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186452501
+        }
+    ],
+    "wof:id":186452501,
+    "wof:lastmodified":1449051036,
+    "wof:name":"Skis Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-111.288627,47.516303,-111.288627,47.516303],
+  "geometry": {"coordinates":[-111.288627,47.516303],"type":"Point"}
+}

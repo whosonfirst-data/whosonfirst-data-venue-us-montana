@@ -1,0 +1,66 @@
+{
+  "id": 186409641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.458423,45.827013,-108.458423,45.827013",
+    "geom:latitude":45.827013,
+    "geom:longitude":-108.458423,
+    "iso:country":"US",
+    "sg:address":"1068 Wiloma Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 2871",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UPtqUCsMDXwtYYpMOa4tH_45.827013_-108.458423@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c729e62abc59040c8590bd8c0744666e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":186409641
+        }
+    ],
+    "wof:id":186409641,
+    "wof:lastmodified":1449051480,
+    "wof:name":"B & L Painting",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [-108.458423,45.827013,-108.458423,45.827013],
+  "geometry": {"coordinates":[-108.458423,45.827013],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186390285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.552463,45.783963,-108.552463,45.783963",
+    "geom:latitude":45.783963,
+    "geom:longitude":-108.552463,
+    "iso:country":"US",
+    "sg:address":"1442 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 3902",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ocKrHRNbZd31A9Vv7wp5L_45.783963_-108.552463@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c86d044be462726d4603acf5da627d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186390285
+        }
+    ],
+    "wof:id":186390285,
+    "wof:lastmodified":1449053052,
+    "wof:name":"Scotts Engine & Repair",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-108.552463,45.783963,-108.552463,45.783963],
+  "geometry": {"coordinates":[-108.552463,45.783963],"type":"Point"}
+}

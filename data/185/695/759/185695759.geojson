@@ -1,0 +1,68 @@
+{
+  "id": 185695759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.016261,46.853407,-114.016261,46.853407",
+    "geom:latitude":46.853407,
+    "geom:longitude":-114.016261,
+    "iso:country":"US",
+    "sg:address":"1120 Kensington Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 9343",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "delivery",
+        "parcel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J1uzvopUGOev1f04ImNNh_46.853407_-114.016261@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b848c67987870f0a6fcc0ce8deb8e973",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185695759
+        }
+    ],
+    "wof:id":185695759,
+    "wof:lastmodified":1449007213,
+    "wof:name":"UPS",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "parcel"
+    ]
+},
+  "bbox": [-114.016261,46.853407,-114.016261,46.853407],
+  "geometry": {"coordinates":[-114.016261,46.853407],"type":"Point"}
+}

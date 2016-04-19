@@ -1,0 +1,66 @@
+{
+  "id": 185680551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.428404,45.80468,-108.428404,45.80468",
+    "geom:latitude":45.80468,
+    "geom:longitude":-108.428404,
+    "iso:country":"US",
+    "sg:address":"2098 Hickory Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 3988",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uP5MG5Xz34Qxhlt9CiyAe_45.804680_-108.428404@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d472d29b8901463a31fe2b394a233b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":185680551
+        }
+    ],
+    "wof:id":185680551,
+    "wof:lastmodified":1449007721,
+    "wof:name":"TECO",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-108.428404,45.80468,-108.428404,45.80468],
+  "geometry": {"coordinates":[-108.428404,45.80468],"type":"Point"}
+}

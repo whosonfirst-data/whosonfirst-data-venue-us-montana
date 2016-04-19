@@ -1,0 +1,66 @@
+{
+  "id": 185759337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.438592,45.827376,-108.438592,45.827376",
+    "geom:latitude":45.827376,
+    "geom:longitude":-108.438592,
+    "iso:country":"US",
+    "sg:address":"1843 Wicks Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 6316",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w85PEfsDa4A8dKCXvVc24_45.827376_-108.438592@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"196694ef631e884f5924a0c74c9e2075",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":185759337
+        }
+    ],
+    "wof:id":185759337,
+    "wof:lastmodified":1449008235,
+    "wof:name":"Clean Rite",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-108.438592,45.827376,-108.438592,45.827376],
+  "geometry": {"coordinates":[-108.438592,45.827376],"type":"Point"}
+}

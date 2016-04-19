@@ -1,0 +1,75 @@
+{
+  "id": 169730949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.027524,46.853281,-114.027524,46.853281",
+    "geom:latitude":46.853281,
+    "geom:longitude":-114.027524,
+    "iso:country":"US",
+    "sg:address":"1951 Kensington Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 3443",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "bus",
+        "pilot",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cgkLh4PNrOzFhnnFLJuff_46.853281_-114.027524@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10f71a8b8578e9b578d742aa7de869a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":169730949
+        }
+    ],
+    "wof:id":169730949,
+    "wof:lastmodified":1449035431,
+    "wof:name":"Simmons Lorali Pilot Car Svc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "pilot",
+        "car"
+    ]
+},
+  "bbox": [-114.027524,46.853281,-114.027524,46.853281],
+  "geometry": {"coordinates":[-114.027524,46.853281],"type":"Point"}
+}

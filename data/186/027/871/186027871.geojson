@@ -1,0 +1,68 @@
+{
+  "id": 186027871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.535398,45.769758,-108.535398,45.769758",
+    "geom:latitude":45.769758,
+    "geom:longitude":-108.535398,
+    "iso:country":"US",
+    "sg:address":"718 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4712",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gFhFjy80FiKHmEUpabBY8_45.769758_-108.535398@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2228259b1bf22e3539f63d5d89fbcff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186027871
+        }
+    ],
+    "wof:id":186027871,
+    "wof:lastmodified":1449050905,
+    "wof:name":"Mad Mac's Auto",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-108.535398,45.769758,-108.535398,45.769758],
+  "geometry": {"coordinates":[-108.535398,45.769758],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 186033355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.543381,45.770552,-108.543381,45.770552",
+    "geom:latitude":45.770552,
+    "geom:longitude":-108.543381,
+    "iso:country":"US",
+    "sg:address":"102 11th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 6418",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "armature",
+        "tool",
+        "electric",
+        "power",
+        "rewinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KJPovwCdFN838MTcX1SaU_45.770552_-108.543381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19b01f4e87f8d478d37fcb4df87bd650",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186033355
+        }
+    ],
+    "wof:id":186033355,
+    "wof:lastmodified":1449050955,
+    "wof:name":"Teds Electric Service",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armature",
+        "tool",
+        "electric",
+        "power",
+        "rewinding"
+    ]
+},
+  "bbox": [-108.543381,45.770552,-108.543381,45.770552],
+  "geometry": {"coordinates":[-108.543381,45.770552],"type":"Point"}
+}

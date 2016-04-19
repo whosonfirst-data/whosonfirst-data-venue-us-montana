@@ -1,0 +1,70 @@
+{
+  "id": 185836057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.555547,45.783975,-108.555547,45.783975",
+    "geom:latitude":45.783975,
+    "geom:longitude":-108.555547,
+    "iso:country":"US",
+    "sg:address":"1532 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7346",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tXAVcfn2FcUk8XW1J68Zm_45.783975_-108.555547@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d8c74d44b9ed1298ecd842e74d05930",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185836057
+        }
+    ],
+    "wof:id":185836057,
+    "wof:lastmodified":1449007664,
+    "wof:name":"Ted Godwins Leasing Inc",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [-108.555547,45.783975,-108.555547,45.783975],
+  "geometry": {"coordinates":[-108.555547,45.783975],"type":"Point"}
+}

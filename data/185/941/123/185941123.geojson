@@ -1,0 +1,68 @@
+{
+  "id": 185941123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.499587,45.755371,-108.499587,45.755371",
+    "geom:latitude":45.755371,
+    "geom:longitude":-108.499587,
+    "iso:country":"US",
+    "sg:address":"3321 King Ave E",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 6812",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grading",
+        "contractor"
+    ],
+    "sg:website":"www.co.yellowstone.mt.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mUuvjz4h56nFz17unpuSG_45.755371_-108.499587@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97cf738469b59935499a413779937c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":185941123
+        }
+    ],
+    "wof:id":185941123,
+    "wof:lastmodified":1449007570,
+    "wof:name":"Road & Bridge Dept Shops",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [-108.499587,45.755371,-108.499587,45.755371],
+  "geometry": {"coordinates":[-108.499587,45.755371],"type":"Point"}
+}

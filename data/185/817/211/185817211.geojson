@@ -1,0 +1,72 @@
+{
+  "id": 185817211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.046809,45.659744,-111.046809,45.659744",
+    "geom:latitude":45.659744,
+    "geom:longitude":-111.046809,
+    "iso:country":"US",
+    "sg:address":"2311 S 7th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 585 6600",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "development",
+        "programming",
+        "maintenance",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40pG3UpOqt8eneVPdVEWxm_45.659744_-111.046809@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"23cd535b715ca6bf52dfcb4ddbf56f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891717,
+            "region_id":85688617,
+            "venue_id":185817211
+        }
+    ],
+    "wof:id":185817211,
+    "wof:lastmodified":1449007904,
+    "wof:name":"EDS",
+    "wof:parent_id":85891717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "programming",
+        "maintenance",
+        "software"
+    ]
+},
+  "bbox": [-111.046809,45.659744,-111.046809,45.659744],
+  "geometry": {"coordinates":[-111.046809,45.659744],"type":"Point"}
+}

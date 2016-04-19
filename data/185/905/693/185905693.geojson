@@ -1,0 +1,66 @@
+{
+  "id": 185905693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.606402,45.794889,-108.606402,45.794889",
+    "geom:latitude":45.794889,
+    "geom:longitude":-108.606402,
+    "iso:country":"US",
+    "sg:address":"3610 Poly Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 3320",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I3Ya3A3frumqajsVFoRV9_45.794889_-108.606402@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"958534e597b09f9a1c4549a1e8cd785a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185905693
+        }
+    ],
+    "wof:id":185905693,
+    "wof:lastmodified":1449007252,
+    "wof:name":"King Koin Launderette",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [-108.606402,45.794889,-108.606402,45.794889],
+  "geometry": {"coordinates":[-108.606402,45.794889],"type":"Point"}
+}

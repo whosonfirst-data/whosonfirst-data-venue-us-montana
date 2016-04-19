@@ -1,0 +1,68 @@
+{
+  "id": 185905495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.558932,45.789821,-108.558932,45.789821",
+    "geom:latitude":45.789821,
+    "geom:longitude":-108.558932,
+    "iso:country":"US",
+    "sg:address":"1921 17th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 2971",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lawn",
+        "garden"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YoL0UUvDkQLFmncfctn9W_45.789821_-108.558932@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7820764ed805318ead9fe08900b2a9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185905495
+        }
+    ],
+    "wof:id":185905495,
+    "wof:lastmodified":1449007252,
+    "wof:name":"McD Services",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "garden"
+    ]
+},
+  "bbox": [-108.558932,45.789821,-108.558932,45.789821],
+  "geometry": {"coordinates":[-108.558932,45.789821],"type":"Point"}
+}

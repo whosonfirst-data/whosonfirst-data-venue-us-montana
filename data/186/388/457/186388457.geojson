@@ -1,0 +1,68 @@
+{
+  "id": 186388457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.229919,48.012998,-114.229919,48.012998",
+    "geom:latitude":48.012998,
+    "geom:longitude":-114.229919,
+    "iso:country":"US",
+    "sg:address":"125 Blacktail Rd",
+    "sg:city":"Lakeside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 857 2178",
+    "sg:postcode":"59922",
+    "sg:province":"MT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BSPBUOV0gnKmrOq97vHck_48.012998_-114.229919@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4c25f9807356a510dc60384e572ff752",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186388457
+        }
+    ],
+    "wof:id":186388457,
+    "wof:lastmodified":1449050375,
+    "wof:name":"Lakeside Car Wash Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-114.229919,48.012998,-114.229919,48.012998],
+  "geometry": {"coordinates":[-114.229919,48.012998],"type":"Point"}
+}

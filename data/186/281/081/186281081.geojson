@@ -1,0 +1,66 @@
+{
+  "id": 186281081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.47102,45.824561,-108.47102,45.824561",
+    "geom:latitude":45.824561,
+    "geom:longitude":-108.47102,
+    "iso:country":"US",
+    "sg:address":"530 Sioux Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 7300",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UhJgnwPEiTL7ZNGtBm9SL_45.824561_-108.471020@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d90cb19913daf787bdf059bb41402cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186281081
+        }
+    ],
+    "wof:id":186281081,
+    "wof:lastmodified":1449052599,
+    "wof:name":"Gary's Field Svc",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-108.47102,45.824561,-108.47102,45.824561],
+  "geometry": {"coordinates":[-108.47102,45.824561],"type":"Point"}
+}

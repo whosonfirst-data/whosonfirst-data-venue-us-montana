@@ -1,0 +1,68 @@
+{
+  "id": 186137269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.547388,45.775206,-108.547388,45.775206",
+    "geom:latitude":45.775206,
+    "geom:longitude":-108.547388,
+    "iso:country":"US",
+    "sg:address":"1203 Terry Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 698 6502",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PfTbMeRGYlPMMTavD4Y48_45.775206_-108.547388@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd3669db67686163194cf263899151d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186137269
+        }
+    ],
+    "wof:id":186137269,
+    "wof:lastmodified":1449052647,
+    "wof:name":"Metro Electric",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.547388,45.775206,-108.547388,45.775206],
+  "geometry": {"coordinates":[-108.547388,45.775206],"type":"Point"}
+}

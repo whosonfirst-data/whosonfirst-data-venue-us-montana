@@ -1,0 +1,76 @@
+{
+  "id": 169794295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.587813,45.731775,-108.587813,45.731775",
+    "geom:latitude":45.731775,
+    "geom:longitude":-108.587813,
+    "iso:country":"US",
+    "sg:address":"6830 Commercial Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 8585",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "rental"
+    ],
+    "sg:website":"www.powderriverbuslines.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_647C5HJBZLIy2qhRjDB1z3_45.731775_-108.587813@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bb5ff6f7f30f2c55a135c9f688bac2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":169794295
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":169794295
+        }
+    ],
+    "wof:id":169794295,
+    "wof:lastmodified":1449034267,
+    "wof:name":"Powder River Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [-108.587813,45.731775,-108.587813,45.731775],
+  "geometry": {"coordinates":[-108.587813,45.731775],"type":"Point"}
+}

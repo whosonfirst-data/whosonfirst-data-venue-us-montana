@@ -1,0 +1,68 @@
+{
+  "id": 186000281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.538512,46.014385,-112.538512,46.014385",
+    "geom:latitude":46.014385,
+    "geom:longitude":-112.538512,
+    "iso:country":"US",
+    "sg:address":"155 W Granite St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 497 6205",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LUApWbUvKI6HFgvYWJZ0V_46.014385_-112.538512@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc57ca926f67275156189c6ced8d798b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186000281
+        }
+    ],
+    "wof:id":186000281,
+    "wof:lastmodified":1449050842,
+    "wof:name":"Butte City Auditor",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [-112.538512,46.014385,-112.538512,46.014385],
+  "geometry": {"coordinates":[-112.538512,46.014385],"type":"Point"}
+}

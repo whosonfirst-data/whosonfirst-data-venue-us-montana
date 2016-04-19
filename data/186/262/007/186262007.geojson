@@ -1,0 +1,68 @@
+{
+  "id": 186262007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.562311,45.661839,-110.562311,45.661839",
+    "geom:latitude":45.661839,
+    "geom:longitude":-110.562311,
+    "iso:country":"US",
+    "sg:address":"204 W Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 9720",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GLzF5CXomodAMP2yRctgM_45.661839_-110.562311@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d257df9548344b10cb9c06272f415202",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":186262007
+        }
+    ],
+    "wof:id":186262007,
+    "wof:lastmodified":1449052028,
+    "wof:name":"T JS Gas N Convenience",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-110.562311,45.661839,-110.562311,45.661839],
+  "geometry": {"coordinates":[-110.562311,45.661839],"type":"Point"}
+}

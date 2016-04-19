@@ -1,0 +1,71 @@
+{
+  "id": 186244595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.546863,45.723699,-108.546863,45.723699",
+    "geom:latitude":45.723699,
+    "geom:longitude":-108.546863,
+    "iso:country":"US",
+    "sg:address":"5055 Jellison Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5656",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64d9XnbJ4IJDGiYoh4WDAB_45.723699_-108.546863@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9745f93d2eacd56aac4fae0ee39d1891",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":186244595
+        }
+    ],
+    "wof:id":186244595,
+    "wof:lastmodified":1449051437,
+    "wof:name":"Video Library Corporate Office",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-108.546863,45.723699,-108.546863,45.723699],
+  "geometry": {"coordinates":[-108.546863,45.723699],"type":"Point"}
+}

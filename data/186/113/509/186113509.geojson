@@ -1,0 +1,75 @@
+{
+  "id": 186113509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576075,45.753436,-108.576075,45.753436",
+    "geom:latitude":45.753436,
+    "geom:longitude":-108.576075,
+    "iso:country":"US",
+    "sg:address":"1001 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 4373",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48Gp6BqtBZyqN6A0TuAux2_45.753436_-108.576075@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d82b8623c836d604b99533ad31d91b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186113509
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186113509
+        }
+    ],
+    "wof:id":186113509,
+    "wof:lastmodified":1449052800,
+    "wof:name":"Premier Building & Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-108.576075,45.753436,-108.576075,45.753436],
+  "geometry": {"coordinates":[-108.576075,45.753436],"type":"Point"}
+}

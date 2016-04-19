@@ -1,0 +1,68 @@
+{
+  "id": 185813135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.014755,46.848914,-114.014755,46.848914",
+    "geom:latitude":46.848914,
+    "geom:longitude":-114.014755,
+    "iso:country":"US",
+    "sg:address":"1004 South Ave W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 6261",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zyTcF4SdHuYU0zimoHfTh_46.848914_-114.014755@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7955f1287e0dbe360f98e661e0c21d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185813135
+        }
+    ],
+    "wof:id":185813135,
+    "wof:lastmodified":1449007021,
+    "wof:name":"Village Cleaners",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [-114.014755,46.848914,-114.014755,46.848914],
+  "geometry": {"coordinates":[-114.014755,46.848914],"type":"Point"}
+}

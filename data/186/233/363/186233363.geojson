@@ -1,0 +1,67 @@
+{
+  "id": 186233363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.256874,45.636863,-109.256874,45.636863",
+    "geom:latitude":45.636863,
+    "geom:longitude":-109.256874,
+    "iso:country":"US",
+    "sg:address":"310 Clough Ave S",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 322 1180",
+    "sg:postcode":"59019",
+    "sg:province":"MT",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972899,
+        102085143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i80ZwWD3TGeYdCuGR3ysf_45.636863_-109.256874@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca25ce22bba4d4c8803a03bac4a62365",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085143,
+            "locality_id":85972899,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186233363
+        }
+    ],
+    "wof:id":186233363,
+    "wof:lastmodified":1449053069,
+    "wof:name":"Columbus Glass Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [-109.256874,45.636863,-109.256874,45.636863],
+  "geometry": {"coordinates":[-109.256874,45.636863],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 186398495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.532604,45.996717,-112.532604,45.996717",
+    "geom:latitude":45.996717,
+    "geom:longitude":-112.532604,
+    "iso:country":"US",
+    "sg:address":"1333 Kaw Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 2211",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carpentry",
+        "door",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nIZEHc0RnsVM78mGwRDSt_45.996717_-112.532604@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b97462ba48440b3d73a532dc4f81b17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":186398495
+        }
+    ],
+    "wof:id":186398495,
+    "wof:lastmodified":1449050461,
+    "wof:name":"Superior Door LLC",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "door",
+        "contractor"
+    ]
+},
+  "bbox": [-112.532604,45.996717,-112.532604,45.996717],
+  "geometry": {"coordinates":[-112.532604,45.996717],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185898727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.506152,45.784322,-108.506152,45.784322",
+    "geom:latitude":45.784322,
+    "geom:longitude":-108.506152,
+    "iso:country":"US",
+    "sg:address":"210 N 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 8488",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fpg0x5Dvx27DT9b0zHxvw_45.784322_-108.506152@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7bb231a8f2d3d99a2c8cd9bd55bdefd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":185898727
+        }
+    ],
+    "wof:id":185898727,
+    "wof:lastmodified":1449006568,
+    "wof:name":"City Court-Clerk Of Court",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [-108.506152,45.784322,-108.506152,45.784322],
+  "geometry": {"coordinates":[-108.506152,45.784322],"type":"Point"}
+}

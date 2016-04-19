@@ -1,0 +1,66 @@
+{
+  "id": 185849735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.498871,45.986353,-112.498871,45.986353",
+    "geom:latitude":45.986353,
+    "geom:longitude":-112.498871,
+    "iso:country":"US",
+    "sg:address":"2630 Amherst Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 6134",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DspjadT7M2PntvkjpJ8XO_45.986353_-112.498871@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ce0aea60b17d0d0b218675b15672624",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185849735
+        }
+    ],
+    "wof:id":185849735,
+    "wof:lastmodified":1449006917,
+    "wof:name":"Cassidy Maintance",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-112.498871,45.986353,-112.498871,45.986353],
+  "geometry": {"coordinates":[-112.498871,45.986353],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186002143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.393304,45.821612,-108.393304,45.821612",
+    "geom:latitude":45.821612,
+    "geom:longitude":-108.393304,
+    "iso:country":"US",
+    "sg:address":"3353 Old Hardin Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 5137",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23JaD1LIqPufRrPggEBKOV_45.821612_-108.393304@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec103e991893b53f78cfa541ad57f278",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186002143
+        }
+    ],
+    "wof:id":186002143,
+    "wof:lastmodified":1449052525,
+    "wof:name":"Canadian Homes",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "construction"
+    ]
+},
+  "bbox": [-108.393304,45.821612,-108.393304,45.821612],
+  "geometry": {"coordinates":[-108.393304,45.821612],"type":"Point"}
+}

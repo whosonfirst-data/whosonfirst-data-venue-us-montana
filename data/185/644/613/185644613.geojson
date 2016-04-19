@@ -1,0 +1,76 @@
+{
+  "id": 185644613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.615082,45.760597,-108.615082,45.760597",
+    "geom:latitude":45.760597,
+    "geom:longitude":-108.615082,
+    "iso:country":"US",
+    "sg:address":"3900 Victory Cir",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7336",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VlmAshkvJCab24Q24FaA3_45.760597_-108.615082@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85c7626cd64063d293bc8706752562a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185644613
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185644613
+        }
+    ],
+    "wof:id":185644613,
+    "wof:lastmodified":1449007523,
+    "wof:name":"Olympic Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-108.615082,45.760597,-108.615082,45.760597],
+  "geometry": {"coordinates":[-108.615082,45.760597],"type":"Point"}
+}

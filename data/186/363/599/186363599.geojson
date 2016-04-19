@@ -1,0 +1,66 @@
+{
+  "id": 186363599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.586571,45.783934,-108.586571,45.783934",
+    "geom:latitude":45.783934,
+    "geom:longitude":-108.586571,
+    "iso:country":"US",
+    "sg:address":"2750 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 237 4040",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53ukPNwuAUDeTSfowQd8cF_45.783934_-108.586571@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5835a38b2e915adcaa1635f1958ae10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186363599
+        }
+    ],
+    "wof:id":186363599,
+    "wof:lastmodified":1449052690,
+    "wof:name":"West Grand Family Medicine",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-108.586571,45.783934,-108.586571,45.783934],
+  "geometry": {"coordinates":[-108.586571,45.783934],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185603473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.031844,46.854173,-114.031844,46.854173",
+    "geom:latitude":46.854173,
+    "geom:longitude":-114.031844,
+    "iso:country":"US",
+    "sg:address":"2115 Strand Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 7472",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XQdSY6XDAo80JiVeLR95p_46.854173_-114.031844@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e29a9834f0d2459e291d736cd93d7930",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185603473
+        }
+    ],
+    "wof:id":185603473,
+    "wof:lastmodified":1449007984,
+    "wof:name":"Adams Auto Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [-114.031844,46.854173,-114.031844,46.854173],
+  "geometry": {"coordinates":[-114.031844,46.854173],"type":"Point"}
+}

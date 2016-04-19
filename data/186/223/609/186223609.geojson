@@ -1,0 +1,68 @@
+{
+  "id": 186223609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.017393,46.857838,-114.017393,46.857838",
+    "geom:latitude":46.857838,
+    "geom:longitude":-114.017393,
+    "iso:country":"US",
+    "sg:address":"1134 Longstaff St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 2765",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e2Jqul91NCqewiqHEWUE6_46.857838_-114.017393@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f4ea3298b13efe84b42836089d35307",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186223609
+        }
+    ],
+    "wof:id":186223609,
+    "wof:lastmodified":1449050438,
+    "wof:name":"Appliance Service Co",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "appliance"
+    ]
+},
+  "bbox": [-114.017393,46.857838,-114.017393,46.857838],
+  "geometry": {"coordinates":[-114.017393,46.857838],"type":"Point"}
+}

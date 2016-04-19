@@ -1,0 +1,68 @@
+{
+  "id": 169769229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.041173,45.679202,-111.041173,45.679202",
+    "geom:latitude":45.679202,
+    "geom:longitude":-111.041173,
+    "iso:country":"US",
+    "sg:address":"220 W Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 4581",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "catholic",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NNvsPE30Pfl9ylYFvUZla_45.679202_-111.041173@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3c65c99f52c1d5563de01266caafdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":169769229
+        }
+    ],
+    "wof:id":169769229,
+    "wof:lastmodified":1449033786,
+    "wof:name":"Holy Rosary Catholic Church",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catholic",
+        "church"
+    ]
+},
+  "bbox": [-111.041173,45.679202,-111.041173,45.679202],
+  "geometry": {"coordinates":[-111.041173,45.679202],"type":"Point"}
+}

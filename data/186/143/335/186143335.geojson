@@ -1,0 +1,74 @@
+{
+  "id": 186143335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.035009,46.848698,-114.035009,46.848698",
+    "geom:latitude":46.848698,
+    "geom:longitude":-114.035009,
+    "iso:country":"US",
+    "sg:address":"2341 South Ave W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 9091",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:brand_id":420575395,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69XgAXOFqbK0suq5CwTmdA_46.848698_-114.035009@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44e4415d067b87f7eb17b79f46235574",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186143335
+        }
+    ],
+    "wof:id":186143335,
+    "wof:lastmodified":1457209566,
+    "wof:name":"Glass Doctor",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -114.035009,
+    46.848698,
+    -114.035009,
+    46.848698
+],
+  "geometry": {"coordinates":[-114.035009,46.848698],"type":"Point"}
+}

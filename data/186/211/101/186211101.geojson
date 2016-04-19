@@ -1,0 +1,65 @@
+{
+  "id": 186211101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.541904,46.445817,-108.541904,46.445817",
+    "geom:latitude":46.445817,
+    "geom:longitude":-108.541904,
+    "iso:country":"US",
+    "sg:address":"501 Main St",
+    "sg:city":"Ashland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 784 2349",
+    "sg:postcode":"59072",
+    "sg:province":"MT",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972807,
+        102085117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66DD0HhlwK9ueT0BvlOfqv_46.445817_-108.541904@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"166710d498ec5ea5fd6194b1fa5e085a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085117,
+            "locality_id":85972807,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186211101
+        }
+    ],
+    "wof:id":186211101,
+    "wof:lastmodified":1449051052,
+    "wof:name":"Ashland Community Health Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-108.541904,46.445817,-108.541904,46.445817],
+  "geometry": {"coordinates":[-108.541904,46.445817],"type":"Point"}
+}

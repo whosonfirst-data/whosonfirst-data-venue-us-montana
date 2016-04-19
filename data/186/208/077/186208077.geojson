@@ -1,0 +1,67 @@
+{
+  "id": 186208077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.946192,46.871493,-113.946192,46.871493",
+    "geom:latitude":46.871493,
+    "geom:longitude":-113.946192,
+    "iso:country":"US",
+    "sg:address":"3655 State Hwy 200",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 2226",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085103,
+        85891729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Dk03TP48kKm9Q42VArwE_46.871493_-113.946192@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c24ff53ce1d5548f2d9d1a5dd7864151",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":-1,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":186208077
+        }
+    ],
+    "wof:id":186208077,
+    "wof:lastmodified":1449050562,
+    "wof:name":"Mc Vay's Sales",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-113.946192,46.871493,-113.946192,46.871493],
+  "geometry": {"coordinates":[-113.946192,46.871493],"type":"Point"}
+}

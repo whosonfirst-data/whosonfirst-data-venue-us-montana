@@ -1,0 +1,66 @@
+{
+  "id": 186387979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.506045,45.78423,-108.506045,45.78423",
+    "geom:latitude":45.78423,
+    "geom:longitude":-108.506045,
+    "iso:country":"US",
+    "sg:address":"220 N 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 8416",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GIVsbDYT9cOP3clNUQBww_45.784230_-108.506045@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d85d7cf933a70a736f26229e07307db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":186387979
+        }
+    ],
+    "wof:id":186387979,
+    "wof:lastmodified":1449052656,
+    "wof:name":"Police Dept-Records Section",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-108.506045,45.78423,-108.506045,45.78423],
+  "geometry": {"coordinates":[-108.506045,45.78423],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186123695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.29446,45.262524,-111.29446,45.262524",
+    "geom:latitude":45.262524,
+    "geom:longitude":-111.29446,
+    "iso:country":"US",
+    "sg:address":"11 Skywood Rd",
+    "sg:city":"Big Sky",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 995 3045",
+    "sg:postcode":"59716",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.hungrymoose.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972955,
+        102085133,
+        85891719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oReJEOVuCdQ5viOSdNiwS_45.262524_-111.294460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"873912ec01d325bc8eed507293e55562",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972955,
+            "neighbourhood_id":85891719,
+            "region_id":85688617,
+            "venue_id":186123695
+        }
+    ],
+    "wof:id":186123695,
+    "wof:lastmodified":1449051181,
+    "wof:name":"Hungry Moose Market",
+    "wof:parent_id":85891719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-111.29446,45.262524,-111.29446,45.262524],
+  "geometry": {"coordinates":[-111.29446,45.262524],"type":"Point"}
+}

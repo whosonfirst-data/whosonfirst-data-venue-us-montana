@@ -1,0 +1,67 @@
+{
+  "id": 186043885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.01491,46.599874,-112.01491,46.599874",
+    "geom:latitude":46.599874,
+    "geom:longitude":-112.01491,
+    "iso:country":"US",
+    "sg:address":"1500 Railroad Ave",
+    "sg:city":"Helena",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 442 1610",
+    "sg:postcode":"59601",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972711,
+        102085151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MNGrWJEkvPIW5GM394IgN_46.599874_-112.014910@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e9dd224c395753496e87f38baac33b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085151,
+            "locality_id":85972711,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186043885
+        }
+    ],
+    "wof:id":186043885,
+    "wof:lastmodified":1449052351,
+    "wof:name":"Montana Rail Link Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [-112.01491,46.599874,-112.01491,46.599874],
+  "geometry": {"coordinates":[-112.01491,46.599874],"type":"Point"}
+}

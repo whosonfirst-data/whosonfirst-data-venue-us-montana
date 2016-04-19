@@ -1,0 +1,69 @@
+{
+  "id": 185780689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.883316,47.458524,-114.883316,47.458524",
+    "geom:latitude":47.458524,
+    "geom:longitude":-114.883316,
+    "iso:country":"US",
+    "sg:address":"109 Lynch St",
+    "sg:city":"Plains",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 826 3622",
+    "sg:postcode":"59859",
+    "sg:province":"MT",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972645,
+        102085063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YXWQM2tWE0cIZaZR533Ja_47.458524_-114.883316@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a40900c03a2cdb42a8c9cdb44e745f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085063,
+            "locality_id":85972645,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185780689
+        }
+    ],
+    "wof:id":185780689,
+    "wof:lastmodified":1449007812,
+    "wof:name":"Steve's Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [-114.883316,47.458524,-114.883316,47.458524],
+  "geometry": {"coordinates":[-114.883316,47.458524],"type":"Point"}
+}

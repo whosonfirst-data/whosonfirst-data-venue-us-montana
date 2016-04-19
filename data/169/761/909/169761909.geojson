@@ -1,0 +1,73 @@
+{
+  "id": 169761909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.947572,48.167619,-111.947572,48.167619",
+    "geom:latitude":48.167619,
+    "geom:longitude":-111.947572,
+    "iso:country":"US",
+    "sg:address":"14 5th Ave SE",
+    "sg:city":"Conrad",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 278 5863",
+    "sg:postcode":"59425",
+    "sg:province":"MT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972687,
+        102083907
+    ],
+    "wof:brand_id":420573749,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e1vBzdnEjn8NZmFleEyog_48.167619_-111.947572@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"948cf62db629fbd48ad30a9bcf79dcb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083907,
+            "locality_id":85972687,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169761909
+        }
+    ],
+    "wof:id":169761909,
+    "wof:lastmodified":1457207042,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -111.947572,
+    48.167619,
+    -111.947572,
+    48.167619
+],
+  "geometry": {"coordinates":[-111.94757199999999,48.167619],"type":"Point"}
+}

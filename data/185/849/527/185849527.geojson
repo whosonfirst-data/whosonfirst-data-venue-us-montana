@@ -1,0 +1,68 @@
+{
+  "id": 185849527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.324628,45.9058,-108.324628,45.9058",
+    "geom:latitude":45.9058,
+    "geom:longitude":-108.324628,
+    "iso:country":"US",
+    "sg:address":"5849 Frey Rd",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 425 5184",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QX0FydagogfRRXpovkUQV_45.905800_-108.324628@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d98bfcf30489ee1488a1001b0cfd60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":185849527
+        }
+    ],
+    "wof:id":185849527,
+    "wof:lastmodified":1449006914,
+    "wof:name":"Rocky Mountain Elc Billings",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-108.324628,45.9058,-108.324628,45.9058],
+  "geometry": {"coordinates":[-108.324628,45.9058],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 169784617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.464342,45.840935,-108.464342,45.840935",
+    "geom:latitude":45.840935,
+    "geom:longitude":-108.464342,
+    "iso:country":"US",
+    "sg:address":"938 Crist Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 0213",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "mfg",
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ruP6JZptbeJZbh32SiQyF_45.840935_-108.464342@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1dd9226d5a07eb60d574d4f0479088e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":169784617
+        }
+    ],
+    "wof:id":169784617,
+    "wof:lastmodified":1449034891,
+    "wof:name":"Billings Satellite",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mfg",
+        "communication"
+    ]
+},
+  "bbox": [-108.464342,45.840935,-108.464342,45.840935],
+  "geometry": {"coordinates":[-108.464342,45.840935],"type":"Point"}
+}

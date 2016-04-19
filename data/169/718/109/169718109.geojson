@@ -1,0 +1,66 @@
+{
+  "id": 169718109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.29881,48.177679,-114.29881,48.177679",
+    "geom:latitude":48.177679,
+    "geom:longitude":-114.29881,
+    "iso:country":"US",
+    "sg:address":"160 Kelly Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 758 5728",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ihi7u0RPk1zypWXeqHCEZ_48.177679_-114.298810@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac133d4abde6199ca070862a3a62e57b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":169718109
+        }
+    ],
+    "wof:id":169718109,
+    "wof:lastmodified":1449033398,
+    "wof:name":"Eagle Transit",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [-114.29881,48.177679,-114.29881,48.177679],
+  "geometry": {"coordinates":[-114.29881,48.177679],"type":"Point"}
+}

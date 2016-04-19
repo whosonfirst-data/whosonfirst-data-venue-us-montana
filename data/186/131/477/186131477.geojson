@@ -1,0 +1,68 @@
+{
+  "id": 186131477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.393284,48.283834,-114.393284,48.283834",
+    "geom:latitude":48.283834,
+    "geom:longitude":-114.393284,
+    "iso:country":"US",
+    "sg:address":"1493 Church Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 3025",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DnKwkKb8KXJks7xhtXZup_48.283834_-114.393284@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07e555a96415666235f9d3763512ca8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186131477
+        }
+    ],
+    "wof:id":186131477,
+    "wof:lastmodified":1449051188,
+    "wof:name":"Sam Collett Trucking",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-114.393284,48.283834,-114.393284,48.283834],
+  "geometry": {"coordinates":[-114.393284,48.283834],"type":"Point"}
+}

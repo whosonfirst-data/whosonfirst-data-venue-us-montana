@@ -1,0 +1,66 @@
+{
+  "id": 169701209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.416859,48.251137,-114.416859,48.251137",
+    "geom:latitude":48.251137,
+    "geom:longitude":-114.416859,
+    "iso:country":"US",
+    "sg:address":"105 Coclet Ln",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 9640",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jcUGzRC9xCapkxSq4IVXU_48.251137_-114.416859@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53ca1c2bc0e467019a172bdd9d2bc69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":169701209
+        }
+    ],
+    "wof:id":169701209,
+    "wof:lastmodified":1449035271,
+    "wof:name":"Mikes Body Shop",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [-114.416859,48.251137,-114.416859,48.251137],
+  "geometry": {"coordinates":[-114.416859,48.251137],"type":"Point"}
+}

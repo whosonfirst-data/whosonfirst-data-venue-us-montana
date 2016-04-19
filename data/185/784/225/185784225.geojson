@@ -1,0 +1,68 @@
+{
+  "id": 185784225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.487379,45.836561,-108.487379,45.836561",
+    "geom:latitude":45.836561,
+    "geom:longitude":-108.487379,
+    "iso:country":"US",
+    "sg:address":"2113 Interlachen Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 0034",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54EhRyZPkxX88LhBfk6qRB_45.836561_-108.487379@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"828dacf441cb8bf6ff3b738e025773fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":185784225
+        }
+    ],
+    "wof:id":185784225,
+    "wof:lastmodified":1449007666,
+    "wof:name":"Concrete Construction Co",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-108.487379,45.836561,-108.487379,45.836561],
+  "geometry": {"coordinates":[-108.487379,45.836561],"type":"Point"}
+}

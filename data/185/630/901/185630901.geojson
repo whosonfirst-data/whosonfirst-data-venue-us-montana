@@ -1,0 +1,68 @@
+{
+  "id": 185630901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.541615,45.748641,-108.541615,45.748641",
+    "geom:latitude":45.748641,
+    "geom:longitude":-108.541615,
+    "iso:country":"US",
+    "sg:address":"1111 Maggie St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 0627",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "sg:website":"www.techtimeinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b4TyrVT8LyhCFjxn0LZgx_45.748641_-108.541615@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2eadd09c4887291935a33aab7a7c456f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":185630901
+        }
+    ],
+    "wof:id":185630901,
+    "wof:lastmodified":1449007162,
+    "wof:name":"Tech Time",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [-108.541615,45.748641,-108.541615,45.748641],
+  "geometry": {"coordinates":[-108.541615,45.748641],"type":"Point"}
+}

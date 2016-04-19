@@ -1,0 +1,68 @@
+{
+  "id": 185601037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.510966,45.928505,-112.510966,45.928505",
+    "geom:latitude":45.928505,
+    "geom:longitude":-112.510966,
+    "iso:country":"US",
+    "sg:address":"105 N Parkmont",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 1747",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LAAyMVzwdL6F2QRfOYu8l_45.928505_-112.510966@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fcddd598e123f65c68538f7d7d9510b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":185601037
+        }
+    ],
+    "wof:id":185601037,
+    "wof:lastmodified":1449007336,
+    "wof:name":"Jims Custom Gun Works",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [-112.510966,45.928505,-112.510966,45.928505],
+  "geometry": {"coordinates":[-112.510966,45.928505],"type":"Point"}
+}

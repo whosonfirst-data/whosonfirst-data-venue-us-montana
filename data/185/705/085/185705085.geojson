@@ -1,0 +1,68 @@
+{
+  "id": 185705085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.338571,48.222648,-114.338571,48.222648",
+    "geom:latitude":48.222648,
+    "geom:longitude":-114.338571,
+    "iso:country":"US",
+    "sg:address":"122 N Haven Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 7842",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uSCG27MpUyKkvaetTc1W7_48.222648_-114.338571@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f8b8963f972adb2112aa0895671d26b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185705085
+        }
+    ],
+    "wof:id":185705085,
+    "wof:lastmodified":1449008219,
+    "wof:name":"Palmiter Painting",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [-114.338571,48.222648,-114.338571,48.222648],
+  "geometry": {"coordinates":[-114.338571,48.222648],"type":"Point"}
+}

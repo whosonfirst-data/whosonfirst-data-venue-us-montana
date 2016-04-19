@@ -1,0 +1,75 @@
+{
+  "id": 186089467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.058843,45.677156,-111.058843,45.677156",
+    "geom:latitude":45.677156,
+    "geom:longitude":-111.058843,
+    "iso:country":"US",
+    "sg:address":"1601 W Olive St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 995 4090",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133
+    ],
+    "wof:brand_id":420574309,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oQW47WUbpudoaka8dEBo6_45.677156_-111.058843@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70a94502319c7d806d2bedee368d35ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186089467
+        }
+    ],
+    "wof:id":186089467,
+    "wof:lastmodified":1457208767,
+    "wof:name":"Exxon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.058843,
+    45.677156,
+    -111.058843,
+    45.677156
+],
+  "geometry": {"coordinates":[-111.058843,45.677156],"type":"Point"}
+}

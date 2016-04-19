@@ -1,0 +1,70 @@
+{
+  "id": 169698485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.537394,46.013498,-112.537394,46.013498",
+    "geom:latitude":46.013498,
+    "geom:longitude":-112.537394,
+    "iso:country":"US",
+    "sg:address":"68 W Broadway St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 0417",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YQMp2ZdZY1xpJj2m28vyp_46.013498_-112.537394@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ca3abc45cc712085876679f0ae18e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":169698485
+        }
+    ],
+    "wof:id":169698485,
+    "wof:lastmodified":1449035756,
+    "wof:name":"Comm Counseling & Correctional",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [-112.537394,46.013498,-112.537394,46.013498],
+  "geometry": {"coordinates":[-112.537394,46.013498],"type":"Point"}
+}

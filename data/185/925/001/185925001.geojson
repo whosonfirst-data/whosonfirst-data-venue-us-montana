@@ -1,0 +1,70 @@
+{
+  "id": 185925001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.539243,46.003482,-112.539243,46.003482",
+    "geom:latitude":46.003482,
+    "geom:longitude":-112.539243,
+    "iso:country":"US",
+    "sg:address":"829 S Montana St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 2337",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yKANlqmgv1slxyXYhbelq_46.003482_-112.539243@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9fa120037c417813a33d9ab14b1681de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185925001
+        }
+    ],
+    "wof:id":185925001,
+    "wof:lastmodified":1449006605,
+    "wof:name":"Northern Rockies Outdoor Ctr",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [-112.539243,46.003482,-112.539243,46.003482],
+  "geometry": {"coordinates":[-112.539243,46.003482],"type":"Point"}
+}

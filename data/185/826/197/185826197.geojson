@@ -1,0 +1,66 @@
+{
+  "id": 185826197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.506544,45.780763,-108.506544,45.780763",
+    "geom:latitude":45.780763,
+    "geom:longitude":-108.506544,
+    "iso:country":"US",
+    "sg:address":"102 N 29th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 0007",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c5pyRMQnbQCSVTZbMYJMI_45.780763_-108.506544@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34e4e4577466b3fbb0bb1c47d9468e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":185826197
+        }
+    ],
+    "wof:id":185826197,
+    "wof:lastmodified":1449007762,
+    "wof:name":"Montana Builders",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-108.506544,45.780763,-108.506544,45.780763],
+  "geometry": {"coordinates":[-108.506544,45.780763],"type":"Point"}
+}

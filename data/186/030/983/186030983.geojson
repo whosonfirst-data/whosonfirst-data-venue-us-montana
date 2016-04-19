@@ -1,0 +1,70 @@
+{
+  "id": 186030983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.735234,46.399761,-112.735234,46.399761",
+    "geom:latitude":46.399761,
+    "geom:longitude":-112.735234,
+    "iso:country":"US",
+    "sg:address":"320 Main St",
+    "sg:city":"Deer Lodge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 846 2820",
+    "sg:postcode":"59722",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972845,
+        102085093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rdhlZoQU7707RfrNAu0Cm_46.399761_-112.735234@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29ded611f60949038685d30b2433f07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085093,
+            "locality_id":85972845,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186030983
+        }
+    ],
+    "wof:id":186030983,
+    "wof:lastmodified":1449051370,
+    "wof:name":"Paul's Shack Bar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [-112.735234,46.399761,-112.735234,46.399761],
+  "geometry": {"coordinates":[-112.735234,46.399761],"type":"Point"}
+}

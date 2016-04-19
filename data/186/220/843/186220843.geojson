@@ -1,0 +1,73 @@
+{
+  "id": 186220843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.858998,45.464642,-108.858998,45.464642",
+    "geom:latitude":45.464642,
+    "geom:longitude":-108.858998,
+    "iso:country":"US",
+    "sg:address":"201 Elwell St",
+    "sg:city":"Edgar",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 962 3341",
+    "sg:postcode":"59026",
+    "sg:province":"MT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973329,
+        102085111
+    ],
+    "wof:brand_id":420573749,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KSMczGJKbJKLDmpAAsrzw_45.464642_-108.858998@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"849021fd15d287fd687a2eee6a0cd14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085111,
+            "locality_id":85973329,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186220843
+        }
+    ],
+    "wof:id":186220843,
+    "wof:lastmodified":1457207043,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -108.858998,
+    45.464642,
+    -108.858998,
+    45.464642
+],
+  "geometry": {"coordinates":[-108.858998,45.464642],"type":"Point"}
+}

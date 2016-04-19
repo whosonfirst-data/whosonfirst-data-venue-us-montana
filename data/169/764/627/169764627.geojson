@@ -1,0 +1,66 @@
+{
+  "id": 169764627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.501298,45.817365,-108.501298,45.817365",
+    "geom:latitude":45.817365,
+    "geom:longitude":-108.501298,
+    "iso:country":"US",
+    "sg:address":"1096 Babcock Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 0049",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E7pufCRkBduAOfwXyj1mW_45.817365_-108.501298@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5eff1e641e256c23b7abe4b7824ad50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":169764627
+        }
+    ],
+    "wof:id":169764627,
+    "wof:lastmodified":1449035807,
+    "wof:name":"A-1 Appliance Repair",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [-108.501298,45.817365,-108.501298,45.817365],
+  "geometry": {"coordinates":[-108.501298,45.817365],"type":"Point"}
+}

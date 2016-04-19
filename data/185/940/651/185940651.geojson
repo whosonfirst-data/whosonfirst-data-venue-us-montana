@@ -1,0 +1,71 @@
+{
+  "id": 185940651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.552637,45.765989,-108.552637,45.765989",
+    "geom:latitude":45.765989,
+    "geom:longitude":-108.552637,
+    "iso:country":"US",
+    "sg:address":"1510 Industrial Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 4442",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "sg:website":"www.ferguson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PUrrGOpfm82kiVRIGwhD7_45.765989_-108.552637@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0345b7ed6728a1a5f0c1cf8a005f0b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185940651
+        }
+    ],
+    "wof:id":185940651,
+    "wof:lastmodified":1449007009,
+    "wof:name":"Ferguson",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [-108.552637,45.765989,-108.552637,45.765989],
+  "geometry": {"coordinates":[-108.552637,45.765989],"type":"Point"}
+}

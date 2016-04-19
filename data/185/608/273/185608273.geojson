@@ -1,0 +1,66 @@
+{
+  "id": 185608273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.493282,45.978111,-112.493282,45.978111",
+    "geom:latitude":45.978111,
+    "geom:longitude":-112.493282,
+    "iso:country":"US",
+    "sg:address":"2969 Hannibal St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 4115",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56rUfCoIW5OOlSBcRCGItU_45.978111_-112.493282@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a823d251a02e68dfe4125a6a947fa22",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":185608273
+        }
+    ],
+    "wof:id":185608273,
+    "wof:lastmodified":1449007296,
+    "wof:name":"Mile HI Body Shop",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [-112.493282,45.978111,-112.493282,45.978111],
+  "geometry": {"coordinates":[-112.493282,45.978111],"type":"Point"}
+}

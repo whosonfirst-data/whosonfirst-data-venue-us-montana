@@ -1,0 +1,80 @@
+{
+  "id": 186377457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.638798,45.717855,-108.638798,45.717855",
+    "geom:latitude":45.717855,
+    "geom:longitude":-108.638798,
+    "iso:country":"US",
+    "sg:address":"4837 Danford Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 3785",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "equestrian",
+        "saddle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tZN1u3QghNvd7oNz1SWkg_45.717855_-108.638798@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe4e9be23bd750d07f94023c6243a437",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":186377457
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186377457
+        }
+    ],
+    "wof:id":186377457,
+    "wof:lastmodified":1449051390,
+    "wof:name":"Tack Shack",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "equestrian",
+        "saddle"
+    ]
+},
+  "bbox": [-108.638798,45.717855,-108.638798,45.717855],
+  "geometry": {"coordinates":[-108.638798,45.717855],"type":"Point"}
+}

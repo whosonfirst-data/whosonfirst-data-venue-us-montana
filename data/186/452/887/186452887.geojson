@@ -1,0 +1,66 @@
+{
+  "id": 186452887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.517348,45.788448,-108.517348,45.788448",
+    "geom:latitude":45.788448,
+    "geom:longitude":-108.517348,
+    "iso:country":"US",
+    "sg:address":"921 N 31st St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 6912",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "suppression"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FdoaJfvxMQhbANY1yXbC7_45.788448_-108.517348@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14e694e85fd5a85aaccc357f51f11572",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":186452887
+        }
+    ],
+    "wof:id":186452887,
+    "wof:lastmodified":1449051032,
+    "wof:name":"Wildfire Specialist Inc",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "suppression"
+    ]
+},
+  "bbox": [-108.517348,45.788448,-108.517348,45.788448],
+  "geometry": {"coordinates":[-108.517348,45.788448],"type":"Point"}
+}

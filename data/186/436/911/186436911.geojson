@@ -1,0 +1,68 @@
+{
+  "id": 186436911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.450952,45.794758,-108.450952,45.794758",
+    "geom:latitude":45.794758,
+    "geom:longitude":-108.450952,
+    "iso:country":"US",
+    "sg:address":"1328 Rosebud Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 7269",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wVacG0IweeUMHqNEx5GFF_45.794758_-108.450952@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5270ff0686d143f49d2d0296f414d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186436911
+        }
+    ],
+    "wof:id":186436911,
+    "wof:lastmodified":1449052766,
+    "wof:name":"Hot Rod Garage",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.450952,45.794758,-108.450952,45.794758],
+  "geometry": {"coordinates":[-108.450952,45.794758],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186161699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.944839,48.169711,-111.944839,48.169711",
+    "geom:latitude":48.169711,
+    "geom:longitude":-111.944839,
+    "iso:country":"US",
+    "sg:address":"315 S Front St",
+    "sg:city":"Conrad",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 278 3823",
+    "sg:postcode":"59425",
+    "sg:province":"MT",
+    "sg:tags":[
+        "depot",
+        "freight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972687,
+        102083907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rvReWm6vxXjnQBv9nozsh_48.169711_-111.944839@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7cf5f7424adeb2443f4badecea9a4e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083907,
+            "locality_id":85972687,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186161699
+        }
+    ],
+    "wof:id":186161699,
+    "wof:lastmodified":1449051425,
+    "wof:name":"Burlington Northern",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depot",
+        "freight"
+    ]
+},
+  "bbox": [-111.944839,48.169711,-111.944839,48.169711],
+  "geometry": {"coordinates":[-111.944839,48.169711],"type":"Point"}
+}

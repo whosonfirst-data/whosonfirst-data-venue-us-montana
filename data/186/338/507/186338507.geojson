@@ -1,0 +1,66 @@
+{
+  "id": 186338507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.539129,45.998894,-112.539129,45.998894",
+    "geom:latitude":45.998894,
+    "geom:longitude":-112.539129,
+    "iso:country":"US",
+    "sg:address":"1145 S Montana St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 6777",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lqlt5nMJEcdf9A1H6V1R2_45.998894_-112.539129@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa2b051927f6ca115e09c86e5603016a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186338507
+        }
+    ],
+    "wof:id":186338507,
+    "wof:lastmodified":1449051320,
+    "wof:name":"Paul S Rosenthal DDS PC",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-112.539129,45.998894,-112.539129,45.998894],
+  "geometry": {"coordinates":[-112.539129,45.998894],"type":"Point"}
+}

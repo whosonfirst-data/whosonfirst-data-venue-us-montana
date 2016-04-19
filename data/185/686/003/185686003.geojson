@@ -1,0 +1,64 @@
+{
+  "id": 185686003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.940123,45.628398,-110.940123,45.628398",
+    "geom:latitude":45.628398,
+    "geom:longitude":-110.940123,
+    "iso:country":"US",
+    "sg:address":"1460 Bear Canyon Rd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 6931",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fire",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hHoKoRqyu7dFkv6LXYUAX_45.628398_-110.940123@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc85e2f1ab3031db18f0747c87badd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185686003
+        }
+    ],
+    "wof:id":185686003,
+    "wof:lastmodified":1449007838,
+    "wof:name":"Bear Canyon Fire",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "leasing"
+    ]
+},
+  "bbox": [-110.940123,45.628398,-110.940123,45.628398],
+  "geometry": {"coordinates":[-110.940123,45.628398],"type":"Point"}
+}

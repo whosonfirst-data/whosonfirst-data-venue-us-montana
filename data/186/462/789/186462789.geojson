@@ -1,0 +1,64 @@
+{
+  "id": 186462789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.197545,46.403089,-114.197545,46.403089",
+    "geom:latitude":46.403089,
+    "geom:longitude":-114.197545,
+    "iso:country":"US",
+    "sg:address":"2329 Red Crow Rd",
+    "sg:city":"Victor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 642 3847",
+    "sg:postcode":"59875",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JNAc5dTBBMvHC4lhvlxnk_46.403089_-114.197545@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4ec856d46943b0597c0f544accab36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186462789
+        }
+    ],
+    "wof:id":186462789,
+    "wof:lastmodified":1449052935,
+    "wof:name":"Happy Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-114.197545,46.403089,-114.197545,46.403089],
+  "geometry": {"coordinates":[-114.197545,46.403089],"type":"Point"}
+}

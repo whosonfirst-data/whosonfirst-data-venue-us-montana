@@ -1,0 +1,70 @@
+{
+  "id": 186003055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.335255,48.397719,-114.335255,48.397719",
+    "geom:latitude":48.397719,
+    "geom:longitude":-114.335255,
+    "iso:country":"US",
+    "sg:address":"6545 US Hwy 93",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 2800",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "rental",
+        "driver",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18EtdYb8vjhadsrJxNIW1a_48.397719_-114.335255@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33518e4accacf003b52e59d58faf522b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186003055
+        }
+    ],
+    "wof:id":186003055,
+    "wof:lastmodified":1449052816,
+    "wof:name":"Paul D Kent",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "driver",
+        "truck"
+    ]
+},
+  "bbox": [-114.335255,48.397719,-114.335255,48.397719],
+  "geometry": {"coordinates":[-114.335255,48.397719],"type":"Point"}
+}

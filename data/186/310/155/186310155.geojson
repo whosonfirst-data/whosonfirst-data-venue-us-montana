@@ -1,0 +1,68 @@
+{
+  "id": 186310155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.323799,48.200064,-114.323799,48.200064",
+    "geom:latitude":48.200064,
+    "geom:longitude":-114.323799,
+    "iso:country":"US",
+    "sg:address":"160 6th Avenue W N",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 0234",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lCoLGS3b8XzM1TOm84c7V_48.200064_-114.323799@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"230aeb08e298c51fcf5487f01d2c8ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186310155
+        }
+    ],
+    "wof:id":186310155,
+    "wof:lastmodified":1449052015,
+    "wof:name":"Kalispell Alignment & Auto Rpr",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-114.323799,48.200064,-114.323799,48.200064],
+  "geometry": {"coordinates":[-114.323799,48.200064],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 185731019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.959754,46.897886,-113.959754,46.897886",
+    "geom:latitude":46.897886,
+    "geom:longitude":-113.959754,
+    "iso:country":"US",
+    "sg:address":"123 Applehouse Ln",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 239 7580",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "acupuncture",
+        "clinic",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085103,
+        85891733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u1HpHzMHkxZITi18W277c_46.897886_-113.959754@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ee8c66dba1f5048f942a6a2616575fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":-1,
+            "neighbourhood_id":85891733,
+            "region_id":85688617,
+            "venue_id":185731019
+        }
+    ],
+    "wof:id":185731019,
+    "wof:lastmodified":1449008040,
+    "wof:name":"Dr Michael Sasnow",
+    "wof:parent_id":85891733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture",
+        "clinic",
+        "chiropractic"
+    ]
+},
+  "bbox": [-113.959754,46.897886,-113.959754,46.897886],
+  "geometry": {"coordinates":[-113.959754,46.897886],"type":"Point"}
+}

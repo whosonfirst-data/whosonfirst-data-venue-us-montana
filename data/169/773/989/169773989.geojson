@@ -1,0 +1,67 @@
+{
+  "id": 169773989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.547222,45.78999,-108.547222,45.78999",
+    "geom:latitude":45.78999,
+    "geom:longitude":-108.547222,
+    "iso:country":"US",
+    "sg:address":"1223 Parkhill Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 8423",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eNoa7JkqX5wWw58oTxzhZ_45.789990_-108.547222@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d975fdd52ad7c3207654bedaa7075a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":169773989
+        }
+    ],
+    "wof:id":169773989,
+    "wof:lastmodified":1449033103,
+    "wof:name":"Complete Service Co",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-108.547222,45.78999,-108.547222,45.78999],
+  "geometry": {"coordinates":[-108.547222,45.78999],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186303615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.536703,46.010965,-112.536703,46.010965",
+    "geom:latitude":46.010965,
+    "geom:longitude":-112.536703,
+    "iso:country":"US",
+    "sg:address":"221 S Colorado St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 9900",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q2w5RMVMgXRBEuLwxMg22_46.010965_-112.536703@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc9a2407a4cdec001cd895018c844b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186303615
+        }
+    ],
+    "wof:id":186303615,
+    "wof:lastmodified":1449050276,
+    "wof:name":"Walsh Construction Co",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-112.536703,46.010965,-112.536703,46.010965],
+  "geometry": {"coordinates":[-112.536703,46.010965],"type":"Point"}
+}

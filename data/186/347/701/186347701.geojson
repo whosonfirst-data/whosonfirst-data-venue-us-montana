@@ -1,0 +1,68 @@
+{
+  "id": 186347701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.635638,45.805096,-108.635638,45.805096",
+    "geom:latitude":45.805096,
+    "geom:longitude":-108.635638,
+    "iso:country":"US",
+    "sg:address":"4611 Cheyenne Trl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 3456",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carwash",
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sMlWB0BNcHda7djzmDKVF_45.805096_-108.635638@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"633148afad53f78c4bd78db1a8318d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":186347701
+        }
+    ],
+    "wof:id":186347701,
+    "wof:lastmodified":1449051674,
+    "wof:name":"Bison Better Buildt",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "refrigeration"
+    ]
+},
+  "bbox": [-108.635638,45.805096,-108.635638,45.805096],
+  "geometry": {"coordinates":[-108.635638,45.805096],"type":"Point"}
+}

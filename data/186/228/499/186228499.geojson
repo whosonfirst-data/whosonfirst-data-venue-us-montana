@@ -1,0 +1,68 @@
+{
+  "id": 186228499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.48875,45.837105,-108.48875,45.837105",
+    "geom:latitude":45.837105,
+    "geom:longitude":-108.48875,
+    "iso:country":"US",
+    "sg:address":"2138 Skyview Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 6624",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KxSz1ZBUCibLesyQe39UG_45.837105_-108.488750@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4275e7300a6140e42d1cc7af9ce7ee17",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186228499
+        }
+    ],
+    "wof:id":186228499,
+    "wof:lastmodified":1449051216,
+    "wof:name":"Rim Shadows Personal Care Home",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-108.48875,45.837105,-108.48875,45.837105],
+  "geometry": {"coordinates":[-108.48875,45.837105],"type":"Point"}
+}

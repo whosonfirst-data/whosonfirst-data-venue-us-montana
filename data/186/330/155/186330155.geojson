@@ -1,0 +1,66 @@
+{
+  "id": 186330155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.038825,46.839742,-114.038825,46.839742",
+    "geom:latitude":46.839742,
+    "geom:longitude":-114.038825,
+    "iso:country":"US",
+    "sg:address":"2440 McDonald Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 7977",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15zsFrqjXUvuInGk1u52pP_46.839742_-114.038825@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c162efc9be52417072bb9f999891c97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186330155
+        }
+    ],
+    "wof:id":186330155,
+    "wof:lastmodified":1449051717,
+    "wof:name":"Missoula Body Works",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [-114.038825,46.839742,-114.038825,46.839742],
+  "geometry": {"coordinates":[-114.038825,46.839742],"type":"Point"}
+}

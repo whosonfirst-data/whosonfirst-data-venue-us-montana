@@ -1,0 +1,68 @@
+{
+  "id": 186247955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.143001,48.359072,-114.143001,48.359072",
+    "geom:latitude":48.359072,
+    "geom:longitude":-114.143001,
+    "iso:country":"US",
+    "sg:address":"1030 Jensen Rd",
+    "sg:city":"Columbia Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 892 5423",
+    "sg:postcode":"59912",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R433WGjXAek3bamC1qZvZ_48.359072_-114.143001@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3361767f4a2a8d605c43e7adb9fb6b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186247955
+        }
+    ],
+    "wof:id":186247955,
+    "wof:lastmodified":1449051942,
+    "wof:name":"Canyon Towing",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "material"
+    ]
+},
+  "bbox": [-114.143001,48.359072,-114.143001,48.359072],
+  "geometry": {"coordinates":[-114.143001,48.359072],"type":"Point"}
+}

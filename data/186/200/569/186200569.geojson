@@ -1,0 +1,68 @@
+{
+  "id": 186200569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.525351,45.98262,-112.525351,45.98262",
+    "geom:latitude":45.98262,
+    "geom:longitude":-112.525351,
+    "iso:country":"US",
+    "sg:address":"715 Sampson Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 4726",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ylhmzMK8jWZxKCiayTklk_45.982620_-112.525351@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aab06a0446bc306eae215dc7ef278b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":186200569
+        }
+    ],
+    "wof:id":186200569,
+    "wof:lastmodified":1449051444,
+    "wof:name":"Zobenica Sheet Metal & Heating",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-112.525351,45.98262,-112.525351,45.98262],
+  "geometry": {"coordinates":[-112.525351,45.98262],"type":"Point"}
+}

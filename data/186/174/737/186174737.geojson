@@ -1,0 +1,65 @@
+{
+  "id": 186174737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.520648,45.793419,-108.520648,45.793419",
+    "geom:latitude":45.793419,
+    "geom:longitude":-108.520648,
+    "iso:country":"US",
+    "sg:address":"1230 N 30th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 237 8199",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75x9lntP1aOzD4rksK2MId_45.793419_-108.520648@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be1184769255e1546239b1f2ebb887c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":186174737
+        }
+    ],
+    "wof:id":186174737,
+    "wof:lastmodified":1449050699,
+    "wof:name":"Pediatric Specialty Care",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-108.520648,45.793419,-108.520648,45.793419],
+  "geometry": {"coordinates":[-108.520648,45.793419],"type":"Point"}
+}

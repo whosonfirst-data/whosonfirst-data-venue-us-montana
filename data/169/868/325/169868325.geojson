@@ -1,0 +1,66 @@
+{
+  "id": 169868325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.592478,45.799161,-108.592478,45.799161",
+    "geom:latitude":45.799161,
+    "geom:longitude":-108.592478,
+    "iso:country":"US",
+    "sg:address":"3020 Marguerite Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 3195",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12GcNWY2CTBaK7SnXwBoSe_45.799161_-108.592478@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8b096bed54cab2dcb58bb7662d4a080",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":169868325
+        }
+    ],
+    "wof:id":169868325,
+    "wof:lastmodified":1449032836,
+    "wof:name":"Barbara Depner",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [-108.592478,45.799161,-108.592478,45.799161],
+  "geometry": {"coordinates":[-108.592478,45.799161],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 185809345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.498403,45.794411,-108.498403,45.794411",
+    "geom:latitude":45.794411,
+    "geom:longitude":-108.498403,
+    "iso:country":"US",
+    "sg:address":"1724 8th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 9309",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vi9vNfzknPqRFHgBaDdcv_45.794411_-108.498403@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a210bddc34780c77035ac3475c53a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185809345
+        }
+    ],
+    "wof:id":185809345,
+    "wof:lastmodified":1449007941,
+    "wof:name":"Kreisers Inc",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-108.498403,45.794411,-108.498403,45.794411],
+  "geometry": {"coordinates":[-108.498403,45.794411],"type":"Point"}
+}

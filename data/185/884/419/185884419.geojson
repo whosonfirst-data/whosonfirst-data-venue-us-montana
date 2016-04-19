@@ -1,0 +1,65 @@
+{
+  "id": 185884419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-105.857255,46.403996,-105.857255,46.403996",
+    "geom:latitude":46.403996,
+    "geom:longitude":-105.857255,
+    "iso:country":"US",
+    "sg:address":"201 Main St",
+    "sg:city":"Ismay",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 772 5695",
+    "sg:postcode":"59301",
+    "sg:province":"MT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972691,
+        102085197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kyc5Vl50MNXyPxVC36K15_46.403996_-105.857255@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"117bccfd4baa51d8bcf5a8687f097d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085197,
+            "locality_id":85972691,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185884419
+        }
+    ],
+    "wof:id":185884419,
+    "wof:lastmodified":1449007918,
+    "wof:name":"Ismay Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-105.857255,46.403996,-105.857255,46.403996],
+  "geometry": {"coordinates":[-105.857255,46.403996],"type":"Point"}
+}

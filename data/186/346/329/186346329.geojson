@@ -1,0 +1,68 @@
+{
+  "id": 186346329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.515529,45.970266,-112.515529,45.970266",
+    "geom:latitude":45.970266,
+    "geom:longitude":-112.515529,
+    "iso:country":"US",
+    "sg:address":"3750 Wynne Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 4330",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "propane",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p28ljqzdJLj3uLZGrf9wv_45.970266_-112.515529@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0dfc903a68f1e80a6289f1a61403af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":186346329
+        }
+    ],
+    "wof:id":186346329,
+    "wof:lastmodified":1449050240,
+    "wof:name":"AmeriGas",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "gas"
+    ]
+},
+  "bbox": [-112.515529,45.970266,-112.515529,45.970266],
+  "geometry": {"coordinates":[-112.515529,45.970266],"type":"Point"}
+}

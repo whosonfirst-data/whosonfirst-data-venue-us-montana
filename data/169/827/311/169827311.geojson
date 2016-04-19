@@ -1,0 +1,78 @@
+{
+  "id": 169827311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.059597,45.66358,-111.059597,45.66358",
+    "geom:latitude":45.66358,
+    "geom:longitude":-111.059597,
+    "iso:country":"US",
+    "sg:address":"1519 Alder Ct",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 585 9137",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891683,
+        85876465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68nNbUFdRcSSaw2yjsDeNf_45.663580_-111.059597@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9dde75cebd5d6af4bbd4844fcb53393",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891683,
+            "region_id":85688617,
+            "venue_id":169827311
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876465,
+            "region_id":85688617,
+            "venue_id":169827311
+        }
+    ],
+    "wof:id":169827311,
+    "wof:lastmodified":1449033871,
+    "wof:name":"Dennis Heinzmann Electric Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-111.059597,45.66358,-111.059597,45.66358],
+  "geometry": {"coordinates":[-111.059597,45.66358],"type":"Point"}
+}

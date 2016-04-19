@@ -1,0 +1,71 @@
+{
+  "id": 185689481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.554403,45.744945,-108.554403,45.744945",
+    "geom:latitude":45.744945,
+    "geom:longitude":-108.554403,
+    "iso:country":"US",
+    "sg:address":"5518 Holiday Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 5264",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "bulk",
+        "water",
+        "local",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PnZGVJXMQW1Vjgq1j6C3K_45.744945_-108.554403@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a65c5246d868c2b8453e0f7a7f5b1f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185689481
+        }
+    ],
+    "wof:id":185689481,
+    "wof:lastmodified":1449007966,
+    "wof:name":"Fisher Water Service Inc",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "water",
+        "local",
+        "hauling"
+    ]
+},
+  "bbox": [-108.554403,45.744945,-108.554403,45.744945],
+  "geometry": {"coordinates":[-108.554403,45.744945],"type":"Point"}
+}

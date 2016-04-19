@@ -1,0 +1,66 @@
+{
+  "id": 185849713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.001831,46.876824,-114.001831,46.876824",
+    "geom:latitude":46.876824,
+    "geom:longitude":-114.001831,
+    "iso:country":"US",
+    "sg:address":"614 W Spruce St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 3811",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E4htJzQN7NGZR2D2G7eiU_46.876824_-114.001831@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f65d188faa23594d52b621b9135dd5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":185849713
+        }
+    ],
+    "wof:id":185849713,
+    "wof:lastmodified":1449006917,
+    "wof:name":"Stephen P Hardy MD",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-114.001831,46.876824,-114.001831,46.876824],
+  "geometry": {"coordinates":[-114.001831,46.876824],"type":"Point"}
+}

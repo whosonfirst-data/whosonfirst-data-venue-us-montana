@@ -1,0 +1,67 @@
+{
+  "id": 186451121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.503435,47.547932,-111.503435,47.547932",
+    "geom:latitude":47.547932,
+    "geom:longitude":-111.503435,
+    "iso:country":"US",
+    "sg:address":"704 Kennedy St",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 965 3261",
+    "sg:postcode":"59404",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973251,
+        102085113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Tzbe3Mtpbued96zyO6rU_47.547932_-111.503435@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"019530d44a2939bdd9e7699b6c4a6843",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085113,
+            "locality_id":85973251,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186451121
+        }
+    ],
+    "wof:id":186451121,
+    "wof:lastmodified":1449051543,
+    "wof:name":"Dahls MBL HM Svc Repr & Tran",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-111.503435,47.547932,-111.503435,47.547932],
+  "geometry": {"coordinates":[-111.503435,47.547932],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 185945613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.554284,45.758665,-108.554284,45.758665",
+    "geom:latitude":45.758665,
+    "geom:longitude":-108.554284,
+    "iso:country":"US",
+    "sg:address":"703 Daniel St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 1939",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uYko5h5aQedCREpiuVejy_45.758665_-108.554284@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec1ea4efc98bdb59c50eb585e19b7fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185945613
+        }
+    ],
+    "wof:id":185945613,
+    "wof:lastmodified":1449006742,
+    "wof:name":"Silent Knight Custom Exhaust",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.554284,45.758665,-108.554284,45.758665],
+  "geometry": {"coordinates":[-108.554284,45.758665],"type":"Point"}
+}

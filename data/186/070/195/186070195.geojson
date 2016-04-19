@@ -1,0 +1,66 @@
+{
+  "id": 186070195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.569345,45.785001,-108.569345,45.785001",
+    "geom:latitude":45.785001,
+    "geom:longitude":-108.569345,
+    "iso:country":"US",
+    "sg:address":"1409 21st St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 1486",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UrdY7mxXTuKRhIO19xBuj_45.785001_-108.569345@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87e5be7817ea1c54ebfbdbcb344c1a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186070195
+        }
+    ],
+    "wof:id":186070195,
+    "wof:lastmodified":1449051681,
+    "wof:name":"All-Phase Emmick's",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [-108.569345,45.785001,-108.569345,45.785001],
+  "geometry": {"coordinates":[-108.569345,45.785001],"type":"Point"}
+}

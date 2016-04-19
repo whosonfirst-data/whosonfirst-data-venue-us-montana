@@ -1,0 +1,66 @@
+{
+  "id": 186063645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470634,45.817019,-108.470634,45.817019",
+    "geom:latitude":45.817019,
+    "geom:longitude":-108.470634,
+    "iso:country":"US",
+    "sg:address":"1029 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 5487",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Odh4i9mratbTpsw6j98sd_45.817019_-108.470634@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5068fbeb6b0123a6926cc2e3be74fe52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":186063645
+        }
+    ],
+    "wof:id":186063645,
+    "wof:lastmodified":1449050479,
+    "wof:name":"Shalet Market",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [-108.470634,45.817019,-108.470634,45.817019],
+  "geometry": {"coordinates":[-108.470634,45.817019],"type":"Point"}
+}

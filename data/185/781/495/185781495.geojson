@@ -1,0 +1,65 @@
+{
+  "id": 185781495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.548598,45.669082,-110.548598,45.669082",
+    "geom:latitude":45.669082,
+    "geom:longitude":-110.548598,
+    "iso:country":"US",
+    "sg:address":"1104 E Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 3011",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rTgTdSOVhcoWOzcIOdGdO_45.669082_-110.548598@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44c739ef66cc68e1152fcb383f45f37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185781495
+        }
+    ],
+    "wof:id":185781495,
+    "wof:lastmodified":1449006922,
+    "wof:name":"Livingston Veterinary Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-110.548598,45.669082,-110.548598,45.669082],
+  "geometry": {"coordinates":[-110.548598,45.669082],"type":"Point"}
+}

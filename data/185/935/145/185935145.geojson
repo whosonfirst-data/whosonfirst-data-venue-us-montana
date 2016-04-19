@@ -1,0 +1,69 @@
+{
+  "id": 185935145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.545219,45.794935,-108.545219,45.794935",
+    "geom:latitude":45.794935,
+    "geom:longitude":-108.545219,
+    "iso:country":"US",
+    "sg:address":"1171 Ponderosa Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 855 9622",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2osIGSu7n3GCHIZlpdR05x_45.794935_-108.545219@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"395393f27bbc303c8ef8259270d1256e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":185935145
+        }
+    ],
+    "wof:id":185935145,
+    "wof:lastmodified":1449007944,
+    "wof:name":"Big Sky Animal Nanny",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [-108.545219,45.794935,-108.545219,45.794935],
+  "geometry": {"coordinates":[-108.545219,45.794935],"type":"Point"}
+}

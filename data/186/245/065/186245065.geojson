@@ -1,0 +1,68 @@
+{
+  "id": 186245065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.525139,45.983394,-112.525139,45.983394",
+    "geom:latitude":45.983394,
+    "geom:longitude":-112.525139,
+    "iso:country":"US",
+    "sg:address":"700 Dewey Blvd",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 1349",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "therapy",
+        "oxygen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_192M1ipw0kQxSqpfWJ3GNo_45.983394_-112.525139@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5222a8a5d5158b8eda0cdc015a8cb400",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":186245065
+        }
+    ],
+    "wof:id":186245065,
+    "wof:lastmodified":1449052950,
+    "wof:name":"Butte Oxygen Inc",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "oxygen"
+    ]
+},
+  "bbox": [-112.525139,45.983394,-112.525139,45.983394],
+  "geometry": {"coordinates":[-112.525139,45.983394],"type":"Point"}
+}

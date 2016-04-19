@@ -1,0 +1,66 @@
+{
+  "id": 169753263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.760351,45.445258,-111.760351,45.445258",
+    "geom:latitude":45.445258,
+    "geom:longitude":-111.760351,
+    "iso:country":"US",
+    "sg:address":"107 N Meadow Creek Rd",
+    "sg:city":"Mc Allister",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 682 5600",
+    "sg:postcode":"59740",
+    "sg:province":"MT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kM7HgRwg2KZvPgA4ECwUS_45.445258_-111.760351@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63d81449abdd16ca5e4868193c90483e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":169753263
+        }
+    ],
+    "wof:id":169753263,
+    "wof:lastmodified":1449033073,
+    "wof:name":"Meadow Creek Veterinary Clinic",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-111.760351,45.445258,-111.760351,45.445258],
+  "geometry": {"coordinates":[-111.760351,45.445258],"type":"Point"}
+}

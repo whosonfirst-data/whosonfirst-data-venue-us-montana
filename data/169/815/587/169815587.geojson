@@ -1,0 +1,70 @@
+{
+  "id": 169815587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.184762,47.81356,-112.184762,47.81356",
+    "geom:latitude":47.81356,
+    "geom:longitude":-112.184762,
+    "iso:country":"US",
+    "sg:address":"226 N Main Ave",
+    "sg:city":"Choteau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 466 5551",
+    "sg:postcode":"59422",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972855,
+        102085149,
+        85810939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_624aDUNTR2ckBXPGzNIut2_47.813560_-112.184762@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f4a44a2f77602a0e05731e3ce571a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085149,
+            "locality_id":85972855,
+            "neighbourhood_id":85810939,
+            "region_id":85688617,
+            "venue_id":169815587
+        }
+    ],
+    "wof:id":169815587,
+    "wof:lastmodified":1449034279,
+    "wof:name":"Walt's Body Shop",
+    "wof:parent_id":85810939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-112.184762,47.81356,-112.184762,47.81356],
+  "geometry": {"coordinates":[-112.184762,47.81356],"type":"Point"}
+}

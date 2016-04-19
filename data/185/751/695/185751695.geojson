@@ -1,0 +1,70 @@
+{
+  "id": 185751695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.329322,48.221189,-114.329322,48.221189",
+    "geom:latitude":48.221189,
+    "geom:longitude":-114.329322,
+    "iso:country":"US",
+    "sg:address":"135 Commons Way",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 5565",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y2CcmpY5IFlW73ubNqsxG_48.221189_-114.329322@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbaf64ce98b2a8db3682367684b6464c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185751695
+        }
+    ],
+    "wof:id":185751695,
+    "wof:lastmodified":1449006679,
+    "wof:name":"Dialysis Center",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [-114.329322,48.221189,-114.329322,48.221189],
+  "geometry": {"coordinates":[-114.329322,48.221189],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 186008237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.028584,45.69464,-111.028584,45.69464",
+    "geom:latitude":45.69464,
+    "geom:longitude":-111.028584,
+    "iso:country":"US",
+    "sg:address":"1408 Gold Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 8882",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "refrigeration",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PDtqPt3l5sOQKyIslabjB_45.694640_-111.028584@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aaedddb02011673d503bd0c7aa47acc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876477,
+            "region_id":85688617,
+            "venue_id":186008237
+        }
+    ],
+    "wof:id":186008237,
+    "wof:lastmodified":1449051222,
+    "wof:name":"Mark's Refrigeration",
+    "wof:parent_id":85876477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "refrigeration",
+        "contractor"
+    ]
+},
+  "bbox": [-111.028584,45.69464,-111.028584,45.69464],
+  "geometry": {"coordinates":[-111.028584,45.69464],"type":"Point"}
+}

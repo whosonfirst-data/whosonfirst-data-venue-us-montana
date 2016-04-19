@@ -1,0 +1,68 @@
+{
+  "id": 186449243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.015557,46.837597,-114.015557,46.837597",
+    "geom:latitude":46.837597,
+    "geom:longitude":-114.015557,
+    "iso:country":"US",
+    "sg:address":"1250 34th St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 2113",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H15sXXe8zme72aKGYipHs_46.837597_-114.015557@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb8d78b059fc7016622fae92db1d4fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186449243
+        }
+    ],
+    "wof:id":186449243,
+    "wof:lastmodified":1449052833,
+    "wof:name":"Wild Flower Apartments",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-114.015557,46.837597,-114.015557,46.837597],
+  "geometry": {"coordinates":[-114.015557,46.837597],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169849525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.515767,45.792093,-108.515767,45.792093",
+    "geom:latitude":45.792093,
+    "geom:longitude":-108.515767,
+    "iso:country":"US",
+    "sg:address":"1144 N 28th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 237 5900",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.yellowstonesurgerycenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zwu5V5J8kXGSMJsSqONRA_45.792093_-108.515767@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe3f7b438266ba37f2853739f813a733",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":169849525
+        }
+    ],
+    "wof:id":169849525,
+    "wof:lastmodified":1449033299,
+    "wof:name":"Yellowstone Surgery Ctr",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-108.515767,45.792093,-108.515767,45.792093],
+  "geometry": {"coordinates":[-108.515767,45.792093],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186460393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.608231,45.794113,-108.608231,45.794113",
+    "geom:latitude":45.794113,
+    "geom:longitude":-108.608231,
+    "iso:country":"US",
+    "sg:address":"3736 Hayden Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4613",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EyyF7Ca5B4p2m1adhV8le_45.794113_-108.608231@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d89d22cf7ce222085dd728da0e5f45a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186460393
+        }
+    ],
+    "wof:id":186460393,
+    "wof:lastmodified":1449052882,
+    "wof:name":"Path Light Properties LLC",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-108.608231,45.794113,-108.608231,45.794113],
+  "geometry": {"coordinates":[-108.608231,45.794113],"type":"Point"}
+}

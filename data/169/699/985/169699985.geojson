@@ -1,0 +1,67 @@
+{
+  "id": 169699985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.066619,45.685542,-111.066619,45.685542",
+    "geom:latitude":45.685542,
+    "geom:longitude":-111.066619,
+    "iso:country":"US",
+    "sg:address":"316 N 23rd Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 8915",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c5yB1hvGOmPojNO2dx08N_45.685542_-111.066619@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0bf628bc3073888af4bb1210f8f1cbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169699985
+        }
+    ],
+    "wof:id":169699985,
+    "wof:lastmodified":1449033140,
+    "wof:name":"Dreier Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-111.066619,45.685542,-111.066619,45.685542],
+  "geometry": {"coordinates":[-111.066619,45.685542],"type":"Point"}
+}

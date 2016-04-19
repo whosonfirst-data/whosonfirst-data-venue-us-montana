@@ -1,0 +1,66 @@
+{
+  "id": 169807637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.472781,45.803952,-108.472781,45.803952",
+    "geom:latitude":45.803952,
+    "geom:longitude":-108.472781,
+    "iso:country":"US",
+    "sg:address":"325 Lake Elmo Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 8991",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.biblebookstore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72oX2KnkQbHHtGNB57RItD_45.803952_-108.472781@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65945438ceb165b0a239c86540929547",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":169807637
+        }
+    ],
+    "wof:id":169807637,
+    "wof:lastmodified":1449033535,
+    "wof:name":"Bible Book Store",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [-108.472781,45.803952,-108.472781,45.803952],
+  "geometry": {"coordinates":[-108.472781,45.803952],"type":"Point"}
+}

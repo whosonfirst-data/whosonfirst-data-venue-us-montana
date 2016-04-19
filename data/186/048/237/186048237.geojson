@@ -1,0 +1,69 @@
+{
+  "id": 186048237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-115.550317,48.391743,-115.550317,48.391743",
+    "geom:latitude":48.391743,
+    "geom:longitude":-115.550317,
+    "iso:country":"US",
+    "sg:address":"402 Montana Ave",
+    "sg:city":"Libby",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 293 8746",
+    "sg:postcode":"59923",
+    "sg:province":"MT",
+    "sg:tags":[
+        "clinic",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972735,
+        102085175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05B4n93OMOHUuY96nwGoRD_48.391743_-115.550317@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19063b4a0ad75f78596ae34be8fe38fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085175,
+            "locality_id":85972735,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186048237
+        }
+    ],
+    "wof:id":186048237,
+    "wof:lastmodified":1449051328,
+    "wof:name":"Mental Health Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-115.550317,48.391743,-115.550317,48.391743],
+  "geometry": {"coordinates":[-115.550317,48.391743],"type":"Point"}
+}

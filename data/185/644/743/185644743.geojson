@@ -1,0 +1,75 @@
+{
+  "id": 185644743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.585956,45.743615,-108.585956,45.743615",
+    "geom:latitude":45.743615,
+    "geom:longitude":-108.585956,
+    "iso:country":"US",
+    "sg:address":"2790 Gabel Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6339",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e05pIaCsh91tEgon2wNdy_45.743615_-108.585956@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"764044d520995781958e811f9294b5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185644743
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185644743
+        }
+    ],
+    "wof:id":185644743,
+    "wof:lastmodified":1449007525,
+    "wof:name":"Billings Rv Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-108.585956,45.743615,-108.585956,45.743615],
+  "geometry": {"coordinates":[-108.585956,45.743615],"type":"Point"}
+}

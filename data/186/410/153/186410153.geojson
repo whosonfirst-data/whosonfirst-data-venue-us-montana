@@ -1,0 +1,68 @@
+{
+  "id": 186410153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.607958,45.797596,-108.607958,45.797596",
+    "geom:latitude":45.797596,
+    "geom:longitude":-108.607958,
+    "iso:country":"US",
+    "sg:address":"3631 Donna Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0350",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QaGUFasCDr8vseLLYN4Ye_45.797596_-108.607958@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aaa9dc526d150d47c37ea9ae648d655d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":186410153
+        }
+    ],
+    "wof:id":186410153,
+    "wof:lastmodified":1449050297,
+    "wof:name":"J & S Pioneer Svc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.607958,45.797596,-108.607958,45.797596],
+  "geometry": {"coordinates":[-108.607958,45.797596],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169815713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.542688,45.794849,-108.542688,45.794849",
+    "geom:latitude":45.794849,
+    "geom:longitude":-108.542688,
+    "iso:country":"US",
+    "sg:address":"1008 Poly Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 5043",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n5trW8asc2UcWgSWExT3N_45.794849_-108.542688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b73b24f75d075931afe702691a0d815",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":169815713
+        }
+    ],
+    "wof:id":169815713,
+    "wof:lastmodified":1449034283,
+    "wof:name":"R & P Properties",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-108.542688,45.794849,-108.542688,45.794849],
+  "geometry": {"coordinates":[-108.542688,45.794849],"type":"Point"}
+}

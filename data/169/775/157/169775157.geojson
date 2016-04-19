@@ -1,0 +1,67 @@
+{
+  "id": 169775157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-105.844675,46.407984,-105.844675,46.407984",
+    "geom:latitude":46.407984,
+    "geom:longitude":-105.844675,
+    "iso:country":"US",
+    "sg:address":"1019 Main St",
+    "sg:city":"Miles City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 232 6838",
+    "sg:postcode":"59301",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972691,
+        102085197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PrlsiN19C9dBbD4YrYLtT_46.407984_-105.844675@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b22b0e22d4451f2d0f2a29f7acc7cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085197,
+            "locality_id":85972691,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169775157
+        }
+    ],
+    "wof:id":169775157,
+    "wof:lastmodified":1449035119,
+    "wof:name":"M & H Gas Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-105.844675,46.407984,-105.844675,46.407984],
+  "geometry": {"coordinates":[-105.844675,46.407984],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 185756635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.644731,45.714883,-108.644731,45.714883",
+    "geom:latitude":45.714883,
+    "geom:longitude":-108.644731,
+    "iso:country":"US",
+    "sg:address":"5110 Danford Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 670 3991",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CP0aDo4MlUxHN8QDmfgnF_45.714883_-108.644731@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f951f82baf548d5f41ec6290a705dd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185756635
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185756635
+        }
+    ],
+    "wof:id":185756635,
+    "wof:lastmodified":1449007572,
+    "wof:name":"Express Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [-108.644731,45.714883,-108.644731,45.714883],
+  "geometry": {"coordinates":[-108.644731,45.714883],"type":"Point"}
+}

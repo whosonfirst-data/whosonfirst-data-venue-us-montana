@@ -1,0 +1,68 @@
+{
+  "id": 186063689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.32621,48.215184,-114.32621,48.215184",
+    "geom:latitude":48.215184,
+    "geom:longitude":-114.32621,
+    "iso:country":"US",
+    "sg:address":"111 Sunnyview Ln",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 7900",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "surgery",
+        "orthopedic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AgrNP6KRDOeYaQeThmtQk_48.215184_-114.326210@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9862f49dd4b6fa4b57467e943227a134",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186063689
+        }
+    ],
+    "wof:id":186063689,
+    "wof:lastmodified":1449050480,
+    "wof:name":"Flathead Valley Orthopedics PC",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgery",
+        "orthopedic"
+    ]
+},
+  "bbox": [-114.32621,48.215184,-114.32621,48.215184],
+  "geometry": {"coordinates":[-114.32621,48.215184],"type":"Point"}
+}

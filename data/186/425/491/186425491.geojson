@@ -1,0 +1,78 @@
+{
+  "id": 186425491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.561346,45.761616,-108.561346,45.761616",
+    "geom:latitude":45.761616,
+    "geom:longitude":-108.561346,
+    "iso:country":"US",
+    "sg:address":"536 S 18th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9660",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "distribute",
+        "radiator"
+    ],
+    "sg:website":"www.montanaradiatorworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47VQFMLAy6mlZDyfAI6A7e_45.761616_-108.561346@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0c5474fe59cec833488f0512627b912",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186425491
+        }
+    ],
+    "wof:id":186425491,
+    "wof:lastmodified":1449051338,
+    "wof:name":"Montana Radiator Works",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "distribute",
+        "radiator"
+    ]
+},
+  "bbox": [-108.561346,45.761616,-108.561346,45.761616],
+  "geometry": {"coordinates":[-108.561346,45.761616],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186443917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.502806,45.993888,-112.502806,45.993888",
+    "geom:latitude":45.993888,
+    "geom:longitude":-112.502806,
+    "iso:country":"US",
+    "sg:address":"2005 Farragut Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 5994",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20gasgXhawKgThZys4DugL_45.993888_-112.502806@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28e0aefdfee3ac20605519222ab52ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186443917
+        }
+    ],
+    "wof:id":186443917,
+    "wof:lastmodified":1449052517,
+    "wof:name":"Eastgate IGA",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-112.502806,45.993888,-112.502806,45.993888],
+  "geometry": {"coordinates":[-112.502806,45.993888],"type":"Point"}
+}

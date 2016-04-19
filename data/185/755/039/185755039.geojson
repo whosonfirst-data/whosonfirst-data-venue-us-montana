@@ -1,0 +1,68 @@
+{
+  "id": 185755039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.445151,45.827935,-108.445151,45.827935",
+    "geom:latitude":45.827935,
+    "geom:longitude":-108.445151,
+    "iso:country":"US",
+    "sg:address":"1615 Bitterroot Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 7373",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h8u2Lw9BCeal4vLQMjB2C_45.827935_-108.445151@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6806c1b662e75330b2db46a02a29889e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185755039
+        }
+    ],
+    "wof:id":185755039,
+    "wof:lastmodified":1449007066,
+    "wof:name":"D & L Lock & Welding",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-108.445151,45.827935,-108.445151,45.827935],
+  "geometry": {"coordinates":[-108.445151,45.827935],"type":"Point"}
+}

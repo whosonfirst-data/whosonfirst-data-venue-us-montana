@@ -1,0 +1,67 @@
+{
+  "id": 169843481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.18084,45.777994,-111.18084,45.777994",
+    "geom:latitude":45.777994,
+    "geom:longitude":-111.18084,
+    "iso:country":"US",
+    "sg:address":"212 W Main St",
+    "sg:city":"Belgrade",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 388 0405",
+    "sg:postcode":"59714",
+    "sg:province":"MT",
+    "sg:tags":[
+        "launderer",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972651,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Egxumca7lAZ812rnwAvXR_45.777994_-111.180840@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7c35bf5badbcb8c20cd87e9cace3459",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972651,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169843481
+        }
+    ],
+    "wof:id":169843481,
+    "wof:lastmodified":1449032969,
+    "wof:name":"3 DS Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "launderer",
+        "industrial"
+    ]
+},
+  "bbox": [-111.18084,45.777994,-111.18084,45.777994],
+  "geometry": {"coordinates":[-111.18084,45.777994],"type":"Point"}
+}

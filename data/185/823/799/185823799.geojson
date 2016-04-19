@@ -1,0 +1,66 @@
+{
+  "id": 185823799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.043934,45.682272,-111.043934,45.682272",
+    "geom:latitude":45.682272,
+    "geom:longitude":-111.043934,
+    "iso:country":"US",
+    "sg:address":"321 N 5th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 4404",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TbxIDoFtC3TVJGGvWdVFO_45.682272_-111.043934@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddc5f4f58bb303242b28ed3f46d84197",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891685,
+            "region_id":85688617,
+            "venue_id":185823799
+        }
+    ],
+    "wof:id":185823799,
+    "wof:lastmodified":1449008182,
+    "wof:name":"Evergreen Bozeman Health",
+    "wof:parent_id":85891685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [-111.043934,45.682272,-111.043934,45.682272],
+  "geometry": {"coordinates":[-111.043934,45.682272],"type":"Point"}
+}

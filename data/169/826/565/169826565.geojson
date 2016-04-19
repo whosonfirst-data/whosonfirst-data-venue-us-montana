@@ -1,0 +1,68 @@
+{
+  "id": 169826565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.015671,46.839685,-114.015671,46.839685",
+    "geom:latitude":46.839685,
+    "geom:longitude":-114.015671,
+    "iso:country":"US",
+    "sg:address":"1216 McDonald Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 0235",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dPeAVWiBuRasmP0XxKOD5_46.839685_-114.015671@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78f05c08c3ce7b5651ec0745c6f6d97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":169826565
+        }
+    ],
+    "wof:id":169826565,
+    "wof:lastmodified":1449035073,
+    "wof:name":"Cedars West APT",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-114.015671,46.839685,-114.015671,46.839685],
+  "geometry": {"coordinates":[-114.015671,46.839685],"type":"Point"}
+}

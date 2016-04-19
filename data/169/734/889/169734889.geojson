@@ -1,0 +1,70 @@
+{
+  "id": 169734889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.47068,45.820346,-108.47068,45.820346",
+    "geom:latitude":45.820346,
+    "geom:longitude":-108.47068,
+    "iso:country":"US",
+    "sg:address":"1145 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7162",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31I6rB9PR7rK1hjHIcC3Iv_45.820346_-108.470680@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c0d3704c62686f58f4b0ea03ecdb419",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":169734889
+        }
+    ],
+    "wof:id":169734889,
+    "wof:lastmodified":1449035532,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [-108.47068,45.820346,-108.47068,45.820346],
+  "geometry": {"coordinates":[-108.47068,45.820346],"type":"Point"}
+}

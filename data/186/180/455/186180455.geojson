@@ -1,0 +1,66 @@
+{
+  "id": 186180455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.03661,46.84505,-114.03661,46.84505",
+    "geom:latitude":46.84505,
+    "geom:longitude":-114.03661,
+    "iso:country":"US",
+    "sg:address":"2325 Benton Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 7635",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YmPLEADILvbTtfyE4ujUD_46.845050_-114.036610@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5cc7d40d27ad47ed09b33ecbbb34cfb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186180455
+        }
+    ],
+    "wof:id":186180455,
+    "wof:lastmodified":1449050383,
+    "wof:name":"Benton Apartments",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [-114.03661,46.84505,-114.03661,46.84505],
+  "geometry": {"coordinates":[-114.03661,46.84505],"type":"Point"}
+}

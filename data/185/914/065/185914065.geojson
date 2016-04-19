@@ -1,0 +1,68 @@
+{
+  "id": 185914065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.027389,46.862578,-114.027389,46.862578",
+    "geom:latitude":46.862578,
+    "geom:longitude":-114.027389,
+    "iso:country":"US",
+    "sg:address":"1938 S 8th St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 3747",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1msSXZNXYXAKzMCk15iKpd_46.862578_-114.027389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eba10bc2d87d0a5bb8fd0f0850e5c90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":185914065
+        }
+    ],
+    "wof:id":185914065,
+    "wof:lastmodified":1449007223,
+    "wof:name":"Waldbillig Electric",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-114.027389,46.862578,-114.027389,46.862578],
+  "geometry": {"coordinates":[-114.027389,46.862578],"type":"Point"}
+}

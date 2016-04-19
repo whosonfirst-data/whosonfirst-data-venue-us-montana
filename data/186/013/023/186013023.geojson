@@ -1,0 +1,66 @@
+{
+  "id": 186013023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.452437,45.840089,-108.452437,45.840089",
+    "geom:latitude":45.840089,
+    "geom:longitude":-108.452437,
+    "iso:country":"US",
+    "sg:address":"2209 Hyacinth Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 4666",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AkZ9gKa7kPLMyWTgZVLEh_45.840089_-108.452437@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4b5840a7299721d00fbb5f1aae809a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":186013023
+        }
+    ],
+    "wof:id":186013023,
+    "wof:lastmodified":1449052185,
+    "wof:name":"Wine Merchant",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wine"
+    ]
+},
+  "bbox": [-108.452437,45.840089,-108.452437,45.840089],
+  "geometry": {"coordinates":[-108.452437,45.840089],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186157139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.47102,45.806998,-108.47102,45.806998",
+    "geom:latitude":45.806998,
+    "geom:longitude":-108.47102,
+    "iso:country":"US",
+    "sg:address":"538 Lincoln Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 1240",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ek1dyKhs15A2gi2FJhcrO_45.806998_-108.471020@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77f90a8bb89500510ece1d7f21ceadf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186157139
+        }
+    ],
+    "wof:id":186157139,
+    "wof:lastmodified":1449052637,
+    "wof:name":"G & C Authorized Sales",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.47102,45.806998,-108.47102,45.806998],
+  "geometry": {"coordinates":[-108.47102,45.806998],"type":"Point"}
+}

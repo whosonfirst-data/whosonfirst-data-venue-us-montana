@@ -1,0 +1,67 @@
+{
+  "id": 186058133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.039491,46.834233,-114.039491,46.834233",
+    "geom:latitude":46.834233,
+    "geom:longitude":-114.039491,
+    "iso:country":"US",
+    "sg:address":"3801 S Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 3311",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:brand_id":420574345,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RIWLu1aVkyflyMKgTa8kG_46.834233_-114.039491@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aef43476c891ff8883e3c0bf0df5f7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":186058133
+        }
+    ],
+    "wof:id":186058133,
+    "wof:lastmodified":1457208804,
+    "wof:name":"Safeway",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.039491,
+    46.834233,
+    -114.039491,
+    46.834233
+],
+  "geometry": {"coordinates":[-114.039491,46.834233],"type":"Point"}
+}

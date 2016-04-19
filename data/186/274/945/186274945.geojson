@@ -1,0 +1,73 @@
+{
+  "id": 186274945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.490943,48.333653,-104.490943,48.333653",
+    "geom:latitude":48.333653,
+    "geom:longitude":-104.490943,
+    "iso:country":"US",
+    "sg:address":"111 2nd Ave S",
+    "sg:city":"Froid",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 766 2331",
+    "sg:postcode":"59226",
+    "sg:province":"MT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972877,
+        102085139
+    ],
+    "wof:brand_id":420573749,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a6edbR3AGrxO2NsOlcGEc_48.333653_-104.490943@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47b3e6a18ddca9415c031ba3fd04a52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085139,
+            "locality_id":85972877,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186274945
+        }
+    ],
+    "wof:id":186274945,
+    "wof:lastmodified":1457207040,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -104.490943,
+    48.333653,
+    -104.490943,
+    48.333653
+],
+  "geometry": {"coordinates":[-104.490943,48.333653],"type":"Point"}
+}

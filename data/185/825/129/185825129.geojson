@@ -1,0 +1,71 @@
+{
+  "id": 185825129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.5077,45.782268,-108.5077,45.782268",
+    "geom:latitude":45.782268,
+    "geom:longitude":-108.5077,
+    "iso:country":"US",
+    "sg:address":"117 N 29th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2705",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lfusbKEbHA6PFh8XMkKu3_45.782268_-108.507700@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7abeee278a3c7cf2c4b9cb151bfb817",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":185825129
+        }
+    ],
+    "wof:id":185825129,
+    "wof:lastmodified":1449006640,
+    "wof:name":"Brockel's Chocolates",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [-108.5077,45.782268,-108.5077,45.782268],
+  "geometry": {"coordinates":[-108.5077,45.782268],"type":"Point"}
+}

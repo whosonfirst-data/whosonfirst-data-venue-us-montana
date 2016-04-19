@@ -1,0 +1,66 @@
+{
+  "id": 185751563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.048569,45.671247,-111.048569,45.671247",
+    "geom:latitude":45.671247,
+    "geom:longitude":-111.048569,
+    "iso:country":"US",
+    "sg:address":"815 W College St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 9137",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "juice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oc3mmhJUSsb2fVXBBPpqP_45.671247_-111.048569@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d0d8ddaed2cac17f2f646f098701314",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876465,
+            "region_id":85688617,
+            "venue_id":185751563
+        }
+    ],
+    "wof:id":185751563,
+    "wof:lastmodified":1449006678,
+    "wof:name":"Junga Juice",
+    "wof:parent_id":85876465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juice"
+    ]
+},
+  "bbox": [-111.048569,45.671247,-111.048569,45.671247],
+  "geometry": {"coordinates":[-111.048569,45.671247],"type":"Point"}
+}

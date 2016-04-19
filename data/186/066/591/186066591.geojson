@@ -1,0 +1,68 @@
+{
+  "id": 186066591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.047156,45.671265,-111.047156,45.671265",
+    "geom:latitude":45.671265,
+    "geom:longitude":-111.047156,
+    "iso:country":"US",
+    "sg:address":"717 W College St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 8012",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mpSbxOUmNVXucHNap1Apm_45.671265_-111.047156@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"746b7d18592040d47be840727e46a80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876465,
+            "region_id":85688617,
+            "venue_id":186066591
+        }
+    ],
+    "wof:id":186066591,
+    "wof:lastmodified":1449051157,
+    "wof:name":"Mini Mart 728",
+    "wof:parent_id":85876465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [-111.047156,45.671265,-111.047156,45.671265],
+  "geometry": {"coordinates":[-111.047156,45.671265],"type":"Point"}
+}

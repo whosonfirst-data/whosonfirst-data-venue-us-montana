@@ -1,0 +1,68 @@
+{
+  "id": 185911927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.515551,45.788096,-108.515551,45.788096",
+    "geom:latitude":45.788096,
+    "geom:longitude":-108.515551,
+    "iso:country":"US",
+    "sg:address":"940 N 30th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7186",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nhNtLAytgJ2MN7EaxsuUi_45.788096_-108.515551@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"277fd87dd2d5b6f42cb7f8455acef3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":185911927
+        }
+    ],
+    "wof:id":185911927,
+    "wof:lastmodified":1449007972,
+    "wof:name":"Healthsouth Surgery Ctr",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [-108.515551,45.788096,-108.515551,45.788096],
+  "geometry": {"coordinates":[-108.515551,45.788096],"type":"Point"}
+}

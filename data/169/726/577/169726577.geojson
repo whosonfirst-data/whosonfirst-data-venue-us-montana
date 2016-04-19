@@ -1,0 +1,66 @@
+{
+  "id": 169726577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.561783,45.785087,-108.561783,45.785087",
+    "geom:latitude":45.785087,
+    "geom:longitude":-108.561783,
+    "iso:country":"US",
+    "sg:address":"1701 Ave B",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 6774",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NcRdA9Qqwn96xlx8QyA0c_45.785087_-108.561783@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3dc4b3c0da02f471e1d62541a09b7895",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":169726577
+        }
+    ],
+    "wof:id":169726577,
+    "wof:lastmodified":1449034956,
+    "wof:name":"M C Kastrop DDS",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-108.561783,45.785087,-108.561783,45.785087],
+  "geometry": {"coordinates":[-108.561783,45.785087],"type":"Point"}
+}

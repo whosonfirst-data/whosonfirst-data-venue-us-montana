@@ -1,0 +1,67 @@
+{
+  "id": 186410827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.185676,45.670096,-111.185676,45.670096",
+    "geom:latitude":45.670096,
+    "geom:longitude":-111.185676,
+    "iso:country":"US",
+    "sg:address":"81855 Gallatin Rd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 9984",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972957,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RDe8JEAz8kh3LwKdhMEhv_45.670096_-111.185676@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dbf09581c70c354378392f3642a17e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972957,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186410827
+        }
+    ],
+    "wof:id":186410827,
+    "wof:lastmodified":1449050292,
+    "wof:name":"Corner Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-111.185676,45.670096,-111.185676,45.670096],
+  "geometry": {"coordinates":[-111.185676,45.670096],"type":"Point"}
+}

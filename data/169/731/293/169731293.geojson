@@ -1,0 +1,68 @@
+{
+  "id": 169731293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.534452,46.000923,-112.534452,46.000923",
+    "geom:latitude":46.000923,
+    "geom:longitude":-112.534452,
+    "iso:country":"US",
+    "sg:address":"1000 S Main St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 4692",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iC5cFpzuZeulQQmQAyHdy_46.000923_-112.534452@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d8ae83abad37dc1723a4a42f5420c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":169731293
+        }
+    ],
+    "wof:id":169731293,
+    "wof:lastmodified":1449035586,
+    "wof:name":"Cooney's Locksmith & Gun Safes",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-112.534452,46.000923,-112.534452,46.000923],
+  "geometry": {"coordinates":[-112.534452,46.000923],"type":"Point"}
+}

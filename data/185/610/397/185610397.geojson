@@ -1,0 +1,70 @@
+{
+  "id": 185610397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.454215,45.835544,-108.454215,45.835544",
+    "geom:latitude":45.835544,
+    "geom:longitude":-108.454215,
+    "iso:country":"US",
+    "sg:address":"2048 Linden Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 9918",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W6DufFS2SIoPNBeT3WeqN_45.835544_-108.454215@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2fb2cbe3029879d47883b1937e169faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185610397
+        }
+    ],
+    "wof:id":185610397,
+    "wof:lastmodified":1449008166,
+    "wof:name":"Los Guys Lawn Svc",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [-108.454215,45.835544,-108.454215,45.835544],
+  "geometry": {"coordinates":[-108.454215,45.835544],"type":"Point"}
+}

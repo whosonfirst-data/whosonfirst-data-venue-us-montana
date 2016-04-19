@@ -1,0 +1,70 @@
+{
+  "id": 186234101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.01666,46.872828,-114.01666,46.872828",
+    "geom:latitude":46.872828,
+    "geom:longitude":-114.01666,
+    "iso:country":"US",
+    "sg:address":"1345 Montana St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 327 1122",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "towing",
+        "detailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cn0G7yRUyqZmTPQaauAy8_46.872828_-114.016660@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d66b3f38476716bb6a7675ecead0d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":186234101
+        }
+    ],
+    "wof:id":186234101,
+    "wof:lastmodified":1449052890,
+    "wof:name":"Dealers Choice Details",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "towing",
+        "detailing"
+    ]
+},
+  "bbox": [-114.01666,46.872828,-114.01666,46.872828],
+  "geometry": {"coordinates":[-114.01666,46.872828],"type":"Point"}
+}

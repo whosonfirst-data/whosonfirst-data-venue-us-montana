@@ -1,0 +1,78 @@
+{
+  "id": 185880849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.596605,45.759591,-108.596605,45.759591",
+    "geom:latitude":45.759591,
+    "geom:longitude":-108.596605,
+    "iso:country":"US",
+    "sg:address":"3136 Lampman Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 2111",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "parts",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27HCrP5Ng0WDE3AzfTfL5t_45.759591_-108.596605@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"647d846374f6881a0e44ad119803671c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":185880849
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185880849
+        }
+    ],
+    "wof:id":185880849,
+    "wof:lastmodified":1449008222,
+    "wof:name":"Champion Auto Stores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "accessory"
+    ]
+},
+  "bbox": [-108.596605,45.759591,-108.596605,45.759591],
+  "geometry": {"coordinates":[-108.596605,45.759591],"type":"Point"}
+}

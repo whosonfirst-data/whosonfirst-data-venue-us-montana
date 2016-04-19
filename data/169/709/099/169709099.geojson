@@ -1,0 +1,77 @@
+{
+  "id": 169709099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.539563,46.011862,-112.539563,46.011862",
+    "geom:latitude":46.011862,
+    "geom:longitude":-112.539563,
+    "iso:country":"US",
+    "sg:address":"227 W Galena St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 6911",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ij6QjYWv8S8ouyPjVOBoe_46.011862_-112.539563@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b523cee8f91ff2f382314edf5d561d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":169709099
+        }
+    ],
+    "wof:id":169709099,
+    "wof:lastmodified":1449033352,
+    "wof:name":"Schulte's Glass Shop",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ]
+},
+  "bbox": [-112.539563,46.011862,-112.539563,46.011862],
+  "geometry": {"coordinates":[-112.539563,46.011862],"type":"Point"}
+}

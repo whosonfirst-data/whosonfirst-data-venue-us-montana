@@ -1,0 +1,70 @@
+{
+  "id": 169700813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.546964,45.775207,-108.546964,45.775207",
+    "geom:latitude":45.775207,
+    "geom:longitude":-108.546964,
+    "iso:country":"US",
+    "sg:address":"1221 Terry Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 7074",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20IZ05mVwRoeJys5MG9MYM_45.775207_-108.546964@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"357360d2b0cbf93b1f55ea32c9447978",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":169700813
+        }
+    ],
+    "wof:id":169700813,
+    "wof:lastmodified":1449035668,
+    "wof:name":"Al's Body Shop",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-108.546964,45.775207,-108.546964,45.775207],
+  "geometry": {"coordinates":[-108.546964,45.775207],"type":"Point"}
+}

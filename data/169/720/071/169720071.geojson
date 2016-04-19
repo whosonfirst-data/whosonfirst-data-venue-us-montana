@@ -1,0 +1,67 @@
+{
+  "id": 169720071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.510228,45.990314,-112.510228,45.990314",
+    "geom:latitude":45.990314,
+    "geom:longitude":-112.510228,
+    "iso:country":"US",
+    "sg:address":"2301 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 2276",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:brand_id":420573815,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IU2aOY8KdcuD4eGBo36Gw_45.990314_-112.510228@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05d9005cea97a1eae8748d4ba09b1ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":169720071
+        }
+    ],
+    "wof:id":169720071,
+    "wof:lastmodified":1457207517,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.510228,
+    45.990314,
+    -112.510228,
+    45.990314
+],
+  "geometry": {"coordinates":[-112.510228,45.990314],"type":"Point"}
+}

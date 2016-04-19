@@ -1,0 +1,66 @@
+{
+  "id": 186022283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.544117,45.783987,-108.544117,45.783987",
+    "geom:latitude":45.783987,
+    "geom:longitude":-108.544117,
+    "iso:country":"US",
+    "sg:address":"1116 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 7000",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "piano"
+    ],
+    "sg:website":"www.allaboutpianos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iL7ZZklJGcXMr3na5FCN2_45.783987_-108.544117@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"efa2fd3d935e859f7907f687dfc76add",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":186022283
+        }
+    ],
+    "wof:id":186022283,
+    "wof:lastmodified":1449051282,
+    "wof:name":"All About Pianos Inc",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano"
+    ]
+},
+  "bbox": [-108.544117,45.783987,-108.544117,45.783987],
+  "geometry": {"coordinates":[-108.544117,45.783987],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186007721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.04279,45.679355,-111.04279,45.679355",
+    "geom:latitude":45.679355,
+    "geom:longitude":-111.04279,
+    "iso:country":"US",
+    "sg:address":"421 W Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 4661",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lvvcqL0K9P1d2JsqlP6C7_45.679355_-111.042790@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55b9a0291f0a05391de8bc5399ae4e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":186007721
+        }
+    ],
+    "wof:id":186007721,
+    "wof:lastmodified":1449052552,
+    "wof:name":"4 BS Family Restaurant",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-111.04279,45.679355,-111.04279,45.679355],
+  "geometry": {"coordinates":[-111.04279,45.679355],"type":"Point"}
+}

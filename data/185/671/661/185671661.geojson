@@ -1,0 +1,68 @@
+{
+  "id": 185671661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.50376,45.778332,-108.50376,45.778332",
+    "geom:latitude":45.778332,
+    "geom:longitude":-108.50376,
+    "iso:country":"US",
+    "sg:address":"123 S 29th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 3837",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WvBDMWH7muXP0xoU58xwd_45.778332_-108.503760@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29744820dc1d1987fb0779be95a3d8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":185671661
+        }
+    ],
+    "wof:id":185671661,
+    "wof:lastmodified":1449006983,
+    "wof:name":"Italla D'Oro Espresso",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [-108.50376,45.778332,-108.50376,45.778332],
+  "geometry": {"coordinates":[-108.50376,45.778332],"type":"Point"}
+}

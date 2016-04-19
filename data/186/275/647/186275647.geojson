@@ -1,0 +1,69 @@
+{
+  "id": 186275647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.449979,45.794795,-108.449979,45.794795",
+    "geom:latitude":45.794795,
+    "geom:longitude":-108.449979,
+    "iso:country":"US",
+    "sg:address":"1341 Rosebud Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6135",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.evergreenhealthcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rVl58vt67USma8tH7FVYk_45.794795_-108.449979@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"482421c4c5b26060a4704bdad5afb3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186275647
+        }
+    ],
+    "wof:id":186275647,
+    "wof:lastmodified":1449051247,
+    "wof:name":"Evergreen Billings Health",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-108.449979,45.794795,-108.449979,45.794795],
+  "geometry": {"coordinates":[-108.449979,45.794795],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186250183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.02302,46.882343,-114.02302,46.882343",
+    "geom:latitude":46.882343,
+    "geom:longitude":-114.02302,
+    "iso:country":"US",
+    "sg:address":"1900 W Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 0913",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RUDkjzKNXBrCRY1cI9PcX_46.882343_-114.023020@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd6b2234eb16c4731e49073534f4d650",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":186250183
+        }
+    ],
+    "wof:id":186250183,
+    "wof:lastmodified":1449051910,
+    "wof:name":"Grime B Gone",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-114.02302,46.882343,-114.02302,46.882343],
+  "geometry": {"coordinates":[-114.02302,46.882343],"type":"Point"}
+}

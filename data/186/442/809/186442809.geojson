@@ -1,0 +1,65 @@
+{
+  "id": 186442809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.515077,45.769808,-108.515077,45.769808",
+    "geom:latitude":45.769808,
+    "geom:longitude":-108.515077,
+    "iso:country":"US",
+    "sg:address":"4141 State Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 5642",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UDMIuqWhhzjVP1DW5WzuR_45.769808_-108.515077@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4137f2b8270d1a89fa0dc7e00632cb9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":186442809
+        }
+    ],
+    "wof:id":186442809,
+    "wof:lastmodified":1449051552,
+    "wof:name":"Home Delivery Svc",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [-108.515077,45.769808,-108.515077,45.769808],
+  "geometry": {"coordinates":[-108.515077,45.769808],"type":"Point"}
+}

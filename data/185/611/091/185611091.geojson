@@ -1,0 +1,66 @@
+{
+  "id": 185611091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.511789,45.782862,-108.511789,45.782862",
+    "geom:latitude":45.782862,
+    "geom:longitude":-108.511789,
+    "iso:country":"US",
+    "sg:address":"3012 4th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 0445",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "bagel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UKReMqBwhb7dQ7GOSZ1IF_45.782862_-108.511789@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86e1cbaf9a483c527ae391a2389a7bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":185611091
+        }
+    ],
+    "wof:id":185611091,
+    "wof:lastmodified":1449007883,
+    "wof:name":"Grand Bagel Co",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel"
+    ]
+},
+  "bbox": [-108.511789,45.782862,-108.511789,45.782862],
+  "geometry": {"coordinates":[-108.511789,45.782862],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 185919839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.587707,45.747905,-108.587707,45.747905",
+    "geom:latitude":45.747905,
+    "geom:longitude":-108.587707,
+    "iso:country":"US",
+    "sg:address":"1140 S 29th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 6098",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jZfDBvNNhCGX6wUnc5L9Q_45.747905_-108.587707@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a2879f138655957f69fb87bed7b78dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185919839
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185919839
+        }
+    ],
+    "wof:id":185919839,
+    "wof:lastmodified":1449007831,
+    "wof:name":"Billings Precast Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [-108.587707,45.747905,-108.587707,45.747905],
+  "geometry": {"coordinates":[-108.587707,45.747905],"type":"Point"}
+}

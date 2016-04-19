@@ -1,0 +1,69 @@
+{
+  "id": 185908561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.502122,45.7876,-108.502122,45.7876",
+    "geom:latitude":45.7876,
+    "geom:longitude":-108.502122,
+    "iso:country":"US",
+    "sg:address":"2201 4th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 9537",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rC1mkE4YGhugAW4zf2nwj_45.787600_-108.502122@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5911d1a609b65873b539143d72c32013",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":185908561
+        }
+    ],
+    "wof:id":185908561,
+    "wof:lastmodified":1449007518,
+    "wof:name":"Mobel Service Auto",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [-108.502122,45.7876,-108.502122,45.7876],
+  "geometry": {"coordinates":[-108.502122,45.7876],"type":"Point"}
+}

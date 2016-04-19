@@ -1,0 +1,68 @@
+{
+  "id": 185816639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.037204,45.680394,-111.037204,45.680394",
+    "geom:latitude":45.680394,
+    "geom:longitude":-111.037204,
+    "iso:country":"US",
+    "sg:address":"5 E Mendenhall St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 2569",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HJyj1kr7jhFf03OwpwLCr_45.680394_-111.037204@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b5d26191c9302c588d194eb16037d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":185816639
+        }
+    ],
+    "wof:id":185816639,
+    "wof:lastmodified":1449007551,
+    "wof:name":"Straightaway Motors",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [-111.037204,45.680394,-111.037204,45.680394],
+  "geometry": {"coordinates":[-111.037204,45.680394],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 169727105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.065787,45.678826,-111.065787,45.678826",
+    "geom:latitude":45.678826,
+    "geom:longitude":-111.065787,
+    "iso:country":"US",
+    "sg:address":"2119 W Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 0407",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "lubrication",
+        "car",
+        "wash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133
+    ],
+    "wof:brand_id":420573899,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HXABNlyBeNXxliMc76SYi_45.678826_-111.065787@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f361bbbb37a13aa8423c745d1cec8129",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169727105
+        }
+    ],
+    "wof:id":169727105,
+    "wof:lastmodified":1457207838,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "lubrication",
+        "car",
+        "wash"
+    ]
+},
+  "bbox": [
+    -111.065787,
+    45.678826,
+    -111.065787,
+    45.678826
+],
+  "geometry": {"coordinates":[-111.065787,45.678826],"type":"Point"}
+}

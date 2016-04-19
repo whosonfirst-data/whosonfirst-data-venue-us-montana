@@ -1,0 +1,68 @@
+{
+  "id": 185691677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470732,45.82658,-108.470732,45.82658",
+    "geom:latitude":45.82658,
+    "geom:longitude":-108.470732,
+    "iso:country":"US",
+    "sg:address":"1531 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2011",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "supermarket",
+        "chain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zUMjoBmJWUSZXnxziOS3M_45.826580_-108.470732@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e10c0907b86a1f98607f66b6a075b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185691677
+        }
+    ],
+    "wof:id":185691677,
+    "wof:lastmodified":1449006737,
+    "wof:name":"Smiths",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supermarket",
+        "chain"
+    ]
+},
+  "bbox": [-108.470732,45.82658,-108.470732,45.82658],
+  "geometry": {"coordinates":[-108.470732,45.82658],"type":"Point"}
+}

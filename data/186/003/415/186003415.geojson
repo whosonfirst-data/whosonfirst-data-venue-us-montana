@@ -1,0 +1,73 @@
+{
+  "id": 186003415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.550285,45.753478,-108.550285,45.753478",
+    "geom:latitude":45.753478,
+    "geom:longitude":-108.550285,
+    "iso:country":"US",
+    "sg:address":"5320 Southgate Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 255 6272",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85859347
+    ],
+    "wof:brand_id":420573863,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UTuhdBR2PenSJ4EZPOLvn_45.753478_-108.550285@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"143e4a5a5665f5099657f23256497827",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186003415
+        }
+    ],
+    "wof:id":186003415,
+    "wof:lastmodified":1457207703,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -108.550285,
+    45.753478,
+    -108.550285,
+    45.753478
+],
+  "geometry": {"coordinates":[-108.550285,45.753478],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169841563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.421978,45.794538,-108.421978,45.794538",
+    "geom:latitude":45.794538,
+    "geom:longitude":-108.421978,
+    "iso:country":"US",
+    "sg:address":"2351 US Hwy 87 E",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 7088",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Su078o30fkIN823WxwTve_45.794538_-108.421978@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"324b9679a277d7cfd6955034a477c20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":169841563
+        }
+    ],
+    "wof:id":169841563,
+    "wof:lastmodified":1449033375,
+    "wof:name":"N C Mini Warehouse",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-108.421978,45.794538,-108.421978,45.794538],
+  "geometry": {"coordinates":[-108.421978,45.794538],"type":"Point"}
+}

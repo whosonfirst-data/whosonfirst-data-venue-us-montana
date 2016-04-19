@@ -1,0 +1,75 @@
+{
+  "id": 185696571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470888,45.826153,-108.470888,45.826153",
+    "geom:latitude":45.826153,
+    "geom:longitude":-108.470888,
+    "iso:country":"US",
+    "sg:address":"1404 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7078",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "product",
+        "goldsmith",
+        "silversmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zOry9ey8VscpTklANamJB_45.826153_-108.470888@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e00287f14fa8f5a8959f5fc8923b0a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185696571
+        }
+    ],
+    "wof:id":185696571,
+    "wof:lastmodified":1449006730,
+    "wof:name":"Bear Mountain Silversmiths",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "goldsmith",
+        "silversmith"
+    ]
+},
+  "bbox": [-108.470888,45.826153,-108.470888,45.826153],
+  "geometry": {"coordinates":[-108.470888,45.826153],"type":"Point"}
+}

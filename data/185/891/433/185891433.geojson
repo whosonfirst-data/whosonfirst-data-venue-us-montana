@@ -1,0 +1,66 @@
+{
+  "id": 185891433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-110.535899,45.685545,-110.535899,45.685545",
+    "geom:latitude":45.685545,
+    "geom:longitude":-110.535899,
+    "iso:country":"US",
+    "sg:address":"2 Driftwood Dr",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 5890",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7645WHh3RhQV4vCoUabQuw_45.685545_-110.535899@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ef727f093a702c6d1b20e0929b8515b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":185891433
+        }
+    ],
+    "wof:id":185891433,
+    "wof:lastmodified":1449007583,
+    "wof:name":"Sasquatch Taxidermy",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [-110.535899,45.685545,-110.535899,45.685545],
+  "geometry": {"coordinates":[-110.535899,45.685545],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185912591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.035563,45.679193,-111.035563,45.679193",
+    "geom:latitude":45.679193,
+    "geom:longitude":-111.035563,
+    "iso:country":"US",
+    "sg:address":"118 E Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 0033",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jd1faCuIAP8gj9UqTYkdz_45.679193_-111.035563@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a49658c3dfb8d9d6e843ab0ff74aaf57",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":185912591
+        }
+    ],
+    "wof:id":185912591,
+    "wof:lastmodified":1449007422,
+    "wof:name":"Place Architects",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [-111.035563,45.679193,-111.035563,45.679193],
+  "geometry": {"coordinates":[-111.035563,45.679193],"type":"Point"}
+}

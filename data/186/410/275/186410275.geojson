@@ -1,0 +1,84 @@
+{
+  "id": 186410275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.597575,45.758474,-108.597575,45.758474",
+    "geom:latitude":45.758474,
+    "geom:longitude":-108.597575,
+    "iso:country":"US",
+    "sg:address":"650 Chokecherry Pl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4226",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "development",
+        "organization",
+        "economic",
+        "for",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DWkXRRDbliJuhKKjj64it_45.758474_-108.597575@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8902f7907f1b9b894e6544b7cd12af35",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186410275
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186410275
+        }
+    ],
+    "wof:id":186410275,
+    "wof:lastmodified":1449050293,
+    "wof:name":"Localfund",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "organization",
+        "economic",
+        "for",
+        "software"
+    ]
+},
+  "bbox": [-108.597575,45.758474,-108.597575,45.758474],
+  "geometry": {"coordinates":[-108.597575,45.758474],"type":"Point"}
+}

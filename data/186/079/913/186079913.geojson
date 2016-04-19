@@ -1,0 +1,66 @@
+{
+  "id": 186079913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.050441,45.679596,-111.050441,45.679596",
+    "geom:latitude":45.679596,
+    "geom:longitude":-111.050441,
+    "iso:country":"US",
+    "sg:address":"19 N 10th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 4646",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O6euhsKLE7DQvehsPkEnr_45.679596_-111.050441@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"286bdc6707ec4f5f2bfe4aa6f1995f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891711,
+            "region_id":85688617,
+            "venue_id":186079913
+        }
+    ],
+    "wof:id":186079913,
+    "wof:lastmodified":1449052556,
+    "wof:name":"Basye Appliance Service",
+    "wof:parent_id":85891711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [-111.050441,45.679596,-111.050441,45.679596],
+  "geometry": {"coordinates":[-111.050441,45.679596],"type":"Point"}
+}

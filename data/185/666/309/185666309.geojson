@@ -1,0 +1,70 @@
+{
+  "id": 185666309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584456,45.75023,-108.584456,45.75023",
+    "geom:latitude":45.75023,
+    "geom:longitude":-108.584456,
+    "iso:country":"US",
+    "sg:address":"2747 Enterprise Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 3399",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YmLSjXD1g786FVGoL06NU_45.750230_-108.584456@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b86309fd6ee54379e09b7acff154720a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185666309
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":185666309
+        }
+    ],
+    "wof:id":185666309,
+    "wof:lastmodified":1449007187,
+    "wof:name":"N C S Healthcare of Billings",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-108.584456,45.75023,-108.584456,45.75023],
+  "geometry": {"coordinates":[-108.584456,45.75023],"type":"Point"}
+}

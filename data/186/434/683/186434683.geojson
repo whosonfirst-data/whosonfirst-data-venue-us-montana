@@ -1,0 +1,65 @@
+{
+  "id": 186434683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.525338,45.768659,-108.525338,45.768659",
+    "geom:latitude":45.768659,
+    "geom:longitude":-108.525338,
+    "iso:country":"US",
+    "sg:address":"43 Orchard Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 2121",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jnioTc5nQCBIPSumutXkw_45.768659_-108.525338@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60ba5da2ec29abf304b69778712fdeb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":186434683
+        }
+    ],
+    "wof:id":186434683,
+    "wof:lastmodified":1449050978,
+    "wof:name":"City Towing",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [-108.525338,45.768659,-108.525338,45.768659],
+  "geometry": {"coordinates":[-108.525338,45.768659],"type":"Point"}
+}

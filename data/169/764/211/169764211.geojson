@@ -1,0 +1,71 @@
+{
+  "id": 169764211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470777,45.815519,-108.470777,45.815519",
+    "geom:latitude":45.815519,
+    "geom:longitude":-108.470777,
+    "iso:country":"US",
+    "sg:address":"904 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 0505",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OuAHoFTFRamHt5qooe2ib_45.815519_-108.470777@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a07f1b02727fb4e95cc186ec7b361311",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":169764211
+        }
+    ],
+    "wof:id":169764211,
+    "wof:lastmodified":1449035804,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-108.470777,45.815519,-108.470777,45.815519],
+  "geometry": {"coordinates":[-108.470777,45.815519],"type":"Point"}
+}

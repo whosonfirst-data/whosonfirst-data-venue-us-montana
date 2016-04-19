@@ -1,0 +1,77 @@
+{
+  "id": 186121205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.583537,45.750294,-108.583537,45.750294",
+    "geom:latitude":45.750294,
+    "geom:longitude":-108.583537,
+    "iso:country":"US",
+    "sg:address":"2702 Enterprise Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 7528",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mQyEeTopws0MqtdOuQBqq_45.750294_-108.583537@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ced7c325e44e1521d7680c80497ada6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186121205
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186121205
+        }
+    ],
+    "wof:id":186121205,
+    "wof:lastmodified":1449052411,
+    "wof:name":"Circuit Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-108.583537,45.750294,-108.583537,45.750294],
+  "geometry": {"coordinates":[-108.583537,45.750294],"type":"Point"}
+}

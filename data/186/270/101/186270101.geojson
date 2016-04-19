@@ -1,0 +1,78 @@
+{
+  "id": 186270101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.054789,45.660215,-111.054789,45.660215",
+    "geom:latitude":45.660215,
+    "geom:longitude":-111.054789,
+    "iso:country":"US",
+    "sg:address":"2001 Stadium Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 7676",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891709,
+        85876465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WLRiTIM2oVkdq8Bpqvwq4_45.660215_-111.054789@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8608e1fbce8d7168dd2e2cb4bca72e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891709,
+            "region_id":85688617,
+            "venue_id":186270101
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876465,
+            "region_id":85688617,
+            "venue_id":186270101
+        }
+    ],
+    "wof:id":186270101,
+    "wof:lastmodified":1449050895,
+    "wof:name":"Bridger Realty Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial"
+    ]
+},
+  "bbox": [-111.054789,45.660215,-111.054789,45.660215],
+  "geometry": {"coordinates":[-111.054789,45.660215],"type":"Point"}
+}

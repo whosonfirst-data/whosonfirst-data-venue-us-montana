@@ -1,0 +1,66 @@
+{
+  "id": 169739101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.029496,46.832774,-114.029496,46.832774",
+    "geom:latitude":46.832774,
+    "geom:longitude":-114.029496,
+    "iso:country":"US",
+    "sg:address":"5 Virginia Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 0323",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D9JzEmEz2EeCweGCAuZj3_46.832774_-114.029496@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e83d40d02515f775079c57d9cb17d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":169739101
+        }
+    ],
+    "wof:id":169739101,
+    "wof:lastmodified":1449034062,
+    "wof:name":"Westside Janitorial",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-114.029496,46.832774,-114.029496,46.832774],
+  "geometry": {"coordinates":[-114.029496,46.832774],"type":"Point"}
+}

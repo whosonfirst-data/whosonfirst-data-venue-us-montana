@@ -1,0 +1,67 @@
+{
+  "id": 186374541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-104.733454,47.120109,-104.733454,47.120109",
+    "geom:latitude":47.120109,
+    "geom:longitude":-104.733454,
+    "iso:country":"US",
+    "sg:address":"76 State Hwy 16",
+    "sg:city":"Glendive",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 365 5238",
+    "sg:postcode":"59330",
+    "sg:province":"MT",
+    "sg:tags":[
+        "patrol",
+        "highway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973371,
+        102085189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JUfKzzaLIwKJ0hsUpNrj0_47.120109_-104.733454@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d3ddd7efdb2174f63d0a3af8f585be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085189,
+            "locality_id":85973371,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186374541
+        }
+    ],
+    "wof:id":186374541,
+    "wof:lastmodified":1449051536,
+    "wof:name":"Glendive Highway Patrol Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "patrol",
+        "highway"
+    ]
+},
+  "bbox": [-104.733454,47.120109,-104.733454,47.120109],
+  "geometry": {"coordinates":[-104.733454,47.120109],"type":"Point"}
+}

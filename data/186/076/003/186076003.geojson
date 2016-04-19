@@ -1,0 +1,66 @@
+{
+  "id": 186076003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.525095,46.002373,-112.525095,46.002373",
+    "geom:latitude":46.002373,
+    "geom:longitude":-112.525095,
+    "iso:country":"US",
+    "sg:address":"1000 E Front St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 3666",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17nz17tRrOwncPnUl1F1PG_46.002373_-112.525095@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1d65349d8f0cd7942527f48d242fcee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186076003
+        }
+    ],
+    "wof:id":186076003,
+    "wof:lastmodified":1449052429,
+    "wof:name":"Front Street Laundromat",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-112.525095,46.002373,-112.525095,46.002373],
+  "geometry": {"coordinates":[-112.525095,46.002373],"type":"Point"}
+}

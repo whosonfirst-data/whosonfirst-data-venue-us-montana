@@ -1,0 +1,76 @@
+{
+  "id": 185990223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.519762,45.794938,-108.519762,45.794938",
+    "geom:latitude":45.794938,
+    "geom:longitude":-108.519762,
+    "iso:country":"US",
+    "sg:address":"100 Poly Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 2138",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "development",
+        "consultant",
+        "business",
+        "new"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xV6ODyieyMIlyq39dTEAc_45.794938_-108.519762@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ec610f08392f5e35853222bbb89d500",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":185990223
+        }
+    ],
+    "wof:id":185990223,
+    "wof:lastmodified":1449007670,
+    "wof:name":"Montana Business Incubator",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "consultant",
+        "business",
+        "new"
+    ]
+},
+  "bbox": [-108.519762,45.794938,-108.519762,45.794938],
+  "geometry": {"coordinates":[-108.519762,45.794938],"type":"Point"}
+}

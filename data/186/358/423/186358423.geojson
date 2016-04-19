@@ -1,0 +1,68 @@
+{
+  "id": 186358423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.345235,45.943687,-108.345235,45.943687",
+    "geom:latitude":45.943687,
+    "geom:longitude":-108.345235,
+    "iso:country":"US",
+    "sg:address":"5438 Carey Ave",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6634",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5febatqP4ADHHdOGHU63er_45.943687_-108.345235@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d2e21ff2effb43a9dd82ae640a3c3b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":186358423
+        }
+    ],
+    "wof:id":186358423,
+    "wof:lastmodified":1449051501,
+    "wof:name":"Galle's General Repair",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-108.345235,45.943687,-108.345235,45.943687],
+  "geometry": {"coordinates":[-108.345235,45.943687],"type":"Point"}
+}

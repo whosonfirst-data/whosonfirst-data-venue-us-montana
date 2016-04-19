@@ -1,0 +1,91 @@
+{
+  "id": 185989835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.607518,45.765669,-108.607518,45.765669",
+    "geom:latitude":45.765669,
+    "geom:longitude":-108.607518,
+    "iso:country":"US",
+    "sg:address":"283 Chaco Canyon Way",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 1765",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "door",
+        "devices",
+        "contractor",
+        "operating",
+        "gate",
+        "automatic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vfKEee4jtGJdvgMtkCPYc_45.765669_-108.607518@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a29081bb756fd35d9ea988cd26f62738",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185989835
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185989835
+        }
+    ],
+    "wof:id":185989835,
+    "wof:lastmodified":1449007769,
+    "wof:name":"Automatic Doors Of Montana Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door",
+        "devices",
+        "contractor",
+        "operating",
+        "gate",
+        "automatic"
+    ]
+},
+  "bbox": [-108.607518,45.765669,-108.607518,45.765669],
+  "geometry": {"coordinates":[-108.607518,45.765669],"type":"Point"}
+}

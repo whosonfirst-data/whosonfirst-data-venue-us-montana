@@ -1,0 +1,70 @@
+{
+  "id": 185879377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.478201,45.838574,-108.478201,45.838574",
+    "geom:latitude":45.838574,
+    "geom:longitude":-108.478201,
+    "iso:country":"US",
+    "sg:address":"2123 Phoebe Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 0446",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uDKSusSuQhACyedBjPIhH_45.838574_-108.478201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddce9d93b0268dd795edfb8fa73b25e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":185879377
+        }
+    ],
+    "wof:id":185879377,
+    "wof:lastmodified":1449006611,
+    "wof:name":"Reisig Trucking Incorp",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-108.478201,45.838574,-108.478201,45.838574],
+  "geometry": {"coordinates":[-108.478201,45.838574],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186128619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.50195,45.776475,-108.50195,45.776475",
+    "geom:latitude":45.776475,
+    "geom:longitude":-108.50195,
+    "iso:country":"US",
+    "sg:address":"2805 4th Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 860 0253",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77kpAEdP5qirp8C5bVujlg_45.776475_-108.501950@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f454e37f328624d37017db3a8d78d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":186128619
+        }
+    ],
+    "wof:id":186128619,
+    "wof:lastmodified":1449051409,
+    "wof:name":"B & B Concrete",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-108.50195,45.776475,-108.50195,45.776475],
+  "geometry": {"coordinates":[-108.50195,45.776475],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169800983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.038841,45.679073,-111.038841,45.679073",
+    "geom:latitude":45.679073,
+    "geom:longitude":-111.038841,
+    "iso:country":"US",
+    "sg:address":"19 S Willson Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 8200",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E6oEACpubv4KE2eYZNbuJ_45.679073_-111.038841@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0ae0a221128bc752c2b22a0aff6fbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":169800983
+        }
+    ],
+    "wof:id":169800983,
+    "wof:lastmodified":1449032941,
+    "wof:name":"Sweetpea Cafe",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-111.038841,45.679073,-111.038841,45.679073],
+  "geometry": {"coordinates":[-111.038841,45.679073],"type":"Point"}
+}

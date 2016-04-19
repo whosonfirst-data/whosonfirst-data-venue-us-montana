@@ -1,0 +1,71 @@
+{
+  "id": 185807059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.531914,45.777017,-108.531914,45.777017",
+    "geom:latitude":45.777017,
+    "geom:longitude":-108.531914,
+    "iso:country":"US",
+    "sg:address":"644 Broadwater Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 867 1000",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:brand_id":420574601,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aCFIqvdgimx72v61LZjpA_45.777017_-108.531914@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eee27421b085573b24efdeaf57bac1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":185807059
+        }
+    ],
+    "wof:id":185807059,
+    "wof:lastmodified":1457209040,
+    "wof:name":"Cellular One",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -108.531914,
+    45.777017,
+    -108.531914,
+    45.777017
+],
+  "geometry": {"coordinates":[-108.531914,45.777017],"type":"Point"}
+}

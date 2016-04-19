@@ -1,0 +1,68 @@
+{
+  "id": 186125853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.530243,45.772052,-108.530243,45.772052",
+    "geom:latitude":45.772052,
+    "geom:longitude":-108.530243,
+    "iso:country":"US",
+    "sg:address":"510 Cook Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0677",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hospital",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R9qIl0o6sd7AjRmPtiwBC_45.772052_-108.530243@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e37c9acc6fef2b6f629ca21e0161bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186125853
+        }
+    ],
+    "wof:id":186125853,
+    "wof:lastmodified":1449052945,
+    "wof:name":"Alcoholics Anonymous 644 Group",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty"
+    ]
+},
+  "bbox": [-108.530243,45.772052,-108.530243,45.772052],
+  "geometry": {"coordinates":[-108.530243,45.772052],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185600229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.659402,45.740567,-108.659402,45.740567",
+    "geom:latitude":45.740567,
+    "geom:longitude":-108.659402,
+    "iso:country":"US",
+    "sg:address":"5646 Hesper Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 8550",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NOiIhrFoclHxPc21rO7nt_45.740567_-108.659402@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2e61e9a9c183c016d5938c357a878cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185600229
+        }
+    ],
+    "wof:id":185600229,
+    "wof:lastmodified":1449006759,
+    "wof:name":"Blount Construction Inc",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-108.659402,45.740567,-108.659402,45.740567],
+  "geometry": {"coordinates":[-108.659402,45.740567],"type":"Point"}
+}

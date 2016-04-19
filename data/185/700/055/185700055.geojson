@@ -1,0 +1,67 @@
+{
+  "id": 185700055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.040276,46.591393,-112.040276,46.591393",
+    "geom:latitude":46.591393,
+    "geom:longitude":-112.040276,
+    "iso:country":"US",
+    "sg:address":"440 N Park Ave",
+    "sg:city":"Helena",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 442 8744",
+    "sg:postcode":"59601",
+    "sg:province":"MT",
+    "sg:tags":[
+        "apartment",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972711,
+        102085151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rix3Im7jGlK8AEpMCqoj8_46.591393_-112.040276@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d852ba1ac9c76eba35d4df15b4413982",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085151,
+            "locality_id":85972711,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185700055
+        }
+    ],
+    "wof:id":185700055,
+    "wof:lastmodified":1449008076,
+    "wof:name":"Park Avenue Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "rental"
+    ]
+},
+  "bbox": [-112.040276,46.591393,-112.040276,46.591393],
+  "geometry": {"coordinates":[-112.040276,46.591393],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186074903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-105.411513,45.443438,-105.411513,45.443438",
+    "geom:latitude":45.443438,
+    "geom:longitude":-105.411513,
+    "iso:country":"US",
+    "sg:address":"216 Holt St",
+    "sg:city":"Broadus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 436 2804",
+    "sg:postcode":"59317",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972739,
+        102085127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CbaONJwTitoKQHxA0dGDm_45.443438_-105.411513@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"960913493c9e10fbcc3f22c360e2f350",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085127,
+            "locality_id":85972739,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":186074903
+        }
+    ],
+    "wof:id":186074903,
+    "wof:lastmodified":1449051825,
+    "wof:name":"D & P Auto Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-105.411513,45.443438,-105.411513,45.443438],
+  "geometry": {"coordinates":[-105.411513,45.443438],"type":"Point"}
+}

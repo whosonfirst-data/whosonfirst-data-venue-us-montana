@@ -1,0 +1,66 @@
+{
+  "id": 169788617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.00262,46.85064,-114.00262,46.85064",
+    "geom:latitude":46.85064,
+    "geom:longitude":-114.00262,
+    "iso:country":"US",
+    "sg:address":"300 W Central Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 3156",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bMlvh2BwE1L3kRMpGy549_46.850640_-114.002620@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0a46d4bcbd3a8fb9aae65f96b0ba4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":169788617
+        }
+    ],
+    "wof:id":169788617,
+    "wof:lastmodified":1449034383,
+    "wof:name":"Johnny's Restaurant",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-114.00262,46.85064,-114.00262,46.85064],
+  "geometry": {"coordinates":[-114.00262,46.85064],"type":"Point"}
+}

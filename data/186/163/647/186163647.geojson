@@ -1,0 +1,74 @@
+{
+  "id": 186163647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.509745,45.765297,-108.509745,45.765297",
+    "geom:latitude":45.765297,
+    "geom:longitude":-108.509745,
+    "iso:country":"US",
+    "sg:address":"475 Washington St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 7833",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M2rtAYHZX3vsDCxJxGSz5_45.765297_-108.509745@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81f1a197a3276ad66673ce17f746b420",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":186163647
+        }
+    ],
+    "wof:id":186163647,
+    "wof:lastmodified":1449052976,
+    "wof:name":"B B Disaster Restoration Inc",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [-108.509745,45.765297,-108.509745,45.765297],
+  "geometry": {"coordinates":[-108.509745,45.765297],"type":"Point"}
+}

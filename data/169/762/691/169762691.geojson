@@ -1,0 +1,83 @@
+{
+  "id": 169762691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566195,45.78413,-108.566195,45.78413",
+    "geom:latitude":45.78413,
+    "geom:longitude":-108.566195,
+    "iso:country":"US",
+    "sg:address":"1925 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 3500",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "control",
+        "installation",
+        "fire",
+        "alarm",
+        "system",
+        "maintenance",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lLM6TRfPKDpymwp21USBl_45.784130_-108.566195@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e317d6902d442b6365e119971123ec1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":169762691
+        }
+    ],
+    "wof:id":169762691,
+    "wof:lastmodified":1449035005,
+    "wof:name":"Northern Fire & Communications",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "installation",
+        "fire",
+        "alarm",
+        "system",
+        "maintenance",
+        "security"
+    ]
+},
+  "bbox": [-108.566195,45.78413,-108.566195,45.78413],
+  "geometry": {"coordinates":[-108.566195,45.78413],"type":"Point"}
+}

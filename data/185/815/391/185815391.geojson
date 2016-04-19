@@ -1,0 +1,68 @@
+{
+  "id": 185815391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.269099,48.208699,-114.269099,48.208699",
+    "geom:latitude":48.208699,
+    "geom:longitude":-114.269099,
+    "iso:country":"US",
+    "sg:address":"903 Conrad Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 0444",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DSJ3UxJAY6QOBvFJIaR77_48.208699_-114.269099@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18071ad6ec1b30be59651408e46c8f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":185815391
+        }
+    ],
+    "wof:id":185815391,
+    "wof:lastmodified":1449007407,
+    "wof:name":"Control Electric",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-114.269099,48.208699,-114.269099,48.208699],
+  "geometry": {"coordinates":[-114.269099,48.208699],"type":"Point"}
+}

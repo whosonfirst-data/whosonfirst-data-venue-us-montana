@@ -1,0 +1,80 @@
+{
+  "id": 185608023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.537853,45.787022,-108.537853,45.787022",
+    "geom:latitude":45.787022,
+    "geom:longitude":-108.537853,
+    "iso:country":"US",
+    "sg:address":"825 Ave D",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 4111",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment",
+        "residential",
+        "community",
+        "retirement",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rCfvV5fcmyJ0udoz0xcdw_45.787022_-108.537853@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"452ff6cc863dcc078a80aca259e99db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":185608023
+        }
+    ],
+    "wof:id":185608023,
+    "wof:lastmodified":1449007298,
+    "wof:name":"Pleasant View Apartments",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment",
+        "residential",
+        "community",
+        "retirement",
+        "home"
+    ]
+},
+  "bbox": [-108.537853,45.787022,-108.537853,45.787022],
+  "geometry": {"coordinates":[-108.537853,45.787022],"type":"Point"}
+}

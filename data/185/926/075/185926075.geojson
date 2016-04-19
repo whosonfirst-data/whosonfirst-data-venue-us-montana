@@ -1,0 +1,74 @@
+{
+  "id": 185926075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.093233,46.503672,-114.093233,46.503672",
+    "geom:latitude":46.503672,
+    "geom:longitude":-114.093233,
+    "iso:country":"US",
+    "sg:address":"701 Main St",
+    "sg:city":"Stevensville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 777 5812",
+    "sg:postcode":"59870",
+    "sg:province":"MT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972795,
+        102085185
+    ],
+    "wof:brand_id":420573749,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33vMfPpPOMVij5p12gIgQo_46.503672_-114.093233@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9fcca66e59da7f27c56c71be1253027c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085185,
+            "locality_id":85972795,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":185926075
+        }
+    ],
+    "wof:id":185926075,
+    "wof:lastmodified":1457207044,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -114.093233,
+    46.503672,
+    -114.093233,
+    46.503672
+],
+  "geometry": {"coordinates":[-114.093233,46.503672],"type":"Point"}
+}

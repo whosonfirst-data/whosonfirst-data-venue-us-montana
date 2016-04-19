@@ -1,0 +1,68 @@
+{
+  "id": 186374101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.709116,48.036727,-114.709116,48.036727",
+    "geom:latitude":48.036727,
+    "geom:longitude":-114.709116,
+    "iso:country":"US",
+    "sg:address":"200 Hubbart Dam Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 854 2832",
+    "sg:postcode":"59925",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zX3cwpSlR9mPHQoQ2Km2i_48.036727_-114.709116@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74bd0ed106f2bbdc0f7103144a635532",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186374101
+        }
+    ],
+    "wof:id":186374101,
+    "wof:lastmodified":1449051538,
+    "wof:name":"Wilderness Treatment School",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-114.709116,48.036727,-114.709116,48.036727],
+  "geometry": {"coordinates":[-114.709116,48.036727],"type":"Point"}
+}

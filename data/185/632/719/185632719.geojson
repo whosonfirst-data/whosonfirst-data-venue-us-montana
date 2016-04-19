@@ -1,0 +1,68 @@
+{
+  "id": 185632719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470767,45.828579,-108.470767,45.828579",
+    "geom:latitude":45.828579,
+    "geom:longitude":-108.470767,
+    "iso:country":"US",
+    "sg:address":"1633 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 867 1455",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6myN0P4pg9hjmp0cQ5fHUd_45.828579_-108.470767@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c550640bf3ac827be75e3c5a74e7b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":185632719
+        }
+    ],
+    "wof:id":185632719,
+    "wof:lastmodified":1449007620,
+    "wof:name":"Wireless Express",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [-108.470767,45.828579,-108.470767,45.828579],
+  "geometry": {"coordinates":[-108.470767,45.828579],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169790707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.996319,46.876166,-113.996319,46.876166",
+    "geom:latitude":46.876166,
+    "geom:longitude":-113.996319,
+    "iso:country":"US",
+    "sg:address":"323 W Alder St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 523 4769",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical",
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s1KuxUIBSlN70yBAEjwXb_46.876166_-113.996319@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c6c63398d2290338e5ad3e06f2ed3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":169790707
+        }
+    ],
+    "wof:id":169790707,
+    "wof:lastmodified":1449035190,
+    "wof:name":"Partnership Health",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "executive"
+    ]
+},
+  "bbox": [-113.996319,46.876166,-113.996319,46.876166],
+  "geometry": {"coordinates":[-113.996319,46.876166],"type":"Point"}
+}

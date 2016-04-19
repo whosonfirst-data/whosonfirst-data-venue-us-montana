@@ -1,0 +1,68 @@
+{
+  "id": 185820367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.026515,46.887115,-114.026515,46.887115",
+    "geom:latitude":46.887115,
+    "geom:longitude":-114.026515,
+    "iso:country":"US",
+    "sg:address":"2316 Palmer St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 829 8399",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z0qStHaX4gPReM6fneTVr_46.887115_-114.026515@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4168e5d95c6c72b0041ea1f859143e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":185820367
+        }
+    ],
+    "wof:id":185820367,
+    "wof:lastmodified":1449007465,
+    "wof:name":"Jacobs Engine & Machine",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [-114.026515,46.887115,-114.026515,46.887115],
+  "geometry": {"coordinates":[-114.026515,46.887115],"type":"Point"}
+}

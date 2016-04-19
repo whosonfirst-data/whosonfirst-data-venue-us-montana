@@ -1,0 +1,68 @@
+{
+  "id": 169734709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.07234,45.70352,-111.07234,45.70352",
+    "geom:latitude":45.70352,
+    "geom:longitude":-111.07234,
+    "iso:country":"US",
+    "sg:address":"1317 Thomas Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 595 0171",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tQhp2fL2SwrcRbvtro6Fw_45.703520_-111.072340@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"458be2f109c650961c6967ffa5e1f9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891695,
+            "region_id":85688617,
+            "venue_id":169734709
+        }
+    ],
+    "wof:id":169734709,
+    "wof:lastmodified":1449035533,
+    "wof:name":"B L B Painting Inc",
+    "wof:parent_id":85891695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [-111.07234,45.70352,-111.07234,45.70352],
+  "geometry": {"coordinates":[-111.07234,45.70352],"type":"Point"}
+}

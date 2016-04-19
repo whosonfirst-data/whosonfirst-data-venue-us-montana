@@ -1,0 +1,69 @@
+{
+  "id": 185940109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.506345,45.78548,-108.506345,45.78548",
+    "geom:latitude":45.78548,
+    "geom:longitude":-108.506345,
+    "iso:country":"US",
+    "sg:address":"2650 4th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 3110",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "sg:website":"www.masterlube.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bB2MWdTEu3zbQ2Oj9Bras_45.785480_-108.506345@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d7c8458c953ff94a4c6dd2f21ec8360",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":185940109
+        }
+    ],
+    "wof:id":185940109,
+    "wof:lastmodified":1449007009,
+    "wof:name":"Master Lube",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-108.506345,45.78548,-108.506345,45.78548],
+  "geometry": {"coordinates":[-108.506345,45.78548],"type":"Point"}
+}

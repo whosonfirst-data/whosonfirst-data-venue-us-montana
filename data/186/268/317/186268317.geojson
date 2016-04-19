@@ -1,0 +1,65 @@
+{
+  "id": 186268317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.547628,45.747014,-108.547628,45.747014",
+    "geom:latitude":45.747014,
+    "geom:longitude":-108.547628,
+    "iso:country":"US",
+    "sg:address":"1335 Weil St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 2485",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KbUPZdARMn2SezraN8lbv_45.747014_-108.547628@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd8d065d4cae22c346bc493311c35d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186268317
+        }
+    ],
+    "wof:id":186268317,
+    "wof:lastmodified":1449051905,
+    "wof:name":"Montana Motor Repair",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-108.547628,45.747014,-108.547628,45.747014],
+  "geometry": {"coordinates":[-108.547628,45.747014],"type":"Point"}
+}

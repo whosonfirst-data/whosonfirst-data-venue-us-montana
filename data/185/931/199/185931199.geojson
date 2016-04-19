@@ -1,0 +1,65 @@
+{
+  "id": 185931199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.102871,44.66218,-111.102871,44.66218",
+    "geom:latitude":44.66218,
+    "geom:longitude":-111.102871,
+    "iso:country":"US",
+    "sg:address":"234 Firehole Ave",
+    "sg:city":"West Yellowstone",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 646 1111",
+    "sg:postcode":"59758",
+    "sg:province":"MT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085133,
+        85891741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zpqoPCIypXEspq8e3IctC_44.662180_-111.102871@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ac1f59c468ee8f236f7749980f69219",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":-1,
+            "neighbourhood_id":85891741,
+            "region_id":85688617,
+            "venue_id":185931199
+        }
+    ],
+    "wof:id":185931199,
+    "wof:lastmodified":1449008071,
+    "wof:name":"Yellowstone Taxi",
+    "wof:parent_id":85891741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-111.102871,44.66218,-111.102871,44.66218],
+  "geometry": {"coordinates":[-111.102871,44.66218],"type":"Point"}
+}

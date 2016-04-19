@@ -1,0 +1,68 @@
+{
+  "id": 186132947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.640866,45.747876,-108.640866,45.747876",
+    "geom:latitude":45.747876,
+    "geom:longitude":-108.640866,
+    "iso:country":"US",
+    "sg:address":"4870 Blue Spruce Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 8776",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RLvtgVCmniSeEKbXY7At7_45.747876_-108.640866@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0537f848a89db4165f924fdca149132",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":186132947
+        }
+    ],
+    "wof:id":186132947,
+    "wof:lastmodified":1449051685,
+    "wof:name":"Sonshine Electric Inc",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-108.640866,45.747876,-108.640866,45.747876],
+  "geometry": {"coordinates":[-108.640866,45.747876],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 186118589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.494596,45.784283,-108.494596,45.784283",
+    "geom:latitude":45.784283,
+    "geom:longitude":-108.494596,
+    "iso:country":"US",
+    "sg:address":"2025 1st Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6191",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O9FtlGiByEy2Al4FpOKl0_45.784283_-108.494596@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0bec5faf49e0aae5c2cbc811ddacad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":186118589
+        }
+    ],
+    "wof:id":186118589,
+    "wof:lastmodified":1449052501,
+    "wof:name":"A Plus Electric Motor Repair",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [-108.494596,45.784283,-108.494596,45.784283],
+  "geometry": {"coordinates":[-108.494596,45.784283],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 185727703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.489157,45.827429,-108.489157,45.827429",
+    "geom:latitude":45.827429,
+    "geom:longitude":-108.489157,
+    "iso:country":"US",
+    "sg:address":"15 W Wicks Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 5358",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Frt6k9bVXJJmQrU53tEeZ_45.827429_-108.489157@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd0416112295b159ded31f98bc828bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":185727703
+        }
+    ],
+    "wof:id":185727703,
+    "wof:lastmodified":1449006853,
+    "wof:name":"Laundry Time",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-108.489157,45.827429,-108.489157,45.827429],
+  "geometry": {"coordinates":[-108.489157,45.827429],"type":"Point"}
+}

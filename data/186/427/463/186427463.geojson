@@ -1,0 +1,87 @@
+{
+  "id": 186427463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.617317,45.723178,-108.617317,45.723178",
+    "geom:latitude":45.723178,
+    "geom:longitude":-108.617317,
+    "iso:country":"US",
+    "sg:address":"2601 Wise Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 3037",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "product",
+        "aluminum",
+        "mfg",
+        "primary",
+        "trade",
+        "fabricator",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876265,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_651JwDUdXPqKyLnMOybeuG_45.723178_-108.617317@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"342672c582e27e59dbe0457ad1445b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186427463
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":186427463
+        }
+    ],
+    "wof:id":186427463,
+    "wof:lastmodified":1449051186,
+    "wof:name":"Dave's Welding & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "aluminum",
+        "mfg",
+        "primary",
+        "trade",
+        "fabricator",
+        "contractor"
+    ]
+},
+  "bbox": [-108.617317,45.723178,-108.617317,45.723178],
+  "geometry": {"coordinates":[-108.617317,45.723178],"type":"Point"}
+}

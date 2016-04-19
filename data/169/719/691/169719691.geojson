@@ -1,0 +1,68 @@
+{
+  "id": 169719691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.018497,46.882876,-114.018497,46.882876",
+    "geom:latitude":46.882876,
+    "geom:longitude":-114.018497,
+    "iso:country":"US",
+    "sg:address":"1111 N Russell St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 9327",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BDu0x1mG5c4G4Up5AA8oD_46.882876_-114.018497@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c1cf7ff203ef778438da86b6c87b898",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":169719691
+        }
+    ],
+    "wof:id":169719691,
+    "wof:lastmodified":1449033109,
+    "wof:name":"Russs Body & Paint Shop Inc",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting"
+    ]
+},
+  "bbox": [-114.018497,46.882876,-114.018497,46.882876],
+  "geometry": {"coordinates":[-114.018497,46.882876],"type":"Point"}
+}

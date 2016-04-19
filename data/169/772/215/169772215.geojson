@@ -1,0 +1,67 @@
+{
+  "id": 169772215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.509566,45.797066,-108.509566,45.797066",
+    "geom:latitude":45.797066,
+    "geom:longitude":-108.509566,
+    "iso:country":"US",
+    "sg:address":"1105 N 22nd St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 8384",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mqfKB1Y7ToMk04HRAVsvx_45.797066_-108.509566@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ba7361d96f5fb5bf6207c67f3584f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":169772215
+        }
+    ],
+    "wof:id":169772215,
+    "wof:lastmodified":1449034152,
+    "wof:name":"Highland Apartments",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-108.509566,45.797066,-108.509566,45.797066],
+  "geometry": {"coordinates":[-108.509566,45.797066],"type":"Point"}
+}

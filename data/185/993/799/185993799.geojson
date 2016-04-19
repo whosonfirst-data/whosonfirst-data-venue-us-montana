@@ -1,0 +1,66 @@
+{
+  "id": 185993799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.401825,45.819065,-108.401825,45.819065",
+    "geom:latitude":45.819065,
+    "geom:longitude":-108.401825,
+    "iso:country":"US",
+    "sg:address":"1135 Wren St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 1880",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fp8EzzEt3HHQEWYw3Ouio_45.819065_-108.401825@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad5d24f6ebb61cd29018524d8ce334e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":185993799
+        }
+    ],
+    "wof:id":185993799,
+    "wof:lastmodified":1449007327,
+    "wof:name":"Sunflower Home",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [-108.401825,45.819065,-108.401825,45.819065],
+  "geometry": {"coordinates":[-108.401825,45.819065],"type":"Point"}
+}

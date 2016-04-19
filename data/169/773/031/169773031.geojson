@@ -1,0 +1,67 @@
+{
+  "id": 169773031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.671198,47.608388,-114.671198,47.608388",
+    "geom:latitude":47.608388,
+    "geom:longitude":-114.671198,
+    "iso:country":"US",
+    "sg:address":"209 Main St",
+    "sg:city":"Hot Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 741 2145",
+    "sg:postcode":"59845",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972643,
+        102085063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vhLK7v5TgfwXY8df89uyl_47.608388_-114.671198@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f04acd4a90976618cb1af3af915b8a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085063,
+            "locality_id":85972643,
+            "neighbourhood_id":-1,
+            "region_id":85688617,
+            "venue_id":169773031
+        }
+    ],
+    "wof:id":169773031,
+    "wof:lastmodified":1449033100,
+    "wof:name":"Hots Springs Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-114.671198,47.608388,-114.671198,47.608388],
+  "geometry": {"coordinates":[-114.671198,47.608388],"type":"Point"}
+}

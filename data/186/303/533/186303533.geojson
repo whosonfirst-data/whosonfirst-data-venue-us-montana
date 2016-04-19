@@ -1,0 +1,70 @@
+{
+  "id": 186303533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.041269,45.679714,-111.041269,45.679714",
+    "geom:latitude":45.679714,
+    "geom:longitude":-111.041269,
+    "iso:country":"US",
+    "sg:address":"12 N 3rd Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 582 3100",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nfFHj2dlGpUggNjv6IAf1_45.679714_-111.041269@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"340980ce96e18c3936e73792215fad11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":186303533
+        }
+    ],
+    "wof:id":186303533,
+    "wof:lastmodified":1449050272,
+    "wof:name":"Gallatin City County Hlth Dept",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [-111.041269,45.679714,-111.041269,45.679714],
+  "geometry": {"coordinates":[-111.041269,45.679714],"type":"Point"}
+}

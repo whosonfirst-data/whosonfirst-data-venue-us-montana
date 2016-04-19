@@ -1,0 +1,76 @@
+{
+  "id": 186082305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.595609,45.75327,-108.595609,45.75327",
+    "geom:latitude":45.75327,
+    "geom:longitude":-108.595609,
+    "iso:country":"US",
+    "sg:address":"3110 Cel Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 670 4395",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V6VAz1xMg86WTRdjupIpl_45.753270_-108.595609@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd85e4ae8ef2e19f3779d64168763194",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186082305
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":186082305
+        }
+    ],
+    "wof:id":186082305,
+    "wof:lastmodified":1449050335,
+    "wof:name":"Downtown Wrecker & Recovery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [-108.595609,45.75327,-108.595609,45.75327],
+  "geometry": {"coordinates":[-108.595609,45.75327],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 186252153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.48415,45.827414,-108.48415,45.827414",
+    "geom:latitude":45.827414,
+    "geom:longitude":-108.48415,
+    "iso:country":"US",
+    "sg:address":"15 Wicks Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 6712",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D6LTEHwSrGYxzYLNExhaf_45.827414_-108.484150@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4096e1190e21fa04b4e49d071ce4d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":186252153
+        }
+    ],
+    "wof:id":186252153,
+    "wof:lastmodified":1449050659,
+    "wof:name":"Coffee N Cream",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "coin"
+    ]
+},
+  "bbox": [-108.48415,45.827414,-108.48415,45.827414],
+  "geometry": {"coordinates":[-108.48415,45.827414],"type":"Point"}
+}

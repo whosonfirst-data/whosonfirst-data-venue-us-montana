@@ -1,0 +1,84 @@
+{
+  "id": 185694549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.652258,45.711734,-108.652258,45.711734",
+    "geom:latitude":45.711734,
+    "geom:longitude":-108.652258,
+    "iso:country":"US",
+    "sg:address":"5415 Danford Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 1865",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "heavy",
+        "trucking",
+        "construction",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pQGZlHDCHZUU6wbewsXRX_45.711734_-108.652258@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4c3d7f5491675a37b8003080f8db2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185694549
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":-1,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":185694549
+        }
+    ],
+    "wof:id":185694549,
+    "wof:lastmodified":1449007059,
+    "wof:name":"Midnight Mail Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "heavy",
+        "trucking",
+        "construction",
+        "equipment"
+    ]
+},
+  "bbox": [-108.652258,45.711734,-108.652258,45.711734],
+  "geometry": {"coordinates":[-108.652258,45.711734],"type":"Point"}
+}

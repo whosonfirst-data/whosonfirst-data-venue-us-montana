@@ -1,0 +1,68 @@
+{
+  "id": 186456291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.06857,45.720697,-111.06857,45.720697",
+    "geom:latitude":45.720697,
+    "geom:longitude":-111.06857,
+    "iso:country":"US",
+    "sg:address":"110 Bogart Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 0066",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ekc5OMVudm4hLPR9OmL6T_45.720697_-111.068570@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"080f25d3adaec369681ff057a23a857c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891695,
+            "region_id":85688617,
+            "venue_id":186456291
+        }
+    ],
+    "wof:id":186456291,
+    "wof:lastmodified":1449051173,
+    "wof:name":"Banach Electric",
+    "wof:parent_id":85891695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-111.06857,45.720697,-111.06857,45.720697],
+  "geometry": {"coordinates":[-111.06857,45.720697],"type":"Point"}
+}

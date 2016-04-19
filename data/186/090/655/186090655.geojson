@@ -1,0 +1,68 @@
+{
+  "id": 186090655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.547551,46.009235,-112.547551,46.009235",
+    "geom:latitude":46.009235,
+    "geom:longitude":-112.547551,
+    "iso:country":"US",
+    "sg:address":"401 S Alabama St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 3865",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rFuHxFAiL2Uin3mzSCsgf_46.009235_-112.547551@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48e980d68f208825cd9ca0902ad28f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":186090655
+        }
+    ],
+    "wof:id":186090655,
+    "wof:lastmodified":1449052466,
+    "wof:name":"Murray Clinic Building Corp",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-112.547551,46.009235,-112.547551,46.009235],
+  "geometry": {"coordinates":[-112.547551,46.009235],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186200583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.565122,45.77685,-108.565122,45.77685",
+    "geom:latitude":45.77685,
+    "geom:longitude":-108.565122,
+    "iso:country":"US",
+    "sg:address":"2132 Broadwater Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 4210",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KkuQNJEU8cSFP3r741n5R_45.776850_-108.565122@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07a5ee0d32904646595aa99dfd3add2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":186200583
+        }
+    ],
+    "wof:id":186200583,
+    "wof:lastmodified":1449051445,
+    "wof:name":"Charles L Blackburn DDS",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-108.565122,45.77685,-108.565122,45.77685],
+  "geometry": {"coordinates":[-108.565122,45.77685],"type":"Point"}
+}

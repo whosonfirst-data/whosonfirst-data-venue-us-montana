@@ -1,0 +1,66 @@
+{
+  "id": 186199493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.080976,48.066027,-114.080976,48.066027",
+    "geom:latitude":48.066027,
+    "geom:longitude":-114.080976,
+    "iso:country":"US",
+    "sg:address":"810 Grand Dr",
+    "sg:city":"Bigfork",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 837 4590",
+    "sg:postcode":"59911",
+    "sg:province":"MT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3abHAnGCiplWhvNw3K0k8E_48.066027_-114.080976@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"caa0c0d8c5740fc8e88a314d09a243fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":186199493
+        }
+    ],
+    "wof:id":186199493,
+    "wof:lastmodified":1449050518,
+    "wof:name":"Bigfork Fire District",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-114.080976,48.066027,-114.080976,48.066027],
+  "geometry": {"coordinates":[-114.080976,48.066027],"type":"Point"}
+}

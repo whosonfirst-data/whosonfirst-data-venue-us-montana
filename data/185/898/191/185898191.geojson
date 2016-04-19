@@ -1,0 +1,69 @@
+{
+  "id": 185898191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.568392,45.783977,-108.568392,45.783977",
+    "geom:latitude":45.783977,
+    "geom:longitude":-108.568392,
+    "iso:country":"US",
+    "sg:address":"2046 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7654",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.danamotors.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zn7OvCzZb02JukxNNs6XD_45.783977_-108.568392@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73801db302b36a0721524d7a3a9d00a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":185898191
+        }
+    ],
+    "wof:id":185898191,
+    "wof:lastmodified":1449006572,
+    "wof:name":"Dana Motors",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-108.568392,45.783977,-108.568392,45.783977],
+  "geometry": {"coordinates":[-108.568392,45.783977],"type":"Point"}
+}

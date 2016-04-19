@@ -1,0 +1,68 @@
+{
+  "id": 185824257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-108.663321,45.80834,-108.663321,45.80834",
+    "geom:latitude":45.80834,
+    "geom:longitude":-108.663321,
+    "iso:country":"US",
+    "sg:address":"5840 Sam Snead Trl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 6525",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mMRM4RsngFkz6yD0CMSRT_45.808340_-108.663321@1294163950"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31ac427ef10d30e07ccfd827c0d86342",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":185824257
+        }
+    ],
+    "wof:id":185824257,
+    "wof:lastmodified":1449007157,
+    "wof:name":"Bobs Electrical Service",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-108.663321,45.80834,-108.663321,45.80834],
+  "geometry": {"coordinates":[-108.663321,45.80834],"type":"Point"}
+}
