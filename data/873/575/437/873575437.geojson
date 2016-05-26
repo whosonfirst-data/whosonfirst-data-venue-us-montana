@@ -1,0 +1,77 @@
+{
+  "id": 873575437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.587704,45.746512,-108.587704,45.746512",
+    "geom:latitude":45.746512,
+    "geom:longitude":-108.587704,
+    "iso:country":"US",
+    "sg:address":"1240 S 29th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 3250",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gTzfrn4nP15H2CmGHBYZt_45.746512_-108.587704@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294668,
+    "wof:geomhash":"8f977ecd1e688ad15d54284efda86b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873575437
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873575437
+        }
+    ],
+    "wof:id":873575437,
+    "wof:lastmodified":1464294668,
+    "wof:name":"Boise Cascade Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building"
+    ]
+},
+  "bbox": [
+    -108.587704,
+    45.746512,
+    -108.587704,
+    45.746512
+],
+  "geometry": {"coordinates":[-108.587704,45.746512],"type":"Point"}
+}

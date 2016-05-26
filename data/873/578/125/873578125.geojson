@@ -1,0 +1,73 @@
+{
+  "id": 873578125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.960206,46.90928,-113.960206,46.90928",
+    "geom:latitude":46.90928,
+    "geom:longitude":-113.960206,
+    "iso:country":"US",
+    "sg:address":"1505 Aspen Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 3677",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891733,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q8CEc8K2ODZ2VwGUIbUO4_46.909280_-113.960206@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294696,
+    "wof:geomhash":"116235029cc327a022c2de9c67dbd52d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891733,
+            "region_id":85688617,
+            "venue_id":873578125
+        }
+    ],
+    "wof:id":873578125,
+    "wof:lastmodified":1464294696,
+    "wof:name":"Jim Lowery Remodeling",
+    "wof:parent_id":85891733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.960206,
+    46.90928,
+    -113.960206,
+    46.90928
+],
+  "geometry": {"coordinates":[-113.960206,46.90928],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873592879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.076622,46.866858,-114.076622,46.866858",
+    "geom:latitude":46.866858,
+    "geom:longitude":-114.076622,
+    "iso:country":"US",
+    "sg:address":"3820 S 3rd St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 5466",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y9nQsEnibx9rbVDZVPYMo_46.866858_-114.076622@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294867,
+    "wof:geomhash":"3055c1742843377183c8c166bb6dc395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873592879
+        }
+    ],
+    "wof:id":873592879,
+    "wof:lastmodified":1464294867,
+    "wof:name":"Valet Limousine Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -114.076622,
+    46.866858,
+    -114.076622,
+    46.866858
+],
+  "geometry": {"coordinates":[-114.076622,46.866858],"type":"Point"}
+}

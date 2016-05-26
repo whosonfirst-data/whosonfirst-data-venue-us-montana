@@ -1,0 +1,77 @@
+{
+  "id": 873665265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.537212,45.769752,-108.537212,45.769752",
+    "geom:latitude":45.769752,
+    "geom:longitude":-108.537212,
+    "iso:country":"US",
+    "sg:address":"902 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 4270",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vaY6KNzJP3ed2TwCdTGku_45.769752_-108.537212@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295753,
+    "wof:geomhash":"0e1ac781c78abca0aadf70557bf1e747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873665265
+        }
+    ],
+    "wof:id":873665265,
+    "wof:lastmodified":1464295753,
+    "wof:name":"Xpert Radiator Repair Co",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -108.537212,
+    45.769752,
+    -108.537212,
+    45.769752
+],
+  "geometry": {"coordinates":[-108.537212,45.769752],"type":"Point"}
+}

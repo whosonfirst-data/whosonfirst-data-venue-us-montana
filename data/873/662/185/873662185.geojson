@@ -1,0 +1,67 @@
+{
+  "id": 873662185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.617643,45.785706,-108.617643,45.785706",
+    "geom:latitude":45.785706,
+    "geom:longitude":-108.617643,
+    "iso:country":"US",
+    "sg:address":"1450 Shiloh Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 3900",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:website":"www.stockmanbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wHyU1ldtmHt2aq4rYnr2Q_45.785706_-108.617643@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295721,
+    "wof:geomhash":"1cf72c249e55f6216695b2997b865a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873662185
+        }
+    ],
+    "wof:id":873662185,
+    "wof:lastmodified":1464295721,
+    "wof:name":"Stockman Bank",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.617643,
+    45.785706,
+    -108.617643,
+    45.785706
+],
+  "geometry": {"coordinates":[-108.617643,45.785706],"type":"Point"}
+}

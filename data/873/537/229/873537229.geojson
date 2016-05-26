@@ -1,0 +1,73 @@
+{
+  "id": 873537229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.33798,48.409569,-114.33798,48.409569",
+    "geom:latitude":48.409569,
+    "geom:longitude":-114.33798,
+    "iso:country":"US",
+    "sg:address":"419 3rd St",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 5221",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "store",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XTlqlZZ0kxYKTiHg0Jyah_48.409569_-114.337980@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294231,
+    "wof:geomhash":"a37f71d4584af5ea47ed5cf89cf3994e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873537229
+        }
+    ],
+    "wof:id":873537229,
+    "wof:lastmodified":1464294231,
+    "wof:name":"Whitefish Thrift",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -114.33798,
+    48.409569,
+    -114.33798,
+    48.409569
+],
+  "geometry": {"coordinates":[-114.33798,48.409569],"type":"Point"}
+}

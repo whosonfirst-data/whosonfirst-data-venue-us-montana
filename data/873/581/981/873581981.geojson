@@ -1,0 +1,69 @@
+{
+  "id": 873581981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.991109,46.87123,-113.991109,46.87123",
+    "geom:latitude":46.87123,
+    "geom:longitude":-113.991109,
+    "iso:country":"US",
+    "sg:address":"201 E Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 329 3607",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GZXrzsF3AQYtUJ5vCRji4_46.871230_-113.991109@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294742,
+    "wof:geomhash":"db80df195a9cafb047ad271b74e46789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873581981
+        }
+    ],
+    "wof:id":873581981,
+    "wof:lastmodified":1464294742,
+    "wof:name":"Court Security",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -113.991109,
+    46.87123,
+    -113.991109,
+    46.87123
+],
+  "geometry": {"coordinates":[-113.99110899999999,46.87123],"type":"Point"}
+}

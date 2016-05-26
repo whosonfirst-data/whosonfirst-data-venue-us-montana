@@ -1,0 +1,74 @@
+{
+  "id": 873701881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.318576,48.201556,-114.318576,48.201556",
+    "geom:latitude":48.201556,
+    "geom:longitude":-114.318576,
+    "iso:country":"US",
+    "sg:address":"235 W Idaho St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/kalispell/129718-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 2424",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ovP5AamaMRH7nIqSoFzd1_48.201556_-114.318576@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296424,
+    "wof:geomhash":"f8589e2a030b5c970054eda71d1a6604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873701881
+        }
+    ],
+    "wof:id":873701881,
+    "wof:lastmodified":1464296424,
+    "wof:name":"Subway",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -114.318576,
+    48.201556,
+    -114.318576,
+    48.201556
+],
+  "geometry": {"coordinates":[-114.31857599999999,48.201556],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873665509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.454142,45.829994,-108.454142,45.829994",
+    "geom:latitude":45.829994,
+    "geom:longitude":-108.454142,
+    "iso:country":"US",
+    "sg:address":"1228 Maurine St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 9943",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bTY3ACA3hJCTUu5E4OeNv_45.829994_-108.454142@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295755,
+    "wof:geomhash":"fbc08abd77c2b62250f8496819225959",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873665509
+        }
+    ],
+    "wof:id":873665509,
+    "wof:lastmodified":1464295755,
+    "wof:name":"Primrose Personal Care Home",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -108.454142,
+    45.829994,
+    -108.454142,
+    45.829994
+],
+  "geometry": {"coordinates":[-108.454142,45.829994],"type":"Point"}
+}

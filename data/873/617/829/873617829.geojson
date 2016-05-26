@@ -1,0 +1,79 @@
+{
+  "id": 873617829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.409496,45.871178,-108.409496,45.871178",
+    "geom:latitude":45.871178,
+    "geom:longitude":-108.409496,
+    "iso:country":"US",
+    "sg:address":"2946 Wolf Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6635",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "fee",
+        "cattle",
+        "beef",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68HV35zV6lowCQmaziVLh7_45.871178_-108.409496@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295223,
+    "wof:geomhash":"98b5f09c15ff5efa33fb1566d2ca77f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873617829
+        }
+    ],
+    "wof:id":873617829,
+    "wof:lastmodified":1464295223,
+    "wof:name":"Greenleaf Land & Live Stock Co",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "fee",
+        "cattle",
+        "beef",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -108.409496,
+    45.871178,
+    -108.409496,
+    45.871178
+],
+  "geometry": {"coordinates":[-108.409496,45.871178],"type":"Point"}
+}

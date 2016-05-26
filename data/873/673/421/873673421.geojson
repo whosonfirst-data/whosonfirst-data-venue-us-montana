@@ -1,0 +1,71 @@
+{
+  "id": 873673421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.571067,45.79417,-108.571067,45.79417",
+    "geom:latitude":45.79417,
+    "geom:longitude":-108.571067,
+    "iso:country":"US",
+    "sg:address":"2121 Iris Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 3895",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eSUjzErmfVeH5Ek47lJpf_45.794170_-108.571067@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295835,
+    "wof:geomhash":"9db652f622c57d09d406256fb47b42c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873673421
+        }
+    ],
+    "wof:id":873673421,
+    "wof:lastmodified":1464295835,
+    "wof:name":"Yurko Properties LLC",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -108.571067,
+    45.79417,
+    -108.571067,
+    45.79417
+],
+  "geometry": {"coordinates":[-108.571067,45.79417],"type":"Point"}
+}

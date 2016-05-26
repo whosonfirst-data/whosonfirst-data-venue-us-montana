@@ -1,0 +1,75 @@
+{
+  "id": 873657735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.511462,45.775466,-108.511462,45.775466",
+    "geom:latitude":45.775466,
+    "geom:longitude":-108.511462,
+    "iso:country":"US",
+    "sg:address":"3424 1st Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 1544",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "top",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44QdAMioS525QDU7cWyC86_45.775466_-108.511462@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295675,
+    "wof:geomhash":"405252986ee64155f7a8e2a8fde8fe59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873657735
+        }
+    ],
+    "wof:id":873657735,
+    "wof:lastmodified":1464295675,
+    "wof:name":"Jim's Upholstery",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "top",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    -108.511462,
+    45.775466,
+    -108.511462,
+    45.775466
+],
+  "geometry": {"coordinates":[-108.51146199999999,45.775466],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873570543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.059144,45.679231,-111.059144,45.679231",
+    "geom:latitude":45.679231,
+    "geom:longitude":-111.059144,
+    "iso:country":"US",
+    "sg:address":"1716 W Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 7722",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85891711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42FxEuSd2QlRL0h5rzg5MJ_45.679231_-111.059144@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294616,
+    "wof:geomhash":"b2de7c2dd080a68847ed664906d58299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891711,
+            "region_id":85688617,
+            "venue_id":873570543
+        }
+    ],
+    "wof:id":873570543,
+    "wof:lastmodified":1464294616,
+    "wof:name":"Archery Center",
+    "wof:parent_id":85891711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.059144,
+    45.679231,
+    -111.059144,
+    45.679231
+],
+  "geometry": {"coordinates":[-111.059144,45.679231],"type":"Point"}
+}

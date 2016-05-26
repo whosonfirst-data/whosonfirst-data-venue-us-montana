@@ -1,0 +1,71 @@
+{
+  "id": 873588291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.780585,45.669128,-108.780585,45.669128",
+    "geom:latitude":45.669128,
+    "geom:longitude":-108.780585,
+    "iso:country":"US",
+    "sg:address":"20 7th Ave",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 4773",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kt2JCBlYapaUb4Zq26jTU_45.669128_-108.780585@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294810,
+    "wof:geomhash":"12cbc791c5027de54b42ae223d18f8f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873588291
+        }
+    ],
+    "wof:id":873588291,
+    "wof:lastmodified":1464294810,
+    "wof:name":"Laurel Maintenance Shop",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -108.780585,
+    45.669128,
+    -108.780585,
+    45.669128
+],
+  "geometry": {"coordinates":[-108.780585,45.669128],"type":"Point"}
+}

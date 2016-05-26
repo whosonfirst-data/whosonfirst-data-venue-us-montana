@@ -1,0 +1,75 @@
+{
+  "id": 873641441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.466107,45.84581,-108.466107,45.84581",
+    "geom:latitude":45.84581,
+    "geom:longitude":-108.466107,
+    "iso:country":"US",
+    "sg:address":"2605 US Hwy 87",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8860",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "water",
+        "bulk",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oFPxDtBBDuz50ABInyfTN_45.845810_-108.466107@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295491,
+    "wof:geomhash":"f7fab710516842236a5be1d1151a9a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873641441
+        }
+    ],
+    "wof:id":873641441,
+    "wof:lastmodified":1464295491,
+    "wof:name":"Pioneer Water Svc",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "bulk",
+        "company"
+    ]
+},
+  "bbox": [
+    -108.466107,
+    45.84581,
+    -108.466107,
+    45.84581
+],
+  "geometry": {"coordinates":[-108.46610699999999,45.84581],"type":"Point"}
+}

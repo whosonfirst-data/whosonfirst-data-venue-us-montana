@@ -1,0 +1,74 @@
+{
+  "id": 873698441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.572008,45.651522,-110.572008,45.651522",
+    "geom:latitude":45.651522,
+    "geom:longitude":-110.572008,
+    "iso:country":"US",
+    "sg:address":"1319 W Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/upper-yellowstone-valley/67187-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 7393",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TD5vXQt8Kd6PdYfUi1sdB_45.651522_-110.572008@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296388,
+    "wof:geomhash":"fe9bae5695edc2e60f5c73a8207d06e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873698441
+        }
+    ],
+    "wof:id":873698441,
+    "wof:lastmodified":1464296388,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -110.572008,
+    45.651522,
+    -110.572008,
+    45.651522
+],
+  "geometry": {"coordinates":[-110.572008,45.651522],"type":"Point"}
+}

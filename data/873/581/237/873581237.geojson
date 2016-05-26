@@ -1,0 +1,85 @@
+{
+  "id": 873581237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.046538,45.67618,-111.046538,45.67618",
+    "geom:latitude":45.67618,
+    "geom:longitude":-111.046538,
+    "iso:country":"US",
+    "sg:address":"310 S 7th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 585 8469",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "graphic",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876465,
+        85891685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3whZjfjZu3x3E8dUPBWgt8_45.676180_-111.046538@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294735,
+    "wof:geomhash":"6383c7b5b98d4b1345ba2c31f90ae2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876465,
+            "region_id":85688617,
+            "venue_id":873581237
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891685,
+            "region_id":85688617,
+            "venue_id":873581237
+        }
+    ],
+    "wof:id":873581237,
+    "wof:lastmodified":1464294735,
+    "wof:name":"David Ross Cowan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "graphic",
+        "design"
+    ]
+},
+  "bbox": [
+    -111.046538,
+    45.67618,
+    -111.046538,
+    45.67618
+],
+  "geometry": {"coordinates":[-111.046538,45.67618],"type":"Point"}
+}

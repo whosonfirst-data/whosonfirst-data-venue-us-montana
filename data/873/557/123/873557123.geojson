@@ -1,0 +1,75 @@
+{
+  "id": 873557123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.443364,45.86624,-108.443364,45.86624",
+    "geom:latitude":45.86624,
+    "geom:longitude":-108.443364,
+    "iso:country":"US",
+    "sg:address":"3725 Broken Yoke Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6799",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ULD8i2gB0h7Zss9FjC39x_45.866240_-108.443364@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294462,
+    "wof:geomhash":"74347c08f9e8872cd4806f2d4493e319",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873557123
+        }
+    ],
+    "wof:id":873557123,
+    "wof:lastmodified":1464294462,
+    "wof:name":"Donahoe Trucking",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.443364,
+    45.86624,
+    -108.443364,
+    45.86624
+],
+  "geometry": {"coordinates":[-108.443364,45.86624],"type":"Point"}
+}

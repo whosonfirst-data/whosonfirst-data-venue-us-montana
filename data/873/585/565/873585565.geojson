@@ -1,0 +1,75 @@
+{
+  "id": 873585565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.538427,45.768973,-108.538427,45.768973",
+    "geom:latitude":45.768973,
+    "geom:longitude":-108.538427,
+    "iso:country":"US",
+    "sg:address":"114 Florine Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 3611",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B1Kdiyyr1lILBIh8dnVnI_45.768973_-108.538427@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294779,
+    "wof:geomhash":"3d688622167a0a6b660c0c57b4ecc578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873585565
+        }
+    ],
+    "wof:id":873585565,
+    "wof:lastmodified":1464294779,
+    "wof:name":"Berco Mail Svc",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -108.538427,
+    45.768973,
+    -108.538427,
+    45.768973
+],
+  "geometry": {"coordinates":[-108.538427,45.768973],"type":"Point"}
+}

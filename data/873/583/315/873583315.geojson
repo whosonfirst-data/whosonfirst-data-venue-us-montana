@@ -1,0 +1,71 @@
+{
+  "id": 873583315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.941886,46.873026,-113.941886,46.873026",
+    "geom:latitude":46.873026,
+    "geom:longitude":-113.941886,
+    "iso:country":"US",
+    "sg:address":"557 Minnesota Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 0374",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qJPMN5L7a4NncXO0xHVsO_46.873026_-113.941886@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294755,
+    "wof:geomhash":"a6ba4677ac2088e5804c032ee78845e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873583315
+        }
+    ],
+    "wof:id":873583315,
+    "wof:lastmodified":1464294755,
+    "wof:name":"Ben Olson Painting",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.941886,
+    46.873026,
+    -113.941886,
+    46.873026
+],
+  "geometry": {"coordinates":[-113.941886,46.873026],"type":"Point"}
+}

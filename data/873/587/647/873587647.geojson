@@ -1,0 +1,71 @@
+{
+  "id": 873587647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.040019,46.813623,-114.040019,46.813623",
+    "geom:latitude":46.813623,
+    "geom:longitude":-114.040019,
+    "iso:country":"US",
+    "sg:address":"5905 N Meadowwood Ln",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 5007",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WicQHurYKnDhALiJ5QzCm_46.813623_-114.040019@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294803,
+    "wof:geomhash":"3d45847813f86c33bbdf9f9798d237b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873587647
+        }
+    ],
+    "wof:id":873587647,
+    "wof:lastmodified":1464294803,
+    "wof:name":"Burlington Fence",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.040019,
+    46.813623,
+    -114.040019,
+    46.813623
+],
+  "geometry": {"coordinates":[-114.040019,46.813623],"type":"Point"}
+}

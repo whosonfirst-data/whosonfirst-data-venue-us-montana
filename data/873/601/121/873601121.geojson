@@ -1,0 +1,75 @@
+{
+  "id": 873601121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.636897,45.780142,-108.636897,45.780142",
+    "geom:latitude":45.780142,
+    "geom:longitude":-108.636897,
+    "iso:country":"US",
+    "sg:address":"4717 Jericho Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 8808",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "landscape",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FxYckO3AJeR88kfeGB6XQ_45.780142_-108.636897@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294999,
+    "wof:geomhash":"f8171ce4ef58f639de85a4079cde257d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873601121
+        }
+    ],
+    "wof:id":873601121,
+    "wof:lastmodified":1464294999,
+    "wof:name":"Quality Landscape Inc",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.636897,
+    45.780142,
+    -108.636897,
+    45.780142
+],
+  "geometry": {"coordinates":[-108.636897,45.780142],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873561913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584645,45.801534,-108.584645,45.801534",
+    "geom:latitude":45.801534,
+    "geom:longitude":-108.584645,
+    "iso:country":"US",
+    "sg:address":"2757 Gregory Dr N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 8460",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wZ10WNAkRmqGVwCFiGyCG_45.801534_-108.584645@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294520,
+    "wof:geomhash":"ed1b17605076e092453cf2dcc38c7046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873561913
+        }
+    ],
+    "wof:id":873561913,
+    "wof:lastmodified":1464294520,
+    "wof:name":"TCK Assoc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -108.584645,
+    45.801534,
+    -108.584645,
+    45.801534
+],
+  "geometry": {"coordinates":[-108.58464499999999,45.801534],"type":"Point"}
+}

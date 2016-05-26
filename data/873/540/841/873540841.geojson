@@ -1,0 +1,73 @@
+{
+  "id": 873540841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.502908,45.78476,-108.502908,45.78476",
+    "geom:latitude":45.78476,
+    "geom:longitude":-108.502908,
+    "iso:country":"US",
+    "sg:address":"2401 2nd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 0389",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dOgYB8bbcTPQMXJKe2RLu_45.784760_-108.502908@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294267,
+    "wof:geomhash":"c3e0d1302ed2ebd031a227ecd64f6e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525793,
+            "region_id":85688617,
+            "venue_id":873540841
+        }
+    ],
+    "wof:id":873540841,
+    "wof:lastmodified":1464294267,
+    "wof:name":"Log Cabin Bakery",
+    "wof:parent_id":420525793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -108.502908,
+    45.78476,
+    -108.502908,
+    45.78476
+],
+  "geometry": {"coordinates":[-108.50290800000001,45.78476],"type":"Point"}
+}

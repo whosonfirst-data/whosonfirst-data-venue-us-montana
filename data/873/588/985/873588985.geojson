@@ -1,0 +1,73 @@
+{
+  "id": 873588985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470742,45.825652,-108.470742,45.825652",
+    "geom:latitude":45.825652,
+    "geom:longitude":-108.470742,
+    "iso:country":"US",
+    "sg:address":"1433 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 1941",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xgBdrVlSzvNPQOAPOWqHm_45.825652_-108.470742@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294817,
+    "wof:geomhash":"5bcc0a0efe65bbe35990056ec0ba3f9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873588985
+        }
+    ],
+    "wof:id":873588985,
+    "wof:lastmodified":1464294817,
+    "wof:name":"Don's Car Wash",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -108.470742,
+    45.825652,
+    -108.470742,
+    45.825652
+],
+  "geometry": {"coordinates":[-108.470742,45.825652],"type":"Point"}
+}

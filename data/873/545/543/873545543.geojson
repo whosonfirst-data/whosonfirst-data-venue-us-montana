@@ -1,0 +1,71 @@
+{
+  "id": 873545543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.570696,45.783978,-108.570696,45.783978",
+    "geom:latitude":45.783978,
+    "geom:longitude":-108.570696,
+    "iso:country":"US",
+    "sg:address":"2150 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5553",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "casino"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JWTF9S0xaLy3qF3PyuZvA_45.783978_-108.570696@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294322,
+    "wof:geomhash":"3f120b348681d5ab8eb9944573993f52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873545543
+        }
+    ],
+    "wof:id":873545543,
+    "wof:lastmodified":1464294322,
+    "wof:name":"Montana Nugget Casino",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casino"
+    ]
+},
+  "bbox": [
+    -108.570696,
+    45.783978,
+    -108.570696,
+    45.783978
+],
+  "geometry": {"coordinates":[-108.570696,45.783978],"type":"Point"}
+}

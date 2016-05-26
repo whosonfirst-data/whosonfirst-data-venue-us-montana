@@ -1,0 +1,71 @@
+{
+  "id": 873599539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.568508,45.751703,-108.568508,45.751703",
+    "geom:latitude":45.751703,
+    "geom:longitude":-108.568508,
+    "iso:country":"US",
+    "sg:address":"2170 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 1916",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "agency",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08ZJObhxxHEnyG2wFwaqmw_45.751703_-108.568508@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294982,
+    "wof:geomhash":"45ea302668ef21b05c87f1c827e69bfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873599539
+        }
+    ],
+    "wof:id":873599539,
+    "wof:lastmodified":1464294982,
+    "wof:name":"National Weather Svc",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "government"
+    ]
+},
+  "bbox": [
+    -108.568508,
+    45.751703,
+    -108.568508,
+    45.751703
+],
+  "geometry": {"coordinates":[-108.56850799999999,45.751703],"type":"Point"}
+}

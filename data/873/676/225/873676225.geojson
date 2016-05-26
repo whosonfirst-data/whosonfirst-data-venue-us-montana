@@ -1,0 +1,81 @@
+{
+  "id": 873676225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.64941,45.715235,-108.64941,45.715235",
+    "geom:latitude":45.715235,
+    "geom:longitude":-108.64941,
+    "iso:country":"US",
+    "sg:address":"5304 Leith Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9794",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qTqRdr1qOML3UvioqwunC_45.715235_-108.649410@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295894,
+    "wof:geomhash":"7928373741f91aceed3f63979e1b8a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873676225
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873676225
+        }
+    ],
+    "wof:id":873676225,
+    "wof:lastmodified":1464295894,
+    "wof:name":"Double-E Transport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.64941,
+    45.715235,
+    -108.64941,
+    45.715235
+],
+  "geometry": {"coordinates":[-108.64941,45.715235],"type":"Point"}
+}

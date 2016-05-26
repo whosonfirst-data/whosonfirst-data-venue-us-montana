@@ -1,0 +1,71 @@
+{
+  "id": 873609131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.120769,45.641639,-111.120769,45.641639",
+    "geom:latitude":45.641639,
+    "geom:longitude":-111.120769,
+    "iso:country":"US",
+    "sg:address":"4000 Blackwood Rd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 3653",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cjkN8eq3TvMWNw7GXXzMN_45.641639_-111.120769@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295126,
+    "wof:geomhash":"0ae66216c15c90ff483cfdcacc979738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891697,
+            "region_id":85688617,
+            "venue_id":873609131
+        }
+    ],
+    "wof:id":873609131,
+    "wof:lastmodified":1464295126,
+    "wof:name":"Auto Doctor",
+    "wof:parent_id":85891697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.120769,
+    45.641639,
+    -111.120769,
+    45.641639
+],
+  "geometry": {"coordinates":[-111.120769,45.641639],"type":"Point"}
+}

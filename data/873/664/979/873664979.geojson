@@ -1,0 +1,77 @@
+{
+  "id": 873664979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.507899,45.781026,-108.507899,45.781026",
+    "geom:latitude":45.781026,
+    "geom:longitude":-108.507899,
+    "iso:country":"US",
+    "sg:address":"2924 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 3970",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SS0lkVpNj3woH1MvEG6fq_45.781026_-108.507899@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295750,
+    "wof:geomhash":"88aceabf24e7e3afdf5570237120c29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873664979
+        }
+    ],
+    "wof:id":873664979,
+    "wof:lastmodified":1464295750,
+    "wof:name":"Valley Auto Repairs",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -108.507899,
+    45.781026,
+    -108.507899,
+    45.781026
+],
+  "geometry": {"coordinates":[-108.50789899999999,45.781026],"type":"Point"}
+}

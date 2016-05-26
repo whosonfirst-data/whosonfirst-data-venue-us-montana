@@ -1,0 +1,71 @@
+{
+  "id": 873564667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.038474,46.817953,-114.038474,46.817953",
+    "geom:latitude":46.817953,
+    "geom:longitude":-114.038474,
+    "iso:country":"US",
+    "sg:address":"2419 56th St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 0345",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hwGnueUL2L6S9Zekp063O_46.817953_-114.038474@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294551,
+    "wof:geomhash":"b885af23a83019312386ca7489c10e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873564667
+        }
+    ],
+    "wof:id":873564667,
+    "wof:lastmodified":1464294551,
+    "wof:name":"Chester Hardware & Garden Sup",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -114.038474,
+    46.817953,
+    -114.038474,
+    46.817953
+],
+  "geometry": {"coordinates":[-114.03847399999999,46.817953],"type":"Point"}
+}

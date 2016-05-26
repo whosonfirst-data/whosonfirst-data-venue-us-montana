@@ -1,0 +1,75 @@
+{
+  "id": 873570361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.643002,45.994864,-112.643002,45.994864",
+    "geom:latitude":45.994864,
+    "geom:longitude":-112.643002,
+    "iso:country":"US",
+    "sg:address":"119092 Juniper Acres Rd",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 6204",
+    "sg:postcode":"59750",
+    "sg:province":"MT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i66kkUxonXZ1LMLECrm5o_45.994864_-112.643002@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294614,
+    "wof:geomhash":"131c7171b8f89abd926e6a8869459004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873570361
+        }
+    ],
+    "wof:id":873570361,
+    "wof:lastmodified":1464294614,
+    "wof:name":"Martz Disposal Svc",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -112.643002,
+    45.994864,
+    -112.643002,
+    45.994864
+],
+  "geometry": {"coordinates":[-112.643002,45.994864],"type":"Point"}
+}

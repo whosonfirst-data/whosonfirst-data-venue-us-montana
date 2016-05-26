@@ -1,0 +1,75 @@
+{
+  "id": 873642343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.568277,45.792436,-108.568277,45.792436",
+    "geom:latitude":45.792436,
+    "geom:longitude":-108.568277,
+    "iso:country":"US",
+    "sg:address":"2026 Mariposa Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 8111",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z02CazR9udyjqJbbOugqG_45.792436_-108.568277@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295504,
+    "wof:geomhash":"c2cc41299243b3817084f439172b26de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873642343
+        }
+    ],
+    "wof:id":873642343,
+    "wof:lastmodified":1464295504,
+    "wof:name":"Jan Barry Court Reporting",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -108.568277,
+    45.792436,
+    -108.568277,
+    45.792436
+],
+  "geometry": {"coordinates":[-108.56827699999999,45.792436],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873553715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.609677,45.765494,-108.609677,45.765494",
+    "geom:latitude":45.765494,
+    "geom:longitude":-108.609677,
+    "iso:country":"US",
+    "sg:address":"3671 Harper Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 2657",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lithographic",
+        "printer",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gU5yUsXuVnEQtrxrEBT0a_45.765494_-108.609677@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294419,
+    "wof:geomhash":"7e68ecb9ed5625f9b77bc1b420203038",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873553715
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873553715
+        }
+    ],
+    "wof:id":873553715,
+    "wof:lastmodified":1464294419,
+    "wof:name":"Specialty Printing Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "printer",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -108.609677,
+    45.765494,
+    -108.609677,
+    45.765494
+],
+  "geometry": {"coordinates":[-108.609677,45.765494],"type":"Point"}
+}

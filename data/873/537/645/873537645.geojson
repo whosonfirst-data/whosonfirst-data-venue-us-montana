@@ -1,0 +1,71 @@
+{
+  "id": 873537645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.979229,46.873673,-113.979229,46.873673",
+    "geom:latitude":46.873673,
+    "geom:longitude":-113.979229,
+    "iso:country":"US",
+    "sg:address":"737 Locust St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 7328",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g7THw37Jy57idfXpe8Hv6_46.873673_-113.979229@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294235,
+    "wof:geomhash":"ff93f6ec00ac184b3b92b0d3dedbc9b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873537645
+        }
+    ],
+    "wof:id":873537645,
+    "wof:lastmodified":1464294235,
+    "wof:name":"Fine Line Painting",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.979229,
+    46.873673,
+    -113.979229,
+    46.873673
+],
+  "geometry": {"coordinates":[-113.979229,46.873673],"type":"Point"}
+}

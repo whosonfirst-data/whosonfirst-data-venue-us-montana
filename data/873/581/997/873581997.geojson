@@ -1,0 +1,78 @@
+{
+  "id": 873581997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.448477,45.857781,-108.448477,45.857781",
+    "geom:latitude":45.857781,
+    "geom:longitude":-108.448477,
+    "iso:country":"US",
+    "sg:address":"1503 Redwing Cir",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 6250",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Eo45Wnz9xWbyJ3pIAcoo0_45.857781_-108.448477@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294743,
+    "wof:geomhash":"45e284876062319d92a13d823ec889f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873581997
+        }
+    ],
+    "wof:id":873581997,
+    "wof:lastmodified":1464294743,
+    "wof:name":"Ponderosa Properties LLC",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -108.448477,
+    45.857781,
+    -108.448477,
+    45.857781
+],
+  "geometry": {"coordinates":[-108.448477,45.857781],"type":"Point"}
+}

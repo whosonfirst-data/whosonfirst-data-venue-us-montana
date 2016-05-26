@@ -1,0 +1,71 @@
+{
+  "id": 873654535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.46611,45.84534,-108.46611,45.84534",
+    "geom:latitude":45.84534,
+    "geom:longitude":-108.46611,
+    "iso:country":"US",
+    "sg:address":"2775 Roundup Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 4810",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XQNbXGjxNA1wMabR3SC6i_45.845340_-108.466110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295641,
+    "wof:geomhash":"bf941e0d81f5ed3beb70b053dc0be6cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873654535
+        }
+    ],
+    "wof:id":873654535,
+    "wof:lastmodified":1464295641,
+    "wof:name":"Zentz Lumber Co",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -108.46611,
+    45.84534,
+    -108.46611,
+    45.84534
+],
+  "geometry": {"coordinates":[-108.46611,45.84534],"type":"Point"}
+}

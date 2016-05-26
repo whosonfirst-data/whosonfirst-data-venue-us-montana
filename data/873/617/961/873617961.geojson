@@ -1,0 +1,75 @@
+{
+  "id": 873617961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.20539,45.72172,-112.20539,45.72172",
+    "geom:latitude":45.72172,
+    "geom:longitude":-112.20539,
+    "iso:country":"US",
+    "sg:address":"26 Andren Ln",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 287 3342",
+    "sg:postcode":"59759",
+    "sg:province":"MT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m2ikchHxvzXimS0omAu19_45.721720_-112.205390@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295224,
+    "wof:geomhash":"1df4c3126a7a6869084527251763ed3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873617961
+        }
+    ],
+    "wof:id":873617961,
+    "wof:lastmodified":1464295224,
+    "wof:name":"Andren Ranch",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -112.20539,
+    45.72172,
+    -112.20539,
+    45.72172
+],
+  "geometry": {"coordinates":[-112.20538999999999,45.72172],"type":"Point"}
+}

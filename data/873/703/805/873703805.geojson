@@ -1,0 +1,76 @@
+{
+  "id": 873703805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.312477,48.196898,-114.312477,48.196898",
+    "geom:latitude":48.196898,
+    "geom:longitude":-114.312477,
+    "iso:country":"US",
+    "sg:address":"40 2nd St E Ste 230",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 5433",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FjhJsRldoqLGEFzQ1IhAL_48.196898_-114.312477@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296443,
+    "wof:geomhash":"5d8fae864450f5552844ef6909f988d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873703805
+        }
+    ],
+    "wof:id":873703805,
+    "wof:lastmodified":1464296443,
+    "wof:name":"Cafe' Of Life",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [
+    -114.312477,
+    48.196898,
+    -114.312477,
+    48.196898
+],
+  "geometry": {"coordinates":[-114.312477,48.196898],"type":"Point"}
+}

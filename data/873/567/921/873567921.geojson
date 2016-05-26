@@ -1,0 +1,72 @@
+{
+  "id": 873567921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.679683,45.770239,-108.679683,45.770239",
+    "geom:latitude":45.770239,
+    "geom:longitude":-108.679683,
+    "iso:country":"US",
+    "sg:address":"514 64th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 0505",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "sg:website":"www.ajministorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ymNpYfL8NSd8UMuvcqJKW_45.770239_-108.679683@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294585,
+    "wof:geomhash":"490d92985876395c5b65098d345cd7b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873567921
+        }
+    ],
+    "wof:id":873567921,
+    "wof:lastmodified":1464294585,
+    "wof:name":"A J Mini Storage",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -108.679683,
+    45.770239,
+    -108.679683,
+    45.770239
+],
+  "geometry": {"coordinates":[-108.679683,45.770239],"type":"Point"}
+}

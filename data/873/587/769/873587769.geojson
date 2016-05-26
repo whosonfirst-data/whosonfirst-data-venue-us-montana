@@ -1,0 +1,71 @@
+{
+  "id": 873587769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.020081,46.847994,-114.020081,46.847994",
+    "geom:latitude":46.847994,
+    "geom:longitude":-114.020081,
+    "iso:country":"US",
+    "sg:address":"2404 Washburn St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 7571",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cFI2GPjZsInsbDX5OvKIQ_46.847994_-114.020081@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294805,
+    "wof:geomhash":"8c918f198ae201a79223d4306fa65655",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873587769
+        }
+    ],
+    "wof:id":873587769,
+    "wof:lastmodified":1464294805,
+    "wof:name":"Hairdresser",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -114.020081,
+    46.847994,
+    -114.020081,
+    46.847994
+],
+  "geometry": {"coordinates":[-114.020081,46.847994],"type":"Point"}
+}

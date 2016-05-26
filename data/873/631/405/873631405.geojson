@@ -1,0 +1,69 @@
+{
+  "id": 873631405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.516783,45.770454,-108.516783,45.770454",
+    "geom:latitude":45.770454,
+    "geom:longitude":-108.516783,
+    "iso:country":"US",
+    "sg:address":"3912 3rd Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0353",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gklmEtjQ0lv6K0OIBmaXo_45.770454_-108.516783@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295378,
+    "wof:geomhash":"1c1e901cee362dda3efe885e74a8ba04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873631405
+        }
+    ],
+    "wof:id":873631405,
+    "wof:lastmodified":1464295378,
+    "wof:name":"Dennis Kulp",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -108.516783,
+    45.770454,
+    -108.516783,
+    45.770454
+],
+  "geometry": {"coordinates":[-108.516783,45.770454],"type":"Point"}
+}

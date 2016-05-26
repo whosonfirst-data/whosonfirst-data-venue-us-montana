@@ -1,0 +1,73 @@
+{
+  "id": 873557251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.432672,45.806117,-108.432672,45.806117",
+    "geom:latitude":45.806117,
+    "geom:longitude":-108.432672,
+    "iso:country":"US",
+    "sg:address":"2349 N Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 0568",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28880nUhuzOvc5TJvnTd8m_45.806117_-108.432672@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294463,
+    "wof:geomhash":"d72f9fd95e71b5c85f21afed25fd3c6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873557251
+        }
+    ],
+    "wof:id":873557251,
+    "wof:lastmodified":1464294463,
+    "wof:name":"Harrison Trucking",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.432672,
+    45.806117,
+    -108.432672,
+    45.806117
+],
+  "geometry": {"coordinates":[-108.432672,45.806117],"type":"Point"}
+}

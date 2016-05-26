@@ -1,0 +1,73 @@
+{
+  "id": 873592133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.285368,48.164406,-114.285368,48.164406",
+    "geom:latitude":48.164406,
+    "geom:longitude":-114.285368,
+    "iso:country":"US",
+    "sg:address":"35 Lower Valley Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 4696",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E0mrCB982JMg7cyxvrQ3R_48.164406_-114.285368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294860,
+    "wof:geomhash":"fa77271b46180b5ccc0e95feadd07c4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873592133
+        }
+    ],
+    "wof:id":873592133,
+    "wof:lastmodified":1464294860,
+    "wof:name":"Windshield Doctor",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -114.285368,
+    48.164406,
+    -114.285368,
+    48.164406
+],
+  "geometry": {"coordinates":[-114.28536800000001,48.164406],"type":"Point"}
+}

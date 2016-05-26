@@ -1,0 +1,75 @@
+{
+  "id": 873618445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.568725,45.78413,-108.568725,45.78413",
+    "geom:latitude":45.78413,
+    "geom:longitude":-108.568725,
+    "iso:country":"US",
+    "sg:address":"2029 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 9300",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "management",
+        "leasing",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EzuXn7kVIgDSUzQ6gJfbR_45.784130_-108.568725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295234,
+    "wof:geomhash":"2fd2b2eead5688ab03004ff8c0b55fcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873618445
+        }
+    ],
+    "wof:id":873618445,
+    "wof:lastmodified":1464295234,
+    "wof:name":"Metro Realty",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "leasing",
+        "sales"
+    ]
+},
+  "bbox": [
+    -108.568725,
+    45.78413,
+    -108.568725,
+    45.78413
+],
+  "geometry": {"coordinates":[-108.568725,45.78413],"type":"Point"}
+}

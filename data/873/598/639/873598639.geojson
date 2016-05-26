@@ -1,0 +1,73 @@
+{
+  "id": 873598639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.542912,45.993476,-112.542912,45.993476",
+    "geom:latitude":45.993476,
+    "geom:longitude":-112.542912,
+    "iso:country":"US",
+    "sg:address":"400 Oxford St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 497 2660",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QwmdZepGAdpmC66gtMeX4_45.993476_-112.542912@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294966,
+    "wof:geomhash":"8953d766374ae9cd3f03da5b8a459a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873598639
+        }
+    ],
+    "wof:id":873598639,
+    "wof:lastmodified":1464294966,
+    "wof:name":"Northwestern Energy Corp",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas"
+    ]
+},
+  "bbox": [
+    -112.542912,
+    45.993476,
+    -112.542912,
+    45.993476
+],
+  "geometry": {"coordinates":[-112.542912,45.993476],"type":"Point"}
+}

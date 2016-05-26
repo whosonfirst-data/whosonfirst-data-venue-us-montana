@@ -1,0 +1,73 @@
+{
+  "id": 873544107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.58125,45.763362,-108.58125,45.763362",
+    "geom:latitude":45.763362,
+    "geom:longitude":-108.58125,
+    "iso:country":"US",
+    "sg:address":"2506 Phyllis Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 0848",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55qEjzPAxlpMToe9Ng8s4P_45.763362_-108.581250@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294307,
+    "wof:geomhash":"7cc999a9ff01f081f9e65ef5d7fc2867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873544107
+        }
+    ],
+    "wof:id":873544107,
+    "wof:lastmodified":1464294307,
+    "wof:name":"Carnu",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -108.58125,
+    45.763362,
+    -108.58125,
+    45.763362
+],
+  "geometry": {"coordinates":[-108.58125,45.763362],"type":"Point"}
+}

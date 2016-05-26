@@ -1,0 +1,73 @@
+{
+  "id": 873575125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.617622,45.790319,-108.617622,45.790319",
+    "geom:latitude":45.790319,
+    "geom:longitude":-108.617622,
+    "iso:country":"US",
+    "sg:address":"1655 Shiloh Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6677",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6COwhI7UiRRRJ9hryFg3E8_45.790319_-108.617622@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294665,
+    "wof:geomhash":"bd60a29f4c28f1009b5a4d1352d3fa4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873575125
+        }
+    ],
+    "wof:id":873575125,
+    "wof:lastmodified":1464294665,
+    "wof:name":"American Mortgage Of Montana",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -108.617622,
+    45.790319,
+    -108.617622,
+    45.790319
+],
+  "geometry": {"coordinates":[-108.617622,45.790319],"type":"Point"}
+}

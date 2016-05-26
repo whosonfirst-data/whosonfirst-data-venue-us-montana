@@ -1,0 +1,75 @@
+{
+  "id": 873615487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.56911,45.49732,-110.56911,45.49732",
+    "geom:latitude":45.49732,
+    "geom:longitude":-110.56911,
+    "iso:country":"US",
+    "sg:address":"52 Luccock Park Rd",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 7362",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7asOE10ARRCKjOOPMKvZI8_45.497320_-110.569110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295200,
+    "wof:geomhash":"b8f5e72b3533a85280d47216d617561c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873615487
+        }
+    ],
+    "wof:id":873615487,
+    "wof:lastmodified":1464295200,
+    "wof:name":"Davis Farm",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -110.56911,
+    45.49732,
+    -110.56911,
+    45.49732
+],
+  "geometry": {"coordinates":[-110.56910999999999,45.49732],"type":"Point"}
+}

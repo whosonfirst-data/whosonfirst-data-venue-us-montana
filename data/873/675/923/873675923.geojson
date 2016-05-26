@@ -1,0 +1,73 @@
+{
+  "id": 873675923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.295258,45.902638,-108.295258,45.902638",
+    "geom:latitude":45.902638,
+    "geom:longitude":-108.295258,
+    "iso:country":"US",
+    "sg:address":"1613 Northern Ave",
+    "sg:city":"Huntley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 325 2476",
+    "sg:postcode":"59037",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26PClcyJerz0spLCIgDTsZ_45.902638_-108.295258@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295888,
+    "wof:geomhash":"46cfc2467ab2df2e29b81212fc95be8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873675923
+        }
+    ],
+    "wof:id":873675923,
+    "wof:lastmodified":1464295888,
+    "wof:name":"Accel Transmission & 4x4",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.295258,
+    45.902638,
+    -108.295258,
+    45.902638
+],
+  "geometry": {"coordinates":[-108.295258,45.902638],"type":"Point"}
+}

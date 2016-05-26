@@ -1,0 +1,71 @@
+{
+  "id": 873559253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.645524,45.988472,-110.645524,45.988472",
+    "geom:latitude":45.988472,
+    "geom:longitude":-110.645524,
+    "iso:country":"US",
+    "sg:address":"62 Horse Creek Rd",
+    "sg:city":"Wilsall",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 578 2257",
+    "sg:postcode":"59086",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b5COCpBgB3oS9qb55U1ra_45.988472_-110.645524@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294492,
+    "wof:geomhash":"3bae69725968d97cae19465292dc921f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873559253
+        }
+    ],
+    "wof:id":873559253,
+    "wof:lastmodified":1464294492,
+    "wof:name":"Austins Specialty Drywall",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -110.645524,
+    45.988472,
+    -110.645524,
+    45.988472
+],
+  "geometry": {"coordinates":[-110.64552399999999,45.988472],"type":"Point"}
+}

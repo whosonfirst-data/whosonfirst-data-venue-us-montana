@@ -1,0 +1,92 @@
+{
+  "id": 873703279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.065728,45.673738,-111.065728,45.673738",
+    "geom:latitude":45.673738,
+    "geom:longitude":-111.065728,
+    "iso:country":"US",
+    "sg:address":"517 S 22nd Ave Suite 7",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 9122",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "therapist",
+        "management",
+        "pain",
+        "physical",
+        "chiropractic"
+    ],
+    "sg:website":"http://www.bridgerchiropractic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        420525543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SeCktZv5cWx9p1rBJESzl_45.673738_-111.065728@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296438,
+    "wof:geomhash":"ec66a2d91214d5c32fc3d77fc8f63c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":420525543,
+            "region_id":85688617,
+            "venue_id":873703279
+        }
+    ],
+    "wof:id":873703279,
+    "wof:lastmodified":1464296438,
+    "wof:name":"Bridger Chiropractic Clinic",
+    "wof:parent_id":420525543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "management",
+        "pain",
+        "physical",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -111.065728,
+    45.673738,
+    -111.065728,
+    45.673738
+],
+  "geometry": {"coordinates":[-111.06572799999999,45.673738],"type":"Point"}
+}

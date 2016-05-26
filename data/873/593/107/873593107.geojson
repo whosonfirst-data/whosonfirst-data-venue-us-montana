@@ -1,0 +1,71 @@
+{
+  "id": 873593107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.568333,45.751861,-108.568333,45.751861",
+    "geom:latitude":45.751861,
+    "geom:longitude":-108.568333,
+    "iso:country":"US",
+    "sg:address":"2110 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6428",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UOxueFffD9MtFx40WYCDI_45.751861_-108.568333@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294869,
+    "wof:geomhash":"3317607165b39138a9f5e857eeeb4dd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873593107
+        }
+    ],
+    "wof:id":873593107,
+    "wof:lastmodified":1464294869,
+    "wof:name":"Lifetouch",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -108.568333,
+    45.751861,
+    -108.568333,
+    45.751861
+],
+  "geometry": {"coordinates":[-108.568333,45.751861],"type":"Point"}
+}

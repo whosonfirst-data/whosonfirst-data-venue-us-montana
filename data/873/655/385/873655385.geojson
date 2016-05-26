@@ -1,0 +1,77 @@
+{
+  "id": 873655385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.629568,45.727096,-108.629568,45.727096",
+    "geom:latitude":45.727096,
+    "geom:longitude":-108.629568,
+    "iso:country":"US",
+    "sg:address":"4459 Robbie Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 9188",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IULr5WxGNwnRG7awxSBNt_45.727096_-108.629568@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295650,
+    "wof:geomhash":"97fe9e18037dbcad5517734fddf8c88e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873655385
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873655385
+        }
+    ],
+    "wof:id":873655385,
+    "wof:lastmodified":1464295650,
+    "wof:name":"Land Design Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -108.629568,
+    45.727096,
+    -108.629568,
+    45.727096
+],
+  "geometry": {"coordinates":[-108.62956800000001,45.727096],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873621331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.191597,48.370734,-114.191597,48.370734",
+    "geom:latitude":48.370734,
+    "geom:longitude":-114.191597,
+    "iso:country":"US",
+    "sg:address":"733 9th St W",
+    "sg:city":"Columbia Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 892 4200",
+    "sg:postcode":"59912",
+    "sg:province":"MT",
+    "sg:tags":[
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34fCyxoDLeWQkDoHBg9b2e_48.370734_-114.191597@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295264,
+    "wof:geomhash":"cc65ecb9cde011ef78d5981c0fba53f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873621331
+        }
+    ],
+    "wof:id":873621331,
+    "wof:lastmodified":1464295264,
+    "wof:name":"Columbia Falls Self Service",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power"
+    ]
+},
+  "bbox": [
+    -114.191597,
+    48.370734,
+    -114.191597,
+    48.370734
+],
+  "geometry": {"coordinates":[-114.191597,48.370734],"type":"Point"}
+}

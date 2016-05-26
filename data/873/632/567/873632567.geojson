@@ -1,0 +1,82 @@
+{
+  "id": 873632567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.453109,45.801035,-108.453109,45.801035",
+    "geom:latitude":45.801035,
+    "geom:longitude":-108.453109,
+    "iso:country":"US",
+    "sg:address":"1270 Lockwood Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2111",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "mfg",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PUubNUaavDlCfvDbaCtZ5_45.801035_-108.453109@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295394,
+    "wof:geomhash":"9cc4eb5eb80f4163b924625a67e4602f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873632567
+        }
+    ],
+    "wof:id":873632567,
+    "wof:lastmodified":1464295394,
+    "wof:name":"Auto Air & Accessories",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "mfg",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -108.453109,
+    45.801035,
+    -108.453109,
+    45.801035
+],
+  "geometry": {"coordinates":[-108.453109,45.801035],"type":"Point"}
+}

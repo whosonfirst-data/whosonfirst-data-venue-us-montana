@@ -1,0 +1,75 @@
+{
+  "id": 873621841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.029646,46.812263,-114.029646,46.812263",
+    "geom:latitude":46.812263,
+    "geom:longitude":-114.029646,
+    "iso:country":"US",
+    "sg:address":"6220 Hillview Way",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 4543",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "engineering",
+        "management",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Tf7HVgiPEPL0CsVehDYln_46.812263_-114.029646@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295269,
+    "wof:geomhash":"a164c1843c8e2f23333311bd6558758b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873621841
+        }
+    ],
+    "wof:id":873621841,
+    "wof:lastmodified":1464295269,
+    "wof:name":"Acme Gadget Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering",
+        "management",
+        "facility"
+    ]
+},
+  "bbox": [
+    -114.029646,
+    46.812263,
+    -114.029646,
+    46.812263
+],
+  "geometry": {"coordinates":[-114.029646,46.812263],"type":"Point"}
+}

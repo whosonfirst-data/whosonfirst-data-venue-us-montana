@@ -1,0 +1,76 @@
+{
+  "id": 873702519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.508216,45.979624,-112.508216,45.979624",
+    "geom:latitude":45.979624,
+    "geom:longitude":-112.508216,
+    "iso:country":"US",
+    "sg:address":"3131 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/butte/158759-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 1438",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mdvbBo3K1uina6LybtWXi_45.979619_-112.508098@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296431,
+    "wof:geomhash":"4547a2f90bf04cdb10c28d7a8997d58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873702519
+        }
+    ],
+    "wof:id":873702519,
+    "wof:lastmodified":1464296431,
+    "wof:name":"Arby's",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -112.508216,
+    45.979624,
+    -112.508216,
+    45.979624
+],
+  "geometry": {"coordinates":[-112.508216,45.979624],"type":"Point"}
+}

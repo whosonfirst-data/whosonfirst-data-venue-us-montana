@@ -1,0 +1,75 @@
+{
+  "id": 873567013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.535688,45.767848,-108.535688,45.767848",
+    "geom:latitude":45.767848,
+    "geom:longitude":-108.535688,
+    "iso:country":"US",
+    "sg:address":"704 Dunham Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8042",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78v7JZsYYQftR01cAfP6vG_45.767848_-108.535688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294576,
+    "wof:geomhash":"9a25b039cc36f533847d5e8cda932613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873567013
+        }
+    ],
+    "wof:id":873567013,
+    "wof:lastmodified":1464294576,
+    "wof:name":"Midwest Heating & Cooling",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.535688,
+    45.767848,
+    -108.535688,
+    45.767848
+],
+  "geometry": {"coordinates":[-108.53568799999999,45.767848],"type":"Point"}
+}

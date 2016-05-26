@@ -1,0 +1,71 @@
+{
+  "id": 873570791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.037192,46.826894,-114.037192,46.826894",
+    "geom:latitude":46.826894,
+    "geom:longitude":-114.037192,
+    "iso:country":"US",
+    "sg:address":"2307 Spring Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 829 3933",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BwIQQwC2EEnbIcPIWW0fT_46.826894_-114.037192@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294618,
+    "wof:geomhash":"60411e600d0f81b37e5d98c1df50ad52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873570791
+        }
+    ],
+    "wof:id":873570791,
+    "wof:lastmodified":1464294618,
+    "wof:name":"Fantastic Sams",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -114.037192,
+    46.826894,
+    -114.037192,
+    46.826894
+],
+  "geometry": {"coordinates":[-114.037192,46.826894],"type":"Point"}
+}

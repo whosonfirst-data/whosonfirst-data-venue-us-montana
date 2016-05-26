@@ -1,0 +1,71 @@
+{
+  "id": 873597309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.723321,45.682935,-108.723321,45.682935",
+    "geom:latitude":45.682935,
+    "geom:longitude":-108.723321,
+    "iso:country":"US",
+    "sg:address":"2751 Alpine View Dr",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 8839",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "preparation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dCyiXZp06SVvJEqPcIqOy_45.682935_-108.723321@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294950,
+    "wof:geomhash":"35d2a545635cbb5f8fc62451e76b6b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873597309
+        }
+    ],
+    "wof:id":873597309,
+    "wof:lastmodified":1464294950,
+    "wof:name":"Drange Apiaries",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation"
+    ]
+},
+  "bbox": [
+    -108.723321,
+    45.682935,
+    -108.723321,
+    45.682935
+],
+  "geometry": {"coordinates":[-108.723321,45.682935],"type":"Point"}
+}

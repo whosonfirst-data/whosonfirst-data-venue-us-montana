@@ -1,0 +1,73 @@
+{
+  "id": 873641999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.050965,46.8156,-114.050965,46.8156",
+    "geom:latitude":46.8156,
+    "geom:longitude":-114.050965,
+    "iso:country":"US",
+    "sg:address":"2945 Hilltop Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 3711",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repair",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_116rQlhfvG2ikh7sCN3m14_46.815600_-114.050965@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295499,
+    "wof:geomhash":"3099f0a0e0c27774c4bda703f43dc381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873641999
+        }
+    ],
+    "wof:id":873641999,
+    "wof:lastmodified":1464295499,
+    "wof:name":"Honey Jewelers",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -114.050965,
+    46.8156,
+    -114.050965,
+    46.8156
+],
+  "geometry": {"coordinates":[-114.05096500000001,46.8156],"type":"Point"}
+}

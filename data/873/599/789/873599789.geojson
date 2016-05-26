@@ -1,0 +1,73 @@
+{
+  "id": 873599789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.618147,45.731498,-108.618147,45.731498",
+    "geom:latitude":45.731498,
+    "geom:longitude":-108.618147,
+    "iso:country":"US",
+    "sg:address":"2274 S Shiloh Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 8199",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:website":"www.actionfarmtoys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f2bE7VH2iq0jPZ73wG7qd_45.731498_-108.618147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294985,
+    "wof:geomhash":"384a667c24c0ef66e59c241df1a7c1f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873599789
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873599789
+        }
+    ],
+    "wof:id":873599789,
+    "wof:lastmodified":1464294985,
+    "wof:name":"Action Toys",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.618147,
+    45.731498,
+    -108.618147,
+    45.731498
+],
+  "geometry": {"coordinates":[-108.61814699999999,45.731498],"type":"Point"}
+}

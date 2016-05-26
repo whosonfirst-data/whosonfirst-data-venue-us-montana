@@ -1,0 +1,68 @@
+{
+  "id": 873650165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.556325,45.777005,-108.556325,45.777005",
+    "geom:latitude":45.777005,
+    "geom:longitude":-108.556325,
+    "iso:country":"US",
+    "sg:address":"1503 Broadwater Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 9035",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WlrfAD5I8oVqGnhNDen90_45.777005_-108.556325@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295589,
+    "wof:geomhash":"0893462d7aa0257273bdc2c97da3774e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873650165
+        }
+    ],
+    "wof:id":873650165,
+    "wof:lastmodified":1464295589,
+    "wof:name":"KWIK Way",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.556325,
+    45.777005,
+    -108.556325,
+    45.777005
+],
+  "geometry": {"coordinates":[-108.556325,45.777005],"type":"Point"}
+}

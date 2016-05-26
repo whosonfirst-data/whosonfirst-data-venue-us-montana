@@ -1,0 +1,68 @@
+{
+  "id": 873540193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.546148,46.01385,-112.546148,46.01385",
+    "geom:latitude":46.01385,
+    "geom:longitude":-112.546148,
+    "iso:country":"US",
+    "sg:address":"103 N Clark St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 4464",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M5toNY7AW6OsuFKa2422c_46.013850_-112.546148@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294261,
+    "wof:geomhash":"aab709820c9030283dc69b66ead0511d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873540193
+        }
+    ],
+    "wof:id":873540193,
+    "wof:lastmodified":1464294261,
+    "wof:name":"Crown Properties LLC",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.546148,
+    46.01385,
+    -112.546148,
+    46.01385
+],
+  "geometry": {"coordinates":[-112.546148,46.01385],"type":"Point"}
+}

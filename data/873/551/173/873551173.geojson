@@ -1,0 +1,73 @@
+{
+  "id": 873551173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.025613,46.866893,-114.025613,46.866893",
+    "geom:latitude":46.866893,
+    "geom:longitude":-114.025613,
+    "iso:country":"US",
+    "sg:address":"1845 S 3rd St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 2544",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nurseryman",
+        "nursery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KfUs7SC9ITPvPrSvkoQJZ_46.866893_-114.025613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294391,
+    "wof:geomhash":"a66efa50e5cf134a817c746a46e5ce4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873551173
+        }
+    ],
+    "wof:id":873551173,
+    "wof:lastmodified":1464294391,
+    "wof:name":"Marchie's Nursery",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman",
+        "nursery"
+    ]
+},
+  "bbox": [
+    -114.025613,
+    46.866893,
+    -114.025613,
+    46.866893
+],
+  "geometry": {"coordinates":[-114.02561300000001,46.866893],"type":"Point"}
+}

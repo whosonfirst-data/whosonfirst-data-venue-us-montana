@@ -1,0 +1,68 @@
+{
+  "id": 873620205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.51187,45.779287,-108.51187,45.779287",
+    "geom:latitude":45.779287,
+    "geom:longitude":-108.51187,
+    "iso:country":"US",
+    "sg:address":"3211 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 4900",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qpi4juGJ8lJSUT0xDHjam_45.779287_-108.511870@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295253,
+    "wof:geomhash":"1b73acbac0788b58ab8b4a670dec1d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873620205
+        }
+    ],
+    "wof:id":873620205,
+    "wof:lastmodified":1464295253,
+    "wof:name":"Montana Archery Supply Inc",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.51187,
+    45.779287,
+    -108.51187,
+    45.779287
+],
+  "geometry": {"coordinates":[-108.51187,45.779287],"type":"Point"}
+}

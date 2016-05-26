@@ -1,0 +1,73 @@
+{
+  "id": 873650023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.699489,45.783948,-108.699489,45.783948",
+    "geom:latitude":45.783948,
+    "geom:longitude":-108.699489,
+    "iso:country":"US",
+    "sg:address":"7130 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9422",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a9O2Mehse2EIhKFfjMLnq_45.783948_-108.699489@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295586,
+    "wof:geomhash":"524542802d825844cf1def64e356d325",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873650023
+        }
+    ],
+    "wof:id":873650023,
+    "wof:lastmodified":1464295586,
+    "wof:name":"Montana Uplink",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting",
+        "co"
+    ]
+},
+  "bbox": [
+    -108.699489,
+    45.783948,
+    -108.699489,
+    45.783948
+],
+  "geometry": {"coordinates":[-108.699489,45.783948],"type":"Point"}
+}

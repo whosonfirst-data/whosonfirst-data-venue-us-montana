@@ -1,0 +1,71 @@
+{
+  "id": 873615729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.315,45.947543,-108.315,45.947543",
+    "geom:latitude":45.947543,
+    "geom:longitude":-108.315,
+    "iso:country":"US",
+    "sg:address":"6830 Pinto Dr",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 671 4300",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ai1hTn0vzmQIpR7pGGofZ_45.947543_-108.315000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295203,
+    "wof:geomhash":"ec014e9466098b4608f35ef1ef040502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873615729
+        }
+    ],
+    "wof:id":873615729,
+    "wof:lastmodified":1464295203,
+    "wof:name":"J & D Equipment",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -108.315,
+    45.947543,
+    -108.315,
+    45.947543
+],
+  "geometry": {"coordinates":[-108.315,45.947543],"type":"Point"}
+}

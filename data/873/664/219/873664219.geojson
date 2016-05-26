@@ -1,0 +1,71 @@
+{
+  "id": 873664219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.495324,48.247105,-114.495324,48.247105",
+    "geom:latitude":48.247105,
+    "geom:longitude":-114.495324,
+    "iso:country":"US",
+    "sg:address":"1577 McMannamy Draw",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 8883",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yso9YEKL1La7ZFXDXKjA7_48.247105_-114.495324@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295742,
+    "wof:geomhash":"5448054c0b0997eb69102de8fb8659e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873664219
+        }
+    ],
+    "wof:id":873664219,
+    "wof:lastmodified":1464295742,
+    "wof:name":"Heritage Hearths",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.495324,
+    48.247105,
+    -114.495324,
+    48.247105
+],
+  "geometry": {"coordinates":[-114.495324,48.247105],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873610655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.12908,46.751124,-114.12908,46.751124",
+    "geom:latitude":46.751124,
+    "geom:longitude":-114.12908,
+    "iso:country":"US",
+    "sg:address":"9745 Lolo Creek Rd",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 3313",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XvE5SGyZ2Yhg65rE7nxuT_46.751124_-114.129080@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295150,
+    "wof:geomhash":"b893702d2297196c4c57fce4068e56fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873610655
+        }
+    ],
+    "wof:id":873610655,
+    "wof:lastmodified":1464295150,
+    "wof:name":"Lindco Trucking Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.12908,
+    46.751124,
+    -114.12908,
+    46.751124
+],
+  "geometry": {"coordinates":[-114.12908,46.751124],"type":"Point"}
+}

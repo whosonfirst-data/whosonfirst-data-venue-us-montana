@@ -1,0 +1,72 @@
+{
+  "id": 873619121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.593368,45.740599,-108.593368,45.740599",
+    "geom:latitude":45.740599,
+    "geom:longitude":-108.593368,
+    "iso:country":"US",
+    "sg:address":"3044 Hesper Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 3030",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lA4gBPnjqUb4zAhIjIHcX_45.740599_-108.593368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295241,
+    "wof:geomhash":"37974d4b5a223fe597ed54fad1e15d23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873619121
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873619121
+        }
+    ],
+    "wof:id":873619121,
+    "wof:lastmodified":1464295241,
+    "wof:name":"Sage Technical Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.593368,
+    45.740599,
+    -108.593368,
+    45.740599
+],
+  "geometry": {"coordinates":[-108.593368,45.740599],"type":"Point"}
+}

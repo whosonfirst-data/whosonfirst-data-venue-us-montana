@@ -1,0 +1,82 @@
+{
+  "id": 873619891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470762,45.828283,-108.470762,45.828283",
+    "geom:latitude":45.828283,
+    "geom:longitude":-108.470762,
+    "iso:country":"US",
+    "sg:address":"1649 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 255 5199",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "loan",
+        "company",
+        "broker",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f0oJnylaHi0acxbuiaDY2_45.828283_-108.470762@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295249,
+    "wof:geomhash":"b1dead49d1ba4649a09517eae13ff27e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873619891
+        }
+    ],
+    "wof:id":873619891,
+    "wof:lastmodified":1464295249,
+    "wof:name":"First Interstate Bancsystem",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "company",
+        "broker",
+        "holding"
+    ]
+},
+  "bbox": [
+    -108.470762,
+    45.828283,
+    -108.470762,
+    45.828283
+],
+  "geometry": {"coordinates":[-108.47076199999999,45.828283],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873575117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.652689,45.705212,-108.652689,45.705212",
+    "geom:latitude":45.705212,
+    "geom:longitude":-108.652689,
+    "iso:country":"US",
+    "sg:address":"9119 Waterloo Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 7573",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZjqEGEitCQbAIjwh28nfs_45.705212_-108.652689@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294665,
+    "wof:geomhash":"5c10f2d0757f1edf041c3fe7a15ceee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873575117
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873575117
+        }
+    ],
+    "wof:id":873575117,
+    "wof:lastmodified":1464294665,
+    "wof:name":"Sunrise Arts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -108.652689,
+    45.705212,
+    -108.652689,
+    45.705212
+],
+  "geometry": {"coordinates":[-108.652689,45.705212],"type":"Point"}
+}

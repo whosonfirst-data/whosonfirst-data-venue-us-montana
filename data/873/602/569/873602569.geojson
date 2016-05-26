@@ -1,0 +1,73 @@
+{
+  "id": 873602569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.331852,48.196148,-114.331852,48.196148",
+    "geom:latitude":48.196148,
+    "geom:longitude":-114.331852,
+    "iso:country":"US",
+    "sg:address":"27 Meridian Ct",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 4503",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UfgRXLfx22EVCxr8k9UGL_48.196148_-114.331852@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295014,
+    "wof:geomhash":"cb53fc2865bf45de834e8e1ccbb855b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873602569
+        }
+    ],
+    "wof:id":873602569,
+    "wof:lastmodified":1464295014,
+    "wof:name":"Energy and Air Systems",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.331852,
+    48.196148,
+    -114.331852,
+    48.196148
+],
+  "geometry": {"coordinates":[-114.331852,48.196148],"type":"Point"}
+}

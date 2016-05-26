@@ -1,0 +1,75 @@
+{
+  "id": 873643555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.556076,45.769839,-108.556076,45.769839",
+    "geom:latitude":45.769839,
+    "geom:longitude":-108.556076,
+    "iso:country":"US",
+    "sg:address":"1515 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8176",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uGMyMvSn2JhiF19PXz0dZ_45.769839_-108.556076@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295520,
+    "wof:geomhash":"3876277823e623f44f7e43a9fdb23063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873643555
+        }
+    ],
+    "wof:id":873643555,
+    "wof:lastmodified":1464295520,
+    "wof:name":"Seder Appliance Heating & Cool",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.556076,
+    45.769839,
+    -108.556076,
+    45.769839
+],
+  "geometry": {"coordinates":[-108.556076,45.769839],"type":"Point"}
+}

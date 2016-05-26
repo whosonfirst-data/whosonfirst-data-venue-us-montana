@@ -1,0 +1,71 @@
+{
+  "id": 873636905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.305,48.182183,-114.305,48.182183",
+    "geom:latitude":48.182183,
+    "geom:longitude":-114.305,
+    "iso:country":"US",
+    "sg:address":"1845 US Hwy 93 S",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 3360",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37TQvSwKTf9x1k7kVniTjX_48.182183_-114.305000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295444,
+    "wof:geomhash":"0cbb38cdb50d317639443f1565d598c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873636905
+        }
+    ],
+    "wof:id":873636905,
+    "wof:lastmodified":1464295444,
+    "wof:name":"US Senate Office",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -114.305,
+    48.182183,
+    -114.305,
+    48.182183
+],
+  "geometry": {"coordinates":[-114.30500000000001,48.182183],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873609415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.49934,45.777752,-108.49934,45.777752",
+    "geom:latitude":45.777752,
+    "geom:longitude":-108.49934,
+    "iso:country":"US",
+    "sg:address":"2615 4th Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 5400",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "probation"
+    ],
+    "sg:website":"www.cor.state.mt.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LfMCAohFg5s9zTYKbZYsP_45.777752_-108.499340@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295132,
+    "wof:geomhash":"e688eff12f28a9797a1a468677a9cac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873609415
+        }
+    ],
+    "wof:id":873609415,
+    "wof:lastmodified":1464295132,
+    "wof:name":"Probation & Parole",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -108.49934,
+    45.777752,
+    -108.49934,
+    45.777752
+],
+  "geometry": {"coordinates":[-108.49934,45.777752],"type":"Point"}
+}

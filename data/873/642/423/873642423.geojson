@@ -1,0 +1,71 @@
+{
+  "id": 873642423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.086262,48.078817,-114.086262,48.078817",
+    "geom:latitude":48.078817,
+    "geom:longitude":-114.086262,
+    "iso:country":"US",
+    "sg:address":"500 Windsor Dr",
+    "sg:city":"Bigfork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 837 3577",
+    "sg:postcode":"59911",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03sem9LuIdJGF5K6frWCq2_48.078817_-114.086262@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295505,
+    "wof:geomhash":"562aad05b57ade8bbb906d8d844f79ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873642423
+        }
+    ],
+    "wof:id":873642423,
+    "wof:lastmodified":1464295505,
+    "wof:name":"Thomas G Jenko MD",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -114.086262,
+    48.078817,
+    -114.086262,
+    48.078817
+],
+  "geometry": {"coordinates":[-114.086262,48.078817],"type":"Point"}
+}

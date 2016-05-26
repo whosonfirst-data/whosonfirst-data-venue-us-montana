@@ -1,0 +1,71 @@
+{
+  "id": 873556779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.992817,46.873832,-113.992817,46.873832",
+    "geom:latitude":46.873832,
+    "geom:longitude":-113.992817,
+    "iso:country":"US",
+    "sg:address":"420 N Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 5357",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "sporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PO8pCF6uwtUTB5Uh9S69h_46.873832_-113.992817@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294457,
+    "wof:geomhash":"53c9871edf81d8ff9e6b37641b472cc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873556779
+        }
+    ],
+    "wof:id":873556779,
+    "wof:lastmodified":1464294457,
+    "wof:name":"Bike Doctor",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sporting"
+    ]
+},
+  "bbox": [
+    -113.992817,
+    46.873832,
+    -113.992817,
+    46.873832
+],
+  "geometry": {"coordinates":[-113.992817,46.873832],"type":"Point"}
+}

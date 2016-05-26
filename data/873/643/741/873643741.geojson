@@ -1,0 +1,75 @@
+{
+  "id": 873643741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.527871,45.792889,-108.527871,45.792889",
+    "geom:latitude":45.792889,
+    "geom:longitude":-108.527871,
+    "iso:country":"US",
+    "sg:address":"2220 Virginia Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4222",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NEKQHwQwlwukmfa3IFl3L_45.792889_-108.527871@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295522,
+    "wof:geomhash":"89c10a3d48f8b4627a6d38360c779bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873643741
+        }
+    ],
+    "wof:id":873643741,
+    "wof:lastmodified":1464295522,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -108.527871,
+    45.792889,
+    -108.527871,
+    45.792889
+],
+  "geometry": {"coordinates":[-108.527871,45.792889],"type":"Point"}
+}

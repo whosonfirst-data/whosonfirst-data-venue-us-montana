@@ -1,0 +1,75 @@
+{
+  "id": 873662595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.029965,45.706959,-111.029965,45.706959",
+    "geom:latitude":45.706959,
+    "geom:longitude":-111.029965,
+    "iso:country":"US",
+    "sg:address":"1045 Boylan Rd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 522 0867",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        420525527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BnBnodtdlU0dEwDBEEV6u_45.706959_-111.029965@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295726,
+    "wof:geomhash":"fd4025cd2ad19a4e1cdfef7b84f44ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":420525527,
+            "region_id":85688617,
+            "venue_id":873662595
+        }
+    ],
+    "wof:id":873662595,
+    "wof:lastmodified":1464295726,
+    "wof:name":"19th Ave Properties LLC",
+    "wof:parent_id":420525527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.029965,
+    45.706959,
+    -111.029965,
+    45.706959
+],
+  "geometry": {"coordinates":[-111.029965,45.706959],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873559229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.338095,48.409293,-114.338095,48.409293",
+    "geom:latitude":48.409293,
+    "geom:longitude":-114.338095,
+    "iso:country":"US",
+    "sg:address":"335 Baker Ave",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 863 9863",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "infrastructure",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zQudycSXqo4GjAy6RmMIz_48.409293_-114.338095@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294491,
+    "wof:geomhash":"a0aeb5c6e2cbc4b08467fa833948c7fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873559229
+        }
+    ],
+    "wof:id":873559229,
+    "wof:lastmodified":1464294491,
+    "wof:name":"Morgan Computing",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "infrastructure",
+        "software"
+    ]
+},
+  "bbox": [
+    -114.338095,
+    48.409293,
+    -114.338095,
+    48.409293
+],
+  "geometry": {"coordinates":[-114.338095,48.409293],"type":"Point"}
+}

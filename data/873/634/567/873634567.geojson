@@ -1,0 +1,67 @@
+{
+  "id": 873634567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.573752,45.784134,-108.573752,45.784134",
+    "geom:latitude":45.784134,
+    "geom:longitude":-108.573752,
+    "iso:country":"US",
+    "sg:address":"2349 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4646",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:website":"www.4-bs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MpSQ0IErAU9rCNsLcXOVQ_45.784134_-108.573752@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295419,
+    "wof:geomhash":"f44c3f81a23c5479f16177731e6f63c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873634567
+        }
+    ],
+    "wof:id":873634567,
+    "wof:lastmodified":1464295419,
+    "wof:name":"Four B's Restaurant",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.573752,
+    45.784134,
+    -108.573752,
+    45.784134
+],
+  "geometry": {"coordinates":[-108.573752,45.784134],"type":"Point"}
+}

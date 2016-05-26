@@ -1,0 +1,71 @@
+{
+  "id": 873550401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470666,45.834384,-108.470666,45.834384",
+    "geom:latitude":45.834384,
+    "geom:longitude":-108.470666,
+    "iso:country":"US",
+    "sg:address":"1935 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 0110",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TRoRDttUALy3btdmgkIgK_45.834384_-108.470666@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294382,
+    "wof:geomhash":"3ef71c0c06609098a6b03dcd6cffda38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873550401
+        }
+    ],
+    "wof:id":873550401,
+    "wof:lastmodified":1464294382,
+    "wof:name":"A1 Mobile Home Service",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -108.470666,
+    45.834384,
+    -108.470666,
+    45.834384
+],
+  "geometry": {"coordinates":[-108.47066599999999,45.834384],"type":"Point"}
+}

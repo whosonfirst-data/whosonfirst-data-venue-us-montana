@@ -1,0 +1,79 @@
+{
+  "id": 873590871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.611304,45.755271,-108.611304,45.755271",
+    "geom:latitude":45.755271,
+    "geom:longitude":-108.611304,
+    "iso:country":"US",
+    "sg:address":"3650 Decathlon Pkwy",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 860 1876",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Juxzjcua12Kx60NqDbisg_45.755271_-108.611304@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294842,
+    "wof:geomhash":"01f55fbd3133d5a7a84de947ce846fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873590871
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873590871
+        }
+    ],
+    "wof:id":873590871,
+    "wof:lastmodified":1464294842,
+    "wof:name":"Hh Roofing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.611304,
+    45.755271,
+    -108.611304,
+    45.755271
+],
+  "geometry": {"coordinates":[-108.611304,45.755271],"type":"Point"}
+}

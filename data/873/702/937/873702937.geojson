@@ -1,0 +1,66 @@
+{
+  "id": 873702937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.581325,45.65651,-110.581325,45.65651",
+    "geom:latitude":45.65651,
+    "geom:longitude":-110.581325,
+    "iso:country":"US",
+    "sg:address":"1324 W Front St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 2420",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b0b8DZFJe9O4QGIAJXLOi_45.656510_-110.581325@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296435,
+    "wof:geomhash":"3c439d87b28b390e8d26ba38532dc225",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873702937
+        }
+    ],
+    "wof:id":873702937,
+    "wof:lastmodified":1464296435,
+    "wof:name":"Leroy Matthews",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.581325,
+    45.65651,
+    -110.581325,
+    45.65651
+],
+  "geometry": {"coordinates":[-110.58132500000001,45.65651],"type":"Point"}
+}

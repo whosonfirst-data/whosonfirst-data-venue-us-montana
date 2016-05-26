@@ -1,0 +1,70 @@
+{
+  "id": 873698817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.570696,45.753283,-108.570696,45.753283",
+    "geom:latitude":45.753283,
+    "geom:longitude":-108.570696,
+    "iso:country":"US",
+    "sg:address":"2201 Grant Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/14024-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 1395",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZOxUlVlyKRiIWGHgLnoNy_45.753283_-108.570696@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296392,
+    "wof:geomhash":"7aa73df7142092dec60c5912c964b857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873698817
+        }
+    ],
+    "wof:id":873698817,
+    "wof:lastmodified":1464296392,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -108.570696,
+    45.753283,
+    -108.570696,
+    45.753283
+],
+  "geometry": {"coordinates":[-108.570696,45.753283],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873633919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.086488,46.775227,-114.086488,46.775227",
+    "geom:latitude":46.775227,
+    "geom:longitude":-114.086488,
+    "iso:country":"US",
+    "sg:address":"10020 US Hwy 93",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 550 1444",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yCg71KLZeLW9lJUbM9NZS_46.775227_-114.086488@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295412,
+    "wof:geomhash":"227c43228f44e09896ded56117efdba4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873633919
+        }
+    ],
+    "wof:id":873633919,
+    "wof:lastmodified":1464295412,
+    "wof:name":"Landscaping & Whatever",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.086488,
+    46.775227,
+    -114.086488,
+    46.775227
+],
+  "geometry": {"coordinates":[-114.086488,46.775227],"type":"Point"}
+}

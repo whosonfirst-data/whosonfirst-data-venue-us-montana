@@ -1,0 +1,95 @@
+{
+  "id": 873702309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.586729,45.753007,-108.586729,45.753007",
+    "geom:latitude":45.753007,
+    "geom:longitude":-108.586729,
+    "iso:country":"US",
+    "sg:address":"896 S 29th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/184067-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 1000",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nmuLw8akjBkunranykD84_45.753276_-108.586188@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296429,
+    "wof:geomhash":"4a536c54e27f8c0f791c23f1a3aae346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873702309
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873702309
+        }
+    ],
+    "wof:id":873702309,
+    "wof:lastmodified":1464296429,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -108.586729,
+    45.753007,
+    -108.586729,
+    45.753007
+],
+  "geometry": {"coordinates":[-108.58672900000001,45.753007],"type":"Point"}
+}

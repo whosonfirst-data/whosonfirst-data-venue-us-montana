@@ -1,0 +1,71 @@
+{
+  "id": 873562429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.000777,46.859119,-114.000777,46.859119",
+    "geom:latitude":46.859119,
+    "geom:longitude":-114.000777,
+    "iso:country":"US",
+    "sg:address":"430 Blaine St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 2283",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70XhHCVNo75keyGORWuw6P_46.859119_-114.000777@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294526,
+    "wof:geomhash":"50e6b6c6af2f55a1082704cf235d6cf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873562429
+        }
+    ],
+    "wof:id":873562429,
+    "wof:lastmodified":1464294526,
+    "wof:name":"Lewis Electric Inc",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.000777,
+    46.859119,
+    -114.000777,
+    46.859119
+],
+  "geometry": {"coordinates":[-114.000777,46.859119],"type":"Point"}
+}

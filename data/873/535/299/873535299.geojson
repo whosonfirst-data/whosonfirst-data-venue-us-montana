@@ -1,0 +1,81 @@
+{
+  "id": 873535299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.018438,46.886063,-114.018438,46.886063",
+    "geom:latitude":46.886063,
+    "geom:longitude":-114.018438,
+    "iso:country":"US",
+    "sg:address":"1700 Turner St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 2620",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mfg",
+        "cabinet",
+        "wood",
+        "carpentry",
+        "contractor",
+        "kitchen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f1vuS0cw1pVX9LTdXwH2I_46.886063_-114.018438@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294208,
+    "wof:geomhash":"418a2b2b56539fd33b52eefc7e57fd02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873535299
+        }
+    ],
+    "wof:id":873535299,
+    "wof:lastmodified":1464294208,
+    "wof:name":"Cabinet Shop",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "cabinet",
+        "wood",
+        "carpentry",
+        "contractor",
+        "kitchen"
+    ]
+},
+  "bbox": [
+    -114.018438,
+    46.886063,
+    -114.018438,
+    46.886063
+],
+  "geometry": {"coordinates":[-114.018438,46.886063],"type":"Point"}
+}

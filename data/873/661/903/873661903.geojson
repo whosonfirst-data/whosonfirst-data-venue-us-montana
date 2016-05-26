@@ -1,0 +1,69 @@
+{
+  "id": 873661903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566738,45.753615,-108.566738,45.753615",
+    "geom:latitude":45.753615,
+    "geom:longitude":-108.566738,
+    "iso:country":"US",
+    "sg:address":"2101 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 1094",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jAVGLj7hyth7Wl7cw4udO_45.753615_-108.566738@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295718,
+    "wof:geomhash":"1e35654e3be02fddd3588836a8ae84a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873661903
+        }
+    ],
+    "wof:id":873661903,
+    "wof:lastmodified":1464295718,
+    "wof:name":"Peachtree Investors LLC",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -108.566738,
+    45.753615,
+    -108.566738,
+    45.753615
+],
+  "geometry": {"coordinates":[-108.566738,45.753615],"type":"Point"}
+}

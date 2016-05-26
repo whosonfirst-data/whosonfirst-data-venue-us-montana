@@ -1,0 +1,71 @@
+{
+  "id": 873599529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.569074,45.647432,-110.569074,45.647432",
+    "geom:latitude":45.647432,
+    "geom:longitude":-110.569074,
+    "iso:country":"US",
+    "sg:address":"603 Robin Ln",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 4852",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LoqQ3UfBvp4cHYnDoL3nl_45.647432_-110.569074@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294982,
+    "wof:geomhash":"954d6ad3db4ccb7b03040ac1401a4308",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873599529
+        }
+    ],
+    "wof:id":873599529,
+    "wof:lastmodified":1464294982,
+    "wof:name":"Livingston Village",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -110.569074,
+    45.647432,
+    -110.569074,
+    45.647432
+],
+  "geometry": {"coordinates":[-110.569074,45.647432],"type":"Point"}
+}

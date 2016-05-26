@@ -1,0 +1,68 @@
+{
+  "id": 873571001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.50266,45.995226,-112.50266,45.995226",
+    "geom:latitude":45.995226,
+    "geom:longitude":-112.50266,
+    "iso:country":"US",
+    "sg:address":"1908 Farragut Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 9466",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ikb278OCMUV5pmzgrkQtI_45.995226_-112.502660@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294621,
+    "wof:geomhash":"18324763366b65a248f5c8147273197a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873571001
+        }
+    ],
+    "wof:id":873571001,
+    "wof:lastmodified":1464294621,
+    "wof:name":"Conway Rental LLC",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.50266,
+    45.995226,
+    -112.50266,
+    45.995226
+],
+  "geometry": {"coordinates":[-112.50266000000001,45.995226],"type":"Point"}
+}

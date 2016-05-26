@@ -1,0 +1,69 @@
+{
+  "id": 873552093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.532557,45.762203,-108.532557,45.762203",
+    "geom:latitude":45.762203,
+    "geom:longitude":-108.532557,
+    "iso:country":"US",
+    "sg:address":"4620 Lux Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8508",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ogsu8UhowiBvgzJbPjtuc_45.762203_-108.532557@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294401,
+    "wof:geomhash":"70bfe6c9da0672b747412486fa32c22b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873552093
+        }
+    ],
+    "wof:id":873552093,
+    "wof:lastmodified":1464294401,
+    "wof:name":"Bob's Commercial Cleaning Svc",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -108.532557,
+    45.762203,
+    -108.532557,
+    45.762203
+],
+  "geometry": {"coordinates":[-108.532557,45.762203],"type":"Point"}
+}

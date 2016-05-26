@@ -1,0 +1,72 @@
+{
+  "id": 873553173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.575902,45.752296,-108.575902,45.752296",
+    "geom:latitude":45.752296,
+    "geom:longitude":-108.575902,
+    "iso:country":"US",
+    "sg:address":"2280 Grant Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 4300",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZWnWY6KJDNLkGETwBhFsB_45.752296_-108.575902@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294413,
+    "wof:geomhash":"a83d978a6cbb19cc3a44623a1f125e61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873553173
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873553173
+        }
+    ],
+    "wof:id":873553173,
+    "wof:lastmodified":1464294413,
+    "wof:name":"Corning Companies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.575902,
+    45.752296,
+    -108.575902,
+    45.752296
+],
+  "geometry": {"coordinates":[-108.575902,45.752296],"type":"Point"}
+}

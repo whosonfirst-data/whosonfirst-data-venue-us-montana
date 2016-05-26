@@ -1,0 +1,81 @@
+{
+  "id": 873534049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.581902,45.749835,-108.581902,45.749835",
+    "geom:latitude":45.749835,
+    "geom:longitude":-108.581902,
+    "iso:country":"US",
+    "sg:address":"2621 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 1007",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "communication",
+        "radio",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54f3Jmi7qAIeImpaw5SUA7_45.749835_-108.581902@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294189,
+    "wof:geomhash":"eb119f8704f5dff016669048676d932a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873534049
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873534049
+        }
+    ],
+    "wof:id":873534049,
+    "wof:lastmodified":1464294189,
+    "wof:name":"R F Communications Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radio",
+        "system"
+    ]
+},
+  "bbox": [
+    -108.581902,
+    45.749835,
+    -108.581902,
+    45.749835
+],
+  "geometry": {"coordinates":[-108.581902,45.749835],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873590411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.771691,45.67029,-108.771691,45.67029",
+    "geom:latitude":45.67029,
+    "geom:longitude":-108.771691,
+    "iso:country":"US",
+    "sg:address":"101 W 1st St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 5962",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zAszdE2SHUGu111NpL9lR_45.670290_-108.771691@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294836,
+    "wof:geomhash":"8bc1eefff040e9ca95e2efdf87598904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873590411
+        }
+    ],
+    "wof:id":873590411,
+    "wof:lastmodified":1464294836,
+    "wof:name":"Only One Dollar",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -108.771691,
+    45.67029,
+    -108.771691,
+    45.67029
+],
+  "geometry": {"coordinates":[-108.771691,45.67029],"type":"Point"}
+}

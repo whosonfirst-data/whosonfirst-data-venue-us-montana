@@ -1,0 +1,73 @@
+{
+  "id": 873605329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.561777,45.787965,-108.561777,45.787965",
+    "geom:latitude":45.787965,
+    "geom:longitude":-108.561777,
+    "iso:country":"US",
+    "sg:address":"1702 Avenue E",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8932",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hjnaxPivaHRM6kFrTLp4j_45.787965_-108.561777@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295045,
+    "wof:geomhash":"462c18b00acdc3578dc15dec4e46a92f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873605329
+        }
+    ],
+    "wof:id":873605329,
+    "wof:lastmodified":1464295045,
+    "wof:name":"Current Construction",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -108.561777,
+    45.787965,
+    -108.561777,
+    45.787965
+],
+  "geometry": {"coordinates":[-108.56177700000001,45.787965],"type":"Point"}
+}

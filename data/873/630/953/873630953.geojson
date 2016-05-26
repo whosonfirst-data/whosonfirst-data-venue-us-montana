@@ -1,0 +1,82 @@
+{
+  "id": 873630953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.070735,46.850662,-114.070735,46.850662",
+    "geom:latitude":46.850662,
+    "geom:longitude":-114.070735,
+    "iso:country":"US",
+    "sg:address":"3616 W Central Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 2191",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "electrical",
+        "lighting",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LYFla9AwBrp9W7XhRPHwg_46.850662_-114.070735@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295374,
+    "wof:geomhash":"de1074071485ec54dd8c357060fc41bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873630953
+        }
+    ],
+    "wof:id":873630953,
+    "wof:lastmodified":1464295374,
+    "wof:name":"Industrial Lighting Service",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electrical",
+        "lighting",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -114.070735,
+    46.850662,
+    -114.070735,
+    46.850662
+],
+  "geometry": {"coordinates":[-114.070735,46.850662],"type":"Point"}
+}

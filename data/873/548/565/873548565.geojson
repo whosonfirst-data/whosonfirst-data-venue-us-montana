@@ -1,0 +1,73 @@
+{
+  "id": 873548565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.542303,45.767016,-108.542303,45.767016",
+    "geom:latitude":45.767016,
+    "geom:longitude":-108.542303,
+    "iso:country":"US",
+    "sg:address":"50 Moore Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 4159",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6374xZ31yca0ZmzUGTECGf_45.767016_-108.542303@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294362,
+    "wof:geomhash":"b814e16f1ee8fb8bf56aeb0d7e063b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873548565
+        }
+    ],
+    "wof:id":873548565,
+    "wof:lastmodified":1464294362,
+    "wof:name":"Moore Lane Veterinary Hospital",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -108.542303,
+    45.767016,
+    -108.542303,
+    45.767016
+],
+  "geometry": {"coordinates":[-108.542303,45.767016],"type":"Point"}
+}

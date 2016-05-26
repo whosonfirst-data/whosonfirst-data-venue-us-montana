@@ -1,0 +1,77 @@
+{
+  "id": 873589199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.571164,45.783978,-108.571164,45.783978",
+    "geom:latitude":45.783978,
+    "geom:longitude":-108.571164,
+    "iso:country":"US",
+    "sg:address":"2132 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 1900",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "spa",
+        "sauna",
+        "pool",
+        "table"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eu5pOZZvXFkFFYTdRLPKc_45.783978_-108.571164@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294819,
+    "wof:geomhash":"da90ab86e76794b2761cbcd038357eaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873589199
+        }
+    ],
+    "wof:id":873589199,
+    "wof:lastmodified":1464294819,
+    "wof:name":"Spas West",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "sauna",
+        "pool",
+        "table"
+    ]
+},
+  "bbox": [
+    -108.571164,
+    45.783978,
+    -108.571164,
+    45.783978
+],
+  "geometry": {"coordinates":[-108.571164,45.783978],"type":"Point"}
+}

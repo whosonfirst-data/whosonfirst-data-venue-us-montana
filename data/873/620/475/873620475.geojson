@@ -1,0 +1,73 @@
+{
+  "id": 873620475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.545071,45.776926,-108.545071,45.776926",
+    "geom:latitude":45.776926,
+    "geom:longitude":-108.545071,
+    "iso:country":"US",
+    "sg:address":"1144 Broadwater Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 4008",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NVJLwx7e3UqrUS7sjGwbG_45.776926_-108.545071@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295256,
+    "wof:geomhash":"cb2980b8b5241b18cb8a7a219e2d4525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873620475
+        }
+    ],
+    "wof:id":873620475,
+    "wof:lastmodified":1464295256,
+    "wof:name":"Brown's Automatic Transmission",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -108.545071,
+    45.776926,
+    -108.545071,
+    45.776926
+],
+  "geometry": {"coordinates":[-108.54507099999999,45.776926],"type":"Point"}
+}

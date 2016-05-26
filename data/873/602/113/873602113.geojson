@@ -1,0 +1,71 @@
+{
+  "id": 873602113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.018289,46.853353,-114.018289,46.853353",
+    "geom:latitude":46.853353,
+    "geom:longitude":-114.018289,
+    "iso:country":"US",
+    "sg:address":"1800 S Russell St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 5770",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2onbxkPp3OVbi1ebxp3HGE_46.853353_-114.018289@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295009,
+    "wof:geomhash":"07c316ad1b498a42a121463600ca5906",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873602113
+        }
+    ],
+    "wof:id":873602113,
+    "wof:lastmodified":1464295009,
+    "wof:name":"Norwest Mortgage Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -114.018289,
+    46.853353,
+    -114.018289,
+    46.853353
+],
+  "geometry": {"coordinates":[-114.018289,46.853353],"type":"Point"}
+}

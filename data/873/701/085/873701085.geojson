@@ -1,0 +1,72 @@
+{
+  "id": 873701085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.997713,46.84912,-113.997713,46.84912",
+    "geom:latitude":46.84912,
+    "geom:longitude":-113.997713,
+    "iso:country":"US",
+    "sg:address":"2325 S Higgins Ave ",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/18217-pickle-barrel/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 1100",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tTr3jaeXejd3KiMsXzS7g_46.849120_-113.997713@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296416,
+    "wof:geomhash":"2493446ca8b67e31ae8b2b0523d2292f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873701085
+        }
+    ],
+    "wof:id":873701085,
+    "wof:lastmodified":1464296416,
+    "wof:name":"Pickle Barrel",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -113.997713,
+    46.84912,
+    -113.997713,
+    46.84912
+],
+  "geometry": {"coordinates":[-113.997713,46.84912],"type":"Point"}
+}

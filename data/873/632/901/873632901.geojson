@@ -1,0 +1,73 @@
+{
+  "id": 873632901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.5938,45.801359,-108.5938,45.801359",
+    "geom:latitude":45.801359,
+    "geom:longitude":-108.5938,
+    "iso:country":"US",
+    "sg:address":"3118 Leeann Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 8933",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "consultation",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13lzuxhwjlubwZDgd9Em6X_45.801359_-108.593800@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295399,
+    "wof:geomhash":"72210701319ce31745867b4e078e9d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873632901
+        }
+    ],
+    "wof:id":873632901,
+    "wof:lastmodified":1464295399,
+    "wof:name":"Tower Consulting",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultation",
+        "mental"
+    ]
+},
+  "bbox": [
+    -108.5938,
+    45.801359,
+    -108.5938,
+    45.801359
+],
+  "geometry": {"coordinates":[-108.5938,45.801359],"type":"Point"}
+}

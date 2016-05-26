@@ -1,0 +1,71 @@
+{
+  "id": 873631435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.501211,45.779559,-108.501211,45.779559",
+    "geom:latitude":45.779559,
+    "geom:longitude":-108.501211,
+    "iso:country":"US",
+    "sg:address":"123 S 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 247 3270",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S09sgAiwoiY2VdE7yn3Ro_45.779559_-108.501211@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295379,
+    "wof:geomhash":"eb4f35cb7a85ab381b6b2adf4f7b982a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873631435
+        }
+    ],
+    "wof:id":873631435,
+    "wof:lastmodified":1464295379,
+    "wof:name":"Private Duty Program",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -108.501211,
+    45.779559,
+    -108.501211,
+    45.779559
+],
+  "geometry": {"coordinates":[-108.501211,45.779559],"type":"Point"}
+}

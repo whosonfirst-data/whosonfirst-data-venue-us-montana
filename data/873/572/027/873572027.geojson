@@ -1,0 +1,71 @@
+{
+  "id": 873572027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.012794,45.854455,-112.012794,45.854455",
+    "geom:latitude":45.854455,
+    "geom:longitude":-112.012794,
+    "iso:country":"US",
+    "sg:address":"30 Mayflower Rd",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 287 7861",
+    "sg:postcode":"59759",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0glbZzBwbsBfNngpE81OjT_45.854455_-112.012794@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294631,
+    "wof:geomhash":"0e6a7e45990d8d202e79ed1965494bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873572027
+        }
+    ],
+    "wof:id":873572027,
+    "wof:lastmodified":1464294631,
+    "wof:name":"Gneser Construction",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -112.012794,
+    45.854455,
+    -112.012794,
+    45.854455
+],
+  "geometry": {"coordinates":[-112.012794,45.854455],"type":"Point"}
+}

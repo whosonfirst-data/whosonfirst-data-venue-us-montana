@@ -1,0 +1,83 @@
+{
+  "id": 873640487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.044086,45.665028,-111.044086,45.665028",
+    "geom:latitude":45.665028,
+    "geom:longitude":-111.044086,
+    "iso:country":"US",
+    "sg:address":"1417 S 5th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 585 9260",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85891699,
+        85876465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LOy0YniAiH3H7Q0RvzLjv_45.665028_-111.044086@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295479,
+    "wof:geomhash":"c3e32a4d7ba5c9ce0ba8b2af64ef7a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891699,
+            "region_id":85688617,
+            "venue_id":873640487
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876465,
+            "region_id":85688617,
+            "venue_id":873640487
+        }
+    ],
+    "wof:id":873640487,
+    "wof:lastmodified":1464295479,
+    "wof:name":"Bistro Enterprises Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.044086,
+    45.665028,
+    -111.044086,
+    45.665028
+],
+  "geometry": {"coordinates":[-111.04408599999999,45.665028],"type":"Point"}
+}

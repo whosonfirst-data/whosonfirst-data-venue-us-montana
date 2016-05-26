@@ -1,0 +1,75 @@
+{
+  "id": 873592331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.540849,45.773999,-108.540849,45.773999",
+    "geom:latitude":45.773999,
+    "geom:longitude":-108.540849,
+    "iso:country":"US",
+    "sg:address":"902 Miles Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 2980",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FBDjtvEO1PJz0I1jCSpjv_45.773999_-108.540849@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294862,
+    "wof:geomhash":"0433087d2ff3cc5ed35645f848e3a0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873592331
+        }
+    ],
+    "wof:id":873592331,
+    "wof:lastmodified":1464294862,
+    "wof:name":"Anchor Properties Inc",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -108.540849,
+    45.773999,
+    -108.540849,
+    45.773999
+],
+  "geometry": {"coordinates":[-108.54084899999999,45.773999],"type":"Point"}
+}

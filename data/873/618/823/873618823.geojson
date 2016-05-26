@@ -1,0 +1,73 @@
+{
+  "id": 873618823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.062029,45.704232,-111.062029,45.704232",
+    "geom:latitude":45.704232,
+    "geom:longitude":-111.062029,
+    "iso:country":"US",
+    "sg:address":"151 Simmental Way",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 585 3402",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85891695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PR2HQK7uQnKt69UDVamPt_45.704232_-111.062029@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295239,
+    "wof:geomhash":"33aa579608251c96204f4c7a7819bb82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891695,
+            "region_id":85688617,
+            "venue_id":873618823
+        }
+    ],
+    "wof:id":873618823,
+    "wof:lastmodified":1464295239,
+    "wof:name":"Frito-Lay",
+    "wof:parent_id":85891695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -111.062029,
+    45.704232,
+    -111.062029,
+    45.704232
+],
+  "geometry": {"coordinates":[-111.062029,45.704232],"type":"Point"}
+}

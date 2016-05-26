@@ -1,0 +1,71 @@
+{
+  "id": 873545125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.001813,46.864918,-114.001813,46.864918",
+    "geom:latitude":46.864918,
+    "geom:longitude":-114.001813,
+    "iso:country":"US",
+    "sg:address":"319 S 5th St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 2875",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O42M8BU2v6WpOQ0GStPxl_46.864918_-114.001813@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294317,
+    "wof:geomhash":"2306d2ffa32e2c19ad85ab7b2f8d7d72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873545125
+        }
+    ],
+    "wof:id":873545125,
+    "wof:lastmodified":1464294317,
+    "wof:name":"Mark Estep Construction",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -114.001813,
+    46.864918,
+    -114.001813,
+    46.864918
+],
+  "geometry": {"coordinates":[-114.001813,46.864918],"type":"Point"}
+}

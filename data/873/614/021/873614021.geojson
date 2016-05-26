@@ -1,0 +1,86 @@
+{
+  "id": 873614021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.587555,45.751297,-108.587555,45.751297",
+    "geom:latitude":45.751297,
+    "geom:longitude":-108.587555,
+    "iso:country":"US",
+    "sg:address":"1011 S 29th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 8999",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "party",
+        "yard",
+        "supply"
+    ],
+    "sg:website":"www.partytimeplus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RZD4az7BjvqAn7OsoQd6x_45.751297_-108.587555@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295185,
+    "wof:geomhash":"ffcb3700bd9fc128c666e26fc4cbe0aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873614021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873614021
+        }
+    ],
+    "wof:id":873614021,
+    "wof:lastmodified":1464295185,
+    "wof:name":"Party Time Plus Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "yard",
+        "supply"
+    ]
+},
+  "bbox": [
+    -108.587555,
+    45.751297,
+    -108.587555,
+    45.751297
+],
+  "geometry": {"coordinates":[-108.58755499999999,45.751297],"type":"Point"}
+}

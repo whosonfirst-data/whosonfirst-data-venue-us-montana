@@ -1,0 +1,78 @@
+{
+  "id": 873664453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584246,45.74133,-108.584246,45.74133",
+    "geom:latitude":45.74133,
+    "geom:longitude":-108.584246,
+    "iso:country":"US",
+    "sg:address":"6554 S Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 0494",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "valve"
+    ],
+    "sg:website":"www.warburton-valve.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6205vsxx8Hnv5PO2urqMYF_45.741330_-108.584246@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295744,
+    "wof:geomhash":"36a7e176b86a8a2b8bf263a01cac1a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873664453
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873664453
+        }
+    ],
+    "wof:id":873664453,
+    "wof:lastmodified":1464295744,
+    "wof:name":"Warburton Valve LP",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valve"
+    ]
+},
+  "bbox": [
+    -108.584246,
+    45.74133,
+    -108.584246,
+    45.74133
+],
+  "geometry": {"coordinates":[-108.58424599999999,45.74133],"type":"Point"}
+}

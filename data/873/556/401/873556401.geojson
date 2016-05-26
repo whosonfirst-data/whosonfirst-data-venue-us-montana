@@ -1,0 +1,77 @@
+{
+  "id": 873556401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.999761,46.826765,-113.999761,46.826765",
+    "geom:latitude":46.826765,
+    "geom:longitude":-113.999761,
+    "iso:country":"US",
+    "sg:address":"102 Ben Hogan Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 7360",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "course",
+        "sporting",
+        "drinking",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OeTwBkef1tuhyrDndWCT5_46.826765_-113.999761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294452,
+    "wof:geomhash":"1ace5ae5fd01013ec22625fe36f9c188",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873556401
+        }
+    ],
+    "wof:id":873556401,
+    "wof:lastmodified":1464294452,
+    "wof:name":"Highlands Golf Club",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "sporting",
+        "drinking",
+        "public"
+    ]
+},
+  "bbox": [
+    -113.999761,
+    46.826765,
+    -113.999761,
+    46.826765
+],
+  "geometry": {"coordinates":[-113.99976100000001,46.826765],"type":"Point"}
+}

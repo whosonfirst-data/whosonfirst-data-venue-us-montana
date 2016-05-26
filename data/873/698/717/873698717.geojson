@@ -1,0 +1,76 @@
+{
+  "id": 873698717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.58007,45.784048,-108.58007,45.784048",
+    "geom:latitude":45.784048,
+    "geom:longitude":-108.58007,
+    "iso:country":"US",
+    "sg:address":"2522 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/78170-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5900",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rvkpqTpCmwl1uoKDwiDJk_45.784048_-108.580070@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296391,
+    "wof:geomhash":"1066d2044c381e246bdc15f040ba78ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873698717
+        }
+    ],
+    "wof:id":873698717,
+    "wof:lastmodified":1464296391,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.58007,
+    45.784048,
+    -108.58007,
+    45.784048
+],
+  "geometry": {"coordinates":[-108.58007000000001,45.784048],"type":"Point"}
+}

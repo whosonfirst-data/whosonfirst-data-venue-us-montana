@@ -1,0 +1,71 @@
+{
+  "id": 873607529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.309697,48.187923,-114.309697,48.187923",
+    "geom:latitude":48.187923,
+    "geom:longitude":-114.309697,
+    "iso:country":"US",
+    "sg:address":"1117 S Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 4968",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39wTik7l15x3s67gHzcL4e_48.187923_-114.309697@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295088,
+    "wof:geomhash":"5c7e3b36b9005151c5573601f8cdaa7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873607529
+        }
+    ],
+    "wof:id":873607529,
+    "wof:lastmodified":1464295088,
+    "wof:name":"Intrepid USA Healthcare Svc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -114.309697,
+    48.187923,
+    -114.309697,
+    48.187923
+],
+  "geometry": {"coordinates":[-114.309697,48.187923],"type":"Point"}
+}

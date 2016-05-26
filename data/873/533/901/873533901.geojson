@@ -1,0 +1,75 @@
+{
+  "id": 873533901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.529357,46.004015,-112.529357,46.004015",
+    "geom:latitude":46.004015,
+    "geom:longitude":-112.529357,
+    "iso:country":"US",
+    "sg:address":"944 S Wyoming St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 8145",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j7SWHmkMW8I2WArJpBVk1_46.004015_-112.529357@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294186,
+    "wof:geomhash":"b18f729a4cff4129abe41957ce7c2cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873533901
+        }
+    ],
+    "wof:id":873533901,
+    "wof:lastmodified":1464294186,
+    "wof:name":"National Affordable Housing",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -112.529357,
+    46.004015,
+    -112.529357,
+    46.004015
+],
+  "geometry": {"coordinates":[-112.529357,46.004015],"type":"Point"}
+}

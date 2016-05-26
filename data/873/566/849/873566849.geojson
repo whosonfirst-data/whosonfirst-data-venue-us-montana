@@ -1,0 +1,68 @@
+{
+  "id": 873566849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.501901,45.783799,-108.501901,45.783799",
+    "geom:latitude":45.783799,
+    "geom:longitude":-108.501901,
+    "iso:country":"US",
+    "sg:address":"19 N 25th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 9000",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46AciyhzbPkzBWfvz8S6tm_45.783799_-108.501901@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294574,
+    "wof:geomhash":"fc08cf7d348076e1d27ea9f32979b3c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525795,
+            "region_id":85688617,
+            "venue_id":873566849
+        }
+    ],
+    "wof:id":873566849,
+    "wof:lastmodified":1464294574,
+    "wof:name":"Deaconess Billings Clinic",
+    "wof:parent_id":420525795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.501901,
+    45.783799,
+    -108.501901,
+    45.783799
+],
+  "geometry": {"coordinates":[-108.501901,45.783799],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873666169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.547933,45.776133,-108.547933,45.776133",
+    "geom:latitude":45.776133,
+    "geom:longitude":-108.547933,
+    "iso:country":"US",
+    "sg:address":"1235 Custer Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 698 4348",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "blacksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I0wcBvbfuc0cffh8HFg5E_45.776133_-108.547933@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295761,
+    "wof:geomhash":"3b44d99a85a5e567166cea4d0d465290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873666169
+        }
+    ],
+    "wof:id":873666169,
+    "wof:lastmodified":1464295761,
+    "wof:name":"Rennie's Horseshoeing",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith"
+    ]
+},
+  "bbox": [
+    -108.547933,
+    45.776133,
+    -108.547933,
+    45.776133
+],
+  "geometry": {"coordinates":[-108.547933,45.776133],"type":"Point"}
+}

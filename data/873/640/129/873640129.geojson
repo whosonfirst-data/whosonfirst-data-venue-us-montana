@@ -1,0 +1,77 @@
+{
+  "id": 873640129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.578742,45.751019,-108.578742,45.751019",
+    "geom:latitude":45.751019,
+    "geom:longitude":-108.578742,
+    "iso:country":"US",
+    "sg:address":"2475 Enterprise Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4022",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KZDbpRj4KZ2uzuNaHD4Qy_45.751019_-108.578742@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295474,
+    "wof:geomhash":"72102d6997abdab75d85a5346b68e91d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873640129
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873640129
+        }
+    ],
+    "wof:id":873640129,
+    "wof:lastmodified":1464295474,
+    "wof:name":"Maaco Auto Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -108.578742,
+    45.751019,
+    -108.578742,
+    45.751019
+],
+  "geometry": {"coordinates":[-108.57874200000001,45.751019],"type":"Point"}
+}

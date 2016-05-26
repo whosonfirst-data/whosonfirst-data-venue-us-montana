@@ -1,0 +1,75 @@
+{
+  "id": 873556905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.548352,45.76147,-108.548352,45.76147",
+    "geom:latitude":45.76147,
+    "geom:longitude":-108.548352,
+    "iso:country":"US",
+    "sg:address":"500 Albert St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 5538",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tPyS08hsIfiOHMWbL1QlD_45.761470_-108.548352@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294460,
+    "wof:geomhash":"ef290dc32ae6a6e7aae1eb83c0ff7bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873556905
+        }
+    ],
+    "wof:id":873556905,
+    "wof:lastmodified":1464294460,
+    "wof:name":"Empire Heating & Cooling Co",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.548352,
+    45.76147,
+    -108.548352,
+    45.76147
+],
+  "geometry": {"coordinates":[-108.54835199999999,45.76147],"type":"Point"}
+}

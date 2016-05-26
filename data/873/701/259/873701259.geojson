@@ -1,0 +1,72 @@
+{
+  "id": 873701259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.985036,46.869446,-113.985036,46.869446",
+    "geom:latitude":46.869446,
+    "geom:longitude":-113.985036,
+    "iso:country":"US",
+    "sg:address":"720 E Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/211745-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 8692",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WBWw2F6veVJLkG1NM6Kpt_46.869446_-113.985036@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296418,
+    "wof:geomhash":"50b9ef98098f3c22b5220e4118c79a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873701259
+        }
+    ],
+    "wof:id":873701259,
+    "wof:lastmodified":1464296418,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -113.985036,
+    46.869446,
+    -113.985036,
+    46.869446
+],
+  "geometry": {"coordinates":[-113.98503599999999,46.869446],"type":"Point"}
+}

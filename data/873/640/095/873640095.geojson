@@ -1,0 +1,71 @@
+{
+  "id": 873640095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.058474,45.660278,-111.058474,45.660278",
+    "geom:latitude":45.660278,
+    "geom:longitude":-111.058474,
+    "iso:country":"US",
+    "sg:address":"1575 W Kagy Blvd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 0178",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Hu43V2ti8KNlW9p5COrUQ_45.660278_-111.058474@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295474,
+    "wof:geomhash":"d0344b80e46081352387a6fbe1881da3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891709,
+            "region_id":85688617,
+            "venue_id":873640095
+        }
+    ],
+    "wof:id":873640095,
+    "wof:lastmodified":1464295474,
+    "wof:name":"Mk Exteriors",
+    "wof:parent_id":85891709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.058474,
+    45.660278,
+    -111.058474,
+    45.660278
+],
+  "geometry": {"coordinates":[-111.058474,45.660278],"type":"Point"}
+}

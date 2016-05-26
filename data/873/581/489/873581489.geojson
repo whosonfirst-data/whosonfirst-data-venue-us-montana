@@ -1,0 +1,71 @@
+{
+  "id": 873581489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.102805,44.662329,-111.102805,44.662329",
+    "geom:latitude":44.662329,
+    "geom:longitude":-111.102805,
+    "iso:country":"US",
+    "sg:address":"239 Firehole Ave",
+    "sg:city":"West Yellowstone",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 646 9646",
+    "sg:postcode":"59758",
+    "sg:province":"MT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891741,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PJsFGlgLROM467q5GS9ru_44.662329_-111.102805@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294738,
+    "wof:geomhash":"8be2b51898d7ef3cf39084bbe95489c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "neighbourhood_id":85891741,
+            "region_id":85688617,
+            "venue_id":873581489
+        }
+    ],
+    "wof:id":873581489,
+    "wof:lastmodified":1464294738,
+    "wof:name":"Lone Peak Physical Therapy",
+    "wof:parent_id":85891741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -111.102805,
+    44.662329,
+    -111.102805,
+    44.662329
+],
+  "geometry": {"coordinates":[-111.102805,44.662329],"type":"Point"}
+}

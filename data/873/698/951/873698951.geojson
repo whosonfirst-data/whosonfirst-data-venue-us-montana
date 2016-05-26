@@ -1,0 +1,80 @@
+{
+  "id": 873698951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.57614,45.753896,-108.57614,45.753896",
+    "geom:latitude":45.753896,
+    "geom:longitude":-108.57614,
+    "iso:country":"US",
+    "sg:address":"920 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/39075-old-chicago/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 8122",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BVLU8cnlh96emEYXq78Bx_45.753896_-108.576140@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296393,
+    "wof:geomhash":"ad1d67b9f87ff9c64c4fe55e9d3388ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873698951
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873698951
+        }
+    ],
+    "wof:id":873698951,
+    "wof:lastmodified":1464296393,
+    "wof:name":"Old Chicago",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.57614,
+    45.753896,
+    -108.57614,
+    45.753896
+],
+  "geometry": {"coordinates":[-108.57614,45.753896],"type":"Point"}
+}

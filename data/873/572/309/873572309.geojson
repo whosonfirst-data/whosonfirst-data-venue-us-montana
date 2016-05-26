@@ -1,0 +1,75 @@
+{
+  "id": 873572309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.402962,45.817641,-108.402962,45.817641",
+    "geom:latitude":45.817641,
+    "geom:longitude":-108.402962,
+    "iso:country":"US",
+    "sg:address":"1045 Horn St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 5509",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HtRbPNd5EQsjZogmQjmoz_45.817641_-108.402962@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294634,
+    "wof:geomhash":"288c653fc6e1ef743184a5de5eb5edd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873572309
+        }
+    ],
+    "wof:id":873572309,
+    "wof:lastmodified":1464294634,
+    "wof:name":"Brice's Masterclean",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -108.402962,
+    45.817641,
+    -108.402962,
+    45.817641
+],
+  "geometry": {"coordinates":[-108.402962,45.817641],"type":"Point"}
+}

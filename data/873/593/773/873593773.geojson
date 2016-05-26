@@ -1,0 +1,79 @@
+{
+  "id": 873593773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.588339,45.778454,-108.588339,45.778454",
+    "geom:latitude":45.778454,
+    "geom:longitude":-108.588339,
+    "iso:country":"US",
+    "sg:address":"2901 Lynwood Cir",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 3005",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CQneEkrdWg95CFeHfLZ9R_45.778454_-108.588339@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294879,
+    "wof:geomhash":"14f84c4faf49c06f30b4af082f51005b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873593773
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873593773
+        }
+    ],
+    "wof:id":873593773,
+    "wof:lastmodified":1464294879,
+    "wof:name":"Acme Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -108.588339,
+    45.778454,
+    -108.588339,
+    45.778454
+],
+  "geometry": {"coordinates":[-108.588339,45.778454],"type":"Point"}
+}

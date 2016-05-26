@@ -1,0 +1,75 @@
+{
+  "id": 873620717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.51073,45.783452,-108.51073,45.783452",
+    "geom:latitude":45.783452,
+    "geom:longitude":-108.51073,
+    "iso:country":"US",
+    "sg:address":"2900 4th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 247 7405",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "federal",
+        "govt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uAnoOKbE3S3MrRlJf9VVK_45.783452_-108.510730@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295258,
+    "wof:geomhash":"d785c4b4e55e99e60e2911e2823a055f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873620717
+        }
+    ],
+    "wof:id":873620717,
+    "wof:lastmodified":1464295258,
+    "wof:name":"US Western Area Power Adm",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "govt"
+    ]
+},
+  "bbox": [
+    -108.51073,
+    45.783452,
+    -108.51073,
+    45.783452
+],
+  "geometry": {"coordinates":[-108.51073,45.783452],"type":"Point"}
+}

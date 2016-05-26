@@ -1,0 +1,69 @@
+{
+  "id": 873644467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.884822,46.879374,-113.884822,46.879374",
+    "geom:latitude":46.879374,
+    "geom:longitude":-113.884822,
+    "iso:country":"US",
+    "sg:address":"8270 Zaugg Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 258 6929",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891733,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HHis6H9BNRuecbD5whFz5_46.879374_-113.884822@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295530,
+    "wof:geomhash":"ac91633f8e3c445609ace53b8daf913f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891733,
+            "region_id":85688617,
+            "venue_id":873644467
+        }
+    ],
+    "wof:id":873644467,
+    "wof:lastmodified":1464295530,
+    "wof:name":"G & S Trucking",
+    "wof:parent_id":85891733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -113.884822,
+    46.879374,
+    -113.884822,
+    46.879374
+],
+  "geometry": {"coordinates":[-113.884822,46.879374],"type":"Point"}
+}

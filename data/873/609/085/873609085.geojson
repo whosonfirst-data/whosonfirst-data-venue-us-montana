@@ -1,0 +1,73 @@
+{
+  "id": 873609085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.5098,45.769539,-108.5098,45.769539",
+    "geom:latitude":45.769539,
+    "geom:longitude":-108.5098,
+    "iso:country":"US",
+    "sg:address":"47 Washington St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 0575",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_101qCsZGbmlK7VOAvfv2Ge_45.769539_-108.509800@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295125,
+    "wof:geomhash":"768a35c9ca8d0c3f1ed253602355892e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873609085
+        }
+    ],
+    "wof:id":873609085,
+    "wof:lastmodified":1464295125,
+    "wof:name":"G & L Cleaning & Antiques",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -108.5098,
+    45.769539,
+    -108.5098,
+    45.769539
+],
+  "geometry": {"coordinates":[-108.5098,45.769539],"type":"Point"}
+}

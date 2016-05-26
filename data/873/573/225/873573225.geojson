@@ -1,0 +1,71 @@
+{
+  "id": 873573225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.615088,45.802515,-108.615088,45.802515",
+    "geom:latitude":45.802515,
+    "geom:longitude":-108.615088,
+    "iso:country":"US",
+    "sg:address":"3313 Stonewall Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 0323",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wf8TBoLBTcIKM3QwVP1rk_45.802515_-108.615088@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294644,
+    "wof:geomhash":"fbfd929ccbf9a6c0bc9cf21428af2c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873573225
+        }
+    ],
+    "wof:id":873573225,
+    "wof:lastmodified":1464294644,
+    "wof:name":"Legacy Homes Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -108.615088,
+    45.802515,
+    -108.615088,
+    45.802515
+],
+  "geometry": {"coordinates":[-108.615088,45.802515],"type":"Point"}
+}

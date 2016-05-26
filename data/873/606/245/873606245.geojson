@@ -1,0 +1,73 @@
+{
+  "id": 873606245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.560841,45.660593,-110.560841,45.660593",
+    "geom:latitude":45.660593,
+    "geom:longitude":-110.560841,
+    "iso:country":"US",
+    "sg:address":"125 S 2nd St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 3900",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DixkFLjFdfqTCwAhLLWwl_45.660593_-110.560841@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295062,
+    "wof:geomhash":"dd0134706bce4eb0530f22c9e353aceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873606245
+        }
+    ],
+    "wof:id":873606245,
+    "wof:lastmodified":1464295062,
+    "wof:name":"Western Home Mortgage Corp",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -110.560841,
+    45.660593,
+    -110.560841,
+    45.660593
+],
+  "geometry": {"coordinates":[-110.560841,45.660593],"type":"Point"}
+}

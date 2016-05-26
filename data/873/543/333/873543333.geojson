@@ -1,0 +1,71 @@
+{
+  "id": 873543333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.627481,45.793905,-108.627481,45.793905",
+    "geom:latitude":45.793905,
+    "geom:longitude":-108.627481,
+    "iso:country":"US",
+    "sg:address":"4510 Hi Line Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 5045",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mNMmWHkA4NIPBb0OI1YN2_45.793905_-108.627481@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294294,
+    "wof:geomhash":"528240ed0c6b40e5cf9e92e0cdd536f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873543333
+        }
+    ],
+    "wof:id":873543333,
+    "wof:lastmodified":1464294294,
+    "wof:name":"Tendernest",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power"
+    ]
+},
+  "bbox": [
+    -108.627481,
+    45.793905,
+    -108.627481,
+    45.793905
+],
+  "geometry": {"coordinates":[-108.627481,45.793905],"type":"Point"}
+}

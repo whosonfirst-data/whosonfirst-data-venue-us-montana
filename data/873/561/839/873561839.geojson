@@ -1,0 +1,71 @@
+{
+  "id": 873561839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.553169,45.788958,-108.553169,45.788958",
+    "geom:latitude":45.788958,
+    "geom:longitude":-108.553169,
+    "iso:country":"US",
+    "sg:address":"1424 Ave F",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 2982",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "guard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mo1DhqbS43yinjQMx7UxH_45.788958_-108.553169@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294518,
+    "wof:geomhash":"f52c594489fa46272581e3bc36b566f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873561839
+        }
+    ],
+    "wof:id":873561839,
+    "wof:lastmodified":1464294518,
+    "wof:name":"Robert M Briney",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard"
+    ]
+},
+  "bbox": [
+    -108.553169,
+    45.788958,
+    -108.553169,
+    45.788958
+],
+  "geometry": {"coordinates":[-108.553169,45.788958],"type":"Point"}
+}

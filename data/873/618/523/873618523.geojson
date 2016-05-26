@@ -1,0 +1,73 @@
+{
+  "id": 873618523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.012963,46.850598,-114.012963,46.850598",
+    "geom:latitude":46.850598,
+    "geom:longitude":-114.012963,
+    "iso:country":"US",
+    "sg:address":"909 W Central Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 3210",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JiQvXQ85ONGP1RE7og3bn_46.850598_-114.012963@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295235,
+    "wof:geomhash":"25c97d565f941b328ed97b21892e0c26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873618523
+        }
+    ],
+    "wof:id":873618523,
+    "wof:lastmodified":1464295235,
+    "wof:name":"Missoula Manor Retirement Home",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -114.012963,
+    46.850598,
+    -114.012963,
+    46.850598
+],
+  "geometry": {"coordinates":[-114.012963,46.850598],"type":"Point"}
+}

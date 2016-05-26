@@ -1,0 +1,74 @@
+{
+  "id": 873660331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.07034,46.918229,-114.07034,46.918229",
+    "geom:latitude":46.918229,
+    "geom:longitude":-114.07034,
+    "iso:country":"US",
+    "sg:address":"5001 Grizzly Ct",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 5000",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.lithia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32xX5sD6k2wFqDkrRZHEa6_46.918229_-114.070340@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295701,
+    "wof:geomhash":"41ee9548bc25f30503944d9774b115f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873660331
+        }
+    ],
+    "wof:id":873660331,
+    "wof:lastmodified":1464295701,
+    "wof:name":"Lithia Auto Ctr Of Missoula",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -114.07034,
+    46.918229,
+    -114.07034,
+    46.918229
+],
+  "geometry": {"coordinates":[-114.07034,46.918229],"type":"Point"}
+}

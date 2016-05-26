@@ -1,0 +1,79 @@
+{
+  "id": 873560983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.593308,45.776405,-108.593308,45.776405",
+    "geom:latitude":45.776405,
+    "geom:longitude":-108.593308,
+    "iso:country":"US",
+    "sg:address":"415 Montclair Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 294 9545",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JgUAOhYVsfL9emNnwO4se_45.776405_-108.593308@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294510,
+    "wof:geomhash":"b60c3b6d5e79ee22e43923f7fb9cfc9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873560983
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873560983
+        }
+    ],
+    "wof:id":873560983,
+    "wof:lastmodified":1464294510,
+    "wof:name":"Auto Works of Billings Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -108.593308,
+    45.776405,
+    -108.593308,
+    45.776405
+],
+  "geometry": {"coordinates":[-108.59330799999999,45.776405],"type":"Point"}
+}

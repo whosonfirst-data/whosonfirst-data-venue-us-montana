@@ -1,0 +1,80 @@
+{
+  "id": 873659837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.435548,45.867245,-108.435548,45.867245",
+    "geom:latitude":45.867245,
+    "geom:longitude":-108.435548,
+    "iso:country":"US",
+    "sg:address":"3823 Sagebrush Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 7120",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tank",
+        "testing",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bLFabggDWnm9Lzl3aE92P_45.867245_-108.435548@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295696,
+    "wof:geomhash":"7b0d9b94299d78f688273b3b32bad28e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873659837
+        }
+    ],
+    "wof:id":873659837,
+    "wof:lastmodified":1464295696,
+    "wof:name":"Tank Management Services Inc",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "testing",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -108.435548,
+    45.867245,
+    -108.435548,
+    45.867245
+],
+  "geometry": {"coordinates":[-108.435548,45.867245],"type":"Point"}
+}

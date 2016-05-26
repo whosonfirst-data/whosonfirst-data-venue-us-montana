@@ -1,0 +1,72 @@
+{
+  "id": 873698989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.564463,45.75438,-108.564463,45.75438",
+    "geom:latitude":45.75438,
+    "geom:longitude":-108.564463,
+    "iso:country":"US",
+    "sg:address":"1824 King Ave W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/10651-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 5885",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZwlyZQwmXh6m9XY24SMPP_45.754380_-108.564463@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296393,
+    "wof:geomhash":"46e78dc6d31c811040698ec7139adc6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873698989
+        }
+    ],
+    "wof:id":873698989,
+    "wof:lastmodified":1464296393,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -108.564463,
+    45.75438,
+    -108.564463,
+    45.75438
+],
+  "geometry": {"coordinates":[-108.564463,45.75438],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873626791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.397515,45.815785,-108.397515,45.815785",
+    "geom:latitude":45.815785,
+    "geom:longitude":-108.397515,
+    "iso:country":"US",
+    "sg:address":"3330 Quinella Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 5074",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T0pKZ06pq2cgqDoNAjqNH_45.815785_-108.397515@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295328,
+    "wof:geomhash":"ef7861a82130a4e7a1a3ef120c28c228",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873626791
+        }
+    ],
+    "wof:id":873626791,
+    "wof:lastmodified":1464295328,
+    "wof:name":"John Lorang Trucking",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.397515,
+    45.815785,
+    -108.397515,
+    45.815785
+],
+  "geometry": {"coordinates":[-108.397515,45.815785],"type":"Point"}
+}

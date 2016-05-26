@@ -1,0 +1,73 @@
+{
+  "id": 873629069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.509771,45.782641,-108.509771,45.782641",
+    "geom:latitude":45.782641,
+    "geom:longitude":-108.509771,
+    "iso:country":"US",
+    "sg:address":"2912 3rd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 8389",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lo429kcBh9gFDL1d5f8gs_45.782641_-108.509771@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295350,
+    "wof:geomhash":"6d2ce8afa738b3db60328e8613498ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873629069
+        }
+    ],
+    "wof:id":873629069,
+    "wof:lastmodified":1464295350,
+    "wof:name":"Park One Garage",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -108.509771,
+    45.782641,
+    -108.509771,
+    45.782641
+],
+  "geometry": {"coordinates":[-108.509771,45.782641],"type":"Point"}
+}

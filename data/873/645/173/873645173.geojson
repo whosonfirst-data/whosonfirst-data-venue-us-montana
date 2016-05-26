@@ -1,0 +1,71 @@
+{
+  "id": 873645173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.013112,46.853405,-114.013112,46.853405",
+    "geom:latitude":46.853405,
+    "geom:longitude":-114.013112,
+    "iso:country":"US",
+    "sg:address":"1809 Stephens Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 0010",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IZ46U21djnwBHiAgI299L_46.853405_-114.013112@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295538,
+    "wof:geomhash":"1dc34464c31d69f54db1dbe788a79ccb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873645173
+        }
+    ],
+    "wof:id":873645173,
+    "wof:lastmodified":1464295538,
+    "wof:name":"Missoula Motor Cars",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -114.013112,
+    46.853405,
+    -114.013112,
+    46.853405
+],
+  "geometry": {"coordinates":[-114.01311200000001,46.853405],"type":"Point"}
+}

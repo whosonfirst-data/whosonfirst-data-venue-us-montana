@@ -1,0 +1,66 @@
+{
+  "id": 873621751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.57163,45.652566,-110.57163,45.652566",
+    "geom:latitude":45.652566,
+    "geom:longitude":-110.57163,
+    "iso:country":"US",
+    "sg:address":"1217 W Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 6154",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nSeXM2Uxeff81XyvK1SVc_45.652566_-110.571630@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295268,
+    "wof:geomhash":"c7aa85530280daca316d6300b2b15d5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873621751
+        }
+    ],
+    "wof:id":873621751,
+    "wof:lastmodified":1464295268,
+    "wof:name":"Livingston County Market",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.57163,
+    45.652566,
+    -110.57163,
+    45.652566
+],
+  "geometry": {"coordinates":[-110.57163,45.652566],"type":"Point"}
+}

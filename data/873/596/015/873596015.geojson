@@ -1,0 +1,77 @@
+{
+  "id": 873596015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.57594,45.733862,-108.57594,45.733862",
+    "geom:latitude":45.733862,
+    "geom:longitude":-108.57594,
+    "iso:country":"US",
+    "sg:address":"1629 East Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7900",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tandO5OQC8RTAl67iLoXW_45.733862_-108.575940@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294926,
+    "wof:geomhash":"0d76cc4abc58d3163dd791485db6422c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873596015
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873596015
+        }
+    ],
+    "wof:id":873596015,
+    "wof:lastmodified":1464294926,
+    "wof:name":"Fortis Insurance Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -108.57594,
+    45.733862,
+    -108.57594,
+    45.733862
+],
+  "geometry": {"coordinates":[-108.57594,45.733862],"type":"Point"}
+}

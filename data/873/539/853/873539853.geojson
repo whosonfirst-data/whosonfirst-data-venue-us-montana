@@ -1,0 +1,77 @@
+{
+  "id": 873539853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.479385,45.819153,-108.479385,45.819153",
+    "geom:latitude":45.819153,
+    "geom:longitude":-108.479385,
+    "iso:country":"US",
+    "sg:address":"338 Windsor Cir N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 4521",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OK06OA3dMEW9XWaa9C4M5_45.819153_-108.479385@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294258,
+    "wof:geomhash":"7a11316b225b14e4c07ef6f6410e9993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":873539853
+        }
+    ],
+    "wof:id":873539853,
+    "wof:lastmodified":1464294258,
+    "wof:name":"Ed Schaak Trucking",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.479385,
+    45.819153,
+    -108.479385,
+    45.819153
+],
+  "geometry": {"coordinates":[-108.47938499999999,45.819153],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873572073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.592952,45.789184,-108.592952,45.789184",
+    "geom:latitude":45.789184,
+    "geom:longitude":-108.592952,
+    "iso:country":"US",
+    "sg:address":"3125 Ave F",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 9554",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qu2RfJYiE39CnZEAoZYq7_45.789184_-108.592952@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294632,
+    "wof:geomhash":"645fc14c48dbf3aa2d7caccce88a174b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873572073
+        }
+    ],
+    "wof:id":873572073,
+    "wof:lastmodified":1464294632,
+    "wof:name":"Radon Busters",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.592952,
+    45.789184,
+    -108.592952,
+    45.789184
+],
+  "geometry": {"coordinates":[-108.592952,45.789184],"type":"Point"}
+}

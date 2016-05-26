@@ -1,0 +1,73 @@
+{
+  "id": 873615977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.499002,45.785498,-108.499002,45.785498",
+    "geom:latitude":45.785498,
+    "geom:longitude":-108.499002,
+    "iso:country":"US",
+    "sg:address":"2209 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 0333",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X394EBV9iShtvQmPJ9eLU_45.785498_-108.499002@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295205,
+    "wof:geomhash":"f46208c2c15335d3c9db8fff603fb398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525795,
+            "region_id":85688617,
+            "venue_id":873615977
+        }
+    ],
+    "wof:id":873615977,
+    "wof:lastmodified":1464295205,
+    "wof:name":"North Side Pawn",
+    "wof:parent_id":420525795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -108.499002,
+    45.785498,
+    -108.499002,
+    45.785498
+],
+  "geometry": {"coordinates":[-108.499002,45.785498],"type":"Point"}
+}

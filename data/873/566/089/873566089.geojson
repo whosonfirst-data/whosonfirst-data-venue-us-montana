@@ -1,0 +1,74 @@
+{
+  "id": 873566089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.611134,45.762836,-108.611134,45.762836",
+    "geom:latitude":45.762836,
+    "geom:longitude":-108.611134,
+    "iso:country":"US",
+    "sg:address":"3740 Mammoth Cave Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 0019",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dgSs3QkEDgkYKGW2A7Nhy_45.762836_-108.611134@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294567,
+    "wof:geomhash":"fef2e2ab39c01632e7d0614fa5c355af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873566089
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873566089
+        }
+    ],
+    "wof:id":873566089,
+    "wof:lastmodified":1464294567,
+    "wof:name":"Blue Sky Real Estate",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.611134,
+    45.762836,
+    -108.611134,
+    45.762836
+],
+  "geometry": {"coordinates":[-108.61113400000001,45.762836],"type":"Point"}
+}

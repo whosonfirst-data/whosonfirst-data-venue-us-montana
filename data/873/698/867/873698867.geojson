@@ -1,0 +1,78 @@
+{
+  "id": 873698867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576164,45.7634,-108.576164,45.7634",
+    "geom:latitude":45.7634,
+    "geom:longitude":-108.576164,
+    "iso:country":"US",
+    "sg:address":"327 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/235823-the-great-american-bagel/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 6618",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AIf5Teo5Z9S022kjRz8pw_45.763400_-108.576164@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296392,
+    "wof:geomhash":"59704022c0a12f264da922c99027dd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873698867
+        }
+    ],
+    "wof:id":873698867,
+    "wof:lastmodified":1464296392,
+    "wof:name":"The Great American Bagel",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -108.576164,
+    45.7634,
+    -108.576164,
+    45.7634
+],
+  "geometry": {"coordinates":[-108.57616400000001,45.7634],"type":"Point"}
+}

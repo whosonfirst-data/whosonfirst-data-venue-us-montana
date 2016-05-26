@@ -1,0 +1,68 @@
+{
+  "id": 873548553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.578147,45.769671,-108.578147,45.769671",
+    "geom:latitude":45.769671,
+    "geom:longitude":-108.578147,
+    "iso:country":"US",
+    "sg:address":"2456 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 0597",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79q2SX3xnVHltWo5pdsAJK_45.769671_-108.578147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294362,
+    "wof:geomhash":"509fd10650e3e9f5679c8dca987b948f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873548553
+        }
+    ],
+    "wof:id":873548553,
+    "wof:lastmodified":1464294362,
+    "wof:name":"Carmike Cinemas District",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.578147,
+    45.769671,
+    -108.578147,
+    45.769671
+],
+  "geometry": {"coordinates":[-108.578147,45.769671],"type":"Point"}
+}

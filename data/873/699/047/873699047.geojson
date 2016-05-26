@@ -1,0 +1,72 @@
+{
+  "id": 873699047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.477241,45.803941,-108.477241,45.803941",
+    "geom:latitude":45.803941,
+    "geom:longitude":-108.477241,
+    "iso:country":"US",
+    "sg:address":"605 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/81176-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 7272",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49viPVbqeGcq7Vs2oTYQia_45.803941_-108.477241@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296394,
+    "wof:geomhash":"0bb7adc78c41ad85e9e4931a24493358",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873699047
+        }
+    ],
+    "wof:id":873699047,
+    "wof:lastmodified":1464296394,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.477241,
+    45.803941,
+    -108.477241,
+    45.803941
+],
+  "geometry": {"coordinates":[-108.47724100000001,45.803941],"type":"Point"}
+}

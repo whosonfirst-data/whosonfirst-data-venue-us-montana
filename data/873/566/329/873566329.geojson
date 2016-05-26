@@ -1,0 +1,73 @@
+{
+  "id": 873566329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.097459,46.756717,-114.097459,46.756717",
+    "geom:latitude":46.756717,
+    "geom:longitude":-114.097459,
+    "iso:country":"US",
+    "sg:address":"7335 Lolo Creek Rd",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 0965",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q0xBt19TNOdypGQzCnXeN_46.756717_-114.097459@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294569,
+    "wof:geomhash":"8576b5c73fda04af1a9168ffa86905c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873566329
+        }
+    ],
+    "wof:id":873566329,
+    "wof:lastmodified":1464294569,
+    "wof:name":"Haz Tech Electrical Contr",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.097459,
+    46.756717,
+    -114.097459,
+    46.756717
+],
+  "geometry": {"coordinates":[-114.097459,46.756717],"type":"Point"}
+}

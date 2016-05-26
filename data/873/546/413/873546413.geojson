@@ -1,0 +1,79 @@
+{
+  "id": 873546413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.61657,45.766024,-108.61657,45.766024",
+    "geom:latitude":45.766024,
+    "geom:longitude":-108.61657,
+    "iso:country":"US",
+    "sg:address":"3931 Teal St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 0089",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OiB6rae5Rz2Yyj5guw7JG_45.766024_-108.616570@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294333,
+    "wof:geomhash":"afec6673b2bdcf4545d45c1b6fa4a65f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873546413
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873546413
+        }
+    ],
+    "wof:id":873546413,
+    "wof:lastmodified":1464294333,
+    "wof:name":"Consulting Architect",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -108.61657,
+    45.766024,
+    -108.61657,
+    45.766024
+],
+  "geometry": {"coordinates":[-108.61657,45.766024],"type":"Point"}
+}

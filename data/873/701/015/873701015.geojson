@@ -1,0 +1,74 @@
+{
+  "id": 873701015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.03944,46.854532,-114.03944,46.854532",
+    "geom:latitude":46.854532,
+    "geom:longitude":-114.03944,
+    "iso:country":"US",
+    "sg:address":"2600 S Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/96311-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 7275",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wfdvimgRt7UH0EDMP50At_46.854532_-114.039440@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296416,
+    "wof:geomhash":"f7121edd5eec0b4eaa51657a72f9ee1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873701015
+        }
+    ],
+    "wof:id":873701015,
+    "wof:lastmodified":1464296416,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -114.03944,
+    46.854532,
+    -114.03944,
+    46.854532
+],
+  "geometry": {"coordinates":[-114.03944,46.854532],"type":"Point"}
+}

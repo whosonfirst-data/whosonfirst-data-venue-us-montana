@@ -1,0 +1,72 @@
+{
+  "id": 873533795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576218,45.753827,-108.576218,45.753827",
+    "geom:latitude":45.753827,
+    "geom:longitude":-108.576218,
+    "iso:country":"US",
+    "sg:address":"1040 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 591 9696",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75UmzxKIhyGZnjDaXwAcMH_45.753827_-108.576218@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294184,
+    "wof:geomhash":"fd9d0277b2791d53159e13bfa736ca43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873533795
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873533795
+        }
+    ],
+    "wof:id":873533795,
+    "wof:lastmodified":1464294184,
+    "wof:name":"Eagle Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.576218,
+    45.753827,
+    -108.576218,
+    45.753827
+],
+  "geometry": {"coordinates":[-108.576218,45.753827],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873598573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.012343,46.852561,-114.012343,46.852561",
+    "geom:latitude":46.852561,
+    "geom:longitude":-114.012343,
+    "iso:country":"US",
+    "sg:address":"1920 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 5794",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g95ZVqNdcoR39IiafHNR1_46.852561_-114.012343@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294965,
+    "wof:geomhash":"1f9e3f2f76120824c1167b34f5d3e0ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873598573
+        }
+    ],
+    "wof:id":873598573,
+    "wof:lastmodified":1464294965,
+    "wof:name":"Montana Office Systems Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -114.012343,
+    46.852561,
+    -114.012343,
+    46.852561
+],
+  "geometry": {"coordinates":[-114.012343,46.852561],"type":"Point"}
+}

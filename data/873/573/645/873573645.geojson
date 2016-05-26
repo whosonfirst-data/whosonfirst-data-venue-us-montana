@@ -1,0 +1,73 @@
+{
+  "id": 873573645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.345078,45.903831,-108.345078,45.903831",
+    "geom:latitude":45.903831,
+    "geom:longitude":-108.345078,
+    "iso:country":"US",
+    "sg:address":"5505 Lester Ln",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 5133",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "heavy",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_335OHXIQdrhhukdeBQjFmW_45.903831_-108.345078@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294648,
+    "wof:geomhash":"dadaa53430083b9b980692beba27242a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873573645
+        }
+    ],
+    "wof:id":873573645,
+    "wof:lastmodified":1464294648,
+    "wof:name":"M & M Cranes",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "construction"
+    ]
+},
+  "bbox": [
+    -108.345078,
+    45.903831,
+    -108.345078,
+    45.903831
+],
+  "geometry": {"coordinates":[-108.345078,45.903831],"type":"Point"}
+}

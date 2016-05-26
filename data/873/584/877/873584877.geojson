@@ -1,0 +1,71 @@
+{
+  "id": 873584877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.161546,45.961277,-108.161546,45.961277",
+    "geom:latitude":45.961277,
+    "geom:longitude":-108.161546,
+    "iso:country":"US",
+    "sg:address":"2416 3rd St",
+    "sg:city":"Worden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 967 2431",
+    "sg:postcode":"59088",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kR8JQgiUs1pFQ9Xm66yeK_45.961277_-108.161546@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294771,
+    "wof:geomhash":"3a98d5121ba6d38a42b31372863a5621",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873584877
+        }
+    ],
+    "wof:id":873584877,
+    "wof:lastmodified":1464294771,
+    "wof:name":"Project Merc",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -108.161546,
+    45.961277,
+    -108.161546,
+    45.961277
+],
+  "geometry": {"coordinates":[-108.161546,45.961277],"type":"Point"}
+}

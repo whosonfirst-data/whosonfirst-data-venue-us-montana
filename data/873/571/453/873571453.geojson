@@ -1,0 +1,73 @@
+{
+  "id": 873571453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576303,45.78419,-108.576303,45.78419",
+    "geom:latitude":45.78419,
+    "geom:longitude":-108.576303,
+    "iso:country":"US",
+    "sg:address":"2205 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 5411",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gTDukNGJhbMnZi1RKtXuM_45.784190_-108.576303@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294625,
+    "wof:geomhash":"4464b3814fffed2bb167449734272bcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873571453
+        }
+    ],
+    "wof:id":873571453,
+    "wof:lastmodified":1464294625,
+    "wof:name":"Cowboy Connections",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -108.576303,
+    45.78419,
+    -108.576303,
+    45.78419
+],
+  "geometry": {"coordinates":[-108.576303,45.78419],"type":"Point"}
+}

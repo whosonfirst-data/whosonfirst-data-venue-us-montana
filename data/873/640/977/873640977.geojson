@@ -1,0 +1,75 @@
+{
+  "id": 873640977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.568668,45.785159,-108.568668,45.785159",
+    "geom:latitude":45.785159,
+    "geom:longitude":-108.568668,
+    "iso:country":"US",
+    "sg:address":"2033 Ave B",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 860 5844",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sev39zXmVJHY3bXEP3v0R_45.785159_-108.568668@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295487,
+    "wof:geomhash":"6321863b5666e8c7bbc6560ae0f4fe5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873640977
+        }
+    ],
+    "wof:id":873640977,
+    "wof:lastmodified":1464295487,
+    "wof:name":"Billings Glass",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -108.568668,
+    45.785159,
+    -108.568668,
+    45.785159
+],
+  "geometry": {"coordinates":[-108.568668,45.785159],"type":"Point"}
+}

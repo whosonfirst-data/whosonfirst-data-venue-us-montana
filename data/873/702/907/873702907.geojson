@@ -1,0 +1,74 @@
+{
+  "id": 873702907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.562285,45.663491,-110.562285,45.663491",
+    "geom:latitude":45.663491,
+    "geom:longitude":-110.562285,
+    "iso:country":"US",
+    "sg:address":"320 1/2 N Main St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 0815",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "tune"
+    ],
+    "sg:website":"http://www.napaautocare.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4isixNrXflvTagpOq4VTi4_45.663491_-110.562285@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296434,
+    "wof:geomhash":"8fba81c047efbb2d439b31972da40541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873702907
+        }
+    ],
+    "wof:id":873702907,
+    "wof:lastmodified":1464296434,
+    "wof:name":"American Automotive",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "tune"
+    ]
+},
+  "bbox": [
+    -110.562285,
+    45.663491,
+    -110.562285,
+    45.663491
+],
+  "geometry": {"coordinates":[-110.562285,45.663491],"type":"Point"}
+}

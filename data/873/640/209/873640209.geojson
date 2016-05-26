@@ -1,0 +1,69 @@
+{
+  "id": 873640209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.535768,45.758209,-108.535768,45.758209",
+    "geom:latitude":45.758209,
+    "geom:longitude":-108.535768,
+    "iso:country":"US",
+    "sg:address":"706 S Billings Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 3629",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NGKJIaR1msZmC767QQUVt_45.758209_-108.535768@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295475,
+    "wof:geomhash":"a39f28ff4a8c3232d2ddda6b5937cb24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873640209
+        }
+    ],
+    "wof:id":873640209,
+    "wof:lastmodified":1464295475,
+    "wof:name":"Rocky Mountain Auto Body",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -108.535768,
+    45.758209,
+    -108.535768,
+    45.758209
+],
+  "geometry": {"coordinates":[-108.535768,45.758209],"type":"Point"}
+}

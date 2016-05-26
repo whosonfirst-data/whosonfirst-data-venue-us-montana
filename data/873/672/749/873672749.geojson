@@ -1,0 +1,71 @@
+{
+  "id": 873672749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470741,45.825442,-108.470741,45.825442",
+    "geom:latitude":45.825442,
+    "geom:longitude":-108.470741,
+    "iso:country":"US",
+    "sg:address":"1445 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9100",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WYAZt6OWhSW5jvQKYC2rm_45.825442_-108.470741@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295828,
+    "wof:geomhash":"cb5dcbee94923af0073f8439cac3b020",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873672749
+        }
+    ],
+    "wof:id":873672749,
+    "wof:lastmodified":1464295828,
+    "wof:name":"Valley Federal Credit Un Mont",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -108.470741,
+    45.825442,
+    -108.470741,
+    45.825442
+],
+  "geometry": {"coordinates":[-108.470741,45.825442],"type":"Point"}
+}

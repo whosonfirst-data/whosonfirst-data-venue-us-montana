@@ -1,0 +1,71 @@
+{
+  "id": 873543063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.473021,45.808751,-108.473021,45.808751",
+    "geom:latitude":45.808751,
+    "geom:longitude":-108.473021,
+    "iso:country":"US",
+    "sg:address":"712 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 3198",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZVgndTS68PbvS6UbPjG4h_45.808751_-108.473021@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294291,
+    "wof:geomhash":"036a5b5ba8ecfe260948bb996ff2e2b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873543063
+        }
+    ],
+    "wof:id":873543063,
+    "wof:lastmodified":1464294291,
+    "wof:name":"Perfect Cup",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -108.473021,
+    45.808751,
+    -108.473021,
+    45.808751
+],
+  "geometry": {"coordinates":[-108.473021,45.808751],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873534013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.469886,45.836993,-108.469886,45.836993",
+    "geom:latitude":45.836993,
+    "geom:longitude":-108.469886,
+    "iso:country":"US",
+    "sg:address":"2121 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8191",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "ornamental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VBdszX8zkMIi7hu0SM4Fx_45.836993_-108.469886@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294188,
+    "wof:geomhash":"1a9907d2d47786a8ef443a5a68b93825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873534013
+        }
+    ],
+    "wof:id":873534013,
+    "wof:lastmodified":1464294188,
+    "wof:name":"Continental Greenhouse",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental"
+    ]
+},
+  "bbox": [
+    -108.469886,
+    45.836993,
+    -108.469886,
+    45.836993
+],
+  "geometry": {"coordinates":[-108.469886,45.836993],"type":"Point"}
+}

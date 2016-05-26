@@ -1,0 +1,75 @@
+{
+  "id": 873633453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.479007,45.819294,-108.479007,45.819294",
+    "geom:latitude":45.819294,
+    "geom:longitude":-108.479007,
+    "iso:country":"US",
+    "sg:address":"325 Windsor Cir N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 2337",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55ZypmQWZaoYZzcxKTQoHp_45.819294_-108.479007@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295406,
+    "wof:geomhash":"80b3031917c322a86a6b3e3a3da12112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":873633453
+        }
+    ],
+    "wof:id":873633453,
+    "wof:lastmodified":1464295406,
+    "wof:name":"CRC Painting",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.479007,
+    45.819294,
+    -108.479007,
+    45.819294
+],
+  "geometry": {"coordinates":[-108.479007,45.819294],"type":"Point"}
+}

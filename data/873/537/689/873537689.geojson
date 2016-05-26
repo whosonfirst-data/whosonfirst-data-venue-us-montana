@@ -1,0 +1,73 @@
+{
+  "id": 873537689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.618579,45.800967,-108.618579,45.800967",
+    "geom:latitude":45.800967,
+    "geom:longitude":-108.618579,
+    "iso:country":"US",
+    "sg:address":"3103 Flamingo Way",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7239",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EIP8gf0hwwgAw3Z6zaITw_45.800967_-108.618579@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294235,
+    "wof:geomhash":"8f5baf0e21f8a1b97ae24b701824aad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873537689
+        }
+    ],
+    "wof:id":873537689,
+    "wof:lastmodified":1464294235,
+    "wof:name":"Mountain West Concrete Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.618579,
+    45.800967,
+    -108.618579,
+    45.800967
+],
+  "geometry": {"coordinates":[-108.618579,45.800967],"type":"Point"}
+}

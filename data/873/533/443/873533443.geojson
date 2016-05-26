@@ -1,0 +1,75 @@
+{
+  "id": 873533443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.518822,45.789924,-108.518822,45.789924",
+    "geom:latitude":45.789924,
+    "geom:longitude":-108.518822,
+    "iso:country":"US",
+    "sg:address":"1025 N 31st St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 5519",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZMF0bdrKL4gmSktKSPAhy_45.789924_-108.518822@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294169,
+    "wof:geomhash":"7451c36b5a0c08c61e52d709cf240384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873533443
+        }
+    ],
+    "wof:id":873533443,
+    "wof:lastmodified":1464294169,
+    "wof:name":"Kreiter Electric Inc",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.518822,
+    45.789924,
+    -108.518822,
+    45.789924
+],
+  "geometry": {"coordinates":[-108.518822,45.789924],"type":"Point"}
+}

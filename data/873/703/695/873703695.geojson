@@ -1,0 +1,72 @@
+{
+  "id": 873703695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.004655,48.477095,-114.004655,48.477095",
+    "geom:latitude":48.477095,
+    "geom:longitude":-114.004655,
+    "iso:country":"US",
+    "sg:address":"228 Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 871 5109",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:website":"http://www.starletsparty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BKWEdymSISZsyCEtYfsFF_48.477095_-114.004655@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296442,
+    "wof:geomhash":"39d498cf9f553412c306d8e8aff53aa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873703695
+        }
+    ],
+    "wof:id":873703695,
+    "wof:lastmodified":1464296442,
+    "wof:name":"Starlets at J. Thomas Salon",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.004655,
+    48.477095,
+    -114.004655,
+    48.477095
+],
+  "geometry": {"coordinates":[-114.004655,48.477095],"type":"Point"}
+}

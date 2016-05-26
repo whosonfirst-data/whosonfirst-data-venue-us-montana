@@ -1,0 +1,78 @@
+{
+  "id": 873698525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.507931,45.782148,-108.507931,45.782148",
+    "geom:latitude":45.782148,
+    "geom:longitude":-108.507931,
+    "iso:country":"US",
+    "sg:address":"2906 2nd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/182341-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7647",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lix4yW8JM4pp8q4hbxIZg_45.782148_-108.507931@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296389,
+    "wof:geomhash":"52f00ed76dc681c109b0e8a3d45cfd86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873698525
+        }
+    ],
+    "wof:id":873698525,
+    "wof:lastmodified":1464296389,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -108.507931,
+    45.782148,
+    -108.507931,
+    45.782148
+],
+  "geometry": {"coordinates":[-108.507931,45.782148],"type":"Point"}
+}

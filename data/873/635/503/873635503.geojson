@@ -1,0 +1,71 @@
+{
+  "id": 873635503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.460658,48.372851,-114.460658,48.372851",
+    "geom:latitude":48.372851,
+    "geom:longitude":-114.460658,
+    "iso:country":"US",
+    "sg:address":"6010 Farm To Market Rd",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 2825",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LneteOmvITBhvESofQ84A_48.372851_-114.460658@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295428,
+    "wof:geomhash":"f1a567b5d172202d9b744db2baf5f310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873635503
+        }
+    ],
+    "wof:id":873635503,
+    "wof:lastmodified":1464295428,
+    "wof:name":"Iverson Brothers Logging Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -114.460658,
+    48.372851,
+    -114.460658,
+    48.372851
+],
+  "geometry": {"coordinates":[-114.460658,48.372851],"type":"Point"}
+}

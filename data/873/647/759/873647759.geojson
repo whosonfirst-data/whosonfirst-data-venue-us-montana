@@ -1,0 +1,71 @@
+{
+  "id": 873647759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.783178,45.682258,-108.783178,45.682258",
+    "geom:latitude":45.682258,
+    "geom:longitude":-108.783178,
+    "iso:country":"US",
+    "sg:address":"1122 9th Ave",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 7760",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NrUo9BKjqp0mJzvUZyt8D_45.682258_-108.783178@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295564,
+    "wof:geomhash":"c0d8c5ad6e11e6b88f802af477887392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873647759
+        }
+    ],
+    "wof:id":873647759,
+    "wof:lastmodified":1464295564,
+    "wof:name":"Km Construction",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -108.783178,
+    45.682258,
+    -108.783178,
+    45.682258
+],
+  "geometry": {"coordinates":[-108.78317800000001,45.682258],"type":"Point"}
+}

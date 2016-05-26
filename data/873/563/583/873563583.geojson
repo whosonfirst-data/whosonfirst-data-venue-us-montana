@@ -1,0 +1,78 @@
+{
+  "id": 873563583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.227575,45.932812,-108.227575,45.932812",
+    "geom:latitude":45.932812,
+    "geom:longitude":-108.227575,
+    "iso:country":"US",
+    "sg:address":"2118 N 9th Rd",
+    "sg:city":"Worden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 967 2313",
+    "sg:postcode":"59088",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V8fa1pJeRXKEe5j70lsQM_45.932812_-108.227575@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294538,
+    "wof:geomhash":"6721c6357e5facd069a86f01a82b2cdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873563583
+        }
+    ],
+    "wof:id":873563583,
+    "wof:lastmodified":1464294538,
+    "wof:name":"B & D Repairs",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.227575,
+    45.932812,
+    -108.227575,
+    45.932812
+],
+  "geometry": {"coordinates":[-108.227575,45.932812],"type":"Point"}
+}

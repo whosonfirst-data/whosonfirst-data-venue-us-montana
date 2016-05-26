@@ -1,0 +1,75 @@
+{
+  "id": 873575107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.241055,48.269309,-114.241055,48.269309",
+    "geom:latitude":48.269309,
+    "geom:longitude":-114.241055,
+    "iso:country":"US",
+    "sg:address":"155 Eid Ln",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 7890",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EJhwNoQwQXbQ1hMnckRWr_48.269309_-114.241055@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294665,
+    "wof:geomhash":"32d8ffda72ee27c1ca3e00a43fe661ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873575107
+        }
+    ],
+    "wof:id":873575107,
+    "wof:lastmodified":1464294665,
+    "wof:name":"Doty Trucking",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.241055,
+    48.269309,
+    -114.241055,
+    48.269309
+],
+  "geometry": {"coordinates":[-114.241055,48.269309],"type":"Point"}
+}

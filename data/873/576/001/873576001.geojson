@@ -1,0 +1,66 @@
+{
+  "id": 873576001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.46724,45.841168,-108.46724,45.841168",
+    "geom:latitude":45.841168,
+    "geom:longitude":-108.46724,
+    "iso:country":"US",
+    "sg:address":"2347 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 7679",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AWU0PIlWhC6DVJsGYZkos_45.841168_-108.467240@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294674,
+    "wof:geomhash":"d06bba579413c04fb0aa4cd3dd78e688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873576001
+        }
+    ],
+    "wof:id":873576001,
+    "wof:lastmodified":1464294674,
+    "wof:name":"Blue Basket Markets",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.46724,
+    45.841168,
+    -108.46724,
+    45.841168
+],
+  "geometry": {"coordinates":[-108.46724,45.841168],"type":"Point"}
+}

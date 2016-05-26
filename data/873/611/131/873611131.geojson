@@ -1,0 +1,81 @@
+{
+  "id": 873611131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584507,45.750206,-108.584507,45.750206",
+    "geom:latitude":45.750206,
+    "geom:longitude":-108.584507,
+    "iso:country":"US",
+    "sg:address":"2751 Enterprise Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6556",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_198AxDzeYAiB0graiFFXcz_45.750206_-108.584507@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295155,
+    "wof:geomhash":"ab769405c7aad9a93ecaeee42a5005e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873611131
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873611131
+        }
+    ],
+    "wof:id":873611131,
+    "wof:lastmodified":1464295155,
+    "wof:name":"Glass Doctor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -108.584507,
+    45.750206,
+    -108.584507,
+    45.750206
+],
+  "geometry": {"coordinates":[-108.584507,45.750206],"type":"Point"}
+}

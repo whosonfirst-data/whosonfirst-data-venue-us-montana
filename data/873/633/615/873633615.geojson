@@ -1,0 +1,73 @@
+{
+  "id": 873633615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.497519,45.987296,-112.497519,45.987296",
+    "geom:latitude":45.987296,
+    "geom:longitude":-112.497519,
+    "iso:country":"US",
+    "sg:address":"2713 Harvard Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 4014",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WTp57cBI3civ0LN4pV7Nt_45.987296_-112.497519@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295408,
+    "wof:geomhash":"0d391aaaafc8df567873e9482977c665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873633615
+        }
+    ],
+    "wof:id":873633615,
+    "wof:lastmodified":1464295408,
+    "wof:name":"Bills Speed Centre",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -112.497519,
+    45.987296,
+    -112.497519,
+    45.987296
+],
+  "geometry": {"coordinates":[-112.497519,45.987296],"type":"Point"}
+}

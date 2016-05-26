@@ -1,0 +1,75 @@
+{
+  "id": 873584759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.537905,46.015027,-112.537905,46.015027",
+    "geom:latitude":46.015027,
+    "geom:longitude":-112.537905,
+    "iso:country":"US",
+    "sg:address":"225 N Alaska St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 4224",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X7bOE4LWNGLcI39PLmTpI_46.015027_-112.537905@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294770,
+    "wof:geomhash":"cbcb17cac1825097d9a1a8285d74bf75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873584759
+        }
+    ],
+    "wof:id":873584759,
+    "wof:lastmodified":1464294770,
+    "wof:name":"Silver Bow County Jail",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -112.537905,
+    46.015027,
+    -112.537905,
+    46.015027
+],
+  "geometry": {"coordinates":[-112.53790499999999,46.015027],"type":"Point"}
+}

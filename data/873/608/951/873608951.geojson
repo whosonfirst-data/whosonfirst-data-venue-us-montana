@@ -1,0 +1,73 @@
+{
+  "id": 873608951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.046861,46.820987,-114.046861,46.820987",
+    "geom:latitude":46.820987,
+    "geom:longitude":-114.046861,
+    "iso:country":"US",
+    "sg:address":"2742 Ancabide Ln",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 6991",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HssNYPsATPsZYuHnh2hH7_46.820987_-114.046861@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295123,
+    "wof:geomhash":"6cea1c21e94f2bf08e8216132ffbdd43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873608951
+        }
+    ],
+    "wof:id":873608951,
+    "wof:lastmodified":1464295123,
+    "wof:name":"Slater Trucking Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.046861,
+    46.820987,
+    -114.046861,
+    46.820987
+],
+  "geometry": {"coordinates":[-114.04686100000001,46.820987],"type":"Point"}
+}

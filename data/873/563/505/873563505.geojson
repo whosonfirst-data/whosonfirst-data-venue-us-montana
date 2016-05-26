@@ -1,0 +1,73 @@
+{
+  "id": 873563505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.505362,45.783657,-108.505362,45.783657",
+    "geom:latitude":45.783657,
+    "geom:longitude":-108.505362,
+    "iso:country":"US",
+    "sg:address":"2603 2nd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 4250",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eP6Hl9Xkxe3cZrwgSDHE0_45.783657_-108.505362@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294537,
+    "wof:geomhash":"7cb4cc91169366dad8a9119ac3d03623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525793,
+            "region_id":85688617,
+            "venue_id":873563505
+        }
+    ],
+    "wof:id":873563505,
+    "wof:lastmodified":1464294537,
+    "wof:name":"Montana-Dakota Utilities Co",
+    "wof:parent_id":420525793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -108.505362,
+    45.783657,
+    -108.505362,
+    45.783657
+],
+  "geometry": {"coordinates":[-108.50536200000001,45.783657],"type":"Point"}
+}

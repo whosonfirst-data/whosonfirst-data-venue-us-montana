@@ -1,0 +1,71 @@
+{
+  "id": 873592603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.571376,45.783976,-108.571376,45.783976",
+    "geom:latitude":45.783976,
+    "geom:longitude":-108.571376,
+    "iso:country":"US",
+    "sg:address":"2120 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5500",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SrMngjdfgjnzO1wICLHmg_45.783976_-108.571376@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294865,
+    "wof:geomhash":"4946d30a1f71f3bef5f4d526fee3ea47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873592603
+        }
+    ],
+    "wof:id":873592603,
+    "wof:lastmodified":1464294865,
+    "wof:name":"P R Enterprises",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -108.571376,
+    45.783976,
+    -108.571376,
+    45.783976
+],
+  "geometry": {"coordinates":[-108.571376,45.783976],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873605571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.218531,48.370545,-114.218531,48.370545",
+    "geom:latitude":48.370545,
+    "geom:longitude":-114.218531,
+    "iso:country":"US",
+    "sg:address":"2620 9th St W",
+    "sg:city":"Columbia Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 892 5277",
+    "sg:postcode":"59912",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JxHpKygK7oP1ezDB6adLQ_48.370545_-114.218531@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295050,
+    "wof:geomhash":"192e8f754e37f310b01dd9cc243dcb5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873605571
+        }
+    ],
+    "wof:id":873605571,
+    "wof:lastmodified":1464295050,
+    "wof:name":"Mayson Auto Sales",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -114.218531,
+    48.370545,
+    -114.218531,
+    48.370545
+],
+  "geometry": {"coordinates":[-114.218531,48.370545],"type":"Point"}
+}

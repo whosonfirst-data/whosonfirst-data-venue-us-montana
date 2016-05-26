@@ -1,0 +1,82 @@
+{
+  "id": 873701463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.039619,46.887344,-114.039619,46.887344",
+    "geom:latitude":46.887344,
+    "geom:longitude":-114.039619,
+    "iso:country":"US",
+    "sg:address":"2275 N Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/102134-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 3330",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41TXFO5MaUX3oI3LPkeKQq_46.887344_-114.039619@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296420,
+    "wof:geomhash":"a8fb7eb424abda432c48eb549b7f3569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873701463
+        }
+    ],
+    "wof:id":873701463,
+    "wof:lastmodified":1464296420,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -114.039619,
+    46.887344,
+    -114.039619,
+    46.887344
+],
+  "geometry": {"coordinates":[-114.039619,46.887344],"type":"Point"}
+}

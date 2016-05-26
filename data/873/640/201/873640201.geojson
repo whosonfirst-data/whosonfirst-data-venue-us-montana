@@ -1,0 +1,68 @@
+{
+  "id": 873640201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.532731,45.769899,-108.532731,45.769899",
+    "geom:latitude":45.769899,
+    "geom:longitude":-108.532731,
+    "iso:country":"US",
+    "sg:address":"615 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 5157",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mZ3210j9Nvc7bZyRt7JPK_45.769899_-108.532731@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295475,
+    "wof:geomhash":"445e893824d8bd638854c02c93ef895c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873640201
+        }
+    ],
+    "wof:id":873640201,
+    "wof:lastmodified":1464295475,
+    "wof:name":"Overpass Motel",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.532731,
+    45.769899,
+    -108.532731,
+    45.769899
+],
+  "geometry": {"coordinates":[-108.532731,45.769899],"type":"Point"}
+}

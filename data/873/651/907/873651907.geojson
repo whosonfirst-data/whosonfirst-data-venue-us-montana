@@ -1,0 +1,73 @@
+{
+  "id": 873651907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.185304,48.37131,-114.185304,48.37131",
+    "geom:latitude":48.37131,
+    "geom:longitude":-114.185304,
+    "iso:country":"US",
+    "sg:address":"830 3rd Ave W",
+    "sg:city":"Columbia Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 892 9600",
+    "sg:postcode":"59912",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c18PpHk9n3Jhvact6hRVr_48.371310_-114.185304@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295612,
+    "wof:geomhash":"d566633c91e92bd61874f5cea035b494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873651907
+        }
+    ],
+    "wof:id":873651907,
+    "wof:lastmodified":1464295612,
+    "wof:name":"Kelly Toman's Automotive",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -114.185304,
+    48.37131,
+    -114.185304,
+    48.37131
+],
+  "geometry": {"coordinates":[-114.185304,48.37131],"type":"Point"}
+}

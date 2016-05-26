@@ -1,0 +1,72 @@
+{
+  "id": 873701105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.039424,46.855734,-114.039424,46.855734",
+    "geom:latitude":46.855734,
+    "geom:longitude":-114.039424,
+    "iso:country":"US",
+    "sg:address":"2510 S Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/115236-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 5202",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rgqjSZ453U9BK5DTWDunV_46.855734_-114.039424@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296417,
+    "wof:geomhash":"f7f865ee522f8b38f89d137806122011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873701105
+        }
+    ],
+    "wof:id":873701105,
+    "wof:lastmodified":1464296417,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -114.039424,
+    46.855734,
+    -114.039424,
+    46.855734
+],
+  "geometry": {"coordinates":[-114.039424,46.855734],"type":"Point"}
+}

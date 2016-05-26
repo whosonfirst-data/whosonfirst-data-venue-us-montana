@@ -1,0 +1,77 @@
+{
+  "id": 873549217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.585414,45.749817,-108.585414,45.749817",
+    "geom:latitude":45.749817,
+    "geom:longitude":-108.585414,
+    "iso:country":"US",
+    "sg:address":"2795 Enterprise Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 9156",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QI8KWXcbl3w2r1xE0ry4a_45.749817_-108.585414@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294369,
+    "wof:geomhash":"d19df3b26efdf286cb464281cfc93dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873549217
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873549217
+        }
+    ],
+    "wof:id":873549217,
+    "wof:lastmodified":1464294369,
+    "wof:name":"Veeder Law Firm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -108.585414,
+    45.749817,
+    -108.585414,
+    45.749817
+],
+  "geometry": {"coordinates":[-108.585414,45.749817],"type":"Point"}
+}

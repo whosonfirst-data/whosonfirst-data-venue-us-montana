@@ -1,0 +1,71 @@
+{
+  "id": 873676635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576198,45.78397,-108.576198,45.78397",
+    "geom:latitude":45.78397,
+    "geom:longitude":-108.576198,
+    "iso:country":"US",
+    "sg:address":"2216 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7010",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yoeRTUSCnX1pTOssIImRs_45.783970_-108.576198@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295903,
+    "wof:geomhash":"3c7fcc8b0421a20ca5870076c99e6511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873676635
+        }
+    ],
+    "wof:id":873676635,
+    "wof:lastmodified":1464295903,
+    "wof:name":"Knights Of Columbus",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -108.576198,
+    45.78397,
+    -108.576198,
+    45.78397
+],
+  "geometry": {"coordinates":[-108.57619800000001,45.78397],"type":"Point"}
+}

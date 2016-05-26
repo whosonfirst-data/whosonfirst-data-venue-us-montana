@@ -1,0 +1,75 @@
+{
+  "id": 873593147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.420946,45.859801,-108.420946,45.859801",
+    "geom:latitude":45.859801,
+    "geom:longitude":-108.420946,
+    "iso:country":"US",
+    "sg:address":"3335 Dover Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 9115",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vMtRT3BuVhRVTPcxD9TCG_45.859801_-108.420946@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294870,
+    "wof:geomhash":"ef0249059cce922278abe9ff77faf7d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873593147
+        }
+    ],
+    "wof:id":873593147,
+    "wof:lastmodified":1464294870,
+    "wof:name":"Doss Electric Inc",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.420946,
+    45.859801,
+    -108.420946,
+    45.859801
+],
+  "geometry": {"coordinates":[-108.420946,45.859801],"type":"Point"}
+}

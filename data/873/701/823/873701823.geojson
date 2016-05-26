@@ -1,0 +1,74 @@
+{
+  "id": 873701823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.314486,48.202233,-114.314486,48.202233",
+    "geom:latitude":48.202233,
+    "geom:longitude":-114.314486,
+    "iso:country":"US",
+    "sg:address":"19 E Idaho St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/kalispell/167598-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 2955",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iSKuiYukhkyNaAV4IuUwt_48.202233_-114.314486@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296423,
+    "wof:geomhash":"814436cb1fc1917c6873ebdee5a6ffe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873701823
+        }
+    ],
+    "wof:id":873701823,
+    "wof:lastmodified":1464296423,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -114.314486,
+    48.202233,
+    -114.314486,
+    48.202233
+],
+  "geometry": {"coordinates":[-114.314486,48.202233],"type":"Point"}
+}

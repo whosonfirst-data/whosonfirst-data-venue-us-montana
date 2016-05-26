@@ -1,0 +1,71 @@
+{
+  "id": 873652865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.484863,45.792155,-108.484863,45.792155",
+    "geom:latitude":45.792155,
+    "geom:longitude":-108.484863,
+    "iso:country":"US",
+    "sg:address":"1002 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 1338",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aelI0wjBRGj1WKutQPB6h_45.792155_-108.484863@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295623,
+    "wof:geomhash":"f05ac6bcdb66474acb5cc2db76f0e3e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873652865
+        }
+    ],
+    "wof:id":873652865,
+    "wof:lastmodified":1464295623,
+    "wof:name":"Auto Magic",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.484863,
+    45.792155,
+    -108.484863,
+    45.792155
+],
+  "geometry": {"coordinates":[-108.484863,45.792155],"type":"Point"}
+}

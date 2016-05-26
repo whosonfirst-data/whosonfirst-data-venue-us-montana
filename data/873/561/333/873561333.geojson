@@ -1,0 +1,75 @@
+{
+  "id": 873561333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.308447,48.197103,-114.308447,48.197103",
+    "geom:latitude":48.197103,
+    "geom:longitude":-114.308447,
+    "iso:country":"US",
+    "sg:address":"248 3rd Ave E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 758 7740",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "city",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MzKMEKy4lIKfwudX0tkVn_48.197103_-114.308447@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294513,
+    "wof:geomhash":"cf8542bf11d0a28785d9e033605bfeb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873561333
+        }
+    ],
+    "wof:id":873561333,
+    "wof:lastmodified":1464294513,
+    "wof:name":"Kalispell Community Dev Dept",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -114.308447,
+    48.197103,
+    -114.308447,
+    48.197103
+],
+  "geometry": {"coordinates":[-114.308447,48.197103],"type":"Point"}
+}

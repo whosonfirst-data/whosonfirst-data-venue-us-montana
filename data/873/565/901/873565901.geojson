@@ -1,0 +1,73 @@
+{
+  "id": 873565901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.772934,45.677715,-108.772934,45.677715",
+    "geom:latitude":45.677715,
+    "geom:longitude":-108.772934,
+    "iso:country":"US",
+    "sg:address":"111 W 9th St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 4794",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "ornamental",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_218AaVLBcsjstxA8h3CWqz_45.677715_-108.772934@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294565,
+    "wof:geomhash":"14ef25d2398244a2f6014d2b939cbe24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873565901
+        }
+    ],
+    "wof:id":873565901,
+    "wof:lastmodified":1464294565,
+    "wof:name":"Bob's Welding Svc",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental",
+        "work"
+    ]
+},
+  "bbox": [
+    -108.772934,
+    45.677715,
+    -108.772934,
+    45.677715
+],
+  "geometry": {"coordinates":[-108.77293400000001,45.677715],"type":"Point"}
+}

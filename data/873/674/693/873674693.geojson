@@ -1,0 +1,73 @@
+{
+  "id": 873674693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.36331,45.892311,-108.36331,45.892311",
+    "geom:latitude":45.892311,
+    "geom:longitude":-108.36331,
+    "iso:country":"US",
+    "sg:address":"5407 Powmer Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 5951",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kOth0UAemaefCK2cryr0D_45.892311_-108.363310@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295861,
+    "wof:geomhash":"b9e8d3bd3fa7f689c5ea3d09f0f864ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873674693
+        }
+    ],
+    "wof:id":873674693,
+    "wof:lastmodified":1464295861,
+    "wof:name":"Gary's Drilling Inc",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -108.36331,
+    45.892311,
+    -108.36331,
+    45.892311
+],
+  "geometry": {"coordinates":[-108.36331,45.892311],"type":"Point"}
+}

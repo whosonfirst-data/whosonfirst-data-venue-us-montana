@@ -1,0 +1,77 @@
+{
+  "id": 873534673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.997528,46.865299,-113.997528,46.865299",
+    "geom:latitude":46.865299,
+    "geom:longitude":-113.997528,
+    "iso:country":"US",
+    "sg:address":"631 S Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 5722",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "product",
+        "dairy",
+        "desert",
+        "ice",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rFhDtgTYx6HMPEVP6CTcP_46.865299_-113.997528@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294200,
+    "wof:geomhash":"9fcd34c801cc635070c60c5fbafe4283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873534673
+        }
+    ],
+    "wof:id":873534673,
+    "wof:lastmodified":1464294200,
+    "wof:name":"Big Dipper Ice Cream",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "dairy",
+        "desert",
+        "ice",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -113.997528,
+    46.865299,
+    -113.997528,
+    46.865299
+],
+  "geometry": {"coordinates":[-113.997528,46.865299],"type":"Point"}
+}

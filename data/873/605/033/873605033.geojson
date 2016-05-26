@@ -1,0 +1,73 @@
+{
+  "id": 873605033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.565936,45.784134,-108.565936,45.784134",
+    "geom:latitude":45.784134,
+    "geom:longitude":-108.565936,
+    "iso:country":"US",
+    "sg:address":"1939 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 5253",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46Ys7wVywdf3MeVZT25hwQ_45.784134_-108.565936@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295040,
+    "wof:geomhash":"c573833348bf61c9c0939190c6fc9be8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873605033
+        }
+    ],
+    "wof:id":873605033,
+    "wof:lastmodified":1464295040,
+    "wof:name":"Esther's Grand Avenue Espresso",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -108.565936,
+    45.784134,
+    -108.565936,
+    45.784134
+],
+  "geometry": {"coordinates":[-108.56593599999999,45.784134],"type":"Point"}
+}

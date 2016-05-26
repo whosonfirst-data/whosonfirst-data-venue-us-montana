@@ -1,0 +1,71 @@
+{
+  "id": 873576291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.165815,46.91818,-114.165815,46.91818",
+    "geom:latitude":46.91818,
+    "geom:longitude":-114.165815,
+    "iso:country":"US",
+    "sg:address":"4900 Mallard Way",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 7024",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GqNfKKBumHuN0k3TyqjTG_46.918180_-114.165815@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294676,
+    "wof:geomhash":"4d813ceec38a009938163ff606644392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873576291
+        }
+    ],
+    "wof:id":873576291,
+    "wof:lastmodified":1464294676,
+    "wof:name":"Warner Ray Trucking",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.165815,
+    46.91818,
+    -114.165815,
+    46.91818
+],
+  "geometry": {"coordinates":[-114.16581499999999,46.91818],"type":"Point"}
+}

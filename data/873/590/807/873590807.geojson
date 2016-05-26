@@ -1,0 +1,71 @@
+{
+  "id": 873590807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.300606,48.405833,-114.300606,48.405833",
+    "geom:latitude":48.405833,
+    "geom:longitude":-114.300606,
+    "iso:country":"US",
+    "sg:address":"575 Armory Rd",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 4653",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GOsszT1SNg9lLVz82agAM_48.405833_-114.300606@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294840,
+    "wof:geomhash":"ec7a0430b25429637ebab17183d64c50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873590807
+        }
+    ],
+    "wof:id":873590807,
+    "wof:lastmodified":1464294840,
+    "wof:name":"Penzi Tile",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.300606,
+    48.405833,
+    -114.300606,
+    48.405833
+],
+  "geometry": {"coordinates":[-114.300606,48.405833],"type":"Point"}
+}

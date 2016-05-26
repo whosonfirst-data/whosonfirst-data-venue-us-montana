@@ -1,0 +1,66 @@
+{
+  "id": 873628967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.280024,48.212957,-114.280024,48.212957",
+    "geom:latitude":48.212957,
+    "geom:longitude":-114.280024,
+    "iso:country":"US",
+    "sg:address":"1346 US Hwy 2 E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 3631",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19CjhQeTb3GmTqrWRddadF_48.212957_-114.280024@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295349,
+    "wof:geomhash":"b536e945ec8bfce3352e3e08afa00390",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873628967
+        }
+    ],
+    "wof:id":873628967,
+    "wof:lastmodified":1464295349,
+    "wof:name":"Super 1 Foods",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.280024,
+    48.212957,
+    -114.280024,
+    48.212957
+],
+  "geometry": {"coordinates":[-114.280024,48.212957],"type":"Point"}
+}

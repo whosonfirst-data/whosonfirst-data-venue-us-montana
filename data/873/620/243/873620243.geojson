@@ -1,0 +1,65 @@
+{
+  "id": 873620243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.514614,45.790223,-108.514614,45.790223",
+    "geom:latitude":45.790223,
+    "geom:longitude":-108.514614,
+    "iso:country":"US",
+    "sg:address":"2800 10th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 4000",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:website":"www.billingsclinic.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fxpBUPyG9V5sZosThXUvZ_45.790223_-108.514614@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295253,
+    "wof:geomhash":"350e79822d4a0a77b6b34860a76f22ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873620243
+        }
+    ],
+    "wof:id":873620243,
+    "wof:lastmodified":1464295253,
+    "wof:name":"Deaconess Billings Clinic",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.514614,
+    45.790223,
+    -108.514614,
+    45.790223
+],
+  "geometry": {"coordinates":[-108.51461399999999,45.790223],"type":"Point"}
+}

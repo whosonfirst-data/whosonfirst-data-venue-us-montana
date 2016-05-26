@@ -1,0 +1,66 @@
+{
+  "id": 873607729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.553286,45.79368,-108.553286,45.79368",
+    "geom:latitude":45.79368,
+    "geom:longitude":-108.553286,
+    "iso:country":"US",
+    "sg:address":"1555 Campus Way",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 4012",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fyvNWexdX6a0WK49gIha1_45.793680_-108.553286@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295093,
+    "wof:geomhash":"96da73d905f82cd4533c2b52359f042e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873607729
+        }
+    ],
+    "wof:id":873607729,
+    "wof:lastmodified":1464295093,
+    "wof:name":"Burlington Northern",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.553286,
+    45.79368,
+    -108.553286,
+    45.79368
+],
+  "geometry": {"coordinates":[-108.553286,45.79368],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873698855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.590538,45.784209,-108.590538,45.784209",
+    "geom:latitude":45.784209,
+    "geom:longitude":-108.590538,
+    "iso:country":"US",
+    "sg:address":"3003 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/211596-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 0882",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vJmyvqUhtpQArAWw8IAnW_45.784209_-108.590538@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296392,
+    "wof:geomhash":"20039e59180a90004e0ee4a8ec03d4c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873698855
+        }
+    ],
+    "wof:id":873698855,
+    "wof:lastmodified":1464296392,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -108.590538,
+    45.784209,
+    -108.590538,
+    45.784209
+],
+  "geometry": {"coordinates":[-108.590538,45.784209],"type":"Point"}
+}

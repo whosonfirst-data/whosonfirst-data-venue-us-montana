@@ -1,0 +1,75 @@
+{
+  "id": 873567367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.018289,46.851661,-114.018289,46.851661",
+    "geom:latitude":46.851661,
+    "geom:longitude":-114.018289,
+    "iso:country":"US",
+    "sg:address":"1202 W Kent Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 3429",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "convenience",
+        "laundromat",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wEYIzg4Ho5ARhg0hzQQqq_46.851661_-114.018289@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294579,
+    "wof:geomhash":"873ce981f003eeabfda75b8c1948aad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873567367
+        }
+    ],
+    "wof:id":873567367,
+    "wof:lastmodified":1464294579,
+    "wof:name":"Grimebusters Cleaning Center",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "laundromat",
+        "store"
+    ]
+},
+  "bbox": [
+    -114.018289,
+    46.851661,
+    -114.018289,
+    46.851661
+],
+  "geometry": {"coordinates":[-114.018289,46.851661],"type":"Point"}
+}

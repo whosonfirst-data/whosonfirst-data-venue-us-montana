@@ -1,0 +1,73 @@
+{
+  "id": 873537875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.435571,45.864642,-108.435571,45.864642",
+    "geom:latitude":45.864642,
+    "geom:longitude":-108.435571,
+    "iso:country":"US",
+    "sg:address":"3636 Barry Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 8440",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ddt2hAyrXvSQk8JWHQH16_45.864642_-108.435571@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294237,
+    "wof:geomhash":"783846a6bee0f82d739091469a9444b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873537875
+        }
+    ],
+    "wof:id":873537875,
+    "wof:lastmodified":1464294237,
+    "wof:name":"Elkhorn Concrete & Specialties",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.435571,
+    45.864642,
+    -108.435571,
+    45.864642
+],
+  "geometry": {"coordinates":[-108.435571,45.864642],"type":"Point"}
+}

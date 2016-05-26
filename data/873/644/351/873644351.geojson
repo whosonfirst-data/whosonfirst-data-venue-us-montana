@@ -1,0 +1,71 @@
+{
+  "id": 873644351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.443945,45.831159,-108.443945,45.831159",
+    "geom:latitude":45.831159,
+    "geom:longitude":-108.443945,
+    "iso:country":"US",
+    "sg:address":"1713 Elaine St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0663",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O7YTWGySxuG08vlNRbjfW_45.831159_-108.443945@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295529,
+    "wof:geomhash":"1a4cdfd926807da326f9b027b72c4b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873644351
+        }
+    ],
+    "wof:id":873644351,
+    "wof:lastmodified":1464295529,
+    "wof:name":"Leonardson Construction",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -108.443945,
+    45.831159,
+    -108.443945,
+    45.831159
+],
+  "geometry": {"coordinates":[-108.443945,45.831159],"type":"Point"}
+}

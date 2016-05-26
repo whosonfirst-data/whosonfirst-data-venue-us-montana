@@ -1,0 +1,90 @@
+{
+  "id": 873596489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.590259,45.775361,-108.590259,45.775361",
+    "geom:latitude":45.775361,
+    "geom:longitude":-108.590259,
+    "iso:country":"US",
+    "sg:address":"2930 Terry Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 1957",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "curtain",
+        "made",
+        "drapery",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tTSkYEM41BAE4OioKx3ZD_45.775361_-108.590259@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294935,
+    "wof:geomhash":"914fbcddc356ad8f564ee398cfe9f3ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873596489
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873596489
+        }
+    ],
+    "wof:id":873596489,
+    "wof:lastmodified":1464294935,
+    "wof:name":"Bette's Custom Draperies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain",
+        "made",
+        "drapery",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -108.590259,
+    45.775361,
+    -108.590259,
+    45.775361
+],
+  "geometry": {"coordinates":[-108.590259,45.775361],"type":"Point"}
+}

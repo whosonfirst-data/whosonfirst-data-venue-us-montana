@@ -1,0 +1,85 @@
+{
+  "id": 873702327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.542141,45.784102,-108.542141,45.784102",
+    "geom:latitude":45.784102,
+    "geom:longitude":-108.542141,
+    "iso:country":"US",
+    "sg:address":"1045 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/167584-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 2345",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NeRGbmXzhG5hdCxtcvn3z_45.783978_-108.542324@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296429,
+    "wof:geomhash":"ab303390cea331538b8dc6df201edf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873702327
+        }
+    ],
+    "wof:id":873702327,
+    "wof:lastmodified":1464296429,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -108.542141,
+    45.784102,
+    -108.542141,
+    45.784102
+],
+  "geometry": {"coordinates":[-108.542141,45.784102],"type":"Point"}
+}

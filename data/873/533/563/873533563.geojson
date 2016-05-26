@@ -1,0 +1,71 @@
+{
+  "id": 873533563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584256,45.779714,-108.584256,45.779714",
+    "geom:latitude":45.779714,
+    "geom:longitude":-108.584256,
+    "iso:country":"US",
+    "sg:address":"2542 Clark Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 1745",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62GjxzymXBPpWROpYcrokW_45.779714_-108.584256@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294174,
+    "wof:geomhash":"2f041fffa0a734bd5a9952fa1a87871d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873533563
+        }
+    ],
+    "wof:id":873533563,
+    "wof:lastmodified":1464294174,
+    "wof:name":"Picture This Photography",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -108.584256,
+    45.779714,
+    -108.584256,
+    45.779714
+],
+  "geometry": {"coordinates":[-108.584256,45.779714],"type":"Point"}
+}

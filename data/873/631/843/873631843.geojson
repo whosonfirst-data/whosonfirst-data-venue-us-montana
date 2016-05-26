@@ -1,0 +1,73 @@
+{
+  "id": 873631843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.104437,45.595657,-111.104437,45.595657",
+    "geom:latitude":45.595657,
+    "geom:longitude":-111.104437,
+    "iso:country":"US",
+    "sg:address":"10111 Cottonwood Rd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 0011",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dwelling",
+        "log",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891701,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HFsuEMfowWTdcYn2P11iY_45.595657_-111.104437@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295383,
+    "wof:geomhash":"8c8f8b86a7993a7e3b27c2d17db25e82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "neighbourhood_id":85891701,
+            "region_id":85688617,
+            "venue_id":873631843
+        }
+    ],
+    "wof:id":873631843,
+    "wof:lastmodified":1464295383,
+    "wof:name":"Bozeman Log Homes & Furniture",
+    "wof:parent_id":85891701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dwelling",
+        "log",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.104437,
+    45.595657,
+    -111.104437,
+    45.595657
+],
+  "geometry": {"coordinates":[-111.104437,45.595657],"type":"Point"}
+}

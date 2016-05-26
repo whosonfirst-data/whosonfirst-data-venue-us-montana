@@ -1,0 +1,73 @@
+{
+  "id": 873582473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.735816,45.349056,-111.735816,45.349056",
+    "geom:latitude":45.349056,
+    "geom:longitude":-111.735816,
+    "iso:country":"US",
+    "sg:address":"401 W Main",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 492 8183",
+    "sg:postcode":"59729",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BGSY9bT1HLkJEBoRSWpgb_45.349056_-111.735816@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294747,
+    "wof:geomhash":"13357601a92e597fe43348c134b649df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873582473
+        }
+    ],
+    "wof:id":873582473,
+    "wof:lastmodified":1464294747,
+    "wof:name":"Senecal Fencing",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.735816,
+    45.349056,
+    -111.735816,
+    45.349056
+],
+  "geometry": {"coordinates":[-111.735816,45.349056],"type":"Point"}
+}

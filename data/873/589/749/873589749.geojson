@@ -1,0 +1,73 @@
+{
+  "id": 873589749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.321177,48.19755,-114.321177,48.19755",
+    "geom:latitude":48.19755,
+    "geom:longitude":-114.321177,
+    "iso:country":"US",
+    "sg:address":"501 W Center St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 0477",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MsyGZUhXGkwEqb9FZ7ivE_48.197550_-114.321177@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294828,
+    "wof:geomhash":"6e85bb6d1ed6607c8fc2500a57307c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873589749
+        }
+    ],
+    "wof:id":873589749,
+    "wof:lastmodified":1464294828,
+    "wof:name":"Juice N Java Junction",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -114.321177,
+    48.19755,
+    -114.321177,
+    48.19755
+],
+  "geometry": {"coordinates":[-114.32117700000001,48.19755],"type":"Point"}
+}

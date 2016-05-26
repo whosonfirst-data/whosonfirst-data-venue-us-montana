@@ -1,0 +1,74 @@
+{
+  "id": 873593317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.427409,45.806981,-108.427409,45.806981",
+    "geom:latitude":45.806981,
+    "geom:longitude":-108.427409,
+    "iso:country":"US",
+    "sg:address":"2220 Old Hardin Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7481",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "sg:website":"www.touramrv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ORY4tnjoOtTH5YJYLujHV_45.806981_-108.427409@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294873,
+    "wof:geomhash":"41f0255927067f2249d4c2927f75b989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873593317
+        }
+    ],
+    "wof:id":873593317,
+    "wof:lastmodified":1464294873,
+    "wof:name":"Tour America Rv Ctr",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -108.427409,
+    45.806981,
+    -108.427409,
+    45.806981
+],
+  "geometry": {"coordinates":[-108.427409,45.806981],"type":"Point"}
+}

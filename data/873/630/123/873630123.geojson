@@ -1,0 +1,73 @@
+{
+  "id": 873630123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.431356,45.913916,-112.431356,45.913916",
+    "geom:latitude":45.913916,
+    "geom:longitude":-112.431356,
+    "iso:country":"US",
+    "sg:address":"365 Blacktail Canyon Rd",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 5799",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EmWLEK5IMxtAgS7OIyizQ_45.913916_-112.431356@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295367,
+    "wof:geomhash":"a586089f1a4ee2ef3c7d18773b07fb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873630123
+        }
+    ],
+    "wof:id":873630123,
+    "wof:lastmodified":1464295367,
+    "wof:name":"T&J Pro Lube & Car Wash",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -112.431356,
+    45.913916,
+    -112.431356,
+    45.913916
+],
+  "geometry": {"coordinates":[-112.43135599999999,45.913916],"type":"Point"}
+}

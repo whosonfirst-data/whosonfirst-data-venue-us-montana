@@ -1,0 +1,71 @@
+{
+  "id": 873570353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.583189,45.628811,-110.583189,45.628811",
+    "geom:latitude":45.628811,
+    "geom:longitude":-110.583189,
+    "iso:country":"US",
+    "sg:address":"181 Canyon View Dr",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 6231",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TAZo6zeuqKe4CrQDbLinY_45.628811_-110.583189@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294614,
+    "wof:geomhash":"7de5edbfbab4cb3f7ab71c261fdd082e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873570353
+        }
+    ],
+    "wof:id":873570353,
+    "wof:lastmodified":1464294614,
+    "wof:name":"J & J Cleaning Service",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -110.583189,
+    45.628811,
+    -110.583189,
+    45.628811
+],
+  "geometry": {"coordinates":[-110.583189,45.628811],"type":"Point"}
+}

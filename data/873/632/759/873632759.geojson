@@ -1,0 +1,80 @@
+{
+  "id": 873632759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.524873,45.769694,-108.524873,45.769694",
+    "geom:latitude":45.769694,
+    "geom:longitude":-108.524873,
+    "iso:country":"US",
+    "sg:address":"4300 State Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 1002",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "distance",
+        "hauling",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HpKaB63IddIodJvr8Un2z_45.769694_-108.524873@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295396,
+    "wof:geomhash":"46e71a821fa402c9483d69096da4a0f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873632759
+        }
+    ],
+    "wof:id":873632759,
+    "wof:lastmodified":1464295396,
+    "wof:name":"Montanas Best Transport LLC",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "hauling",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.524873,
+    45.769694,
+    -108.524873,
+    45.769694
+],
+  "geometry": {"coordinates":[-108.524873,45.769694],"type":"Point"}
+}

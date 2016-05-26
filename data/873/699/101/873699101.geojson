@@ -1,0 +1,72 @@
+{
+  "id": 873699101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.476846,45.804384,-108.476846,45.804384",
+    "geom:latitude":45.804384,
+    "geom:longitude":-108.476846,
+    "iso:country":"US",
+    "sg:address":"633 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/205124-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 9116",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00eVR30MeNzIUoMcbDlPYv_45.804384_-108.476846@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296395,
+    "wof:geomhash":"875180f07ace7c44fc29dbc44917c1c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873699101
+        }
+    ],
+    "wof:id":873699101,
+    "wof:lastmodified":1464296395,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -108.476846,
+    45.804384,
+    -108.476846,
+    45.804384
+],
+  "geometry": {"coordinates":[-108.47684599999999,45.804384],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873574553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.56342,45.652988,-110.56342,45.652988",
+    "geom:latitude":45.652988,
+    "geom:longitude":-110.56342,
+    "iso:country":"US",
+    "sg:address":"510 S 8th St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 1067",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G0yZip32ZMFXrGIAj8iMG_45.652988_-110.563420@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294658,
+    "wof:geomhash":"a35dc4ad3e076bf113517bd3e8d39c67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873574553
+        }
+    ],
+    "wof:id":873574553,
+    "wof:lastmodified":1464294658,
+    "wof:name":"Holiday Cruise",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -110.56342,
+    45.652988,
+    -110.56342,
+    45.652988
+],
+  "geometry": {"coordinates":[-110.56341999999999,45.652988],"type":"Point"}
+}

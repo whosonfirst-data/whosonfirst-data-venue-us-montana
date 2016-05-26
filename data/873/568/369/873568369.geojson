@@ -1,0 +1,73 @@
+{
+  "id": 873568369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.337575,48.400729,-114.337575,48.400729",
+    "geom:latitude":48.400729,
+    "geom:longitude":-114.337575,
+    "iso:country":"US",
+    "sg:address":"1000 Baker Ave",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 6275",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tool",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yeEAu1eFDG50Fgo7uGRAL_48.400729_-114.337575@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294589,
+    "wof:geomhash":"0405d2046d0187d7b0788be67ba1881e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873568369
+        }
+    ],
+    "wof:id":873568369,
+    "wof:lastmodified":1464294589,
+    "wof:name":"Northwest Tool Repair",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "power"
+    ]
+},
+  "bbox": [
+    -114.337575,
+    48.400729,
+    -114.337575,
+    48.400729
+],
+  "geometry": {"coordinates":[-114.337575,48.400729],"type":"Point"}
+}

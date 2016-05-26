@@ -1,0 +1,67 @@
+{
+  "id": 873562615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.569225,45.649885,-110.569225,45.649885",
+    "geom:latitude":45.649885,
+    "geom:longitude":-110.569225,
+    "iso:country":"US",
+    "sg:address":"504 S 13th St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 3541",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:website":"www.livingstonhc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GKTZAFpRVMY6ZjnLc3MGa_45.649885_-110.569225@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294527,
+    "wof:geomhash":"26ae126bb0ad18d7e82436839e46d6aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873562615
+        }
+    ],
+    "wof:id":873562615,
+    "wof:lastmodified":1464294527,
+    "wof:name":"Livingston Memorial Hospital",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.569225,
+    45.649885,
+    -110.569225,
+    45.649885
+],
+  "geometry": {"coordinates":[-110.569225,45.649885],"type":"Point"}
+}

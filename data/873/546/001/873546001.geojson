@@ -1,0 +1,71 @@
+{
+  "id": 873546001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.558977,45.663465,-110.558977,45.663465",
+    "geom:latitude":45.663465,
+    "geom:longitude":-110.558977,
+    "iso:country":"US",
+    "sg:address":"220 E Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 0520",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "opportunity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KSMeOpQ0vy1dm0t6TjqAb_45.663465_-110.558977@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294328,
+    "wof:geomhash":"92887315570b5745ba684d727708df8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873546001
+        }
+    ],
+    "wof:id":873546001,
+    "wof:lastmodified":1464294328,
+    "wof:name":"Job Service",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "opportunity"
+    ]
+},
+  "bbox": [
+    -110.558977,
+    45.663465,
+    -110.558977,
+    45.663465
+],
+  "geometry": {"coordinates":[-110.558977,45.663465],"type":"Point"}
+}

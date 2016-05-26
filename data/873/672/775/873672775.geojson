@@ -1,0 +1,73 @@
+{
+  "id": 873672775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.555169,45.663698,-110.555169,45.663698",
+    "geom:latitude":45.663698,
+    "geom:longitude":-110.555169,
+    "iso:country":"US",
+    "sg:address":"123 S E St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 8244",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972889,
+        102085059,
+        420525789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UQmpojzbZDVe6LMGelmat_45.663698_-110.555169@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295828,
+    "wof:geomhash":"2bbf1e72c49febd52c189752e7a7736d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":420525789,
+            "region_id":85688617,
+            "venue_id":873672775
+        }
+    ],
+    "wof:id":873672775,
+    "wof:lastmodified":1464295828,
+    "wof:name":"All Natural Medical Care",
+    "wof:parent_id":420525789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -110.555169,
+    45.663698,
+    -110.555169,
+    45.663698
+],
+  "geometry": {"coordinates":[-110.55516900000001,45.663698],"type":"Point"}
+}

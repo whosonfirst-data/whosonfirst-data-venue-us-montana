@@ -1,0 +1,73 @@
+{
+  "id": 873605843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.087901,48.177889,-114.087901,48.177889",
+    "geom:latitude":48.177889,
+    "geom:longitude":-114.087901,
+    "iso:country":"US",
+    "sg:address":"27 Double Lake Ct",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 6727",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yoKwRBPCh1X3q9u8N71HH_48.177889_-114.087901@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295056,
+    "wof:geomhash":"e6e0f3f8a8ca794421a66b1c19bb30a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873605843
+        }
+    ],
+    "wof:id":873605843,
+    "wof:lastmodified":1464295056,
+    "wof:name":"Mount Dental Studio",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -114.087901,
+    48.177889,
+    -114.087901,
+    48.177889
+],
+  "geometry": {"coordinates":[-114.087901,48.177889],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873673273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.041216,46.889824,-114.041216,46.889824",
+    "geom:latitude":46.889824,
+    "geom:longitude":-114.041216,
+    "iso:country":"US",
+    "sg:address":"2700 Radio Way",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 541 4952",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2myjm3tgQx4Pit31r4v2ia_46.889824_-114.041216@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295833,
+    "wof:geomhash":"cab01574696db900acd6e0cacbaabdf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873673273
+        }
+    ],
+    "wof:id":873673273,
+    "wof:lastmodified":1464295833,
+    "wof:name":"Internet Connect Svc",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -114.041216,
+    46.889824,
+    -114.041216,
+    46.889824
+],
+  "geometry": {"coordinates":[-114.04121600000001,46.889824],"type":"Point"}
+}

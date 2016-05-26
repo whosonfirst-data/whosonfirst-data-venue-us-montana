@@ -1,0 +1,76 @@
+{
+  "id": 873569227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.582458,45.759217,-108.582458,45.759217",
+    "geom:latitude":45.759217,
+    "geom:longitude":-108.582458,
+    "iso:country":"US",
+    "sg:address":"10 Vista Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 6522",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RW0tFlToiHHzZoGryRjkk_45.759217_-108.582458@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294597,
+    "wof:geomhash":"6434ff1d1cd89b7e50929d3b9173563c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873569227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873569227
+        }
+    ],
+    "wof:id":873569227,
+    "wof:lastmodified":1464294597,
+    "wof:name":"Billings Dance Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.582458,
+    45.759217,
+    -108.582458,
+    45.759217
+],
+  "geometry": {"coordinates":[-108.582458,45.759217],"type":"Point"}
+}

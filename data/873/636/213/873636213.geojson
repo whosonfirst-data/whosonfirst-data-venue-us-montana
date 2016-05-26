@@ -1,0 +1,75 @@
+{
+  "id": 873636213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.508778,45.781835,-108.508778,45.781835",
+    "geom:latitude":45.781835,
+    "geom:longitude":-108.508778,
+    "iso:country":"US",
+    "sg:address":"2920 2nd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 3839",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pTTLQOjyLil2iI4UDgSpU_45.781835_-108.508778@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295434,
+    "wof:geomhash":"57c9272b539bdd284f1fbd7cb3c09af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873636213
+        }
+    ],
+    "wof:id":873636213,
+    "wof:lastmodified":1464295434,
+    "wof:name":"United Way",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -108.508778,
+    45.781835,
+    -108.508778,
+    45.781835
+],
+  "geometry": {"coordinates":[-108.50877800000001,45.781835],"type":"Point"}
+}

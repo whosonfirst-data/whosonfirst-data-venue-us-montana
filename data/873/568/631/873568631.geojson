@@ -1,0 +1,68 @@
+{
+  "id": 873568631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.522217,46.002753,-112.522217,46.002753",
+    "geom:latitude":46.002753,
+    "geom:longitude":-112.522217,
+    "iso:country":"US",
+    "sg:address":"1220 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 5314",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v2snDhGbQ5aK3b1H2A5Qo_46.002753_-112.522217@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294592,
+    "wof:geomhash":"1843d9f5cc9fca6fa849bd237fa778b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873568631
+        }
+    ],
+    "wof:id":873568631,
+    "wof:lastmodified":1464294592,
+    "wof:name":"Stephen M Loomis",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.522217,
+    46.002753,
+    -112.522217,
+    46.002753
+],
+  "geometry": {"coordinates":[-112.522217,46.002753],"type":"Point"}
+}

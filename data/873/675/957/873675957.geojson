@@ -1,0 +1,75 @@
+{
+  "id": 873675957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.052189,46.78906,-114.052189,46.78906",
+    "geom:latitude":46.78906,
+    "geom:longitude":-114.052189,
+    "iso:country":"US",
+    "sg:address":"3572 Rodeo Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 5070",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_249yK1yzvOcCTiW0oYIbym_46.789060_-114.052189@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295889,
+    "wof:geomhash":"4e13244d77803e52700255ec63fd7535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873675957
+        }
+    ],
+    "wof:id":873675957,
+    "wof:lastmodified":1464295889,
+    "wof:name":"Tom Klose Floor Cove",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.052189,
+    46.78906,
+    -114.052189,
+    46.78906
+],
+  "geometry": {"coordinates":[-114.052189,46.78906],"type":"Point"}
+}

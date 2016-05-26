@@ -1,0 +1,71 @@
+{
+  "id": 873601865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470636,45.817251,-108.470636,45.817251",
+    "geom:latitude":45.817251,
+    "geom:longitude":-108.470636,
+    "iso:country":"US",
+    "sg:address":"1025 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 961 1400",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37YAL4C6HQrrKbW19xv2mR_45.817251_-108.470636@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295007,
+    "wof:geomhash":"81b7f72c90bb86a7d7bf9c62a322b9af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873601865
+        }
+    ],
+    "wof:id":873601865,
+    "wof:lastmodified":1464295007,
+    "wof:name":"Tips and Tans",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -108.470636,
+    45.817251,
+    -108.470636,
+    45.817251
+],
+  "geometry": {"coordinates":[-108.470636,45.817251],"type":"Point"}
+}

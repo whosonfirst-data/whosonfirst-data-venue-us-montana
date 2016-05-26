@@ -1,0 +1,75 @@
+{
+  "id": 873611563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.51408,45.978407,-112.51408,45.978407",
+    "geom:latitude":45.978407,
+    "geom:longitude":-112.51408,
+    "iso:country":"US",
+    "sg:address":"3224 Kennedy Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 3772",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ypB1oiftELjCnGsnzNkop_45.978407_-112.514080@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295162,
+    "wof:geomhash":"c3f2fe12b5e63a2196fb41ba321b5bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873611563
+        }
+    ],
+    "wof:id":873611563,
+    "wof:lastmodified":1464295162,
+    "wof:name":"Precision Dental Laboratory",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -112.51408,
+    45.978407,
+    -112.51408,
+    45.978407
+],
+  "geometry": {"coordinates":[-112.51408000000001,45.978407],"type":"Point"}
+}

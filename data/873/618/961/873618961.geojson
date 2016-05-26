@@ -1,0 +1,73 @@
+{
+  "id": 873618961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.569144,45.647251,-110.569144,45.647251",
+    "geom:latitude":45.647251,
+    "geom:longitude":-110.569144,
+    "iso:country":"US",
+    "sg:address":"601 Robin Ln",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 7231",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l0wrdCD65icPVW6thvwIy_45.647251_-110.569144@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295240,
+    "wof:geomhash":"d6ef7edf8adcf516a1f018ef9426d0ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873618961
+        }
+    ],
+    "wof:id":873618961,
+    "wof:lastmodified":1464295240,
+    "wof:name":"Livingston Healthcare Physical",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -110.569144,
+    45.647251,
+    -110.569144,
+    45.647251
+],
+  "geometry": {"coordinates":[-110.56914399999999,45.647251],"type":"Point"}
+}

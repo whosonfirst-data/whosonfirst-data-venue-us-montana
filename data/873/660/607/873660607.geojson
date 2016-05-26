@@ -1,0 +1,71 @@
+{
+  "id": 873660607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.025904,46.855253,-114.025904,46.855253",
+    "geom:latitude":46.855253,
+    "geom:longitude":-114.025904,
+    "iso:country":"US",
+    "sg:address":"1836 Burlington Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 6979",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e5JLkv7TrMVO9JccEpPKx_46.855253_-114.025904@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295704,
+    "wof:geomhash":"d7b3f329075afbe80278ca8498deee23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873660607
+        }
+    ],
+    "wof:id":873660607,
+    "wof:lastmodified":1464295704,
+    "wof:name":"Salad Bar & Sandwich Co",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -114.025904,
+    46.855253,
+    -114.025904,
+    46.855253
+],
+  "geometry": {"coordinates":[-114.025904,46.855253],"type":"Point"}
+}

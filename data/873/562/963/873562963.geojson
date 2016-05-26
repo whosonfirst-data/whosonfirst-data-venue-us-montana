@@ -1,0 +1,71 @@
+{
+  "id": 873562963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.759676,45.671898,-108.759676,45.671898",
+    "geom:latitude":45.671898,
+    "geom:longitude":-108.759676,
+    "iso:country":"US",
+    "sg:address":"801 E Main St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 2283",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IZn3ymFZeyKjrDmxihb2F_45.671898_-108.759676@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294531,
+    "wof:geomhash":"aee62dbd6931555fcf8bba8dd99c64d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873562963
+        }
+    ],
+    "wof:id":873562963,
+    "wof:lastmodified":1464294531,
+    "wof:name":"Cafe Mabel",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.759676,
+    45.671898,
+    -108.759676,
+    45.671898
+],
+  "geometry": {"coordinates":[-108.759676,45.671898],"type":"Point"}
+}

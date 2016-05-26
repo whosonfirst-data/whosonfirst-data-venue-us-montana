@@ -1,0 +1,71 @@
+{
+  "id": 873649727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.502011,45.757634,-108.502011,45.757634",
+    "geom:latitude":45.757634,
+    "geom:longitude":-108.502011,
+    "iso:country":"US",
+    "sg:address":"3102 Stone St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 5433",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x3nTJJRVSJ31IQ3Gx3K6n_45.757634_-108.502011@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295584,
+    "wof:geomhash":"84e6933a5aa13ba25925f66141d7626f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873649727
+        }
+    ],
+    "wof:id":873649727,
+    "wof:lastmodified":1464295584,
+    "wof:name":"Cardenas Concrete Construction",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.502011,
+    45.757634,
+    -108.502011,
+    45.757634
+],
+  "geometry": {"coordinates":[-108.502011,45.757634],"type":"Point"}
+}

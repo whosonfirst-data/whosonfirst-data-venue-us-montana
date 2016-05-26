@@ -1,0 +1,77 @@
+{
+  "id": 873598235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.944987,46.87281,-113.944987,46.87281",
+    "geom:latitude":46.87281,
+    "geom:longitude":-113.944987,
+    "iso:country":"US",
+    "sg:address":"3750 State Hwy 200",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 7855",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "indus",
+        "industrial",
+        "general",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vfulzcUwaA9J7fQEBgj08_46.872810_-113.944987@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294962,
+    "wof:geomhash":"d99c8de492495ccc78c64e6453b8e839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873598235
+        }
+    ],
+    "wof:id":873598235,
+    "wof:lastmodified":1464294962,
+    "wof:name":"Diesel Power Parts & Machine",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "indus",
+        "industrial",
+        "general",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -113.944987,
+    46.87281,
+    -113.944987,
+    46.87281
+],
+  "geometry": {"coordinates":[-113.944987,46.87281],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873663555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.193297,45.456255,-112.193297,45.456255",
+    "geom:latitude":45.456255,
+    "geom:longitude":-112.193297,
+    "iso:country":"US",
+    "sg:address":"108 Madison St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 842 5497",
+    "sg:postcode":"59749",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972663,
+        102085179,
+        420525785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zIX0dCb5WjIBqiMe7WyaM_45.456255_-112.193297@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295736,
+    "wof:geomhash":"fa1ae6032712eec1374bea04f4122631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972663,
+            "neighbourhood_id":420525785,
+            "region_id":85688617,
+            "venue_id":873663555
+        }
+    ],
+    "wof:id":873663555,
+    "wof:lastmodified":1464295736,
+    "wof:name":"K & D Auto",
+    "wof:parent_id":420525785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -112.193297,
+    45.456255,
+    -112.193297,
+    45.456255
+],
+  "geometry": {"coordinates":[-112.193297,45.456255],"type":"Point"}
+}

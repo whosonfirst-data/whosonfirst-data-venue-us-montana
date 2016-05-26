@@ -1,0 +1,85 @@
+{
+  "id": 873702545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.510837,45.99093,-112.510837,45.99093",
+    "geom:latitude":45.99093,
+    "geom:longitude":-112.510837,
+    "iso:country":"US",
+    "sg:address":"2227 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/butte/167572-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 6644",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ndLSEA4Ytpc4OPuUyi1Zg_45.990944_-112.510819@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296431,
+    "wof:geomhash":"8850a1d1c95c0a4d2629d2c1d99e7856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873702545
+        }
+    ],
+    "wof:id":873702545,
+    "wof:lastmodified":1464296431,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -112.510837,
+    45.99093,
+    -112.510837,
+    45.99093
+],
+  "geometry": {"coordinates":[-112.510837,45.99093],"type":"Point"}
+}

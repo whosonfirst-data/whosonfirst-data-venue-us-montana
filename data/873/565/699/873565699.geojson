@@ -1,0 +1,73 @@
+{
+  "id": 873565699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.002527,46.84071,-114.002527,46.84071",
+    "geom:latitude":46.84071,
+    "geom:longitude":-114.002527,
+    "iso:country":"US",
+    "sg:address":"224 Dixon Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 7414",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grocery",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fyy0HkYQBzLzbYChEeNGE_46.840710_-114.002527@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294563,
+    "wof:geomhash":"11411019086687431c8c0d31f72bf3f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873565699
+        }
+    ],
+    "wof:id":873565699,
+    "wof:lastmodified":1464294563,
+    "wof:name":"Docs Gourmet Sandwich Express",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "eating"
+    ]
+},
+  "bbox": [
+    -114.002527,
+    46.84071,
+    -114.002527,
+    46.84071
+],
+  "geometry": {"coordinates":[-114.002527,46.84071],"type":"Point"}
+}

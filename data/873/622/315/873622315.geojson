@@ -1,0 +1,73 @@
+{
+  "id": 873622315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.404385,45.878501,-108.404385,45.878501",
+    "geom:latitude":45.878501,
+    "geom:longitude":-108.404385,
+    "iso:country":"US",
+    "sg:address":"3015 Drury Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 5997",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "suspension"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07G3CQ4c62DLgzR5pg21OP_45.878501_-108.404385@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295274,
+    "wof:geomhash":"1611c573b9d57c7ee87697a37451e078",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873622315
+        }
+    ],
+    "wof:id":873622315,
+    "wof:lastmodified":1464295274,
+    "wof:name":"Kelly's Kustoms",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "suspension"
+    ]
+},
+  "bbox": [
+    -108.404385,
+    45.878501,
+    -108.404385,
+    45.878501
+],
+  "geometry": {"coordinates":[-108.404385,45.878501],"type":"Point"}
+}

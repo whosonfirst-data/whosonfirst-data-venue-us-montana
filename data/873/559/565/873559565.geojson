@@ -1,0 +1,79 @@
+{
+  "id": 873559565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.485319,45.794323,-108.485319,45.794323",
+    "geom:latitude":45.794323,
+    "geom:longitude":-108.485319,
+    "iso:country":"US",
+    "sg:address":"213 N 10th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 5496",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "rewinding",
+        "general",
+        "automotive",
+        "armature"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vkAQdHHM9wPw3NB7dUPib_45.794323_-108.485319@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294495,
+    "wof:geomhash":"9dd0736021dbf4d5cf6caeba9c0cdc32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873559565
+        }
+    ],
+    "wof:id":873559565,
+    "wof:lastmodified":1464294495,
+    "wof:name":"Montana Engine Rebuilders Inc",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "rewinding",
+        "general",
+        "automotive",
+        "armature"
+    ]
+},
+  "bbox": [
+    -108.485319,
+    45.794323,
+    -108.485319,
+    45.794323
+],
+  "geometry": {"coordinates":[-108.485319,45.794323],"type":"Point"}
+}

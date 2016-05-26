@@ -1,0 +1,73 @@
+{
+  "id": 873641675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.329543,48.406164,-114.329543,48.406164",
+    "geom:latitude":48.406164,
+    "geom:longitude":-114.329543,
+    "iso:country":"US",
+    "sg:address":"601 Park Ave",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 863 9595",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sAHznBqTSl62cW5SFnelU_48.406164_-114.329543@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295494,
+    "wof:geomhash":"9fa2374a8205b6aa04ca3a554971d854",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873641675
+        }
+    ],
+    "wof:id":873641675,
+    "wof:lastmodified":1464295494,
+    "wof:name":"Park Manor Apts",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -114.329543,
+    48.406164,
+    -114.329543,
+    48.406164
+],
+  "geometry": {"coordinates":[-114.329543,48.406164],"type":"Point"}
+}

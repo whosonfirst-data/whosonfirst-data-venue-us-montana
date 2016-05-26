@@ -1,0 +1,75 @@
+{
+  "id": 873620293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.40509,45.885386,-108.40509,45.885386",
+    "geom:latitude":45.885386,
+    "geom:longitude":-108.40509,
+    "iso:country":"US",
+    "sg:address":"4418 Hwy 312",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 0900",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "feed",
+        "mfg",
+        "prepared"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aag7wUpMAhqCWILliTjyQ_45.885386_-108.405090@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295254,
+    "wof:geomhash":"66839e593d2697b2edf8650b9dec70a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873620293
+        }
+    ],
+    "wof:id":873620293,
+    "wof:lastmodified":1464295254,
+    "wof:name":"Feedbag Enterprise",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "mfg",
+        "prepared"
+    ]
+},
+  "bbox": [
+    -108.40509,
+    45.885386,
+    -108.40509,
+    45.885386
+],
+  "geometry": {"coordinates":[-108.40509,45.885386],"type":"Point"}
+}

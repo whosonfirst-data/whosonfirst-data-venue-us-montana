@@ -1,0 +1,71 @@
+{
+  "id": 873622383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.737945,45.781345,-108.737945,45.781345",
+    "geom:latitude":45.781345,
+    "geom:longitude":-108.737945,
+    "iso:country":"US",
+    "sg:address":"8704 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8543",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U3zV52ItPhNAvlwL6Vw2c_45.781345_-108.737945@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295275,
+    "wof:geomhash":"fd3c4f96ad44f699995796e56d393266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873622383
+        }
+    ],
+    "wof:id":873622383,
+    "wof:lastmodified":1464295275,
+    "wof:name":"Zuck Soelter Surveying",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -108.737945,
+    45.781345,
+    -108.737945,
+    45.781345
+],
+  "geometry": {"coordinates":[-108.737945,45.781345],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873589317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.43065,45.802218,-108.43065,45.802218",
+    "geom:latitude":45.802218,
+    "geom:longitude":-108.43065,
+    "iso:country":"US",
+    "sg:address":"203 Wanda Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4140",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "coating",
+        "powder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Hris21HdF4QAcVjt77Txg_45.802218_-108.430650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294821,
+    "wof:geomhash":"843acb80acf8b86973e18e04744968e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873589317
+        }
+    ],
+    "wof:id":873589317,
+    "wof:lastmodified":1464294821,
+    "wof:name":"Positive Powder Coating",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coating",
+        "powder"
+    ]
+},
+  "bbox": [
+    -108.43065,
+    45.802218,
+    -108.43065,
+    45.802218
+],
+  "geometry": {"coordinates":[-108.43065,45.802218],"type":"Point"}
+}

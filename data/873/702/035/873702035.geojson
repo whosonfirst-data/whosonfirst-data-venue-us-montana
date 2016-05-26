@@ -1,0 +1,74 @@
+{
+  "id": 873702035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.082517,48.064068,-114.082517,48.064068",
+    "geom:latitude":48.064068,
+    "geom:longitude":-114.082517,
+    "iso:country":"US",
+    "sg:address":"8270 Mt Highway 35",
+    "sg:city":"Bigfork",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/creston-bigfork/129754-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 837 5252",
+    "sg:postcode":"59911",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06egVpoZgWmcUXUhF2cveV_48.064068_-114.082517@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296426,
+    "wof:geomhash":"83d8c78abf500255a121fe566cc6d1b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873702035
+        }
+    ],
+    "wof:id":873702035,
+    "wof:lastmodified":1464296426,
+    "wof:name":"Subway",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -114.082517,
+    48.064068,
+    -114.082517,
+    48.064068
+],
+  "geometry": {"coordinates":[-114.082517,48.064068],"type":"Point"}
+}

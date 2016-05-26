@@ -1,0 +1,73 @@
+{
+  "id": 873549393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.194577,48.312565,-114.194577,48.312565",
+    "geom:latitude":48.312565,
+    "geom:longitude":-114.194577,
+    "iso:country":"US",
+    "sg:address":"760 Trap Rd",
+    "sg:city":"Columbia Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 892 5104",
+    "sg:postcode":"59912",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KESfgYpGnxDOtFvSEZdPH_48.312565_-114.194577@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294371,
+    "wof:geomhash":"a73e0fcab02d88ddc84f04ddc2f6aac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873549393
+        }
+    ],
+    "wof:id":873549393,
+    "wof:lastmodified":1464294371,
+    "wof:name":"Pletch Electric",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.194577,
+    48.312565,
+    -114.194577,
+    48.312565
+],
+  "geometry": {"coordinates":[-114.194577,48.312565],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873548465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.58284,45.749835,-108.58284,45.749835",
+    "geom:latitude":45.749835,
+    "geom:longitude":-108.58284,
+    "iso:country":"US",
+    "sg:address":"2625 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6966",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dtgZPIN0WAIxbDYBF2et5_45.749835_-108.582840@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294361,
+    "wof:geomhash":"50337281cf73b64ed24cc6e461c7181f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873548465
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873548465
+        }
+    ],
+    "wof:id":873548465,
+    "wof:lastmodified":1464294361,
+    "wof:name":"Sign & Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -108.58284,
+    45.749835,
+    -108.58284,
+    45.749835
+],
+  "geometry": {"coordinates":[-108.58284,45.749835],"type":"Point"}
+}

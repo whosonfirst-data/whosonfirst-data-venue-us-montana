@@ -1,0 +1,71 @@
+{
+  "id": 873586839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.449798,45.832125,-108.449798,45.832125",
+    "geom:latitude":45.832125,
+    "geom:longitude":-108.449798,
+    "iso:country":"US",
+    "sg:address":"1941 Columbine Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 8804",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "guard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KvRSqMhs78zi1ji3FtBGh_45.832125_-108.449798@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294794,
+    "wof:geomhash":"aa7fef863f28b045f2593c2f7fb74b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873586839
+        }
+    ],
+    "wof:id":873586839,
+    "wof:lastmodified":1464294794,
+    "wof:name":"Kent E ODonnell",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard"
+    ]
+},
+  "bbox": [
+    -108.449798,
+    45.832125,
+    -108.449798,
+    45.832125
+],
+  "geometry": {"coordinates":[-108.449798,45.832125],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873587291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.52769,45.759376,-108.52769,45.759376",
+    "geom:latitude":45.759376,
+    "geom:longitude":-108.52769,
+    "iso:country":"US",
+    "sg:address":"4538 Ryan Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 6825",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "paint",
+        "drywall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BVyI1xlxefYt4eiytVlFl_45.759376_-108.527690@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294800,
+    "wof:geomhash":"399de32a7d467ce343a76693e1b8c2b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873587291
+        }
+    ],
+    "wof:id":873587291,
+    "wof:lastmodified":1464294800,
+    "wof:name":"S & S Drywall",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "drywall"
+    ]
+},
+  "bbox": [
+    -108.52769,
+    45.759376,
+    -108.52769,
+    45.759376
+],
+  "geometry": {"coordinates":[-108.52769000000001,45.759376],"type":"Point"}
+}

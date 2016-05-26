@@ -1,0 +1,75 @@
+{
+  "id": 873651631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.342804,45.955299,-108.342804,45.955299",
+    "geom:latitude":45.955299,
+    "geom:longitude":-108.342804,
+    "iso:country":"US",
+    "sg:address":"8915 Shepherd Rd",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6327",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OkPIEtlThlliALD0AKzNh_45.955299_-108.342804@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295609,
+    "wof:geomhash":"ef1ff37fb41ad9fc09248e9f0bdf8e26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873651631
+        }
+    ],
+    "wof:id":873651631,
+    "wof:lastmodified":1464295609,
+    "wof:name":"T4 Ranch",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -108.342804,
+    45.955299,
+    -108.342804,
+    45.955299
+],
+  "geometry": {"coordinates":[-108.342804,45.955299],"type":"Point"}
+}

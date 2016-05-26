@@ -1,0 +1,76 @@
+{
+  "id": 873698601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.422121,45.809348,-108.422121,45.809348",
+    "geom:latitude":45.809348,
+    "geom:longitude":-108.422121,
+    "iso:country":"US",
+    "sg:address":"2816 Old Hardin Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/126203-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 6816",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HXfA4cTLgy2cQj6NVazHK_45.809348_-108.422121@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296390,
+    "wof:geomhash":"82d2e412303e96e48653ce90672e9edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873698601
+        }
+    ],
+    "wof:id":873698601,
+    "wof:lastmodified":1464296390,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -108.422121,
+    45.809348,
+    -108.422121,
+    45.809348
+],
+  "geometry": {"coordinates":[-108.422121,45.809348],"type":"Point"}
+}

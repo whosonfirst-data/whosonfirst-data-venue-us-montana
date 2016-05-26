@@ -1,0 +1,82 @@
+{
+  "id": 873559239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.507961,45.972601,-112.507961,45.972601",
+    "geom:latitude":45.972601,
+    "geom:longitude":-112.507961,
+    "iso:country":"US",
+    "sg:address":"3600 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 4450",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77NwTHEKul9MVLrzVljMmY_45.972601_-112.507961@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294491,
+    "wof:geomhash":"5b202cc4a3857a2b342209c3e9b50fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873559239
+        }
+    ],
+    "wof:id":873559239,
+    "wof:lastmodified":1464294491,
+    "wof:name":"American Car Care Ctr & Tire",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -112.507961,
+    45.972601,
+    -112.507961,
+    45.972601
+],
+  "geometry": {"coordinates":[-112.50796099999999,45.972601],"type":"Point"}
+}

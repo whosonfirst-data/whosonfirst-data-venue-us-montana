@@ -1,0 +1,73 @@
+{
+  "id": 873540605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.740895,45.672937,-108.740895,45.672937",
+    "geom:latitude":45.672937,
+    "geom:longitude":-108.740895,
+    "iso:country":"US",
+    "sg:address":"1510 E Railroad St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 2152",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uk7r2uvJmo579iPAhbhwT_45.672937_-108.740895@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294265,
+    "wof:geomhash":"ac0aab6fd4642e05373d43e7662c733a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873540605
+        }
+    ],
+    "wof:id":873540605,
+    "wof:lastmodified":1464294265,
+    "wof:name":"Curbs & Concrete",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.740895,
+    45.672937,
+    -108.740895,
+    45.672937
+],
+  "geometry": {"coordinates":[-108.74089499999999,45.672937],"type":"Point"}
+}

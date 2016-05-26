@@ -1,0 +1,73 @@
+{
+  "id": 873635243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.028734,45.69465,-111.028734,45.69465",
+    "geom:latitude":45.69465,
+    "geom:longitude":-111.028734,
+    "iso:country":"US",
+    "sg:address":"1413 Gold Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 2430",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6trbaRUPZh1XnSrFQMczOh_45.694650_-111.028734@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295425,
+    "wof:geomhash":"3ed1937229a23cd6c3d989f6e68ae94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876477,
+            "region_id":85688617,
+            "venue_id":873635243
+        }
+    ],
+    "wof:id":873635243,
+    "wof:lastmodified":1464295425,
+    "wof:name":"Car Creations",
+    "wof:parent_id":85876477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -111.028734,
+    45.69465,
+    -111.028734,
+    45.69465
+],
+  "geometry": {"coordinates":[-111.028734,45.69465],"type":"Point"}
+}

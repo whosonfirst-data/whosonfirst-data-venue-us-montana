@@ -1,0 +1,73 @@
+{
+  "id": 873662647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.755909,45.681967,-108.755909,45.681967",
+    "geom:latitude":45.681967,
+    "geom:longitude":-108.755909,
+    "iso:country":"US",
+    "sg:address":"1704 Ridge Dr",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 5705",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pCmWcCsNjJWvlhSsfuOBx_45.681967_-108.755909@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295726,
+    "wof:geomhash":"26989306c9d239fa91cbb94ebd8eb3a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873662647
+        }
+    ],
+    "wof:id":873662647,
+    "wof:lastmodified":1464295726,
+    "wof:name":"Noels Repair & Model Rod Shop",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -108.755909,
+    45.681967,
+    -108.755909,
+    45.681967
+],
+  "geometry": {"coordinates":[-108.755909,45.681967],"type":"Point"}
+}

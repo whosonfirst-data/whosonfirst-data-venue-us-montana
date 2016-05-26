@@ -1,0 +1,73 @@
+{
+  "id": 873552409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.510389,45.773873,-108.510389,45.773873",
+    "geom:latitude":45.773873,
+    "geom:longitude":-108.510389,
+    "iso:country":"US",
+    "sg:address":"224 S 35th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 1336",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SLYCsEhQPuPEjvwYO8xRV_45.773873_-108.510389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294406,
+    "wof:geomhash":"b1a1a49f9b8e0872e16aea3b0f571d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873552409
+        }
+    ],
+    "wof:id":873552409,
+    "wof:lastmodified":1464294406,
+    "wof:name":"Ascheman Trucking Inc",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.510389,
+    45.773873,
+    -108.510389,
+    45.773873
+],
+  "geometry": {"coordinates":[-108.510389,45.773873],"type":"Point"}
+}

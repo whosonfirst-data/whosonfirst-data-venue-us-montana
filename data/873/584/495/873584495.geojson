@@ -1,0 +1,71 @@
+{
+  "id": 873584495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.032149,46.883011,-114.032149,46.883011",
+    "geom:latitude":46.883011,
+    "geom:longitude":-114.032149,
+    "iso:country":"US",
+    "sg:address":"2425 Mullan Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 6655",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bMmy7efFGz8jYAwie7yQf_46.883011_-114.032149@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294767,
+    "wof:geomhash":"80e435661b6f63a6ba3ef31b770b7ef6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873584495
+        }
+    ],
+    "wof:id":873584495,
+    "wof:lastmodified":1464294767,
+    "wof:name":"John Schulte Law Office",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -114.032149,
+    46.883011,
+    -114.032149,
+    46.883011
+],
+  "geometry": {"coordinates":[-114.032149,46.883011],"type":"Point"}
+}

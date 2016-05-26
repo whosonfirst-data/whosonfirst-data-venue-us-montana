@@ -1,0 +1,71 @@
+{
+  "id": 873633925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.556337,45.73651,-108.556337,45.73651",
+    "geom:latitude":45.73651,
+    "geom:longitude":-108.556337,
+    "iso:country":"US",
+    "sg:address":"1920 Mullowney Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 855 0325",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6opQgQx9Gj72SGEPCeJ4Ts_45.736510_-108.556337@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295413,
+    "wof:geomhash":"5d22c933d08e0939761ff4d887d53a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873633925
+        }
+    ],
+    "wof:id":873633925,
+    "wof:lastmodified":1464295413,
+    "wof:name":"Sno Pro",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snow",
+        "removal"
+    ]
+},
+  "bbox": [
+    -108.556337,
+    45.73651,
+    -108.556337,
+    45.73651
+],
+  "geometry": {"coordinates":[-108.556337,45.73651],"type":"Point"}
+}

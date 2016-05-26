@@ -1,0 +1,71 @@
+{
+  "id": 873627163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576181,45.778819,-108.576181,45.778819",
+    "geom:latitude":45.778819,
+    "geom:longitude":-108.576181,
+    "iso:country":"US",
+    "sg:address":"1005 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 0170",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_387SoPGRsVGVEYQrnxUgF2_45.778819_-108.576181@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295331,
+    "wof:geomhash":"2b3d1bbd18781ff61cd0f271a5d8e088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873627163
+        }
+    ],
+    "wof:id":873627163,
+    "wof:lastmodified":1464295331,
+    "wof:name":"Billings Oral Surgery & Dental",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -108.576181,
+    45.778819,
+    -108.576181,
+    45.778819
+],
+  "geometry": {"coordinates":[-108.57618100000001,45.778819],"type":"Point"}
+}

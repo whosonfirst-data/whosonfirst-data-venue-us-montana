@@ -1,0 +1,75 @@
+{
+  "id": 873642085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.011238,46.867086,-114.011238,46.867086",
+    "geom:latitude":46.867086,
+    "geom:longitude":-114.011238,
+    "iso:country":"US",
+    "sg:address":"924 S 3rd St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 4200",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "communications",
+        "representative",
+        "advertising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V6mPT1SRrIvbwmjc5QgZx_46.867086_-114.011238@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295500,
+    "wof:geomhash":"8f577db261e746d7ada03f8b68e0328e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873642085
+        }
+    ],
+    "wof:id":873642085,
+    "wof:lastmodified":1464295500,
+    "wof:name":"AT&T",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "representative",
+        "advertising"
+    ]
+},
+  "bbox": [
+    -114.011238,
+    46.867086,
+    -114.011238,
+    46.867086
+],
+  "geometry": {"coordinates":[-114.01123800000001,46.867086],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873616675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.494209,45.764112,-108.494209,45.764112",
+    "geom:latitude":45.764112,
+    "geom:longitude":-108.494209,
+    "iso:country":"US",
+    "sg:address":"305 Sugar Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7397",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.jewilliamstrucking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0au37z4N9wSnSi0IgoSI8d_45.764112_-108.494209@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295212,
+    "wof:geomhash":"d1fd2711035191ca7198ab94efb64d9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873616675
+        }
+    ],
+    "wof:id":873616675,
+    "wof:lastmodified":1464295212,
+    "wof:name":"J E Williams Trucking",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.494209,
+    45.764112,
+    -108.494209,
+    45.764112
+],
+  "geometry": {"coordinates":[-108.494209,45.764112],"type":"Point"}
+}

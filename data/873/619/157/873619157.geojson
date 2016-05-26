@@ -1,0 +1,73 @@
+{
+  "id": 873619157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.0464,46.85956,-114.0464,46.85956",
+    "geom:latitude":46.85956,
+    "geom:longitude":-114.0464,
+    "iso:country":"US",
+    "sg:address":"2705 Spurgin Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 4300",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "department",
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24A6d5YaMiilhq9s1UQJsW_46.859560_-114.046400@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295242,
+    "wof:geomhash":"7bebff5f28ed740c5258b7d0cc9f7fdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873619157
+        }
+    ],
+    "wof:id":873619157,
+    "wof:lastmodified":1464295242,
+    "wof:name":"Division of Forestry",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "conservation"
+    ]
+},
+  "bbox": [
+    -114.0464,
+    46.85956,
+    -114.0464,
+    46.85956
+],
+  "geometry": {"coordinates":[-114.04640000000001,46.85956],"type":"Point"}
+}

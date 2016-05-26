@@ -1,0 +1,71 @@
+{
+  "id": 873581785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.654023,45.731665,-108.654023,45.731665",
+    "geom:latitude":45.731665,
+    "geom:longitude":-108.654023,
+    "iso:country":"US",
+    "sg:address":"5415 Rustic Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 2375",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c4HmekbUNyapgXz5WfYil_45.731665_-108.654023@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294741,
+    "wof:geomhash":"84ed8d5277f280879ddad5390df78611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873581785
+        }
+    ],
+    "wof:id":873581785,
+    "wof:lastmodified":1464294741,
+    "wof:name":"Ostermiller Housemoving",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.654023,
+    45.731665,
+    -108.654023,
+    45.731665
+],
+  "geometry": {"coordinates":[-108.654023,45.731665],"type":"Point"}
+}

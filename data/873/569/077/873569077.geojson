@@ -1,0 +1,71 @@
+{
+  "id": 873569077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.394001,45.808107,-108.394001,45.808107",
+    "geom:latitude":45.808107,
+    "geom:longitude":-108.394001,
+    "iso:country":"US",
+    "sg:address":"666 Brookwood Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 0667",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05oecRwGDw8aThp7nC4GOu_45.808107_-108.394001@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294596,
+    "wof:geomhash":"b591d741094273a4571953568dcc2b8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873569077
+        }
+    ],
+    "wof:id":873569077,
+    "wof:lastmodified":1464294596,
+    "wof:name":"Rent A Chef",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.394001,
+    45.808107,
+    -108.394001,
+    45.808107
+],
+  "geometry": {"coordinates":[-108.394001,45.808107],"type":"Point"}
+}

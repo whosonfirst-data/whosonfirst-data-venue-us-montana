@@ -1,0 +1,71 @@
+{
+  "id": 873650445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.579017,45.78404,-108.579017,45.78404",
+    "geom:latitude":45.78404,
+    "geom:longitude":-108.579017,
+    "iso:country":"US",
+    "sg:address":"2401 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4834",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vzhiDOYnZFu0bYA4oGUNC_45.784040_-108.579017@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295592,
+    "wof:geomhash":"177b507902a73abf59e1e9ecf857a643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873650445
+        }
+    ],
+    "wof:id":873650445,
+    "wof:lastmodified":1464295592,
+    "wof:name":"Power Engineers Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -108.579017,
+    45.78404,
+    -108.579017,
+    45.78404
+],
+  "geometry": {"coordinates":[-108.57901699999999,45.78404],"type":"Point"}
+}

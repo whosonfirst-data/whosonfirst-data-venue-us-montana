@@ -1,0 +1,71 @@
+{
+  "id": 873633379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.574009,45.784131,-108.574009,45.784131",
+    "geom:latitude":45.784131,
+    "geom:longitude":-108.574009,
+    "iso:country":"US",
+    "sg:address":"2333 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9996",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "casino"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ViYPYpFUenbwhmqFYYstH_45.784131_-108.574009@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295405,
+    "wof:geomhash":"166d3a4ae084426f30951c2fe4d60c34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873633379
+        }
+    ],
+    "wof:id":873633379,
+    "wof:lastmodified":1464295405,
+    "wof:name":"Prime Time On Grand Casino",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casino"
+    ]
+},
+  "bbox": [
+    -108.574009,
+    45.784131,
+    -108.574009,
+    45.784131
+],
+  "geometry": {"coordinates":[-108.574009,45.784131],"type":"Point"}
+}

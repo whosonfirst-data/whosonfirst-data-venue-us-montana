@@ -1,0 +1,75 @@
+{
+  "id": 873618123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.038419,45.679339,-111.038419,45.679339",
+    "geom:latitude":45.679339,
+    "geom:longitude":-111.038419,
+    "iso:country":"US",
+    "sg:address":"33 W Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"News",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 9041",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "product",
+        "tobacco"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jUNt6ippfd4Cko2YbC02T_45.679339_-111.038419@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295225,
+    "wof:geomhash":"f4746ffece397dc936be1c132fede982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":873618123
+        }
+    ],
+    "wof:id":873618123,
+    "wof:lastmodified":1464295225,
+    "wof:name":"Poor Richards News",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "tobacco"
+    ]
+},
+  "bbox": [
+    -111.038419,
+    45.679339,
+    -111.038419,
+    45.679339
+],
+  "geometry": {"coordinates":[-111.038419,45.679339],"type":"Point"}
+}

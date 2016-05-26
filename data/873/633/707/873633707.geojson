@@ -1,0 +1,92 @@
+{
+  "id": 873633707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.61755,45.747761,-108.61755,45.747761",
+    "geom:latitude":45.747761,
+    "geom:longitude":-108.61755,
+    "iso:country":"US",
+    "sg:address":"1202 S Shiloh Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 2010",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "ready",
+        "concrete",
+        "contractor",
+        "road",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66jyHPW4178dkUdLHmeJ5s_45.747761_-108.617550@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295409,
+    "wof:geomhash":"188422252a7b993e7e7b64c4bfa89706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873633707
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873633707
+        }
+    ],
+    "wof:id":873633707,
+    "wof:lastmodified":1464295409,
+    "wof:name":"J T L Group Inc-Billings",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "concrete",
+        "contractor",
+        "road",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -108.61755,
+    45.747761,
+    -108.61755,
+    45.747761
+],
+  "geometry": {"coordinates":[-108.61754999999999,45.747761],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873607655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.548657,45.785623,-108.548657,45.785623",
+    "geom:latitude":45.785623,
+    "geom:longitude":-108.548657,
+    "iso:country":"US",
+    "sg:address":"1540 13th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 8325",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MbE3kTAhcXC22LOf9nH0U_45.785623_-108.548657@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295090,
+    "wof:geomhash":"1358ea661b70ef1c54daab9506699cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873607655
+        }
+    ],
+    "wof:id":873607655,
+    "wof:lastmodified":1464295090,
+    "wof:name":"First United Drugs",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.548657,
+    45.785623,
+    -108.548657,
+    45.785623
+],
+  "geometry": {"coordinates":[-108.54865700000001,45.785623],"type":"Point"}
+}

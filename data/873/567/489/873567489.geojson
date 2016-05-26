@@ -1,0 +1,71 @@
+{
+  "id": 873567489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470657,45.813404,-108.470657,45.813404",
+    "geom:latitude":45.813404,
+    "geom:longitude":-108.470657,
+    "iso:country":"US",
+    "sg:address":"618 Radford Sq S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0539",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "system",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79tuH3rj5uNehlIOtdALgK_45.813404_-108.470657@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294581,
+    "wof:geomhash":"cdef5d4f1ca5ce16c3043466ec9007bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873567489
+        }
+    ],
+    "wof:id":873567489,
+    "wof:lastmodified":1464294581,
+    "wof:name":"County Water Dst Billings Hts",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [
+    -108.470657,
+    45.813404,
+    -108.470657,
+    45.813404
+],
+  "geometry": {"coordinates":[-108.470657,45.813404],"type":"Point"}
+}

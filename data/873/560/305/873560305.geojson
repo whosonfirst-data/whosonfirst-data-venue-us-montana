@@ -1,0 +1,73 @@
+{
+  "id": 873560305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.677146,45.735827,-108.677146,45.735827",
+    "geom:latitude":45.735827,
+    "geom:longitude":-108.677146,
+    "iso:country":"US",
+    "sg:address":"6307 Peace Pipe Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7319",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s6X7hMYzrbdMSSTQGphLz_45.735827_-108.677146@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294503,
+    "wof:geomhash":"a1e9e4f988f47fb6b78f1ab52f788d85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873560305
+        }
+    ],
+    "wof:id":873560305,
+    "wof:lastmodified":1464294503,
+    "wof:name":"O'Donnell Plumbing & Heating",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.677146,
+    45.735827,
+    -108.677146,
+    45.735827
+],
+  "geometry": {"coordinates":[-108.67714599999999,45.735827],"type":"Point"}
+}

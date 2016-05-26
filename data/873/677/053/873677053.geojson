@@ -1,0 +1,73 @@
+{
+  "id": 873677053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.583748,45.749663,-108.583748,45.749663",
+    "geom:latitude":45.749663,
+    "geom:longitude":-108.583748,
+    "iso:country":"US",
+    "sg:address":"2680 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 9786",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:website":"www.insure-montana.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gdvnKa0NRnnI4KEQ0bI7I_45.749663_-108.583748@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295914,
+    "wof:geomhash":"ab48afefd45ace2c0d588eb2c69ecab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873677053
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873677053
+        }
+    ],
+    "wof:id":873677053,
+    "wof:lastmodified":1464295914,
+    "wof:name":"Insurance Agency-Montana Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.583748,
+    45.749663,
+    -108.583748,
+    45.749663
+],
+  "geometry": {"coordinates":[-108.583748,45.749663],"type":"Point"}
+}

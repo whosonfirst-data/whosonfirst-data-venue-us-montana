@@ -1,0 +1,71 @@
+{
+  "id": 873605623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.562552,45.666216,-110.562552,45.666216",
+    "geom:latitude":45.666216,
+    "geom:longitude":-110.562552,
+    "iso:country":"US",
+    "sg:address":"325 E Gallatin St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 6147",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YYw8xBov0zub5ClUs5aDX_45.666216_-110.562552@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295052,
+    "wof:geomhash":"2247cd36a923e8b7acfea87340063096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873605623
+        }
+    ],
+    "wof:id":873605623,
+    "wof:lastmodified":1464295052,
+    "wof:name":"Tel Serv of Montana",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -110.562552,
+    45.666216,
+    -110.562552,
+    45.666216
+],
+  "geometry": {"coordinates":[-110.562552,45.666216],"type":"Point"}
+}

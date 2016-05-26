@@ -1,0 +1,71 @@
+{
+  "id": 873549733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.730765,45.370394,-111.730765,45.370394",
+    "geom:latitude":45.370394,
+    "geom:longitude":-111.730765,
+    "iso:country":"US",
+    "sg:address":"4979 US Hwy 287 N",
+    "sg:city":"Ennis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 682 4306",
+    "sg:postcode":"59729",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PGKURt28hAjrFmFE59e7k_45.370394_-111.730765@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294375,
+    "wof:geomhash":"830719f9488ecb21184509969676416d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873549733
+        }
+    ],
+    "wof:id":873549733,
+    "wof:lastmodified":1464294375,
+    "wof:name":"Madison Foods Inc",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -111.730765,
+    45.370394,
+    -111.730765,
+    45.370394
+],
+  "geometry": {"coordinates":[-111.73076500000001,45.370394],"type":"Point"}
+}

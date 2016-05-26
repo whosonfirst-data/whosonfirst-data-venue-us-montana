@@ -1,0 +1,71 @@
+{
+  "id": 873576723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.472138,45.670251,-108.472138,45.670251",
+    "geom:latitude":45.670251,
+    "geom:longitude":-108.472138,
+    "iso:country":"US",
+    "sg:address":"5539 Helfrick Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 7243",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01RiDQ5aCXZaScvD309DJz_45.670251_-108.472138@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294681,
+    "wof:geomhash":"ed66b66317e3a46d784171f131528c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873576723
+        }
+    ],
+    "wof:id":873576723,
+    "wof:lastmodified":1464294681,
+    "wof:name":"M & H Landscaping",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.472138,
+    45.670251,
+    -108.472138,
+    45.670251
+],
+  "geometry": {"coordinates":[-108.472138,45.670251],"type":"Point"}
+}

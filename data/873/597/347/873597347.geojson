@@ -1,0 +1,74 @@
+{
+  "id": 873597347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470701,45.822739,-108.470701,45.822739",
+    "geom:latitude":45.822739,
+    "geom:longitude":-108.470701,
+    "iso:country":"US",
+    "sg:address":"1323 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 1397",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.montanabones.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PDOx57L0LYCUKI1DVzMk9_45.822739_-108.470701@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294950,
+    "wof:geomhash":"81d69efea7f9d25ec3ad9a603b89b6f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873597347
+        }
+    ],
+    "wof:id":873597347,
+    "wof:lastmodified":1464294950,
+    "wof:name":"Montana Orthopedic & Sports",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -108.470701,
+    45.822739,
+    -108.470701,
+    45.822739
+],
+  "geometry": {"coordinates":[-108.47070100000001,45.822739],"type":"Point"}
+}

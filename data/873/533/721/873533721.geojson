@@ -1,0 +1,70 @@
+{
+  "id": 873533721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.494453,45.787503,-108.494453,45.787503",
+    "geom:latitude":45.787503,
+    "geom:longitude":-108.494453,
+    "iso:country":"US",
+    "sg:address":"1820 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4827",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "boot"
+    ],
+    "sg:website":"www.alsbootery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27YezU7Da422sQJqKsVRh4_45.787503_-108.494453@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294181,
+    "wof:geomhash":"428c1abc0f1384db5d934d353e02e51b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873533721
+        }
+    ],
+    "wof:id":873533721,
+    "wof:lastmodified":1464294181,
+    "wof:name":"Al's Bootery",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boot"
+    ]
+},
+  "bbox": [
+    -108.494453,
+    45.787503,
+    -108.494453,
+    45.787503
+],
+  "geometry": {"coordinates":[-108.49445299999999,45.787503],"type":"Point"}
+}

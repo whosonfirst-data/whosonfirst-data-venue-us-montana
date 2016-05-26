@@ -1,0 +1,71 @@
+{
+  "id": 873613833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.507632,45.791414,-108.507632,45.791414",
+    "geom:latitude":45.791414,
+    "geom:longitude":-108.507632,
+    "iso:country":"US",
+    "sg:address":"2305 9th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2962",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K1tF1ZlD1PIh9iHdVbOkT_45.791414_-108.507632@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295183,
+    "wof:geomhash":"e6627c4c2654bda632c2e0ec2cade26c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873613833
+        }
+    ],
+    "wof:id":873613833,
+    "wof:lastmodified":1464295183,
+    "wof:name":"A 1 Yellowstone Sewer",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.507632,
+    45.791414,
+    -108.507632,
+    45.791414
+],
+  "geometry": {"coordinates":[-108.507632,45.791414],"type":"Point"}
+}

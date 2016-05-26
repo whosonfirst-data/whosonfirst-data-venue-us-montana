@@ -1,0 +1,71 @@
+{
+  "id": 873575555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.004284,46.851483,-114.004284,46.851483",
+    "geom:latitude":46.851483,
+    "geom:longitude":-114.004284,
+    "iso:country":"US",
+    "sg:address":"405 W Kent Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 0277",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nyknJscvz9XPGE4Ry7LIR_46.851483_-114.004284@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294669,
+    "wof:geomhash":"4385483c29d6c81f6039f4151f094eb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873575555
+        }
+    ],
+    "wof:id":873575555,
+    "wof:lastmodified":1464294669,
+    "wof:name":"Kent Street Group Home",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -114.004284,
+    46.851483,
+    -114.004284,
+    46.851483
+],
+  "geometry": {"coordinates":[-114.004284,46.851483],"type":"Point"}
+}

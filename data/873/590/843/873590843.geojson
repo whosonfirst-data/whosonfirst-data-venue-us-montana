@@ -1,0 +1,81 @@
+{
+  "id": 873590843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.607335,45.773176,-108.607335,45.773176",
+    "geom:latitude":45.773176,
+    "geom:longitude":-108.607335,
+    "iso:country":"US",
+    "sg:address":"314 36th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5475",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "treatment",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PE0VdrsHBs1DZtyyUi9pD_45.773176_-108.607335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294841,
+    "wof:geomhash":"c9e983652448a62a40c8f9fc4d098eb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873590843
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873590843
+        }
+    ],
+    "wof:id":873590843,
+    "wof:lastmodified":1464294841,
+    "wof:name":"Dennis Wear Group Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "center"
+    ]
+},
+  "bbox": [
+    -108.607335,
+    45.773176,
+    -108.607335,
+    45.773176
+],
+  "geometry": {"coordinates":[-108.60733500000001,45.773176],"type":"Point"}
+}

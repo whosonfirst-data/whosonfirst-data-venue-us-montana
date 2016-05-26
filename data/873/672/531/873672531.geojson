@@ -1,0 +1,71 @@
+{
+  "id": 873672531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.08651,45.680795,-111.08651,45.680795",
+    "geom:latitude":45.680795,
+    "geom:longitude":-111.08651,
+    "iso:country":"US",
+    "sg:address":"125 Meagher Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 1277",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qjb24g5Uh0G9NxSBwLjUW_45.680795_-111.086510@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295826,
+    "wof:geomhash":"dd9d28fcc43888b6569ff0490887f603",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891697,
+            "region_id":85688617,
+            "venue_id":873672531
+        }
+    ],
+    "wof:id":873672531,
+    "wof:lastmodified":1464295826,
+    "wof:name":"Stay Green Sprinklers Inc",
+    "wof:parent_id":85891697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.08651,
+    45.680795,
+    -111.08651,
+    45.680795
+],
+  "geometry": {"coordinates":[-111.08651,45.680795],"type":"Point"}
+}

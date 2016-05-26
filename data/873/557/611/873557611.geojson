@@ -1,0 +1,71 @@
+{
+  "id": 873557611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.028449,46.814865,-114.028449,46.814865",
+    "geom:latitude":46.814865,
+    "geom:longitude":-114.028449,
+    "iso:country":"US",
+    "sg:address":"111 Morningside Ct",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 6589",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LFyOtUto7Poovw9RDNxLd_46.814865_-114.028449@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294467,
+    "wof:geomhash":"a4a6ac1b6aadc4749f6c25e285ed80fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873557611
+        }
+    ],
+    "wof:id":873557611,
+    "wof:lastmodified":1464294467,
+    "wof:name":"Froines Enterprises",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.028449,
+    46.814865,
+    -114.028449,
+    46.814865
+],
+  "geometry": {"coordinates":[-114.02844899999999,46.814865],"type":"Point"}
+}

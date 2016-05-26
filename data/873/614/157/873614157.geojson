@@ -1,0 +1,71 @@
+{
+  "id": 873614157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.998528,46.875852,-113.998528,46.875852",
+    "geom:latitude":46.875852,
+    "geom:longitude":-113.998528,
+    "iso:country":"US",
+    "sg:address":"410 W Spruce St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 3740",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rBITUPDOXdVM91Hffwn4I_46.875852_-113.998528@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295187,
+    "wof:geomhash":"fdba8a7cd389357c5d803dd6bd220afb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873614157
+        }
+    ],
+    "wof:id":873614157,
+    "wof:lastmodified":1464295187,
+    "wof:name":"Beth Thompson MD",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -113.998528,
+    46.875852,
+    -113.998528,
+    46.875852
+],
+  "geometry": {"coordinates":[-113.99852799999999,46.875852],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873625319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.512026,48.479911,-114.512026,48.479911",
+    "geom:latitude":48.479911,
+    "geom:longitude":-114.512026,
+    "iso:country":"US",
+    "sg:address":"5875 US Hwy 93",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 863 2345",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "forwarding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jpwsYIJrT4r3xV0hqAjmL_48.479911_-114.512026@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295314,
+    "wof:geomhash":"fe346050bf608baeeabba526cb19fd6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873625319
+        }
+    ],
+    "wof:id":873625319,
+    "wof:lastmodified":1464295314,
+    "wof:name":"CH Robinson Company Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -114.512026,
+    48.479911,
+    -114.512026,
+    48.479911
+],
+  "geometry": {"coordinates":[-114.51202600000001,48.479911],"type":"Point"}
+}

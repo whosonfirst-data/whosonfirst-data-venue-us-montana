@@ -1,0 +1,74 @@
+{
+  "id": 873698429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.570431,45.654158,-110.570431,45.654158",
+    "geom:latitude":45.654158,
+    "geom:longitude":-110.570431,
+    "iso:country":"US",
+    "sg:address":"1115 W Lewis St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/upper-yellowstone-valley/96309-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 1911",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n9Qla0GcBIAtTyyZGwrkh_45.654158_-110.570431@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296388,
+    "wof:geomhash":"6c8a1efc45ae80ae953faf969c20283a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873698429
+        }
+    ],
+    "wof:id":873698429,
+    "wof:lastmodified":1464296388,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -110.570431,
+    45.654158,
+    -110.570431,
+    45.654158
+],
+  "geometry": {"coordinates":[-110.570431,45.654158],"type":"Point"}
+}

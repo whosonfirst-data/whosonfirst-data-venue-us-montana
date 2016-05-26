@@ -1,0 +1,71 @@
+{
+  "id": 873534143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.325098,48.21363,-114.325098,48.21363",
+    "geom:latitude":48.21363,
+    "geom:longitude":-114.325098,
+    "iso:country":"US",
+    "sg:address":"350 Conway Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 751 6500",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NUr6NEJBTIl1I7R7nZMPa_48.213630_-114.325098@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294191,
+    "wof:geomhash":"2ed5f0028f9644764fd40e2cfedb3a60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873534143
+        }
+    ],
+    "wof:id":873534143,
+    "wof:lastmodified":1464294191,
+    "wof:name":"Brendan House",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -114.325098,
+    48.21363,
+    -114.325098,
+    48.21363
+],
+  "geometry": {"coordinates":[-114.325098,48.21363],"type":"Point"}
+}

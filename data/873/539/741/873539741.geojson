@@ -1,0 +1,73 @@
+{
+  "id": 873539741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.565603,45.79497,-108.565603,45.79497",
+    "geom:latitude":45.79497,
+    "geom:longitude":-108.565603,
+    "iso:country":"US",
+    "sg:address":"2403 Dahlia Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 2438",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L6tnB0SvduhUM1LLbQr2X_45.794970_-108.565603@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294257,
+    "wof:geomhash":"23c55eb0a9fb56701bc42b7958a06823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873539741
+        }
+    ],
+    "wof:id":873539741,
+    "wof:lastmodified":1464294257,
+    "wof:name":"Mc Bride Mechanical Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.565603,
+    45.79497,
+    -108.565603,
+    45.79497
+],
+  "geometry": {"coordinates":[-108.565603,45.79497],"type":"Point"}
+}

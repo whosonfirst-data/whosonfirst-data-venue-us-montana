@@ -1,0 +1,73 @@
+{
+  "id": 873617263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.534404,46.006149,-112.534404,46.006149",
+    "geom:latitude":46.006149,
+    "geom:longitude":-112.534404,
+    "iso:country":"US",
+    "sg:address":"635 Maryland Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 3100",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fMh1KkF0NTVq70xDPhJrW_46.006149_-112.534404@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295218,
+    "wof:geomhash":"d86e9279f562a0c9f959ce0b349302cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873617263
+        }
+    ],
+    "wof:id":873617263,
+    "wof:lastmodified":1464295218,
+    "wof:name":"Dicks Auto & Exhaust",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -112.534404,
+    46.006149,
+    -112.534404,
+    46.006149
+],
+  "geometry": {"coordinates":[-112.53440399999999,46.006149],"type":"Point"}
+}

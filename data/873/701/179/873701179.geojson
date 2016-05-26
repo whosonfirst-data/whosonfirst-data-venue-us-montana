@@ -1,0 +1,72 @@
+{
+  "id": 873701179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.018372,46.835655,-114.018372,46.835655",
+    "geom:latitude":46.835655,
+    "geom:longitude":-114.018372,
+    "iso:country":"US",
+    "sg:address":"3800 S Russell St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/115288-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 1547",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZNW2KgCgSmwxNWbhsYivX_46.835655_-114.018372@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296417,
+    "wof:geomhash":"7cddaa8fe51f8820cbea433fa93da484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873701179
+        }
+    ],
+    "wof:id":873701179,
+    "wof:lastmodified":1464296417,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -114.018372,
+    46.835655,
+    -114.018372,
+    46.835655
+],
+  "geometry": {"coordinates":[-114.018372,46.835655],"type":"Point"}
+}

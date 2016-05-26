@@ -1,0 +1,73 @@
+{
+  "id": 873627265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.33809,48.412447,-114.33809,48.412447",
+    "geom:latitude":48.412447,
+    "geom:longitude":-114.33809,
+    "iso:country":"US",
+    "sg:address":"3 Baker Ave",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 4646",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dO5gLxnubgAQVmC7XTtQO_48.412447_-114.338090@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295332,
+    "wof:geomhash":"579a8281e39a64e33d7e7290e87c3c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873627265
+        }
+    ],
+    "wof:id":873627265,
+    "wof:lastmodified":1464295332,
+    "wof:name":"Martins Cleaners & Laundromat",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -114.33809,
+    48.412447,
+    -114.33809,
+    48.412447
+],
+  "geometry": {"coordinates":[-114.33808999999999,48.412447],"type":"Point"}
+}

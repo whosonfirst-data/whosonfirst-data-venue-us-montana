@@ -1,0 +1,82 @@
+{
+  "id": 873599491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.575098,45.7523,-108.575098,45.7523",
+    "geom:latitude":45.7523,
+    "geom:longitude":-108.575098,
+    "iso:country":"US",
+    "sg:address":"2300 Grant Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 1786",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "sg:website":"www.baxter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PKaOWxZrEviRRNTOdl4AT_45.752300_-108.575098@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294982,
+    "wof:geomhash":"986254a50cd5646a74d69394acebb80a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873599491
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873599491
+        }
+    ],
+    "wof:id":873599491,
+    "wof:lastmodified":1464294982,
+    "wof:name":"Biolife Plasma Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [
+    -108.575098,
+    45.7523,
+    -108.575098,
+    45.7523
+],
+  "geometry": {"coordinates":[-108.575098,45.7523],"type":"Point"}
+}

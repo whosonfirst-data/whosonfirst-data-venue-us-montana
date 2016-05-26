@@ -1,0 +1,66 @@
+{
+  "id": 873632929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.383981,45.883331,-108.383981,45.883331",
+    "geom:latitude":45.883331,
+    "geom:longitude":-108.383981,
+    "iso:country":"US",
+    "sg:address":"4737 Hoskins Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6476",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kBn0ey3RGZoK1Ss1HMcSh_45.883331_-108.383981@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295399,
+    "wof:geomhash":"a15489d7cd625f0cdec6c1c2780a46c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873632929
+        }
+    ],
+    "wof:id":873632929,
+    "wof:lastmodified":1464295399,
+    "wof:name":"Wehrman Farm Ranch",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.383981,
+    45.883331,
+    -108.383981,
+    45.883331
+],
+  "geometry": {"coordinates":[-108.38398100000001,45.883331],"type":"Point"}
+}

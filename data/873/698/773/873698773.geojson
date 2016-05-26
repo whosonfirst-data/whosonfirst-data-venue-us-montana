@@ -1,0 +1,76 @@
+{
+  "id": 873698773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.57626,45.773732,-108.57626,45.773732",
+    "geom:latitude":45.773732,
+    "geom:longitude":-108.57626,
+    "iso:country":"US",
+    "sg:address":"305 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/81175-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 7272",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hPcCjG4ZJUSFm2hMKkTtA_45.773732_-108.576260@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296391,
+    "wof:geomhash":"018757d97aaa82fae80bd4fd2ac4d6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873698773
+        }
+    ],
+    "wof:id":873698773,
+    "wof:lastmodified":1464296391,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.57626,
+    45.773732,
+    -108.57626,
+    45.773732
+],
+  "geometry": {"coordinates":[-108.57626,45.773732],"type":"Point"}
+}

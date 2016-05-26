@@ -1,0 +1,80 @@
+{
+  "id": 873698619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.510624,45.788911,-108.510624,45.788911",
+    "geom:latitude":45.788911,
+    "geom:longitude":-108.510624,
+    "iso:country":"US",
+    "sg:address":"825 N 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/102127-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8320",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rJd2LTSdXhAujSR5x8oaz_45.788911_-108.510624@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296390,
+    "wof:geomhash":"6999c028dfe93c07e848faf51a0f7eac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873698619
+        }
+    ],
+    "wof:id":873698619,
+    "wof:lastmodified":1464296390,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -108.510624,
+    45.788911,
+    -108.510624,
+    45.788911
+],
+  "geometry": {"coordinates":[-108.51062400000001,45.788911],"type":"Point"}
+}

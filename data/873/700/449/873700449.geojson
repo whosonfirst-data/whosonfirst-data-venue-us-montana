@@ -1,0 +1,76 @@
+{
+  "id": 873700449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.606322,46.003204,-112.606322,46.003204",
+    "geom:latitude":46.003204,
+    "geom:longitude":-112.606322,
+    "iso:country":"US",
+    "sg:address":"1000 Grizzly Trl",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/butte/211856-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 2565",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PPXGbRTnZzJmpkPOOnis6_46.003204_-112.606322@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296411,
+    "wof:geomhash":"95e974a25c4d20cd9dfda4e4c997b01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873700449
+        }
+    ],
+    "wof:id":873700449,
+    "wof:lastmodified":1464296411,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -112.606322,
+    46.003204,
+    -112.606322,
+    46.003204
+],
+  "geometry": {"coordinates":[-112.60632200000001,46.003204],"type":"Point"}
+}

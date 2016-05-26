@@ -1,0 +1,75 @@
+{
+  "id": 873611445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.50539,45.783528,-108.50539,45.783528",
+    "geom:latitude":45.783528,
+    "geom:longitude":-108.50539,
+    "iso:country":"US",
+    "sg:address":"102 N 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 247 6000",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nj8itYGDxjOtEwmOAzC4J_45.783528_-108.505390@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295158,
+    "wof:geomhash":"16d296d36ea61d8fa6b2977f61fc688b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873611445
+        }
+    ],
+    "wof:id":873611445,
+    "wof:lastmodified":1464295158,
+    "wof:name":"Rebecca A Rinehart MD",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -108.50539,
+    45.783528,
+    -108.50539,
+    45.783528
+],
+  "geometry": {"coordinates":[-108.50539000000001,45.783528],"type":"Point"}
+}

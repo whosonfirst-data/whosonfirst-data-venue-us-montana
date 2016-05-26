@@ -1,0 +1,69 @@
+{
+  "id": 873587185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566688,45.757222,-108.566688,45.757222",
+    "geom:latitude":45.757222,
+    "geom:longitude":-108.566688,
+    "iso:country":"US",
+    "sg:address":"680 S 20th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2100",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HOBoUuwb6SjpwRDOQIv9X_45.757222_-108.566688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294799,
+    "wof:geomhash":"45129b4df9207ba1b24a325621fc7fdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873587185
+        }
+    ],
+    "wof:id":873587185,
+    "wof:lastmodified":1464294799,
+    "wof:name":"Points One Price Auto",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -108.566688,
+    45.757222,
+    -108.566688,
+    45.757222
+],
+  "geometry": {"coordinates":[-108.566688,45.757222],"type":"Point"}
+}

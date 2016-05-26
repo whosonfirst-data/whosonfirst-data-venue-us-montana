@@ -1,0 +1,80 @@
+{
+  "id": 873543975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.558317,45.787206,-108.558317,45.787206",
+    "geom:latitude":45.787206,
+    "geom:longitude":-108.558317,
+    "iso:country":"US",
+    "sg:address":"1537 Ave D",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 5144",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27F9SqFGhjP7W7aMS6EVau_45.787206_-108.558317@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294306,
+    "wof:geomhash":"f67eb6fac0e7e4b1fd28ac49067dd977",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873543975
+        }
+    ],
+    "wof:id":873543975,
+    "wof:lastmodified":1464294306,
+    "wof:name":"Northwest Transportation Svcs",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ]
+},
+  "bbox": [
+    -108.558317,
+    45.787206,
+    -108.558317,
+    45.787206
+],
+  "geometry": {"coordinates":[-108.558317,45.787206],"type":"Point"}
+}

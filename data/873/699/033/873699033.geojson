@@ -1,0 +1,76 @@
+{
+  "id": 873699033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.471228,45.821615,-108.471228,45.821615",
+    "geom:latitude":45.821615,
+    "geom:longitude":-108.471228,
+    "iso:country":"US",
+    "sg:address":"1226 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/182122-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6500",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cEs8JpASSz2S9ZhKvxezZ_45.821615_-108.471228@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296394,
+    "wof:geomhash":"c720865c09db830de73619e8663890cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873699033
+        }
+    ],
+    "wof:id":873699033,
+    "wof:lastmodified":1464296394,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -108.471228,
+    45.821615,
+    -108.471228,
+    45.821615
+],
+  "geometry": {"coordinates":[-108.471228,45.821615],"type":"Point"}
+}

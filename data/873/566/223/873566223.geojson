@@ -1,0 +1,66 @@
+{
+  "id": 873566223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.994796,46.871063,-113.994796,46.871063",
+    "geom:latitude":46.871063,
+    "geom:longitude":-113.994796,
+    "iso:country":"US",
+    "sg:address":"111 N Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 5017",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DxgoQNnF2Z77FU6kxN3kh_46.871063_-113.994796@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294568,
+    "wof:geomhash":"7154051d7d7a8feef889222ec68c059c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873566223
+        }
+    ],
+    "wof:id":873566223,
+    "wof:lastmodified":1464294568,
+    "wof:name":"Ambrose-Barton & McDowell",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.994796,
+    46.871063,
+    -113.994796,
+    46.871063
+],
+  "geometry": {"coordinates":[-113.99479599999999,46.871063],"type":"Point"}
+}

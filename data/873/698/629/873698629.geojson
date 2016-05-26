@@ -1,0 +1,76 @@
+{
+  "id": 873698629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.527957,45.784074,-108.527957,45.784074",
+    "geom:latitude":45.784074,
+    "geom:longitude":-108.527957,
+    "iso:country":"US",
+    "sg:address":"501 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/87056-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 9190",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_276c5NApp9Jj4fqNoOA5qQ_45.784074_-108.527957@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296390,
+    "wof:geomhash":"81a61618f029b0b118cd692bdd86d7fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873698629
+        }
+    ],
+    "wof:id":873698629,
+    "wof:lastmodified":1464296390,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.527957,
+    45.784074,
+    -108.527957,
+    45.784074
+],
+  "geometry": {"coordinates":[-108.527957,45.784074],"type":"Point"}
+}

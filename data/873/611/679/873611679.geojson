@@ -1,0 +1,68 @@
+{
+  "id": 873611679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.530856,46.008482,-112.530856,46.008482",
+    "geom:latitude":46.008482,
+    "geom:longitude":-112.530856,
+    "iso:country":"US",
+    "sg:address":"563 S Arizona St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 2505",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CLEdAPX6GNo9f8myjlH8i_46.008482_-112.530856@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295163,
+    "wof:geomhash":"7859eeab6b4d7efc07734edf61296ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873611679
+        }
+    ],
+    "wof:id":873611679,
+    "wof:lastmodified":1464295163,
+    "wof:name":"El Taco Dos",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.530856,
+    46.008482,
+    -112.530856,
+    46.008482
+],
+  "geometry": {"coordinates":[-112.530856,46.008482],"type":"Point"}
+}

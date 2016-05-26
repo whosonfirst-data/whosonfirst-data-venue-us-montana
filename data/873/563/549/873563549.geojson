@@ -1,0 +1,66 @@
+{
+  "id": 873563549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.03951,46.842545,-114.03951,46.842545",
+    "geom:latitude":46.842545,
+    "geom:longitude":-114.03951,
+    "iso:country":"US",
+    "sg:address":"3010 S Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 2323",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TYCmAcEpQ9PZMWvYZ4Dho_46.842545_-114.039510@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294537,
+    "wof:geomhash":"552d34aaf23c73a6e7dfe28592a68300",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873563549
+        }
+    ],
+    "wof:id":873563549,
+    "wof:lastmodified":1464294537,
+    "wof:name":"Eide Motors",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.03951,
+    46.842545,
+    -114.03951,
+    46.842545
+],
+  "geometry": {"coordinates":[-114.03951000000001,46.842545],"type":"Point"}
+}

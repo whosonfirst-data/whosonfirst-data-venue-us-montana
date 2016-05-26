@@ -1,0 +1,73 @@
+{
+  "id": 873551109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.663642,48.101852,-114.663642,48.101852",
+    "geom:latitude":48.101852,
+    "geom:longitude":-114.663642,
+    "iso:country":"US",
+    "sg:address":"230 Gopher Ln",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 854 2532",
+    "sg:postcode":"59925",
+    "sg:province":"MT",
+    "sg:tags":[
+        "log",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gq7qkCD23BxnZQ8YfJaJP_48.101852_-114.663642@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294390,
+    "wof:geomhash":"edd48707a1baa9878c2788ab834df7d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873551109
+        }
+    ],
+    "wof:id":873551109,
+    "wof:lastmodified":1464294390,
+    "wof:name":"Wagar Trucking Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "log",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -114.663642,
+    48.101852,
+    -114.663642,
+    48.101852
+],
+  "geometry": {"coordinates":[-114.663642,48.101852],"type":"Point"}
+}

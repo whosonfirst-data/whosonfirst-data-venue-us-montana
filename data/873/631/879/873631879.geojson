@@ -1,0 +1,71 @@
+{
+  "id": 873631879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.609186,45.80283,-108.609186,45.80283",
+    "geom:latitude":45.80283,
+    "geom:longitude":-108.609186,
+    "iso:country":"US",
+    "sg:address":"3234 Reimers Park Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 8111",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "outfitter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IFSSl88rDt7mOg6LytyJ4_45.802830_-108.609186@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295383,
+    "wof:geomhash":"ef1061d0edaaa4adbcc651cc2f59f4a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873631879
+        }
+    ],
+    "wof:id":873631879,
+    "wof:lastmodified":1464295383,
+    "wof:name":"Stillwaters Outfitting",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outfitter"
+    ]
+},
+  "bbox": [
+    -108.609186,
+    45.80283,
+    -108.609186,
+    45.80283
+],
+  "geometry": {"coordinates":[-108.60918599999999,45.80283],"type":"Point"}
+}

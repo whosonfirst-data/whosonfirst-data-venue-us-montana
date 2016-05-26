@@ -1,0 +1,69 @@
+{
+  "id": 873624975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.997441,46.850682,-113.997441,46.850682",
+    "geom:latitude":46.850682,
+    "geom:longitude":-113.997441,
+    "iso:country":"US",
+    "sg:address":"2105 S Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 6297",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eXAPlfbOMBR2fxoGQrKG6_46.850682_-113.997441@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295310,
+    "wof:geomhash":"d3b1ec17894e0384bc7ea9311be3ef4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873624975
+        }
+    ],
+    "wof:id":873624975,
+    "wof:lastmodified":1464295310,
+    "wof:name":"Hooked On Java",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -113.997441,
+    46.850682,
+    -113.997441,
+    46.850682
+],
+  "geometry": {"coordinates":[-113.99744099999999,46.850682],"type":"Point"}
+}

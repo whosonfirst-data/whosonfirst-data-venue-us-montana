@@ -1,0 +1,73 @@
+{
+  "id": 873533589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.625197,45.801955,-108.625197,45.801955",
+    "geom:latitude":45.801955,
+    "geom:longitude":-108.625197,
+    "iso:country":"US",
+    "sg:address":"4323 Palisades Park Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4370",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "consulting",
+        "it"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ec254UvvpKlodzmuum2Wa_45.801955_-108.625197@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294175,
+    "wof:geomhash":"0c1c4c72753bf0a7af84353f4c772f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873533589
+        }
+    ],
+    "wof:id":873533589,
+    "wof:lastmodified":1464294175,
+    "wof:name":"Defrance Consulting",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "it"
+    ]
+},
+  "bbox": [
+    -108.625197,
+    45.801955,
+    -108.625197,
+    45.801955
+],
+  "geometry": {"coordinates":[-108.625197,45.801955],"type":"Point"}
+}

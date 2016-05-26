@@ -1,0 +1,69 @@
+{
+  "id": 873616195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.527128,45.756226,-108.527128,45.756226",
+    "geom:latitude":45.756226,
+    "geom:longitude":-108.527128,
+    "iso:country":"US",
+    "sg:address":"4431 Jansma Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 9513",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bbI1uoGwDCEgYTtt1O3IW_45.756226_-108.527128@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295207,
+    "wof:geomhash":"ce97436078f705e0b10a59e38c6186ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873616195
+        }
+    ],
+    "wof:id":873616195,
+    "wof:lastmodified":1464295207,
+    "wof:name":"Greybull Auto Trim",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -108.527128,
+    45.756226,
+    -108.527128,
+    45.756226
+],
+  "geometry": {"coordinates":[-108.527128,45.756226],"type":"Point"}
+}

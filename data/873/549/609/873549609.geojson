@@ -1,0 +1,71 @@
+{
+  "id": 873549609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.025564,46.842471,-114.025564,46.842471",
+    "geom:latitude":46.842471,
+    "geom:longitude":-114.025564,
+    "iso:country":"US",
+    "sg:address":"1845 Harve Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 8582",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fivKC7kLlgebxAdDmCkvM_46.842471_-114.025564@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294373,
+    "wof:geomhash":"c823c8841f3224a86d5e52c1f1e5d69d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873549609
+        }
+    ],
+    "wof:id":873549609,
+    "wof:lastmodified":1464294373,
+    "wof:name":"Southside Mini Storage",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -114.025564,
+    46.842471,
+    -114.025564,
+    46.842471
+],
+  "geometry": {"coordinates":[-114.025564,46.842471],"type":"Point"}
+}

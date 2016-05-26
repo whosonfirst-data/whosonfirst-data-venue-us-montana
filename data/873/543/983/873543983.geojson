@@ -1,0 +1,76 @@
+{
+  "id": 873543983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576053,45.760755,-108.576053,45.760755",
+    "geom:latitude":45.760755,
+    "geom:longitude":-108.576053,
+    "iso:country":"US",
+    "sg:address":"455 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 1891",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tFcvClrgweMQOwo6YqaOJ_45.760755_-108.576053@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294306,
+    "wof:geomhash":"0862c5dca46d467fdfe5359e64cdf169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873543983
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873543983
+        }
+    ],
+    "wof:id":873543983,
+    "wof:lastmodified":1464294306,
+    "wof:name":"Sterling Savings Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.576053,
+    45.760755,
+    -108.576053,
+    45.760755
+],
+  "geometry": {"coordinates":[-108.576053,45.760755],"type":"Point"}
+}

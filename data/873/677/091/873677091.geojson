@@ -1,0 +1,71 @@
+{
+  "id": 873677091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.286689,48.147301,-114.286689,48.147301",
+    "geom:latitude":48.147301,
+    "geom:longitude":-114.286689,
+    "iso:country":"US",
+    "sg:address":"3450 US Hwy 93 S",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 2644",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XKtbPMc7o8yI0kcFam5GM_48.147301_-114.286689@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295915,
+    "wof:geomhash":"8a7caf34918ed7be1f472c3af1b0c577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873677091
+        }
+    ],
+    "wof:id":873677091,
+    "wof:lastmodified":1464295915,
+    "wof:name":"Anytime Towing",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -114.286689,
+    48.147301,
+    -114.286689,
+    48.147301
+],
+  "geometry": {"coordinates":[-114.286689,48.147301],"type":"Point"}
+}

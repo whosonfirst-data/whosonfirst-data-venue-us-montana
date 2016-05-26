@@ -1,0 +1,75 @@
+{
+  "id": 873671791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.526195,45.983314,-112.526195,45.983314",
+    "geom:latitude":45.983314,
+    "geom:longitude":-112.526195,
+    "iso:country":"US",
+    "sg:address":"760 Dewey Blvd",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 1166",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bYvlQ5mEbOx73EF3HHY6s_45.983314_-112.526195@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295819,
+    "wof:geomhash":"a8983f944c7dfc880be80f7811d8cca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873671791
+        }
+    ],
+    "wof:id":873671791,
+    "wof:lastmodified":1464295819,
+    "wof:name":"Certified Transm & Auto Repr",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -112.526195,
+    45.983314,
+    -112.526195,
+    45.983314
+],
+  "geometry": {"coordinates":[-112.526195,45.983314],"type":"Point"}
+}

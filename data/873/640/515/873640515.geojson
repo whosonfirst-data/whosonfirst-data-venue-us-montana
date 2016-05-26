@@ -1,0 +1,71 @@
+{
+  "id": 873640515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.774621,45.672523,-108.774621,45.672523",
+    "geom:latitude":45.672523,
+    "geom:longitude":-108.774621,
+    "iso:country":"US",
+    "sg:address":"307 W 4th St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 6362",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6edBi3bf5LySEBo510kKSZ_45.672523_-108.774621@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295481,
+    "wof:geomhash":"51f753226072f315f24f51dc99057fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873640515
+        }
+    ],
+    "wof:id":873640515,
+    "wof:lastmodified":1464295481,
+    "wof:name":"United Methodist Church",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -108.774621,
+    45.672523,
+    -108.774621,
+    45.672523
+],
+  "geometry": {"coordinates":[-108.774621,45.672523],"type":"Point"}
+}

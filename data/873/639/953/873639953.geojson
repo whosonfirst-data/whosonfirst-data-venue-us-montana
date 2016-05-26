@@ -1,0 +1,73 @@
+{
+  "id": 873639953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.348586,45.920022,-108.348586,45.920022",
+    "geom:latitude":45.920022,
+    "geom:longitude":-108.348586,
+    "iso:country":"US",
+    "sg:address":"5235 Equestrian Rd",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 9009",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pr2ubJIz7dVgLXKWCJehH_45.920022_-108.348586@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295472,
+    "wof:geomhash":"a378761f645f6222741e9061419340b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873639953
+        }
+    ],
+    "wof:id":873639953,
+    "wof:lastmodified":1464295472,
+    "wof:name":"Tom Robbins",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -108.348586,
+    45.920022,
+    -108.348586,
+    45.920022
+],
+  "geometry": {"coordinates":[-108.348586,45.920022],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873623449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.012489,46.852416,-114.012489,46.852416",
+    "geom:latitude":46.852416,
+    "geom:longitude":-114.012489,
+    "iso:country":"US",
+    "sg:address":"1904 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 1222",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W1LQN2B6GevjQLstfJXCN_46.852416_-114.012489@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295290,
+    "wof:geomhash":"1d02229e6bdaea3eee85262f8b352114",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873623449
+        }
+    ],
+    "wof:id":873623449,
+    "wof:lastmodified":1464295290,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.012489,
+    46.852416,
+    -114.012489,
+    46.852416
+],
+  "geometry": {"coordinates":[-114.012489,46.852416],"type":"Point"}
+}

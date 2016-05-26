@@ -1,0 +1,71 @@
+{
+  "id": 873609713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.443026,45.840071,-108.443026,45.840071",
+    "geom:latitude":45.840071,
+    "geom:longitude":-108.443026,
+    "iso:country":"US",
+    "sg:address":"1606 Caroline St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 5212",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oul5N6Kwla3c1XioFdf70_45.840071_-108.443026@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295137,
+    "wof:geomhash":"2ae24a1be8740be1bdfed9a79f55d8a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873609713
+        }
+    ],
+    "wof:id":873609713,
+    "wof:lastmodified":1464295137,
+    "wof:name":"Paddock Heating & Cooling",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.443026,
+    45.840071,
+    -108.443026,
+    45.840071
+],
+  "geometry": {"coordinates":[-108.443026,45.840071],"type":"Point"}
+}

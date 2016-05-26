@@ -1,0 +1,73 @@
+{
+  "id": 873623823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.102238,46.883164,-114.102238,46.883164",
+    "geom:latitude":46.883164,
+    "geom:longitude":-114.102238,
+    "iso:country":"US",
+    "sg:address":"1650 Hayes Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 1860",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "reporting",
+        "hearing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1meB4wqrakJpEHPq2ZTaQm_46.883164_-114.102238@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295296,
+    "wof:geomhash":"fab41443030011eae2acb4ee888fafa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873623823
+        }
+    ],
+    "wof:id":873623823,
+    "wof:lastmodified":1464295296,
+    "wof:name":"Sheldens Haring Reporting Svcs",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting",
+        "hearing"
+    ]
+},
+  "bbox": [
+    -114.102238,
+    46.883164,
+    -114.102238,
+    46.883164
+],
+  "geometry": {"coordinates":[-114.102238,46.883164],"type":"Point"}
+}

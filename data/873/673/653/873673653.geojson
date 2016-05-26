@@ -1,0 +1,71 @@
+{
+  "id": 873673653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.104311,45.628666,-111.104311,45.628666",
+    "geom:latitude":45.628666,
+    "geom:longitude":-111.104311,
+    "iso:country":"US",
+    "sg:address":"7921 Cottonwood Rd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 2414",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BJLCijaI6FHEXvUCRxChY_45.628666_-111.104311@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295837,
+    "wof:geomhash":"e288323fad42f843e03807ed22d86549",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891697,
+            "region_id":85688617,
+            "venue_id":873673653
+        }
+    ],
+    "wof:id":873673653,
+    "wof:lastmodified":1464295837,
+    "wof:name":"Sickler Roofing Service",
+    "wof:parent_id":85891697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.104311,
+    45.628666,
+    -111.104311,
+    45.628666
+],
+  "geometry": {"coordinates":[-111.104311,45.628666],"type":"Point"}
+}

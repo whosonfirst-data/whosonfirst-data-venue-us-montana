@@ -1,0 +1,73 @@
+{
+  "id": 873675689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.561018,45.660738,-110.561018,45.660738",
+    "geom:latitude":45.660738,
+    "geom:longitude":-110.561018,
+    "iso:country":"US",
+    "sg:address":"111 S 2nd St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 0896",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zy0OMoxFzwIlK0cAc1iFy_45.660738_-110.561018@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295883,
+    "wof:geomhash":"0bd4139fdf6c84c995adb0dad327c6d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873675689
+        }
+    ],
+    "wof:id":873675689,
+    "wof:lastmodified":1464295883,
+    "wof:name":"Human Resource Development",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -110.561018,
+    45.660738,
+    -110.561018,
+    45.660738
+],
+  "geometry": {"coordinates":[-110.561018,45.660738],"type":"Point"}
+}

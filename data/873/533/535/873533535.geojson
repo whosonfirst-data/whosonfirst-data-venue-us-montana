@@ -1,0 +1,71 @@
+{
+  "id": 873533535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.993377,46.872954,-113.993377,46.872954",
+    "geom:latitude":46.872954,
+    "geom:longitude":-113.993377,
+    "iso:country":"US",
+    "sg:address":"310 N Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 5400",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3npjFECzTpaRPQczFbqVE4_46.872954_-113.993377@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294173,
+    "wof:geomhash":"5a5f077df400cbde40f8ac2fb742398c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873533535
+        }
+    ],
+    "wof:id":873533535,
+    "wof:lastmodified":1464294173,
+    "wof:name":"Lord's Jewelers",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -113.993377,
+    46.872954,
+    -113.993377,
+    46.872954
+],
+  "geometry": {"coordinates":[-113.993377,46.872954],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873622159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.505784,45.785799,-108.505784,45.785799",
+    "geom:latitude":45.785799,
+    "geom:longitude":-108.505784,
+    "iso:country":"US",
+    "sg:address":"2501 4th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6498",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NiuE2OSNPmoDWd1vIv0g0_45.785799_-108.505784@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295272,
+    "wof:geomhash":"82de802d87e724c4e4ea0902c57aa93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873622159
+        }
+    ],
+    "wof:id":873622159,
+    "wof:lastmodified":1464295272,
+    "wof:name":"City Church Of Billings",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -108.505784,
+    45.785799,
+    -108.505784,
+    45.785799
+],
+  "geometry": {"coordinates":[-108.50578400000001,45.785799],"type":"Point"}
+}

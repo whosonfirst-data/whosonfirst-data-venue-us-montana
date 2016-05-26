@@ -1,0 +1,71 @@
+{
+  "id": 873555155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.558766,45.783182,-108.558766,45.783182",
+    "geom:latitude":45.783182,
+    "geom:longitude":-108.558766,
+    "iso:country":"US",
+    "sg:address":"1615 Alderson Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6261",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eenjQCkMJhu9iShzQP2tx_45.783182_-108.558766@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294438,
+    "wof:geomhash":"2dde2c4c7003ee16a97010b09176593f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873555155
+        }
+    ],
+    "wof:id":873555155,
+    "wof:lastmodified":1464294438,
+    "wof:name":"Ferro Willett & Thompson",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -108.558766,
+    45.783182,
+    -108.558766,
+    45.783182
+],
+  "geometry": {"coordinates":[-108.55876600000001,45.783182],"type":"Point"}
+}

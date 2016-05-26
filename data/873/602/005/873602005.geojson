@@ -1,0 +1,79 @@
+{
+  "id": 873602005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.616997,45.740665,-108.616997,45.740665",
+    "geom:latitude":45.740665,
+    "geom:longitude":-108.616997,
+    "iso:country":"US",
+    "sg:address":"3929 Hesper Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 8016",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eZI3c9MasI3ODGJs0NC6k_45.740665_-108.616997@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295008,
+    "wof:geomhash":"ab16448ebb7282229963729a45bd508b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873602005
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873602005
+        }
+    ],
+    "wof:id":873602005,
+    "wof:lastmodified":1464295008,
+    "wof:name":"Kevins Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.616997,
+    45.740665,
+    -108.616997,
+    45.740665
+],
+  "geometry": {"coordinates":[-108.616997,45.740665],"type":"Point"}
+}

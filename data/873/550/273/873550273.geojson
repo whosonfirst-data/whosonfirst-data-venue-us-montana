@@ -1,0 +1,73 @@
+{
+  "id": 873550273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.02296,46.845294,-114.02296,46.845294",
+    "geom:latitude":46.845294,
+    "geom:longitude":-114.02296,
+    "iso:country":"US",
+    "sg:address":"2704 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 5155",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78CuXNkBhPTDlL5GUNRlTF_46.845294_-114.022960@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294381,
+    "wof:geomhash":"421d11becc205f1df83a399957af719c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873550273
+        }
+    ],
+    "wof:id":873550273,
+    "wof:lastmodified":1464294381,
+    "wof:name":"Rocky Mountain Ballet Theatre",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -114.02296,
+    46.845294,
+    -114.02296,
+    46.845294
+],
+  "geometry": {"coordinates":[-114.02296,46.845294],"type":"Point"}
+}

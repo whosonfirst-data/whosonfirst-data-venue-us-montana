@@ -1,0 +1,73 @@
+{
+  "id": 873628541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.770018,45.669396,-108.770018,45.669396",
+    "geom:latitude":45.669396,
+    "geom:longitude":-108.770018,
+    "iso:country":"US",
+    "sg:address":"108 E Main St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 8105",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vUOAsgWFKt0d7mgHsmdCf_45.669396_-108.770018@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295345,
+    "wof:geomhash":"ab7db17f2b39f288368caf1c803c14e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873628541
+        }
+    ],
+    "wof:id":873628541,
+    "wof:lastmodified":1464295345,
+    "wof:name":"Laurel Chamber Of Commerce",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -108.770018,
+    45.669396,
+    -108.770018,
+    45.669396
+],
+  "geometry": {"coordinates":[-108.77001799999999,45.669396],"type":"Point"}
+}

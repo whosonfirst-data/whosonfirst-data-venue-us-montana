@@ -1,0 +1,83 @@
+{
+  "id": 873562235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584915,45.760958,-108.584915,45.760958",
+    "geom:latitude":45.760958,
+    "geom:longitude":-108.584915,
+    "iso:country":"US",
+    "sg:address":"48 Roundup Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 1608",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_530pXdqzsHZ7izQfwvA6aE_45.760958_-108.584915@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294523,
+    "wof:geomhash":"d10064f737246a720c748eb15f8fe956",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873562235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873562235
+        }
+    ],
+    "wof:id":873562235,
+    "wof:lastmodified":1464294523,
+    "wof:name":"Big Sky Maids",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -108.584915,
+    45.760958,
+    -108.584915,
+    45.760958
+],
+  "geometry": {"coordinates":[-108.584915,45.760958],"type":"Point"}
+}

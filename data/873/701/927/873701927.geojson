@@ -1,0 +1,76 @@
+{
+  "id": 873701927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.307321,48.203321,-114.307321,48.203321",
+    "geom:latitude":48.203321,
+    "geom:longitude":-114.307321,
+    "iso:country":"US",
+    "sg:address":"520 E Idaho St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/kalispell/182497-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 5839",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rq7NCad5QK9y4b6EwxRAo_48.203321_-114.307321@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296425,
+    "wof:geomhash":"bbbf7e93c7ec1d89f2b95c1c90a32ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873701927
+        }
+    ],
+    "wof:id":873701927,
+    "wof:lastmodified":1464296425,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -114.307321,
+    48.203321,
+    -114.307321,
+    48.203321
+],
+  "geometry": {"coordinates":[-114.307321,48.203321],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873581573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.039301,46.893397,-114.039301,46.893397",
+    "geom:latitude":46.893397,
+    "geom:longitude":-114.039301,
+    "iso:country":"US",
+    "sg:address":"3075 N Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 541 3216",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69hEgtI2HiaG2OThxnRqZw_46.893397_-114.039301@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294738,
+    "wof:geomhash":"cc32811500f6e7a74d34cb9345015dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873581573
+        }
+    ],
+    "wof:id":873581573,
+    "wof:lastmodified":1464294738,
+    "wof:name":"Edward Jones 16211",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -114.039301,
+    46.893397,
+    -114.039301,
+    46.893397
+],
+  "geometry": {"coordinates":[-114.03930099999999,46.893397],"type":"Point"}
+}

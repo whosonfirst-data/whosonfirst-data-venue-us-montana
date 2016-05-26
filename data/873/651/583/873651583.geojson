@@ -1,0 +1,77 @@
+{
+  "id": 873651583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.509423,45.780462,-108.509423,45.780462",
+    "geom:latitude":45.780462,
+    "geom:longitude":-108.509423,
+    "iso:country":"US",
+    "sg:address":"3011 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4900",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "device",
+        "operator",
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FtMk58384Pa7B8suGrlfZ_45.780462_-108.509423@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295609,
+    "wof:geomhash":"30fbf7b28d3972c87c6c9651ecedb2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873651583
+        }
+    ],
+    "wof:id":873651583,
+    "wof:lastmodified":1464295609,
+    "wof:name":"Bookie",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "device",
+        "operator",
+        "amusement"
+    ]
+},
+  "bbox": [
+    -108.509423,
+    45.780462,
+    -108.509423,
+    45.780462
+],
+  "geometry": {"coordinates":[-108.509423,45.780462],"type":"Point"}
+}

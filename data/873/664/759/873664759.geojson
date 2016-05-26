@@ -1,0 +1,75 @@
+{
+  "id": 873664759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.70896,45.783946,-108.70896,45.783946",
+    "geom:latitude":45.783946,
+    "geom:longitude":-108.70896,
+    "iso:country":"US",
+    "sg:address":"7610 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 2210",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "suspension",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XSkmN3cJIx6qsR4T7LKuG_45.783946_-108.708960@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295747,
+    "wof:geomhash":"cc3b6af7f007e8cb196ef0777444ea87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873664759
+        }
+    ],
+    "wof:id":873664759,
+    "wof:lastmodified":1464295747,
+    "wof:name":"Buzz & Jerry's Rod Shop",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "suspension",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.70896,
+    45.783946,
+    -108.70896,
+    45.783946
+],
+  "geometry": {"coordinates":[-108.70896,45.783946],"type":"Point"}
+}

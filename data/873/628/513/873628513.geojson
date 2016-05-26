@@ -1,0 +1,71 @@
+{
+  "id": 873628513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.033716,46.821313,-114.033716,46.821313",
+    "geom:latitude":46.821313,
+    "geom:longitude":-114.033716,
+    "iso:country":"US",
+    "sg:address":"2236 E Summit Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 239 0344",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wQZ8lRl8lglfoT94MzAsc_46.821313_-114.033716@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295345,
+    "wof:geomhash":"578c449866048943116ae526510aa88d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873628513
+        }
+    ],
+    "wof:id":873628513,
+    "wof:lastmodified":1464295345,
+    "wof:name":"CJ Maintenance",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -114.033716,
+    46.821313,
+    -114.033716,
+    46.821313
+],
+  "geometry": {"coordinates":[-114.033716,46.821313],"type":"Point"}
+}

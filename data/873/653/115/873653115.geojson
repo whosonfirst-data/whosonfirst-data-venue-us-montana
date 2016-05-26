@@ -1,0 +1,71 @@
+{
+  "id": 873653115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.771501,45.666508,-108.771501,45.666508",
+    "geom:latitude":45.666508,
+    "geom:longitude":-108.771501,
+    "iso:country":"US",
+    "sg:address":"216 S 1st Ave",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 7969",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "casino"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ifmF8cguwRz8P4OJLjE2x_45.666508_-108.771501@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295625,
+    "wof:geomhash":"e1fcaee4b5a1b24ed21258dbe68553c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873653115
+        }
+    ],
+    "wof:id":873653115,
+    "wof:lastmodified":1464295625,
+    "wof:name":"Locomotive Casino",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casino"
+    ]
+},
+  "bbox": [
+    -108.771501,
+    45.666508,
+    -108.771501,
+    45.666508
+],
+  "geometry": {"coordinates":[-108.771501,45.666508],"type":"Point"}
+}

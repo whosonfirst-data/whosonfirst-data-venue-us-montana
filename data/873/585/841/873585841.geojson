@@ -1,0 +1,71 @@
+{
+  "id": 873585841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.442919,45.830098,-108.442919,45.830098",
+    "geom:latitude":45.830098,
+    "geom:longitude":-108.442919,
+    "iso:country":"US",
+    "sg:address":"1728 Maurine St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 1151",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x7S2X0Aidl8WexDuQRHNJ_45.830098_-108.442919@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294782,
+    "wof:geomhash":"35bad6e51795df9dc30d5452ced228aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873585841
+        }
+    ],
+    "wof:id":873585841,
+    "wof:lastmodified":1464294782,
+    "wof:name":"Brendan Carlson Construction C",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -108.442919,
+    45.830098,
+    -108.442919,
+    45.830098
+],
+  "geometry": {"coordinates":[-108.442919,45.830098],"type":"Point"}
+}

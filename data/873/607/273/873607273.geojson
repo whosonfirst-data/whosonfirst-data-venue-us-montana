@@ -1,0 +1,71 @@
+{
+  "id": 873607273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.135085,48.182989,-114.135085,48.182989",
+    "geom:latitude":48.182989,
+    "geom:longitude":-114.135085,
+    "iso:country":"US",
+    "sg:address":"250 Riverside Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 5568",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i60LQ0TFI7CVWLWp4JX9q_48.182989_-114.135085@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295083,
+    "wof:geomhash":"1da0e146acf05b9da5cbb9697f5cc6b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873607273
+        }
+    ],
+    "wof:id":873607273,
+    "wof:lastmodified":1464295083,
+    "wof:name":"Schindler 8330",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator"
+    ]
+},
+  "bbox": [
+    -114.135085,
+    48.182989,
+    -114.135085,
+    48.182989
+],
+  "geometry": {"coordinates":[-114.135085,48.182989],"type":"Point"}
+}

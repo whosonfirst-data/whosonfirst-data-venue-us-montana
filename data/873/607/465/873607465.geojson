@@ -1,0 +1,85 @@
+{
+  "id": 873607465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.649075,45.717529,-108.649075,45.717529",
+    "geom:latitude":45.717529,
+    "geom:longitude":-108.649075,
+    "iso:country":"US",
+    "sg:address":"5240 Roland Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 860 5757",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x3EYWBGuiqHVNSupAOE8Q_45.717529_-108.649075@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295087,
+    "wof:geomhash":"80cac1b9a1401b8228f08f558daea23c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873607465
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873607465
+        }
+    ],
+    "wof:id":873607465,
+    "wof:lastmodified":1464295087,
+    "wof:name":"Soft Touch Designs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ]
+},
+  "bbox": [
+    -108.649075,
+    45.717529,
+    -108.649075,
+    45.717529
+],
+  "geometry": {"coordinates":[-108.649075,45.717529],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873558995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.475654,45.805696,-108.475654,45.805696",
+    "geom:latitude":45.805696,
+    "geom:longitude":-108.475654,
+    "iso:country":"US",
+    "sg:address":"450 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 7996",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FjcMw1ZpaBVusMQySScH8_45.805696_-108.475654@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294488,
+    "wof:geomhash":"059c64ed98dd65fd124647a6458516e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873558995
+        }
+    ],
+    "wof:id":873558995,
+    "wof:lastmodified":1464294488,
+    "wof:name":"Midwest Check Cashing Inc",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -108.475654,
+    45.805696,
+    -108.475654,
+    45.805696
+],
+  "geometry": {"coordinates":[-108.47565400000001,45.805696],"type":"Point"}
+}

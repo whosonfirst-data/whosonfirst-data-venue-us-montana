@@ -1,0 +1,74 @@
+{
+  "id": 873701743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.307145,48.203448,-114.307145,48.203448",
+    "geom:latitude":48.203448,
+    "geom:longitude":-114.307145,
+    "iso:country":"US",
+    "sg:address":"535 E Idaho St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/kalispell/205131-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 8226",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DQXynAa2PA4arvVbIwf2F_48.203448_-114.307145@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296423,
+    "wof:geomhash":"df88a3d3e2eea99ba7a6f10e003d2b4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873701743
+        }
+    ],
+    "wof:id":873701743,
+    "wof:lastmodified":1464296423,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -114.307145,
+    48.203448,
+    -114.307145,
+    48.203448
+],
+  "geometry": {"coordinates":[-114.30714500000001,48.203448],"type":"Point"}
+}

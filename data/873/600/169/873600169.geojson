@@ -1,0 +1,71 @@
+{
+  "id": 873600169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.056106,46.804795,-114.056106,46.804795",
+    "geom:latitude":46.804795,
+    "geom:longitude":-114.056106,
+    "iso:country":"US",
+    "sg:address":"4891 Christian Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 0232",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uNRxwIDi13CXKhaehZxE5_46.804795_-114.056106@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294988,
+    "wof:geomhash":"e86d932d9de15e4187cc031e111994fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873600169
+        }
+    ],
+    "wof:id":873600169,
+    "wof:lastmodified":1464294988,
+    "wof:name":"All Seasons Plumbing Heating",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.056106,
+    46.804795,
+    -114.056106,
+    46.804795
+],
+  "geometry": {"coordinates":[-114.056106,46.804795],"type":"Point"}
+}

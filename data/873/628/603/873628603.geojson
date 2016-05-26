@@ -1,0 +1,79 @@
+{
+  "id": 873628603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.625509,45.72803,-108.625509,45.72803",
+    "geom:latitude":45.72803,
+    "geom:longitude":-108.625509,
+    "iso:country":"US",
+    "sg:address":"4320 Jackrabbit Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 2561",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n49N2sIALBx6XLBOcoTyr_45.728030_-108.625509@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295346,
+    "wof:geomhash":"e08878336c5169c20f7c4dc0ba49f42d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873628603
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873628603
+        }
+    ],
+    "wof:id":873628603,
+    "wof:lastmodified":1464295346,
+    "wof:name":"WITT Heating & Air Conditionin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.625509,
+    45.72803,
+    -108.625509,
+    45.72803
+],
+  "geometry": {"coordinates":[-108.62550899999999,45.72803],"type":"Point"}
+}

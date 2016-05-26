@@ -1,0 +1,71 @@
+{
+  "id": 873610063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.779219,45.664567,-108.779219,45.664567",
+    "geom:latitude":45.664567,
+    "geom:longitude":-108.779219,
+    "iso:country":"US",
+    "sg:address":"301 Forrest Ave",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 4495",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tju3fEc0dYB3RV6HnBNlU_45.664567_-108.779219@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295144,
+    "wof:geomhash":"004b6154f8f85f411c532ba4280efcbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873610063
+        }
+    ],
+    "wof:id":873610063,
+    "wof:lastmodified":1464295144,
+    "wof:name":"Christisons Roofing",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.779219,
+    45.664567,
+    -108.779219,
+    45.664567
+],
+  "geometry": {"coordinates":[-108.779219,45.664567],"type":"Point"}
+}

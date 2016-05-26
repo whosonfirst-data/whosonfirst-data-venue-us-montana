@@ -1,0 +1,71 @@
+{
+  "id": 873673247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.475713,45.812761,-108.475713,45.812761",
+    "geom:latitude":45.812761,
+    "geom:longitude":-108.475713,
+    "iso:country":"US",
+    "sg:address":"500 Hilltop Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 4778",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JxHVcsT2HhR0E1t8J5IcU_45.812761_-108.475713@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295832,
+    "wof:geomhash":"239f14e99ae86acecf1e716371d96582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873673247
+        }
+    ],
+    "wof:id":873673247,
+    "wof:lastmodified":1464295832,
+    "wof:name":"Ace Storage Ctr",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -108.475713,
+    45.812761,
+    -108.475713,
+    45.812761
+],
+  "geometry": {"coordinates":[-108.475713,45.812761],"type":"Point"}
+}

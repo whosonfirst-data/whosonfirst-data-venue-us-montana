@@ -1,0 +1,71 @@
+{
+  "id": 873596823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.749343,45.340568,-111.749343,45.340568",
+    "geom:latitude":45.340568,
+    "geom:longitude":-111.749343,
+    "iso:country":"US",
+    "sg:address":"110 Golf Course Rd",
+    "sg:city":"Ennis",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 682 7468",
+    "sg:postcode":"59729",
+    "sg:province":"MT",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fWEK1G1mPmBBlvgxAz1Ca_45.340568_-111.749343@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294942,
+    "wof:geomhash":"3f28c08326baf0d81b2a71a4e837f836",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873596823
+        }
+    ],
+    "wof:id":873596823,
+    "wof:lastmodified":1464294942,
+    "wof:name":"Madison Meadows Golf Course",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -111.749343,
+    45.340568,
+    -111.749343,
+    45.340568
+],
+  "geometry": {"coordinates":[-111.749343,45.340568],"type":"Point"}
+}

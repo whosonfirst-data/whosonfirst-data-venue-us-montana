@@ -1,0 +1,73 @@
+{
+  "id": 873548483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.563309,45.759851,-108.563309,45.759851",
+    "geom:latitude":45.759851,
+    "geom:longitude":-108.563309,
+    "iso:country":"US",
+    "sg:address":"1845 Lampman Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 1440",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_522lmNnWCuEJgDvfskKDT4_45.759851_-108.563309@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294361,
+    "wof:geomhash":"97506fbca5a06161896b5926e272d2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873548483
+        }
+    ],
+    "wof:id":873548483,
+    "wof:lastmodified":1464294361,
+    "wof:name":"Hanks Body Shop Inc",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -108.563309,
+    45.759851,
+    -108.563309,
+    45.759851
+],
+  "geometry": {"coordinates":[-108.563309,45.759851],"type":"Point"}
+}

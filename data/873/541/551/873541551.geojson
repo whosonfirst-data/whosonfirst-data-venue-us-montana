@@ -1,0 +1,72 @@
+{
+  "id": 873541551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566667,45.75472,-108.566667,45.75472",
+    "geom:latitude":45.75472,
+    "geom:longitude":-108.566667,
+    "iso:country":"US",
+    "sg:address":"2045 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 8000",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "sg:website":"www.kulr8.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xmqo4y3awrJZNhkn8vPSg_45.754720_-108.566667@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294276,
+    "wof:geomhash":"9a3f7eeaad328c40c97c091b2c239c46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873541551
+        }
+    ],
+    "wof:id":873541551,
+    "wof:lastmodified":1464294276,
+    "wof:name":"KULR",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting",
+        "co"
+    ]
+},
+  "bbox": [
+    -108.566667,
+    45.75472,
+    -108.566667,
+    45.75472
+],
+  "geometry": {"coordinates":[-108.566667,45.75472],"type":"Point"}
+}

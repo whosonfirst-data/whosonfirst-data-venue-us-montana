@@ -1,0 +1,73 @@
+{
+  "id": 873560141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.274196,48.215425,-114.274196,48.215425",
+    "geom:latitude":48.215425,
+    "geom:longitude":-114.274196,
+    "iso:country":"US",
+    "sg:address":"1414 State Hwy 35",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 5910",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JviaypR7rjIRki3bxqvu0_48.215425_-114.274196@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294501,
+    "wof:geomhash":"ba18a484f313b72105d2115f5364fc0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873560141
+        }
+    ],
+    "wof:id":873560141,
+    "wof:lastmodified":1464294501,
+    "wof:name":"10 Minute Quick Lube Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -114.274196,
+    48.215425,
+    -114.274196,
+    48.215425
+],
+  "geometry": {"coordinates":[-114.274196,48.215425],"type":"Point"}
+}

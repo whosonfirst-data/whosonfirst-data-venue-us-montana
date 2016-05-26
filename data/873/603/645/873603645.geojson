@@ -1,0 +1,71 @@
+{
+  "id": 873603645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.995446,46.874894,-113.995446,46.874894",
+    "geom:latitude":46.874894,
+    "geom:longitude":-113.995446,
+    "iso:country":"US",
+    "sg:address":"224 W Spruce St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 2084",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44yOouQV8aU8A8bmxPgAT9_46.874894_-113.995446@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295025,
+    "wof:geomhash":"25fc6d3d8b01d05d2d9916f58dc4bb78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873603645
+        }
+    ],
+    "wof:id":873603645,
+    "wof:lastmodified":1464295025,
+    "wof:name":"Loewen Group Intl",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plan"
+    ]
+},
+  "bbox": [
+    -113.995446,
+    46.874894,
+    -113.995446,
+    46.874894
+],
+  "geometry": {"coordinates":[-113.995446,46.874894],"type":"Point"}
+}

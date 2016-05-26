@@ -1,0 +1,75 @@
+{
+  "id": 873574493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.444958,45.825596,-108.444958,45.825596",
+    "geom:latitude":45.825596,
+    "geom:longitude":-108.444958,
+    "iso:country":"US",
+    "sg:address":"1615 Blarney St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 6668",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cAbvM2ktMIrOIJLL0P6tY_45.825596_-108.444958@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294658,
+    "wof:geomhash":"ed6e80d03a0b57ed793192d73c22f3a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873574493
+        }
+    ],
+    "wof:id":873574493,
+    "wof:lastmodified":1464294658,
+    "wof:name":"Valley Mechanical Enterprises",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.444958,
+    45.825596,
+    -108.444958,
+    45.825596
+],
+  "geometry": {"coordinates":[-108.444958,45.825596],"type":"Point"}
+}

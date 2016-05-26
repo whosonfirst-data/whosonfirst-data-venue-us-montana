@@ -1,0 +1,73 @@
+{
+  "id": 873655071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.035634,46.839756,-114.035634,46.839756",
+    "geom:latitude":46.839756,
+    "geom:longitude":-114.035634,
+    "iso:country":"US",
+    "sg:address":"2302 McDonald Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 5857",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lHkXfJESBhCEQkXZ1Yqzt_46.839756_-114.035634@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295646,
+    "wof:geomhash":"d7927bc7796bb93adbb40eb5a43d2c32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873655071
+        }
+    ],
+    "wof:id":873655071,
+    "wof:lastmodified":1464295646,
+    "wof:name":"Culvers Foreign Car Service",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -114.035634,
+    46.839756,
+    -114.035634,
+    46.839756
+],
+  "geometry": {"coordinates":[-114.035634,46.839756],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873700937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.732719,45.349731,-111.732719,45.349731",
+    "geom:latitude":45.349731,
+    "geom:longitude":-111.732719,
+    "iso:country":"US",
+    "sg:address":"170 Mt Highway 287",
+    "sg:city":"Ennis",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/madison-valley/167573-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 682 7237",
+    "sg:postcode":"59729",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e3mBUl9rFNzsJM3a6muNa_45.349731_-111.732719@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296415,
+    "wof:geomhash":"90074f198909d355b894c5714de0036a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873700937
+        }
+    ],
+    "wof:id":873700937,
+    "wof:lastmodified":1464296415,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.732719,
+    45.349731,
+    -111.732719,
+    45.349731
+],
+  "geometry": {"coordinates":[-111.732719,45.349731],"type":"Point"}
+}

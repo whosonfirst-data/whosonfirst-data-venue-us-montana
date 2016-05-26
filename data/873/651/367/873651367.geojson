@@ -1,0 +1,72 @@
+{
+  "id": 873651367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470886,45.826272,-108.470886,45.826272",
+    "geom:latitude":45.826272,
+    "geom:longitude":-108.470886,
+    "iso:country":"US",
+    "sg:address":"1546 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 238 4950",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "savings"
+    ],
+    "sg:website":"www.westernsecuritybank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NGf7NrJsfhsHR7ySYF1LU_45.826272_-108.470886@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295601,
+    "wof:geomhash":"64c2e16d397bffb77e7519b90d36023e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873651367
+        }
+    ],
+    "wof:id":873651367,
+    "wof:lastmodified":1464295601,
+    "wof:name":"Western Security Bank",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "savings"
+    ]
+},
+  "bbox": [
+    -108.470886,
+    45.826272,
+    -108.470886,
+    45.826272
+],
+  "geometry": {"coordinates":[-108.47088599999999,45.826272],"type":"Point"}
+}

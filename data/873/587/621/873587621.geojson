@@ -1,0 +1,68 @@
+{
+  "id": 873587621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.516852,45.797105,-108.516852,45.797105",
+    "geom:latitude":45.797105,
+    "geom:longitude":-108.516852,
+    "iso:country":"US",
+    "sg:address":"9 Pryor Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 8212",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MPcG2RNYMm9Hp89j8SNOD_45.797105_-108.516852@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294803,
+    "wof:geomhash":"ef4f1865a8c14c26a57694e0811c2751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873587621
+        }
+    ],
+    "wof:id":873587621,
+    "wof:lastmodified":1464294803,
+    "wof:name":"Center of Veterans Education",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.516852,
+    45.797105,
+    -108.516852,
+    45.797105
+],
+  "geometry": {"coordinates":[-108.516852,45.797105],"type":"Point"}
+}

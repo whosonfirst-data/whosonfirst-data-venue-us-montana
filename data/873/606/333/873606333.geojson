@@ -1,0 +1,73 @@
+{
+  "id": 873606333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.766083,45.659815,-108.766083,45.659815",
+    "geom:latitude":45.659815,
+    "geom:longitude":-108.766083,
+    "iso:country":"US",
+    "sg:address":"803 US Hwy 212 S",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 5270",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "crude",
+        "pipeline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TSWKFxrvjfbbBMZfDrSAl_45.659815_-108.766083@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295063,
+    "wof:geomhash":"e7856ba15df3a450d504b33417b22754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873606333
+        }
+    ],
+    "wof:id":873606333,
+    "wof:lastmodified":1464295063,
+    "wof:name":"Cenex",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crude",
+        "pipeline"
+    ]
+},
+  "bbox": [
+    -108.766083,
+    45.659815,
+    -108.766083,
+    45.659815
+],
+  "geometry": {"coordinates":[-108.76608299999999,45.659815],"type":"Point"}
+}

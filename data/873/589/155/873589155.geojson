@@ -1,0 +1,79 @@
+{
+  "id": 873589155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.335247,48.399916,-114.335247,48.399916",
+    "geom:latitude":48.399916,
+    "geom:longitude":-114.335247,
+    "iso:country":"US",
+    "sg:address":"6575 US Hwy 93",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 863 2501",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "skilled",
+        "general",
+        "nursing",
+        "care",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hLkxYmu09UfTEWSK8LV4b_48.399916_-114.335247@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294819,
+    "wof:geomhash":"dfe103ad94314b6409faf6330c11e100",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873589155
+        }
+    ],
+    "wof:id":873589155,
+    "wof:lastmodified":1464294819,
+    "wof:name":"North Valley Hospital",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled",
+        "general",
+        "nursing",
+        "care",
+        "facility"
+    ]
+},
+  "bbox": [
+    -114.335247,
+    48.399916,
+    -114.335247,
+    48.399916
+],
+  "geometry": {"coordinates":[-114.335247,48.399916],"type":"Point"}
+}

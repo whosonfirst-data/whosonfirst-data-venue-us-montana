@@ -1,0 +1,76 @@
+{
+  "id": 873700467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.509448,45.980714,-112.509448,45.980714",
+    "geom:latitude":45.980714,
+    "geom:longitude":-112.509448,
+    "iso:country":"US",
+    "sg:address":"3040 Busch St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/butte/67201-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 8016",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XvlqOPsuts4ig1ETWSdoR_45.980714_-112.509448@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296411,
+    "wof:geomhash":"70615a215f5609f29fc67ef543e1881b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873700467
+        }
+    ],
+    "wof:id":873700467,
+    "wof:lastmodified":1464296411,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -112.509448,
+    45.980714,
+    -112.509448,
+    45.980714
+],
+  "geometry": {"coordinates":[-112.50944800000001,45.980714],"type":"Point"}
+}

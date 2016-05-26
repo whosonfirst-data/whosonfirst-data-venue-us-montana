@@ -1,0 +1,71 @@
+{
+  "id": 873537047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.056896,46.887978,-114.056896,46.887978",
+    "geom:latitude":46.887978,
+    "geom:longitude":-114.056896,
+    "iso:country":"US",
+    "sg:address":"4750 Mullan Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 5373",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iwtLfyIrS6e4ewBGf0c0I_46.887978_-114.056896@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294229,
+    "wof:geomhash":"57060a9d95bce10ff2eaadc1df63c880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873537047
+        }
+    ],
+    "wof:id":873537047,
+    "wof:lastmodified":1464294229,
+    "wof:name":"Charlies Auto Body",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -114.056896,
+    46.887978,
+    -114.056896,
+    46.887978
+],
+  "geometry": {"coordinates":[-114.05689599999999,46.887978],"type":"Point"}
+}

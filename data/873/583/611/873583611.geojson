@@ -1,0 +1,71 @@
+{
+  "id": 873583611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.465733,45.814465,-108.465733,45.814465",
+    "geom:latitude":45.814465,
+    "geom:longitude":-108.465733,
+    "iso:country":"US",
+    "sg:address":"935 Bench Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 1530",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DxsoviAWONcaMZh8TTwor_45.814465_-108.465733@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294758,
+    "wof:geomhash":"615dd4c0891013ebd3141e8c4e34fd98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873583611
+        }
+    ],
+    "wof:id":873583611,
+    "wof:lastmodified":1464294758,
+    "wof:name":"PMPI",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -108.465733,
+    45.814465,
+    -108.465733,
+    45.814465
+],
+  "geometry": {"coordinates":[-108.465733,45.814465],"type":"Point"}
+}

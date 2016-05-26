@@ -1,0 +1,71 @@
+{
+  "id": 873645539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.36754,44.862761,-111.36754,44.862761",
+    "geom:latitude":44.862761,
+    "geom:longitude":-111.36754,
+    "iso:country":"US",
+    "sg:address":"7550 US Hwy 287",
+    "sg:city":"Harrison",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 685 3425",
+    "sg:postcode":"59758",
+    "sg:province":"MT",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891739,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46Pg4yvwgxloi1YvNYkEQh_44.862761_-111.367540@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295541,
+    "wof:geomhash":"eb437dff24e126142d7e05b1620206ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "neighbourhood_id":85891739,
+            "region_id":85688617,
+            "venue_id":873645539
+        }
+    ],
+    "wof:id":873645539,
+    "wof:lastmodified":1464295541,
+    "wof:name":"Harrison-Pony-Norris Volunteer",
+    "wof:parent_id":85891739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -111.36754,
+    44.862761,
+    -111.36754,
+    44.862761
+],
+  "geometry": {"coordinates":[-111.36754000000001,44.862761],"type":"Point"}
+}

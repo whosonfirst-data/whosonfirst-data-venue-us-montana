@@ -1,0 +1,69 @@
+{
+  "id": 873605901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.508852,46.852377,-113.508852,46.852377",
+    "geom:latitude":46.852377,
+    "geom:longitude":-113.508852,
+    "iso:country":"US",
+    "sg:address":"1706 Copper Cliff Dr",
+    "sg:city":"Bonner",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 244 4557",
+    "sg:postcode":"59823",
+    "sg:province":"MT",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891733,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KTCfgavdMlWSt1KQYHScF_46.852377_-113.508852@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295057,
+    "wof:geomhash":"810e7c3b747ab03062622759198d3b3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891733,
+            "region_id":85688617,
+            "venue_id":873605901
+        }
+    ],
+    "wof:id":873605901,
+    "wof:lastmodified":1464295057,
+    "wof:name":"H & D Wholesale",
+    "wof:parent_id":85891733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -113.508852,
+    46.852377,
+    -113.508852,
+    46.852377
+],
+  "geometry": {"coordinates":[-113.508852,46.852377],"type":"Point"}
+}

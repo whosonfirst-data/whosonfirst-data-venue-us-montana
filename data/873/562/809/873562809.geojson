@@ -1,0 +1,71 @@
+{
+  "id": 873562809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.051484,46.816708,-114.051484,46.816708",
+    "geom:latitude":46.816708,
+    "geom:longitude":-114.051484,
+    "iso:country":"US",
+    "sg:address":"2900 St Michael Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 2696",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XKioGLacFj8IXRTVbqmtz_46.816708_-114.051484@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294529,
+    "wof:geomhash":"50b98ff9bd635e8cb9245c7b4631c329",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873562809
+        }
+    ],
+    "wof:id":873562809,
+    "wof:lastmodified":1464294529,
+    "wof:name":"Richard Hurt Contracting Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -114.051484,
+    46.816708,
+    -114.051484,
+    46.816708
+],
+  "geometry": {"coordinates":[-114.051484,46.816708],"type":"Point"}
+}

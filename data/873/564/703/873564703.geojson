@@ -1,0 +1,71 @@
+{
+  "id": 873564703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.768104,45.679234,-108.768104,45.679234",
+    "geom:latitude":45.679234,
+    "geom:longitude":-108.768104,
+    "iso:country":"US",
+    "sg:address":"315 E Maryland Ln",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 4108",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32TezZ66h2L1BH9gu3L6Lv_45.679234_-108.768104@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294551,
+    "wof:geomhash":"6a56041f51b1976616f3c13e9810e8d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873564703
+        }
+    ],
+    "wof:id":873564703,
+    "wof:lastmodified":1464294551,
+    "wof:name":"Meadowood Apartments",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -108.768104,
+    45.679234,
+    -108.768104,
+    45.679234
+],
+  "geometry": {"coordinates":[-108.76810399999999,45.679234],"type":"Point"}
+}

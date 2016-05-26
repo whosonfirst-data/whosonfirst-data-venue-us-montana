@@ -1,0 +1,85 @@
+{
+  "id": 873602441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.052189,45.662966,-111.052189,45.662966",
+    "geom:latitude":45.662966,
+    "geom:longitude":-111.052189,
+    "iso:country":"US",
+    "sg:address":"1611 S 11th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 1027",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876465,
+        85891683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sGnmVCkAsmwkP3nrYYIs2_45.662966_-111.052189@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295013,
+    "wof:geomhash":"021ca2467c13fb263095a932fbeff69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876465,
+            "region_id":85688617,
+            "venue_id":873602441
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891683,
+            "region_id":85688617,
+            "venue_id":873602441
+        }
+    ],
+    "wof:id":873602441,
+    "wof:lastmodified":1464295013,
+    "wof:name":"Carmike Cinemas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -111.052189,
+    45.662966,
+    -111.052189,
+    45.662966
+],
+  "geometry": {"coordinates":[-111.052189,45.662966],"type":"Point"}
+}

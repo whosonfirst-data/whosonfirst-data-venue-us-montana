@@ -1,0 +1,75 @@
+{
+  "id": 873576613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.469845,45.837329,-108.469845,45.837329",
+    "geom:latitude":45.837329,
+    "geom:longitude":-108.469845,
+    "iso:country":"US",
+    "sg:address":"2225 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 5041",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Vt8aakvzuQY7EJlOvRCgK_45.837329_-108.469845@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294680,
+    "wof:geomhash":"214e46321a8457aa8e0b27fee69847c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873576613
+        }
+    ],
+    "wof:id":873576613,
+    "wof:lastmodified":1464294680,
+    "wof:name":"Precision Drilling & Blasting",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.469845,
+    45.837329,
+    -108.469845,
+    45.837329
+],
+  "geometry": {"coordinates":[-108.46984500000001,45.837329],"type":"Point"}
+}

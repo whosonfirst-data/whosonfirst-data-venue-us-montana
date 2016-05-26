@@ -1,0 +1,73 @@
+{
+  "id": 873622963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.033602,45.700797,-111.033602,45.700797",
+    "geom:latitude":45.700797,
+    "geom:longitude":-111.033602,
+    "iso:country":"US",
+    "sg:address":"2175 Industrial Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 8775",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        420525597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RSC1jd3M4aMiRUmPoYU00_45.700797_-111.033602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295281,
+    "wof:geomhash":"56ed781058460c5b685e251b82c731fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":420525597,
+            "region_id":85688617,
+            "venue_id":873622963
+        }
+    ],
+    "wof:id":873622963,
+    "wof:lastmodified":1464295281,
+    "wof:name":"BFI",
+    "wof:parent_id":420525597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -111.033602,
+    45.700797,
+    -111.033602,
+    45.700797
+],
+  "geometry": {"coordinates":[-111.033602,45.700797],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873602977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.090688,46.859844,-114.090688,46.859844",
+    "geom:latitude":46.859844,
+    "geom:longitude":-114.090688,
+    "iso:country":"US",
+    "sg:address":"4412 Spurgin Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 327 6745",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "courier",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20oMVRIocxEXPnCqCt4JXn_46.859844_-114.090688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295018,
+    "wof:geomhash":"17fa95fc711f9fef751ec1e885b3f363",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873602977
+        }
+    ],
+    "wof:id":873602977,
+    "wof:lastmodified":1464295018,
+    "wof:name":"Blue Streak Freight",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier",
+        "air"
+    ]
+},
+  "bbox": [
+    -114.090688,
+    46.859844,
+    -114.090688,
+    46.859844
+],
+  "geometry": {"coordinates":[-114.090688,46.859844],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873570169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.580886,45.761744,-108.580886,45.761744",
+    "geom:latitude":45.761744,
+    "geom:longitude":-108.580886,
+    "iso:country":"US",
+    "sg:address":"95 Cache Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 860 4976",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xNsXHMGjWOanzRGaFl3la_45.761744_-108.580886@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294612,
+    "wof:geomhash":"ffa57560ce42a3912b949429cc959e27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873570169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873570169
+        }
+    ],
+    "wof:id":873570169,
+    "wof:lastmodified":1464294612,
+    "wof:name":"North American Tree Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -108.580886,
+    45.761744,
+    -108.580886,
+    45.761744
+],
+  "geometry": {"coordinates":[-108.58088600000001,45.761744],"type":"Point"}
+}

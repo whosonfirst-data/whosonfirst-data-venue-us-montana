@@ -1,0 +1,73 @@
+{
+  "id": 873595549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.038354,45.679339,-111.038354,45.679339",
+    "geom:latitude":45.679339,
+    "geom:longitude":-111.038354,
+    "iso:country":"US",
+    "sg:address":"39 W Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 585 0080",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_368f09mGMjQihA5cyxqxuo_45.679339_-111.038354@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294917,
+    "wof:geomhash":"db95cda0c27d09fb1b3b6fd919294eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":873595549
+        }
+    ],
+    "wof:id":873595549,
+    "wof:lastmodified":1464294917,
+    "wof:name":"Burger Bobs Inc",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.038354,
+    45.679339,
+    -111.038354,
+    45.679339
+],
+  "geometry": {"coordinates":[-111.038354,45.679339],"type":"Point"}
+}

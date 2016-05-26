@@ -1,0 +1,71 @@
+{
+  "id": 873535757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.461636,45.830968,-108.461636,45.830968",
+    "geom:latitude":45.830968,
+    "geom:longitude":-108.461636,
+    "iso:country":"US",
+    "sg:address":"916 Kyhl Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 6316",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23S0sDc9NeC2cIrFCRCrT6_45.830968_-108.461636@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294212,
+    "wof:geomhash":"ee78b8551ba1ca4352dce2c8f24f00b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873535757
+        }
+    ],
+    "wof:id":873535757,
+    "wof:lastmodified":1464294212,
+    "wof:name":"Clean Rite",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -108.461636,
+    45.830968,
+    -108.461636,
+    45.830968
+],
+  "geometry": {"coordinates":[-108.461636,45.830968],"type":"Point"}
+}

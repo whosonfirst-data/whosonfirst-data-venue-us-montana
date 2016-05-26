@@ -1,0 +1,79 @@
+{
+  "id": 873649225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.582607,45.744222,-108.582607,45.744222",
+    "geom:latitude":45.744222,
+    "geom:longitude":-108.582607,
+    "iso:country":"US",
+    "sg:address":"2651 Gabel Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 1440",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65jyGx8MDssjBli0TUg6jo_45.744222_-108.582607@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295579,
+    "wof:geomhash":"e40e374444f1f78cf66e3a09d6f62ab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873649225
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873649225
+        }
+    ],
+    "wof:id":873649225,
+    "wof:lastmodified":1464295579,
+    "wof:name":"TNT Automotive Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.582607,
+    45.744222,
+    -108.582607,
+    45.744222
+],
+  "geometry": {"coordinates":[-108.582607,45.744222],"type":"Point"}
+}

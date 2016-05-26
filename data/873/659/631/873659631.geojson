@@ -1,0 +1,69 @@
+{
+  "id": 873659631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.495727,45.775587,-108.495727,45.775587",
+    "geom:latitude":45.775587,
+    "geom:longitude":-108.495727,
+    "iso:country":"US",
+    "sg:address":"2201 7th Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 7400",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70tRf96o7BJMSzpRNyJbjv_45.775587_-108.495727@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295695,
+    "wof:geomhash":"66676320df9aa91c9c7006e10f637300",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873659631
+        }
+    ],
+    "wof:id":873659631,
+    "wof:lastmodified":1464295695,
+    "wof:name":"Jupiter Sulphur LLC",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [
+    -108.495727,
+    45.775587,
+    -108.495727,
+    45.775587
+],
+  "geometry": {"coordinates":[-108.495727,45.775587],"type":"Point"}
+}

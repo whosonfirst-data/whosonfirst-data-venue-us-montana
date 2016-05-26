@@ -1,0 +1,71 @@
+{
+  "id": 873540023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.341598,45.911145,-108.341598,45.911145",
+    "geom:latitude":45.911145,
+    "geom:longitude":-108.341598,
+    "iso:country":"US",
+    "sg:address":"5645 Silver Saddle Dr",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6653",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1faxqubHYzrQAWIPStuUSl_45.911145_-108.341598@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294260,
+    "wof:geomhash":"91b97eacd2b5de3f8073f348926829e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873540023
+        }
+    ],
+    "wof:id":873540023,
+    "wof:lastmodified":1464294260,
+    "wof:name":"Walker Builders",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -108.341598,
+    45.911145,
+    -108.341598,
+    45.911145
+],
+  "geometry": {"coordinates":[-108.341598,45.911145],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 873660037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470634,45.817019,-108.470634,45.817019",
+    "geom:latitude":45.817019,
+    "geom:longitude":-108.470634,
+    "iso:country":"US",
+    "sg:address":"1029 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 4201",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:website":"www.circleinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UR36HG0Ipvg7W8ZgAHRp0_45.817019_-108.470634@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295699,
+    "wof:geomhash":"5068fbeb6b0123a6926cc2e3be74fe52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873660037
+        }
+    ],
+    "wof:id":873660037,
+    "wof:lastmodified":1464295699,
+    "wof:name":"Circle Inn",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.470634,
+    45.817019,
+    -108.470634,
+    45.817019
+],
+  "geometry": {"coordinates":[-108.470634,45.817019],"type":"Point"}
+}

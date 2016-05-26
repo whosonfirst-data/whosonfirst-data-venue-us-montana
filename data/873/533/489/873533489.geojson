@@ -1,0 +1,71 @@
+{
+  "id": 873533489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.496878,45.775041,-108.496878,45.775041",
+    "geom:latitude":45.775041,
+    "geom:longitude":-108.496878,
+    "iso:country":"US",
+    "sg:address":"600 S 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 0351",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zJpQonPJSSMP4M7oi9dhG_45.775041_-108.496878@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294171,
+    "wof:geomhash":"d7b312f785bad9c8abbb5fa9e5e7b7d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873533489
+        }
+    ],
+    "wof:id":873533489,
+    "wof:lastmodified":1464294171,
+    "wof:name":"Parkview Rainbow Room",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    -108.496878,
+    45.775041,
+    -108.496878,
+    45.775041
+],
+  "geometry": {"coordinates":[-108.496878,45.775041],"type":"Point"}
+}

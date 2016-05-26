@@ -1,0 +1,68 @@
+{
+  "id": 873595985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.506622,45.782858,-108.506622,45.782858",
+    "geom:latitude":45.782858,
+    "geom:longitude":-108.506622,
+    "iso:country":"US",
+    "sg:address":"108 N 28th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 8424",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xBI3dBHfd2SY2vvdc5M3X_45.782858_-108.506622@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294925,
+    "wof:geomhash":"a8c470198a25159edb702d128d3b7988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873595985
+        }
+    ],
+    "wof:id":873595985,
+    "wof:lastmodified":1464294925,
+    "wof:name":"In Step",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.506622,
+    45.782858,
+    -108.506622,
+    45.782858
+],
+  "geometry": {"coordinates":[-108.50662199999999,45.782858],"type":"Point"}
+}

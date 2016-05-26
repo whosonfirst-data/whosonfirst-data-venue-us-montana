@@ -1,0 +1,69 @@
+{
+  "id": 873562147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.101107,45.585641,-111.101107,45.585641",
+    "geom:latitude":45.585641,
+    "geom:longitude":-111.101107,
+    "iso:country":"US",
+    "sg:address":"9421 Pheasant Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 6681",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891701,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xmZkeLFtvT2Gfd3S2XGoD_45.585641_-111.101107@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294522,
+    "wof:geomhash":"2e84350f1e764b9d3084618a828c49c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "neighbourhood_id":85891701,
+            "region_id":85688617,
+            "venue_id":873562147
+        }
+    ],
+    "wof:id":873562147,
+    "wof:lastmodified":1464294522,
+    "wof:name":"Binstock Builders Inc",
+    "wof:parent_id":85891701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.101107,
+    45.585641,
+    -111.101107,
+    45.585641
+],
+  "geometry": {"coordinates":[-111.101107,45.585641],"type":"Point"}
+}

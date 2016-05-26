@@ -1,0 +1,73 @@
+{
+  "id": 873605381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.566941,45.649457,-110.566941,45.649457",
+    "geom:latitude":45.649457,
+    "geom:longitude":-110.566941,
+    "iso:country":"US",
+    "sg:address":"602 S 12th St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 2273",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T5qvyIM0bhOilbMiAAGbs_45.649457_-110.566941@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295046,
+    "wof:geomhash":"86a07520ea03b8c9b10c5afd958576ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873605381
+        }
+    ],
+    "wof:id":873605381,
+    "wof:lastmodified":1464295046,
+    "wof:name":"Master Angler",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -110.566941,
+    45.649457,
+    -110.566941,
+    45.649457
+],
+  "geometry": {"coordinates":[-110.566941,45.649457],"type":"Point"}
+}

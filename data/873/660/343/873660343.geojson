@@ -1,0 +1,71 @@
+{
+  "id": 873660343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.440305,45.832864,-108.440305,45.832864",
+    "geom:latitude":45.832864,
+    "geom:longitude":-108.440305,
+    "iso:country":"US",
+    "sg:address":"1732 Natalie St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 1066",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bBtxWgQRUwHLDDE3TuOD1_45.832864_-108.440305@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295701,
+    "wof:geomhash":"b105ff2c48469d189cdbe8a9776db6df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873660343
+        }
+    ],
+    "wof:id":873660343,
+    "wof:lastmodified":1464295701,
+    "wof:name":"Montana Auto Transport Inc",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.440305,
+    45.832864,
+    -108.440305,
+    45.832864
+],
+  "geometry": {"coordinates":[-108.440305,45.832864],"type":"Point"}
+}

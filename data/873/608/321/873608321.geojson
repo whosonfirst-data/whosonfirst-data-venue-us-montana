@@ -1,0 +1,73 @@
+{
+  "id": 873608321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.556275,45.775954,-108.556275,45.775954",
+    "geom:latitude":45.775954,
+    "geom:longitude":-108.556275,
+    "iso:country":"US",
+    "sg:address":"405 16th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 1378",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "meter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45t8mVwZ1sh5cSdeRnY8Cu_45.775954_-108.556275@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295110,
+    "wof:geomhash":"d18c165db35f54f3bb9c8cce700f8cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873608321
+        }
+    ],
+    "wof:id":873608321,
+    "wof:lastmodified":1464295110,
+    "wof:name":"A O Smith Petroleum Meters",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meter"
+    ]
+},
+  "bbox": [
+    -108.556275,
+    45.775954,
+    -108.556275,
+    45.775954
+],
+  "geometry": {"coordinates":[-108.556275,45.775954],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873643241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.55125,45.779417,-108.55125,45.779417",
+    "geom:latitude":45.779417,
+    "geom:longitude":-108.55125,
+    "iso:country":"US",
+    "sg:address":"1010 14th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 7476",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "logging",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44CiK3Y9gMtRwD9gTtP7v5_45.779417_-108.551250@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295517,
+    "wof:geomhash":"04d481c50361aff8e8a2a15ff9e9c33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873643241
+        }
+    ],
+    "wof:id":873643241,
+    "wof:lastmodified":1464295517,
+    "wof:name":"Yellowstone Trucking",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "logging",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.55125,
+    45.779417,
+    -108.55125,
+    45.779417
+],
+  "geometry": {"coordinates":[-108.55125,45.779417],"type":"Point"}
+}

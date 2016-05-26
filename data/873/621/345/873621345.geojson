@@ -1,0 +1,68 @@
+{
+  "id": 873621345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.549429,46.009243,-112.549429,46.009243",
+    "geom:latitude":46.009243,
+    "geom:longitude":-112.549429,
+    "iso:country":"US",
+    "sg:address":"800 W Diamond St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 8627",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YPJph3JIHUtrEiifLfSth_46.009243_-112.549429@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295264,
+    "wof:geomhash":"f17ed21ff769fe46ce18253de2471bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873621345
+        }
+    ],
+    "wof:id":873621345,
+    "wof:lastmodified":1464295264,
+    "wof:name":"Richard A Roche DDS",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.549429,
+    46.009243,
+    -112.549429,
+    46.009243
+],
+  "geometry": {"coordinates":[-112.549429,46.009243],"type":"Point"}
+}

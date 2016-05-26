@@ -1,0 +1,68 @@
+{
+  "id": 873545727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.044946,45.679204,-111.044946,45.679204",
+    "geom:latitude":45.679204,
+    "geom:longitude":-111.044946,
+    "iso:country":"US",
+    "sg:address":"626 W Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 0450",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85891685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QzYTJTlE8lqcEPwhZfXn6_45.679204_-111.044946@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294325,
+    "wof:geomhash":"2b58711c248bdee516b31ed2a30a363a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891685,
+            "region_id":85688617,
+            "venue_id":873545727
+        }
+    ],
+    "wof:id":873545727,
+    "wof:lastmodified":1464294325,
+    "wof:name":"Ruby Slippers LLC",
+    "wof:parent_id":85891685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.044946,
+    45.679204,
+    -111.044946,
+    45.679204
+],
+  "geometry": {"coordinates":[-111.044946,45.679204],"type":"Point"}
+}

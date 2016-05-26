@@ -1,0 +1,71 @@
+{
+  "id": 873561881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.035604,46.871835,-114.035604,46.871835",
+    "geom:latitude":46.871835,
+    "geom:longitude":-114.035604,
+    "iso:country":"US",
+    "sg:address":"2255 Wyoming St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 6024",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G533adHkccr58obXME2fE_46.871835_-114.035604@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294519,
+    "wof:geomhash":"eb6fb2f16a24fc5403282ecd90698d35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873561881
+        }
+    ],
+    "wof:id":873561881,
+    "wof:lastmodified":1464294519,
+    "wof:name":"Scott Owen Sprinkler",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.035604,
+    46.871835,
+    -114.035604,
+    46.871835
+],
+  "geometry": {"coordinates":[-114.03560400000001,46.871835],"type":"Point"}
+}

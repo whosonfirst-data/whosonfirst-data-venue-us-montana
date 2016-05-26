@@ -1,0 +1,79 @@
+{
+  "id": 873564317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.635928,45.710241,-108.635928,45.710241",
+    "geom:latitude":45.710241,
+    "geom:longitude":-108.635928,
+    "iso:country":"US",
+    "sg:address":"8727 Susanna Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4496",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mfg",
+        "trimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mZGGDwLd6AtPUpMVPg5RI_45.710241_-108.635928@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294547,
+    "wof:geomhash":"9fef4744fb13f46537d61f606e25ff11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873564317
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873564317
+        }
+    ],
+    "wof:id":873564317,
+    "wof:lastmodified":1464294547,
+    "wof:name":"Westside Kustoms",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "trimming"
+    ]
+},
+  "bbox": [
+    -108.635928,
+    45.710241,
+    -108.635928,
+    45.710241
+],
+  "geometry": {"coordinates":[-108.63592800000001,45.710241],"type":"Point"}
+}

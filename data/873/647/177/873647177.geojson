@@ -1,0 +1,85 @@
+{
+  "id": 873647177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.04254,45.677188,-111.04254,45.677188",
+    "geom:latitude":45.677188,
+    "geom:longitude":-111.04254,
+    "iso:country":"US",
+    "sg:address":"416 W Olive St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 6268",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "field",
+        "reader"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876465,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YqYJ2aMkKxA0ojogONRm4_45.677188_-111.042540@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295558,
+    "wof:geomhash":"a784c27574330b33e090851db3429cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876465,
+            "region_id":85688617,
+            "venue_id":873647177
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":873647177
+        }
+    ],
+    "wof:id":873647177,
+    "wof:lastmodified":1464295558,
+    "wof:name":"Ian Godwin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "reader"
+    ]
+},
+  "bbox": [
+    -111.04254,
+    45.677188,
+    -111.04254,
+    45.677188
+],
+  "geometry": {"coordinates":[-111.04254,45.677188],"type":"Point"}
+}

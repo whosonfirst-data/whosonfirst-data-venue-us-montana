@@ -1,0 +1,71 @@
+{
+  "id": 873672043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.768552,45.669838,-108.768552,45.669838",
+    "geom:latitude":45.669838,
+    "geom:longitude":-108.768552,
+    "iso:country":"US",
+    "sg:address":"201 E Main St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 4918",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZfNyVJI3MIdZ8eG3KjsNr_45.669838_-108.768552@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295822,
+    "wof:geomhash":"e6c61b8b3956096029e40f6a5c566c67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873672043
+        }
+    ],
+    "wof:id":873672043,
+    "wof:lastmodified":1464295822,
+    "wof:name":"Hair On Main",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -108.768552,
+    45.669838,
+    -108.768552,
+    45.669838
+],
+  "geometry": {"coordinates":[-108.768552,45.669838],"type":"Point"}
+}

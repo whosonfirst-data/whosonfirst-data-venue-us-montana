@@ -1,0 +1,75 @@
+{
+  "id": 873624823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.527509,45.761221,-108.527509,45.761221",
+    "geom:latitude":45.761221,
+    "geom:longitude":-108.527509,
+    "iso:country":"US",
+    "sg:address":"4532 Mitchell Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 2898",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gZOtOKIhAUdIlx6zC0v2R_45.761221_-108.527509@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295309,
+    "wof:geomhash":"0e6bd062d5937799426a1ca113a28397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873624823
+        }
+    ],
+    "wof:id":873624823,
+    "wof:lastmodified":1464295309,
+    "wof:name":"Express Sewer Svc",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -108.527509,
+    45.761221,
+    -108.527509,
+    45.761221
+],
+  "geometry": {"coordinates":[-108.52750899999999,45.761221],"type":"Point"}
+}

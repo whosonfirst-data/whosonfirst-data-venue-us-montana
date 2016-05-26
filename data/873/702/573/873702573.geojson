@@ -1,0 +1,76 @@
+{
+  "id": 873702573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.508227,45.981222,-112.508227,45.981222",
+    "geom:latitude":45.981222,
+    "geom:longitude":-112.508227,
+    "iso:country":"US",
+    "sg:address":"3001 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/butte/211595-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 4168",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aHp3Qjlt80lbn2CI6bewR_45.981248_-112.508037@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296431,
+    "wof:geomhash":"90204c476e2cb7c572c8ee5477e98283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873702573
+        }
+    ],
+    "wof:id":873702573,
+    "wof:lastmodified":1464296431,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -112.508227,
+    45.981222,
+    -112.508227,
+    45.981222
+],
+  "geometry": {"coordinates":[-112.50822700000001,45.981222],"type":"Point"}
+}

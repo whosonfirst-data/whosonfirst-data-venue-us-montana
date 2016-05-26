@@ -1,0 +1,71 @@
+{
+  "id": 873581457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.447817,45.803361,-108.447817,45.803361",
+    "geom:latitude":45.803361,
+    "geom:longitude":-108.447817,
+    "iso:country":"US",
+    "sg:address":"1430 Lockwood Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 247 2540",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12q7Bp8S272Yy4h3u8bTMX_45.803361_-108.447817@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294737,
+    "wof:geomhash":"a504096cd009810123296b0f2a7878f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873581457
+        }
+    ],
+    "wof:id":873581457,
+    "wof:lastmodified":1464294737,
+    "wof:name":"JTL Group-Maintenance",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.447817,
+    45.803361,
+    -108.447817,
+    45.803361
+],
+  "geometry": {"coordinates":[-108.447817,45.803361],"type":"Point"}
+}

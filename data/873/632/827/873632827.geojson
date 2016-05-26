@@ -1,0 +1,71 @@
+{
+  "id": 873632827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.312724,48.195559,-114.312724,48.195559",
+    "geom:latitude":48.195559,
+    "geom:longitude":-114.312724,
+    "iso:country":"US",
+    "sg:address":"328 Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 8191",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1guiTYag2G2pGgZkCjNiVO_48.195559_-114.312724@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295397,
+    "wof:geomhash":"4aca66e3d441c449916ec8068d464e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873632827
+        }
+    ],
+    "wof:id":873632827,
+    "wof:lastmodified":1464295397,
+    "wof:name":"Millies",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -114.312724,
+    48.195559,
+    -114.312724,
+    48.195559
+],
+  "geometry": {"coordinates":[-114.312724,48.195559],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 873644861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.587331,45.740799,-108.587331,45.740799",
+    "geom:latitude":45.740799,
+    "geom:longitude":-108.587331,
+    "iso:country":"US",
+    "sg:address":"2847 Hesper Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 2253",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "steel",
+        "plate",
+        "mfg",
+        "fabricated",
+        "s",
+        "structural"
+    ],
+    "sg:website":"www.roscoesteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZZQaUXwEVS5futMHSChw7_45.740799_-108.587331@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295535,
+    "wof:geomhash":"34b8e8acbb2184a4b5012617ace5f03f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873644861
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873644861
+        }
+    ],
+    "wof:id":873644861,
+    "wof:lastmodified":1464295535,
+    "wof:name":"Roscoe Steel & Culvert Co Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "plate",
+        "mfg",
+        "fabricated",
+        "s",
+        "structural"
+    ]
+},
+  "bbox": [
+    -108.587331,
+    45.740799,
+    -108.587331,
+    45.740799
+],
+  "geometry": {"coordinates":[-108.58733100000001,45.740799],"type":"Point"}
+}

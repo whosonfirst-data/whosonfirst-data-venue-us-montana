@@ -1,0 +1,73 @@
+{
+  "id": 873607735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.668102,45.733946,-108.668102,45.733946",
+    "geom:latitude":45.733946,
+    "geom:longitude":-108.668102,
+    "iso:country":"US",
+    "sg:address":"5611 Lazy Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8012",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "bulb",
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ouRaQAItPoDwwG8chQxSA_45.733946_-108.668102@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295093,
+    "wof:geomhash":"8a3e277e6df1543e6043eb5dff122017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873607735
+        }
+    ],
+    "wof:id":873607735,
+    "wof:lastmodified":1464295093,
+    "wof:name":"Bowman Grain & Seed-Billings",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulb",
+        "seed"
+    ]
+},
+  "bbox": [
+    -108.668102,
+    45.733946,
+    -108.668102,
+    45.733946
+],
+  "geometry": {"coordinates":[-108.668102,45.733946],"type":"Point"}
+}

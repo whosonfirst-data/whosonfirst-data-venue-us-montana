@@ -1,0 +1,68 @@
+{
+  "id": 873564481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.553885,45.777728,-108.553885,45.777728",
+    "geom:latitude":45.777728,
+    "geom:longitude":-108.553885,
+    "iso:country":"US",
+    "sg:address":"724 15th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 000 1111",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eAnTGvWXK9UBGYXVKAHEc_45.777728_-108.553885@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294549,
+    "wof:geomhash":"3834451293c0d8fca87b6b2b8ff4a193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873564481
+        }
+    ],
+    "wof:id":873564481,
+    "wof:lastmodified":1464294549,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.553885,
+    45.777728,
+    -108.553885,
+    45.777728
+],
+  "geometry": {"coordinates":[-108.55388499999999,45.777728],"type":"Point"}
+}

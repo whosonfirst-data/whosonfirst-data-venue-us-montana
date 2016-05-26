@@ -1,0 +1,71 @@
+{
+  "id": 873656569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.326141,48.431376,-114.326141,48.431376",
+    "geom:latitude":48.431376,
+    "geom:longitude":-114.326141,
+    "iso:country":"US",
+    "sg:address":"387 Rick Oshay Rd",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 3760",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k4MF14ePuSvqqEiQq0mtp_48.431376_-114.326141@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295662,
+    "wof:geomhash":"fc319071d59538892058e4db982f9afe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873656569
+        }
+    ],
+    "wof:id":873656569,
+    "wof:lastmodified":1464295662,
+    "wof:name":"Selig Masonry",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.326141,
+    48.431376,
+    -114.326141,
+    48.431376
+],
+  "geometry": {"coordinates":[-114.32614100000001,48.431376],"type":"Point"}
+}

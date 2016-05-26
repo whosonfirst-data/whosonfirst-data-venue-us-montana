@@ -1,0 +1,75 @@
+{
+  "id": 873672825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.607062,45.769699,-108.607062,45.769699",
+    "geom:latitude":45.769699,
+    "geom:longitude":-108.607062,
+    "iso:country":"US",
+    "sg:address":"3511 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 7270",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:website":"www.billingsrentalfinder.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OEuRGn3dSGSzB5rYshgPp_45.769699_-108.607062@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295829,
+    "wof:geomhash":"1c9cb7aa75188f10d1d49de1adce62ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873672825
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873672825
+        }
+    ],
+    "wof:id":873672825,
+    "wof:lastmodified":1464295829,
+    "wof:name":"Dax's Rental Finder",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.607062,
+    45.769699,
+    -108.607062,
+    45.769699
+],
+  "geometry": {"coordinates":[-108.607062,45.769699],"type":"Point"}
+}

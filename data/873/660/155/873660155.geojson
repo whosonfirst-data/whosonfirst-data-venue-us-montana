@@ -1,0 +1,71 @@
+{
+  "id": 873660155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.023043,46.889905,-114.023043,46.889905",
+    "geom:latitude":46.889905,
+    "geom:longitude":-114.023043,
+    "iso:country":"US",
+    "sg:address":"2414 Leo Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 0351",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ODXTjq9761AtIrNVLVXh6_46.889905_-114.023043@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295700,
+    "wof:geomhash":"00665403fdc799480b11aa4ff00e269f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873660155
+        }
+    ],
+    "wof:id":873660155,
+    "wof:lastmodified":1464295700,
+    "wof:name":"Mountain Valley Pnt & Remodel",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting"
+    ]
+},
+  "bbox": [
+    -114.023043,
+    46.889905,
+    -114.023043,
+    46.889905
+],
+  "geometry": {"coordinates":[-114.023043,46.889905],"type":"Point"}
+}

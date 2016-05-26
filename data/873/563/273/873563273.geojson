@@ -1,0 +1,73 @@
+{
+  "id": 873563273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.572585,45.799248,-108.572585,45.799248",
+    "geom:latitude":45.799248,
+    "geom:longitude":-108.572585,
+    "iso:country":"US",
+    "sg:address":"2219 Green Terrace Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 9006",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medicinal",
+        "prod"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dtS1DIQlNRTd0FS7mM0g2_45.799248_-108.572585@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294535,
+    "wof:geomhash":"6d3da408e63561914cc385f4a402e88f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873563273
+        }
+    ],
+    "wof:id":873563273,
+    "wof:lastmodified":1464294535,
+    "wof:name":"Gm Intl Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinal",
+        "prod"
+    ]
+},
+  "bbox": [
+    -108.572585,
+    45.799248,
+    -108.572585,
+    45.799248
+],
+  "geometry": {"coordinates":[-108.572585,45.799248],"type":"Point"}
+}

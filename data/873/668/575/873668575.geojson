@@ -1,0 +1,83 @@
+{
+  "id": 873668575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.646758,45.71684,-108.646758,45.71684",
+    "geom:latitude":45.71684,
+    "geom:longitude":-108.646758,
+    "iso:country":"US",
+    "sg:address":"2910 S 51st St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7600",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71Obne5viRxeA9TtPcGmOz_45.716840_-108.646758@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295786,
+    "wof:geomhash":"77da44d7dc60bf8f5df1900dc1d9760b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873668575
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873668575
+        }
+    ],
+    "wof:id":873668575,
+    "wof:lastmodified":1464295786,
+    "wof:name":"Beetle's Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -108.646758,
+    45.71684,
+    -108.646758,
+    45.71684
+],
+  "geometry": {"coordinates":[-108.64675800000001,45.71684],"type":"Point"}
+}

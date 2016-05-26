@@ -1,0 +1,75 @@
+{
+  "id": 873601781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.36356,45.862052,-108.36356,45.862052",
+    "geom:latitude":45.862052,
+    "geom:longitude":-108.36356,
+    "iso:country":"US",
+    "sg:address":"5008 Creekmore Rd",
+    "sg:city":"Huntley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 2980",
+    "sg:postcode":"59037",
+    "sg:province":"MT",
+    "sg:tags":[
+        "engineering",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d6It89y2mH7f2ip1bocMl_45.862052_-108.363560@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295006,
+    "wof:geomhash":"1d4b24a13c5d43fdcce35f22cad2f639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873601781
+        }
+    ],
+    "wof:id":873601781,
+    "wof:lastmodified":1464295006,
+    "wof:name":"Casmi",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.36356,
+    45.862052,
+    -108.36356,
+    45.862052
+],
+  "geometry": {"coordinates":[-108.36356000000001,45.862052],"type":"Point"}
+}

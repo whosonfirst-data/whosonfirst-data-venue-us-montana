@@ -1,0 +1,75 @@
+{
+  "id": 873559453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.508555,45.779524,-108.508555,45.779524",
+    "geom:latitude":45.779524,
+    "geom:longitude":-108.508555,
+    "iso:country":"US",
+    "sg:address":"3007 Montana Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 9600",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "instruction",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bl6uf8sTzpDUTHK5AukNu_45.779524_-108.508555@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294493,
+    "wof:geomhash":"ab03c8fecd039b4c3bcb71f1d382017c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873559453
+        }
+    ],
+    "wof:id":873559453,
+    "wof:lastmodified":1464294493,
+    "wof:name":"First Tee Montana",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "golf"
+    ]
+},
+  "bbox": [
+    -108.508555,
+    45.779524,
+    -108.508555,
+    45.779524
+],
+  "geometry": {"coordinates":[-108.508555,45.779524],"type":"Point"}
+}

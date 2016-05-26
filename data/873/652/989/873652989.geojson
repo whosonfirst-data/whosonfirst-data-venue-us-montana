@@ -1,0 +1,73 @@
+{
+  "id": 873652989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.995057,46.872283,-113.995057,46.872283",
+    "geom:latitude":46.872283,
+    "geom:longitude":-113.995057,
+    "iso:country":"US",
+    "sg:address":"149 W Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 1660",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WGkzFGaFFZhhDJndMwNgR_46.872283_-113.995057@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295624,
+    "wof:geomhash":"207a9f852cf2e5b14566b210274d0e5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873652989
+        }
+    ],
+    "wof:id":873652989,
+    "wof:lastmodified":1464295624,
+    "wof:name":"Palace Cooperative",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -113.995057,
+    46.872283,
+    -113.995057,
+    46.872283
+],
+  "geometry": {"coordinates":[-113.995057,46.872283],"type":"Point"}
+}

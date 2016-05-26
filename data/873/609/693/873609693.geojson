@@ -1,0 +1,71 @@
+{
+  "id": 873609693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.322679,48.219029,-114.322679,48.219029",
+    "geom:latitude":48.219029,
+    "geom:longitude":-114.322679,
+    "iso:country":"US",
+    "sg:address":"105 Ridgeview Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 8581",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OfhBpPATcjw8DczB60urQ_48.219029_-114.322679@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295136,
+    "wof:geomhash":"69afb8861ac98a9a5a48a3abffe9d9ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873609693
+        }
+    ],
+    "wof:id":873609693,
+    "wof:lastmodified":1464295136,
+    "wof:name":"Advanced Maintenance Svc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -114.322679,
+    48.219029,
+    -114.322679,
+    48.219029
+],
+  "geometry": {"coordinates":[-114.32267899999999,48.219029],"type":"Point"}
+}

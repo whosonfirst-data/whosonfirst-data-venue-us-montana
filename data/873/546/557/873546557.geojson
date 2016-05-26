@@ -1,0 +1,71 @@
+{
+  "id": 873546557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.973201,46.864487,-113.973201,46.864487",
+    "geom:latitude":46.864487,
+    "geom:longitude":-113.973201,
+    "iso:country":"US",
+    "sg:address":"1003 E Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 8935",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OVyyvdzj33PYnvQB2T1eX_46.864487_-113.973201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294335,
+    "wof:geomhash":"753e3abc41d43f07ba0f3e00d63156bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873546557
+        }
+    ],
+    "wof:id":873546557,
+    "wof:lastmodified":1464294335,
+    "wof:name":"Crazy Mikes Video",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -113.973201,
+    46.864487,
+    -113.973201,
+    46.864487
+],
+  "geometry": {"coordinates":[-113.973201,46.864487],"type":"Point"}
+}

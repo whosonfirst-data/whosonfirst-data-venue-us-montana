@@ -1,0 +1,73 @@
+{
+  "id": 873655093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.329701,48.222463,-114.329701,48.222463",
+    "geom:latitude":48.222463,
+    "geom:longitude":-114.329701,
+    "iso:country":"US",
+    "sg:address":"95 Indian Trail Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 4030",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ka2hoTsk9WR3BxzhNLiWE_48.222463_-114.329701@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295646,
+    "wof:geomhash":"b4186762ff9d858d37e67579e5507fea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873655093
+        }
+    ],
+    "wof:id":873655093,
+    "wof:lastmodified":1464295646,
+    "wof:name":"Comfort Keepers",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -114.329701,
+    48.222463,
+    -114.329701,
+    48.222463
+],
+  "geometry": {"coordinates":[-114.329701,48.222463],"type":"Point"}
+}

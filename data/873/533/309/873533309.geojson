@@ -1,0 +1,74 @@
+{
+  "id": 873533309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566685,45.756652,-108.566685,45.756652",
+    "geom:latitude":45.756652,
+    "geom:longitude":-108.566685,
+    "iso:country":"US",
+    "sg:address":"650 S 20th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 0300",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.americanautobodybillings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54vAkjSzZIelvxqGcgwDQ2_45.756652_-108.566685@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294164,
+    "wof:geomhash":"7f09e99944aba33a0ed9ca85b28d02f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873533309
+        }
+    ],
+    "wof:id":873533309,
+    "wof:lastmodified":1464294164,
+    "wof:name":"American Auto Body Inc",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -108.566685,
+    45.756652,
+    -108.566685,
+    45.756652
+],
+  "geometry": {"coordinates":[-108.56668500000001,45.756652],"type":"Point"}
+}

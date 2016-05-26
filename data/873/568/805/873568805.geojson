@@ -1,0 +1,70 @@
+{
+  "id": 873568805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.96571,46.884684,-113.96571,46.884684",
+    "geom:latitude":46.884684,
+    "geom:longitude":-113.96571,
+    "iso:country":"US",
+    "sg:address":"1209 Lolo St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 3350",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.lsbcmissoula.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28nZtiClqq41DbewB53Pr1_46.884684_-113.965710@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294593,
+    "wof:geomhash":"2ef884dc8dbceeb6b6b92f73b8aa1d0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873568805
+        }
+    ],
+    "wof:id":873568805,
+    "wof:lastmodified":1464294593,
+    "wof:name":"Lincoln School Baptist Church",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -113.96571,
+    46.884684,
+    -113.96571,
+    46.884684
+],
+  "geometry": {"coordinates":[-113.96571,46.884684],"type":"Point"}
+}

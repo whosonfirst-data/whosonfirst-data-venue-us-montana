@@ -1,0 +1,71 @@
+{
+  "id": 873618037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.761514,45.671486,-108.761514,45.671486",
+    "geom:latitude":45.671486,
+    "geom:longitude":-108.761514,
+    "iso:country":"US",
+    "sg:address":"701 E Main St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 4247",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KXgdA7ikARAzBK38XRWQg_45.671486_-108.761514@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295224,
+    "wof:geomhash":"1b5b55abdc2398392d887041ce6a48e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873618037
+        }
+    ],
+    "wof:id":873618037,
+    "wof:lastmodified":1464295224,
+    "wof:name":"Railside Diner Inc",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.761514,
+    45.671486,
+    -108.761514,
+    45.671486
+],
+  "geometry": {"coordinates":[-108.76151400000001,45.671486],"type":"Point"}
+}

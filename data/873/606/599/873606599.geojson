@@ -1,0 +1,79 @@
+{
+  "id": 873606599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.588438,45.778481,-108.588438,45.778481",
+    "geom:latitude":45.778481,
+    "geom:longitude":-108.588438,
+    "iso:country":"US",
+    "sg:address":"825 Lynwood Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 1535",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q4Ak1pv5klQTVXvaKiLUU_45.778481_-108.588438@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295068,
+    "wof:geomhash":"1974dc5f1de157204231b3936fd053d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873606599
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873606599
+        }
+    ],
+    "wof:id":873606599,
+    "wof:lastmodified":1464295068,
+    "wof:name":"Hein Rodney",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -108.588438,
+    45.778481,
+    -108.588438,
+    45.778481
+],
+  "geometry": {"coordinates":[-108.588438,45.778481],"type":"Point"}
+}

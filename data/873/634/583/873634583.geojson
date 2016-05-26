@@ -1,0 +1,73 @@
+{
+  "id": 873634583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.561257,45.66062,-110.561257,45.66062",
+    "geom:latitude":45.66062,
+    "geom:longitude":-110.561257,
+    "iso:country":"US",
+    "sg:address":"219 W Callender St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 1508",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7faB01vetFYt7FWA6pKIkl_45.660620_-110.561257@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295419,
+    "wof:geomhash":"6c3bdbb0de6ca566e3e104abf03e7b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873634583
+        }
+    ],
+    "wof:id":873634583,
+    "wof:lastmodified":1464295419,
+    "wof:name":"Ebert Apartments",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -110.561257,
+    45.66062,
+    -110.561257,
+    45.66062
+],
+  "geometry": {"coordinates":[-110.561257,45.66062],"type":"Point"}
+}

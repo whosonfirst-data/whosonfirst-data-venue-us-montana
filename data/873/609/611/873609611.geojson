@@ -1,0 +1,73 @@
+{
+  "id": 873609611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.166107,45.959525,-108.166107,45.959525",
+    "geom:latitude":45.959525,
+    "geom:longitude":-108.166107,
+    "iso:country":"US",
+    "sg:address":"1477 Ash St",
+    "sg:city":"Worden",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 967 2540",
+    "sg:postcode":"59088",
+    "sg:province":"MT",
+    "sg:tags":[
+        "elementary",
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xIJ8AUJFRHpbcQV1cB2Q3_45.959525_-108.166107@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295135,
+    "wof:geomhash":"4261c9564cb728ec7683de474a1a5840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873609611
+        }
+    ],
+    "wof:id":873609611,
+    "wof:lastmodified":1464295135,
+    "wof:name":"Huntley Project Jr High School",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "secondary"
+    ]
+},
+  "bbox": [
+    -108.166107,
+    45.959525,
+    -108.166107,
+    45.959525
+],
+  "geometry": {"coordinates":[-108.166107,45.959525],"type":"Point"}
+}

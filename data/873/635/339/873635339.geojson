@@ -1,0 +1,73 @@
+{
+  "id": 873635339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.04085,46.88287,-114.04085,46.88287",
+    "geom:latitude":46.88287,
+    "geom:longitude":-114.04085,
+    "iso:country":"US",
+    "sg:address":"3505 Clark Fork Way",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 7724",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "roads",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A7vsBws7GZrychvwpLmPk_46.882870_-114.040850@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295426,
+    "wof:geomhash":"9b5c1d974b06030c275c360eb6379aef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873635339
+        }
+    ],
+    "wof:id":873635339,
+    "wof:lastmodified":1464295426,
+    "wof:name":"L M Neilson and Sons Inc",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roads",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.04085,
+    46.88287,
+    -114.04085,
+    46.88287
+],
+  "geometry": {"coordinates":[-114.04085000000001,46.88287],"type":"Point"}
+}

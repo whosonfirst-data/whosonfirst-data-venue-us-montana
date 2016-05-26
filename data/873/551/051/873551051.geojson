@@ -1,0 +1,68 @@
+{
+  "id": 873551051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.508122,45.780922,-108.508122,45.780922",
+    "geom:latitude":45.780922,
+    "geom:longitude":-108.508122,
+    "iso:country":"US",
+    "sg:address":"2906 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 6067",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GZ9vAEXNt3S25fcXnDLmC_45.780922_-108.508122@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294390,
+    "wof:geomhash":"5da8c4431e038922387521c1eca8fbaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873551051
+        }
+    ],
+    "wof:id":873551051,
+    "wof:lastmodified":1464294390,
+    "wof:name":"Lowell's The Salon",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.508122,
+    45.780922,
+    -108.508122,
+    45.780922
+],
+  "geometry": {"coordinates":[-108.508122,45.780922],"type":"Point"}
+}

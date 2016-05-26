@@ -1,0 +1,71 @@
+{
+  "id": 873658023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.382178,45.900507,-108.382178,45.900507",
+    "geom:latitude":45.900507,
+    "geom:longitude":-108.382178,
+    "iso:country":"US",
+    "sg:address":"6126 Hwy 312",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 5100",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FzZT2Zrgr7RckKB468WDI_45.900507_-108.382178@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295678,
+    "wof:geomhash":"04ec6b7cf4eb5daae78b16b827198a96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873658023
+        }
+    ],
+    "wof:id":873658023,
+    "wof:lastmodified":1464295678,
+    "wof:name":"Town & Country Lounge",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -108.382178,
+    45.900507,
+    -108.382178,
+    45.900507
+],
+  "geometry": {"coordinates":[-108.382178,45.900507],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873676713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.414892,45.85767,-108.414892,45.85767",
+    "geom:latitude":45.85767,
+    "geom:longitude":-108.414892,
+    "iso:country":"US",
+    "sg:address":"3420 Pioneer Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 1638",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bo7AWQW7GHO3J69Jj3Su3_45.857670_-108.414892@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295905,
+    "wof:geomhash":"0774e1c0bc020bc1913fe38ecc746990",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873676713
+        }
+    ],
+    "wof:id":873676713,
+    "wof:lastmodified":1464295905,
+    "wof:name":"Complete Insulation",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.414892,
+    45.85767,
+    -108.414892,
+    45.85767
+],
+  "geometry": {"coordinates":[-108.41489199999999,45.85767],"type":"Point"}
+}

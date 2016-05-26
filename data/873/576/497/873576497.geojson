@@ -1,0 +1,71 @@
+{
+  "id": 873576497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.780572,45.66924,-108.780572,45.66924",
+    "geom:latitude":45.66924,
+    "geom:longitude":-108.780572,
+    "iso:country":"US",
+    "sg:address":"706 W 1st St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 7411",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k5kjEH2pKrdBHOyecRQ4D_45.669240_-108.780572@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294678,
+    "wof:geomhash":"ed9a3265331d8725dfdba3fce766e989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873576497
+        }
+    ],
+    "wof:id":873576497,
+    "wof:lastmodified":1464294678,
+    "wof:name":"R N Appliance Co",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -108.780572,
+    45.66924,
+    -108.780572,
+    45.66924
+],
+  "geometry": {"coordinates":[-108.78057200000001,45.66924],"type":"Point"}
+}

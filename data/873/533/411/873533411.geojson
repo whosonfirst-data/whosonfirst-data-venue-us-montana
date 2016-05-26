@@ -1,0 +1,71 @@
+{
+  "id": 873533411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.587568,45.783937,-108.587568,45.783937",
+    "geom:latitude":45.783937,
+    "geom:longitude":-108.587568,
+    "iso:country":"US",
+    "sg:address":"2808 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 2080",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SrHW1Jh6NXYq8ZUqfAqNg_45.783937_-108.587568@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294168,
+    "wof:geomhash":"8734320cf42dde0d8cd694449f7b7290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873533411
+        }
+    ],
+    "wof:id":873533411,
+    "wof:lastmodified":1464294168,
+    "wof:name":"Harold's Upholstery Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -108.587568,
+    45.783937,
+    -108.587568,
+    45.783937
+],
+  "geometry": {"coordinates":[-108.587568,45.783937],"type":"Point"}
+}

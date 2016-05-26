@@ -1,0 +1,71 @@
+{
+  "id": 873634277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.779152,45.662542,-108.779152,45.662542",
+    "geom:latitude":45.662542,
+    "geom:longitude":-108.779152,
+    "iso:country":"US",
+    "sg:address":"606 S 5th St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 6917",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7711ILpTH6ZtwvYUmhdrY1_45.662542_-108.779152@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295416,
+    "wof:geomhash":"43f69c951d2084245ef67c10587b7291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873634277
+        }
+    ],
+    "wof:id":873634277,
+    "wof:lastmodified":1464295416,
+    "wof:name":"South Elementary School",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -108.779152,
+    45.662542,
+    -108.779152,
+    45.662542
+],
+  "geometry": {"coordinates":[-108.779152,45.662542],"type":"Point"}
+}

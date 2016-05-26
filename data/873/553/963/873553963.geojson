@@ -1,0 +1,73 @@
+{
+  "id": 873553963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.446512,45.823116,-108.446512,45.823116",
+    "geom:latitude":45.823116,
+    "geom:longitude":-108.446512,
+    "iso:country":"US",
+    "sg:address":"1433 Shannon St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 749 1177",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32J4z8W087a9eWEfQoxaW8_45.823116_-108.446512@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294422,
+    "wof:geomhash":"49e5822132860936b96bdd5f283f6534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873553963
+        }
+    ],
+    "wof:id":873553963,
+    "wof:lastmodified":1464294422,
+    "wof:name":"Extreme Import Motorsports",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -108.446512,
+    45.823116,
+    -108.446512,
+    45.823116
+],
+  "geometry": {"coordinates":[-108.446512,45.823116],"type":"Point"}
+}

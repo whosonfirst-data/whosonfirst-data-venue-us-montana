@@ -1,0 +1,71 @@
+{
+  "id": 873539485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.027607,48.137579,-114.027607,48.137579",
+    "geom:latitude":48.137579,
+    "geom:longitude":-114.027607,
+    "iso:country":"US",
+    "sg:address":"502 Echo Creek Rd",
+    "sg:city":"Bigfork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 837 0502",
+    "sg:postcode":"59911",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uFwCvwJuuW0qWn2vb10Yh_48.137579_-114.027607@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294255,
+    "wof:geomhash":"2e9fc17d8d5f11034ad9952379d09f9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873539485
+        }
+    ],
+    "wof:id":873539485,
+    "wof:lastmodified":1464294255,
+    "wof:name":"Echo Creek Builders",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -114.027607,
+    48.137579,
+    -114.027607,
+    48.137579
+],
+  "geometry": {"coordinates":[-114.027607,48.137579],"type":"Point"}
+}

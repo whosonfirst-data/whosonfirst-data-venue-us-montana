@@ -1,0 +1,71 @@
+{
+  "id": 873596123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.555198,45.787201,-108.555198,45.787201",
+    "geom:latitude":45.787201,
+    "geom:longitude":-108.555198,
+    "iso:country":"US",
+    "sg:address":"1645 Ave D",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8202",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Iud2oZPunY1p1ZOrsRCI4_45.787201_-108.555198@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294928,
+    "wof:geomhash":"0815097854872487791f2e4cc7cffa6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873596123
+        }
+    ],
+    "wof:id":873596123,
+    "wof:lastmodified":1464294928,
+    "wof:name":"Bacheller Law Firm",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -108.555198,
+    45.787201,
+    -108.555198,
+    45.787201
+],
+  "geometry": {"coordinates":[-108.555198,45.787201],"type":"Point"}
+}

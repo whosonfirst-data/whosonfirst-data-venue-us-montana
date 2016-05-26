@@ -1,0 +1,73 @@
+{
+  "id": 873545241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.137244,48.198235,-114.137244,48.198235",
+    "geom:latitude":48.198235,
+    "geom:longitude":-114.137244,
+    "iso:country":"US",
+    "sg:address":"295 Creston Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 8044",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mn8MyoUFF80Op6VEXXObM_48.198235_-114.137244@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294318,
+    "wof:geomhash":"9c48ef185c30d652dcd2eed9b53800b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873545241
+        }
+    ],
+    "wof:id":873545241,
+    "wof:lastmodified":1464294318,
+    "wof:name":"Brenneman Building",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.137244,
+    48.198235,
+    -114.137244,
+    48.198235
+],
+  "geometry": {"coordinates":[-114.137244,48.198235],"type":"Point"}
+}

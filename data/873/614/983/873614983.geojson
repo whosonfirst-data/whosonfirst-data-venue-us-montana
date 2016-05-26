@@ -1,0 +1,71 @@
+{
+  "id": 873614983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.622905,45.795872,-108.622905,45.795872",
+    "geom:latitude":45.795872,
+    "geom:longitude":-108.622905,
+    "iso:country":"US",
+    "sg:address":"2620 Westfield Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 0884",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bMAeEAatAht0VFEETZuxW_45.795872_-108.622905@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295195,
+    "wof:geomhash":"d683eebf4c46ed6dc11ac8a371b2c143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873614983
+        }
+    ],
+    "wof:id":873614983,
+    "wof:lastmodified":1464295195,
+    "wof:name":"Anestesiologist of Montana PC",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -108.622905,
+    45.795872,
+    -108.622905,
+    45.795872
+],
+  "geometry": {"coordinates":[-108.622905,45.795872],"type":"Point"}
+}

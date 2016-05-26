@@ -1,0 +1,75 @@
+{
+  "id": 873544013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.533812,45.998174,-112.533812,45.998174",
+    "geom:latitude":45.998174,
+    "geom:longitude":-112.533812,
+    "iso:country":"US",
+    "sg:address":"1223 Kaw Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 5060",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cB0fiZ4jODDTMAC8makxJ_45.998174_-112.533812@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294306,
+    "wof:geomhash":"d96bcfcc1108dfd0202c23bcd1991d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873544013
+        }
+    ],
+    "wof:id":873544013,
+    "wof:lastmodified":1464294306,
+    "wof:name":"Kaw Avenue Storage",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -112.533812,
+    45.998174,
+    -112.533812,
+    45.998174
+],
+  "geometry": {"coordinates":[-112.533812,45.998174],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873549679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576223,45.753536,-108.576223,45.753536",
+    "geom:latitude":45.753536,
+    "geom:longitude":-108.576223,
+    "iso:country":"US",
+    "sg:address":"1010 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 5638",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LZWvWBSx0ApXy9aJA3jhE_45.753536_-108.576223@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294374,
+    "wof:geomhash":"d700ce5e5c592da670179367a22a9930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873549679
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873549679
+        }
+    ],
+    "wof:id":873549679,
+    "wof:lastmodified":1464294374,
+    "wof:name":"Dan Fleury Construction Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -108.576223,
+    45.753536,
+    -108.576223,
+    45.753536
+],
+  "geometry": {"coordinates":[-108.576223,45.753536],"type":"Point"}
+}

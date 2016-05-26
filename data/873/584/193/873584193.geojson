@@ -1,0 +1,71 @@
+{
+  "id": 873584193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.351981,48.411442,-114.351981,48.411442",
+    "geom:latitude":48.411442,
+    "geom:longitude":-114.351981,
+    "iso:country":"US",
+    "sg:address":"95 Karrow Ave",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 5552",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BHsBLy20LNAjPUPLrwpUy_48.411442_-114.351981@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294765,
+    "wof:geomhash":"22f8db48000f7e073b88b74311608684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873584193
+        }
+    ],
+    "wof:id":873584193,
+    "wof:lastmodified":1464294765,
+    "wof:name":"Idaho Timber Corp",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -114.351981,
+    48.411442,
+    -114.351981,
+    48.411442
+],
+  "geometry": {"coordinates":[-114.35198099999999,48.411442],"type":"Point"}
+}

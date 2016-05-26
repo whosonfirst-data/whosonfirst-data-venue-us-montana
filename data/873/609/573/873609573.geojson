@@ -1,0 +1,71 @@
+{
+  "id": 873609573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.286723,48.147402,-114.286723,48.147402",
+    "geom:latitude":48.147402,
+    "geom:longitude":-114.286723,
+    "iso:country":"US",
+    "sg:address":"3444 US Hwy 93 S",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 253 7632",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mIZZ3U2AVyzsnHsHFFfBq_48.147402_-114.286723@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295134,
+    "wof:geomhash":"eedea9f060c367b47f94058907bfce4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873609573
+        }
+    ],
+    "wof:id":873609573,
+    "wof:lastmodified":1464295134,
+    "wof:name":"Sodablast",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.286723,
+    48.147402,
+    -114.286723,
+    48.147402
+],
+  "geometry": {"coordinates":[-114.28672299999999,48.147402],"type":"Point"}
+}

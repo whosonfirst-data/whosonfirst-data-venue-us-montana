@@ -1,0 +1,74 @@
+{
+  "id": 873588095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.58882,45.780601,-108.58882,45.780601",
+    "geom:latitude":45.780601,
+    "geom:longitude":-108.58882,
+    "iso:country":"US",
+    "sg:address":"1105 29th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 7995",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1auM5S5OKg93nA0vrY9lzj_45.780601_-108.588820@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294808,
+    "wof:geomhash":"5ce6d0baf008cd4798166e9d4a7582e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873588095
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873588095
+        }
+    ],
+    "wof:id":873588095,
+    "wof:lastmodified":1464294808,
+    "wof:name":"Dempsey Sons & Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.58882,
+    45.780601,
+    -108.58882,
+    45.780601
+],
+  "geometry": {"coordinates":[-108.58882,45.780601],"type":"Point"}
+}

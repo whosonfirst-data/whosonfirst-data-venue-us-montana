@@ -1,0 +1,77 @@
+{
+  "id": 873660001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.547966,45.891054,-111.547966,45.891054",
+    "geom:latitude":45.891054,
+    "geom:longitude":-111.547966,
+    "iso:country":"US",
+    "sg:address":"406 3rd Ave E",
+    "sg:city":"Three Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 285 3390",
+    "sg:postcode":"59752",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972961,
+        102085133,
+        420525741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uY4hC8hRhZDSW4KhxMYKR_45.891054_-111.547966@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295698,
+    "wof:geomhash":"a7d747d4c05450d7701eee38ab742929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972961,
+            "neighbourhood_id":420525741,
+            "region_id":85688617,
+            "venue_id":873660001
+        }
+    ],
+    "wof:id":873660001,
+    "wof:lastmodified":1464295698,
+    "wof:name":"Landers Auto Body",
+    "wof:parent_id":420525741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -111.547966,
+    45.891054,
+    -111.547966,
+    45.891054
+],
+  "geometry": {"coordinates":[-111.547966,45.891054],"type":"Point"}
+}

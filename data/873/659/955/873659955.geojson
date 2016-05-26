@@ -1,0 +1,73 @@
+{
+  "id": 873659955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.042823,46.831225,-114.042823,46.831225",
+    "geom:latitude":46.831225,
+    "geom:longitude":-114.042823,
+    "iso:country":"US",
+    "sg:address":"4314 Gharrett St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 5216",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_338LZ012JcySK4ORnVvYPN_46.831225_-114.042823@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295698,
+    "wof:geomhash":"1f2f2abd7be4577a6f6ff5b22650462c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873659955
+        }
+    ],
+    "wof:id":873659955,
+    "wof:lastmodified":1464295698,
+    "wof:name":"Minuteman Electrical Contg",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.042823,
+    46.831225,
+    -114.042823,
+    46.831225
+],
+  "geometry": {"coordinates":[-114.042823,46.831225],"type":"Point"}
+}

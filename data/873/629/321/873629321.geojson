@@ -1,0 +1,73 @@
+{
+  "id": 873629321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.996349,46.870574,-113.996349,46.870574",
+    "geom:latitude":46.870574,
+    "geom:longitude":-113.996349,
+    "iso:country":"US",
+    "sg:address":"132 W Front St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 8379",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aluquE88XAhXvyBjZkXdi_46.870574_-113.996349@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295358,
+    "wof:geomhash":"0cfdf99343bb49b3ee146c1bedb0e71c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873629321
+        }
+    ],
+    "wof:id":873629321,
+    "wof:lastmodified":1464295358,
+    "wof:name":"Garr Brothers Partnership",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -113.996349,
+    46.870574,
+    -113.996349,
+    46.870574
+],
+  "geometry": {"coordinates":[-113.996349,46.870574],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873630611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.545121,45.670959,-110.545121,45.670959",
+    "geom:latitude":45.670959,
+    "geom:longitude":-110.545121,
+    "iso:country":"US",
+    "sg:address":"1500 E Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 8025",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jHXAIiIEswTIo83G96f5Z_45.670959_-110.545121@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295371,
+    "wof:geomhash":"a4da04baf41c063f803780048e4d0680",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873630611
+        }
+    ],
+    "wof:id":873630611,
+    "wof:lastmodified":1464295371,
+    "wof:name":"Krohne Island Antiques",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -110.545121,
+    45.670959,
+    -110.545121,
+    45.670959
+],
+  "geometry": {"coordinates":[-110.54512099999999,45.670959],"type":"Point"}
+}

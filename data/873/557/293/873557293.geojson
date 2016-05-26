@@ -1,0 +1,71 @@
+{
+  "id": 873557293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.959606,46.898308,-113.959606,46.898308",
+    "geom:latitude":46.898308,
+    "geom:longitude":-113.959606,
+    "iso:country":"US",
+    "sg:address":"106 Applehouse Ln",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 1364",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "guard",
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891733,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ftSNjF3qehYult38SZz0e_46.898308_-113.959606@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294463,
+    "wof:geomhash":"f8e18922951e83b9b54a35eb18fefe80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891733,
+            "region_id":85688617,
+            "venue_id":873557293
+        }
+    ],
+    "wof:id":873557293,
+    "wof:lastmodified":1464294463,
+    "wof:name":"George L Meltzer",
+    "wof:parent_id":85891733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "contract"
+    ]
+},
+  "bbox": [
+    -113.959606,
+    46.898308,
+    -113.959606,
+    46.898308
+],
+  "geometry": {"coordinates":[-113.95960599999999,46.898308],"type":"Point"}
+}

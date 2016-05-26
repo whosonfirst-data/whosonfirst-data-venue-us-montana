@@ -1,0 +1,75 @@
+{
+  "id": 873606083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.536883,45.802516,-108.536883,45.802516",
+    "geom:latitude":45.802516,
+    "geom:longitude":-108.536883,
+    "iso:country":"US",
+    "sg:address":"1901 Terminal Cir",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 8498",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102528971,
+        85876251,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85688617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2byBU9Cat8w7cXkgWqwYHx_45.802516_-108.536883@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295059,
+    "wof:geomhash":"9287401b3e20588a8325ca1d6ab23ca5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528971,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873606083
+        }
+    ],
+    "wof:id":873606083,
+    "wof:lastmodified":1464295059,
+    "wof:name":"Billings Airport Police",
+    "wof:parent_id":102528971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -108.536883,
+    45.802516,
+    -108.536883,
+    45.802516
+],
+  "geometry": {"coordinates":[-108.536883,45.802516],"type":"Point"}
+}

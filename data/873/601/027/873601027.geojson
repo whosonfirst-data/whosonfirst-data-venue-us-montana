@@ -1,0 +1,71 @@
+{
+  "id": 873601027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.5879,45.773762,-108.5879,45.773762",
+    "geom:latitude":45.773762,
+    "geom:longitude":-108.5879,
+    "iso:country":"US",
+    "sg:address":"2907 Howard Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 6881",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "guard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nUrz8j2HvGjvLPRHQnAsc_45.773762_-108.587900@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294998,
+    "wof:geomhash":"36ca93fefb30f3539c6e1e53a0d2d6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873601027
+        }
+    ],
+    "wof:id":873601027,
+    "wof:lastmodified":1464294998,
+    "wof:name":"Dennis McCave",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard"
+    ]
+},
+  "bbox": [
+    -108.5879,
+    45.773762,
+    -108.5879,
+    45.773762
+],
+  "geometry": {"coordinates":[-108.5879,45.773762],"type":"Point"}
+}

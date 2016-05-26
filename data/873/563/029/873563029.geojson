@@ -1,0 +1,71 @@
+{
+  "id": 873563029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.458774,45.79842,-108.458774,45.79842",
+    "geom:latitude":45.79842,
+    "geom:longitude":-108.458774,
+    "iso:country":"US",
+    "sg:address":"1140 N Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 0435",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D8d2OjKfGheYhwoJloLJP_45.798420_-108.458774@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294531,
+    "wof:geomhash":"e204e99edd232feff5c36c19dbd27e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873563029
+        }
+    ],
+    "wof:id":873563029,
+    "wof:lastmodified":1464294531,
+    "wof:name":"Express Trailer Svc",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -108.458774,
+    45.79842,
+    -108.458774,
+    45.79842
+],
+  "geometry": {"coordinates":[-108.45877400000001,45.79842],"type":"Point"}
+}

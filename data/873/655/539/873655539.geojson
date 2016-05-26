@@ -1,0 +1,73 @@
+{
+  "id": 873655539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.328749,48.223716,-114.328749,48.223716",
+    "geom:latitude":48.223716,
+    "geom:longitude":-114.328749,
+    "iso:country":"US",
+    "sg:address":"225 Farview Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 3157",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vC6xj8N8MX7xzjRQWiHfb_48.223716_-114.328749@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295651,
+    "wof:geomhash":"42d7176884b8eca3d703273f404f015b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873655539
+        }
+    ],
+    "wof:id":873655539,
+    "wof:lastmodified":1464295651,
+    "wof:name":"Larry Zorb",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -114.328749,
+    48.223716,
+    -114.328749,
+    48.223716
+],
+  "geometry": {"coordinates":[-114.328749,48.223716],"type":"Point"}
+}

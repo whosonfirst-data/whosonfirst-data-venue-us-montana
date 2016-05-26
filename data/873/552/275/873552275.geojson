@@ -1,0 +1,76 @@
+{
+  "id": 873552275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.311287,48.196037,-114.311287,48.196037",
+    "geom:latitude":48.196037,
+    "geom:longitude":-114.311287,
+    "iso:country":"US",
+    "sg:address":"306 1st Ave E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 758 7720",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "sg:website":"www.publicworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21Z8aHAShrxtBw0HNKPOEI_48.196037_-114.311287@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294404,
+    "wof:geomhash":"1ebfcdb24d1bade12f5a5148ee3c7563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873552275
+        }
+    ],
+    "wof:id":873552275,
+    "wof:lastmodified":1464294404,
+    "wof:name":"Kalispell Public Works",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -114.311287,
+    48.196037,
+    -114.311287,
+    48.196037
+],
+  "geometry": {"coordinates":[-114.31128699999999,48.196037],"type":"Point"}
+}

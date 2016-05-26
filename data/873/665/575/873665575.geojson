@@ -1,0 +1,71 @@
+{
+  "id": 873665575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.311911,48.197623,-114.311911,48.197623",
+    "geom:latitude":48.197623,
+    "geom:longitude":-114.311911,
+    "iso:country":"US",
+    "sg:address":"138 1st Ave E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 6004",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pSsNKwiFYmBDm8NyzeOkS_48.197623_-114.311911@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295756,
+    "wof:geomhash":"b50a31ad8d434ca00bd934b08d66339b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873665575
+        }
+    ],
+    "wof:id":873665575,
+    "wof:lastmodified":1464295756,
+    "wof:name":"Whiskers Barber Shop",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -114.311911,
+    48.197623,
+    -114.311911,
+    48.197623
+],
+  "geometry": {"coordinates":[-114.31191099999999,48.197623],"type":"Point"}
+}

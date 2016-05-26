@@ -1,0 +1,71 @@
+{
+  "id": 873600293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.558296,45.656047,-110.558296,45.656047",
+    "geom:latitude":45.656047,
+    "geom:longitude":-110.558296,
+    "iso:country":"US",
+    "sg:address":"318 W Butte St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 9262",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pJSaic17bE4fHpNWi1fdq_45.656047_-110.558296@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294990,
+    "wof:geomhash":"e58c53d1bcbf86cac2c5a11fe1633d98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873600293
+        }
+    ],
+    "wof:id":873600293,
+    "wof:lastmodified":1464294990,
+    "wof:name":"Expert Window Cleaning",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -110.558296,
+    45.656047,
+    -110.558296,
+    45.656047
+],
+  "geometry": {"coordinates":[-110.558296,45.656047],"type":"Point"}
+}

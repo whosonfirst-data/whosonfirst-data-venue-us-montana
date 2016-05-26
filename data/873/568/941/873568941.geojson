@@ -1,0 +1,73 @@
+{
+  "id": 873568941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.495745,48.181891,-114.495745,48.181891",
+    "geom:latitude":48.181891,
+    "geom:longitude":-114.495745,
+    "iso:country":"US",
+    "sg:address":"1631 Ashley Lake Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 5410",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P2Qr6NxasGgeHTruPeIEA_48.181891_-114.495745@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294595,
+    "wof:geomhash":"9f885e0ca1b7b96502c6ccf0a870a8a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873568941
+        }
+    ],
+    "wof:id":873568941,
+    "wof:lastmodified":1464294595,
+    "wof:name":"John Bauer Logging Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -114.495745,
+    48.181891,
+    -114.495745,
+    48.181891
+],
+  "geometry": {"coordinates":[-114.495745,48.181891],"type":"Point"}
+}

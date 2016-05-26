@@ -1,0 +1,71 @@
+{
+  "id": 873621017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.560016,45.661478,-110.560016,45.661478",
+    "geom:latitude":45.661478,
+    "geom:longitude":-110.560016,
+    "iso:country":"US",
+    "sg:address":"113 E Callender St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 7720",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "theatrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_603aOgOf0JUE5pgRIvVmYR_45.661478_-110.560016@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295261,
+    "wof:geomhash":"e87117a24bcb4e6ae452796ed827366d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873621017
+        }
+    ],
+    "wof:id":873621017,
+    "wof:lastmodified":1464295261,
+    "wof:name":"Blue Slipper Theatre",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatrical"
+    ]
+},
+  "bbox": [
+    -110.560016,
+    45.661478,
+    -110.560016,
+    45.661478
+],
+  "geometry": {"coordinates":[-110.560016,45.661478],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873534701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.569045,45.798581,-108.569045,45.798581",
+    "geom:latitude":45.798581,
+    "geom:longitude":-108.569045,
+    "iso:country":"US",
+    "sg:address":"2110 Rimrock Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 8985",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MgD3XtLTImUtji7jhUTk3_45.798581_-108.569045@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294200,
+    "wof:geomhash":"9c90b7915d2cc4d249e68633fbf97575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873534701
+        }
+    ],
+    "wof:id":873534701,
+    "wof:lastmodified":1464294200,
+    "wof:name":"B C Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.569045,
+    45.798581,
+    -108.569045,
+    45.798581
+],
+  "geometry": {"coordinates":[-108.569045,45.798581],"type":"Point"}
+}

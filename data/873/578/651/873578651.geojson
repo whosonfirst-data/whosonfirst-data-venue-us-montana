@@ -1,0 +1,71 @@
+{
+  "id": 873578651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.164613,48.278555,-114.164613,48.278555",
+    "geom:latitude":48.278555,
+    "geom:longitude":-114.164613,
+    "iso:country":"US",
+    "sg:address":"1589 State Hwy 206",
+    "sg:city":"Columbia Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 4358",
+    "sg:postcode":"59912",
+    "sg:province":"MT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oLzguKWSExmjsA5rRpcBe_48.278555_-114.164613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294701,
+    "wof:geomhash":"533b9366d1cebda8950d8c116ab178a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873578651
+        }
+    ],
+    "wof:id":873578651,
+    "wof:lastmodified":1464294701,
+    "wof:name":"Kellys Painting Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -114.164613,
+    48.278555,
+    -114.164613,
+    48.278555
+],
+  "geometry": {"coordinates":[-114.164613,48.278555],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873557363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.475235,45.964579,-112.475235,45.964579",
+    "geom:latitude":45.964579,
+    "geom:longitude":-112.475235,
+    "iso:country":"US",
+    "sg:address":"4500 Continental Dr",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 3660",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pFhTT3Tgnz8FOIro8Maxd_45.964579_-112.475235@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294464,
+    "wof:geomhash":"4ddf69370bc406aa9c303f9c0a507e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873557363
+        }
+    ],
+    "wof:id":873557363,
+    "wof:lastmodified":1464294464,
+    "wof:name":"Atherton Apartments",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -112.475235,
+    45.964579,
+    -112.475235,
+    45.964579
+],
+  "geometry": {"coordinates":[-112.475235,45.964579],"type":"Point"}
+}

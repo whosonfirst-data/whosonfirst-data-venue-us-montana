@@ -1,0 +1,77 @@
+{
+  "id": 873546013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566557,45.760292,-108.566557,45.760292",
+    "geom:latitude":45.760292,
+    "geom:longitude":-108.566557,
+    "iso:country":"US",
+    "sg:address":"533 S 20th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 2390",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "commercial",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LUyQa4v76XKTq0IFabofi_45.760292_-108.566557@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294328,
+    "wof:geomhash":"66cfcad91b7a3806419a6659174cf63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873546013
+        }
+    ],
+    "wof:id":873546013,
+    "wof:lastmodified":1464294328,
+    "wof:name":"Secure It Mini Storage",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -108.566557,
+    45.760292,
+    -108.566557,
+    45.760292
+],
+  "geometry": {"coordinates":[-108.566557,45.760292],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873585119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.012602,46.835662,-114.012602,46.835662",
+    "geom:latitude":46.835662,
+    "geom:longitude":-114.012602,
+    "iso:country":"US",
+    "sg:address":"690 SW Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 0272",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ohvlr5uA3dvbz3lQdmtpz_46.835662_-114.012602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294774,
+    "wof:geomhash":"6f134c94dda571152086ca87495bd202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873585119
+        }
+    ],
+    "wof:id":873585119,
+    "wof:lastmodified":1464294774,
+    "wof:name":"Welschbeckmann Dental Lab Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -114.012602,
+    46.835662,
+    -114.012602,
+    46.835662
+],
+  "geometry": {"coordinates":[-114.012602,46.835662],"type":"Point"}
+}

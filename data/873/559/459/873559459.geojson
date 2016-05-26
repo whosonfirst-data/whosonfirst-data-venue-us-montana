@@ -1,0 +1,68 @@
+{
+  "id": 873559459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.503678,45.778283,-108.503678,45.778283",
+    "geom:latitude":45.778283,
+    "geom:longitude":-108.503678,
+    "iso:country":"US",
+    "sg:address":"117 S 29th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 9297",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZqFWt71TdBB12egD08PWL_45.778283_-108.503678@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294494,
+    "wof:geomhash":"310df6e44a56f46c592c01647c94b188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873559459
+        }
+    ],
+    "wof:id":873559459,
+    "wof:lastmodified":1464294494,
+    "wof:name":"Mi Barrio",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.503678,
+    45.778283,
+    -108.503678,
+    45.778283
+],
+  "geometry": {"coordinates":[-108.50367799999999,45.778283],"type":"Point"}
+}

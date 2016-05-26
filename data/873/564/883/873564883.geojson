@@ -1,0 +1,73 @@
+{
+  "id": 873564883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.067049,45.656066,-111.067049,45.656066",
+    "geom:latitude":45.656066,
+    "geom:longitude":-111.067049,
+    "iso:country":"US",
+    "sg:address":"32 S Discovery Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 582 0221",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "land",
+        "survey"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G0pUSZSRASgouaAwk85wG_45.656066_-111.067049@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294553,
+    "wof:geomhash":"3448403089460035577e3fab27af3d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891709,
+            "region_id":85688617,
+            "venue_id":873564883
+        }
+    ],
+    "wof:id":873564883,
+    "wof:lastmodified":1464294553,
+    "wof:name":"Allied Engineering Services",
+    "wof:parent_id":85891709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "land",
+        "survey"
+    ]
+},
+  "bbox": [
+    -111.067049,
+    45.656066,
+    -111.067049,
+    45.656066
+],
+  "geometry": {"coordinates":[-111.067049,45.656066],"type":"Point"}
+}

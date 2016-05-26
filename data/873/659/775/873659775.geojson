@@ -1,0 +1,73 @@
+{
+  "id": 873659775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.145191,45.949463,-108.145191,45.949463",
+    "geom:latitude":45.949463,
+    "geom:longitude":-108.145191,
+    "iso:country":"US",
+    "sg:address":"2291 2nd St W",
+    "sg:city":"Ballantine",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 967 3400",
+    "sg:postcode":"59006",
+    "sg:province":"MT",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1soqMrMUAvtUilTBw6bia0_45.949463_-108.145191@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295696,
+    "wof:geomhash":"e879f9414bd3dcda8eb467e718c880b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873659775
+        }
+    ],
+    "wof:id":873659775,
+    "wof:lastmodified":1464295696,
+    "wof:name":"US Huntley Project Irrigation",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -108.145191,
+    45.949463,
+    -108.145191,
+    45.949463
+],
+  "geometry": {"coordinates":[-108.145191,45.949463],"type":"Point"}
+}

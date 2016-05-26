@@ -1,0 +1,73 @@
+{
+  "id": 873633985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.266039,48.225991,-114.266039,48.225991",
+    "geom:latitude":48.225991,
+    "geom:longitude":-114.266039,
+    "iso:country":"US",
+    "sg:address":"333 Edgewood Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 4274",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VxRBKkolx3HbjCrsYOgGo_48.225991_-114.266039@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295413,
+    "wof:geomhash":"daeeb395ba6f463db7b102a83198155e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873633985
+        }
+    ],
+    "wof:id":873633985,
+    "wof:lastmodified":1464295413,
+    "wof:name":"Ponderosa Machine",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -114.266039,
+    48.225991,
+    -114.266039,
+    48.225991
+],
+  "geometry": {"coordinates":[-114.26603900000001,48.225991],"type":"Point"}
+}

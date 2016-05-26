@@ -1,0 +1,71 @@
+{
+  "id": 873577049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.038638,46.806131,-114.038638,46.806131",
+    "geom:latitude":46.806131,
+    "geom:longitude":-114.038638,
+    "iso:country":"US",
+    "sg:address":"6720 Gharrett St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 5544",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u6XToBbBK6TcykrwF8Fsy_46.806131_-114.038638@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294684,
+    "wof:geomhash":"79377e9122644d0ab2b29bc2e759f880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873577049
+        }
+    ],
+    "wof:id":873577049,
+    "wof:lastmodified":1464294684,
+    "wof:name":"Clyatt Construction Co",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.038638,
+    46.806131,
+    -114.038638,
+    46.806131
+],
+  "geometry": {"coordinates":[-114.03863800000001,46.806131],"type":"Point"}
+}

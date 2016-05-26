@@ -1,0 +1,71 @@
+{
+  "id": 873562019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.133148,46.870518,-114.133148,46.870518",
+    "geom:latitude":46.870518,
+    "geom:longitude":-114.133148,
+    "iso:country":"US",
+    "sg:address":"1255 Big Flat Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 0330",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53f9gtOBgpWgmI2NosXlmC_46.870518_-114.133148@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294521,
+    "wof:geomhash":"1a2c6258ecb37990ff7395fa0fea4979",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873562019
+        }
+    ],
+    "wof:id":873562019,
+    "wof:lastmodified":1464294521,
+    "wof:name":"Classic Auto Repair",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -114.133148,
+    46.870518,
+    -114.133148,
+    46.870518
+],
+  "geometry": {"coordinates":[-114.13314800000001,46.870518],"type":"Point"}
+}

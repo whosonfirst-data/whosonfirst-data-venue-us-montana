@@ -1,0 +1,76 @@
+{
+  "id": 873700399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.508042,45.963451,-112.508042,45.963451",
+    "geom:latitude":45.963451,
+    "geom:longitude":-112.508042,
+    "iso:country":"US",
+    "sg:address":"3901 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/butte/129735-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 1276",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02NsLbwOtaFikH1JjXvbQi_45.963451_-112.508042@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296410,
+    "wof:geomhash":"5d8b952287bf39c1435c261bb6fe21b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873700399
+        }
+    ],
+    "wof:id":873700399,
+    "wof:lastmodified":1464296410,
+    "wof:name":"Subway",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -112.508042,
+    45.963451,
+    -112.508042,
+    45.963451
+],
+  "geometry": {"coordinates":[-112.508042,45.963451],"type":"Point"}
+}

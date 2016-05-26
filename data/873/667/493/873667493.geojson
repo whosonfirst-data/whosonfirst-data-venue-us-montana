@@ -1,0 +1,77 @@
+{
+  "id": 873667493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.645416,45.71119,-108.645416,45.71119",
+    "geom:latitude":45.71119,
+    "geom:longitude":-108.645416,
+    "iso:country":"US",
+    "sg:address":"9340 S Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7416",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ThHE3xVDEUimiz7skjGyx_45.711190_-108.645416@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295774,
+    "wof:geomhash":"85dcece19c8741f9bb458bcb2729004f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873667493
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873667493
+        }
+    ],
+    "wof:id":873667493,
+    "wof:lastmodified":1464295774,
+    "wof:name":"Health For Life",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -108.645416,
+    45.71119,
+    -108.645416,
+    45.71119
+],
+  "geometry": {"coordinates":[-108.645416,45.71119],"type":"Point"}
+}

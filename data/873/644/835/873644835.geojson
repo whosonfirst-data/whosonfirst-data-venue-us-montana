@@ -1,0 +1,75 @@
+{
+  "id": 873644835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.292245,48.212212,-114.292245,48.212212",
+    "geom:latitude":48.212212,
+    "geom:longitude":-114.292245,
+    "iso:country":"US",
+    "sg:address":"130 Nicholson Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 5861",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "supply",
+        "system",
+        "sewerage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WYB1dUjDhD89Qx8eOaoKs_48.212212_-114.292245@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295535,
+    "wof:geomhash":"d1fbf2fd13b3fd38d9e118388b4aa4c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873644835
+        }
+    ],
+    "wof:id":873644835,
+    "wof:lastmodified":1464295535,
+    "wof:name":"Evergreen Water District",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "system",
+        "sewerage"
+    ]
+},
+  "bbox": [
+    -114.292245,
+    48.212212,
+    -114.292245,
+    48.212212
+],
+  "geometry": {"coordinates":[-114.29224499999999,48.212212],"type":"Point"}
+}

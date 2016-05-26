@@ -1,0 +1,75 @@
+{
+  "id": 873553011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.543212,46.013958,-112.543212,46.013958",
+    "geom:latitude":46.013958,
+    "geom:longitude":-112.543212,
+    "iso:country":"US",
+    "sg:address":"501 W Granite St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 4076",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TXWlyMJVr3wgJ2TQRtDWS_46.013958_-112.543212@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294412,
+    "wof:geomhash":"5e3c1f065b6ab7acda72307a8705b35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873553011
+        }
+    ],
+    "wof:id":873553011,
+    "wof:lastmodified":1464294412,
+    "wof:name":"Mueller Apartments",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -112.543212,
+    46.013958,
+    -112.543212,
+    46.013958
+],
+  "geometry": {"coordinates":[-112.543212,46.013958],"type":"Point"}
+}

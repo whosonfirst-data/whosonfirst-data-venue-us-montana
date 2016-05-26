@@ -1,0 +1,74 @@
+{
+  "id": 873701171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.00921,46.854463,-114.00921,46.854463",
+    "geom:latitude":46.854463,
+    "geom:longitude":-114.00921,
+    "iso:country":"US",
+    "sg:address":"1760 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/81183-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 7272",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kInKpzN2qL4k2HCLxiuHY_46.854463_-114.009210@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296417,
+    "wof:geomhash":"6f71208f590d1a7afd857f79b482add7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873701171
+        }
+    ],
+    "wof:id":873701171,
+    "wof:lastmodified":1464296417,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -114.00921,
+    46.854463,
+    -114.00921,
+    46.854463
+],
+  "geometry": {"coordinates":[-114.00921,46.854463],"type":"Point"}
+}

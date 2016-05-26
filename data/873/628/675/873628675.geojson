@@ -1,0 +1,73 @@
+{
+  "id": 873628675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.589992,45.784108,-108.589992,45.784108",
+    "geom:latitude":45.784108,
+    "geom:longitude":-108.589992,
+    "iso:country":"US",
+    "sg:address":"2915 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 8888",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LbyDIpMlJlHzP38pWMmdz_45.784108_-108.589992@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295346,
+    "wof:geomhash":"85c6f53acddd473f406cfa13fecc0584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873628675
+        }
+    ],
+    "wof:id":873628675,
+    "wof:lastmodified":1464295346,
+    "wof:name":"Bear Star Enterprises Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.589992,
+    45.784108,
+    -108.589992,
+    45.784108
+],
+  "geometry": {"coordinates":[-108.589992,45.784108],"type":"Point"}
+}

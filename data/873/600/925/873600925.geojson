@@ -1,0 +1,71 @@
+{
+  "id": 873600925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.490817,45.789441,-108.490817,45.789441",
+    "geom:latitude":45.789441,
+    "geom:longitude":-108.490817,
+    "iso:country":"US",
+    "sg:address":"1525 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 7000",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hEcpXs9mx4l89zaSB6hvX_45.789441_-108.490817@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294997,
+    "wof:geomhash":"32a2314c5acf927b3c541f0746e6d9bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873600925
+        }
+    ],
+    "wof:id":873600925,
+    "wof:lastmodified":1464294997,
+    "wof:name":"Phillip Hurling Motors",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.490817,
+    45.789441,
+    -108.490817,
+    45.789441
+],
+  "geometry": {"coordinates":[-108.49081700000001,45.789441],"type":"Point"}
+}

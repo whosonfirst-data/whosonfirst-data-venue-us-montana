@@ -1,0 +1,71 @@
+{
+  "id": 873618763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.551335,45.744954,-108.551335,45.744954",
+    "geom:latitude":45.744954,
+    "geom:longitude":-108.551335,
+    "iso:country":"US",
+    "sg:address":"5460 Holiday Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 9484",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m4rZTJoQhejOmd1wP7Gd1_45.744954_-108.551335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295238,
+    "wof:geomhash":"e69e57e34347c38167e597fef2054de8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873618763
+        }
+    ],
+    "wof:id":873618763,
+    "wof:lastmodified":1464295238,
+    "wof:name":"Mikies Central Auto",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.551335,
+    45.744954,
+    -108.551335,
+    45.744954
+],
+  "geometry": {"coordinates":[-108.55133499999999,45.744954],"type":"Point"}
+}

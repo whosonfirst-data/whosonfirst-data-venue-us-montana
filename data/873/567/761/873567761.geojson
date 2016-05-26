@@ -1,0 +1,73 @@
+{
+  "id": 873567761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.459798,45.823344,-108.459798,45.823344",
+    "geom:latitude":45.823344,
+    "geom:longitude":-108.459798,
+    "iso:country":"US",
+    "sg:address":"1422 Cottonwood Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 861 1634",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cho4az0k1kPEqutdlfwDj_45.823344_-108.459798@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294583,
+    "wof:geomhash":"b0e45924fe218523f825c6ba94dd9843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873567761
+        }
+    ],
+    "wof:id":873567761,
+    "wof:lastmodified":1464294583,
+    "wof:name":"M R Concrete",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.459798,
+    45.823344,
+    -108.459798,
+    45.823344
+],
+  "geometry": {"coordinates":[-108.45979800000001,45.823344],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873567833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.268879,47.023528,-114.268879,47.023528",
+    "geom:latitude":47.023528,
+    "geom:longitude":-114.268879,
+    "iso:country":"US",
+    "sg:address":"19290 Mullan Rd",
+    "sg:city":"Frenchtown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 626 4112",
+    "sg:postcode":"59834",
+    "sg:province":"MT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J1QOaE3SB3isvl4hSorln_47.023528_-114.268879@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294584,
+    "wof:geomhash":"98a340c46070db12db562773f9f70b6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873567833
+        }
+    ],
+    "wof:id":873567833,
+    "wof:lastmodified":1464294584,
+    "wof:name":"ONeill Family Day Care",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -114.268879,
+    47.023528,
+    -114.268879,
+    47.023528
+],
+  "geometry": {"coordinates":[-114.268879,47.023528],"type":"Point"}
+}

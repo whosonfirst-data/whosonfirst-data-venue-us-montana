@@ -1,0 +1,75 @@
+{
+  "id": 873673197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.552166,45.893144,-111.552166,45.893144",
+    "geom:latitude":45.893144,
+    "geom:longitude":-111.552166,
+    "iso:country":"US",
+    "sg:address":"20 E Cedar St",
+    "sg:city":"Three Forks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 285 0179",
+    "sg:postcode":"59752",
+    "sg:province":"MT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972961,
+        102085133,
+        420525741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ADajF7duRQ4XQnSDYQUbE_45.893144_-111.552166@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295832,
+    "wof:geomhash":"786601f82849ac51e9631d29df5fb8c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972961,
+            "neighbourhood_id":420525741,
+            "region_id":85688617,
+            "venue_id":873673197
+        }
+    ],
+    "wof:id":873673197,
+    "wof:lastmodified":1464295832,
+    "wof:name":"M & W Machine Inc",
+    "wof:parent_id":420525741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.552166,
+    45.893144,
+    -111.552166,
+    45.893144
+],
+  "geometry": {"coordinates":[-111.552166,45.893144],"type":"Point"}
+}

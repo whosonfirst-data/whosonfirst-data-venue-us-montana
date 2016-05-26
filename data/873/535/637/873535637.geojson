@@ -1,0 +1,72 @@
+{
+  "id": 873535637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.529095,45.751686,-108.529095,45.751686",
+    "geom:latitude":45.751686,
+    "geom:longitude":-108.529095,
+    "iso:country":"US",
+    "sg:address":"4432 S Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 5999",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "auction",
+        "automobile"
+    ],
+    "sg:website":"www.bigskyautoauction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bHmCcabhwsdVyvYYy6SdW_45.751686_-108.529095@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294211,
+    "wof:geomhash":"aac108d8305d266078ceef26eee45bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873535637
+        }
+    ],
+    "wof:id":873535637,
+    "wof:lastmodified":1464294211,
+    "wof:name":"Big Sky Auto Auction",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.529095,
+    45.751686,
+    -108.529095,
+    45.751686
+],
+  "geometry": {"coordinates":[-108.529095,45.751686],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873626705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.334022,48.186219,-114.334022,48.186219",
+    "geom:latitude":48.186219,
+    "geom:longitude":-114.334022,
+    "iso:country":"US",
+    "sg:address":"789 Foys Lake Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 8501",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W9RyMrLFflzcmxm8tbzgf_48.186219_-114.334022@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295327,
+    "wof:geomhash":"dfd36c1b16b2eb1a1f12a75d9317ef54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873626705
+        }
+    ],
+    "wof:id":873626705,
+    "wof:lastmodified":1464295327,
+    "wof:name":"Jim's Paint Shop",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -114.334022,
+    48.186219,
+    -114.334022,
+    48.186219
+],
+  "geometry": {"coordinates":[-114.334022,48.186219],"type":"Point"}
+}

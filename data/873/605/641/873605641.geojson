@@ -1,0 +1,73 @@
+{
+  "id": 873605641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.037163,45.67934,-111.037163,45.67934",
+    "geom:latitude":45.67934,
+    "geom:longitude":-111.037163,
+    "iso:country":"US",
+    "sg:address":"9 E Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 3171",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mawKeAfQ9gFb9s3cY3Z2B_45.679340_-111.037163@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295052,
+    "wof:geomhash":"2b723251dfd64eef974dbb9827df551b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":873605641
+        }
+    ],
+    "wof:id":873605641,
+    "wof:lastmodified":1464295052,
+    "wof:name":"Elegant Touch",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.037163,
+    45.67934,
+    -111.037163,
+    45.67934
+],
+  "geometry": {"coordinates":[-111.03716300000001,45.67934],"type":"Point"}
+}

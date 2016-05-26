@@ -1,0 +1,71 @@
+{
+  "id": 873625501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566516,45.754552,-108.566516,45.754552",
+    "geom:latitude":45.754552,
+    "geom:longitude":-108.566516,
+    "iso:country":"US",
+    "sg:address":"2038 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 6858",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "support",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02gC2MGvdLBXvRidVRlaS9_45.754552_-108.566516@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295316,
+    "wof:geomhash":"fa692b69c2eccb2d4e5aa8bb404e601b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873625501
+        }
+    ],
+    "wof:id":873625501,
+    "wof:lastmodified":1464295316,
+    "wof:name":"King Park Fast Food",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "support",
+        "business"
+    ]
+},
+  "bbox": [
+    -108.566516,
+    45.754552,
+    -108.566516,
+    45.754552
+],
+  "geometry": {"coordinates":[-108.56651599999999,45.754552],"type":"Point"}
+}

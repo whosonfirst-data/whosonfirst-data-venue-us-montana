@@ -1,0 +1,73 @@
+{
+  "id": 873534129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.027529,46.848827,-114.027529,46.848827",
+    "geom:latitude":46.848827,
+    "geom:longitude":-114.027529,
+    "iso:country":"US",
+    "sg:address":"1900 South Ave W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 3231",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eHO9Jeifdh8zDqd7Rld2v_46.848827_-114.027529@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294191,
+    "wof:geomhash":"4aafbbee22f7372c66368c4d56176a3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873534129
+        }
+    ],
+    "wof:id":873534129,
+    "wof:lastmodified":1464294191,
+    "wof:name":"South Avenue Market",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -114.027529,
+    46.848827,
+    -114.027529,
+    46.848827
+],
+  "geometry": {"coordinates":[-114.027529,46.848827],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873650437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.579981,45.749675,-108.579981,45.749675",
+    "geom:latitude":45.749675,
+    "geom:longitude":-108.579981,
+    "iso:country":"US",
+    "sg:address":"2502 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 3502",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "control",
+        "corrosion"
+    ],
+    "sg:website":"www.westtechsupply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nPKKzrs9meWpiYTRKjg57_45.749675_-108.579981@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295592,
+    "wof:geomhash":"6d02cb5acf6f6d0c9aab1e5f649c4aa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873650437
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873650437
+        }
+    ],
+    "wof:id":873650437,
+    "wof:lastmodified":1464295592,
+    "wof:name":"West Tech Supply & Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "corrosion"
+    ]
+},
+  "bbox": [
+    -108.579981,
+    45.749675,
+    -108.579981,
+    45.749675
+],
+  "geometry": {"coordinates":[-108.579981,45.749675],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873634549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.564034,45.759776,-108.564034,45.759776",
+    "geom:latitude":45.759776,
+    "geom:longitude":-108.564034,
+    "iso:country":"US",
+    "sg:address":"2032 Lampman Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 4527",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "glass",
+        "installation",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OQoIm3FEoEo1oyynLc1K6_45.759776_-108.564034@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295418,
+    "wof:geomhash":"9250c559fdb0ed4736e63f33c40e51c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873634549
+        }
+    ],
+    "wof:id":873634549,
+    "wof:lastmodified":1464295418,
+    "wof:name":"Econo Glass Company Inc",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "installation",
+        "residential"
+    ]
+},
+  "bbox": [
+    -108.564034,
+    45.759776,
+    -108.564034,
+    45.759776
+],
+  "geometry": {"coordinates":[-108.56403400000001,45.759776],"type":"Point"}
+}

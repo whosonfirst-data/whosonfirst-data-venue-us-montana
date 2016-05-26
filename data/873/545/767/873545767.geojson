@@ -1,0 +1,73 @@
+{
+  "id": 873545767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.324096,48.2162,-114.324096,48.2162",
+    "geom:latitude":48.2162,
+    "geom:longitude":-114.324096,
+    "iso:country":"US",
+    "sg:address":"210 Sunnyview Ln",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 5252",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aiDHlxAhYvAjQAtM26JDn_48.216200_-114.324096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294325,
+    "wof:geomhash":"d7e49707568ced0d81c4d3e410ba4356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873545767
+        }
+    ],
+    "wof:id":873545767,
+    "wof:lastmodified":1464294325,
+    "wof:name":"Kalispell Ob/Gyn Assoc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -114.324096,
+    48.2162,
+    -114.324096,
+    48.2162
+],
+  "geometry": {"coordinates":[-114.324096,48.2162],"type":"Point"}
+}

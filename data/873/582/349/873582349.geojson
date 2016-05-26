@@ -1,0 +1,72 @@
+{
+  "id": 873582349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.48686,45.792207,-108.48686,45.792207",
+    "geom:latitude":45.792207,
+    "geom:longitude":-108.48686,
+    "iso:country":"US",
+    "sg:address":"122 N 12th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 5548",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "foundry",
+        "bronze"
+    ],
+    "sg:website":"www.billingsbronze.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k89MYVCgL1EfdOKG6eyG2_45.792207_-108.486860@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294746,
+    "wof:geomhash":"2d97ea596f8ae2dc6801db1f7c484f6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873582349
+        }
+    ],
+    "wof:id":873582349,
+    "wof:lastmodified":1464294746,
+    "wof:name":"Billings Bronze",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry",
+        "bronze"
+    ]
+},
+  "bbox": [
+    -108.48686,
+    45.792207,
+    -108.48686,
+    45.792207
+],
+  "geometry": {"coordinates":[-108.48685999999999,45.792207],"type":"Point"}
+}

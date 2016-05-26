@@ -1,0 +1,71 @@
+{
+  "id": 873597997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.994774,46.873558,-113.994774,46.873558",
+    "geom:latitude":46.873558,
+    "geom:longitude":-113.994774,
+    "iso:country":"US",
+    "sg:address":"114 W Pine St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 4103",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FStBwJhsKylJQhRISz1DA_46.873558_-113.994774@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294959,
+    "wof:geomhash":"3aa3f2f283657e3d579591f8d1d31f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873597997
+        }
+    ],
+    "wof:id":873597997,
+    "wof:lastmodified":1464294959,
+    "wof:name":"Defenders of Wildlife",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conservation"
+    ]
+},
+  "bbox": [
+    -113.994774,
+    46.873558,
+    -113.994774,
+    46.873558
+],
+  "geometry": {"coordinates":[-113.99477400000001,46.873558],"type":"Point"}
+}

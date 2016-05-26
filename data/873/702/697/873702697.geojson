@@ -1,0 +1,74 @@
+{
+  "id": 873702697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.02204,46.845902,-114.02204,46.845902",
+    "geom:latitude":46.845902,
+    "geom:longitude":-114.02204,
+    "iso:country":"US",
+    "sg:address":"2710 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/129722-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 0259",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uk4qAX41J38xvORGvJKg5_46.845352_-114.022907@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296432,
+    "wof:geomhash":"107f9ae2477ed4a2e3a299351ab54ca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873702697
+        }
+    ],
+    "wof:id":873702697,
+    "wof:lastmodified":1464296432,
+    "wof:name":"Subway",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -114.02204,
+    46.845902,
+    -114.02204,
+    46.845902
+],
+  "geometry": {"coordinates":[-114.02204,46.845902],"type":"Point"}
+}

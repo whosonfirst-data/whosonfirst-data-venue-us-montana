@@ -1,0 +1,72 @@
+{
+  "id": 873703013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566628,45.75447,-108.566628,45.75447",
+    "geom:latitude":45.75447,
+    "geom:longitude":-108.566628,
+    "iso:country":"US",
+    "sg:address":"2011 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 5455",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "style",
+        "family"
+    ],
+    "sg:website":"http://www.fuddruckers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4he1JR0uoMecO5V6YPzhs4_45.754470_-108.566628@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296435,
+    "wof:geomhash":"456106d9bc321e02c87804d820bf50b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873703013
+        }
+    ],
+    "wof:id":873703013,
+    "wof:lastmodified":1464296435,
+    "wof:name":"Fuddruckers",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family"
+    ]
+},
+  "bbox": [
+    -108.566628,
+    45.75447,
+    -108.566628,
+    45.75447
+],
+  "geometry": {"coordinates":[-108.56662799999999,45.75447],"type":"Point"}
+}

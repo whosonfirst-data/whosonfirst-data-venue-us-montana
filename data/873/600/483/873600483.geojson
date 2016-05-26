@@ -1,0 +1,76 @@
+{
+  "id": 873600483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.498877,45.785583,-108.498877,45.785583",
+    "geom:latitude":45.785583,
+    "geom:longitude":-108.498877,
+    "iso:country":"US",
+    "sg:address":"2223 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8007",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.avis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eAqAM9UlkSN6fCZJxwEn1_45.785583_-108.498877@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294992,
+    "wof:geomhash":"d95ce11f0d4b1b03e259f06fa9dedd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525795,
+            "region_id":85688617,
+            "venue_id":873600483
+        }
+    ],
+    "wof:id":873600483,
+    "wof:lastmodified":1464294992,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":420525795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.498877,
+    45.785583,
+    -108.498877,
+    45.785583
+],
+  "geometry": {"coordinates":[-108.49887699999999,45.785583],"type":"Point"}
+}

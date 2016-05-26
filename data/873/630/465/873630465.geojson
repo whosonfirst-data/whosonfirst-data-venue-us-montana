@@ -1,0 +1,71 @@
+{
+  "id": 873630465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.167759,46.899579,-114.167759,46.899579",
+    "geom:latitude":46.899579,
+    "geom:longitude":-114.167759,
+    "iso:country":"US",
+    "sg:address":"2954 Big Flat Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 4309",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bo9SWp8JvFUf0ROpZbFnH_46.899579_-114.167759@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295370,
+    "wof:geomhash":"1c68a14171a8bbb873dd801b7f33a032",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873630465
+        }
+    ],
+    "wof:id":873630465,
+    "wof:lastmodified":1464295370,
+    "wof:name":"707 Express LLC",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.167759,
+    46.899579,
+    -114.167759,
+    46.899579
+],
+  "geometry": {"coordinates":[-114.167759,46.899579],"type":"Point"}
+}

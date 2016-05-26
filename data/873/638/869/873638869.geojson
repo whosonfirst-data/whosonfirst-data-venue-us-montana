@@ -1,0 +1,71 @@
+{
+  "id": 873638869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.501523,45.804826,-108.501523,45.804826",
+    "geom:latitude":45.804826,
+    "geom:longitude":-108.501523,
+    "iso:country":"US",
+    "sg:address":"443 Wigwam Trl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 860 8786",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cBzpnbCATClYQOjc7eyuG_45.804826_-108.501523@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295463,
+    "wof:geomhash":"bc2e625e169bec78f6a244b4781fa857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873638869
+        }
+    ],
+    "wof:id":873638869,
+    "wof:lastmodified":1464295463,
+    "wof:name":"Stargazer Tile LLC",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.501523,
+    45.804826,
+    -108.501523,
+    45.804826
+],
+  "geometry": {"coordinates":[-108.50152300000001,45.804826],"type":"Point"}
+}

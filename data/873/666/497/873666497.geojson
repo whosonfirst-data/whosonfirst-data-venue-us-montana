@@ -1,0 +1,73 @@
+{
+  "id": 873666497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.589557,45.640955,-110.589557,45.640955",
+    "geom:latitude":45.640955,
+    "geom:longitude":-110.589557,
+    "iso:country":"US",
+    "sg:address":"85 Billman Ln",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 4999",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yxqm4n6QGECtYbrgpHg0x_45.640955_-110.589557@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295764,
+    "wof:geomhash":"7eb6f52ae03237c309dd969f990d783e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873666497
+        }
+    ],
+    "wof:id":873666497,
+    "wof:lastmodified":1464295764,
+    "wof:name":"G&J Enterprises",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -110.589557,
+    45.640955,
+    -110.589557,
+    45.640955
+],
+  "geometry": {"coordinates":[-110.589557,45.640955],"type":"Point"}
+}

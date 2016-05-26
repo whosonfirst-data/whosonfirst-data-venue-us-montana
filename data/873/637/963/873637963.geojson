@@ -1,0 +1,73 @@
+{
+  "id": 873637963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.310164,48.189015,-114.310164,48.189015",
+    "geom:latitude":48.189015,
+    "geom:longitude":-114.310164,
+    "iso:country":"US",
+    "sg:address":"1001 S Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 6012",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z1nOfjH3cGFG8fgLz4S4p_48.189015_-114.310164@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295454,
+    "wof:geomhash":"afc6b43d8fd51a4db7eb082dec6efdf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873637963
+        }
+    ],
+    "wof:id":873637963,
+    "wof:lastmodified":1464295454,
+    "wof:name":"10th & Main Center Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -114.310164,
+    48.189015,
+    -114.310164,
+    48.189015
+],
+  "geometry": {"coordinates":[-114.310164,48.189015],"type":"Point"}
+}

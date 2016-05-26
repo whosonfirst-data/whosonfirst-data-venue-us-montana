@@ -1,0 +1,77 @@
+{
+  "id": 873571937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566716,45.762439,-108.566716,45.762439",
+    "geom:latitude":45.762439,
+    "geom:longitude":-108.566716,
+    "iso:country":"US",
+    "sg:address":"450 S 20th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 9343",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sVIszWwWqp9SFkHZmdd65_45.762439_-108.566716@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294630,
+    "wof:geomhash":"a1c2d99315054868f4571af2b7d81d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873571937
+        }
+    ],
+    "wof:id":873571937,
+    "wof:lastmodified":1464294630,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -108.566716,
+    45.762439,
+    -108.566716,
+    45.762439
+],
+  "geometry": {"coordinates":[-108.566716,45.762439],"type":"Point"}
+}

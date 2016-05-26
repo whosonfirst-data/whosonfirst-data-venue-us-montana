@@ -1,0 +1,76 @@
+{
+  "id": 873702481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.508058,45.986362,-112.508058,45.986362",
+    "geom:latitude":45.986362,
+    "geom:longitude":-112.508058,
+    "iso:country":"US",
+    "sg:address":"2710 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/butte/81178-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 533 1111",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fd6QeeaiwnDgE0KjwFmeC_45.985879_-112.507963@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296430,
+    "wof:geomhash":"a02e2f44d81e97e918c2fb88eaaf6e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873702481
+        }
+    ],
+    "wof:id":873702481,
+    "wof:lastmodified":1464296430,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -112.508058,
+    45.986362,
+    -112.508058,
+    45.986362
+],
+  "geometry": {"coordinates":[-112.50805800000001,45.986362],"type":"Point"}
+}

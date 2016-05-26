@@ -1,0 +1,75 @@
+{
+  "id": 873602267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.540447,45.759957,-108.540447,45.759957",
+    "geom:latitude":45.759957,
+    "geom:longitude":-108.540447,
+    "iso:country":"US",
+    "sg:address":"455 Moore Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 9666",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h726BkE89jI5s92LchzJA_45.759957_-108.540447@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295011,
+    "wof:geomhash":"96ae7d6d0a9ff97ce0c94f020bec79e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873602267
+        }
+    ],
+    "wof:id":873602267,
+    "wof:lastmodified":1464295011,
+    "wof:name":"Fire Master",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    -108.540447,
+    45.759957,
+    -108.540447,
+    45.759957
+],
+  "geometry": {"coordinates":[-108.540447,45.759957],"type":"Point"}
+}

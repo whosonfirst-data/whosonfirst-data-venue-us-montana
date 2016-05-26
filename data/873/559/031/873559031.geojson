@@ -1,0 +1,75 @@
+{
+  "id": 873559031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.017671,46.849013,-114.017671,46.849013",
+    "geom:latitude":46.849013,
+    "geom:longitude":-114.017671,
+    "iso:country":"US",
+    "sg:address":"2300 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 0021",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ftg8MVieZFzUpSb6EOb5n_46.849013_-114.017671@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294489,
+    "wof:geomhash":"ecee084e16095cdbeeb79e240bb77079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873559031
+        }
+    ],
+    "wof:id":873559031,
+    "wof:lastmodified":1464294489,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -114.017671,
+    46.849013,
+    -114.017671,
+    46.849013
+],
+  "geometry": {"coordinates":[-114.01767100000001,46.849013],"type":"Point"}
+}

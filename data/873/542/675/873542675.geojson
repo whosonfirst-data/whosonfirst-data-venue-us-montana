@@ -1,0 +1,73 @@
+{
+  "id": 873542675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.044137,46.901397,-114.044137,46.901397",
+    "geom:latitude":46.901397,
+    "geom:longitude":-114.044137,
+    "iso:country":"US",
+    "sg:address":"3485 W Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 829 1414",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r0AA1qIcriDD9HpAPYBUb_46.901397_-114.044137@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294288,
+    "wof:geomhash":"09d3664da0219fa4269fc8f992a7e6c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873542675
+        }
+    ],
+    "wof:id":873542675,
+    "wof:lastmodified":1464294288,
+    "wof:name":"Whitewood Transportation Inc",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.044137,
+    46.901397,
+    -114.044137,
+    46.901397
+],
+  "geometry": {"coordinates":[-114.04413700000001,46.901397],"type":"Point"}
+}

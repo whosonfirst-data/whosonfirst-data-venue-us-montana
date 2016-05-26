@@ -1,0 +1,73 @@
+{
+  "id": 873609869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.57911,45.797515,-108.57911,45.797515",
+    "geom:latitude":45.797515,
+    "geom:longitude":-108.57911,
+    "iso:country":"US",
+    "sg:address":"2710 Doreen Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 9129",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EdNkyrn2BgVT3SFWLlWqi_45.797515_-108.579110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295140,
+    "wof:geomhash":"5a56058793f4773b75ced0cd637f970d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873609869
+        }
+    ],
+    "wof:id":873609869,
+    "wof:lastmodified":1464295140,
+    "wof:name":"J & M Tile Svc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.57911,
+    45.797515,
+    -108.57911,
+    45.797515
+],
+  "geometry": {"coordinates":[-108.57911,45.797515],"type":"Point"}
+}

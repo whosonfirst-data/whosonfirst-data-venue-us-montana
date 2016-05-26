@@ -1,0 +1,72 @@
+{
+  "id": 873601621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584482,45.741164,-108.584482,45.741164",
+    "geom:latitude":45.741164,
+    "geom:longitude":-108.584482,
+    "iso:country":"US",
+    "sg:address":"6540 S Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5599",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nqha7f4gwBBWG1UnRWcHZ_45.741164_-108.584482@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295004,
+    "wof:geomhash":"35e9fa689c106aed6665a469be84b8b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873601621
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873601621
+        }
+    ],
+    "wof:id":873601621,
+    "wof:lastmodified":1464295004,
+    "wof:name":"ADS Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.584482,
+    45.741164,
+    -108.584482,
+    45.741164
+],
+  "geometry": {"coordinates":[-108.58448199999999,45.741164],"type":"Point"}
+}

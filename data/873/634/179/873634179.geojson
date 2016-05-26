@@ -1,0 +1,69 @@
+{
+  "id": 873634179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.968768,46.901403,-113.968768,46.901403",
+    "geom:latitude":46.901403,
+    "geom:longitude":-113.968768,
+    "iso:country":"US",
+    "sg:address":"4302 Timberlane",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 3688",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891733,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QzK9CsYAemRr0fBPWSFVa_46.901403_-113.968768@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295415,
+    "wof:geomhash":"4190cf8bfc0a964434033eff8336c56d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891733,
+            "region_id":85688617,
+            "venue_id":873634179
+        }
+    ],
+    "wof:id":873634179,
+    "wof:lastmodified":1464295415,
+    "wof:name":"Axs Medical Inc",
+    "wof:parent_id":85891733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -113.968768,
+    46.901403,
+    -113.968768,
+    46.901403
+],
+  "geometry": {"coordinates":[-113.968768,46.901403],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873634863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.730814,45.349057,-111.730814,45.349057",
+    "geom:latitude":45.349057,
+    "geom:longitude":-111.730814,
+    "iso:country":"US",
+    "sg:address":"70 US Hwy 287 N",
+    "sg:city":"Ennis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 682 5823",
+    "sg:postcode":"59729",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wi9k61U3RijDiHgtPpd9z_45.349057_-111.730814@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295421,
+    "wof:geomhash":"d80f965a66a56782013e9670efe287ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873634863
+        }
+    ],
+    "wof:id":873634863,
+    "wof:lastmodified":1464295421,
+    "wof:name":"Lick-A-Dee Lube",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -111.730814,
+    45.349057,
+    -111.730814,
+    45.349057
+],
+  "geometry": {"coordinates":[-111.730814,45.349057],"type":"Point"}
+}

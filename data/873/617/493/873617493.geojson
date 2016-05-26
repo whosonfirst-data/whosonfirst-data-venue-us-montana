@@ -1,0 +1,77 @@
+{
+  "id": 873617493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.526867,45.794773,-108.526867,45.794773",
+    "geom:latitude":45.794773,
+    "geom:longitude":-108.526867,
+    "iso:country":"US",
+    "sg:address":"2420 Spruce St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 9114",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qoYOlyP9ergBafWN7dCZ1_45.794773_-108.526867@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295219,
+    "wof:geomhash":"7fbc0d06c0719cb4403ae5f8dacfa40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873617493
+        }
+    ],
+    "wof:id":873617493,
+    "wof:lastmodified":1464295219,
+    "wof:name":"Gusick Transportation Inc",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.526867,
+    45.794773,
+    -108.526867,
+    45.794773
+],
+  "geometry": {"coordinates":[-108.526867,45.794773],"type":"Point"}
+}

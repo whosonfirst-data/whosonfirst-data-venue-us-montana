@@ -1,0 +1,71 @@
+{
+  "id": 873533407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.493882,45.790351,-108.493882,45.790351",
+    "geom:latitude":45.790351,
+    "geom:longitude":-108.493882,
+    "iso:country":"US",
+    "sg:address":"203 N 17th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 294 1234",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "storage",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h3dqGZx22bV5nXc1axrrW_45.790351_-108.493882@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294168,
+    "wof:geomhash":"8889b1682a10c9a63e8474b52c919315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873533407
+        }
+    ],
+    "wof:id":873533407,
+    "wof:lastmodified":1464294168,
+    "wof:name":"Billings Boat & Rv Storage",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "boat"
+    ]
+},
+  "bbox": [
+    -108.493882,
+    45.790351,
+    -108.493882,
+    45.790351
+],
+  "geometry": {"coordinates":[-108.493882,45.790351],"type":"Point"}
+}

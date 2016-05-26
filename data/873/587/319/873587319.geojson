@@ -1,0 +1,73 @@
+{
+  "id": 873587319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.385372,45.829567,-108.385372,45.829567",
+    "geom:latitude":45.829567,
+    "geom:longitude":-108.385372,
+    "iso:country":"US",
+    "sg:address":"1910 Canary Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8360",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d229OdoD5Pf4Z9Thrw53M_45.829567_-108.385372@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294800,
+    "wof:geomhash":"d018964df3e3e6d5776fbe1ffd9ffbd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873587319
+        }
+    ],
+    "wof:id":873587319,
+    "wof:lastmodified":1464294800,
+    "wof:name":"Carlos Concrete",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.385372,
+    45.829567,
+    -108.385372,
+    45.829567
+],
+  "geometry": {"coordinates":[-108.385372,45.829567],"type":"Point"}
+}

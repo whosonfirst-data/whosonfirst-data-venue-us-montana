@@ -1,0 +1,75 @@
+{
+  "id": 873547635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.740556,45.673293,-108.740556,45.673293",
+    "geom:latitude":45.673293,
+    "geom:longitude":-108.740556,
+    "iso:country":"US",
+    "sg:address":"1613 E Railroad St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 7709",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hIZ4mYlBrb2TQco9IG4IQ_45.673293_-108.740556@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294347,
+    "wof:geomhash":"61eb3b01d2a3bcf5c6147d4c52c2d25f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873547635
+        }
+    ],
+    "wof:id":873547635,
+    "wof:lastmodified":1464294347,
+    "wof:name":"ADT",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -108.740556,
+    45.673293,
+    -108.740556,
+    45.673293
+],
+  "geometry": {"coordinates":[-108.740556,45.673293],"type":"Point"}
+}

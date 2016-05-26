@@ -1,0 +1,75 @@
+{
+  "id": 873555335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.267051,48.327224,-114.267051,48.327224",
+    "geom:latitude":48.327224,
+    "geom:longitude":-114.267051,
+    "iso:country":"US",
+    "sg:address":"640 Wishart Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 6381",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cm7bPV9q5EFt4APedVEld_48.327224_-114.267051@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294441,
+    "wof:geomhash":"39d2e395eba080da3a9980bcafba1ada",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873555335
+        }
+    ],
+    "wof:id":873555335,
+    "wof:lastmodified":1464294441,
+    "wof:name":"Barge Trucking Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.267051,
+    48.327224,
+    -114.267051,
+    48.327224
+],
+  "geometry": {"coordinates":[-114.267051,48.327224],"type":"Point"}
+}

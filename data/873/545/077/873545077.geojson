@@ -1,0 +1,73 @@
+{
+  "id": 873545077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.007846,46.84882,-114.007846,46.84882",
+    "geom:latitude":46.84882,
+    "geom:longitude":-114.007846,
+    "iso:country":"US",
+    "sg:address":"600 South Ave W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 0193",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grocery",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31f7JaL5lQSgNNVXsVuDJP_46.848820_-114.007846@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294317,
+    "wof:geomhash":"117cca552ba3209e859e8531c1d86e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873545077
+        }
+    ],
+    "wof:id":873545077,
+    "wof:lastmodified":1464294317,
+    "wof:name":"Dominics Delicatessen",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "eating"
+    ]
+},
+  "bbox": [
+    -114.007846,
+    46.84882,
+    -114.007846,
+    46.84882
+],
+  "geometry": {"coordinates":[-114.007846,46.84882],"type":"Point"}
+}

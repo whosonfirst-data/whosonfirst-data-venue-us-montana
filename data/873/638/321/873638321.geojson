@@ -1,0 +1,73 @@
+{
+  "id": 873638321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.139221,45.96847,-108.139221,45.96847",
+    "geom:latitude":45.96847,
+    "geom:longitude":-108.139221,
+    "iso:country":"US",
+    "sg:address":"1751 Hwy 312",
+    "sg:city":"Worden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 967 2233",
+    "sg:postcode":"59088",
+    "sg:province":"MT",
+    "sg:tags":[
+        "livestock",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f73QbCqynpuo0sgrCApIc_45.968470_-108.139221@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295458,
+    "wof:geomhash":"7e9b80b3f491f50d530126489bfe27bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873638321
+        }
+    ],
+    "wof:id":873638321,
+    "wof:lastmodified":1464295458,
+    "wof:name":"Propp Livestock",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -108.139221,
+    45.96847,
+    -108.139221,
+    45.96847
+],
+  "geometry": {"coordinates":[-108.13922100000001,45.96847],"type":"Point"}
+}

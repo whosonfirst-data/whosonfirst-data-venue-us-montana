@@ -1,0 +1,67 @@
+{
+  "id": 873638223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.563177,45.783978,-108.563177,45.783978",
+    "geom:latitude":45.783978,
+    "geom:longitude":-108.563177,
+    "iso:country":"US",
+    "sg:address":"1848 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6960",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:website":"www.magiccityfloral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KMGpJJgB6VckgEN53EzUI_45.783978_-108.563177@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295457,
+    "wof:geomhash":"7e8c2442cd3600f282160c10d41dc17e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873638223
+        }
+    ],
+    "wof:id":873638223,
+    "wof:lastmodified":1464295457,
+    "wof:name":"Magic City Floral Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.563177,
+    45.783978,
+    -108.563177,
+    45.783978
+],
+  "geometry": {"coordinates":[-108.563177,45.783978],"type":"Point"}
+}

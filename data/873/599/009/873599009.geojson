@@ -1,0 +1,80 @@
+{
+  "id": 873599009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470813,45.818851,-108.470813,45.818851",
+    "geom:latitude":45.818851,
+    "geom:longitude":-108.470813,
+    "iso:country":"US",
+    "sg:address":"1106 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 1702",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H2e8DGakN30m22MePVpTM_45.818851_-108.470813@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294972,
+    "wof:geomhash":"e1300fe484d338bb48620d3ddd056caa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873599009
+        }
+    ],
+    "wof:id":873599009,
+    "wof:lastmodified":1464294972,
+    "wof:name":"Heights Bookstore",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.470813,
+    45.818851,
+    -108.470813,
+    45.818851
+],
+  "geometry": {"coordinates":[-108.47081300000001,45.818851],"type":"Point"}
+}

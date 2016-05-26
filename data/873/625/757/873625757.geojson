@@ -1,0 +1,73 @@
+{
+  "id": 873625757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.238455,48.012977,-114.238455,48.012977",
+    "geom:latitude":48.012977,
+    "geom:longitude":-114.238455,
+    "iso:country":"US",
+    "sg:address":"501 Blacktail Rd",
+    "sg:city":"Lakeside",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 844 2221",
+    "sg:postcode":"59922",
+    "sg:province":"MT",
+    "sg:tags":[
+        "school",
+        "missionary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EumJx3EEkFyedrZETbYpy_48.012977_-114.238455@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295318,
+    "wof:geomhash":"9a429fcf9da23eb4c612f10cbd3d8c65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873625757
+        }
+    ],
+    "wof:id":873625757,
+    "wof:lastmodified":1464295318,
+    "wof:name":"Youth With A Mission of Mont",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "missionary"
+    ]
+},
+  "bbox": [
+    -114.238455,
+    48.012977,
+    -114.238455,
+    48.012977
+],
+  "geometry": {"coordinates":[-114.238455,48.012977],"type":"Point"}
+}

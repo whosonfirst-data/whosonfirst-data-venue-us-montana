@@ -1,0 +1,73 @@
+{
+  "id": 873610269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.979028,46.898855,-113.979028,46.898855",
+    "geom:latitude":46.898855,
+    "geom:longitude":-113.979028,
+    "iso:country":"US",
+    "sg:address":"3851 Duncan Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 8293",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SmWEpLt4wgcxiAhNqpS7Q_46.898855_-113.979028@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295146,
+    "wof:geomhash":"467739ef54648e07861aadadbceb5cd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873610269
+        }
+    ],
+    "wof:id":873610269,
+    "wof:lastmodified":1464295146,
+    "wof:name":"Colonial Apts",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -113.979028,
+    46.898855,
+    -113.979028,
+    46.898855
+],
+  "geometry": {"coordinates":[-113.979028,46.898855],"type":"Point"}
+}

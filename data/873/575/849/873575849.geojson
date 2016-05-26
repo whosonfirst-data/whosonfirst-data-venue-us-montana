@@ -1,0 +1,69 @@
+{
+  "id": 873575849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.985567,46.86955,-113.985567,46.86955",
+    "geom:latitude":46.86955,
+    "geom:longitude":-113.985567,
+    "iso:country":"US",
+    "sg:address":"601 E Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 6554",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UA39h2WzsJnBYOJZE8qOt_46.869550_-113.985567@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294672,
+    "wof:geomhash":"5ffb2ffb118350fb5d6c82aabe982823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873575849
+        }
+    ],
+    "wof:id":873575849,
+    "wof:lastmodified":1464294672,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -113.985567,
+    46.86955,
+    -113.985567,
+    46.86955
+],
+  "geometry": {"coordinates":[-113.985567,46.86955],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873624151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.582516,45.781674,-108.582516,45.781674",
+    "geom:latitude":45.781674,
+    "geom:longitude":-108.582516,
+    "iso:country":"US",
+    "sg:address":"2601 Burlington Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7459",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QCe8j7cvcPWxcFTND1iDU_45.781674_-108.582516@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295300,
+    "wof:geomhash":"1904ab96641acdfbbe9b92718e2792a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873624151
+        }
+    ],
+    "wof:id":873624151,
+    "wof:lastmodified":1464295300,
+    "wof:name":"Sam Mora Construction LLC",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -108.582516,
+    45.781674,
+    -108.582516,
+    45.781674
+],
+  "geometry": {"coordinates":[-108.582516,45.781674],"type":"Point"}
+}

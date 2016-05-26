@@ -1,0 +1,71 @@
+{
+  "id": 873622761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.730691,45.38249,-111.730691,45.38249",
+    "geom:latitude":45.38249,
+    "geom:longitude":-111.730691,
+    "iso:country":"US",
+    "sg:address":"5076 US Hwy 287 N",
+    "sg:city":"Ennis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 682 4260",
+    "sg:postcode":"59729",
+    "sg:province":"MT",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UiVHaOTfz4vgq3I29TaHu_45.382490_-111.730691@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295279,
+    "wof:geomhash":"11dcc8f41d12816b9f1b27cb11c7468e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873622761
+        }
+    ],
+    "wof:id":873622761,
+    "wof:lastmodified":1464295279,
+    "wof:name":"Madison Valley Storage",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.730691,
+    45.38249,
+    -111.730691,
+    45.38249
+],
+  "geometry": {"coordinates":[-111.73069099999999,45.38249],"type":"Point"}
+}

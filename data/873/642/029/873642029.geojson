@@ -1,0 +1,75 @@
+{
+  "id": 873642029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.31376,48.198369,-114.31376,48.198369",
+    "geom:latitude":48.198369,
+    "geom:longitude":-114.31376,
+    "iso:country":"US",
+    "sg:address":"40 Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 0130",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "product",
+        "manufacturer",
+        "chocolate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bkvk5aPgHIEAHHgODZ6UI_48.198369_-114.313760@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295500,
+    "wof:geomhash":"4b2a5341344ec417535828dfd58a6952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873642029
+        }
+    ],
+    "wof:id":873642029,
+    "wof:lastmodified":1464295500,
+    "wof:name":"Montana Flathead Fudge Choclat",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "manufacturer",
+        "chocolate"
+    ]
+},
+  "bbox": [
+    -114.31376,
+    48.198369,
+    -114.31376,
+    48.198369
+],
+  "geometry": {"coordinates":[-114.31376,48.198369],"type":"Point"}
+}

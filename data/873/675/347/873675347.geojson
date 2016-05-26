@@ -1,0 +1,71 @@
+{
+  "id": 873675347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.474783,45.806246,-108.474783,45.806246",
+    "geom:latitude":45.806246,
+    "geom:longitude":-108.474783,
+    "iso:country":"US",
+    "sg:address":"405 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 8845",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LClsz4xkTcTcj8gkA979u_45.806246_-108.474783@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295876,
+    "wof:geomhash":"c144f81abbc5507021907271772f5a5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873675347
+        }
+    ],
+    "wof:id":873675347,
+    "wof:lastmodified":1464295876,
+    "wof:name":"City Brew",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -108.474783,
+    45.806246,
+    -108.474783,
+    45.806246
+],
+  "geometry": {"coordinates":[-108.474783,45.806246],"type":"Point"}
+}

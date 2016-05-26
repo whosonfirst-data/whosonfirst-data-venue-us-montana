@@ -1,0 +1,75 @@
+{
+  "id": 873658645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.018379,46.843693,-114.018379,46.843693",
+    "geom:latitude":46.843693,
+    "geom:longitude":-114.018379,
+    "iso:country":"US",
+    "sg:address":"3031 S Russell St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 541 3111",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WOfqgYil2VnaUZiOzPSDT_46.843693_-114.018379@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295685,
+    "wof:geomhash":"54c2c6703959cb3efb46ccc3d44b2e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873658645
+        }
+    ],
+    "wof:id":873658645,
+    "wof:lastmodified":1464295685,
+    "wof:name":"The Gym",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -114.018379,
+    46.843693,
+    -114.018379,
+    46.843693
+],
+  "geometry": {"coordinates":[-114.018379,46.843693],"type":"Point"}
+}

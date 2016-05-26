@@ -1,0 +1,73 @@
+{
+  "id": 873533391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.436337,45.834823,-108.436337,45.834823",
+    "geom:latitude":45.834823,
+    "geom:longitude":-108.436337,
+    "iso:country":"US",
+    "sg:address":"2011 Barrett Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 3091",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29j11zInvPDPAOHCyALSgi_45.834823_-108.436337@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294167,
+    "wof:geomhash":"5c2d5a176cf3d1e335a474233bd76633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873533391
+        }
+    ],
+    "wof:id":873533391,
+    "wof:lastmodified":1464294167,
+    "wof:name":"Christoferson Plumbing & Htg",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.436337,
+    45.834823,
+    -108.436337,
+    45.834823
+],
+  "geometry": {"coordinates":[-108.43633699999999,45.834823],"type":"Point"}
+}

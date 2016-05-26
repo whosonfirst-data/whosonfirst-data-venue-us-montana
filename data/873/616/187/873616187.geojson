@@ -1,0 +1,71 @@
+{
+  "id": 873616187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.749324,45.676609,-108.749324,45.676609",
+    "geom:latitude":45.676609,
+    "geom:longitude":-108.749324,
+    "iso:country":"US",
+    "sg:address":"1603 E 8th St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 7748",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02Cq8s8s1K0Uu94ryx8Ov6_45.676609_-108.749324@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295207,
+    "wof:geomhash":"4e87ead4b090822a48610db088ceff4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873616187
+        }
+    ],
+    "wof:id":873616187,
+    "wof:lastmodified":1464295207,
+    "wof:name":"Woods Woods Logging",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -108.749324,
+    45.676609,
+    -108.749324,
+    45.676609
+],
+  "geometry": {"coordinates":[-108.749324,45.676609],"type":"Point"}
+}

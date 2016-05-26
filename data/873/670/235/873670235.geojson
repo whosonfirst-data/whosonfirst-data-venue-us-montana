@@ -1,0 +1,71 @@
+{
+  "id": 873670235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.570622,45.795092,-108.570622,45.795092",
+    "geom:latitude":45.795092,
+    "geom:longitude":-108.570622,
+    "iso:country":"US",
+    "sg:address":"2147 Poly Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 5501",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rphGMV9oszzOgHseEz38Q_45.795092_-108.570622@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295804,
+    "wof:geomhash":"a061de3155b4224519b3f7238bf4068a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873670235
+        }
+    ],
+    "wof:id":873670235,
+    "wof:lastmodified":1464295804,
+    "wof:name":"Billings Nursery & Landscaping",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -108.570622,
+    45.795092,
+    -108.570622,
+    45.795092
+],
+  "geometry": {"coordinates":[-108.570622,45.795092],"type":"Point"}
+}

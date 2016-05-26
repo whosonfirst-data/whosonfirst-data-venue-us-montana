@@ -1,0 +1,77 @@
+{
+  "id": 873643291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584515,45.740746,-108.584515,45.740746",
+    "geom:latitude":45.740746,
+    "geom:longitude":-108.584515,
+    "iso:country":"US",
+    "sg:address":"6547 Elysian Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6091",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NIK9J0s9LOB9uUESujLNl_45.740746_-108.584515@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295518,
+    "wof:geomhash":"c83f6df0c8bce1646e799b37487106de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873643291
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873643291
+        }
+    ],
+    "wof:id":873643291,
+    "wof:lastmodified":1464295518,
+    "wof:name":"High Desert Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.584515,
+    45.740746,
+    -108.584515,
+    45.740746
+],
+  "geometry": {"coordinates":[-108.584515,45.740746],"type":"Point"}
+}

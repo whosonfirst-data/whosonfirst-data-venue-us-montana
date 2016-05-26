@@ -1,0 +1,71 @@
+{
+  "id": 873585015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.656039,45.423111,-110.656039,45.423111",
+    "geom:latitude":45.423111,
+    "geom:longitude":-110.656039,
+    "iso:country":"US",
+    "sg:address":"3674 US Hwy 89",
+    "sg:city":"Emigrant",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 333 4500",
+    "sg:postcode":"59027",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45ib5iYGvqRdegzeBnI300_45.423111_-110.656039@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294773,
+    "wof:geomhash":"2c0a994e384f8378773fd1fec34bb89c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873585015
+        }
+    ],
+    "wof:id":873585015,
+    "wof:lastmodified":1464294773,
+    "wof:name":"Querencia",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -110.656039,
+    45.423111,
+    -110.656039,
+    45.423111
+],
+  "geometry": {"coordinates":[-110.65603900000001,45.423111],"type":"Point"}
+}

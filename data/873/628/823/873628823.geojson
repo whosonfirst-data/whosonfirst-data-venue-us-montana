@@ -1,0 +1,69 @@
+{
+  "id": 873628823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.558142,45.736937,-108.558142,45.736937",
+    "geom:latitude":45.736937,
+    "geom:longitude":-108.558142,
+    "iso:country":"US",
+    "sg:address":"5723 Stearns Cir",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 7591",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NhPnoXRXG5gFi3441YEKR_45.736937_-108.558142@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295348,
+    "wof:geomhash":"2771ab401ca3d0fc3c29291f8b55aec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873628823
+        }
+    ],
+    "wof:id":873628823,
+    "wof:lastmodified":1464295348,
+    "wof:name":"Billings Carpentry Industry",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -108.558142,
+    45.736937,
+    -108.558142,
+    45.736937
+],
+  "geometry": {"coordinates":[-108.558142,45.736937],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873568285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.617835,45.732146,-108.617835,45.732146",
+    "geom:latitude":45.732146,
+    "geom:longitude":-108.617835,
+    "iso:country":"US",
+    "sg:address":"2100 S Shiloh Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"Botanical Garden",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 8100",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "zoo"
+    ],
+    "sg:website":"www.zoomontana.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zSLUVozYBhSwVqwzIWgWq_45.732146_-108.617835@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294588,
+    "wof:geomhash":"f75fa6c8ed1b012ae970afd05d96e957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873568285
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873568285
+        }
+    ],
+    "wof:id":873568285,
+    "wof:lastmodified":1464294588,
+    "wof:name":"Zoo Montana",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "zoo"
+    ]
+},
+  "bbox": [
+    -108.617835,
+    45.732146,
+    -108.617835,
+    45.732146
+],
+  "geometry": {"coordinates":[-108.617835,45.732146],"type":"Point"}
+}

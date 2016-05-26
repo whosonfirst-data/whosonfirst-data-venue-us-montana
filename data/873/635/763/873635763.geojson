@@ -1,0 +1,66 @@
+{
+  "id": 873635763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.469105,45.82733,-108.469105,45.82733",
+    "geom:latitude":45.82733,
+    "geom:longitude":-108.469105,
+    "iso:country":"US",
+    "sg:address":"710 Wicks Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 000 1111",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fxSJtvwYJvyKDPQPb5cCl_45.827330_-108.469105@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295430,
+    "wof:geomhash":"d82a15c73186b845a498b92103fc022a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873635763
+        }
+    ],
+    "wof:id":873635763,
+    "wof:lastmodified":1464295430,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.469105,
+    45.82733,
+    -108.469105,
+    45.82733
+],
+  "geometry": {"coordinates":[-108.469105,45.82733],"type":"Point"}
+}

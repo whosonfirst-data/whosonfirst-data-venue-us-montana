@@ -1,0 +1,75 @@
+{
+  "id": 873640477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.578989,45.798657,-108.578989,45.798657",
+    "geom:latitude":45.798657,
+    "geom:longitude":-108.578989,
+    "iso:country":"US",
+    "sg:address":"2917 Doreen Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 9439",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nvzBKdpDpWCQr1kAessjX_45.798657_-108.578989@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295479,
+    "wof:geomhash":"a89046dd0184ce678943bb23df9025d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873640477
+        }
+    ],
+    "wof:id":873640477,
+    "wof:lastmodified":1464295479,
+    "wof:name":"Lawn Ranger",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -108.578989,
+    45.798657,
+    -108.578989,
+    45.798657
+],
+  "geometry": {"coordinates":[-108.57898900000001,45.798657],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873602023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.497105,45.78255,-108.497105,45.78255",
+    "geom:latitude":45.78255,
+    "geom:longitude":-108.497105,
+    "iso:country":"US",
+    "sg:address":"2203 1st Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 8496",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GkRjP9PZI9nhZfkQiEMLd_45.782550_-108.497105@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295008,
+    "wof:geomhash":"3cfc298b8c09095795ea7de117a5d5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525795,
+            "region_id":85688617,
+            "venue_id":873602023
+        }
+    ],
+    "wof:id":873602023,
+    "wof:lastmodified":1464295008,
+    "wof:name":"Jim & Tracy's Alignment Inc",
+    "wof:parent_id":420525795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -108.497105,
+    45.78255,
+    -108.497105,
+    45.78255
+],
+  "geometry": {"coordinates":[-108.497105,45.78255],"type":"Point"}
+}

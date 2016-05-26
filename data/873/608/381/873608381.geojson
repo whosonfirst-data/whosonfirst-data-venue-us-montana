@@ -1,0 +1,79 @@
+{
+  "id": 873608381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.58412,45.750383,-108.58412,45.750383",
+    "geom:latitude":45.750383,
+    "geom:longitude":-108.58412,
+    "iso:country":"US",
+    "sg:address":"2721 Enterprise Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 860 1212",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GWf5aEA2u5UzTZWfjr4Zw_45.750383_-108.584120@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295111,
+    "wof:geomhash":"41fe25394ea9bf8ac3808f3cb39292e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873608381
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873608381
+        }
+    ],
+    "wof:id":873608381,
+    "wof:lastmodified":1464295111,
+    "wof:name":"Kovash Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.58412,
+    45.750383,
+    -108.58412,
+    45.750383
+],
+  "geometry": {"coordinates":[-108.58412,45.750383],"type":"Point"}
+}

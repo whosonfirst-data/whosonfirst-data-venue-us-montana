@@ -1,0 +1,73 @@
+{
+  "id": 873568229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.393847,45.822035,-108.393847,45.822035",
+    "geom:latitude":45.822035,
+    "geom:longitude":-108.393847,
+    "iso:country":"US",
+    "sg:address":"1343 Tillamack St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 1363",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hAFDSLhp0E0NspkBrefTq_45.822035_-108.393847@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294588,
+    "wof:geomhash":"5d64501f352fdcdc0c22caf6a4069337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873568229
+        }
+    ],
+    "wof:id":873568229,
+    "wof:lastmodified":1464294588,
+    "wof:name":"Alan Brester Masonry",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.393847,
+    45.822035,
+    -108.393847,
+    45.822035
+],
+  "geometry": {"coordinates":[-108.39384699999999,45.822035],"type":"Point"}
+}

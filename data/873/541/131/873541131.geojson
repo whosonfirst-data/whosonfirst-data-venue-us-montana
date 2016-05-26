@@ -1,0 +1,75 @@
+{
+  "id": 873541131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.066619,45.685542,-111.066619,45.685542",
+    "geom:latitude":45.685542,
+    "geom:longitude":-111.066619,
+    "iso:country":"US",
+    "sg:address":"316 N 23rd Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 5678",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        420525553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FM62J7dSLL4ExRbqIeGSG_45.685542_-111.066619@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294271,
+    "wof:geomhash":"0bf628bc3073888af4bb1210f8f1cbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":420525553,
+            "region_id":85688617,
+            "venue_id":873541131
+        }
+    ],
+    "wof:id":873541131,
+    "wof:lastmodified":1464294271,
+    "wof:name":"Wiser Denture Care",
+    "wof:parent_id":420525553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -111.066619,
+    45.685542,
+    -111.066619,
+    45.685542
+],
+  "geometry": {"coordinates":[-111.066619,45.685542],"type":"Point"}
+}

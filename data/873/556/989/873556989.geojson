@@ -1,0 +1,71 @@
+{
+  "id": 873556989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.078145,46.678094,-114.078145,46.678094",
+    "geom:latitude":46.678094,
+    "geom:longitude":-114.078145,
+    "iso:country":"US",
+    "sg:address":"20350 Old US Hwy 93",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 5407",
+    "sg:postcode":"59833",
+    "sg:province":"MT",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K0BhzCxFcetfNcyuK4I1r_46.678094_-114.078145@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294461,
+    "wof:geomhash":"39d32a7bce083e9e01650de92249da8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873556989
+        }
+    ],
+    "wof:id":873556989,
+    "wof:lastmodified":1464294461,
+    "wof:name":"Comcast Cable",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -114.078145,
+    46.678094,
+    -114.078145,
+    46.678094
+],
+  "geometry": {"coordinates":[-114.07814500000001,46.678094],"type":"Point"}
+}

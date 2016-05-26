@@ -1,0 +1,75 @@
+{
+  "id": 873616587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.520538,45.753042,-108.520538,45.753042",
+    "geom:latitude":45.753042,
+    "geom:longitude":-108.520538,
+    "iso:country":"US",
+    "sg:address":"4206 Carlton Ave SW",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4536",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "business",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AaUiQOyCLMBf7gOchQJ5t_45.753042_-108.520538@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295211,
+    "wof:geomhash":"031e3f927a6b8fc8414aa52b1fa4fb86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873616587
+        }
+    ],
+    "wof:id":873616587,
+    "wof:lastmodified":1464295211,
+    "wof:name":"Anitas Courier Service",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "business",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.520538,
+    45.753042,
+    -108.520538,
+    45.753042
+],
+  "geometry": {"coordinates":[-108.520538,45.753042],"type":"Point"}
+}

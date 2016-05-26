@@ -1,0 +1,71 @@
+{
+  "id": 873605015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.589651,45.782384,-108.589651,45.782384",
+    "geom:latitude":45.782384,
+    "geom:longitude":-108.589651,
+    "iso:country":"US",
+    "sg:address":"2929 Belvedere Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 4330",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WS9ugHIwiHxbYD5EtNid4_45.782384_-108.589651@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295040,
+    "wof:geomhash":"cdba7ba466443efc9a2b70f0c1439ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873605015
+        }
+    ],
+    "wof:id":873605015,
+    "wof:lastmodified":1464295040,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -108.589651,
+    45.782384,
+    -108.589651,
+    45.782384
+],
+  "geometry": {"coordinates":[-108.589651,45.782384],"type":"Point"}
+}

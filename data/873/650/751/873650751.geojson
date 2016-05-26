@@ -1,0 +1,71 @@
+{
+  "id": 873650751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.679407,45.75401,-108.679407,45.75401",
+    "geom:latitude":45.75401,
+    "geom:longitude":-108.679407,
+    "iso:country":"US",
+    "sg:address":"907 S 64th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7530",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GpsBjqGg88iIF2nctd5kp_45.754010_-108.679407@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295595,
+    "wof:geomhash":"2841da24a84fe7e633da33420ac66346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873650751
+        }
+    ],
+    "wof:id":873650751,
+    "wof:lastmodified":1464295595,
+    "wof:name":"Blaine Gallery",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -108.679407,
+    45.75401,
+    -108.679407,
+    45.75401
+],
+  "geometry": {"coordinates":[-108.679407,45.75401],"type":"Point"}
+}

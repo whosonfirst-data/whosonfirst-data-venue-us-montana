@@ -1,0 +1,71 @@
+{
+  "id": 873572903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.541613,45.749554,-108.541613,45.749554",
+    "geom:latitude":45.749554,
+    "geom:longitude":-108.541613,
+    "iso:country":"US",
+    "sg:address":"1175 Maggie St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 7374",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cppNnVxx01mcybsPftJS1_45.749554_-108.541613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294641,
+    "wof:geomhash":"9efddfadb61e0a0629ceae799d858d33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873572903
+        }
+    ],
+    "wof:id":873572903,
+    "wof:lastmodified":1464294641,
+    "wof:name":"Craig's Service",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.541613,
+    45.749554,
+    -108.541613,
+    45.749554
+],
+  "geometry": {"coordinates":[-108.541613,45.749554],"type":"Point"}
+}

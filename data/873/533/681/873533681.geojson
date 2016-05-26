@@ -1,0 +1,79 @@
+{
+  "id": 873533681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.600725,45.761135,-108.600725,45.761135",
+    "geom:latitude":45.761135,
+    "geom:longitude":-108.600725,
+    "iso:country":"US",
+    "sg:address":"3442 Windmill Cir",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 9413",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "guard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uHlqY0lxPBSbBlUFz7ksA_45.761135_-108.600725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294179,
+    "wof:geomhash":"6aade9d1d922e46285eef10fac8019f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873533681
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873533681
+        }
+    ],
+    "wof:id":873533681,
+    "wof:lastmodified":1464294179,
+    "wof:name":"Steve J Corson",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard"
+    ]
+},
+  "bbox": [
+    -108.600725,
+    45.761135,
+    -108.600725,
+    45.761135
+],
+  "geometry": {"coordinates":[-108.600725,45.761135],"type":"Point"}
+}

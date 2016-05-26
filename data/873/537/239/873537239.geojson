@@ -1,0 +1,71 @@
+{
+  "id": 873537239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.449896,45.886378,-108.449896,45.886378",
+    "geom:latitude":45.886378,
+    "geom:longitude":-108.449896,
+    "iso:country":"US",
+    "sg:address":"5113 Hidden View Pl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 4899",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ci2RGevZ5GYmQBRO57yBB_45.886378_-108.449896@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294231,
+    "wof:geomhash":"20b83e7411d9930f115d46213d13f175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873537239
+        }
+    ],
+    "wof:id":873537239,
+    "wof:lastmodified":1464294231,
+    "wof:name":"Dawson Tile Co",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.449896,
+    45.886378,
+    -108.449896,
+    45.886378
+],
+  "geometry": {"coordinates":[-108.449896,45.886378],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873623319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.287663,48.152234,-114.287663,48.152234",
+    "geom:latitude":48.152234,
+    "geom:longitude":-114.287663,
+    "iso:country":"US",
+    "sg:address":"3235 US Hwy 93 S",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 1721",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ezzf447dzbwR29ygqtOws_48.152234_-114.287663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295287,
+    "wof:geomhash":"ebaa986759e58b76d8bf7142a44f444e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873623319
+        }
+    ],
+    "wof:id":873623319,
+    "wof:lastmodified":1464295287,
+    "wof:name":"K & T Construction",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.287663,
+    48.152234,
+    -114.287663,
+    48.152234
+],
+  "geometry": {"coordinates":[-114.28766299999999,48.152234],"type":"Point"}
+}

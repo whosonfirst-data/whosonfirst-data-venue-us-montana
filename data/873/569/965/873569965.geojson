@@ -1,0 +1,71 @@
+{
+  "id": 873569965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.45099,45.855854,-108.45099,45.855854",
+    "geom:latitude":45.855854,
+    "geom:longitude":-108.45099,
+    "iso:country":"US",
+    "sg:address":"1449 Stallion Rte",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 2297",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EJi9HsVGbJIaMaOXK5jh2_45.855854_-108.450990@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294609,
+    "wof:geomhash":"319c6cfb5225ac3fe6e71f68a4f78741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873569965
+        }
+    ],
+    "wof:id":873569965,
+    "wof:lastmodified":1464294609,
+    "wof:name":"H & H Construction",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -108.45099,
+    45.855854,
+    -108.45099,
+    45.855854
+],
+  "geometry": {"coordinates":[-108.45099,45.855854],"type":"Point"}
+}

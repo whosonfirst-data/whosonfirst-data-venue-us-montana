@@ -1,0 +1,71 @@
+{
+  "id": 873601367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.545222,45.670882,-110.545222,45.670882",
+    "geom:latitude":45.670882,
+    "geom:longitude":-110.545222,
+    "iso:country":"US",
+    "sg:address":"2000 E Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 5939",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34AO2KfsTE2okuoMCYfTQ9_45.670882_-110.545222@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295002,
+    "wof:geomhash":"d5001c9e8f92d649a4191e25c5afa17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873601367
+        }
+    ],
+    "wof:id":873601367,
+    "wof:lastmodified":1464295002,
+    "wof:name":"Hardees",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -110.545222,
+    45.670882,
+    -110.545222,
+    45.670882
+],
+  "geometry": {"coordinates":[-110.545222,45.670882],"type":"Point"}
+}

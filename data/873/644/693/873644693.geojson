@@ -1,0 +1,71 @@
+{
+  "id": 873644693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.419366,45.875389,-108.419366,45.875389",
+    "geom:latitude":45.875389,
+    "geom:longitude":-108.419366,
+    "iso:country":"US",
+    "sg:address":"4344 Hwy 312",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6696",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HzKo3PqQOOkivLyebsEeW_45.875389_-108.419366@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295533,
+    "wof:geomhash":"f774aa057056472136fe4d2e7f1c6736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873644693
+        }
+    ],
+    "wof:id":873644693,
+    "wof:lastmodified":1464295533,
+    "wof:name":"Kramer Crowder Horse Ranch",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -108.419366,
+    45.875389,
+    -108.419366,
+    45.875389
+],
+  "geometry": {"coordinates":[-108.419366,45.875389],"type":"Point"}
+}

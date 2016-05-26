@@ -1,0 +1,73 @@
+{
+  "id": 873559357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.352055,48.406991,-114.352055,48.406991",
+    "geom:latitude":48.406991,
+    "geom:longitude":-114.352055,
+    "iso:country":"US",
+    "sg:address":"501 Karrow Ave",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 5809",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v99IDudzjg1dDg0k1hVfd_48.406991_-114.352055@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294493,
+    "wof:geomhash":"d98b4061641879bea63de7a26bc1c8cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873559357
+        }
+    ],
+    "wof:id":873559357,
+    "wof:lastmodified":1464294493,
+    "wof:name":"Meridian Car Wash",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -114.352055,
+    48.406991,
+    -114.352055,
+    48.406991
+],
+  "geometry": {"coordinates":[-114.35205499999999,48.406991],"type":"Point"}
+}

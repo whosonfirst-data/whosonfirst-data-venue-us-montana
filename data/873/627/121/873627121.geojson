@@ -1,0 +1,73 @@
+{
+  "id": 873627121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.309985,48.196825,-114.309985,48.196825",
+    "geom:latitude":48.196825,
+    "geom:longitude":-114.309985,
+    "iso:country":"US",
+    "sg:address":"248 2nd Ave E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 2311",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "club",
+        "bridge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a70DgIVLTsUjEI2GxKOYO_48.196825_-114.309985@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295331,
+    "wof:geomhash":"b144977466012a7cf776f66d5bae9dea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873627121
+        }
+    ],
+    "wof:id":873627121,
+    "wof:lastmodified":1464295331,
+    "wof:name":"Kalispell Duplicate Bridge",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "bridge"
+    ]
+},
+  "bbox": [
+    -114.309985,
+    48.196825,
+    -114.309985,
+    48.196825
+],
+  "geometry": {"coordinates":[-114.309985,48.196825],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873656709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.318687,48.197862,-114.318687,48.197862",
+    "geom:latitude":48.197862,
+    "geom:longitude":-114.318687,
+    "iso:country":"US",
+    "sg:address":"340 W Center St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 7123",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lXZf4KGtOEQev2pUfousn_48.197862_-114.318687@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295664,
+    "wof:geomhash":"a722bd27d5a2a43804ce84edf2dd0a8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873656709
+        }
+    ],
+    "wof:id":873656709,
+    "wof:lastmodified":1464295664,
+    "wof:name":"Jones Dentistry",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -114.318687,
+    48.197862,
+    -114.318687,
+    48.197862
+],
+  "geometry": {"coordinates":[-114.318687,48.197862],"type":"Point"}
+}

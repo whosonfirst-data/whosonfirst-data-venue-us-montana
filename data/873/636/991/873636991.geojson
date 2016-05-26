@@ -1,0 +1,75 @@
+{
+  "id": 873636991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.513854,45.990183,-112.513854,45.990183",
+    "geom:latitude":45.990183,
+    "geom:longitude":-112.513854,
+    "iso:country":"US",
+    "sg:address":"1716 B St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 7575",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tVYKoTvyc8lqHoR6GDQJ7_45.990183_-112.513854@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295445,
+    "wof:geomhash":"9f62d1036cf71cb4663ca486240282d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873636991
+        }
+    ],
+    "wof:id":873636991,
+    "wof:lastmodified":1464295445,
+    "wof:name":"Crain Repair & Welding",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "welding"
+    ]
+},
+  "bbox": [
+    -112.513854,
+    45.990183,
+    -112.513854,
+    45.990183
+],
+  "geometry": {"coordinates":[-112.51385399999999,45.990183],"type":"Point"}
+}

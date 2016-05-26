@@ -1,0 +1,77 @@
+{
+  "id": 873602753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.5545,45.657543,-110.5545,45.657543",
+    "geom:latitude":45.657543,
+    "geom:longitude":-110.5545,
+    "iso:country":"US",
+    "sg:address":"1 View Vista Dr",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 6569",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential",
+        "construction",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rAjvn4Y9Uzvnod1869jR4_45.657543_-110.554500@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295016,
+    "wof:geomhash":"4649853d5706383364bdf266ac9ca847",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873602753
+        }
+    ],
+    "wof:id":873602753,
+    "wof:lastmodified":1464295016,
+    "wof:name":"View Vista Village",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "construction",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -110.5545,
+    45.657543,
+    -110.5545,
+    45.657543
+],
+  "geometry": {"coordinates":[-110.5545,45.657543],"type":"Point"}
+}

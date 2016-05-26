@@ -1,0 +1,73 @@
+{
+  "id": 873570873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.488911,45.989539,-112.488911,45.989539",
+    "geom:latitude":45.989539,
+    "geom:longitude":-112.488911,
+    "iso:country":"US",
+    "sg:address":"3210 Ottawa St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 0569",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48iQb5HVmSx301WhY4QeXr_45.989539_-112.488911@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294619,
+    "wof:geomhash":"138383f747e776c658d3fa0c9ed000c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873570873
+        }
+    ],
+    "wof:id":873570873,
+    "wof:lastmodified":1464294619,
+    "wof:name":"Atcheson Taxidermy",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -112.488911,
+    45.989539,
+    -112.488911,
+    45.989539
+],
+  "geometry": {"coordinates":[-112.488911,45.989539],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873616265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.023274,45.656432,-111.023274,45.656432",
+    "geom:latitude":45.656432,
+    "geom:longitude":-111.023274,
+    "iso:country":"US",
+    "sg:address":"1002 E Kagy Blvd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 7002",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        420525577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ukqIahRGhKjFaLOMbIr70_45.656432_-111.023274@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295208,
+    "wof:geomhash":"cb52b78962e4ea7bcde2ad58abac4d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":420525577,
+            "region_id":85688617,
+            "venue_id":873616265
+        }
+    ],
+    "wof:id":873616265,
+    "wof:lastmodified":1464295208,
+    "wof:name":"Bear Creek Respite Care Center",
+    "wof:parent_id":420525577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -111.023274,
+    45.656432,
+    -111.023274,
+    45.656432
+],
+  "geometry": {"coordinates":[-111.023274,45.656432],"type":"Point"}
+}

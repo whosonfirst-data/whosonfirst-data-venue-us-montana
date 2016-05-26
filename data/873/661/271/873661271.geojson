@@ -1,0 +1,71 @@
+{
+  "id": 873661271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.99578,46.871349,-113.99578,46.871349",
+    "geom:latitude":46.871349,
+    "geom:longitude":-113.99578,
+    "iso:country":"US",
+    "sg:address":"143 W Main St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 9637",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0psAybi5xFPcuAw8Zlw9Se_46.871349_-113.995780@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295711,
+    "wof:geomhash":"b2a5b8296f179afbe25b652372b9a077",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873661271
+        }
+    ],
+    "wof:id":873661271,
+    "wof:lastmodified":1464295711,
+    "wof:name":"Main Street Barber Shop",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -113.99578,
+    46.871349,
+    -113.99578,
+    46.871349
+],
+  "geometry": {"coordinates":[-113.99578,46.871349],"type":"Point"}
+}

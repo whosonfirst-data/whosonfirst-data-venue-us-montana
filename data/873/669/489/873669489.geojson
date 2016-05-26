@@ -1,0 +1,71 @@
+{
+  "id": 873669489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.49468,45.787578,-108.49468,45.787578",
+    "geom:latitude":45.787578,
+    "geom:longitude":-108.49468,
+    "iso:country":"US",
+    "sg:address":"1813 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 294 2979",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yaRkqRNq6yZLrLx6bYuO0_45.787578_-108.494680@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295795,
+    "wof:geomhash":"01c0ce0a945ca5d0c78168b2eca5a759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873669489
+        }
+    ],
+    "wof:id":873669489,
+    "wof:lastmodified":1464295795,
+    "wof:name":"Magic City Motors",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.49468,
+    45.787578,
+    -108.49468,
+    45.787578
+],
+  "geometry": {"coordinates":[-108.49468,45.787578],"type":"Point"}
+}

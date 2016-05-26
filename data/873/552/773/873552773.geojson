@@ -1,0 +1,73 @@
+{
+  "id": 873552773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.537922,46.009964,-112.537922,46.009964",
+    "geom:latitude":46.009964,
+    "geom:longitude":-112.537922,
+    "iso:country":"US",
+    "sg:address":"112 W Silver St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 5196",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70FBqOU2FON93gpwd6qDF5_46.009964_-112.537922@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294409,
+    "wof:geomhash":"0ac9a69a7710c8fe05f7bd747921bd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873552773
+        }
+    ],
+    "wof:id":873552773,
+    "wof:lastmodified":1464294409,
+    "wof:name":"Geneves Beauty Shop",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -112.537922,
+    46.009964,
+    -112.537922,
+    46.009964
+],
+  "geometry": {"coordinates":[-112.53792199999999,46.009964],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873671919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576202,45.761581,-108.576202,45.761581",
+    "geom:latitude":45.761581,
+    "geom:longitude":-108.576202,
+    "iso:country":"US",
+    "sg:address":"412 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 4440",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DWjb8NtEBZXn2OKinHrm8_45.761581_-108.576202@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295821,
+    "wof:geomhash":"9cb7f5a59e12e333fa76bc2edbfe518e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873671919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873671919
+        }
+    ],
+    "wof:id":873671919,
+    "wof:lastmodified":1464295821,
+    "wof:name":"U-Save Auto Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.576202,
+    45.761581,
+    -108.576202,
+    45.761581
+],
+  "geometry": {"coordinates":[-108.57620199999999,45.761581],"type":"Point"}
+}

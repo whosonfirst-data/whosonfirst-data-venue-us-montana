@@ -1,0 +1,71 @@
+{
+  "id": 873610601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.026557,46.887114,-114.026557,46.887114",
+    "geom:latitude":46.887114,
+    "geom:longitude":-114.026557,
+    "iso:country":"US",
+    "sg:address":"2312 Palmer St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 0158",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eh98QaYfaz30ZeV3cA2N1_46.887114_-114.026557@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295150,
+    "wof:geomhash":"565d4ddd4363703cd50de1dafb199d0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873610601
+        }
+    ],
+    "wof:id":873610601,
+    "wof:lastmodified":1464295150,
+    "wof:name":"Spectrum Refinishers",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -114.026557,
+    46.887114,
+    -114.026557,
+    46.887114
+],
+  "geometry": {"coordinates":[-114.026557,46.887114],"type":"Point"}
+}

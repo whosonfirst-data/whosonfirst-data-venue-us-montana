@@ -1,0 +1,73 @@
+{
+  "id": 873580849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.521985,45.77065,-108.521985,45.77065",
+    "geom:latitude":45.77065,
+    "geom:longitude":-108.521985,
+    "iso:country":"US",
+    "sg:address":"4151 1st Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6211",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K3PQk7bKOI0sWvffdkaLm_45.770650_-108.521985@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294731,
+    "wof:geomhash":"27d1e98f0bf9a27900bcd5ae7bc7769e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873580849
+        }
+    ],
+    "wof:id":873580849,
+    "wof:lastmodified":1464294731,
+    "wof:name":"Coca-Cola Bottling Co",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -108.521985,
+    45.77065,
+    -108.521985,
+    45.77065
+],
+  "geometry": {"coordinates":[-108.521985,45.77065],"type":"Point"}
+}

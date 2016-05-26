@@ -1,0 +1,71 @@
+{
+  "id": 873665603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.565694,45.658126,-110.565694,45.658126",
+    "geom:latitude":45.658126,
+    "geom:longitude":-110.565694,
+    "iso:country":"US",
+    "sg:address":"112 S 6th St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 0200",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y5VuKFjdmMA4alQXOXE5w_45.658126_-110.565694@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295756,
+    "wof:geomhash":"981852ac8b1c04d84b86db980b7d34f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873665603
+        }
+    ],
+    "wof:id":873665603,
+    "wof:lastmodified":1464295756,
+    "wof:name":"VIP Taxi Service",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cab"
+    ]
+},
+  "bbox": [
+    -110.565694,
+    45.658126,
+    -110.565694,
+    45.658126
+],
+  "geometry": {"coordinates":[-110.56569399999999,45.658126],"type":"Point"}
+}

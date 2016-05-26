@@ -1,0 +1,73 @@
+{
+  "id": 873599929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.520502,45.793471,-108.520502,45.793471",
+    "geom:latitude":45.793471,
+    "geom:longitude":-108.520502,
+    "iso:country":"US",
+    "sg:address":"1233 N 30th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 7000",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L4c0DSxMWjczTmuZmQmB8_45.793471_-108.520502@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294986,
+    "wof:geomhash":"82c01909659eae486d4a3ed4c677a616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873599929
+        }
+    ],
+    "wof:id":873599929,
+    "wof:lastmodified":1464294986,
+    "wof:name":"Geriatric Medicine",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -108.520502,
+    45.793471,
+    -108.520502,
+    45.793471
+],
+  "geometry": {"coordinates":[-108.52050199999999,45.793471],"type":"Point"}
+}

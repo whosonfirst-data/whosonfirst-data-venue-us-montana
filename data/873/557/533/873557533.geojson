@@ -1,0 +1,71 @@
+{
+  "id": 873557533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.285045,48.211429,-114.285045,48.211429",
+    "geom:latitude":48.211429,
+    "geom:longitude":-114.285045,
+    "iso:country":"US",
+    "sg:address":"1260 US Hwy 2 E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 5400",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jozwjPGOwySllND2xx2qF_48.211429_-114.285045@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294466,
+    "wof:geomhash":"e4563e3b93d8f754647c6abbcda27cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873557533
+        }
+    ],
+    "wof:id":873557533,
+    "wof:lastmodified":1464294466,
+    "wof:name":"Skippers 303",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -114.285045,
+    48.211429,
+    -114.285045,
+    48.211429
+],
+  "geometry": {"coordinates":[-114.285045,48.211429],"type":"Point"}
+}

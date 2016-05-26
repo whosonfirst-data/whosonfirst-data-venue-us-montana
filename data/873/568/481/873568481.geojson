@@ -1,0 +1,79 @@
+{
+  "id": 873568481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.580784,45.743154,-108.580784,45.743154",
+    "geom:latitude":45.743154,
+    "geom:longitude":-108.580784,
+    "iso:country":"US",
+    "sg:address":"6708 S Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 3261",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HqSo1YkMBvLn1dFTTv4Ex_45.743154_-108.580784@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294591,
+    "wof:geomhash":"5153f780a0f25585297746b425067ae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873568481
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873568481
+        }
+    ],
+    "wof:id":873568481,
+    "wof:lastmodified":1464294591,
+    "wof:name":"Auto Net West",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.580784,
+    45.743154,
+    -108.580784,
+    45.743154
+],
+  "geometry": {"coordinates":[-108.58078399999999,45.743154],"type":"Point"}
+}

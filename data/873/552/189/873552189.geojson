@@ -1,0 +1,73 @@
+{
+  "id": 873552189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.324365,48.210154,-114.324365,48.210154",
+    "geom:latitude":48.210154,
+    "geom:longitude":-114.324365,
+    "iso:country":"US",
+    "sg:address":"40 Claremont St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 5807",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43zBtv6I15AxGsN5xRUmAp_48.210154_-114.324365@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294402,
+    "wof:geomhash":"23ea64b651cbb19f1312691d768279c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873552189
+        }
+    ],
+    "wof:id":873552189,
+    "wof:lastmodified":1464294402,
+    "wof:name":"R & R Development Co",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -114.324365,
+    48.210154,
+    -114.324365,
+    48.210154
+],
+  "geometry": {"coordinates":[-114.324365,48.210154],"type":"Point"}
+}

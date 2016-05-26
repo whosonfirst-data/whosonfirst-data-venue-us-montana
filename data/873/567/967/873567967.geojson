@@ -1,0 +1,71 @@
+{
+  "id": 873567967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.332807,48.298442,-114.332807,48.298442",
+    "geom:latitude":48.298442,
+    "geom:longitude":-114.332807,
+    "iso:country":"US",
+    "sg:address":"4098 US Hwy 93 N",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 758 5911",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xO8r9bgQoUdhVJwTT8KF6_48.298442_-114.332807@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294585,
+    "wof:geomhash":"f65da0647201ebb81bcecd7c6063829f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873567967
+        }
+    ],
+    "wof:id":873567967,
+    "wof:lastmodified":1464294585,
+    "wof:name":"Solid Waste Landfill Co",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -114.332807,
+    48.298442,
+    -114.332807,
+    48.298442
+],
+  "geometry": {"coordinates":[-114.332807,48.298442],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873619007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.039505,46.858802,-114.039505,46.858802",
+    "geom:latitude":46.858802,
+    "geom:longitude":-114.039505,
+    "iso:country":"US",
+    "sg:address":"1428 S Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 5950",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "floor",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SHKs3RnqiwPQ1FtZqNIYW_46.858802_-114.039505@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295240,
+    "wof:geomhash":"3386bd7e2cbac5d470d40ccf363b4602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873619007
+        }
+    ],
+    "wof:id":873619007,
+    "wof:lastmodified":1464295240,
+    "wof:name":"Sherwin-Williams",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "covering"
+    ]
+},
+  "bbox": [
+    -114.039505,
+    46.858802,
+    -114.039505,
+    46.858802
+],
+  "geometry": {"coordinates":[-114.03950500000001,46.858802],"type":"Point"}
+}

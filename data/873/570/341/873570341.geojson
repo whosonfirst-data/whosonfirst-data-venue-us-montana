@@ -1,0 +1,77 @@
+{
+  "id": 873570341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.619124,45.731179,-108.619124,45.731179",
+    "geom:latitude":45.731179,
+    "geom:longitude":-108.619124,
+    "iso:country":"US",
+    "sg:address":"4408 Summer Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 9058",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VR7qUjdnLCBMyN832jqfe_45.731179_-108.619124@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294613,
+    "wof:geomhash":"fe83f25c785739d289369a215f622e76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873570341
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873570341
+        }
+    ],
+    "wof:id":873570341,
+    "wof:lastmodified":1464294613,
+    "wof:name":"Ace Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -108.619124,
+    45.731179,
+    -108.619124,
+    45.731179
+],
+  "geometry": {"coordinates":[-108.619124,45.731179],"type":"Point"}
+}

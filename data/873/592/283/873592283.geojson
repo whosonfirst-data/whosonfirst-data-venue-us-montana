@@ -1,0 +1,73 @@
+{
+  "id": 873592283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.023941,46.853365,-114.023941,46.853365",
+    "geom:latitude":46.853365,
+    "geom:longitude":-114.023941,
+    "iso:country":"US",
+    "sg:address":"1801 Kensington Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 1823",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rOkIpggII9eC6zaXwqaob_46.853365_-114.023941@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294862,
+    "wof:geomhash":"ebba38833185d04af3c92c83d3bf90c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873592283
+        }
+    ],
+    "wof:id":873592283,
+    "wof:lastmodified":1464294862,
+    "wof:name":"Interstate Auto Repair",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -114.023941,
+    46.853365,
+    -114.023941,
+    46.853365
+],
+  "geometry": {"coordinates":[-114.02394099999999,46.853365],"type":"Point"}
+}

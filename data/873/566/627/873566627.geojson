@@ -1,0 +1,71 @@
+{
+  "id": 873566627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.363409,45.913441,-108.363409,45.913441",
+    "geom:latitude":45.913441,
+    "geom:longitude":-108.363409,
+    "iso:country":"US",
+    "sg:address":"6235 Hofferber Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 5818",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eFBc4BxpyZ9fJOeBfMQLX_45.913441_-108.363409@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294572,
+    "wof:geomhash":"1f348301ab974f9c61120dd4ea384bd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873566627
+        }
+    ],
+    "wof:id":873566627,
+    "wof:lastmodified":1464294572,
+    "wof:name":"Rebsom Concrete Inc",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.363409,
+    45.913441,
+    -108.363409,
+    45.913441
+],
+  "geometry": {"coordinates":[-108.363409,45.913441],"type":"Point"}
+}

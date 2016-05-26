@@ -1,0 +1,75 @@
+{
+  "id": 873555125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.500705,45.780822,-108.500705,45.780822",
+    "geom:latitude":45.780822,
+    "geom:longitude":-108.500705,
+    "iso:country":"US",
+    "sg:address":"2511 1st Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0880",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "product",
+        "petroleum",
+        "tire",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49Csg9EtezeFfOhAEUT2zj_45.780822_-108.500705@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294438,
+    "wof:geomhash":"c810efa0e85ddd2ee4756752840c4f99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873555125
+        }
+    ],
+    "wof:id":873555125,
+    "wof:lastmodified":1464294438,
+    "wof:name":"Wilson Dunham Service Station",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "petroleum",
+        "tire",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -108.500705,
+    45.780822,
+    -108.500705,
+    45.780822
+],
+  "geometry": {"coordinates":[-108.500705,45.780822],"type":"Point"}
+}

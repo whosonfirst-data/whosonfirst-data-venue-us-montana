@@ -1,0 +1,68 @@
+{
+  "id": 873556383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.534444,45.998115,-112.534444,45.998115",
+    "geom:latitude":45.998115,
+    "geom:longitude":-112.534444,
+    "iso:country":"US",
+    "sg:address":"101 W Front St",
+    "sg:city":"Elliston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 492 6644",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c0X8HQmaGNPpLY9OaoFXd_45.998115_-112.534444@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294452,
+    "wof:geomhash":"004d1aa8e297284e4bfc6f7b31c4b626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873556383
+        }
+    ],
+    "wof:id":873556383,
+    "wof:lastmodified":1464294452,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.534444,
+    45.998115,
+    -112.534444,
+    45.998115
+],
+  "geometry": {"coordinates":[-112.53444399999999,45.998115],"type":"Point"}
+}

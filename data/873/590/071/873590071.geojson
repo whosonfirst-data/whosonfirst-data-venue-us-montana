@@ -1,0 +1,71 @@
+{
+  "id": 873590071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.455767,45.8509,-108.455767,45.8509",
+    "geom:latitude":45.8509,
+    "geom:longitude":-108.455767,
+    "iso:country":"US",
+    "sg:address":"2905 Grelck Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 4542",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31Mh42DzSIqZC6eP47325q_45.850900_-108.455767@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294832,
+    "wof:geomhash":"4f6c8550ed17d768f000760b66b414a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873590071
+        }
+    ],
+    "wof:id":873590071,
+    "wof:lastmodified":1464294832,
+    "wof:name":"Anglers & Antlers Taxidermy",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -108.455767,
+    45.8509,
+    -108.455767,
+    45.8509
+],
+  "geometry": {"coordinates":[-108.45576699999999,45.8509],"type":"Point"}
+}

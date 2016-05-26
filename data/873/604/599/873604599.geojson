@@ -1,0 +1,70 @@
+{
+  "id": 873604599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.48976,45.789972,-108.48976,45.789972",
+    "geom:latitude":45.789972,
+    "geom:longitude":-108.48976,
+    "iso:country":"US",
+    "sg:address":"1415 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 1944",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.calvarychapel-billings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jNm9kxnPgDWSn7Bb8p95A_45.789972_-108.489760@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295035,
+    "wof:geomhash":"f66fbfedadcb88ec1ad74dc303e4ec9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873604599
+        }
+    ],
+    "wof:id":873604599,
+    "wof:lastmodified":1464295035,
+    "wof:name":"Calvary Chapel Billings",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -108.48976,
+    45.789972,
+    -108.48976,
+    45.789972
+],
+  "geometry": {"coordinates":[-108.48976,45.789972],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873666863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.685768,45.726038,-108.685768,45.726038",
+    "geom:latitude":45.726038,
+    "geom:longitude":-108.685768,
+    "iso:country":"US",
+    "sg:address":"6640 Neibauer Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5324",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k2hCRiAkFkKYVIE3k4DF1_45.726038_-108.685768@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295768,
+    "wof:geomhash":"a72d86e08b581c46477d54957e513222",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873666863
+        }
+    ],
+    "wof:id":873666863,
+    "wof:lastmodified":1464295768,
+    "wof:name":"Rak Auto Body Repair",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -108.685768,
+    45.726038,
+    -108.685768,
+    45.726038
+],
+  "geometry": {"coordinates":[-108.685768,45.726038],"type":"Point"}
+}

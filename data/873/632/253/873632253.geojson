@@ -1,0 +1,71 @@
+{
+  "id": 873632253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.028549,46.841659,-114.028549,46.841659",
+    "geom:latitude":46.841659,
+    "geom:longitude":-114.028549,
+    "iso:country":"US",
+    "sg:address":"3109 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 5770",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "casino"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iZfwPe6t5kEVtoQfbpAS6_46.841659_-114.028549@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295389,
+    "wof:geomhash":"01098b49f2b2547c3c031d6e77ba8d3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873632253
+        }
+    ],
+    "wof:id":873632253,
+    "wof:lastmodified":1464295389,
+    "wof:name":"Lucky Lil's II",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casino"
+    ]
+},
+  "bbox": [
+    -114.028549,
+    46.841659,
+    -114.028549,
+    46.841659
+],
+  "geometry": {"coordinates":[-114.028549,46.841659],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873568333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.569166,45.648338,-110.569166,45.648338",
+    "geom:latitude":45.648338,
+    "geom:longitude":-110.569166,
+    "iso:country":"US",
+    "sg:address":"510 S 14th St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 0672",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "skilled",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jKJ0YFww1ocOPASA4PCN7_45.648338_-110.569166@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294589,
+    "wof:geomhash":"0bdeeab75dfeef1573eb33d790cebbac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873568333
+        }
+    ],
+    "wof:id":873568333,
+    "wof:lastmodified":1464294589,
+    "wof:name":"Livingston Health & Rehab Ctr",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled",
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -110.569166,
+    45.648338,
+    -110.569166,
+    45.648338
+],
+  "geometry": {"coordinates":[-110.569166,45.648338],"type":"Point"}
+}

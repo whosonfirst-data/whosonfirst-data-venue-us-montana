@@ -1,0 +1,81 @@
+{
+  "id": 873673923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.57619,45.743452,-108.57619,45.743452",
+    "geom:latitude":45.743452,
+    "geom:longitude":-108.57619,
+    "iso:country":"US",
+    "sg:address":"1520 East Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4444",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OsOq36LLIiCZJsKx7c6hQ_45.743452_-108.576190@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295840,
+    "wof:geomhash":"b3ce3f171243603d56bad92bee081950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873673923
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873673923
+        }
+    ],
+    "wof:id":873673923,
+    "wof:lastmodified":1464295840,
+    "wof:name":"American Drilling and Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -108.57619,
+    45.743452,
+    -108.57619,
+    45.743452
+],
+  "geometry": {"coordinates":[-108.57619,45.743452],"type":"Point"}
+}

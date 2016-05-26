@@ -1,0 +1,81 @@
+{
+  "id": 873636863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.732507,45.350594,-111.732507,45.350594",
+    "geom:latitude":45.350594,
+    "geom:longitude":-111.732507,
+    "iso:country":"US",
+    "sg:address":"444 US Hwy 287 N",
+    "sg:city":"Ennis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 682 7670",
+    "sg:postcode":"59729",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mining",
+        "gold",
+        "well",
+        "water",
+        "drilling",
+        "ore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P56vzGmqgBGeiJYwABR0m_45.350594_-111.732507@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295443,
+    "wof:geomhash":"09281b9ca05ee924ecbb47a43c15a870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873636863
+        }
+    ],
+    "wof:id":873636863,
+    "wof:lastmodified":1464295443,
+    "wof:name":"Big Sky Drilling",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mining",
+        "gold",
+        "well",
+        "water",
+        "drilling",
+        "ore"
+    ]
+},
+  "bbox": [
+    -111.732507,
+    45.350594,
+    -111.732507,
+    45.350594
+],
+  "geometry": {"coordinates":[-111.732507,45.350594],"type":"Point"}
+}

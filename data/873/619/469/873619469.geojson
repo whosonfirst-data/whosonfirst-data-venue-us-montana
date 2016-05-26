@@ -1,0 +1,73 @@
+{
+  "id": 873619469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.240732,48.325839,-114.240732,48.325839",
+    "geom:latitude":48.325839,
+    "geom:longitude":-114.240732,
+    "iso:country":"US",
+    "sg:address":"4785 US Hwy 2 E",
+    "sg:city":"Columbia Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 7008",
+    "sg:postcode":"59912",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RI4patgssdN2qVDj4GL39_48.325839_-114.240732@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295245,
+    "wof:geomhash":"32103b0e8bed3d2aa4cc5a4af5e4b372",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873619469
+        }
+    ],
+    "wof:id":873619469,
+    "wof:lastmodified":1464295245,
+    "wof:name":"Jimmy John's Auto Sales",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -114.240732,
+    48.325839,
+    -114.240732,
+    48.325839
+],
+  "geometry": {"coordinates":[-114.24073199999999,48.325839],"type":"Point"}
+}

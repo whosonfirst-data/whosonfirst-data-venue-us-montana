@@ -1,0 +1,84 @@
+{
+  "id": 873699001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.5963,45.755173,-108.5963,45.755173",
+    "geom:latitude":45.755173,
+    "geom:longitude":-108.5963,
+    "iso:country":"US",
+    "sg:address":"3189 King Ave W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/153524-pudge-brothers-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 1907",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69SVn1QlY1hZrRCYm2SA7C_45.755173_-108.596300@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296394,
+    "wof:geomhash":"d45f97084c4a5c4c30cdf95e1ea7104a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873699001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873699001
+        }
+    ],
+    "wof:id":873699001,
+    "wof:lastmodified":1464296394,
+    "wof:name":"Pudge Brothers Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.5963,
+    45.755173,
+    -108.5963,
+    45.755173
+],
+  "geometry": {"coordinates":[-108.5963,45.755173],"type":"Point"}
+}

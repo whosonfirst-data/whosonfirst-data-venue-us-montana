@@ -1,0 +1,71 @@
+{
+  "id": 873600535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.780348,45.671471,-108.780348,45.671471",
+    "geom:latitude":45.671471,
+    "geom:longitude":-108.780348,
+    "iso:country":"US",
+    "sg:address":"615 W 3rd St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 4794",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Rte0MaMoMtWIc7mgwBb1_45.671471_-108.780348@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294993,
+    "wof:geomhash":"e51fba54c12a57275e869918012077f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873600535
+        }
+    ],
+    "wof:id":873600535,
+    "wof:lastmodified":1464294993,
+    "wof:name":"Bobs Welding Service",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -108.780348,
+    45.671471,
+    -108.780348,
+    45.671471
+],
+  "geometry": {"coordinates":[-108.780348,45.671471],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873630835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470777,45.815519,-108.470777,45.815519",
+    "geom:latitude":45.815519,
+    "geom:longitude":-108.470777,
+    "iso:country":"US",
+    "sg:address":"904 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 591 3003",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fBPvJ3lx6QgyhFdJGdDgX_45.815519_-108.470777@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295373,
+    "wof:geomhash":"a07f1b02727fb4e95cc186ec7b361311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873630835
+        }
+    ],
+    "wof:id":873630835,
+    "wof:lastmodified":1464295373,
+    "wof:name":"3 Rivers Wireless",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -108.470777,
+    45.815519,
+    -108.470777,
+    45.815519
+],
+  "geometry": {"coordinates":[-108.470777,45.815519],"type":"Point"}
+}

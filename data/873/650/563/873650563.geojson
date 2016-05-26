@@ -1,0 +1,77 @@
+{
+  "id": 873650563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.051872,46.903324,-114.051872,46.903324",
+    "geom:latitude":46.903324,
+    "geom:longitude":-114.051872,
+    "iso:country":"US",
+    "sg:address":"4025 Flynn Ln",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 5550",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "civil",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65xsIjcM2j9FNneHejOOk4_46.903324_-114.051872@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295594,
+    "wof:geomhash":"a58bc837cb5ab4a4acbdb37872751c46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873650563
+        }
+    ],
+    "wof:id":873650563,
+    "wof:lastmodified":1464295594,
+    "wof:name":"Garden City Plumbing & Heating",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "civil",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.051872,
+    46.903324,
+    -114.051872,
+    46.903324
+],
+  "geometry": {"coordinates":[-114.051872,46.903324],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873625441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.325647,48.200495,-114.325647,48.200495",
+    "geom:latitude":48.200495,
+    "geom:longitude":-114.325647,
+    "iso:country":"US",
+    "sg:address":"720 W Idaho St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 2002",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5viSmOmC1YNgCmxxgsJk1B_48.200495_-114.325647@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295315,
+    "wof:geomhash":"d1793713da67889d72a3069a550b61ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873625441
+        }
+    ],
+    "wof:id":873625441,
+    "wof:lastmodified":1464295315,
+    "wof:name":"Imperial Dry Clrs & Laundromat",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -114.325647,
+    48.200495,
+    -114.325647,
+    48.200495
+],
+  "geometry": {"coordinates":[-114.325647,48.200495],"type":"Point"}
+}

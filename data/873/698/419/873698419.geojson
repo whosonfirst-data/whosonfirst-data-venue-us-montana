@@ -1,0 +1,74 @@
+{
+  "id": 873698419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.571512,45.640648,-110.571512,45.640648",
+    "geom:latitude":45.640648,
+    "geom:longitude":-110.571512,
+    "iso:country":"US",
+    "sg:address":"104 Centennial Dr",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/upper-yellowstone-valley/129692-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 5422",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5laiFX4m3CaiUAj1Dh75Bj_45.640648_-110.571512@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296388,
+    "wof:geomhash":"3fc98c5e8fa4612af11470b740560719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873698419
+        }
+    ],
+    "wof:id":873698419,
+    "wof:lastmodified":1464296388,
+    "wof:name":"Subway",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -110.571512,
+    45.640648,
+    -110.571512,
+    45.640648
+],
+  "geometry": {"coordinates":[-110.571512,45.640648],"type":"Point"}
+}

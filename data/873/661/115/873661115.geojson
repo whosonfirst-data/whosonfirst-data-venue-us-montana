@@ -1,0 +1,67 @@
+{
+  "id": 873661115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.559558,45.662512,-110.559558,45.662512",
+    "geom:latitude":45.662512,
+    "geom:longitude":-110.559558,
+    "iso:country":"US",
+    "sg:address":"111 N B St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 1750",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:website":"www.livingstonfcu.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tQSHwLOsHOYMbKBlFSr2Q_45.662512_-110.559558@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295709,
+    "wof:geomhash":"746f258c64c713d49d31ecaa4db5ef22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873661115
+        }
+    ],
+    "wof:id":873661115,
+    "wof:lastmodified":1464295709,
+    "wof:name":"Livingston Federal CU",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.559558,
+    45.662512,
+    -110.559558,
+    45.662512
+],
+  "geometry": {"coordinates":[-110.559558,45.662512],"type":"Point"}
+}

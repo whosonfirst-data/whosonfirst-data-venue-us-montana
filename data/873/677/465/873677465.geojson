@@ -1,0 +1,77 @@
+{
+  "id": 873677465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.590019,45.740616,-108.590019,45.740616",
+    "geom:latitude":45.740616,
+    "geom:longitude":-108.590019,
+    "iso:country":"US",
+    "sg:address":"2940 Hesper Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 8948",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uYAR4dcP90bI2il2iXtgZ_45.740616_-108.590019@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295922,
+    "wof:geomhash":"a051fde8753ef1da52e794cd234aea53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873677465
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873677465
+        }
+    ],
+    "wof:id":873677465,
+    "wof:lastmodified":1464295922,
+    "wof:name":"Montana Linx Mfg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -108.590019,
+    45.740616,
+    -108.590019,
+    45.740616
+],
+  "geometry": {"coordinates":[-108.590019,45.740616],"type":"Point"}
+}

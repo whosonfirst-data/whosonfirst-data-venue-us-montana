@@ -1,0 +1,73 @@
+{
+  "id": 873645769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.022438,46.881523,-114.022438,46.881523",
+    "geom:latitude":46.881523,
+    "geom:longitude":-114.022438,
+    "iso:country":"US",
+    "sg:address":"1805 W Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 0092",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oih1sZwiJCWLPRAqZ9Jar_46.881523_-114.022438@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295544,
+    "wof:geomhash":"cc6d41aaa2946957b28cb287cd04dff7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873645769
+        }
+    ],
+    "wof:id":873645769,
+    "wof:lastmodified":1464295544,
+    "wof:name":"Nickel Cars",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -114.022438,
+    46.881523,
+    -114.022438,
+    46.881523
+],
+  "geometry": {"coordinates":[-114.02243799999999,46.881523],"type":"Point"}
+}

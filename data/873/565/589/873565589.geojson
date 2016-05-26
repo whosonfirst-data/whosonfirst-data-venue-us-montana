@@ -1,0 +1,74 @@
+{
+  "id": 873565589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.591935,45.785852,-108.591935,45.785852",
+    "geom:latitude":45.785852,
+    "geom:longitude":-108.591935,
+    "iso:country":"US",
+    "sg:address":"3075 Ave C",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 7788",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "sg:website":"www.aspenview.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33irAL0NSsJ261IvTuCPie_45.785852_-108.591935@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294562,
+    "wof:geomhash":"e57606d04a1e136a60be9825f3cde404",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873565589
+        }
+    ],
+    "wof:id":873565589,
+    "wof:lastmodified":1464294562,
+    "wof:name":"Aspen View",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -108.591935,
+    45.785852,
+    -108.591935,
+    45.785852
+],
+  "geometry": {"coordinates":[-108.59193500000001,45.785852],"type":"Point"}
+}

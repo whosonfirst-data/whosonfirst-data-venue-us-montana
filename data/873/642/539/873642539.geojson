@@ -1,0 +1,73 @@
+{
+  "id": 873642539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.987118,46.869713,-113.987118,46.869713",
+    "geom:latitude":46.869713,
+    "geom:longitude":-113.987118,
+    "iso:country":"US",
+    "sg:address":"100 Madison St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 3100",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operation",
+        "eating",
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7doMKdslziakwgcmamW5Qz_46.869713_-113.987118@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295506,
+    "wof:geomhash":"3c2b9a996ec41ffbabc2e43b73ff1acf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873642539
+        }
+    ],
+    "wof:id":873642539,
+    "wof:lastmodified":1464295506,
+    "wof:name":"Doubletree Hotel",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "eating",
+        "drinking"
+    ]
+},
+  "bbox": [
+    -113.987118,
+    46.869713,
+    -113.987118,
+    46.869713
+],
+  "geometry": {"coordinates":[-113.987118,46.869713],"type":"Point"}
+}

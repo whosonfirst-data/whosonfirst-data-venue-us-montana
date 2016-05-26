@@ -1,0 +1,71 @@
+{
+  "id": 873634321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.30896,48.230085,-114.30896,48.230085",
+    "geom:latitude":48.230085,
+    "geom:longitude":-114.30896,
+    "iso:country":"US",
+    "sg:address":"34 Bruyer Way",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 7846",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QBnIzTFEJBEtVrFA0Jzp5_48.230085_-114.308960@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295416,
+    "wof:geomhash":"c36fd932420305f587f74ba97e1f9b1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873634321
+        }
+    ],
+    "wof:id":873634321,
+    "wof:lastmodified":1464295416,
+    "wof:name":"Kalispell Orthodontic Ctr",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -114.30896,
+    48.230085,
+    -114.30896,
+    48.230085
+],
+  "geometry": {"coordinates":[-114.30896,48.230085],"type":"Point"}
+}

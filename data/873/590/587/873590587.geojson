@@ -1,0 +1,84 @@
+{
+  "id": 873590587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.419021,45.810735,-108.419021,45.810735",
+    "geom:latitude":45.810735,
+    "geom:longitude":-108.419021,
+    "iso:country":"US",
+    "sg:address":"2511 Old Hardin Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6694",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "civil",
+        "surveyor",
+        "consulting",
+        "land",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tq2dYjmgTYIFOlzyG7XTS_45.810735_-108.419021@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294837,
+    "wof:geomhash":"8a6741273a1b4c6fad581b70260cdea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873590587
+        }
+    ],
+    "wof:id":873590587,
+    "wof:lastmodified":1464294837,
+    "wof:name":"Atlas Engineers Inc",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "surveyor",
+        "consulting",
+        "land",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -108.419021,
+    45.810735,
+    -108.419021,
+    45.810735
+],
+  "geometry": {"coordinates":[-108.419021,45.810735],"type":"Point"}
+}

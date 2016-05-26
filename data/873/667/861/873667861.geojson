@@ -1,0 +1,79 @@
+{
+  "id": 873667861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.578203,45.741633,-108.578203,45.741633",
+    "geom:latitude":45.741633,
+    "geom:longitude":-108.578203,
+    "iso:country":"US",
+    "sg:address":"1452 West Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 3244",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HMetiijZvSTo6IWxtn6sE_45.741633_-108.578203@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295778,
+    "wof:geomhash":"994c56d80a0738433f9282382092c709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873667861
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873667861
+        }
+    ],
+    "wof:id":873667861,
+    "wof:lastmodified":1464295778,
+    "wof:name":"Martinson Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.578203,
+    45.741633,
+    -108.578203,
+    45.741633
+],
+  "geometry": {"coordinates":[-108.578203,45.741633],"type":"Point"}
+}

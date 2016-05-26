@@ -1,0 +1,73 @@
+{
+  "id": 873586955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.044603,46.825543,-114.044603,46.825543",
+    "geom:latitude":46.825543,
+    "geom:longitude":-114.044603,
+    "iso:country":"US",
+    "sg:address":"2625 S Hills Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 3473",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "consulting",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V0vp12H6ejK40LcP5JD8y_46.825543_-114.044603@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294797,
+    "wof:geomhash":"c1a53f0edf0e0804f2a416fa58788d89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873586955
+        }
+    ],
+    "wof:id":873586955,
+    "wof:lastmodified":1464294797,
+    "wof:name":"Montana Sorbonne Abacus Inst",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "business"
+    ]
+},
+  "bbox": [
+    -114.044603,
+    46.825543,
+    -114.044603,
+    46.825543
+],
+  "geometry": {"coordinates":[-114.044603,46.825543],"type":"Point"}
+}

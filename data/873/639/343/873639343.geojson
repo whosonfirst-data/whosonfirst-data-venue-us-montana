@@ -1,0 +1,81 @@
+{
+  "id": 873639343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.598446,45.769711,-108.598446,45.769711",
+    "geom:latitude":45.769711,
+    "geom:longitude":-108.598446,
+    "iso:country":"US",
+    "sg:address":"3221 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 1585",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "flag",
+        "banner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08xphuNzmQUAXeHHwJ9gWX_45.769711_-108.598446@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295467,
+    "wof:geomhash":"faab78e352f826f5c2a6fb92329d223c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873639343
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873639343
+        }
+    ],
+    "wof:id":873639343,
+    "wof:lastmodified":1464295467,
+    "wof:name":"Western Flag & Banner",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flag",
+        "banner"
+    ]
+},
+  "bbox": [
+    -108.598446,
+    45.769711,
+    -108.598446,
+    45.769711
+],
+  "geometry": {"coordinates":[-108.598446,45.769711],"type":"Point"}
+}

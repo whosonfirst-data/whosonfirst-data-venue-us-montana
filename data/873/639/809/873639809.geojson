@@ -1,0 +1,71 @@
+{
+  "id": 873639809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.274282,48.215366,-114.274282,48.215366",
+    "geom:latitude":48.215366,
+    "geom:longitude":-114.274282,
+    "iso:country":"US",
+    "sg:address":"1416 State Hwy 35",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 4771",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LH2dy70nI58A5QEvjBxpa_48.215366_-114.274282@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295471,
+    "wof:geomhash":"6afa236b003d95547778067bd243a48d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873639809
+        }
+    ],
+    "wof:id":873639809,
+    "wof:lastmodified":1464295471,
+    "wof:name":"Flathead Transm Specialists",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -114.274282,
+    48.215366,
+    -114.274282,
+    48.215366
+],
+  "geometry": {"coordinates":[-114.274282,48.215366],"type":"Point"}
+}

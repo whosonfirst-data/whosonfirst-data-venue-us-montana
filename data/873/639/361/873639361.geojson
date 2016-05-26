@@ -1,0 +1,71 @@
+{
+  "id": 873639361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.30953,48.199552,-114.30953,48.199552",
+    "geom:latitude":48.199552,
+    "geom:longitude":-114.30953,
+    "iso:country":"US",
+    "sg:address":"215 E Center St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 6325",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F1A43VwesChKM5kilJbuG_48.199552_-114.309530@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295467,
+    "wof:geomhash":"706ce2b7f91422e6550e8b32aa1e4325",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873639361
+        }
+    ],
+    "wof:id":873639361,
+    "wof:lastmodified":1464295467,
+    "wof:name":"All Season Radiator",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -114.30953,
+    48.199552,
+    -114.30953,
+    48.199552
+],
+  "geometry": {"coordinates":[-114.30953,48.199552],"type":"Point"}
+}

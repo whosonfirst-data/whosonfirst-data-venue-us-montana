@@ -1,0 +1,81 @@
+{
+  "id": 873672479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576075,45.753436,-108.576075,45.753436",
+    "geom:latitude":45.753436,
+    "geom:longitude":-108.576075,
+    "iso:country":"US",
+    "sg:address":"1001 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 1009",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QAz5uwIGmkY7lPb77ck58_45.753436_-108.576075@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295826,
+    "wof:geomhash":"5d82b8623c836d604b99533ad31d91b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873672479
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873672479
+        }
+    ],
+    "wof:id":873672479,
+    "wof:lastmodified":1464295826,
+    "wof:name":"Alpine Counseling Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -108.576075,
+    45.753436,
+    -108.576075,
+    45.753436
+],
+  "geometry": {"coordinates":[-108.576075,45.753436],"type":"Point"}
+}

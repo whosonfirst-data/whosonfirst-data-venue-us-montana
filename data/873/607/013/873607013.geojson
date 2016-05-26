@@ -1,0 +1,86 @@
+{
+  "id": 873607013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.028584,45.694631,-111.028584,45.694631",
+    "geom:latitude":45.694631,
+    "geom:longitude":-111.028584,
+    "iso:country":"US",
+    "sg:address":"1404 Gold Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 5295",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "energy",
+        "electrical",
+        "solar",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZnpmwlZM825qRL2CszllC_45.694631_-111.028584@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295078,
+    "wof:geomhash":"fe7a4da5a1fbd97cb7b51354819226c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876477,
+            "region_id":85688617,
+            "venue_id":873607013
+        }
+    ],
+    "wof:id":873607013,
+    "wof:lastmodified":1464295078,
+    "wof:name":"Independent Power Systems Inc",
+    "wof:parent_id":85876477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "energy",
+        "electrical",
+        "solar",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.028584,
+    45.694631,
+    -111.028584,
+    45.694631
+],
+  "geometry": {"coordinates":[-111.028584,45.694631],"type":"Point"}
+}

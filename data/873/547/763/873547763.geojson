@@ -1,0 +1,79 @@
+{
+  "id": 873547763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.627764,45.755008,-108.627764,45.755008",
+    "geom:latitude":45.755008,
+    "geom:longitude":-108.627764,
+    "iso:country":"US",
+    "sg:address":"4625 King Ave W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 0308",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GSF7NxuaajpLIZYgCJrDX_45.755008_-108.627764@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294348,
+    "wof:geomhash":"e1651e7df20211816525de8f144b5d59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873547763
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873547763
+        }
+    ],
+    "wof:id":873547763,
+    "wof:lastmodified":1464294348,
+    "wof:name":"Donn & Debb Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.627764,
+    45.755008,
+    -108.627764,
+    45.755008
+],
+  "geometry": {"coordinates":[-108.627764,45.755008],"type":"Point"}
+}

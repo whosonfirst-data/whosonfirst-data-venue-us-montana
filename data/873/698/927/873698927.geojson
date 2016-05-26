@@ -1,0 +1,76 @@
+{
+  "id": 873698927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576291,45.764628,-108.576291,45.764628",
+    "geom:latitude":45.764628,
+    "geom:longitude":-108.576291,
+    "iso:country":"US",
+    "sg:address":"300 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/158751-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 4474",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H9o7sSyYBCt85h36nJVt1_45.764628_-108.576291@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296393,
+    "wof:geomhash":"3df2bd3938c9d1578ed4809fe1f07f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873698927
+        }
+    ],
+    "wof:id":873698927,
+    "wof:lastmodified":1464296393,
+    "wof:name":"Arby's",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -108.576291,
+    45.764628,
+    -108.576291,
+    45.764628
+],
+  "geometry": {"coordinates":[-108.576291,45.764628],"type":"Point"}
+}

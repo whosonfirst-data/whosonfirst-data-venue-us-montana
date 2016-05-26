@@ -1,0 +1,75 @@
+{
+  "id": 873569469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.484531,45.827424,-108.484531,45.827424",
+    "geom:latitude":45.827424,
+    "geom:longitude":-108.484531,
+    "iso:country":"US",
+    "sg:address":"27 Wicks Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 6599",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09o5ndN0Hzr4HSmJ3chXB8_45.827424_-108.484531@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294601,
+    "wof:geomhash":"a2113a3fedc3a26e1f6294b87f3bc0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":873569469
+        }
+    ],
+    "wof:id":873569469,
+    "wof:lastmodified":1464294601,
+    "wof:name":"Acorn Plumbing & Heating",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.484531,
+    45.827424,
+    -108.484531,
+    45.827424
+],
+  "geometry": {"coordinates":[-108.484531,45.827424],"type":"Point"}
+}

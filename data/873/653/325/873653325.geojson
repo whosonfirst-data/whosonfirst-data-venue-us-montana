@@ -1,0 +1,74 @@
+{
+  "id": 873653325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.599695,45.756627,-108.599695,45.756627",
+    "geom:latitude":45.756627,
+    "geom:longitude":-108.599695,
+    "iso:country":"US",
+    "sg:address":"3290 Granger Ave E",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 598 1713",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K7QiUW696JCNlJQKjgHCi_45.756627_-108.599695@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295628,
+    "wof:geomhash":"f44fa1544ae12ec9e80b2db5a9810c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873653325
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873653325
+        }
+    ],
+    "wof:id":873653325,
+    "wof:lastmodified":1464295628,
+    "wof:name":"Power of Flowers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.599695,
+    45.756627,
+    -108.599695,
+    45.756627
+],
+  "geometry": {"coordinates":[-108.599695,45.756627],"type":"Point"}
+}

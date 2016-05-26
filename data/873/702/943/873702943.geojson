@@ -1,0 +1,87 @@
+{
+  "id": 873702943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.503884,45.782067,-108.503884,45.782067",
+    "geom:latitude":45.782067,
+    "geom:longitude":-108.503884,
+    "iso:country":"US",
+    "sg:address":"27 N 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 7400",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12aGoUkfJyi7XDV77m5pWJ_45.782067_-108.503884@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296435,
+    "wof:geomhash":"ba9645cedacbf21887b7280630307049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873702943
+        }
+    ],
+    "wof:id":873702943,
+    "wof:lastmodified":1464296435,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -108.503884,
+    45.782067,
+    -108.503884,
+    45.782067
+],
+  "geometry": {"coordinates":[-108.503884,45.782067],"type":"Point"}
+}

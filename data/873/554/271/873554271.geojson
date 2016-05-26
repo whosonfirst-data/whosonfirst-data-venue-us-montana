@@ -1,0 +1,73 @@
+{
+  "id": 873554271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.60567,45.797684,-108.60567,45.797684",
+    "geom:latitude":45.797684,
+    "geom:longitude":-108.60567,
+    "iso:country":"US",
+    "sg:address":"3627 Donna Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 860 1624",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DBKagB4L1sMzASkpO1cuy_45.797684_-108.605670@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294426,
+    "wof:geomhash":"e414b0bb3708f80e7cc0f8927ea6562b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873554271
+        }
+    ],
+    "wof:id":873554271,
+    "wof:lastmodified":1464294426,
+    "wof:name":"J & M Construction",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.60567,
+    45.797684,
+    -108.60567,
+    45.797684
+],
+  "geometry": {"coordinates":[-108.60567,45.797684],"type":"Point"}
+}

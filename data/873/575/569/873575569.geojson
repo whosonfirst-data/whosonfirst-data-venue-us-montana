@@ -1,0 +1,71 @@
+{
+  "id": 873575569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.006664,46.831521,-114.006664,46.831521",
+    "geom:latitude":46.831521,
+    "geom:longitude":-114.006664,
+    "iso:country":"US",
+    "sg:address":"810 Parkview Way",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 0116",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "professional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AgE78dTbWugqpRQrHthSC_46.831521_-114.006664@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294669,
+    "wof:geomhash":"42f14d7a533eebb6a6c777fbed6340eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873575569
+        }
+    ],
+    "wof:id":873575569,
+    "wof:lastmodified":1464294669,
+    "wof:name":"Sample Co",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professional"
+    ]
+},
+  "bbox": [
+    -114.006664,
+    46.831521,
+    -114.006664,
+    46.831521
+],
+  "geometry": {"coordinates":[-114.006664,46.831521],"type":"Point"}
+}

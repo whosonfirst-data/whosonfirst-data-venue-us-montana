@@ -1,0 +1,83 @@
+{
+  "id": 873578229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.596786,45.74863,-108.596786,45.74863",
+    "geom:latitude":45.74863,
+    "geom:longitude":-108.596786,
+    "iso:country":"US",
+    "sg:address":"1235 S 32nd St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4117",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hFFTXB9CPxdkzEJwImqhc_45.748630_-108.596786@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294697,
+    "wof:geomhash":"221fffae51ace60c1792be4c77bd5feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873578229
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873578229
+        }
+    ],
+    "wof:id":873578229,
+    "wof:lastmodified":1464294697,
+    "wof:name":"Avid Auto Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ]
+},
+  "bbox": [
+    -108.596786,
+    45.74863,
+    -108.596786,
+    45.74863
+],
+  "geometry": {"coordinates":[-108.59678599999999,45.74863],"type":"Point"}
+}

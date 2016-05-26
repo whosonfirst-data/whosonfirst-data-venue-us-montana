@@ -1,0 +1,71 @@
+{
+  "id": 873632779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.083749,46.853943,-114.083749,46.853943",
+    "geom:latitude":46.853943,
+    "geom:longitude":-114.083749,
+    "iso:country":"US",
+    "sg:address":"1717 42nd Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 1010",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dy2CkDuCaxAJaBkXL8X7c_46.853943_-114.083749@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295397,
+    "wof:geomhash":"2b8aae3d30433e9d102b76e81e9b5838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873632779
+        }
+    ],
+    "wof:id":873632779,
+    "wof:lastmodified":1464295397,
+    "wof:name":"Steubs Drywall",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.083749,
+    46.853943,
+    -114.083749,
+    46.853943
+],
+  "geometry": {"coordinates":[-114.083749,46.853943],"type":"Point"}
+}

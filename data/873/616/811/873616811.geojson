@@ -1,0 +1,71 @@
+{
+  "id": 873616811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.587988,45.798626,-108.587988,45.798626",
+    "geom:latitude":45.798626,
+    "geom:longitude":-108.587988,
+    "iso:country":"US",
+    "sg:address":"2918 Rimrock Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 5075",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IAGXwBHPCPclFQiFuZOSN_45.798626_-108.587988@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295213,
+    "wof:geomhash":"67b32e69fa06036c121a507a7c27a2c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873616811
+        }
+    ],
+    "wof:id":873616811,
+    "wof:lastmodified":1464295213,
+    "wof:name":"Onyx Corp",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -108.587988,
+    45.798626,
+    -108.587988,
+    45.798626
+],
+  "geometry": {"coordinates":[-108.587988,45.798626],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873585805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.025473,46.833659,-114.025473,46.833659",
+    "geom:latitude":46.833659,
+    "geom:longitude":-114.025473,
+    "iso:country":"US",
+    "sg:address":"103 Tahoe Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 6216",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a3YBMi31uULW7YUTMfNAS_46.833659_-114.025473@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294782,
+    "wof:geomhash":"7e36420d3165d13a767b4bdbf1a6e255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873585805
+        }
+    ],
+    "wof:id":873585805,
+    "wof:lastmodified":1464294782,
+    "wof:name":"Home Daycare",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -114.025473,
+    46.833659,
+    -114.025473,
+    46.833659
+],
+  "geometry": {"coordinates":[-114.02547300000001,46.833659],"type":"Point"}
+}

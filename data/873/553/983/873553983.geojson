@@ -1,0 +1,75 @@
+{
+  "id": 873553983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.043988,46.884746,-114.043988,46.884746",
+    "geom:latitude":46.884746,
+    "geom:longitude":-114.043988,
+    "iso:country":"US",
+    "sg:address":"1500 Clark Fork Ln",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 1871",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "special",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XObtAYj4c4boFE40ed5yO_46.884746_-114.043988@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294422,
+    "wof:geomhash":"c5af02aa22490b20e079d870f9e4d6eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873553983
+        }
+    ],
+    "wof:id":873553983,
+    "wof:lastmodified":1464294422,
+    "wof:name":"Big Bear Signs",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "special",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -114.043988,
+    46.884746,
+    -114.043988,
+    46.884746
+],
+  "geometry": {"coordinates":[-114.043988,46.884746],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873641533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.606781,45.740543,-108.606781,45.740543",
+    "geom:latitude":45.740543,
+    "geom:longitude":-108.606781,
+    "iso:country":"US",
+    "sg:address":"3545 Hesper Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 2878",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "ale"
+    ],
+    "sg:website":"www.briggsdistributing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tPiSIczm62M1a0caKtwGO_45.740543_-108.606781@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295493,
+    "wof:geomhash":"45aaeb5a7016f8a5d3cf8755127da794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873641533
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873641533
+        }
+    ],
+    "wof:id":873641533,
+    "wof:lastmodified":1464295493,
+    "wof:name":"Briggs Distributing Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -108.606781,
+    45.740543,
+    -108.606781,
+    45.740543
+],
+  "geometry": {"coordinates":[-108.606781,45.740543],"type":"Point"}
+}

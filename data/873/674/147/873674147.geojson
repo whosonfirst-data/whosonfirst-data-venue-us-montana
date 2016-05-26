@@ -1,0 +1,73 @@
+{
+  "id": 873674147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.064187,46.812045,-114.064187,46.812045",
+    "geom:latitude":46.812045,
+    "geom:longitude":-114.064187,
+    "iso:country":"US",
+    "sg:address":"3200 Jack Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 3029",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D4glIOSS0ya1WOw2az8lE_46.812045_-114.064187@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295845,
+    "wof:geomhash":"f6bef5555ff9e2cf35bc94a8db8562b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873674147
+        }
+    ],
+    "wof:id":873674147,
+    "wof:lastmodified":1464295845,
+    "wof:name":"Guardian Transport LLC",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.064187,
+    46.812045,
+    -114.064187,
+    46.812045
+],
+  "geometry": {"coordinates":[-114.064187,46.812045],"type":"Point"}
+}

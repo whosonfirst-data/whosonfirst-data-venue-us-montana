@@ -1,0 +1,76 @@
+{
+  "id": 873701905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.3171,48.201802,-114.3171,48.201802",
+    "geom:latitude":48.201802,
+    "geom:longitude":-114.3171,
+    "iso:country":"US",
+    "sg:address":"135 W Idaho St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/kalispell/122292-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 6212",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TKMkVczNUVbmBIUtcc0HC_48.201802_-114.317100@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296424,
+    "wof:geomhash":"c99bec992032377e7c75697ad6b77aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873701905
+        }
+    ],
+    "wof:id":873701905,
+    "wof:lastmodified":1464296424,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -114.3171,
+    48.201802,
+    -114.3171,
+    48.201802
+],
+  "geometry": {"coordinates":[-114.3171,48.201802],"type":"Point"}
+}

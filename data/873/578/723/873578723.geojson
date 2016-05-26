@@ -1,0 +1,71 @@
+{
+  "id": 873578723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.998201,46.871481,-113.998201,46.871481",
+    "geom:latitude":46.871481,
+    "geom:longitude":-113.998201,
+    "iso:country":"US",
+    "sg:address":"301 W Front St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 2439",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hWLfiW7RJTd4vkbSlrXo0_46.871481_-113.998201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294702,
+    "wof:geomhash":"1521231a626bb4c001dae0180d1f7aa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873578723
+        }
+    ],
+    "wof:id":873578723,
+    "wof:lastmodified":1464294702,
+    "wof:name":"Clark Fork Riverside",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -113.998201,
+    46.871481,
+    -113.998201,
+    46.871481
+],
+  "geometry": {"coordinates":[-113.99820099999999,46.871481],"type":"Point"}
+}

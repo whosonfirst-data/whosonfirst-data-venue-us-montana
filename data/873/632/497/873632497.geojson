@@ -1,0 +1,69 @@
+{
+  "id": 873632497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.472602,45.809411,-108.472602,45.809411",
+    "geom:latitude":45.809411,
+    "geom:longitude":-108.472602,
+    "iso:country":"US",
+    "sg:address":"670 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 8792",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Bm22qGiF6PR62F5HOTbup_45.809411_-108.472602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295393,
+    "wof:geomhash":"47c666d710b6d321afd1d15985b1e31d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873632497
+        }
+    ],
+    "wof:id":873632497,
+    "wof:lastmodified":1464295393,
+    "wof:name":"Albertsons",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -108.472602,
+    45.809411,
+    -108.472602,
+    45.809411
+],
+  "geometry": {"coordinates":[-108.47260199999999,45.809411],"type":"Point"}
+}

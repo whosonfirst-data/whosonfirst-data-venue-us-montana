@@ -1,0 +1,71 @@
+{
+  "id": 873598297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.014223,46.878081,-114.014223,46.878081",
+    "geom:latitude":46.878081,
+    "geom:longitude":-114.014223,
+    "iso:country":"US",
+    "sg:address":"1358 W Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 6396",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mzGREBojfdgUDc5L5ENrs_46.878081_-114.014223@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294962,
+    "wof:geomhash":"4f8fc8eb23a56a219232d3d3acad5357",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873598297
+        }
+    ],
+    "wof:id":873598297,
+    "wof:lastmodified":1464294962,
+    "wof:name":"Import Palace",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -114.014223,
+    46.878081,
+    -114.014223,
+    46.878081
+],
+  "geometry": {"coordinates":[-114.014223,46.878081],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873541823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.376451,45.822525,-108.376451,45.822525",
+    "geom:latitude":45.822525,
+    "geom:longitude":-108.376451,
+    "iso:country":"US",
+    "sg:address":"4316 Wild Bill Hickock Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 4859",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yP9IYwKABeVtpj5FUZsEj_45.822525_-108.376451@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294278,
+    "wof:geomhash":"ec01d221650ea0bbd066985b1eb06e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873541823
+        }
+    ],
+    "wof:id":873541823,
+    "wof:lastmodified":1464294278,
+    "wof:name":"A & B Restaurant Svc",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -108.376451,
+    45.822525,
+    -108.376451,
+    45.822525
+],
+  "geometry": {"coordinates":[-108.376451,45.822525],"type":"Point"}
+}

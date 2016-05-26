@@ -1,0 +1,71 @@
+{
+  "id": 873635795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.591609,45.790064,-108.591609,45.790064",
+    "geom:latitude":45.790064,
+    "geom:longitude":-108.591609,
+    "iso:country":"US",
+    "sg:address":"3151 Parkhill Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 5070",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pGwBM0YpBK7Qjx1k6CN1f_45.790064_-108.591609@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295430,
+    "wof:geomhash":"5d1ff90f0ef387269549bc3cfe5133af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873635795
+        }
+    ],
+    "wof:id":873635795,
+    "wof:lastmodified":1464295430,
+    "wof:name":"Cormier Land Svc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -108.591609,
+    45.790064,
+    -108.591609,
+    45.790064
+],
+  "geometry": {"coordinates":[-108.59160900000001,45.790064],"type":"Point"}
+}

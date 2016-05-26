@@ -1,0 +1,73 @@
+{
+  "id": 873605481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.291855,48.186857,-114.291855,48.186857",
+    "geom:latitude":48.186857,
+    "geom:longitude":-114.291855,
+    "iso:country":"US",
+    "sg:address":"1600 Woodland Ave",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 2588",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zkjASouKDVra24FBb7IF9_48.186857_-114.291855@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295048,
+    "wof:geomhash":"30584fd5abb60a3b67954b309f79d369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873605481
+        }
+    ],
+    "wof:id":873605481,
+    "wof:lastmodified":1464295048,
+    "wof:name":"Willow Glen Group Home",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -114.291855,
+    48.186857,
+    -114.291855,
+    48.186857
+],
+  "geometry": {"coordinates":[-114.291855,48.186857],"type":"Point"}
+}

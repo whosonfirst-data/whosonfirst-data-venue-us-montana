@@ -1,0 +1,73 @@
+{
+  "id": 873640819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.30392,48.192882,-114.30392,48.192882",
+    "geom:latitude":48.192882,
+    "geom:longitude":-114.30392,
+    "iso:country":"US",
+    "sg:address":"728 5th Ave E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 6885",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77aFATykaggVpcyM5Oh6yd_48.192882_-114.303920@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295485,
+    "wof:geomhash":"492294fcccc7e7eecd0ffde26e1f3e18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873640819
+        }
+    ],
+    "wof:id":873640819,
+    "wof:lastmodified":1464295485,
+    "wof:name":"Nelson and Dereu Excavation",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.30392,
+    48.192882,
+    -114.30392,
+    48.192882
+],
+  "geometry": {"coordinates":[-114.30392000000001,48.192882],"type":"Point"}
+}

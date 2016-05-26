@@ -1,0 +1,71 @@
+{
+  "id": 873533471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.571731,45.791293,-108.571731,45.791293",
+    "geom:latitude":45.791293,
+    "geom:longitude":-108.571731,
+    "iso:country":"US",
+    "sg:address":"2210 Colton Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 5800",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FvcQDs4Y7tGwTNeRfBKDM_45.791293_-108.571731@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294171,
+    "wof:geomhash":"6382eafe4d7575b52b4639db5980b7de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873533471
+        }
+    ],
+    "wof:id":873533471,
+    "wof:lastmodified":1464294171,
+    "wof:name":"St Thomas The Apostle Church",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -108.571731,
+    45.791293,
+    -108.571731,
+    45.791293
+],
+  "geometry": {"coordinates":[-108.571731,45.791293],"type":"Point"}
+}

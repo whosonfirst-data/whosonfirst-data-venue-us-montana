@@ -1,0 +1,76 @@
+{
+  "id": 873699067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.467472,45.840999,-108.467472,45.840999",
+    "geom:latitude":45.840999,
+    "geom:longitude":-108.467472,
+    "iso:country":"US",
+    "sg:address":"2347 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/126202-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8280",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K7suMfXMtNcJDy8KTNelR_45.840999_-108.467472@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296394,
+    "wof:geomhash":"d89a4b57cd0107e57750366a1689347a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873699067
+        }
+    ],
+    "wof:id":873699067,
+    "wof:lastmodified":1464296394,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -108.467472,
+    45.840999,
+    -108.467472,
+    45.840999
+],
+  "geometry": {"coordinates":[-108.467472,45.840999],"type":"Point"}
+}

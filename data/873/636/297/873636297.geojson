@@ -1,0 +1,75 @@
+{
+  "id": 873636297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.426222,45.87063,-108.426222,45.87063",
+    "geom:latitude":45.87063,
+    "geom:longitude":-108.426222,
+    "iso:country":"US",
+    "sg:address":"3954 Hwy 312",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 0152",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KAjF9Dv3AXIOwRxSgh7FE_45.870630_-108.426222@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295435,
+    "wof:geomhash":"b813b1452e907defff6f58c5d8eb49bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873636297
+        }
+    ],
+    "wof:id":873636297,
+    "wof:lastmodified":1464295435,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -108.426222,
+    45.87063,
+    -108.426222,
+    45.87063
+],
+  "geometry": {"coordinates":[-108.426222,45.87063],"type":"Point"}
+}

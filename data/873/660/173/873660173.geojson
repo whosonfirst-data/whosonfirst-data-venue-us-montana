@@ -1,0 +1,73 @@
+{
+  "id": 873660173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.548315,45.785883,-108.548315,45.785883",
+    "geom:latitude":45.785883,
+    "geom:longitude":-108.548315,
+    "iso:country":"US",
+    "sg:address":"1212 Ave C",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2925",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3impTFRZoPil75A5rNDsF1_45.785883_-108.548315@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295700,
+    "wof:geomhash":"8f77af57e801407c909def29bbedaebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873660173
+        }
+    ],
+    "wof:id":873660173,
+    "wof:lastmodified":1464295700,
+    "wof:name":"Mental Health Ctr",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -108.548315,
+    45.785883,
+    -108.548315,
+    45.785883
+],
+  "geometry": {"coordinates":[-108.548315,45.785883],"type":"Point"}
+}

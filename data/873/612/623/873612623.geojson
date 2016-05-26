@@ -1,0 +1,71 @@
+{
+  "id": 873612623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.397167,45.914723,-108.397167,45.914723",
+    "geom:latitude":45.914723,
+    "geom:longitude":-108.397167,
+    "iso:country":"US",
+    "sg:address":"3215 Homer Davis Rd",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 5412",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06M7d2eSoJNO2vX1QkItab_45.914723_-108.397167@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295173,
+    "wof:geomhash":"13ac4435ff4de02834b5fad9a960f5ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873612623
+        }
+    ],
+    "wof:id":873612623,
+    "wof:lastmodified":1464295173,
+    "wof:name":"Beyond Basil Caterin",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.397167,
+    45.914723,
+    -108.397167,
+    45.914723
+],
+  "geometry": {"coordinates":[-108.397167,45.914723],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873573585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.023781,46.857455,-114.023781,46.857455",
+    "geom:latitude":46.857455,
+    "geom:longitude":-114.023781,
+    "iso:country":"US",
+    "sg:address":"1743 S 13th St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 9309",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KReqbzmRDfjJqxoqG0tlW_46.857455_-114.023781@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294648,
+    "wof:geomhash":"11a1e2a7aee8746231afdffab940d207",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873573585
+        }
+    ],
+    "wof:id":873573585,
+    "wof:lastmodified":1464294648,
+    "wof:name":"Bill Main Logging",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -114.023781,
+    46.857455,
+    -114.023781,
+    46.857455
+],
+  "geometry": {"coordinates":[-114.023781,46.857455],"type":"Point"}
+}

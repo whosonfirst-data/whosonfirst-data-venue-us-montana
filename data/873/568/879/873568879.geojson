@@ -1,0 +1,81 @@
+{
+  "id": 873568879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584583,45.740746,-108.584583,45.740746",
+    "geom:latitude":45.740746,
+    "geom:longitude":-108.584583,
+    "iso:country":"US",
+    "sg:address":"6543 Elysian Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 255 7782",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t7ZttIgy3A0LWeLtIaxgW_45.740746_-108.584583@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294594,
+    "wof:geomhash":"1e817ec41a850473d16173450244417b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873568879
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873568879
+        }
+    ],
+    "wof:id":873568879,
+    "wof:lastmodified":1464294594,
+    "wof:name":"Hail Masters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -108.584583,
+    45.740746,
+    -108.584583,
+    45.740746
+],
+  "geometry": {"coordinates":[-108.58458299999999,45.740746],"type":"Point"}
+}

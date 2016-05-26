@@ -1,0 +1,73 @@
+{
+  "id": 873618403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.512251,45.774155,-108.512251,45.774155",
+    "geom:latitude":45.774155,
+    "geom:longitude":-108.512251,
+    "iso:country":"US",
+    "sg:address":"117 S 36th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 5239",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cleanup",
+        "site",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HYPIrVL9XZnl87HMxvNXb_45.774155_-108.512251@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295234,
+    "wof:geomhash":"249aa732d8f26fc6700f5d64286fa65f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873618403
+        }
+    ],
+    "wof:id":873618403,
+    "wof:lastmodified":1464295234,
+    "wof:name":"Top Line Services",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleanup",
+        "site",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -108.512251,
+    45.774155,
+    -108.512251,
+    45.774155
+],
+  "geometry": {"coordinates":[-108.51225100000001,45.774155],"type":"Point"}
+}

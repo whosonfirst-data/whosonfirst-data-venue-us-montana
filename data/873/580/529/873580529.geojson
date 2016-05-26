@@ -1,0 +1,79 @@
+{
+  "id": 873580529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.618147,45.731498,-108.618147,45.731498",
+    "geom:latitude":45.731498,
+    "geom:longitude":-108.618147,
+    "iso:country":"US",
+    "sg:address":"2224 S Shiloh Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 2828",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fabricator",
+        "fiber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_702xLMV7zjE6IPd2AuN7U6_45.731498_-108.618147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294724,
+    "wof:geomhash":"384a667c24c0ef66e59c241df1a7c1f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873580529
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873580529
+        }
+    ],
+    "wof:id":873580529,
+    "wof:lastmodified":1464294724,
+    "wof:name":"Specialties",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "fiber"
+    ]
+},
+  "bbox": [
+    -108.618147,
+    45.731498,
+    -108.618147,
+    45.731498
+],
+  "geometry": {"coordinates":[-108.61814699999999,45.731498],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873568411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.988335,46.78379,-113.988335,46.78379",
+    "geom:latitude":46.78379,
+    "geom:longitude":-113.988335,
+    "iso:country":"US",
+    "sg:address":"777 Vintage Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 3461",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uu2KBpaxz0A4Yv7TzYNwQ_46.783790_-113.988335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294590,
+    "wof:geomhash":"912b9f572bf0a0183deaf3203b27e434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873568411
+        }
+    ],
+    "wof:id":873568411,
+    "wof:lastmodified":1464294590,
+    "wof:name":"Godfathers Pizza",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -113.988335,
+    46.78379,
+    -113.988335,
+    46.78379
+],
+  "geometry": {"coordinates":[-113.98833500000001,46.78379],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873545731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.568048,45.758556,-108.568048,45.758556",
+    "geom:latitude":45.758556,
+    "geom:longitude":-108.568048,
+    "iso:country":"US",
+    "sg:address":"2051 Rosebud Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 9801",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tlsybDBaRc2bJa0ZQXllb_45.758556_-108.568048@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294325,
+    "wof:geomhash":"824bb405fc26ac06d9f975a3e5c41de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873545731
+        }
+    ],
+    "wof:id":873545731,
+    "wof:lastmodified":1464294325,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -108.568048,
+    45.758556,
+    -108.568048,
+    45.758556
+],
+  "geometry": {"coordinates":[-108.568048,45.758556],"type":"Point"}
+}

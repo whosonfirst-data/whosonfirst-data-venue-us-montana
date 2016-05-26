@@ -1,0 +1,73 @@
+{
+  "id": 873594625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.440922,45.8312,-108.440922,45.8312",
+    "geom:latitude":45.8312,
+    "geom:longitude":-108.440922,
+    "iso:country":"US",
+    "sg:address":"1829 Elaine St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 2861",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4egY0F6fM42UuSYorDka6P_45.831200_-108.440922@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294896,
+    "wof:geomhash":"bfc6cea48459203e20f1eeea964b90a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873594625
+        }
+    ],
+    "wof:id":873594625,
+    "wof:lastmodified":1464294896,
+    "wof:name":"R&A Builders Inc",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.440922,
+    45.8312,
+    -108.440922,
+    45.8312
+],
+  "geometry": {"coordinates":[-108.440922,45.8312],"type":"Point"}
+}

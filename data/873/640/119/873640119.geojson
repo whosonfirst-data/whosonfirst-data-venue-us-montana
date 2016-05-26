@@ -1,0 +1,73 @@
+{
+  "id": 873640119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.314682,48.20118,-114.314682,48.20118",
+    "geom:latitude":48.20118,
+    "geom:longitude":-114.314682,
+    "iso:country":"US",
+    "sg:address":"1 N Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 7901",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "health",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qt9LnrlPnZfrKRLpv1RnT_48.201180_-114.314682@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295474,
+    "wof:geomhash":"efe2240bace88cb2b8fe2f54f738b452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873640119
+        }
+    ],
+    "wof:id":873640119,
+    "wof:lastmodified":1464295474,
+    "wof:name":"Corvel",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "care"
+    ]
+},
+  "bbox": [
+    -114.314682,
+    48.20118,
+    -114.314682,
+    48.20118
+],
+  "geometry": {"coordinates":[-114.314682,48.20118],"type":"Point"}
+}

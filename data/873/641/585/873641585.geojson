@@ -1,0 +1,73 @@
+{
+  "id": 873641585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.814767,45.14514,-110.814767,45.14514",
+    "geom:latitude":45.14514,
+    "geom:longitude":-110.814767,
+    "iso:country":"US",
+    "sg:address":"1047 US Hwy 89",
+    "sg:city":"Gardiner",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 848 7229",
+    "sg:postcode":"59030",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kEt2yJkaQIEAWqpfr4U8t_45.145140_-110.814767@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295493,
+    "wof:geomhash":"0bf6a5eac17cc22cae22c32b429d3b00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873641585
+        }
+    ],
+    "wof:id":873641585,
+    "wof:lastmodified":1464295493,
+    "wof:name":"Wagner Construction Inc",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -110.814767,
+    45.14514,
+    -110.814767,
+    45.14514
+],
+  "geometry": {"coordinates":[-110.814767,45.14514],"type":"Point"}
+}

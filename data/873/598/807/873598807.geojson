@@ -1,0 +1,73 @@
+{
+  "id": 873598807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.476666,45.804495,-108.476666,45.804495",
+    "geom:latitude":45.804495,
+    "geom:longitude":-108.476666,
+    "iso:country":"US",
+    "sg:address":"251 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 6166",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69WAdI97pkvVb4xYrMPVwH_45.804495_-108.476666@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294969,
+    "wof:geomhash":"a032f3c3c305b8a53e86a97e784b611a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873598807
+        }
+    ],
+    "wof:id":873598807,
+    "wof:lastmodified":1464294969,
+    "wof:name":"Cigarette Store Of Montana",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.476666,
+    45.804495,
+    -108.476666,
+    45.804495
+],
+  "geometry": {"coordinates":[-108.47666599999999,45.804495],"type":"Point"}
+}

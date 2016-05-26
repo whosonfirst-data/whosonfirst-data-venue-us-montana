@@ -1,0 +1,81 @@
+{
+  "id": 873617129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.061954,45.704276,-111.061954,45.704276",
+    "geom:latitude":45.704276,
+    "geom:longitude":-111.061954,
+    "iso:country":"US",
+    "sg:address":"145 Simmental Way",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 5153",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "distance",
+        "storage",
+        "transfer",
+        "long",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85891695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cR4cvAoywOnRz7Anq0zrZ_45.704276_-111.061954@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295216,
+    "wof:geomhash":"88722eb8c130246efeb3aac1c0398aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891695,
+            "region_id":85688617,
+            "venue_id":873617129
+        }
+    ],
+    "wof:id":873617129,
+    "wof:lastmodified":1464295216,
+    "wof:name":"Atlas Van Lines Agent",
+    "wof:parent_id":85891695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "storage",
+        "transfer",
+        "long",
+        "local"
+    ]
+},
+  "bbox": [
+    -111.061954,
+    45.704276,
+    -111.061954,
+    45.704276
+],
+  "geometry": {"coordinates":[-111.061954,45.704276],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873652195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.311961,48.189423,-114.311961,48.189423",
+    "geom:latitude":48.189423,
+    "geom:longitude":-114.311961,
+    "iso:country":"US",
+    "sg:address":"935 1st Ave W",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 758 5690",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "combined"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OF8LmZ6YQ8sjObPWtjVdu_48.189423_-114.311961@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295615,
+    "wof:geomhash":"df392b28c7bc1ab74c8b0735b29e6648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873652195
+        }
+    ],
+    "wof:id":873652195,
+    "wof:lastmodified":1464295615,
+    "wof:name":"Department of Motor Vehicles",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "combined"
+    ]
+},
+  "bbox": [
+    -114.311961,
+    48.189423,
+    -114.311961,
+    48.189423
+],
+  "geometry": {"coordinates":[-114.311961,48.189423],"type":"Point"}
+}

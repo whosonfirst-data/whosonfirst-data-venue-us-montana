@@ -1,0 +1,87 @@
+{
+  "id": 873624389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.61752,45.775153,-108.61752,45.775153",
+    "geom:latitude":45.775153,
+    "geom:longitude":-108.61752,
+    "iso:country":"US",
+    "sg:address":"441 Shiloh Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 1910",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "large",
+        "small",
+        "hospital",
+        "animal",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b9Hw7JjBcpWvp2IjZykt1_45.775153_-108.617520@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295304,
+    "wof:geomhash":"e974e1f2a12697426d09f80fa17fbc09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873624389
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873624389
+        }
+    ],
+    "wof:id":873624389,
+    "wof:lastmodified":1464295304,
+    "wof:name":"Lamm Amy Dvm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "large",
+        "small",
+        "hospital",
+        "animal",
+        "for"
+    ]
+},
+  "bbox": [
+    -108.61752,
+    45.775153,
+    -108.61752,
+    45.775153
+],
+  "geometry": {"coordinates":[-108.61752,45.775153],"type":"Point"}
+}

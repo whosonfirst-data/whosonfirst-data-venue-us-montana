@@ -1,0 +1,75 @@
+{
+  "id": 873552101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.498772,45.780672,-108.498772,45.780672",
+    "geom:latitude":45.780672,
+    "geom:longitude":-108.498772,
+    "iso:country":"US",
+    "sg:address":"119 S 25th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4770",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "assembly",
+        "fabricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yG8hU0eIz5Mnnwk5iqLkB_45.780672_-108.498772@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294401,
+    "wof:geomhash":"d36d8f1d5177b370256f9c4c972b2a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525795,
+            "region_id":85688617,
+            "venue_id":873552101
+        }
+    ],
+    "wof:id":873552101,
+    "wof:lastmodified":1464294401,
+    "wof:name":"Apex Manufacturing",
+    "wof:parent_id":420525795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -108.498772,
+    45.780672,
+    -108.498772,
+    45.780672
+],
+  "geometry": {"coordinates":[-108.498772,45.780672],"type":"Point"}
+}

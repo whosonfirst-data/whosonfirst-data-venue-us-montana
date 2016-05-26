@@ -1,0 +1,71 @@
+{
+  "id": 873636277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.03153,46.841577,-114.03153,46.841577",
+    "geom:latitude":46.841577,
+    "geom:longitude":-114.03153,
+    "iso:country":"US",
+    "sg:address":"2006 Ernest Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 1492",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63bLUljDyorjiq7cc2ylbR_46.841577_-114.031530@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295434,
+    "wof:geomhash":"524c710d6cc86a2a54ef49bdb531fb0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873636277
+        }
+    ],
+    "wof:id":873636277,
+    "wof:lastmodified":1464295434,
+    "wof:name":"Moulin Rouge Cabaret",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -114.03153,
+    46.841577,
+    -114.03153,
+    46.841577
+],
+  "geometry": {"coordinates":[-114.03153,46.841577],"type":"Point"}
+}

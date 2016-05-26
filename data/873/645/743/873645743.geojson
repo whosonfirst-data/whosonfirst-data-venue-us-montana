@@ -1,0 +1,71 @@
+{
+  "id": 873645743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.779145,45.664528,-108.779145,45.664528",
+    "geom:latitude":45.664528,
+    "geom:longitude":-108.779145,
+    "iso:country":"US",
+    "sg:address":"305 Forrest Ave",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 2379",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mz9eDWN7SFLR2Z37gfJgM_45.664528_-108.779145@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295544,
+    "wof:geomhash":"a37def177ef745d404791c8b6d6a0d45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873645743
+        }
+    ],
+    "wof:id":873645743,
+    "wof:lastmodified":1464295544,
+    "wof:name":"Busy Bees Day Care",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -108.779145,
+    45.664528,
+    -108.779145,
+    45.664528
+],
+  "geometry": {"coordinates":[-108.779145,45.664528],"type":"Point"}
+}

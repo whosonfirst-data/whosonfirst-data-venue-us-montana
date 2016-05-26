@@ -1,0 +1,73 @@
+{
+  "id": 873613725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.04885,46.859708,-114.04885,46.859708",
+    "geom:latitude":46.859708,
+    "geom:longitude":-114.04885,
+    "iso:country":"US",
+    "sg:address":"2820 Spurgin Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 6214",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "instrument",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10u8r8A2g9GXbeHXVjRSkI_46.859708_-114.048850@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295182,
+    "wof:geomhash":"694a65f37e65ec7108ed410009dbb851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873613725
+        }
+    ],
+    "wof:id":873613725,
+    "wof:lastmodified":1464295182,
+    "wof:name":"Body In Balance LLC",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -114.04885,
+    46.859708,
+    -114.04885,
+    46.859708
+],
+  "geometry": {"coordinates":[-114.04885,46.859708],"type":"Point"}
+}

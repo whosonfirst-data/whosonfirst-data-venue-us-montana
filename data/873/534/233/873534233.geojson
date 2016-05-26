@@ -1,0 +1,73 @@
+{
+  "id": 873534233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.517904,45.777053,-108.517904,45.777053",
+    "geom:latitude":45.777053,
+    "geom:longitude":-108.517904,
+    "iso:country":"US",
+    "sg:address":"610 1st St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 633 2306",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QgxtbCkgU5wAZW1iAgZPu_45.777053_-108.517904@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294193,
+    "wof:geomhash":"a9cc746662f113c1add68de9730ced31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873534233
+        }
+    ],
+    "wof:id":873534233,
+    "wof:lastmodified":1464294193,
+    "wof:name":"L L Cleaning Svc",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -108.517904,
+    45.777053,
+    -108.517904,
+    45.777053
+],
+  "geometry": {"coordinates":[-108.517904,45.777053],"type":"Point"}
+}

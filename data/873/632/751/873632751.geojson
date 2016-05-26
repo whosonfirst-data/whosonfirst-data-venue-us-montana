@@ -1,0 +1,75 @@
+{
+  "id": 873632751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.073466,46.761683,-114.073466,46.761683",
+    "geom:latitude":46.761683,
+    "geom:longitude":-114.073466,
+    "iso:country":"US",
+    "sg:address":"5570 Dove Ct",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 5564",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68OzmMYhOfDExeaGrEFm5g_46.761683_-114.073466@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295396,
+    "wof:geomhash":"95604b6578c1dc3af8dbab692b30c5b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873632751
+        }
+    ],
+    "wof:id":873632751,
+    "wof:lastmodified":1464295396,
+    "wof:name":"Tece Trucking Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.073466,
+    46.761683,
+    -114.073466,
+    46.761683
+],
+  "geometry": {"coordinates":[-114.073466,46.761683],"type":"Point"}
+}

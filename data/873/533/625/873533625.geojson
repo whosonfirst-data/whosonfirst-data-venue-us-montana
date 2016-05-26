@@ -1,0 +1,73 @@
+{
+  "id": 873533625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.556081,45.663434,-110.556081,45.663434",
+    "geom:latitude":45.663434,
+    "geom:longitude":-110.556081,
+    "iso:country":"US",
+    "sg:address":"414 E Callender St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 2123",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "passenger",
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jWQEAg97dWbgEDcLaTOmz_45.663434_-110.556081@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294177,
+    "wof:geomhash":"a05e511402ddce92c497bd03832b8d05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873533625
+        }
+    ],
+    "wof:id":873533625,
+    "wof:lastmodified":1464294177,
+    "wof:name":"Livingstone Fire and Rescue",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "executive"
+    ]
+},
+  "bbox": [
+    -110.556081,
+    45.663434,
+    -110.556081,
+    45.663434
+],
+  "geometry": {"coordinates":[-110.55608100000001,45.663434],"type":"Point"}
+}

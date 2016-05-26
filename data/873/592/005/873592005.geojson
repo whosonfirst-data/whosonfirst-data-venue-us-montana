@@ -1,0 +1,77 @@
+{
+  "id": 873592005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.531031,45.796958,-108.531031,45.796958",
+    "geom:latitude":45.796958,
+    "geom:longitude":-108.531031,
+    "iso:country":"US",
+    "sg:address":"651 Highland Park Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 5300",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AoHonliJ3AxIQPa31go0s_45.796958_-108.531031@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294859,
+    "wof:geomhash":"25869cf73cc080b932347256b7c1f976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873592005
+        }
+    ],
+    "wof:id":873592005,
+    "wof:lastmodified":1464294859,
+    "wof:name":"Shanstrom Reporting",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -108.531031,
+    45.796958,
+    -108.531031,
+    45.796958
+],
+  "geometry": {"coordinates":[-108.531031,45.796958],"type":"Point"}
+}

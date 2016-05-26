@@ -1,0 +1,75 @@
+{
+  "id": 873606405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.498567,45.782071,-108.498567,45.782071",
+    "geom:latitude":45.782071,
+    "geom:longitude":-108.498567,
+    "iso:country":"US",
+    "sg:address":"26 S 24th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 3754",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cdPXGYJWlpEttOjcKqitp_45.782071_-108.498567@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295064,
+    "wof:geomhash":"b40a1ec395974c3164eb6ca45dc4a2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525795,
+            "region_id":85688617,
+            "venue_id":873606405
+        }
+    ],
+    "wof:id":873606405,
+    "wof:lastmodified":1464295064,
+    "wof:name":"Star Service Inc",
+    "wof:parent_id":420525795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.498567,
+    45.782071,
+    -108.498567,
+    45.782071
+],
+  "geometry": {"coordinates":[-108.49856699999999,45.782071],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873569105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.45558,45.83626,-108.45558,45.83626",
+    "geom:latitude":45.83626,
+    "geom:longitude":-108.45558,
+    "iso:country":"US",
+    "sg:address":"2049 Hawthorne Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 325 1394",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kYnZtiOds8gfre4qFeH0M_45.836260_-108.455580@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294597,
+    "wof:geomhash":"999db01da3b6a3421aed8e90226ff702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873569105
+        }
+    ],
+    "wof:id":873569105,
+    "wof:lastmodified":1464294597,
+    "wof:name":"Daly Landscape & Irrigation",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.45558,
+    45.83626,
+    -108.45558,
+    45.83626
+],
+  "geometry": {"coordinates":[-108.45558,45.83626],"type":"Point"}
+}

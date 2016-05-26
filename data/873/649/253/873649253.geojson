@@ -1,0 +1,73 @@
+{
+  "id": 873649253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.330398,48.202154,-114.330398,48.202154",
+    "geom:latitude":48.202154,
+    "geom:longitude":-114.330398,
+    "iso:country":"US",
+    "sg:address":"490 N Meridian Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 5501",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "state",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s50JpTuQeCyAOrlqsr0qo_48.202154_-114.330398@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295579,
+    "wof:geomhash":"bedacfeab0c40d3f0f8d961c56b6fd5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873649253
+        }
+    ],
+    "wof:id":873649253,
+    "wof:lastmodified":1464295579,
+    "wof:name":"Yellow Bay State Park",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "parks"
+    ]
+},
+  "bbox": [
+    -114.330398,
+    48.202154,
+    -114.330398,
+    48.202154
+],
+  "geometry": {"coordinates":[-114.330398,48.202154],"type":"Point"}
+}

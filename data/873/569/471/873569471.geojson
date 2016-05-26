@@ -1,0 +1,73 @@
+{
+  "id": 873569471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.702252,48.092527,-114.702252,48.092527",
+    "geom:latitude":48.092527,
+    "geom:longitude":-114.702252,
+    "iso:country":"US",
+    "sg:address":"1208 Bitterroot Ln",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 854 2006",
+    "sg:postcode":"59925",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23xOuBg9360xIpoi0CkkfK_48.092527_-114.702252@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294601,
+    "wof:geomhash":"2c07cdbffbde5c47dbd167ac4f291997",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873569471
+        }
+    ],
+    "wof:id":873569471,
+    "wof:lastmodified":1464294601,
+    "wof:name":"Inline Painting",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.702252,
+    48.092527,
+    -114.702252,
+    48.092527
+],
+  "geometry": {"coordinates":[-114.702252,48.092527],"type":"Point"}
+}

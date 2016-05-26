@@ -1,0 +1,73 @@
+{
+  "id": 873555857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.260077,48.240415,-114.260077,48.240415",
+    "geom:latitude":48.240415,
+    "geom:longitude":-114.260077,
+    "iso:country":"US",
+    "sg:address":"353 E Reserve Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 3764",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K9GmbETyS9Nv13rx8PdNC_48.240415_-114.260077@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294447,
+    "wof:geomhash":"05d28454b761deaac7c5fbfd4cd42e61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873555857
+        }
+    ],
+    "wof:id":873555857,
+    "wof:lastmodified":1464294447,
+    "wof:name":"Stanley Schaffer",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -114.260077,
+    48.240415,
+    -114.260077,
+    48.240415
+],
+  "geometry": {"coordinates":[-114.260077,48.240415],"type":"Point"}
+}

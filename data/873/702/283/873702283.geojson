@@ -1,0 +1,76 @@
+{
+  "id": 873702283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.543679,45.784099,-108.543679,45.784099",
+    "geom:latitude":45.784099,
+    "geom:longitude":-108.543679,
+    "iso:country":"US",
+    "sg:address":"1105 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/96288-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 3318",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aVVrN4uIu6S4Q9oXluWHS_45.784126_-108.544500@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296428,
+    "wof:geomhash":"825a34ba923707f7ba87ed44863dc6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873702283
+        }
+    ],
+    "wof:id":873702283,
+    "wof:lastmodified":1464296428,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -108.543679,
+    45.784099,
+    -108.543679,
+    45.784099
+],
+  "geometry": {"coordinates":[-108.543679,45.784099],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 873589955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.596711,45.748832,-108.596711,45.748832",
+    "geom:latitude":45.748832,
+    "geom:longitude":-108.596711,
+    "iso:country":"US",
+    "sg:address":"1207 S 32nd St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 7313",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4es7dYUFOYYUjbIMRoauSu_45.748832_-108.596711@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294831,
+    "wof:geomhash":"c7b24c5da3ee3ea650e1d733ceb2f19c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873589955
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873589955
+        }
+    ],
+    "wof:id":873589955,
+    "wof:lastmodified":1464294831,
+    "wof:name":"Billings Collision Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -108.596711,
+    45.748832,
+    -108.596711,
+    45.748832
+],
+  "geometry": {"coordinates":[-108.596711,45.748832],"type":"Point"}
+}

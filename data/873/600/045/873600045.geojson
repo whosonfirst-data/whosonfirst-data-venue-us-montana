@@ -1,0 +1,71 @@
+{
+  "id": 873600045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.253381,48.210185,-114.253381,48.210185",
+    "geom:latitude":48.210185,
+    "geom:longitude":-114.253381,
+    "iso:country":"US",
+    "sg:address":"1365 Holt Stage Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 6285",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mlDBdwP65BmDaYP2bKN4G_48.210185_-114.253381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294987,
+    "wof:geomhash":"3582112d937474a223abea4797a937aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873600045
+        }
+    ],
+    "wof:id":873600045,
+    "wof:lastmodified":1464294987,
+    "wof:name":"Dale Pauli Installer",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.253381,
+    48.210185,
+    -114.253381,
+    48.210185
+],
+  "geometry": {"coordinates":[-114.253381,48.210185],"type":"Point"}
+}

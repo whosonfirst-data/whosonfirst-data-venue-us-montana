@@ -1,0 +1,73 @@
+{
+  "id": 873668715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.729308,45.687184,-108.729308,45.687184",
+    "geom:latitude":45.687184,
+    "geom:longitude":-108.729308,
+    "iso:country":"US",
+    "sg:address":"1450 W Ramshorn Dr",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 7696",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "launderer",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xP5g54I8Lw0ufHZ6MmPmL_45.687184_-108.729308@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295787,
+    "wof:geomhash":"75d4ac31081736eb4a2340cf9be24cc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873668715
+        }
+    ],
+    "wof:id":873668715,
+    "wof:lastmodified":1464295787,
+    "wof:name":"Gloria Sturgis",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "launderer",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -108.729308,
+    45.687184,
+    -108.729308,
+    45.687184
+],
+  "geometry": {"coordinates":[-108.729308,45.687184],"type":"Point"}
+}

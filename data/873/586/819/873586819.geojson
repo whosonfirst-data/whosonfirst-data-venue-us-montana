@@ -1,0 +1,73 @@
+{
+  "id": 873586819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.545927,45.76181,-108.545927,45.76181",
+    "geom:latitude":45.76181,
+    "geom:longitude":-108.545927,
+    "iso:country":"US",
+    "sg:address":"1205 Monad Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 9778",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4okHVrs4xcIGzxUM0339wG_45.761810_-108.545927@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294793,
+    "wof:geomhash":"e01355580f93b6b9d555e68c54e50986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873586819
+        }
+    ],
+    "wof:id":873586819,
+    "wof:lastmodified":1464294793,
+    "wof:name":"Radio Equipment Co",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -108.545927,
+    45.76181,
+    -108.545927,
+    45.76181
+],
+  "geometry": {"coordinates":[-108.54592700000001,45.76181],"type":"Point"}
+}

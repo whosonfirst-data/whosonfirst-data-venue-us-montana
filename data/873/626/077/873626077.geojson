@@ -1,0 +1,73 @@
+{
+  "id": 873626077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.59794,45.784171,-108.59794,45.784171",
+    "geom:latitude":45.784171,
+    "geom:longitude":-108.59794,
+    "iso:country":"US",
+    "sg:address":"3307 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 9060",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66mqTnNgmNC8ytSMHPAiEN_45.784171_-108.597940@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295321,
+    "wof:geomhash":"b263860afa6d729f62dd819ae31fa462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873626077
+        }
+    ],
+    "wof:id":873626077,
+    "wof:lastmodified":1464295321,
+    "wof:name":"Doug W Chase Pt",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -108.59794,
+    45.784171,
+    -108.59794,
+    45.784171
+],
+  "geometry": {"coordinates":[-108.59793999999999,45.784171],"type":"Point"}
+}

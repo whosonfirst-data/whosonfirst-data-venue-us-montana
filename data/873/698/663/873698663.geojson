@@ -1,0 +1,74 @@
+{
+  "id": 873698663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.423189,45.80889,-108.423189,45.80889",
+    "geom:latitude":45.80889,
+    "geom:longitude":-108.423189,
+    "iso:country":"US",
+    "sg:address":"2750 Old Hardin Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/129723-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 9229",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DIv3p0zSdKh21y4ZIf8Oz_45.808890_-108.423189@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296390,
+    "wof:geomhash":"046358dd8850735a95b5c67c1b61c999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873698663
+        }
+    ],
+    "wof:id":873698663,
+    "wof:lastmodified":1464296390,
+    "wof:name":"Subway",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -108.423189,
+    45.80889,
+    -108.423189,
+    45.80889
+],
+  "geometry": {"coordinates":[-108.42318899999999,45.80889],"type":"Point"}
+}

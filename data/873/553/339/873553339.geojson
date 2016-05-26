@@ -1,0 +1,71 @@
+{
+  "id": 873553339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.525,45.735837,-108.525,45.735837",
+    "geom:latitude":45.735837,
+    "geom:longitude":-108.525,
+    "iso:country":"US",
+    "sg:address":"4439 Old Blue Creek Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 8803",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DIx92LzzLQvkT7fapLH4r_45.735837_-108.525000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294415,
+    "wof:geomhash":"4abc54c194c61ff41076eb9efa5f2e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873553339
+        }
+    ],
+    "wof:id":873553339,
+    "wof:lastmodified":1464294415,
+    "wof:name":"Blue Creek Construction",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.525,
+    45.735837,
+    -108.525,
+    45.735837
+],
+  "geometry": {"coordinates":[-108.52500000000001,45.735837],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873644305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.395316,48.187532,-114.395316,48.187532",
+    "geom:latitude":48.187532,
+    "geom:longitude":-114.395316,
+    "iso:country":"US",
+    "sg:address":"55 W Valley Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 7036",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XG19JwOWQkP7sIIyQCU8i_48.187532_-114.395316@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295528,
+    "wof:geomhash":"513e2e890a25e2f68ac44b4406349b3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873644305
+        }
+    ],
+    "wof:id":873644305,
+    "wof:lastmodified":1464295528,
+    "wof:name":"Kelly's Haulaway",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ]
+},
+  "bbox": [
+    -114.395316,
+    48.187532,
+    -114.395316,
+    48.187532
+],
+  "geometry": {"coordinates":[-114.39531599999999,48.187532],"type":"Point"}
+}

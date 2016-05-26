@@ -1,0 +1,71 @@
+{
+  "id": 873601307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.302027,48.179628,-114.302027,48.179628",
+    "geom:latitude":48.179628,
+    "geom:longitude":-114.302027,
+    "iso:country":"US",
+    "sg:address":"2191 3rd Ave E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 5392",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X9f7OPVCTAyo8hNtKkMfN_48.179628_-114.302027@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295001,
+    "wof:geomhash":"e39532ad55bdb58b4e537362a0975ade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873601307
+        }
+    ],
+    "wof:id":873601307,
+    "wof:lastmodified":1464295001,
+    "wof:name":"Flathead Utilities Co",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -114.302027,
+    48.179628,
+    -114.302027,
+    48.179628
+],
+  "geometry": {"coordinates":[-114.302027,48.179628],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873638743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.52188,45.794965,-108.52188,45.794965",
+    "geom:latitude":45.794965,
+    "geom:longitude":-108.52188,
+    "iso:country":"US",
+    "sg:address":"1300 N 30th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 2938",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mEqnqCRqKavq6fYzjEHBD_45.794965_-108.521880@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295461,
+    "wof:geomhash":"07e6032e1e79bea0294004e71478c78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873638743
+        }
+    ],
+    "wof:id":873638743,
+    "wof:lastmodified":1464295461,
+    "wof:name":"Montana Bureau Mines & Geology",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.52188,
+    45.794965,
+    -108.52188,
+    45.794965
+],
+  "geometry": {"coordinates":[-108.52188,45.794965],"type":"Point"}
+}

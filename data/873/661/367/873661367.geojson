@@ -1,0 +1,75 @@
+{
+  "id": 873661367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.219152,48.403425,-114.219152,48.403425",
+    "geom:latitude":48.403425,
+    "geom:longitude":-114.219152,
+    "iso:country":"US",
+    "sg:address":"155 Balsam Ln",
+    "sg:city":"Columbia Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 892 5215",
+    "sg:postcode":"59912",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gIi4gyXIf2gMJgd6US2ja_48.403425_-114.219152@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295712,
+    "wof:geomhash":"f10aeddad2f898c8f4341b7f0e2fbaaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873661367
+        }
+    ],
+    "wof:id":873661367,
+    "wof:lastmodified":1464295712,
+    "wof:name":"Kris Tredway Auto Body",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -114.219152,
+    48.403425,
+    -114.219152,
+    48.403425
+],
+  "geometry": {"coordinates":[-114.21915199999999,48.403425],"type":"Point"}
+}

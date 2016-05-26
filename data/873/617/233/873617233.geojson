@@ -1,0 +1,71 @@
+{
+  "id": 873617233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.561807,45.787134,-108.561807,45.787134",
+    "geom:latitude":45.787134,
+    "geom:longitude":-108.561807,
+    "iso:country":"US",
+    "sg:address":"1701 Ave D",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 4344",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eH5JpVx2CH7y4EE1zGQrl_45.787134_-108.561807@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295217,
+    "wof:geomhash":"f22650c5d9833516b4f1289b3837ddc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873617233
+        }
+    ],
+    "wof:id":873617233,
+    "wof:lastmodified":1464295217,
+    "wof:name":"Daniel L Johnson DDS",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -108.561807,
+    45.787134,
+    -108.561807,
+    45.787134
+],
+  "geometry": {"coordinates":[-108.561807,45.787134],"type":"Point"}
+}

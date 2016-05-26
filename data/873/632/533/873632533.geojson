@@ -1,0 +1,71 @@
+{
+  "id": 873632533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.324182,48.197121,-114.324182,48.197121",
+    "geom:latitude":48.197121,
+    "geom:longitude":-114.324182,
+    "iso:country":"US",
+    "sg:address":"707 W Center St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 8570",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71pJMwELE5Lr8zMtPIX6r0_48.197121_-114.324182@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295393,
+    "wof:geomhash":"f5fbc7bba0e56620043eaf34b48363ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873632533
+        }
+    ],
+    "wof:id":873632533,
+    "wof:lastmodified":1464295393,
+    "wof:name":"Mergenthaler Transfer",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.324182,
+    48.197121,
+    -114.324182,
+    48.197121
+],
+  "geometry": {"coordinates":[-114.32418199999999,48.197121],"type":"Point"}
+}

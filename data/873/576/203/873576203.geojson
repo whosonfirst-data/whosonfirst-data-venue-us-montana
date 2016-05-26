@@ -1,0 +1,74 @@
+{
+  "id": 873576203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.617658,45.77307,-108.617658,45.77307",
+    "geom:latitude":45.77307,
+    "geom:longitude":-108.617658,
+    "iso:country":"US",
+    "sg:address":"16 Shiloh Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6874",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jvQCSITRm4gXrZXb7iAS7_45.773070_-108.617658@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294676,
+    "wof:geomhash":"0681a412d545ebabe1541bc4a5df6ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873576203
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873576203
+        }
+    ],
+    "wof:id":873576203,
+    "wof:lastmodified":1464294676,
+    "wof:name":"Kum & Go",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.617658,
+    45.77307,
+    -108.617658,
+    45.77307
+],
+  "geometry": {"coordinates":[-108.61765800000001,45.77307],"type":"Point"}
+}

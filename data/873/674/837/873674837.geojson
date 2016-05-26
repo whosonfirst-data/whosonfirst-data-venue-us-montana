@@ -1,0 +1,71 @@
+{
+  "id": 873674837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.837013,46.843496,-113.837013,46.843496",
+    "geom:latitude":46.843496,
+    "geom:longitude":-113.837013,
+    "iso:country":"US",
+    "sg:address":"11560 Chumrau Loop",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 258 6057",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "log",
+        "splitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A1vQopAQTQcqkjMbORfWS_46.843496_-113.837013@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295865,
+    "wof:geomhash":"6c604886c3373a2127cea358de143e4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873674837
+        }
+    ],
+    "wof:id":873674837,
+    "wof:lastmodified":1464295865,
+    "wof:name":"David Chilcoat",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "log",
+        "splitting"
+    ]
+},
+  "bbox": [
+    -113.837013,
+    46.843496,
+    -113.837013,
+    46.843496
+],
+  "geometry": {"coordinates":[-113.837013,46.843496],"type":"Point"}
+}

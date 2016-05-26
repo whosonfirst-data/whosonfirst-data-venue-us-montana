@@ -1,0 +1,69 @@
+{
+  "id": 873569551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.356344,47.48188,-111.356344,47.48188",
+    "geom:latitude":47.48188,
+    "geom:longitude":-111.356344,
+    "iso:country":"US",
+    "sg:address":"2800 Terminal Dr",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 761 7610",
+    "sg:postcode":"59404",
+    "sg:province":"MT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102528273,
+        85688617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FWGFoVxuz4S3uUVu6NiRD_47.481880_-111.356344@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294605,
+    "wof:geomhash":"aaebdb51a543e6fb8814e142530a976c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528273,
+            "country_id":85633793,
+            "region_id":85688617,
+            "venue_id":873569551
+        }
+    ],
+    "wof:id":873569551,
+    "wof:lastmodified":1464294605,
+    "wof:name":"Avis Rent-A-Car",
+    "wof:parent_id":102528273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -111.356344,
+    47.48188,
+    -111.356344,
+    47.48188
+],
+  "geometry": {"coordinates":[-111.35634400000001,47.48188],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873538125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.346828,48.172661,-114.346828,48.172661",
+    "geom:latitude":48.172661,
+    "geom:longitude":-114.346828,
+    "iso:country":"US",
+    "sg:address":"170 Lonepine Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 2223",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2irJdpUpKmTKTqemDj6FWr_48.172661_-114.346828@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294240,
+    "wof:geomhash":"9524b1ce83a6f8c63672b19b7e0bd0af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873538125
+        }
+    ],
+    "wof:id":873538125,
+    "wof:lastmodified":1464294240,
+    "wof:name":"Arrowworks",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -114.346828,
+    48.172661,
+    -114.346828,
+    48.172661
+],
+  "geometry": {"coordinates":[-114.346828,48.172661],"type":"Point"}
+}

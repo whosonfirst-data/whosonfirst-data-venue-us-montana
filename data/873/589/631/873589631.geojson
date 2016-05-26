@@ -1,0 +1,69 @@
+{
+  "id": 873589631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.036077,45.64956,-111.036077,45.64956",
+    "geom:latitude":45.64956,
+    "geom:longitude":-111.036077,
+    "iso:country":"US",
+    "sg:address":"3175 Graf St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 4570",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891693,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ylc3zMtCMgS3x4aUwlYxn_45.649560_-111.036077@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294826,
+    "wof:geomhash":"cd3035b06ce86c9319199184f1618234",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "neighbourhood_id":85891693,
+            "region_id":85688617,
+            "venue_id":873589631
+        }
+    ],
+    "wof:id":873589631,
+    "wof:lastmodified":1464294826,
+    "wof:name":"Springmeadows",
+    "wof:parent_id":85891693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -111.036077,
+    45.64956,
+    -111.036077,
+    45.64956
+],
+  "geometry": {"coordinates":[-111.03607700000001,45.64956],"type":"Point"}
+}

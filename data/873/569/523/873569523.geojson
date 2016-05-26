@@ -1,0 +1,87 @@
+{
+  "id": 873569523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.045348,45.667046,-111.045348,45.667046",
+    "geom:latitude":45.667046,
+    "geom:longitude":-111.045348,
+    "iso:country":"US",
+    "sg:address":"1212 S 6th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 1711",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "membership",
+        "association",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876465,
+        85891699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vN47lnq5E6XrAaxb3MdLK_45.667046_-111.045348@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294604,
+    "wof:geomhash":"907d391013853c69a71e0669451392a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876465,
+            "region_id":85688617,
+            "venue_id":873569523
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891699,
+            "region_id":85688617,
+            "venue_id":873569523
+        }
+    ],
+    "wof:id":873569523,
+    "wof:lastmodified":1464294604,
+    "wof:name":"Lambda Chi Alpha Fraternity",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "association",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -111.045348,
+    45.667046,
+    -111.045348,
+    45.667046
+],
+  "geometry": {"coordinates":[-111.045348,45.667046],"type":"Point"}
+}

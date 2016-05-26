@@ -1,0 +1,71 @@
+{
+  "id": 873668603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.483568,45.810225,-108.483568,45.810225",
+    "geom:latitude":45.810225,
+    "geom:longitude":-108.483568,
+    "iso:country":"US",
+    "sg:address":"661 Garnet Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 9723",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gsf6d8IlIcEWIemN1IlrY_45.810225_-108.483568@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295786,
+    "wof:geomhash":"ce400dcccd46331b11c2e6dfd88ecd2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873668603
+        }
+    ],
+    "wof:id":873668603,
+    "wof:lastmodified":1464295786,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -108.483568,
+    45.810225,
+    -108.483568,
+    45.810225
+],
+  "geometry": {"coordinates":[-108.48356800000001,45.810225],"type":"Point"}
+}

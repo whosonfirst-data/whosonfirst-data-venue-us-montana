@@ -1,0 +1,75 @@
+{
+  "id": 873663523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.310849,48.185374,-114.310849,48.185374",
+    "geom:latitude":48.185374,
+    "geom:longitude":-114.310849,
+    "iso:country":"US",
+    "sg:address":"1400 1st Ave W",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 758 7720",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oFkJP8SBEjPzcj5PxtCJW_48.185374_-114.310849@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295735,
+    "wof:geomhash":"68a35a0603211f7c5827f206cd3f712e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873663523
+        }
+    ],
+    "wof:id":873663523,
+    "wof:lastmodified":1464295735,
+    "wof:name":"Kalispell Street Dept",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -114.310849,
+    48.185374,
+    -114.310849,
+    48.185374
+],
+  "geometry": {"coordinates":[-114.310849,48.185374],"type":"Point"}
+}

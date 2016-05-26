@@ -1,0 +1,69 @@
+{
+  "id": 873578811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.084309,45.597296,-111.084309,45.597296",
+    "geom:latitude":45.597296,
+    "geom:longitude":-111.084309,
+    "iso:country":"US",
+    "sg:address":"6281 Alamosa Ln",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 585 8867",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891701,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eZ1okmLrdjFtURsGFLBrA_45.597296_-111.084309@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294703,
+    "wof:geomhash":"a6c098f12d60b10e25f90df28fa61a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "neighbourhood_id":85891701,
+            "region_id":85688617,
+            "venue_id":873578811
+        }
+    ],
+    "wof:id":873578811,
+    "wof:lastmodified":1464294703,
+    "wof:name":"Strachan Homes",
+    "wof:parent_id":85891701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.084309,
+    45.597296,
+    -111.084309,
+    45.597296
+],
+  "geometry": {"coordinates":[-111.084309,45.597296],"type":"Point"}
+}

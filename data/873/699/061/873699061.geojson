@@ -1,0 +1,72 @@
+{
+  "id": 873699061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.471531,45.812066,-108.471531,45.812066",
+    "geom:latitude":45.812066,
+    "geom:longitude":-108.471531,
+    "iso:country":"US",
+    "sg:address":"1038 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/129691-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2911",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VhUBv7tPApVpc9k0wNXSC_45.812066_-108.471531@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296394,
+    "wof:geomhash":"2f7a0e18c9e0ce6f934199081241c17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873699061
+        }
+    ],
+    "wof:id":873699061,
+    "wof:lastmodified":1464296394,
+    "wof:name":"Subway",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -108.471531,
+    45.812066,
+    -108.471531,
+    45.812066
+],
+  "geometry": {"coordinates":[-108.471531,45.812066],"type":"Point"}
+}

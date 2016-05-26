@@ -1,0 +1,71 @@
+{
+  "id": 873608041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.558929,45.660311,-110.558929,45.660311",
+    "geom:latitude":45.660311,
+    "geom:longitude":-110.558929,
+    "iso:country":"US",
+    "sg:address":"105 W Lewis St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 5768",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N8Ik9lJi1OY5HVxhsm2V7_45.660311_-110.558929@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295099,
+    "wof:geomhash":"2b76992304772b09630a72def31e560d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873608041
+        }
+    ],
+    "wof:id":873608041,
+    "wof:lastmodified":1464295099,
+    "wof:name":"Rons Barber Shop",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -110.558929,
+    45.660311,
+    -110.558929,
+    45.660311
+],
+  "geometry": {"coordinates":[-110.55892900000001,45.660311],"type":"Point"}
+}

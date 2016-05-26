@@ -1,0 +1,93 @@
+{
+  "id": 873702319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.59717,45.756072,-108.59717,45.756072",
+    "geom:latitude":45.756072,
+    "geom:longitude":-108.59717,
+    "iso:country":"US",
+    "sg:address":"3220 Henesta Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/167585-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 0200",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YrCjZnDRA9UQi2Ier4EJB_45.755988_-108.597433@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296429,
+    "wof:geomhash":"dc12378102929833de2d1c97c8f4161b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873702319
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873702319
+        }
+    ],
+    "wof:id":873702319,
+    "wof:lastmodified":1464296429,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -108.59717,
+    45.756072,
+    -108.59717,
+    45.756072
+],
+  "geometry": {"coordinates":[-108.59717000000001,45.756072],"type":"Point"}
+}

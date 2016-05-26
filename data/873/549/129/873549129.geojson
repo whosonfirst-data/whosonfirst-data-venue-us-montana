@@ -1,0 +1,73 @@
+{
+  "id": 873549129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.641261,45.772917,-108.641261,45.772917",
+    "geom:latitude":45.772917,
+    "geom:longitude":-108.641261,
+    "iso:country":"US",
+    "sg:address":"4933 Hazelnut Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 2746",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e1ekb55F3r1NO9bPn4KAO_45.772917_-108.641261@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294368,
+    "wof:geomhash":"f1783a0d18713a63be929f15318b1e13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873549129
+        }
+    ],
+    "wof:id":873549129,
+    "wof:lastmodified":1464294368,
+    "wof:name":"Superior Concrete",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.641261,
+    45.772917,
+    -108.641261,
+    45.772917
+],
+  "geometry": {"coordinates":[-108.641261,45.772917],"type":"Point"}
+}

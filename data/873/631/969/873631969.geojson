@@ -1,0 +1,69 @@
+{
+  "id": 873631969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.98057,46.86812,-113.98057,46.86812",
+    "geom:latitude":46.86812,
+    "geom:longitude":-113.98057,
+    "iso:country":"US",
+    "sg:address":"900 E Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 9992",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gO6E2IHbPK9d9i2HW2VUl_46.868120_-113.980570@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295384,
+    "wof:geomhash":"fe8bbb146ce856ce93040e45c0a4c2cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873631969
+        }
+    ],
+    "wof:id":873631969,
+    "wof:lastmodified":1464295384,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -113.98057,
+    46.86812,
+    -113.98057,
+    46.86812
+],
+  "geometry": {"coordinates":[-113.98057,46.86812],"type":"Point"}
+}

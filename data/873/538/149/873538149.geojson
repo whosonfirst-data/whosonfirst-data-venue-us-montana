@@ -1,0 +1,71 @@
+{
+  "id": 873538149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.035571,46.837939,-114.035571,46.837939",
+    "geom:latitude":46.837939,
+    "geom:longitude":-114.035571,
+    "iso:country":"US",
+    "sg:address":"3600 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 523 3300",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NGQV2RW0rweMbJpj7GmpY_46.837939_-114.035571@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294240,
+    "wof:geomhash":"a5670066e16bc49f088bb71aa27620e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873538149
+        }
+    ],
+    "wof:id":873538149,
+    "wof:lastmodified":1464294240,
+    "wof:name":"Missoula Federal Credit Union",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -114.035571,
+    46.837939,
+    -114.035571,
+    46.837939
+],
+  "geometry": {"coordinates":[-114.035571,46.837939],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873602381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566681,45.756157,-108.566681,45.756157",
+    "geom:latitude":45.756157,
+    "geom:longitude":-108.566681,
+    "iso:country":"US",
+    "sg:address":"624 S 20th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 4441",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AYeNr3Y1mZ4D0y0ickDe8_45.756157_-108.566681@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295012,
+    "wof:geomhash":"04f951c126ef182a753f923641e58eca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873602381
+        }
+    ],
+    "wof:id":873602381,
+    "wof:lastmodified":1464295012,
+    "wof:name":"Precision Power Trains",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.566681,
+    45.756157,
+    -108.566681,
+    45.756157
+],
+  "geometry": {"coordinates":[-108.566681,45.756157],"type":"Point"}
+}

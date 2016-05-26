@@ -1,0 +1,76 @@
+{
+  "id": 873698735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.57651,45.769789,-108.57651,45.769789",
+    "geom:latitude":45.769789,
+    "geom:longitude":-108.57651,
+    "iso:country":"US",
+    "sg:address":"2404 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/156142-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5926",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3smiuTiEmqTnmalVK6980k_45.769789_-108.576510@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296391,
+    "wof:geomhash":"9c6dac286f7a4ee837021783f4c3a417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873698735
+        }
+    ],
+    "wof:id":873698735,
+    "wof:lastmodified":1464296391,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -108.57651,
+    45.769789,
+    -108.57651,
+    45.769789
+],
+  "geometry": {"coordinates":[-108.57651,45.769789],"type":"Point"}
+}

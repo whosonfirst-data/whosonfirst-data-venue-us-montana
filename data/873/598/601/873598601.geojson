@@ -1,0 +1,73 @@
+{
+  "id": 873598601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.539698,45.777124,-108.539698,45.777124",
+    "geom:latitude":45.777124,
+    "geom:longitude":-108.539698,
+    "iso:country":"US",
+    "sg:address":"949 Broadwater Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 661 1634",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cEHgTU8R3EJeaEQ62Znyv_45.777124_-108.539698@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294965,
+    "wof:geomhash":"2409e076da9acef542147cc38e5879ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873598601
+        }
+    ],
+    "wof:id":873598601,
+    "wof:lastmodified":1464294965,
+    "wof:name":"Heights Dental",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -108.539698,
+    45.777124,
+    -108.539698,
+    45.777124
+],
+  "geometry": {"coordinates":[-108.539698,45.777124],"type":"Point"}
+}

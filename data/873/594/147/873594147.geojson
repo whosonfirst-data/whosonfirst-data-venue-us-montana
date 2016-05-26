@@ -1,0 +1,71 @@
+{
+  "id": 873594147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.281182,45.690818,-112.281182,45.690818",
+    "geom:latitude":45.690818,
+    "geom:longitude":-112.281182,
+    "iso:country":"US",
+    "sg:address":"5346 State Hwy 41",
+    "sg:city":"Silver Star",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 287 9225",
+    "sg:postcode":"59751",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zH5OGA3DFJobi42oG6O8T_45.690818_-112.281182@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294886,
+    "wof:geomhash":"76454b23d628045cbfc6e02db3473b1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873594147
+        }
+    ],
+    "wof:id":873594147,
+    "wof:lastmodified":1464294886,
+    "wof:name":"Riverhouse Restaurant",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -112.281182,
+    45.690818,
+    -112.281182,
+    45.690818
+],
+  "geometry": {"coordinates":[-112.281182,45.690818],"type":"Point"}
+}

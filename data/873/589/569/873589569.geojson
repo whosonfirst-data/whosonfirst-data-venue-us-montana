@@ -1,0 +1,71 @@
+{
+  "id": 873589569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.294217,48.207763,-114.294217,48.207763",
+    "geom:latitude":48.207763,
+    "geom:longitude":-114.294217,
+    "iso:country":"US",
+    "sg:address":"1008 E Idaho St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 7568",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UatTpGGiPrHBZnnMeVuqr_48.207763_-114.294217@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294825,
+    "wof:geomhash":"cc32759be9caa538b1f17f38e783fbf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873589569
+        }
+    ],
+    "wof:id":873589569,
+    "wof:lastmodified":1464294825,
+    "wof:name":"Plant Land",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -114.294217,
+    48.207763,
+    -114.294217,
+    48.207763
+],
+  "geometry": {"coordinates":[-114.294217,48.207763],"type":"Point"}
+}

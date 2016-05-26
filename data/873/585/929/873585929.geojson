@@ -1,0 +1,75 @@
+{
+  "id": 873585929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.750986,45.650173,-108.750986,45.650173",
+    "geom:latitude":45.650173,
+    "geom:longitude":-108.750986,
+    "iso:country":"US",
+    "sg:address":"1506 Thiel Rd",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 4436",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "boarding",
+        "horse",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dmgwL0eNaJae3j3GxsxrK_45.650173_-108.750986@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294783,
+    "wof:geomhash":"f4e87f6110cd3ec6a963429980479f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873585929
+        }
+    ],
+    "wof:id":873585929,
+    "wof:lastmodified":1464294783,
+    "wof:name":"New Horizons Horse World Inc",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding",
+        "horse",
+        "training"
+    ]
+},
+  "bbox": [
+    -108.750986,
+    45.650173,
+    -108.750986,
+    45.650173
+],
+  "geometry": {"coordinates":[-108.750986,45.650173],"type":"Point"}
+}

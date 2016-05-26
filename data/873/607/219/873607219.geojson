@@ -1,0 +1,73 @@
+{
+  "id": 873607219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.455783,45.891836,-108.455783,45.891836",
+    "geom:latitude":45.891836,
+    "geom:longitude":-108.455783,
+    "iso:country":"US",
+    "sg:address":"5023 Middle Valley Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9066",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m3bgu9oEsQ8iQXrl8r04T_45.891836_-108.455783@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295082,
+    "wof:geomhash":"84cd2295af1026422804f5dec1f6dae8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873607219
+        }
+    ],
+    "wof:id":873607219,
+    "wof:lastmodified":1464295082,
+    "wof:name":"A-1 Mobile Wash",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -108.455783,
+    45.891836,
+    -108.455783,
+    45.891836
+],
+  "geometry": {"coordinates":[-108.455783,45.891836],"type":"Point"}
+}

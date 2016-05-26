@@ -1,0 +1,78 @@
+{
+  "id": 873613043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.54434,45.725286,-108.54434,45.725286",
+    "geom:latitude":45.725286,
+    "geom:longitude":-108.54434,
+    "iso:country":"US",
+    "sg:address":"111 Jack St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6131",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "site"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uA3L7zhoHRnjzRDPQghHr_45.725286_-108.544340@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295176,
+    "wof:geomhash":"c03b39e054908e75aad6aaa66b805842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873613043
+        }
+    ],
+    "wof:id":873613043,
+    "wof:lastmodified":1464295176,
+    "wof:name":"Blain's Mobile Home Court Ofc",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "site"
+    ]
+},
+  "bbox": [
+    -108.54434,
+    45.725286,
+    -108.54434,
+    45.725286
+],
+  "geometry": {"coordinates":[-108.54434000000001,45.725286],"type":"Point"}
+}

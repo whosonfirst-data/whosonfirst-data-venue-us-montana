@@ -1,0 +1,71 @@
+{
+  "id": 873544813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.360207,47.478322,-111.360207,47.478322",
+    "geom:latitude":47.478322,
+    "geom:longitude":-111.360207,
+    "iso:country":"US",
+    "sg:address":"2800 Airport Ave B",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 452 9988",
+    "sg:postcode":"59404",
+    "sg:province":"MT",
+    "sg:tags":[
+        "study",
+        "university",
+        "graduate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102528273,
+        85688617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jx6DHd8Wtt5J1wZkd9Sd8_47.478322_-111.360207@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294315,
+    "wof:geomhash":"a47b3be47a23a4339ca8d8eab209d646",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528273,
+            "country_id":85633793,
+            "region_id":85688617,
+            "venue_id":873544813
+        }
+    ],
+    "wof:id":873544813,
+    "wof:lastmodified":1464294315,
+    "wof:name":"Embry-Riddle Aeronautical Univ",
+    "wof:parent_id":102528273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "study",
+        "university",
+        "graduate"
+    ]
+},
+  "bbox": [
+    -111.360207,
+    47.478322,
+    -111.360207,
+    47.478322
+],
+  "geometry": {"coordinates":[-111.360207,47.478322],"type":"Point"}
+}

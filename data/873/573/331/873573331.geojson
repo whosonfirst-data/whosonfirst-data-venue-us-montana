@@ -1,0 +1,75 @@
+{
+  "id": 873573331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.50708,45.781464,-108.50708,45.781464",
+    "geom:latitude":45.781464,
+    "geom:longitude":-108.50708,
+    "iso:country":"US",
+    "sg:address":"4 N 29th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 0711",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop",
+        "pawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jS0wNBN1L0u8NO95ZCaIg_45.781464_-108.507080@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294645,
+    "wof:geomhash":"f624142fde36fef24e8e8ef98fb2d100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873573331
+        }
+    ],
+    "wof:id":873573331,
+    "wof:lastmodified":1464294645,
+    "wof:name":"First National Pawn",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "pawn"
+    ]
+},
+  "bbox": [
+    -108.50708,
+    45.781464,
+    -108.50708,
+    45.781464
+],
+  "geometry": {"coordinates":[-108.50708,45.781464],"type":"Point"}
+}

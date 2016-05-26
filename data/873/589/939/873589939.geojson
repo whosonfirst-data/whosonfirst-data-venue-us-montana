@@ -1,0 +1,71 @@
+{
+  "id": 873589939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.028527,46.818674,-114.028527,46.818674",
+    "geom:latitude":46.818674,
+    "geom:longitude":-114.028527,
+    "iso:country":"US",
+    "sg:address":"109 Alliance Way",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 4552",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IV055guvXl9uK6nEESG9z_46.818674_-114.028527@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294831,
+    "wof:geomhash":"fe54f912a40a548ea120b5fb0631192d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873589939
+        }
+    ],
+    "wof:id":873589939,
+    "wof:lastmodified":1464294831,
+    "wof:name":"Jubilee Land Corp",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -114.028527,
+    46.818674,
+    -114.028527,
+    46.818674
+],
+  "geometry": {"coordinates":[-114.028527,46.818674],"type":"Point"}
+}

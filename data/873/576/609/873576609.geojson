@@ -1,0 +1,71 @@
+{
+  "id": 873576609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.089712,46.777018,-114.089712,46.777018",
+    "geom:latitude":46.777018,
+    "geom:longitude":-114.089712,
+    "iso:country":"US",
+    "sg:address":"9825 US Hwy 93",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 6335",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mfgZL9FgPmZYVW4rES0Km_46.777018_-114.089712@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294680,
+    "wof:geomhash":"57ab19fa3dfc2eca6542eedaca39feb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873576609
+        }
+    ],
+    "wof:id":873576609,
+    "wof:lastmodified":1464294680,
+    "wof:name":"Lolo Creek Veterinary Hospital",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -114.089712,
+    46.777018,
+    -114.089712,
+    46.777018
+],
+  "geometry": {"coordinates":[-114.08971200000001,46.777018],"type":"Point"}
+}

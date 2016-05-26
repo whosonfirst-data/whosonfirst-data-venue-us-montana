@@ -1,0 +1,73 @@
+{
+  "id": 873661477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.790836,45.682479,-108.790836,45.682479",
+    "geom:latitude":45.682479,
+    "geom:longitude":-108.790836,
+    "iso:country":"US",
+    "sg:address":"1532 W 12th St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 6191",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p2h52Tb450iSw90pYBEXy_45.682479_-108.790836@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295714,
+    "wof:geomhash":"536467b049d42829a2799704bdfba7e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873661477
+        }
+    ],
+    "wof:id":873661477,
+    "wof:lastmodified":1464295714,
+    "wof:name":"Carlson Plumbing",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.790836,
+    45.682479,
+    -108.790836,
+    45.682479
+],
+  "geometry": {"coordinates":[-108.790836,45.682479],"type":"Point"}
+}

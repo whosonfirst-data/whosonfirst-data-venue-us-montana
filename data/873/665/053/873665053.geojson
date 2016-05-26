@@ -1,0 +1,73 @@
+{
+  "id": 873665053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.025397,46.890711,-114.025397,46.890711",
+    "geom:latitude":46.890711,
+    "geom:longitude":-114.025397,
+    "iso:country":"US",
+    "sg:address":"2602 Industry St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 327 1164",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xwksC8vB4yjbPWZw7Y9kq_46.890711_-114.025397@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295751,
+    "wof:geomhash":"b8dcc2ed7ff61713599c9ec1568f6a17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873665053
+        }
+    ],
+    "wof:id":873665053,
+    "wof:lastmodified":1464295751,
+    "wof:name":"C W X",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.025397,
+    46.890711,
+    -114.025397,
+    46.890711
+],
+  "geometry": {"coordinates":[-114.025397,46.890711],"type":"Point"}
+}

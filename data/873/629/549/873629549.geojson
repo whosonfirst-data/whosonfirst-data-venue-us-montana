@@ -1,0 +1,73 @@
+{
+  "id": 873629549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.560353,45.799763,-108.560353,45.799763",
+    "geom:latitude":45.799763,
+    "geom:longitude":-108.560353,
+    "iso:country":"US",
+    "sg:address":"2911 Stanford Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4859",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b3aa3A7bSYWNviTKXvhIb_45.799763_-108.560353@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295361,
+    "wof:geomhash":"b43f03a3c15e5b9a3f7b5244ea2bd9d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873629549
+        }
+    ],
+    "wof:id":873629549,
+    "wof:lastmodified":1464295361,
+    "wof:name":"Blue Creek Investors LLC",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -108.560353,
+    45.799763,
+    -108.560353,
+    45.799763
+],
+  "geometry": {"coordinates":[-108.56035300000001,45.799763],"type":"Point"}
+}

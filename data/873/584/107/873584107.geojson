@@ -1,0 +1,73 @@
+{
+  "id": 873584107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.364105,47.017519,-114.364105,47.017519",
+    "geom:latitude":47.017519,
+    "geom:longitude":-114.364105,
+    "iso:country":"US",
+    "sg:address":"15300 Big Horn Rd",
+    "sg:city":"Huson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 523 6079",
+    "sg:postcode":"59846",
+    "sg:province":"MT",
+    "sg:tags":[
+        "towing",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tDftBo5ghMPRUotEzBk78_47.017519_-114.364105@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294764,
+    "wof:geomhash":"d16f406c439f6247d8737d6ad45e837d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873584107
+        }
+    ],
+    "wof:id":873584107,
+    "wof:lastmodified":1464294764,
+    "wof:name":"Nine Mile Towing & Repair",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "general"
+    ]
+},
+  "bbox": [
+    -114.364105,
+    47.017519,
+    -114.364105,
+    47.017519
+],
+  "geometry": {"coordinates":[-114.364105,47.017519],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873612079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.08843,45.678972,-111.08843,45.678972",
+    "geom:latitude":45.678972,
+    "geom:longitude":-111.08843,
+    "iso:country":"US",
+    "sg:address":"10 S Yellowstone Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 579 0205",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V26tE6GC1EnBPM3qTwGkw_45.678972_-111.088430@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295168,
+    "wof:geomhash":"df2b7d0ec75d3b24ccbb87a57135b10d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891697,
+            "region_id":85688617,
+            "venue_id":873612079
+        }
+    ],
+    "wof:id":873612079,
+    "wof:lastmodified":1464295168,
+    "wof:name":"Kevin T Okragly",
+    "wof:parent_id":85891697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.08843,
+    45.678972,
+    -111.08843,
+    45.678972
+],
+  "geometry": {"coordinates":[-111.08843,45.678972],"type":"Point"}
+}

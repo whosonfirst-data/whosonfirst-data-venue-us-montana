@@ -1,0 +1,77 @@
+{
+  "id": 873599665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.559874,45.661311,-110.559874,45.661311",
+    "geom:latitude":45.661311,
+    "geom:longitude":-110.559874,
+    "iso:country":"US",
+    "sg:address":"115 S Main St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 7111",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fresh",
+        "potted",
+        "flower",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05cna2k9cHyf6eG59DF1oO_45.661311_-110.559874@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294984,
+    "wof:geomhash":"57efb2cc21ef548fda61c843c024deaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873599665
+        }
+    ],
+    "wof:id":873599665,
+    "wof:lastmodified":1464294984,
+    "wof:name":"Floral Boutique Inc",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fresh",
+        "potted",
+        "flower",
+        "plant"
+    ]
+},
+  "bbox": [
+    -110.559874,
+    45.661311,
+    -110.559874,
+    45.661311
+],
+  "geometry": {"coordinates":[-110.55987399999999,45.661311],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873632919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.037571,46.90727,-114.037571,46.90727",
+    "geom:latitude":46.90727,
+    "geom:longitude":-114.037571,
+    "iso:country":"US",
+    "sg:address":"4545 N Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 0888",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tAKctyU0ryEQ0vUrYPHuP_46.907270_-114.037571@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295399,
+    "wof:geomhash":"99d34ac9b8aac4174b40487dba10c53d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873632919
+        }
+    ],
+    "wof:id":873632919,
+    "wof:lastmodified":1464295399,
+    "wof:name":"Comfort Inn",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -114.037571,
+    46.90727,
+    -114.037571,
+    46.90727
+],
+  "geometry": {"coordinates":[-114.037571,46.90727],"type":"Point"}
+}

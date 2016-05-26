@@ -1,0 +1,73 @@
+{
+  "id": 873642927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.108827,45.470846,-112.108827,45.470846",
+    "geom:latitude":45.470846,
+    "geom:longitude":-112.108827,
+    "iso:country":"US",
+    "sg:address":"267 Mill Creek Rd",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 842 5319",
+    "sg:postcode":"59749",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential",
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IQtlWcDrkaMOam8X5PX4m_45.470846_-112.108827@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295510,
+    "wof:geomhash":"f54c7ceded683d090c7ebfb3a8ea38a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873642927
+        }
+    ],
+    "wof:id":873642927,
+    "wof:lastmodified":1464295510,
+    "wof:name":"William Roylance",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "property"
+    ]
+},
+  "bbox": [
+    -112.108827,
+    45.470846,
+    -112.108827,
+    45.470846
+],
+  "geometry": {"coordinates":[-112.10882700000001,45.470846],"type":"Point"}
+}

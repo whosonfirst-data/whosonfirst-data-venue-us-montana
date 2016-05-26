@@ -1,0 +1,73 @@
+{
+  "id": 873605093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.54026,45.777119,-108.54026,45.777119",
+    "geom:latitude":45.777119,
+    "geom:longitude":-108.54026,
+    "iso:country":"US",
+    "sg:address":"929 Broadwater Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 4358",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c0MYIywalizO4GvobhPYg_45.777119_-108.540260@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295040,
+    "wof:geomhash":"c9051c553320d6a5efe76065fd3e8b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873605093
+        }
+    ],
+    "wof:id":873605093,
+    "wof:lastmodified":1464295040,
+    "wof:name":"Home Care Svc",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -108.54026,
+    45.777119,
+    -108.54026,
+    45.777119
+],
+  "geometry": {"coordinates":[-108.54026,45.777119],"type":"Point"}
+}

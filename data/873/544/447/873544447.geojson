@@ -1,0 +1,71 @@
+{
+  "id": 873544447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.468209,45.839849,-108.468209,45.839849",
+    "geom:latitude":45.839849,
+    "geom:longitude":-108.468209,
+    "iso:country":"US",
+    "sg:address":"2237 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 5456",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KKvkzzKOgukySp9tqC1gQ_45.839849_-108.468209@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294311,
+    "wof:geomhash":"7ff34ef085f71d0c1bf9685ec88e9f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873544447
+        }
+    ],
+    "wof:id":873544447,
+    "wof:lastmodified":1464294311,
+    "wof:name":"Classic Plating",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plating"
+    ]
+},
+  "bbox": [
+    -108.468209,
+    45.839849,
+    -108.468209,
+    45.839849
+],
+  "geometry": {"coordinates":[-108.468209,45.839849],"type":"Point"}
+}

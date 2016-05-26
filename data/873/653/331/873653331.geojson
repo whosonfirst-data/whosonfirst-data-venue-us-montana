@@ -1,0 +1,75 @@
+{
+  "id": 873653331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.491559,45.841212,-108.491559,45.841212",
+    "geom:latitude":45.841212,
+    "geom:longitude":-108.491559,
+    "iso:country":"US",
+    "sg:address":"2338 Riveroaks Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 4777",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OwLgAt7O2dcGsVFzX1cSL_45.841212_-108.491559@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295628,
+    "wof:geomhash":"32ee1bd080693178b25241cfa9d4d6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":873653331
+        }
+    ],
+    "wof:id":873653331,
+    "wof:lastmodified":1464295628,
+    "wof:name":"Mountain States Environmental",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -108.491559,
+    45.841212,
+    -108.491559,
+    45.841212
+],
+  "geometry": {"coordinates":[-108.491559,45.841212],"type":"Point"}
+}

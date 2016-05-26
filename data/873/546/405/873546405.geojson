@@ -1,0 +1,73 @@
+{
+  "id": 873546405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.033103,46.883606,-114.033103,46.883606",
+    "geom:latitude":46.883606,
+    "geom:longitude":-114.033103,
+    "iso:country":"US",
+    "sg:address":"2350 Mullan Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 541 9200",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33TSSrPCgVfFHVND55BAKL_46.883606_-114.033103@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294333,
+    "wof:geomhash":"e6a38b5692b323ab25c89a49d4793114",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873546405
+        }
+    ],
+    "wof:id":873546405,
+    "wof:lastmodified":1464294333,
+    "wof:name":"Missoula Pre-Release Center",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -114.033103,
+    46.883606,
+    -114.033103,
+    46.883606
+],
+  "geometry": {"coordinates":[-114.033103,46.883606],"type":"Point"}
+}

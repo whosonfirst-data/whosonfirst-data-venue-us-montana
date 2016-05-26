@@ -1,0 +1,73 @@
+{
+  "id": 873626843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.562012,45.660005,-110.562012,45.660005",
+    "geom:latitude":45.660005,
+    "geom:longitude":-110.562012,
+    "iso:country":"US",
+    "sg:address":"121 S 3rd St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 6102",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33StenFlq86MCjIgPw2tOZ_45.660005_-110.562012@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295328,
+    "wof:geomhash":"edbb05cc3da7d6f3b0e6d43b275f415a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873626843
+        }
+    ],
+    "wof:id":873626843,
+    "wof:lastmodified":1464295328,
+    "wof:name":"Frontier Personal Care Center",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -110.562012,
+    45.660005,
+    -110.562012,
+    45.660005
+],
+  "geometry": {"coordinates":[-110.562012,45.660005],"type":"Point"}
+}

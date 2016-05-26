@@ -1,0 +1,66 @@
+{
+  "id": 873559443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.039505,46.852436,-114.039505,46.852436",
+    "geom:latitude":46.852436,
+    "geom:longitude":-114.039505,
+    "iso:country":"US",
+    "sg:address":"1914 S Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 3838",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UzOPzo1jxnN3QypJQ4yyf_46.852436_-114.039505@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294493,
+    "wof:geomhash":"b9a5655c9cc6e4f7a7a4798e78153c7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873559443
+        }
+    ],
+    "wof:id":873559443,
+    "wof:lastmodified":1464294493,
+    "wof:name":"Patti Prato Dvm",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.039505,
+    46.852436,
+    -114.039505,
+    46.852436
+],
+  "geometry": {"coordinates":[-114.03950500000001,46.852436],"type":"Point"}
+}

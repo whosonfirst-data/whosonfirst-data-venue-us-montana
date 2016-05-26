@@ -1,0 +1,75 @@
+{
+  "id": 873552587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.322488,48.215891,-114.322488,48.215891",
+    "geom:latitude":48.215891,
+    "geom:longitude":-114.322488,
+    "iso:country":"US",
+    "sg:address":"320 Sunnyview Ln",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 8484",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "surgical",
+        "outpatient",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cdWDqFjaj6R33wvGNgK2x_48.215891_-114.322488@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294407,
+    "wof:geomhash":"91d8bd929f3a61a2ecdb1a565eb92972",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873552587
+        }
+    ],
+    "wof:id":873552587,
+    "wof:lastmodified":1464294407,
+    "wof:name":"Flathead Otptient Surgical Ctr",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "outpatient",
+        "center"
+    ]
+},
+  "bbox": [
+    -114.322488,
+    48.215891,
+    -114.322488,
+    48.215891
+],
+  "geometry": {"coordinates":[-114.32248800000001,48.215891],"type":"Point"}
+}

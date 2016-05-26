@@ -1,0 +1,73 @@
+{
+  "id": 873599053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.020713,46.880689,-114.020713,46.880689",
+    "geom:latitude":46.880689,
+    "geom:longitude":-114.020713,
+    "iso:country":"US",
+    "sg:address":"1944 Birch St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 0881",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hXCW59DN5WAN3s38bkWOl_46.880689_-114.020713@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294973,
+    "wof:geomhash":"67559d5ed3a83fb231c39df2fcd349a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873599053
+        }
+    ],
+    "wof:id":873599053,
+    "wof:lastmodified":1464294973,
+    "wof:name":"Mountain States Collision Repr",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -114.020713,
+    46.880689,
+    -114.020713,
+    46.880689
+],
+  "geometry": {"coordinates":[-114.020713,46.880689],"type":"Point"}
+}

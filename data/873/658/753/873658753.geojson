@@ -1,0 +1,73 @@
+{
+  "id": 873658753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.225099,48.211278,-114.225099,48.211278",
+    "geom:latitude":48.211278,
+    "geom:longitude":-114.225099,
+    "iso:country":"US",
+    "sg:address":"1585 Holt Stage Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 4112",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HgEY7WZPq9AArRF7ObX7U_48.211278_-114.225099@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295686,
+    "wof:geomhash":"736075601f79f724f2bf792c4e88940b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873658753
+        }
+    ],
+    "wof:id":873658753,
+    "wof:lastmodified":1464295686,
+    "wof:name":"Dent Magic",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -114.225099,
+    48.211278,
+    -114.225099,
+    48.211278
+],
+  "geometry": {"coordinates":[-114.225099,48.211278],"type":"Point"}
+}

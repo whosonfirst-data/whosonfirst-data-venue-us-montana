@@ -1,0 +1,71 @@
+{
+  "id": 873620173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.05214,45.660267,-111.05214,45.660267",
+    "geom:latitude":45.660267,
+    "geom:longitude":-111.05214,
+    "iso:country":"US",
+    "sg:address":"1711 S 11th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 522 9893",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UQtWsT6oUlvikzoFym1WK_45.660267_-111.052140@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295252,
+    "wof:geomhash":"6e4b6b66b0898af72c31b7864581de99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891709,
+            "region_id":85688617,
+            "venue_id":873620173
+        }
+    ],
+    "wof:id":873620173,
+    "wof:lastmodified":1464295252,
+    "wof:name":"Bytehammer Media",
+    "wof:parent_id":85891709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -111.05214,
+    45.660267,
+    -111.05214,
+    45.660267
+],
+  "geometry": {"coordinates":[-111.05213999999999,45.660267],"type":"Point"}
+}

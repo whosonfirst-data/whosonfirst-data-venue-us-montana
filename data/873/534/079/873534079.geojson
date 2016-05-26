@@ -1,0 +1,71 @@
+{
+  "id": 873534079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.731389,45.348662,-111.731389,45.348662",
+    "geom:latitude":45.348662,
+    "geom:longitude":-111.731389,
+    "iso:country":"US",
+    "sg:address":"117 W Main St",
+    "sg:city":"Ennis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 682 4236",
+    "sg:postcode":"59729",
+    "sg:province":"MT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PhglG0B08gpHS1mcQBplh_45.348662_-111.731389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294190,
+    "wof:geomhash":"46c1196020740b01587e273c6336a7e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873534079
+        }
+    ],
+    "wof:id":873534079,
+    "wof:lastmodified":1464294190,
+    "wof:name":"Main Street Apartments",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.731389,
+    45.348662,
+    -111.731389,
+    45.348662
+],
+  "geometry": {"coordinates":[-111.73138899999999,45.348662],"type":"Point"}
+}

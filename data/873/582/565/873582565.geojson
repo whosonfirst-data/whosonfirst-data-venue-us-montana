@@ -1,0 +1,71 @@
+{
+  "id": 873582565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.442592,45.830101,-108.442592,45.830101",
+    "geom:latitude":45.830101,
+    "geom:longitude":-108.442592,
+    "iso:country":"US",
+    "sg:address":"1710 Maurine St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 9614",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18jKkfApBFgspvnxtdbRqw_45.830101_-108.442592@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294748,
+    "wof:geomhash":"6bc702040681336212bd017289bcf9d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873582565
+        }
+    ],
+    "wof:id":873582565,
+    "wof:lastmodified":1464294748,
+    "wof:name":"P & R Construction",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -108.442592,
+    45.830101,
+    -108.442592,
+    45.830101
+],
+  "geometry": {"coordinates":[-108.442592,45.830101],"type":"Point"}
+}

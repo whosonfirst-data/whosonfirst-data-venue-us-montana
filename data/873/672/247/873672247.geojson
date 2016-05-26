@@ -1,0 +1,71 @@
+{
+  "id": 873672247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.396621,48.216557,-114.396621,48.216557",
+    "geom:latitude":48.216557,
+    "geom:longitude":-114.396621,
+    "iso:country":"US",
+    "sg:address":"34 Stonecrest Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 9648",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qBk3iojTZ4jpDJvKgId4W_48.216557_-114.396621@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295823,
+    "wof:geomhash":"7b082d2209b748d396e4f0d7f727086d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873672247
+        }
+    ],
+    "wof:id":873672247,
+    "wof:lastmodified":1464295823,
+    "wof:name":"Laughlin Drywall",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.396621,
+    48.216557,
+    -114.396621,
+    48.216557
+],
+  "geometry": {"coordinates":[-114.396621,48.216557],"type":"Point"}
+}

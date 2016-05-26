@@ -1,0 +1,81 @@
+{
+  "id": 873619831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.637879,45.70914,-108.637879,45.70914",
+    "geom:latitude":45.70914,
+    "geom:longitude":-108.637879,
+    "iso:country":"US",
+    "sg:address":"3323 Duck Creek Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5205",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SuuMzCxxN0Yy95ASIXbWA_45.709140_-108.637879@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295249,
+    "wof:geomhash":"64e4db6c1e586c463c32a9358f928681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873619831
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873619831
+        }
+    ],
+    "wof:id":873619831,
+    "wof:lastmodified":1464295249,
+    "wof:name":"KARZ",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -108.637879,
+    45.70914,
+    -108.637879,
+    45.70914
+],
+  "geometry": {"coordinates":[-108.637879,45.70914],"type":"Point"}
+}

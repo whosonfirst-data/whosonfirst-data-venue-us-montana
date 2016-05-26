@@ -1,0 +1,75 @@
+{
+  "id": 873702211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.502736,45.786384,-108.502736,45.786384",
+    "geom:latitude":45.786384,
+    "geom:longitude":-108.502736,
+    "iso:country":"US",
+    "sg:address":"323 N 24th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/237250-tinys-tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 0828",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EfQuHfANBwt0VD9iRMXm7_45.786862_-108.503119@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296428,
+    "wof:geomhash":"1ec6cdc1b242ac50be116317927144ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873702211
+        }
+    ],
+    "wof:id":873702211,
+    "wof:lastmodified":1464296428,
+    "wof:name":"Tiny's Tavern",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -108.502736,
+    45.786384,
+    -108.502736,
+    45.786384
+],
+  "geometry": {"coordinates":[-108.502736,45.786384],"type":"Point"}
+}

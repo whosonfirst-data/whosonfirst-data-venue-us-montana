@@ -1,0 +1,71 @@
+{
+  "id": 873631601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.5569,45.787212,-108.5569,45.787212",
+    "geom:latitude":45.787212,
+    "geom:longitude":-108.5569,
+    "iso:country":"US",
+    "sg:address":"1597 Ave D",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 9808",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_179QQM10ebADU09zUdKnZM_45.787212_-108.556900@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295380,
+    "wof:geomhash":"522119efb0bc2e70c45e2aeffb393d88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873631601
+        }
+    ],
+    "wof:id":873631601,
+    "wof:lastmodified":1464295380,
+    "wof:name":"Robyn Butler-Hall",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -108.5569,
+    45.787212,
+    -108.5569,
+    45.787212
+],
+  "geometry": {"coordinates":[-108.5569,45.787212],"type":"Point"}
+}

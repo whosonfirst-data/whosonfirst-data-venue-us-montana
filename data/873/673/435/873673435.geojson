@@ -1,0 +1,84 @@
+{
+  "id": 873673435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.513264,45.996682,-112.513264,45.996682",
+    "geom:latitude":45.996682,
+    "geom:longitude":-112.513264,
+    "iso:country":"US",
+    "sg:address":"1807 Florence Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 0407",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor",
+        "heating",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qlgKXjKtOL902Pi6oCnH5_45.996682_-112.513264@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295835,
+    "wof:geomhash":"2ebe8f19c607cdbcf52eeb288a4a7aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873673435
+        }
+    ],
+    "wof:id":873673435,
+    "wof:lastmodified":1464295835,
+    "wof:name":"Gribben's Plumbing & Heating",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor",
+        "heating",
+        "supply"
+    ]
+},
+  "bbox": [
+    -112.513264,
+    45.996682,
+    -112.513264,
+    45.996682
+],
+  "geometry": {"coordinates":[-112.51326400000001,45.996682],"type":"Point"}
+}

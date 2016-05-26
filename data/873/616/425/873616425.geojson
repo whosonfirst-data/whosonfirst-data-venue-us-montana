@@ -1,0 +1,73 @@
+{
+  "id": 873616425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.021504,46.848806,-114.021504,46.848806",
+    "geom:latitude":46.848806,
+    "geom:longitude":-114.021504,
+    "iso:country":"US",
+    "sg:address":"1639 South Ave W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 4543",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BMHk9y0aerXfFsua1Ftbv_46.848806_-114.021504@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295209,
+    "wof:geomhash":"1bbc0b40b137e6d32bf323b3828650a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873616425
+        }
+    ],
+    "wof:id":873616425,
+    "wof:lastmodified":1464295209,
+    "wof:name":"Liberty Electric",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.021504,
+    46.848806,
+    -114.021504,
+    46.848806
+],
+  "geometry": {"coordinates":[-114.02150399999999,46.848806],"type":"Point"}
+}

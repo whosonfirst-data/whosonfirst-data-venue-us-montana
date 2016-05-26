@@ -1,0 +1,71 @@
+{
+  "id": 873658567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.33557,48.377162,-114.33557,48.377162",
+    "geom:latitude":48.377162,
+    "geom:longitude":-114.33557,
+    "iso:country":"US",
+    "sg:address":"5938 US Hwy 93",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 863 9300",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JFKJc4VTcBj2BvSG3cKbB_48.377162_-114.335570@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295684,
+    "wof:geomhash":"764a9424fe4269f1fb95f2b95b7ed3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873658567
+        }
+    ],
+    "wof:id":873658567,
+    "wof:lastmodified":1464295684,
+    "wof:name":"Bridge Medical Center",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -114.33557,
+    48.377162,
+    -114.33557,
+    48.377162
+],
+  "geometry": {"coordinates":[-114.33557,48.377162],"type":"Point"}
+}

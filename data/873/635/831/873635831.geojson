@@ -1,0 +1,75 @@
+{
+  "id": 873635831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.517398,46.005998,-112.517398,46.005998",
+    "geom:latitude":46.005998,
+    "geom:longitude":-112.517398,
+    "iso:country":"US",
+    "sg:address":"1400 E 2nd St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 3922",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "steel",
+        "fabrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VqUH4sLjWb1gt87YKU0Cu_46.005998_-112.517398@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295430,
+    "wof:geomhash":"ac3706db526342f2411d3e83c5eb9d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873635831
+        }
+    ],
+    "wof:id":873635831,
+    "wof:lastmodified":1464295430,
+    "wof:name":"Continental Steel Works",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabrication"
+    ]
+},
+  "bbox": [
+    -112.517398,
+    46.005998,
+    -112.517398,
+    46.005998
+],
+  "geometry": {"coordinates":[-112.517398,46.005998],"type":"Point"}
+}

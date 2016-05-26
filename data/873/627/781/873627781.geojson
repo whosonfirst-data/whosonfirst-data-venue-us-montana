@@ -1,0 +1,73 @@
+{
+  "id": 873627781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.335332,48.412323,-114.335332,48.412323",
+    "geom:latitude":48.412323,
+    "geom:longitude":-114.335332,
+    "iso:country":"US",
+    "sg:address":"20 Spokane Ave",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 9507",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DZ6lEqdnTVeT2V1qHbT7V_48.412323_-114.335332@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295338,
+    "wof:geomhash":"98b3736d67230028f4e0d97dff2d5534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873627781
+        }
+    ],
+    "wof:id":873627781,
+    "wof:lastmodified":1464295338,
+    "wof:name":"Whitefish Builders Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.335332,
+    48.412323,
+    -114.335332,
+    48.412323
+],
+  "geometry": {"coordinates":[-114.33533199999999,48.412323],"type":"Point"}
+}

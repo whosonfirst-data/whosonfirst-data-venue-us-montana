@@ -1,0 +1,77 @@
+{
+  "id": 873629467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576217,45.784147,-108.576217,45.784147",
+    "geom:latitude":45.784147,
+    "geom:longitude":-108.576217,
+    "iso:country":"US",
+    "sg:address":"2211 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 1666",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "garment",
+        "plant",
+        "agent",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25P5N1LPOXBrURVmk8RGeE_45.784147_-108.576217@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295360,
+    "wof:geomhash":"bad458c1de50c6cbdbaf537400df49c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873629467
+        }
+    ],
+    "wof:id":873629467,
+    "wof:lastmodified":1464295360,
+    "wof:name":"Mr Wise Cleaners",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "plant",
+        "agent",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -108.576217,
+    45.784147,
+    -108.576217,
+    45.784147
+],
+  "geometry": {"coordinates":[-108.576217,45.784147],"type":"Point"}
+}

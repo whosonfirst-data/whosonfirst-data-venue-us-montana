@@ -1,0 +1,102 @@
+{
+  "id": 873703321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.105179,45.67387,-111.105179,45.67387",
+    "geom:latitude":45.67387,
+    "geom:longitude":-111.105179,
+    "iso:country":"US",
+    "sg:address":"100 S Auto Plaza Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 556 6633",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "buses-distributors",
+        "car",
+        "buses-parts",
+        "new",
+        "painting",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        420525655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2waHadAIr4O1Myiy3qBYqp_45.673870_-111.105179@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296438,
+    "wof:geomhash":"eaa3d3f61241ca9bd46fd143c0cdc591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":420525655,
+            "region_id":85688617,
+            "venue_id":873703321
+        }
+    ],
+    "wof:id":873703321,
+    "wof:lastmodified":1464296438,
+    "wof:name":"Billion Auto Body Inc",
+    "wof:parent_id":420525655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "buses-distributors",
+        "car",
+        "buses-parts",
+        "new",
+        "painting",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -111.105179,
+    45.67387,
+    -111.105179,
+    45.67387
+],
+  "geometry": {"coordinates":[-111.10517900000001,45.67387],"type":"Point"}
+}

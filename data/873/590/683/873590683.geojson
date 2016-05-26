@@ -1,0 +1,75 @@
+{
+  "id": 873590683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.527841,45.778066,-108.527841,45.778066",
+    "geom:latitude":45.778066,
+    "geom:longitude":-108.527841,
+    "iso:country":"US",
+    "sg:address":"705 5th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 1100",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fH4oEOf1yzTjWsubgDWkJ_45.778066_-108.527841@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294838,
+    "wof:geomhash":"cacebed080b01daa13cd05933c7adf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873590683
+        }
+    ],
+    "wof:id":873590683,
+    "wof:lastmodified":1464294838,
+    "wof:name":"Guardian Mortgage",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -108.527841,
+    45.778066,
+    -108.527841,
+    45.778066
+],
+  "geometry": {"coordinates":[-108.527841,45.778066],"type":"Point"}
+}

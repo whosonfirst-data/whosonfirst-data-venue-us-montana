@@ -1,0 +1,71 @@
+{
+  "id": 873560359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.322939,48.189853,-114.322939,48.189853",
+    "geom:latitude":48.189853,
+    "geom:longitude":-114.322939,
+    "iso:country":"US",
+    "sg:address":"717 8th Ave W",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 0606",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1efvnE7I6TJDO1fWR4EOkt_48.189853_-114.322939@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294503,
+    "wof:geomhash":"e21d1ba44d654fe3f8f41ec3cbf0526e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873560359
+        }
+    ],
+    "wof:id":873560359,
+    "wof:lastmodified":1464294503,
+    "wof:name":"Jim Pugh Siding",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.322939,
+    48.189853,
+    -114.322939,
+    48.189853
+],
+  "geometry": {"coordinates":[-114.32293900000001,48.189853],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873664269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.551128,45.786883,-108.551128,45.786883",
+    "geom:latitude":45.786883,
+    "geom:longitude":-108.551128,
+    "iso:country":"US",
+    "sg:address":"1302 Ave D",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6840",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vvd1PkSV8xd0d3ntytqfV_45.786883_-108.551128@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295743,
+    "wof:geomhash":"3b1b1601ff070d79535687b535187090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873664269
+        }
+    ],
+    "wof:id":873664269,
+    "wof:lastmodified":1464295743,
+    "wof:name":"E M S I",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.551128,
+    45.786883,
+    -108.551128,
+    45.786883
+],
+  "geometry": {"coordinates":[-108.55112800000001,45.786883],"type":"Point"}
+}

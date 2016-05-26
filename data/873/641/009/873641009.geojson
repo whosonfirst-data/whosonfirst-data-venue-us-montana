@@ -1,0 +1,68 @@
+{
+  "id": 873641009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.539097,46.003635,-112.539097,46.003635",
+    "geom:latitude":46.003635,
+    "geom:longitude":-112.539097,
+    "iso:country":"US",
+    "sg:address":"818 S Montana St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 6827",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67HXJZdaKD6xIDf2lF8yuA_46.003635_-112.539097@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295487,
+    "wof:geomhash":"9830110b2f6ad3b0c783fbda27ad1295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873641009
+        }
+    ],
+    "wof:id":873641009,
+    "wof:lastmodified":1464295487,
+    "wof:name":"Lammis T V Service",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.539097,
+    46.003635,
+    -112.539097,
+    46.003635
+],
+  "geometry": {"coordinates":[-112.539097,46.003635],"type":"Point"}
+}

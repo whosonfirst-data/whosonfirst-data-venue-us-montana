@@ -1,0 +1,69 @@
+{
+  "id": 873598821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.994694,46.870904,-113.994694,46.870904",
+    "geom:latitude":46.870904,
+    "geom:longitude":-113.994694,
+    "iso:country":"US",
+    "sg:address":"120 N Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 2449",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k45qTlWJGkddxQxs2K03U_46.870904_-113.994694@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294969,
+    "wof:geomhash":"73a493b5b4dcf7393709d37b0e49be64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873598821
+        }
+    ],
+    "wof:id":873598821,
+    "wof:lastmodified":1464294969,
+    "wof:name":"Uptown Diner",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -113.994694,
+    46.870904,
+    -113.994694,
+    46.870904
+],
+  "geometry": {"coordinates":[-113.994694,46.870904],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873641813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.58457,45.749731,-108.58457,45.749731",
+    "geom:latitude":45.749731,
+    "geom:longitude":-108.58457,
+    "iso:country":"US",
+    "sg:address":"2700 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7368",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ztzfV6BaU0lchU56rjSaT_45.749731_-108.584570@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295496,
+    "wof:geomhash":"003605a0843e62eb4e87c767e6fd8560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873641813
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873641813
+        }
+    ],
+    "wof:id":873641813,
+    "wof:lastmodified":1464295496,
+    "wof:name":"W P Rentals LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.58457,
+    45.749731,
+    -108.58457,
+    45.749731
+],
+  "geometry": {"coordinates":[-108.58457,45.749731],"type":"Point"}
+}

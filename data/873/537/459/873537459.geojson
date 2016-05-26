@@ -1,0 +1,73 @@
+{
+  "id": 873537459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.029364,46.890317,-114.029364,46.890317",
+    "geom:latitude":46.890317,
+    "geom:longitude":-114.029364,
+    "iso:country":"US",
+    "sg:address":"2738 W Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 1750",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_027oniMHKa53DzYTjOOteg_46.890317_-114.029364@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294233,
+    "wof:geomhash":"3ac634aab3b82444d05f7684d17aff5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873537459
+        }
+    ],
+    "wof:id":873537459,
+    "wof:lastmodified":1464294233,
+    "wof:name":"Mini Mart 703",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -114.029364,
+    46.890317,
+    -114.029364,
+    46.890317
+],
+  "geometry": {"coordinates":[-114.029364,46.890317],"type":"Point"}
+}

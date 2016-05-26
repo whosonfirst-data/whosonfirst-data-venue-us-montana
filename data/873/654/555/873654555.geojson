@@ -1,0 +1,69 @@
+{
+  "id": 873654555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.546834,45.7553,-108.546834,45.7553",
+    "geom:latitude":45.7553,
+    "geom:longitude":-108.546834,
+    "iso:country":"US",
+    "sg:address":"44 Nimitz Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 1855",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zLNwUhiDMP9lpbD97fGW0_45.755300_-108.546834@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295641,
+    "wof:geomhash":"07601326eb6127aa9a82261986f34c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873654555
+        }
+    ],
+    "wof:id":873654555,
+    "wof:lastmodified":1464295641,
+    "wof:name":"Mikes Mobile Recrtl Vhcl Svc",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -108.546834,
+    45.7553,
+    -108.546834,
+    45.7553
+],
+  "geometry": {"coordinates":[-108.546834,45.7553],"type":"Point"}
+}

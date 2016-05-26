@@ -1,0 +1,71 @@
+{
+  "id": 873637901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.092069,46.847875,-114.092069,46.847875",
+    "geom:latitude":46.847875,
+    "geom:longitude":-114.092069,
+    "iso:country":"US",
+    "sg:address":"2709 Humble Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 5200",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xa2T4zENW4BOUXSTdlW9A_46.847875_-114.092069@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295454,
+    "wof:geomhash":"8fccf89cc4458cc06d4bbf3184105e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873637901
+        }
+    ],
+    "wof:id":873637901,
+    "wof:lastmodified":1464295454,
+    "wof:name":"Lorri Williams",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -114.092069,
+    46.847875,
+    -114.092069,
+    46.847875
+],
+  "geometry": {"coordinates":[-114.092069,46.847875],"type":"Point"}
+}

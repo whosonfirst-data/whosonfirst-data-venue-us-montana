@@ -1,0 +1,75 @@
+{
+  "id": 873624919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.026237,46.843054,-114.026237,46.843054",
+    "geom:latitude":46.843054,
+    "geom:longitude":-114.026237,
+    "iso:country":"US",
+    "sg:address":"3004 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 3548",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "exhaust",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W65s6uzfLsSclIVlIKaq7_46.843054_-114.026237@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295310,
+    "wof:geomhash":"cc0e6df9247eb4175b21890d986ac924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873624919
+        }
+    ],
+    "wof:id":873624919,
+    "wof:lastmodified":1464295310,
+    "wof:name":"Scotts E-Q Muffler",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "exhaust",
+        "general"
+    ]
+},
+  "bbox": [
+    -114.026237,
+    46.843054,
+    -114.026237,
+    46.843054
+],
+  "geometry": {"coordinates":[-114.02623699999999,46.843054],"type":"Point"}
+}

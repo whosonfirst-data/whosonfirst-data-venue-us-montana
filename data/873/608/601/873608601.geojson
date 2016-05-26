@@ -1,0 +1,71 @@
+{
+  "id": 873608601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.50225,45.786248,-108.50225,45.786248",
+    "geom:latitude":45.786248,
+    "geom:longitude":-108.50225,
+    "iso:country":"US",
+    "sg:address":"2320 3rd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 1328",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trust",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zzf3z1u5GYsL8ptG4yRyM_45.786248_-108.502250@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295116,
+    "wof:geomhash":"a3fdb6197898deb4d10d940be1b365cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873608601
+        }
+    ],
+    "wof:id":873608601,
+    "wof:lastmodified":1464295116,
+    "wof:name":"Montana Land Reliance",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust",
+        "management"
+    ]
+},
+  "bbox": [
+    -108.50225,
+    45.786248,
+    -108.50225,
+    45.786248
+],
+  "geometry": {"coordinates":[-108.50225,45.786248],"type":"Point"}
+}

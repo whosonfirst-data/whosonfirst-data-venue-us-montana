@@ -1,0 +1,69 @@
+{
+  "id": 873630033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.987474,46.863943,-113.987474,46.863943",
+    "geom:latitude":46.863943,
+    "geom:longitude":-113.987474,
+    "iso:country":"US",
+    "sg:address":"637 S 6th St E",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 7318",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1edc4CraMJLgByTo05JDTe_46.863943_-113.987474@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295366,
+    "wof:geomhash":"ee7582545957956cd6cb5db08edf2de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873630033
+        }
+    ],
+    "wof:id":873630033,
+    "wof:lastmodified":1464295366,
+    "wof:name":"Honeycutt Services/R",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -113.987474,
+    46.863943,
+    -113.987474,
+    46.863943
+],
+  "geometry": {"coordinates":[-113.98747400000001,46.863943],"type":"Point"}
+}

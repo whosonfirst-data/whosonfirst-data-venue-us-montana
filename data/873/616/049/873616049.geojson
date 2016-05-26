@@ -1,0 +1,71 @@
+{
+  "id": 873616049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.212675,48.115309,-114.212675,48.115309",
+    "geom:latitude":48.115309,
+    "geom:longitude":-114.212675,
+    "iso:country":"US",
+    "sg:address":"494 N Somers Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 4022",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K6CQHA6X5FusYG9d3BI7p_48.115309_-114.212675@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295205,
+    "wof:geomhash":"ae68c929d989146e3a9d44f6d0f30699",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873616049
+        }
+    ],
+    "wof:id":873616049,
+    "wof:lastmodified":1464295205,
+    "wof:name":"Kalispell Taxi & Airport Shttl",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -114.212675,
+    48.115309,
+    -114.212675,
+    48.115309
+],
+  "geometry": {"coordinates":[-114.212675,48.115309],"type":"Point"}
+}

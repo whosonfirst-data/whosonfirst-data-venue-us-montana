@@ -1,0 +1,71 @@
+{
+  "id": 873610005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.690453,45.567576,-111.690453,45.567576",
+    "geom:latitude":45.567576,
+    "geom:longitude":-111.690453,
+    "iso:country":"US",
+    "sg:address":"6510 US Hwy 287",
+    "sg:city":"Norris",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 685 3384",
+    "sg:postcode":"59745",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hku4x6vjZvPYxfylI378t_45.567576_-111.690453@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295143,
+    "wof:geomhash":"fc52f92d3dcd683a30e299f75e4f4100",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873610005
+        }
+    ],
+    "wof:id":873610005,
+    "wof:lastmodified":1464295143,
+    "wof:name":"J R's Tire Sales & Svc",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -111.690453,
+    45.567576,
+    -111.690453,
+    45.567576
+],
+  "geometry": {"coordinates":[-111.69045300000001,45.567576],"type":"Point"}
+}

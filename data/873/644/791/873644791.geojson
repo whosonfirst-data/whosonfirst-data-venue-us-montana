@@ -1,0 +1,71 @@
+{
+  "id": 873644791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.017597,46.859302,-114.017597,46.859302",
+    "geom:latitude":46.859302,
+    "geom:longitude":-114.017597,
+    "iso:country":"US",
+    "sg:address":"1005 Marshall St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 5484",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z0sovaklIvkzKIAcZMHuQ_46.859302_-114.017597@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295534,
+    "wof:geomhash":"d38b28f0250c9d71629392a0344945cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873644791
+        }
+    ],
+    "wof:id":873644791,
+    "wof:lastmodified":1464295534,
+    "wof:name":"Missoula Developmental Service",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "community"
+    ]
+},
+  "bbox": [
+    -114.017597,
+    46.859302,
+    -114.017597,
+    46.859302
+],
+  "geometry": {"coordinates":[-114.01759699999999,46.859302],"type":"Point"}
+}

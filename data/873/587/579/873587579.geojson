@@ -1,0 +1,75 @@
+{
+  "id": 873587579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.518041,45.820727,-108.518041,45.820727",
+    "geom:latitude":45.820727,
+    "geom:longitude":-108.518041,
+    "iso:country":"US",
+    "sg:address":"1141 Kootenai Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 8844",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1woyjS0i4GMs0dfQ6ZHhBm_45.820727_-108.518041@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294803,
+    "wof:geomhash":"749a101271a98178a8d17ca39d08d518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":873587579
+        }
+    ],
+    "wof:id":873587579,
+    "wof:lastmodified":1464294803,
+    "wof:name":"Specialized Construction",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -108.518041,
+    45.820727,
+    -108.518041,
+    45.820727
+],
+  "geometry": {"coordinates":[-108.518041,45.820727],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873572603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.502747,45.777316,-108.502747,45.777316",
+    "geom:latitude":45.777316,
+    "geom:longitude":-108.502747,
+    "iso:country":"US",
+    "sg:address":"205 S 29th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 8056",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "parlor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64pCp8HEq5Cv1sTYHpaMUa_45.777316_-108.502747@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294638,
+    "wof:geomhash":"ddadde7ae80b19f107aee3a45cce3cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873572603
+        }
+    ],
+    "wof:id":873572603,
+    "wof:lastmodified":1464294638,
+    "wof:name":"Billings Shoe Repair",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor"
+    ]
+},
+  "bbox": [
+    -108.502747,
+    45.777316,
+    -108.502747,
+    45.777316
+],
+  "geometry": {"coordinates":[-108.502747,45.777316],"type":"Point"}
+}

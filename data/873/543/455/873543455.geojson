@@ -1,0 +1,73 @@
+{
+  "id": 873543455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.537824,45.991752,-112.537824,45.991752",
+    "geom:latitude":45.991752,
+    "geom:longitude":-112.537824,
+    "iso:country":"US",
+    "sg:address":"2208 Placer St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 2677",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85857839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AyIc6N7b6Zo89o40NStyx_45.991752_-112.537824@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294296,
+    "wof:geomhash":"4288b52d8c4e619a9f1fac823c8194c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85857839,
+            "region_id":85688617,
+            "venue_id":873543455
+        }
+    ],
+    "wof:id":873543455,
+    "wof:lastmodified":1464294296,
+    "wof:name":"Sharpest Tool In The Shed",
+    "wof:parent_id":85857839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -112.537824,
+    45.991752,
+    -112.537824,
+    45.991752
+],
+  "geometry": {"coordinates":[-112.537824,45.991752],"type":"Point"}
+}

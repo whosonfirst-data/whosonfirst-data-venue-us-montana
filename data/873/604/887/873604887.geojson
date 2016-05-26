@@ -1,0 +1,75 @@
+{
+  "id": 873604887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.515179,45.776346,-108.515179,45.776346",
+    "geom:latitude":45.776346,
+    "geom:longitude":-108.515179,
+    "iso:country":"US",
+    "sg:address":"3615 Montana Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 2331",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cvlodkzFqulspYufNeR7T_45.776346_-108.515179@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295038,
+    "wof:geomhash":"3774dbde6dba9e81b10ac7f18a0efca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873604887
+        }
+    ],
+    "wof:id":873604887,
+    "wof:lastmodified":1464295038,
+    "wof:name":"Big Sky VCR",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video"
+    ]
+},
+  "bbox": [
+    -108.515179,
+    45.776346,
+    -108.515179,
+    45.776346
+],
+  "geometry": {"coordinates":[-108.515179,45.776346],"type":"Point"}
+}

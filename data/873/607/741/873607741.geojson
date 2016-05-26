@@ -1,0 +1,73 @@
+{
+  "id": 873607741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584582,45.800532,-108.584582,45.800532",
+    "geom:latitude":45.800532,
+    "geom:longitude":-108.584582,
+    "iso:country":"US",
+    "sg:address":"3120 Sequoia Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 860 6366",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "pet",
+        "grooming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fG0PLhSC6wpTA99sB2Vx7_45.800532_-108.584582@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295094,
+    "wof:geomhash":"83aea6dc8e8ba6dbbcdcc46174f8c1f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873607741
+        }
+    ],
+    "wof:id":873607741,
+    "wof:lastmodified":1464295094,
+    "wof:name":"Pooch Caboose LLC",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming"
+    ]
+},
+  "bbox": [
+    -108.584582,
+    45.800532,
+    -108.584582,
+    45.800532
+],
+  "geometry": {"coordinates":[-108.584582,45.800532],"type":"Point"}
+}

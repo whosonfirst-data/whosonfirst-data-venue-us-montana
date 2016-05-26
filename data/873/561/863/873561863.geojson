@@ -1,0 +1,71 @@
+{
+  "id": 873561863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.96789,46.863134,-113.96789,46.863134",
+    "geom:latitude":46.863134,
+    "geom:longitude":-113.96789,
+    "iso:country":"US",
+    "sg:address":"1405 E Broadway St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 9274",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hp5bslVYfsSvWgiv1zZ2i_46.863134_-113.967890@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294519,
+    "wof:geomhash":"b7855d92eac063789b24c318e090664c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873561863
+        }
+    ],
+    "wof:id":873561863,
+    "wof:lastmodified":1464294519,
+    "wof:name":"Creekside Apts",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -113.96789,
+    46.863134,
+    -113.96789,
+    46.863134
+],
+  "geometry": {"coordinates":[-113.96789,46.863134],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873635627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.876269,45.761802,-110.876269,45.761802",
+    "geom:latitude":45.761802,
+    "geom:longitude":-110.876269,
+    "iso:country":"US",
+    "sg:address":"12097 Bridger Canyon Rd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 2658",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972979,
+        102085133,
+        85891687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gu5LRssjW7piFixQxqrKI_45.761802_-110.876269@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295429,
+    "wof:geomhash":"05bd4aa259dc01dc8c0bf668b884f7f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972979,
+            "neighbourhood_id":85891687,
+            "region_id":85688617,
+            "venue_id":873635627
+        }
+    ],
+    "wof:id":873635627,
+    "wof:lastmodified":1464295429,
+    "wof:name":"Lazy J Ranch",
+    "wof:parent_id":85891687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -110.876269,
+    45.761802,
+    -110.876269,
+    45.761802
+],
+  "geometry": {"coordinates":[-110.87626899999999,45.761802],"type":"Point"}
+}

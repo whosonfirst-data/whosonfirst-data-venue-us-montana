@@ -1,0 +1,71 @@
+{
+  "id": 873573285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.287138,48.225905,-114.287138,48.225905",
+    "geom:latitude":48.225905,
+    "geom:longitude":-114.287138,
+    "iso:country":"US",
+    "sg:address":"109 W Evergreen Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 8338",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PcGOmar3cBQuotUsN3jva_48.225905_-114.287138@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294644,
+    "wof:geomhash":"b59b25915d274f9ad3b47f5b016c269e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873573285
+        }
+    ],
+    "wof:id":873573285,
+    "wof:lastmodified":1464294644,
+    "wof:name":"Shreeve Construction",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.287138,
+    48.225905,
+    -114.287138,
+    48.225905
+],
+  "geometry": {"coordinates":[-114.287138,48.225905],"type":"Point"}
+}

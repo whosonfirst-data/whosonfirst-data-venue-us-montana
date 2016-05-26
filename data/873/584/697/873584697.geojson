@@ -1,0 +1,78 @@
+{
+  "id": 873584697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.535632,45.760059,-108.535632,45.760059",
+    "geom:latitude":45.760059,
+    "geom:longitude":-108.535632,
+    "iso:country":"US",
+    "sg:address":"439 S Billings Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 5206",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "upholstery",
+        "upholsterer",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ztYnMyfax9XAAkR9R20H8_45.760059_-108.535632@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294769,
+    "wof:geomhash":"87d5e632e64e6dea376345cbc2721d94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873584697
+        }
+    ],
+    "wof:id":873584697,
+    "wof:lastmodified":1464294769,
+    "wof:name":"Don's Custom Upholstery",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholstery",
+        "upholsterer",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -108.535632,
+    45.760059,
+    -108.535632,
+    45.760059
+],
+  "geometry": {"coordinates":[-108.53563200000001,45.760059],"type":"Point"}
+}

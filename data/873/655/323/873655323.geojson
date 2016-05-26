@@ -1,0 +1,71 @@
+{
+  "id": 873655323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.287817,48.152746,-114.287817,48.152746",
+    "geom:latitude":48.152746,
+    "geom:longitude":-114.287817,
+    "iso:country":"US",
+    "sg:address":"3220 US Hwy 93 S",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 4450",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LFXpmCJILjJ89a5yl76wu_48.152746_-114.287817@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295649,
+    "wof:geomhash":"95aa54b2c2e11ffe3dd805134d56b921",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873655323
+        }
+    ],
+    "wof:id":873655323,
+    "wof:lastmodified":1464295649,
+    "wof:name":"Wheats Auto Truck & Trctr Repr",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -114.287817,
+    48.152746,
+    -114.287817,
+    48.152746
+],
+  "geometry": {"coordinates":[-114.287817,48.152746],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873601927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.257745,48.285466,-114.257745,48.285466",
+    "geom:latitude":48.285466,
+    "geom:longitude":-114.257745,
+    "iso:country":"US",
+    "sg:address":"3620 US Hwy 2 E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 9399",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a7lAY5XNjT2ONUkJpAAI1_48.285466_-114.257745@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295007,
+    "wof:geomhash":"8d6001f49e59f877023e38733b8b0f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873601927
+        }
+    ],
+    "wof:id":873601927,
+    "wof:lastmodified":1464295007,
+    "wof:name":"La Salle Veterinary Clinic",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.257745,
+    48.285466,
+    -114.257745,
+    48.285466
+],
+  "geometry": {"coordinates":[-114.257745,48.285466],"type":"Point"}
+}

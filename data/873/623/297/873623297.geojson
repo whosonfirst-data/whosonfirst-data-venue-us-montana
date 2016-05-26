@@ -1,0 +1,75 @@
+{
+  "id": 873623297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.998667,46.865899,-113.998667,46.865899",
+    "geom:latitude":46.865899,
+    "geom:longitude":-113.998667,
+    "iso:country":"US",
+    "sg:address":"127 S 4th St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 1747",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GoKaVrXiZa6Ee0lJoyHbR_46.865899_-113.998667@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295286,
+    "wof:geomhash":"7d5aa1fb0e564ac812beeadbf7af8a70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873623297
+        }
+    ],
+    "wof:id":873623297,
+    "wof:lastmodified":1464295286,
+    "wof:name":"Kent Brothers Automotive",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -113.998667,
+    46.865899,
+    -113.998667,
+    46.865899
+],
+  "geometry": {"coordinates":[-113.998667,46.865899],"type":"Point"}
+}

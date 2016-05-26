@@ -1,0 +1,75 @@
+{
+  "id": 873659353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.535809,45.763891,-108.535809,45.763891",
+    "geom:latitude":45.763891,
+    "geom:longitude":-108.535809,
+    "iso:country":"US",
+    "sg:address":"350 S Billings Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 1137",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0acGktoOU8t3MPi0PGXkDb_45.763891_-108.535809@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295692,
+    "wof:geomhash":"047b8b044836252e2ea04ed84897bc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873659353
+        }
+    ],
+    "wof:id":873659353,
+    "wof:lastmodified":1464295692,
+    "wof:name":"3 W's Automotive Repair",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.535809,
+    45.763891,
+    -108.535809,
+    45.763891
+],
+  "geometry": {"coordinates":[-108.535809,45.763891],"type":"Point"}
+}

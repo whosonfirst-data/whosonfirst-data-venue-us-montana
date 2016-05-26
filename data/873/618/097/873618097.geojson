@@ -1,0 +1,71 @@
+{
+  "id": 873618097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.56861,45.657386,-110.56861,45.657386",
+    "geom:latitude":45.657386,
+    "geom:longitude":-110.56861,
+    "iso:country":"US",
+    "sg:address":"819 W Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 6688",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "windshield"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RE3SMX8Movm8hIBVfFPVF_45.657386_-110.568610@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295225,
+    "wof:geomhash":"a5b2a788208cb5f638a012883d8cda5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873618097
+        }
+    ],
+    "wof:id":873618097,
+    "wof:lastmodified":1464295225,
+    "wof:name":"Novus Auto Glass Repair",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windshield"
+    ]
+},
+  "bbox": [
+    -110.56861,
+    45.657386,
+    -110.56861,
+    45.657386
+],
+  "geometry": {"coordinates":[-110.56861000000001,45.657386],"type":"Point"}
+}

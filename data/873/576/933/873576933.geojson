@@ -1,0 +1,73 @@
+{
+  "id": 873576933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.059728,48.200936,-114.059728,48.200936",
+    "geom:latitude":48.200936,
+    "geom:longitude":-114.059728,
+    "iso:country":"US",
+    "sg:address":"215 Browns Gulch Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 0020",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zqtwpHVuKg9eHrEaSJ6O0_48.200936_-114.059728@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294683,
+    "wof:geomhash":"c6d72d72e91b9d498b1e945c23872c5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873576933
+        }
+    ],
+    "wof:id":873576933,
+    "wof:lastmodified":1464294683,
+    "wof:name":"Wilkins Properties LLC",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -114.059728,
+    48.200936,
+    -114.059728,
+    48.200936
+],
+  "geometry": {"coordinates":[-114.05972800000001,48.200936],"type":"Point"}
+}

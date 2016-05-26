@@ -1,0 +1,80 @@
+{
+  "id": 873698689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566585,45.756029,-108.566585,45.756029",
+    "geom:latitude":45.756029,
+    "geom:longitude":-108.566585,
+    "iso:country":"US",
+    "sg:address":"765 S 20th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/102126-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 6640",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qsegxzl9lloupR1YjFgBd_45.756029_-108.566585@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296391,
+    "wof:geomhash":"ca81e2905d1b3d0e838e955b666f17ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873698689
+        }
+    ],
+    "wof:id":873698689,
+    "wof:lastmodified":1464296391,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -108.566585,
+    45.756029,
+    -108.566585,
+    45.756029
+],
+  "geometry": {"coordinates":[-108.566585,45.756029],"type":"Point"}
+}

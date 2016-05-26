@@ -1,0 +1,71 @@
+{
+  "id": 873621069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576277,45.782025,-108.576277,45.782025",
+    "geom:latitude":45.782025,
+    "geom:longitude":-108.576277,
+    "iso:country":"US",
+    "sg:address":"1215 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8585",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t1BZkbGeA88zDEapDqv0L_45.782025_-108.576277@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295261,
+    "wof:geomhash":"168515d5ac22a09952e1678b2893a5d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873621069
+        }
+    ],
+    "wof:id":873621069,
+    "wof:lastmodified":1464295261,
+    "wof:name":"Hoffman Accounting",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -108.576277,
+    45.782025,
+    -108.576277,
+    45.782025
+],
+  "geometry": {"coordinates":[-108.576277,45.782025],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873632109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.972475,46.906623,-113.972475,46.906623",
+    "geom:latitude":46.906623,
+    "geom:longitude":-113.972475,
+    "iso:country":"US",
+    "sg:address":"3960 Duncan Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 9217",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavation",
+        "water",
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891733,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JxS4CtAXGhNICzby5x8GU_46.906623_-113.972475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295386,
+    "wof:geomhash":"b6f45e2f242ee8b0da76033f086e9ed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891733,
+            "region_id":85688617,
+            "venue_id":873632109
+        }
+    ],
+    "wof:id":873632109,
+    "wof:lastmodified":1464295386,
+    "wof:name":"High Country Excavating Inc",
+    "wof:parent_id":85891733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "water",
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.972475,
+    46.906623,
+    -113.972475,
+    46.906623
+],
+  "geometry": {"coordinates":[-113.972475,46.906623],"type":"Point"}
+}

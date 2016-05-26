@@ -1,0 +1,73 @@
+{
+  "id": 873627235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.038567,46.828349,-114.038567,46.828349",
+    "geom:latitude":46.828349,
+    "geom:longitude":-114.038567,
+    "iso:country":"US",
+    "sg:address":"2412 Garland Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 3035",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3smyEJ9LaitIT7EOGRDqLI_46.828349_-114.038567@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295332,
+    "wof:geomhash":"4991848c67e8f959c221dba010883ae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873627235
+        }
+    ],
+    "wof:id":873627235,
+    "wof:lastmodified":1464295332,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -114.038567,
+    46.828349,
+    -114.038567,
+    46.828349
+],
+  "geometry": {"coordinates":[-114.038567,46.828349],"type":"Point"}
+}

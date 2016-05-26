@@ -1,0 +1,75 @@
+{
+  "id": 873569129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.562232,45.661806,-110.562232,45.661806",
+    "geom:latitude":45.661806,
+    "geom:longitude":-110.562232,
+    "iso:country":"US",
+    "sg:address":"201 W Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 1350",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operation",
+        "eating",
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HsLSmrE98HiffF2NW6mCI_45.661806_-110.562232@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294597,
+    "wof:geomhash":"054b9b71d12eb2cc5a08a75ee30887ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873569129
+        }
+    ],
+    "wof:id":873569129,
+    "wof:lastmodified":1464294597,
+    "wof:name":"Murray Hotel",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "eating",
+        "drinking"
+    ]
+},
+  "bbox": [
+    -110.562232,
+    45.661806,
+    -110.562232,
+    45.661806
+],
+  "geometry": {"coordinates":[-110.56223199999999,45.661806],"type":"Point"}
+}

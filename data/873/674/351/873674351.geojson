@@ -1,0 +1,71 @@
+{
+  "id": 873674351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.228951,48.021826,-114.228951,48.021826",
+    "geom:latitude":48.021826,
+    "geom:longitude":-114.228951,
+    "iso:country":"US",
+    "sg:address":"150 Bills Rd",
+    "sg:city":"Lakeside",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 844 3825",
+    "sg:postcode":"59922",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26Ls5KNSlFbgskQgDQfSuS_48.021826_-114.228951@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295849,
+    "wof:geomhash":"87d34645a32a9b9771175bf90aab54be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873674351
+        }
+    ],
+    "wof:id":873674351,
+    "wof:lastmodified":1464295849,
+    "wof:name":"Lakeside Family Dentistry",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -114.228951,
+    48.021826,
+    -114.228951,
+    48.021826
+],
+  "geometry": {"coordinates":[-114.228951,48.021826],"type":"Point"}
+}

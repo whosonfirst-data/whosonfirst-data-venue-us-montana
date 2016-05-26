@@ -1,0 +1,71 @@
+{
+  "id": 873629061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.655158,45.726217,-108.655158,45.726217",
+    "geom:latitude":45.726217,
+    "geom:longitude":-108.655158,
+    "iso:country":"US",
+    "sg:address":"5407 Neibauer Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 855 6297",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wqXnMPZf8PSv1jy7fvCts_45.726217_-108.655158@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295350,
+    "wof:geomhash":"c390a802e3b4f9e850a969c32b986890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873629061
+        }
+    ],
+    "wof:id":873629061,
+    "wof:lastmodified":1464295350,
+    "wof:name":"Lov'n Care",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -108.655158,
+    45.726217,
+    -108.655158,
+    45.726217
+],
+  "geometry": {"coordinates":[-108.655158,45.726217],"type":"Point"}
+}

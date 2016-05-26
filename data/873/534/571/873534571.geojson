@@ -1,0 +1,71 @@
+{
+  "id": 873534571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.560961,45.658848,-110.560961,45.658848",
+    "geom:latitude":45.658848,
+    "geom:longitude":-110.560961,
+    "iso:country":"US",
+    "sg:address":"226 S 3rd St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 1577",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CKZbNcgybAOdSydtKzWDb_45.658848_-110.560961@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294199,
+    "wof:geomhash":"5c60a3861e90573941160309693d4eb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873534571
+        }
+    ],
+    "wof:id":873534571,
+    "wof:lastmodified":1464294199,
+    "wof:name":"Livingston Congregational Chr",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -110.560961,
+    45.658848,
+    -110.560961,
+    45.658848
+],
+  "geometry": {"coordinates":[-110.56096100000001,45.658848],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873623443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.564341,45.793731,-108.564341,45.793731",
+    "geom:latitude":45.793731,
+    "geom:longitude":-108.564341,
+    "iso:country":"US",
+    "sg:address":"1843 Iris Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 4035",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pFsTXNlR95xuBNLr3y8lX_45.793731_-108.564341@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295290,
+    "wof:geomhash":"b1129f40b3ba6c20db89eae4f979213a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873623443
+        }
+    ],
+    "wof:id":873623443,
+    "wof:lastmodified":1464295290,
+    "wof:name":"Davis T Construction",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.564341,
+    45.793731,
+    -108.564341,
+    45.793731
+],
+  "geometry": {"coordinates":[-108.564341,45.793731],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873542051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.679401,45.752014,-108.679401,45.752014",
+    "geom:latitude":45.752014,
+    "geom:longitude":-108.679401,
+    "iso:country":"US",
+    "sg:address":"941 S 64th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 8203",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "windows",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63tERu2D1nyfTF5qNaepkq_45.752014_-108.679401@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294281,
+    "wof:geomhash":"21dce496e0052c16f930c63fd6e38dba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873542051
+        }
+    ],
+    "wof:id":873542051,
+    "wof:lastmodified":1464294281,
+    "wof:name":"Weather Rite Exteriors",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.679401,
+    45.752014,
+    -108.679401,
+    45.752014
+],
+  "geometry": {"coordinates":[-108.679401,45.752014],"type":"Point"}
+}

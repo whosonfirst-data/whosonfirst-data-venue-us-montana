@@ -1,0 +1,71 @@
+{
+  "id": 873610199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.993386,46.872934,-113.993386,46.872934",
+    "geom:latitude":46.872934,
+    "geom:longitude":-113.993386,
+    "iso:country":"US",
+    "sg:address":"312 N Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 4765",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PQFpubL1YiuBx1wAVa7te_46.872934_-113.993386@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295146,
+    "wof:geomhash":"219224581db7c91bd98663a802f14ca6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873610199
+        }
+    ],
+    "wof:id":873610199,
+    "wof:lastmodified":1464295146,
+    "wof:name":"Jus Chilln",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -113.993386,
+    46.872934,
+    -113.993386,
+    46.872934
+],
+  "geometry": {"coordinates":[-113.993386,46.872934],"type":"Point"}
+}

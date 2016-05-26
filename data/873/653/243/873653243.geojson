@@ -1,0 +1,78 @@
+{
+  "id": 873653243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470806,45.813609,-108.470806,45.813609",
+    "geom:latitude":45.813609,
+    "geom:longitude":-108.470806,
+    "iso:country":"US",
+    "sg:address":"895 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 9310",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "pet",
+        "shop",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dIBtWLP5K30HK2UUG65ik_45.813609_-108.470806@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295627,
+    "wof:geomhash":"610f2e406a44702acc6e40c255adabad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873653243
+        }
+    ],
+    "wof:id":873653243,
+    "wof:lastmodified":1464295627,
+    "wof:name":"Heights Pet Center",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -108.470806,
+    45.813609,
+    -108.470806,
+    45.813609
+],
+  "geometry": {"coordinates":[-108.470806,45.813609],"type":"Point"}
+}

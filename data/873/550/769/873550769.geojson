@@ -1,0 +1,77 @@
+{
+  "id": 873550769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.575436,45.752298,-108.575436,45.752298",
+    "geom:latitude":45.752298,
+    "geom:longitude":-108.575436,
+    "iso:country":"US",
+    "sg:address":"2290 Grant Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 1595",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EaIH0eLVJiYyQtkk0U0d2_45.752298_-108.575436@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294386,
+    "wof:geomhash":"f4fb5a9fddde1cf481eccfebe5647e3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873550769
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873550769
+        }
+    ],
+    "wof:id":873550769,
+    "wof:lastmodified":1464294386,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -108.575436,
+    45.752298,
+    -108.575436,
+    45.752298
+],
+  "geometry": {"coordinates":[-108.575436,45.752298],"type":"Point"}
+}

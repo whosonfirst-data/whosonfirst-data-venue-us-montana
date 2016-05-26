@@ -1,0 +1,73 @@
+{
+  "id": 873614423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.58201,45.781529,-108.58201,45.781529",
+    "geom:latitude":45.781529,
+    "geom:longitude":-108.58201,
+    "iso:country":"US",
+    "sg:address":"2632 Burlington Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 3584",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HvDtb8n91ZFlOSfvQWFfM_45.781529_-108.582010@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295189,
+    "wof:geomhash":"13281128a1a0deafb7a42d654bb388ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873614423
+        }
+    ],
+    "wof:id":873614423,
+    "wof:lastmodified":1464295189,
+    "wof:name":"Kulbeck Enterprises Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -108.58201,
+    45.781529,
+    -108.58201,
+    45.781529
+],
+  "geometry": {"coordinates":[-108.58201,45.781529],"type":"Point"}
+}

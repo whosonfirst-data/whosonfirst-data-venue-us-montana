@@ -1,0 +1,84 @@
+{
+  "id": 873699015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.588202,45.75512,-108.588202,45.75512",
+    "geom:latitude":45.75512,
+    "geom:longitude":-108.588202,
+    "iso:country":"US",
+    "sg:address":"2850 King Ave W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/121228-krispy-kreme/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 6341",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2urO1xzTrOzZbpv71M1dci_45.755120_-108.588202@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296394,
+    "wof:geomhash":"ec8872ab8981affb45f123999df38a72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873699015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873699015
+        }
+    ],
+    "wof:id":873699015,
+    "wof:lastmodified":1464296394,
+    "wof:name":"Krispy Kreme",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -108.588202,
+    45.75512,
+    -108.588202,
+    45.75512
+],
+  "geometry": {"coordinates":[-108.588202,45.75512],"type":"Point"}
+}

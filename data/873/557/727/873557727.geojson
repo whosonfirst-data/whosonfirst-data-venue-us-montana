@@ -1,0 +1,71 @@
+{
+  "id": 873557727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.161476,45.961808,-108.161476,45.961808",
+    "geom:latitude":45.961808,
+    "geom:longitude":-108.161476,
+    "iso:country":"US",
+    "sg:address":"2469 Main St",
+    "sg:city":"Worden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 967 2255",
+    "sg:postcode":"59088",
+    "sg:province":"MT",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WH89W1ETmOPuNEG3NQfnM_45.961808_-108.161476@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294468,
+    "wof:geomhash":"7d5cbd26eca1ee829c36c4eed47424e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873557727
+        }
+    ],
+    "wof:id":873557727,
+    "wof:lastmodified":1464294468,
+    "wof:name":"Worden Clinic",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -108.161476,
+    45.961808,
+    -108.161476,
+    45.961808
+],
+  "geometry": {"coordinates":[-108.16147599999999,45.961808],"type":"Point"}
+}

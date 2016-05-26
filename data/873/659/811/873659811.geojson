@@ -1,0 +1,71 @@
+{
+  "id": 873659811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.304385,45.902941,-108.304385,45.902941",
+    "geom:latitude":45.902941,
+    "geom:longitude":-108.304385,
+    "iso:country":"US",
+    "sg:address":"164 3rd St N",
+    "sg:city":"Huntley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 348 3292",
+    "sg:postcode":"59037",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75IBGNR47EZGi4AR7xJzRh_45.902941_-108.304385@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295696,
+    "wof:geomhash":"710e6df55d10420d5d9a9c3b3fafb7f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873659811
+        }
+    ],
+    "wof:id":873659811,
+    "wof:lastmodified":1464295696,
+    "wof:name":"Donald Birkle",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -108.304385,
+    45.902941,
+    -108.304385,
+    45.902941
+],
+  "geometry": {"coordinates":[-108.304385,45.902941],"type":"Point"}
+}

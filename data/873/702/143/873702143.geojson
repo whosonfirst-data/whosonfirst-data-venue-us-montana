@@ -1,0 +1,72 @@
+{
+  "id": 873702143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.341073,48.42158,-114.341073,48.42158",
+    "geom:latitude":48.42158,
+    "geom:longitude":-114.341073,
+    "iso:country":"US",
+    "sg:address":"510 Wisconsin Ave",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/whitefish/237171-mcgarrys-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 6223",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RtPt3JM0SAk6m51Y4UnFf_48.421580_-114.341073@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296427,
+    "wof:geomhash":"d20eba0da7fa97bc218729b56f0ea71d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873702143
+        }
+    ],
+    "wof:id":873702143,
+    "wof:lastmodified":1464296427,
+    "wof:name":"Mcgarry's Roadhouse",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -114.341073,
+    48.42158,
+    -114.341073,
+    48.42158
+],
+  "geometry": {"coordinates":[-114.34107299999999,48.42158],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873555313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.778849,45.668389,-108.778849,45.668389",
+    "geom:latitude":45.668389,
+    "geom:longitude":-108.778849,
+    "iso:country":"US",
+    "sg:address":"519 W Main St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 2034",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sCbXtj42Zdvusnvng9qsc_45.668389_-108.778849@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294441,
+    "wof:geomhash":"1f3f37ef70f5e362d3fdbdada7888624",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873555313
+        }
+    ],
+    "wof:id":873555313,
+    "wof:lastmodified":1464294441,
+    "wof:name":"Concomart 3",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.778849,
+    45.668389,
+    -108.778849,
+    45.668389
+],
+  "geometry": {"coordinates":[-108.77884899999999,45.668389],"type":"Point"}
+}

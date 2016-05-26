@@ -1,0 +1,75 @@
+{
+  "id": 873633081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.273621,48.215178,-114.273621,48.215178",
+    "geom:latitude":48.215178,
+    "geom:longitude":-114.273621,
+    "iso:country":"US",
+    "sg:address":"114 S Cedar Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 6690",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OkJdR9mOLRGODccdF25wb_48.215178_-114.273621@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295401,
+    "wof:geomhash":"a691eda72a4b0d38631f84dbf3c5e9b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873633081
+        }
+    ],
+    "wof:id":873633081,
+    "wof:lastmodified":1464295401,
+    "wof:name":"Auto Czech",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -114.273621,
+    48.215178,
+    -114.273621,
+    48.215178
+],
+  "geometry": {"coordinates":[-114.27362100000001,48.215178],"type":"Point"}
+}

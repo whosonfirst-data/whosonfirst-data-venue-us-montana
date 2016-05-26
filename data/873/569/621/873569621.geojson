@@ -1,0 +1,73 @@
+{
+  "id": 873569621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.679526,45.740675,-108.679526,45.740675",
+    "geom:latitude":45.740675,
+    "geom:longitude":-108.679526,
+    "iso:country":"US",
+    "sg:address":"6625 Hesper Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 5001",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68eWo2djpJZ2Ugq4FaSOYQ_45.740675_-108.679526@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294606,
+    "wof:geomhash":"3a9b585fedcd48e4044d4b539643c6b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873569621
+        }
+    ],
+    "wof:id":873569621,
+    "wof:lastmodified":1464294606,
+    "wof:name":"Van Arsdale Construction",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.679526,
+    45.740675,
+    -108.679526,
+    45.740675
+],
+  "geometry": {"coordinates":[-108.679526,45.740675],"type":"Point"}
+}

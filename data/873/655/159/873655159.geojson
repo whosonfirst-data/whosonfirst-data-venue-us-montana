@@ -1,0 +1,75 @@
+{
+  "id": 873655159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.511548,45.775589,-108.511548,45.775589",
+    "geom:latitude":45.775589,
+    "geom:longitude":-108.511548,
+    "iso:country":"US",
+    "sg:address":"3425 1st Ave S",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7464",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6riqP1p568y7xJyIfAEVXL_45.775589_-108.511548@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295647,
+    "wof:geomhash":"eae7b03fbceba594eb4a388fca9c5880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873655159
+        }
+    ],
+    "wof:id":873655159,
+    "wof:lastmodified":1464295647,
+    "wof:name":"Steel Etc",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -108.511548,
+    45.775589,
+    -108.511548,
+    45.775589
+],
+  "geometry": {"coordinates":[-108.511548,45.775589],"type":"Point"}
+}

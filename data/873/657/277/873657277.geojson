@@ -1,0 +1,71 @@
+{
+  "id": 873657277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.312603,48.195696,-114.312603,48.195696",
+    "geom:latitude":48.195696,
+    "geom:longitude":-114.312603,
+    "iso:country":"US",
+    "sg:address":"319 Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 7956",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OsfZkAfd0k30Uyn7IRz5M_48.195696_-114.312603@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295670,
+    "wof:geomhash":"75569c5314e496a358def4db0a9ca9fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873657277
+        }
+    ],
+    "wof:id":873657277,
+    "wof:lastmodified":1464295670,
+    "wof:name":"Thai Palace Restaurant",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -114.312603,
+    48.195696,
+    -114.312603,
+    48.195696
+],
+  "geometry": {"coordinates":[-114.312603,48.195696],"type":"Point"}
+}

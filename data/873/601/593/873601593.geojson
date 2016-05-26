@@ -1,0 +1,71 @@
+{
+  "id": 873601593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.201555,48.186707,-114.201555,48.186707",
+    "geom:latitude":48.186707,
+    "geom:longitude":-114.201555,
+    "iso:country":"US",
+    "sg:address":"890 Montford Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 250 6309",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E6k4Ub5vRdDpXZQ7qsdHT_48.186707_-114.201555@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295004,
+    "wof:geomhash":"ca888bc8ba758b6849bfce4c3915f406",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873601593
+        }
+    ],
+    "wof:id":873601593,
+    "wof:lastmodified":1464295004,
+    "wof:name":"Roth Enterprises",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -114.201555,
+    48.186707,
+    -114.201555,
+    48.186707
+],
+  "geometry": {"coordinates":[-114.201555,48.186707],"type":"Point"}
+}

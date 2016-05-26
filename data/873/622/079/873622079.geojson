@@ -1,0 +1,82 @@
+{
+  "id": 873622079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.438513,45.802917,-108.438513,45.802917",
+    "geom:latitude":45.802917,
+    "geom:longitude":-108.438513,
+    "iso:country":"US",
+    "sg:address":"238 Naylor St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2813",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "machine",
+        "equipment",
+        "industrial",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HGpAzYMnQr3vRoThutH7s_45.802917_-108.438513@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295271,
+    "wof:geomhash":"02429071117de59efa7b5a419d499337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873622079
+        }
+    ],
+    "wof:id":873622079,
+    "wof:lastmodified":1464295271,
+    "wof:name":"Northwest Industries Inc",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "equipment",
+        "industrial",
+        "center"
+    ]
+},
+  "bbox": [
+    -108.438513,
+    45.802917,
+    -108.438513,
+    45.802917
+],
+  "geometry": {"coordinates":[-108.438513,45.802917],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873576889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.401261,45.824762,-108.401261,45.824762",
+    "geom:latitude":45.824762,
+    "geom:longitude":-108.401261,
+    "iso:country":"US",
+    "sg:address":"3145 N Frontage Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 2400",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A7WFs6irlJe9gJggE0kUV_45.824762_-108.401261@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294683,
+    "wof:geomhash":"9707903c3836396bdbe60f8959cca52c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873576889
+        }
+    ],
+    "wof:id":873576889,
+    "wof:lastmodified":1464294683,
+    "wof:name":"Truck Shop",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -108.401261,
+    45.824762,
+    -108.401261,
+    45.824762
+],
+  "geometry": {"coordinates":[-108.40126100000001,45.824762],"type":"Point"}
+}

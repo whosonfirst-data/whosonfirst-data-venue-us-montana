@@ -1,0 +1,75 @@
+{
+  "id": 873552821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.329779,48.099585,-114.329779,48.099585",
+    "geom:latitude":48.099585,
+    "geom:longitude":-114.329779,
+    "iso:country":"US",
+    "sg:address":"928 Patrick Creek Rd",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 8315",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck",
+        "driver",
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PL2xLsmEVcFVnQolBKBjI_48.099585_-114.329779@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294410,
+    "wof:geomhash":"b93f0b86aaa3729dd244e2a2c78ab17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873552821
+        }
+    ],
+    "wof:id":873552821,
+    "wof:lastmodified":1464294410,
+    "wof:name":"Steven Boyd",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "driver",
+        "rent"
+    ]
+},
+  "bbox": [
+    -114.329779,
+    48.099585,
+    -114.329779,
+    48.099585
+],
+  "geometry": {"coordinates":[-114.329779,48.099585],"type":"Point"}
+}

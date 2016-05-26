@@ -1,0 +1,71 @@
+{
+  "id": 873554789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.033307,46.839759,-114.033307,46.839759",
+    "geom:latitude":46.839759,
+    "geom:longitude":-114.033307,
+    "iso:country":"US",
+    "sg:address":"2230 McDonald Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 6243",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NdndDQbGjHjbJ2eYQA2Wx_46.839759_-114.033307@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294433,
+    "wof:geomhash":"21c13c59ce480ab313062b09eb4312f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873554789
+        }
+    ],
+    "wof:id":873554789,
+    "wof:lastmodified":1464294433,
+    "wof:name":"Wayne - Dalton",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -114.033307,
+    46.839759,
+    -114.033307,
+    46.839759
+],
+  "geometry": {"coordinates":[-114.03330699999999,46.839759],"type":"Point"}
+}

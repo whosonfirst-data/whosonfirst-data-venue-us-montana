@@ -1,0 +1,73 @@
+{
+  "id": 873676367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.330361,48.281411,-114.330361,48.281411",
+    "geom:latitude":48.281411,
+    "geom:longitude":-114.330361,
+    "iso:country":"US",
+    "sg:address":"3630 US Hwy 93 N",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 5366",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "horse",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KWNoLwE2bJa9w4QlU1WrZ_48.281411_-114.330361@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295897,
+    "wof:geomhash":"a052c304b9752d46425a34c869f7f321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873676367
+        }
+    ],
+    "wof:id":873676367,
+    "wof:lastmodified":1464295897,
+    "wof:name":"Majestic Valley Arena",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "training"
+    ]
+},
+  "bbox": [
+    -114.330361,
+    48.281411,
+    -114.330361,
+    48.281411
+],
+  "geometry": {"coordinates":[-114.330361,48.281411],"type":"Point"}
+}

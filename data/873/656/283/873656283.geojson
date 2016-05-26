@@ -1,0 +1,71 @@
+{
+  "id": 873656283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.305859,48.182606,-114.305859,48.182606",
+    "geom:latitude":48.182606,
+    "geom:longitude":-114.305859,
+    "iso:country":"US",
+    "sg:address":"39 18th St E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 2201",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24ogzUw2QDDJ0yRYf1gzQc_48.182606_-114.305859@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295660,
+    "wof:geomhash":"f27d89d62d7715a1fc8b2547204e6d1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873656283
+        }
+    ],
+    "wof:id":873656283,
+    "wof:lastmodified":1464295660,
+    "wof:name":"Euroservice Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -114.305859,
+    48.182606,
+    -114.305859,
+    48.182606
+],
+  "geometry": {"coordinates":[-114.305859,48.182606],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873643875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.54042,46.011567,-112.54042,46.011567",
+    "geom:latitude":46.011567,
+    "geom:longitude":-112.54042,
+    "iso:country":"US",
+    "sg:address":"120 S Idaho St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 9509",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dlVItLWd7xVh9v1TiOsxR_46.011567_-112.540420@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295523,
+    "wof:geomhash":"fc7ca5791d26b166f437613e19c19d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873643875
+        }
+    ],
+    "wof:id":873643875,
+    "wof:lastmodified":1464295523,
+    "wof:name":"Butte-Silverbow Fire Dept",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -112.54042,
+    46.011567,
+    -112.54042,
+    46.011567
+],
+  "geometry": {"coordinates":[-112.54042,46.011567],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873598083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.597841,45.751743,-108.597841,45.751743",
+    "geom:latitude":45.751743,
+    "geom:longitude":-108.597841,
+    "iso:country":"US",
+    "sg:address":"22 Woodgrain Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 670 5012",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"www.fortunetechnologies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yw4DFQJYgBZhcejSEfFYM_45.751743_-108.597841@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294959,
+    "wof:geomhash":"37425bee47f71e8acfa8feff8f473401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873598083
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873598083
+        }
+    ],
+    "wof:id":873598083,
+    "wof:lastmodified":1464294959,
+    "wof:name":"Fortune Technologies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -108.597841,
+    45.751743,
+    -108.597841,
+    45.751743
+],
+  "geometry": {"coordinates":[-108.597841,45.751743],"type":"Point"}
+}

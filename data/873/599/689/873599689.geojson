@@ -1,0 +1,69 @@
+{
+  "id": 873599689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.997537,46.866189,-113.997537,46.866189",
+    "geom:latitude":46.866189,
+    "geom:longitude":-113.997537,
+    "iso:country":"US",
+    "sg:address":"521 S Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 6525",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_162cgtCCfK2leQs7nxMj0a_46.866189_-113.997537@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294984,
+    "wof:geomhash":"0bb8f7b145b0c5ab0802a4d7c048cbf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873599689
+        }
+    ],
+    "wof:id":873599689,
+    "wof:lastmodified":1464294984,
+    "wof:name":"Missoula Bicycle Works",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -113.997537,
+    46.866189,
+    -113.997537,
+    46.866189
+],
+  "geometry": {"coordinates":[-113.99753699999999,46.866189],"type":"Point"}
+}

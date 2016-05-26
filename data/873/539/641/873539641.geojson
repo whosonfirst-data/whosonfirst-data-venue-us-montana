@@ -1,0 +1,71 @@
+{
+  "id": 873539641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.261236,47.043955,-114.261236,47.043955",
+    "geom:latitude":47.043955,
+    "geom:longitude":-114.261236,
+    "iso:country":"US",
+    "sg:address":"18689 Morgan Ln",
+    "sg:city":"Frenchtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 626 1803",
+    "sg:postcode":"59834",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rfi6HxvBATW3RPp5m8g8f_47.043955_-114.261236@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294256,
+    "wof:geomhash":"d9111e1cba6cd959eaba0218ce8de485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873539641
+        }
+    ],
+    "wof:id":873539641,
+    "wof:lastmodified":1464294256,
+    "wof:name":"Fire Management Consulting",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire"
+    ]
+},
+  "bbox": [
+    -114.261236,
+    47.043955,
+    -114.261236,
+    47.043955
+],
+  "geometry": {"coordinates":[-114.261236,47.043955],"type":"Point"}
+}

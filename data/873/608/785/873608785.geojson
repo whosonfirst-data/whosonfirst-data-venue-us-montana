@@ -1,0 +1,77 @@
+{
+  "id": 873608785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.995969,46.871437,-113.995969,46.871437",
+    "geom:latitude":46.871437,
+    "geom:longitude":-113.995969,
+    "iso:country":"US",
+    "sg:address":"125 W Main St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 9798",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "residential",
+        "property",
+        "commercial",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QVTZ3D63dkp755Ln4ISqV_46.871437_-113.995969@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295120,
+    "wof:geomhash":"cb895c540ec4679efe39751c36c64001",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873608785
+        }
+    ],
+    "wof:id":873608785,
+    "wof:lastmodified":1464295120,
+    "wof:name":"Caras Management",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "property",
+        "commercial",
+        "management"
+    ]
+},
+  "bbox": [
+    -113.995969,
+    46.871437,
+    -113.995969,
+    46.871437
+],
+  "geometry": {"coordinates":[-113.995969,46.871437],"type":"Point"}
+}

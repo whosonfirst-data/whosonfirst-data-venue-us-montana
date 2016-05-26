@@ -1,0 +1,73 @@
+{
+  "id": 873593459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.27685,48.224225,-114.27685,48.224225",
+    "geom:latitude":48.224225,
+    "geom:longitude":-114.27685,
+    "iso:country":"US",
+    "sg:address":"2199 US Hwy 2 E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 4273",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0petA3hFwIufP43yTb0nX6_48.224225_-114.276850@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294874,
+    "wof:geomhash":"f4b2e3d075d421ee649b905dc3aae045",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873593459
+        }
+    ],
+    "wof:id":873593459,
+    "wof:lastmodified":1464294874,
+    "wof:name":"Glacier Bank",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -114.27685,
+    48.224225,
+    -114.27685,
+    48.224225
+],
+  "geometry": {"coordinates":[-114.27685,48.224225],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873635557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.339537,48.409558,-114.339537,48.409558",
+    "geom:latitude":48.409558,
+    "geom:longitude":-114.339537,
+    "iso:country":"US",
+    "sg:address":"309 Lupfer Ave",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 9141",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OwNDDroROotURx59U7Rfr_48.409558_-114.339537@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295428,
+    "wof:geomhash":"6fe2fca236724d14841262fda4602daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873635557
+        }
+    ],
+    "wof:id":873635557,
+    "wof:lastmodified":1464295428,
+    "wof:name":"Dons Professional Cleaning",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -114.339537,
+    48.409558,
+    -114.339537,
+    48.409558
+],
+  "geometry": {"coordinates":[-114.33953700000001,48.409558],"type":"Point"}
+}

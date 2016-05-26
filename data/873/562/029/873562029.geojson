@@ -1,0 +1,77 @@
+{
+  "id": 873562029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576167,45.775933,-108.576167,45.775933",
+    "geom:latitude":45.775933,
+    "geom:longitude":-108.576167,
+    "iso:country":"US",
+    "sg:address":"529 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 4653",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "golfing",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mMu4pnj0WQer7brkQ2WMa_45.775933_-108.576167@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294521,
+    "wof:geomhash":"738c74a86fb7c74be889161b8b97edea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873562029
+        }
+    ],
+    "wof:id":873562029,
+    "wof:lastmodified":1464294521,
+    "wof:name":"National Golf",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golfing",
+        "supply"
+    ]
+},
+  "bbox": [
+    -108.576167,
+    45.775933,
+    -108.576167,
+    45.775933
+],
+  "geometry": {"coordinates":[-108.576167,45.775933],"type":"Point"}
+}

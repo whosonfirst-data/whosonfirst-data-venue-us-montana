@@ -1,0 +1,73 @@
+{
+  "id": 873533289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.174674,45.950538,-108.174674,45.950538",
+    "geom:latitude":45.950538,
+    "geom:longitude":-108.174674,
+    "iso:country":"US",
+    "sg:address":"2284 S 14th Rd",
+    "sg:city":"Ballantine",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 967 3656",
+    "sg:postcode":"59006",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qibih0tBrn76H8fIRIkCm_45.950538_-108.174674@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294163,
+    "wof:geomhash":"b4edf5cddc8e3f3d7038eb44a911a27a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873533289
+        }
+    ],
+    "wof:id":873533289,
+    "wof:lastmodified":1464294163,
+    "wof:name":"J C T Construction",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.174674,
+    45.950538,
+    -108.174674,
+    45.950538
+],
+  "geometry": {"coordinates":[-108.174674,45.950538],"type":"Point"}
+}

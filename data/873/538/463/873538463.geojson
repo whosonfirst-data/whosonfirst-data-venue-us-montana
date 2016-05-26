@@ -1,0 +1,73 @@
+{
+  "id": 873538463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.08081,46.762901,-114.08081,46.762901",
+    "geom:latitude":46.762901,
+    "geom:longitude":-114.08081,
+    "iso:country":"US",
+    "sg:address":"11350 US Hwy 93",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 0045",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2knXfLg1kLO7m7ClFBQPke_46.762901_-114.080810@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294244,
+    "wof:geomhash":"318911fc1132e10b00339faa86670942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873538463
+        }
+    ],
+    "wof:id":873538463,
+    "wof:lastmodified":1464294244,
+    "wof:name":"Lolo Family Practice",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -114.08081,
+    46.762901,
+    -114.08081,
+    46.762901
+],
+  "geometry": {"coordinates":[-114.08081,46.762901],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873617623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.299906,48.221063,-114.299906,48.221063",
+    "geom:latitude":48.221063,
+    "geom:longitude":-114.299906,
+    "iso:country":"US",
+    "sg:address":"188 Somerset Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 3444",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26pwjKG1CE5FePxnEq3zYb_48.221063_-114.299906@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295221,
+    "wof:geomhash":"516b968208c97d519729f1d9832e0625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873617623
+        }
+    ],
+    "wof:id":873617623,
+    "wof:lastmodified":1464295221,
+    "wof:name":"Eagle Excavating",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.299906,
+    48.221063,
+    -114.299906,
+    48.221063
+],
+  "geometry": {"coordinates":[-114.29990599999999,48.221063],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873614831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.53049,45.785935,-108.53049,45.785935",
+    "geom:latitude":45.785935,
+    "geom:longitude":-108.53049,
+    "iso:country":"US",
+    "sg:address":"1505 6th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 6520",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00S3a2pRi3ixGWpFYdLjcm_45.785935_-108.530490@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295194,
+    "wof:geomhash":"caffa233d8ce46c280132b88b318f4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873614831
+        }
+    ],
+    "wof:id":873614831,
+    "wof:lastmodified":1464295194,
+    "wof:name":"Realty Place",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.53049,
+    45.785935,
+    -108.53049,
+    45.785935
+],
+  "geometry": {"coordinates":[-108.53049,45.785935],"type":"Point"}
+}

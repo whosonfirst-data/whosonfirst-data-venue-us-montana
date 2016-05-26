@@ -1,0 +1,71 @@
+{
+  "id": 873619991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.451116,45.830231,-108.451116,45.830231",
+    "geom:latitude":45.830231,
+    "geom:longitude":-108.451116,
+    "iso:country":"US",
+    "sg:address":"1321 Maurine St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 698 1901",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lD0BJF4HCRfQf2JO3ph98_45.830231_-108.451116@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295250,
+    "wof:geomhash":"9292296afaf1891310080fc8990dc36c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873619991
+        }
+    ],
+    "wof:id":873619991,
+    "wof:lastmodified":1464295250,
+    "wof:name":"Wildfire Mobile Laundry",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile"
+    ]
+},
+  "bbox": [
+    -108.451116,
+    45.830231,
+    -108.451116,
+    45.830231
+],
+  "geometry": {"coordinates":[-108.451116,45.830231],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873569459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.999128,46.852408,-113.999128,46.852408",
+    "geom:latitude":46.852408,
+    "geom:longitude":-113.999128,
+    "iso:country":"US",
+    "sg:address":"100 North Ave W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 5710",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1huAGW42vNUNtt1FePfa7l_46.852408_-113.999128@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294600,
+    "wof:geomhash":"b867f7cb36fc00a0ce42be3a400c0e3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873569459
+        }
+    ],
+    "wof:id":873569459,
+    "wof:lastmodified":1464294600,
+    "wof:name":"John's Appliance Svc",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -113.999128,
+    46.852408,
+    -113.999128,
+    46.852408
+],
+  "geometry": {"coordinates":[-113.999128,46.852408],"type":"Point"}
+}

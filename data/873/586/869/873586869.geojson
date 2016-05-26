@@ -1,0 +1,79 @@
+{
+  "id": 873586869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.622942,45.770134,-108.622942,45.770134",
+    "geom:latitude":45.770134,
+    "geom:longitude":-108.622942,
+    "iso:country":"US",
+    "sg:address":"12 Double Tree Pl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7832",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ocvz32Kcs8LKvN0zCaTpW_45.770134_-108.622942@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294794,
+    "wof:geomhash":"aa344d68b0c0d3f443f8ac7b62d00d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873586869
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873586869
+        }
+    ],
+    "wof:id":873586869,
+    "wof:lastmodified":1464294794,
+    "wof:name":"Super Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -108.622942,
+    45.770134,
+    -108.622942,
+    45.770134
+],
+  "geometry": {"coordinates":[-108.62294199999999,45.770134],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873656359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.032966,46.883544,-114.032966,46.883544",
+    "geom:latitude":46.883544,
+    "geom:longitude":-114.032966,
+    "iso:country":"US",
+    "sg:address":"2360 Mullan Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 4436",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gEqIQ8FxAR0LGKrUMclG8_46.883544_-114.032966@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295660,
+    "wof:geomhash":"a5f9826957b5ee59b315521108ab3d72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873656359
+        }
+    ],
+    "wof:id":873656359,
+    "wof:lastmodified":1464295660,
+    "wof:name":"Cary H Mielke MD",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -114.032966,
+    46.883544,
+    -114.032966,
+    46.883544
+],
+  "geometry": {"coordinates":[-114.032966,46.883544],"type":"Point"}
+}

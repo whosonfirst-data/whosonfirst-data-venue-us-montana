@@ -1,0 +1,72 @@
+{
+  "id": 873701059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.024743,46.844194,-114.024743,46.844194",
+    "geom:latitude":46.844194,
+    "geom:longitude":-114.024743,
+    "iso:country":"US",
+    "sg:address":"2915 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/237170-curleys-broiler/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 4133",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46Uc1JvgOPl03kHNj3nA7g_46.844194_-114.024743@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296416,
+    "wof:geomhash":"97726cdce3732afe58a5d61f777722be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873701059
+        }
+    ],
+    "wof:id":873701059,
+    "wof:lastmodified":1464296416,
+    "wof:name":"Curley's Broiler",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -114.024743,
+    46.844194,
+    -114.024743,
+    46.844194
+],
+  "geometry": {"coordinates":[-114.024743,46.844194],"type":"Point"}
+}

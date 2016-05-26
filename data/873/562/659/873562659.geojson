@@ -1,0 +1,75 @@
+{
+  "id": 873562659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.51815,45.9986,-112.51815,45.9986",
+    "geom:latitude":45.9986,
+    "geom:longitude":-112.51815,
+    "iso:country":"US",
+    "sg:address":"1513 Whitman Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 2162",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6leNA7Si3ZGSmruwqrY3vV_45.998600_-112.518150@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294528,
+    "wof:geomhash":"5b62a70e41da9dd65beec6d456a57713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873562659
+        }
+    ],
+    "wof:id":873562659,
+    "wof:lastmodified":1464294528,
+    "wof:name":"Concrete Services",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.51815,
+    45.9986,
+    -112.51815,
+    45.9986
+],
+  "geometry": {"coordinates":[-112.51815000000001,45.9986],"type":"Point"}
+}

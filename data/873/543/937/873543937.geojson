@@ -1,0 +1,71 @@
+{
+  "id": 873543937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.631363,45.801843,-108.631363,45.801843",
+    "geom:latitude":45.801843,
+    "geom:longitude":-108.631363,
+    "iso:country":"US",
+    "sg:address":"4568 Palisades Park Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 3881",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07gSyaXNm8uEuUc0G5a9KC_45.801843_-108.631363@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294306,
+    "wof:geomhash":"8d93aaa118c7ea366d13ebbf1f9690c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873543937
+        }
+    ],
+    "wof:id":873543937,
+    "wof:lastmodified":1464294306,
+    "wof:name":"Rimrock Realtors",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -108.631363,
+    45.801843,
+    -108.631363,
+    45.801843
+],
+  "geometry": {"coordinates":[-108.63136299999999,45.801843],"type":"Point"}
+}

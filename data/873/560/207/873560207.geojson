@@ -1,0 +1,71 @@
+{
+  "id": 873560207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.465789,45.809985,-108.465789,45.809985",
+    "geom:latitude":45.809985,
+    "geom:longitude":-108.465789,
+    "iso:country":"US",
+    "sg:address":"515 Bench Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 861 5666",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ASund339yXhZz4kFRmZ8N_45.809985_-108.465789@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294502,
+    "wof:geomhash":"0fcb0493e58e13252db59a45d7db409c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873560207
+        }
+    ],
+    "wof:id":873560207,
+    "wof:lastmodified":1464294502,
+    "wof:name":"Shur-Wood Tree Svc",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -108.465789,
+    45.809985,
+    -108.465789,
+    45.809985
+],
+  "geometry": {"coordinates":[-108.465789,45.809985],"type":"Point"}
+}

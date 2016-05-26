@@ -1,0 +1,83 @@
+{
+  "id": 873537419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.590229,45.733959,-108.590229,45.733959",
+    "geom:latitude":45.733959,
+    "geom:longitude":-108.590229,
+    "iso:country":"US",
+    "sg:address":"6780 Trade Center Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 1759",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "underground",
+        "wire",
+        "laying",
+        "cable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z0yvOYD4zNqnFuSbXgDvl_45.733959_-108.590229@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294232,
+    "wof:geomhash":"858d7468f3ef54bd45aab951a13df620",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873537419
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873537419
+        }
+    ],
+    "wof:id":873537419,
+    "wof:lastmodified":1464294232,
+    "wof:name":"Northern Line Layers Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underground",
+        "wire",
+        "laying",
+        "cable"
+    ]
+},
+  "bbox": [
+    -108.590229,
+    45.733959,
+    -108.590229,
+    45.733959
+],
+  "geometry": {"coordinates":[-108.59022899999999,45.733959],"type":"Point"}
+}

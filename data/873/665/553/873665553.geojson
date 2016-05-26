@@ -1,0 +1,73 @@
+{
+  "id": 873665553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.09088,46.92959,-114.09088,46.92959",
+    "geom:latitude":46.92959,
+    "geom:longitude":-114.09088,
+    "iso:country":"US",
+    "sg:address":"7180 Kestrel Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 2226",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KkOVF8bMdmCF8sC0LFUNt_46.929590_-114.090880@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295756,
+    "wof:geomhash":"67c993a6e1702be2b823a957ef5ebe94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873665553
+        }
+    ],
+    "wof:id":873665553,
+    "wof:lastmodified":1464295756,
+    "wof:name":"USFreightways",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.09088,
+    46.92959,
+    -114.09088,
+    46.92959
+],
+  "geometry": {"coordinates":[-114.09088,46.92959],"type":"Point"}
+}

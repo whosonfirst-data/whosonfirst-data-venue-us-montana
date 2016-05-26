@@ -1,0 +1,73 @@
+{
+  "id": 873592239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.540679,45.785856,-108.540679,45.785856",
+    "geom:latitude":45.785856,
+    "geom:longitude":-108.540679,
+    "iso:country":"US",
+    "sg:address":"918 Ave C",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 1196",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "bakery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ogE1KmPouLtN4RpJbVRWE_45.785856_-108.540679@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294861,
+    "wof:geomhash":"85276990ddfa39d17dabefd8579ac18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873592239
+        }
+    ],
+    "wof:id":873592239,
+    "wof:lastmodified":1464294861,
+    "wof:name":"Morgans Market",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery"
+    ]
+},
+  "bbox": [
+    -108.540679,
+    45.785856,
+    -108.540679,
+    45.785856
+],
+  "geometry": {"coordinates":[-108.540679,45.785856],"type":"Point"}
+}

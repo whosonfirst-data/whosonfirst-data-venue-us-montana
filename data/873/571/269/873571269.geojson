@@ -1,0 +1,71 @@
+{
+  "id": 873571269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.849671,48.09283,-114.849671,48.09283",
+    "geom:latitude":48.09283,
+    "geom:longitude":-114.849671,
+    "iso:country":"US",
+    "sg:address":"3180 Lower Lost Prairie Rd",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 858 2314",
+    "sg:postcode":"59925",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rnmrshpHKlfRGc2zr58cn_48.092830_-114.849671@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294623,
+    "wof:geomhash":"2cd0fc6823d30ffa571bb9a8570139c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873571269
+        }
+    ],
+    "wof:id":873571269,
+    "wof:lastmodified":1464294623,
+    "wof:name":"Lost Prairie Lounge",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -114.849671,
+    48.09283,
+    -114.849671,
+    48.09283
+],
+  "geometry": {"coordinates":[-114.849671,48.09283],"type":"Point"}
+}

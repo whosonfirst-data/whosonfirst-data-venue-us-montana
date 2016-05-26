@@ -1,0 +1,71 @@
+{
+  "id": 873561583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.548451,45.799685,-108.548451,45.799685",
+    "geom:latitude":45.799685,
+    "geom:longitude":-108.548451,
+    "iso:country":"US",
+    "sg:address":"1225 Juniper Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 4784",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k7LI6SwmN46yKjFjhGuS2_45.799685_-108.548451@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294516,
+    "wof:geomhash":"08139d33ea47bd51c0b0245c06406299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873561583
+        }
+    ],
+    "wof:id":873561583,
+    "wof:lastmodified":1464294516,
+    "wof:name":"Desperation Land & Livestock",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -108.548451,
+    45.799685,
+    -108.548451,
+    45.799685
+],
+  "geometry": {"coordinates":[-108.548451,45.799685],"type":"Point"}
+}

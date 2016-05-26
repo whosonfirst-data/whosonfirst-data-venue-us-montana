@@ -1,0 +1,73 @@
+{
+  "id": 873620095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.505991,45.784347,-108.505991,45.784347",
+    "geom:latitude":45.784347,
+    "geom:longitude":-108.505991,
+    "iso:country":"US",
+    "sg:address":"217 N 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 8200",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QJDxZ90elR0qRaVv3z9lH_45.784347_-108.505991@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295251,
+    "wof:geomhash":"d800a748bb5e826037918c330c38c099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525793,
+            "region_id":85688617,
+            "venue_id":873620095
+        }
+    ],
+    "wof:id":873620095,
+    "wof:lastmodified":1464295251,
+    "wof:name":"Yellowstone County Sheriff",
+    "wof:parent_id":420525793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -108.505991,
+    45.784347,
+    -108.505991,
+    45.784347
+],
+  "geometry": {"coordinates":[-108.50599099999999,45.784347],"type":"Point"}
+}

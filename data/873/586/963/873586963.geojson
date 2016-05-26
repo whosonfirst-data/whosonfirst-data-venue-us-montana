@@ -1,0 +1,80 @@
+{
+  "id": 873586963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.507975,45.98705,-112.507975,45.98705",
+    "geom:latitude":45.98705,
+    "geom:longitude":-112.507975,
+    "iso:country":"US",
+    "sg:address":"2610 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 3155",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7epPMH0h5icv0xqn7C3tsU_45.987050_-112.507975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294797,
+    "wof:geomhash":"a2510eb099aa7b3eb169290ef748cec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873586963
+        }
+    ],
+    "wof:id":873586963,
+    "wof:lastmodified":1464294797,
+    "wof:name":"Thriftway Super Stop 4",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -112.507975,
+    45.98705,
+    -112.507975,
+    45.98705
+],
+  "geometry": {"coordinates":[-112.507975,45.98705],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873566053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.542776,45.776939,-108.542776,45.776939",
+    "geom:latitude":45.776939,
+    "geom:longitude":-108.542776,
+    "iso:country":"US",
+    "sg:address":"1028 Broadwater Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 1075",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dKqLKCL8GvqCXGk75b2y6_45.776939_-108.542776@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294567,
+    "wof:geomhash":"7b74a27e27786a3bf7ea30c8a3c65a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873566053
+        }
+    ],
+    "wof:id":873566053,
+    "wof:lastmodified":1464294567,
+    "wof:name":"Boston Harbor",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.542776,
+    45.776939,
+    -108.542776,
+    45.776939
+],
+  "geometry": {"coordinates":[-108.542776,45.776939],"type":"Point"}
+}

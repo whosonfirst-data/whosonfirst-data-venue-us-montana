@@ -1,0 +1,71 @@
+{
+  "id": 873578405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.327886,48.266373,-114.327886,48.266373",
+    "geom:latitude":48.266373,
+    "geom:longitude":-114.327886,
+    "iso:country":"US",
+    "sg:address":"100 Ponderosa Ln",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 7111",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cgAFInCt3dAI2iSntD06Q_48.266373_-114.327886@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294698,
+    "wof:geomhash":"daeda538bed63099bea6dd0eeb45f5f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873578405
+        }
+    ],
+    "wof:id":873578405,
+    "wof:lastmodified":1464294698,
+    "wof:name":"Ponderosa Veterinary Hospital",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -114.327886,
+    48.266373,
+    -114.327886,
+    48.266373
+],
+  "geometry": {"coordinates":[-114.32788600000001,48.266373],"type":"Point"}
+}

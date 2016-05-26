@@ -1,0 +1,77 @@
+{
+  "id": 873565719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470493,45.83573,-108.470493,45.83573",
+    "geom:latitude":45.83573,
+    "geom:longitude":-108.470493,
+    "iso:country":"US",
+    "sg:address":"2018 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 9684",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fire",
+        "department",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hLANXxPrVp7MgCvfMrabc_45.835730_-108.470493@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294563,
+    "wof:geomhash":"10b3364782497803cfa0aa609b265166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":873565719
+        }
+    ],
+    "wof:id":873565719,
+    "wof:lastmodified":1464294563,
+    "wof:name":"Rocky Mountain Compressor",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "department",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -108.470493,
+    45.83573,
+    -108.470493,
+    45.83573
+],
+  "geometry": {"coordinates":[-108.470493,45.83573],"type":"Point"}
+}

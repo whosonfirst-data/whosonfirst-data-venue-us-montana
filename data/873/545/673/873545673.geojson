@@ -1,0 +1,66 @@
+{
+  "id": 873545673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.572335,45.660929,-110.572335,45.660929",
+    "geom:latitude":45.660929,
+    "geom:longitude":-110.572335,
+    "iso:country":"US",
+    "sg:address":"405 N 8th St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 5160",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4soZKKl4QUwSrYIlIPCBXF_45.660929_-110.572335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294324,
+    "wof:geomhash":"339af6ce36dbd6773c57b95ac06b2203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873545673
+        }
+    ],
+    "wof:id":873545673,
+    "wof:lastmodified":1464294324,
+    "wof:name":"Matt's Butcher Shop",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.572335,
+    45.660929,
+    -110.572335,
+    45.660929
+],
+  "geometry": {"coordinates":[-110.572335,45.660929],"type":"Point"}
+}

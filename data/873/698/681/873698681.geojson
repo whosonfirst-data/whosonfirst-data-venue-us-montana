@@ -1,0 +1,74 @@
+{
+  "id": 873698681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.422198,45.809316,-108.422198,45.809316",
+    "geom:latitude":45.809316,
+    "geom:longitude":-108.422198,
+    "iso:country":"US",
+    "sg:address":"2813 Old Hardin Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/190999-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 5642",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CT9Bct3aY3QddqomCVMPW_45.809316_-108.422198@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296390,
+    "wof:geomhash":"37a724c548945e8c07b1156faf2db167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873698681
+        }
+    ],
+    "wof:id":873698681,
+    "wof:lastmodified":1464296390,
+    "wof:name":"Burger King",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -108.422198,
+    45.809316,
+    -108.422198,
+    45.809316
+],
+  "geometry": {"coordinates":[-108.42219799999999,45.809316],"type":"Point"}
+}

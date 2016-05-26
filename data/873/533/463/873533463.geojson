@@ -1,0 +1,75 @@
+{
+  "id": 873533463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-104.713387,47.106592,-104.713387,47.106592",
+    "geom:latitude":47.106592,
+    "geom:longitude":-104.713387,
+    "iso:country":"US",
+    "sg:address":"221 N Kendrick Ave",
+    "sg:city":"Glendive",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 365 3373",
+    "sg:postcode":"59330",
+    "sg:province":"MT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972825,
+        102085189,
+        85802737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5udFEo82tXrTZw7NBTRpPq_47.106592_-104.713387@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294170,
+    "wof:geomhash":"f0c6d394124a09239c495c3099b235b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085189,
+            "locality_id":85972825,
+            "neighbourhood_id":85802737,
+            "region_id":85688617,
+            "venue_id":873533463
+        }
+    ],
+    "wof:id":873533463,
+    "wof:lastmodified":1464294170,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85802737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -104.713387,
+    47.106592,
+    -104.713387,
+    47.106592
+],
+  "geometry": {"coordinates":[-104.713387,47.106592],"type":"Point"}
+}

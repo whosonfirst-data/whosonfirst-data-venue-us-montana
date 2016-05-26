@@ -1,0 +1,71 @@
+{
+  "id": 873566435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.495775,45.790606,-108.495775,45.790606",
+    "geom:latitude":45.790606,
+    "geom:longitude":-108.495775,
+    "iso:country":"US",
+    "sg:address":"1718 4th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4120",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "ice",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zz3kiSl5PvmmR4agD4o8M_45.790606_-108.495775@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294570,
+    "wof:geomhash":"9fe87ea37c3a9a0532abc7b69b1a4eff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873566435
+        }
+    ],
+    "wof:id":873566435,
+    "wof:lastmodified":1464294570,
+    "wof:name":"Red Lodge Spring Water",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ice",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -108.495775,
+    45.790606,
+    -108.495775,
+    45.790606
+],
+  "geometry": {"coordinates":[-108.49577499999999,45.790606],"type":"Point"}
+}

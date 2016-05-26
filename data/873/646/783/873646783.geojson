@@ -1,0 +1,71 @@
+{
+  "id": 873646783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.504593,45.764112,-108.504593,45.764112",
+    "geom:latitude":45.764112,
+    "geom:longitude":-108.504593,
+    "iso:country":"US",
+    "sg:address":"336 Riverside Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 2374",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "confectionery",
+        "candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cogy5JQbWuFFxWDg5Afna_45.764112_-108.504593@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295554,
+    "wof:geomhash":"1f451a3d7e5b2cc7ecc3819e24791199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873646783
+        }
+    ],
+    "wof:id":873646783,
+    "wof:lastmodified":1464295554,
+    "wof:name":"Moore Candy Co",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "candy"
+    ]
+},
+  "bbox": [
+    -108.504593,
+    45.764112,
+    -108.504593,
+    45.764112
+],
+  "geometry": {"coordinates":[-108.504593,45.764112],"type":"Point"}
+}

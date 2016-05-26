@@ -1,0 +1,71 @@
+{
+  "id": 873606469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.311116,48.19597,-114.311116,48.19597",
+    "geom:latitude":48.19597,
+    "geom:longitude":-114.311116,
+    "iso:country":"US",
+    "sg:address":"317 1st Ave E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 6982",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QY2wwYgceOL5BjdHkP42D_48.195970_-114.311116@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295066,
+    "wof:geomhash":"91d5ee59864080d01b89691e27505948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873606469
+        }
+    ],
+    "wof:id":873606469,
+    "wof:lastmodified":1464295066,
+    "wof:name":"IBM",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales"
+    ]
+},
+  "bbox": [
+    -114.311116,
+    48.19597,
+    -114.311116,
+    48.19597
+],
+  "geometry": {"coordinates":[-114.311116,48.19597],"type":"Point"}
+}

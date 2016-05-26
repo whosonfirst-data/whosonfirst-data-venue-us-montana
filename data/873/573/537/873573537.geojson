@@ -1,0 +1,71 @@
+{
+  "id": 873573537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.160048,45.408165,-112.160048,45.408165",
+    "geom:latitude":45.408165,
+    "geom:longitude":-112.160048,
+    "iso:country":"US",
+    "sg:address":"2905 State Hwy 287",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 842 5540",
+    "sg:postcode":"59749",
+    "sg:province":"MT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vjZZeZXuH0Zj46q8i1H6Y_45.408165_-112.160048@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294648,
+    "wof:geomhash":"42b4a7184d58562e468cbbaa072b2fe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873573537
+        }
+    ],
+    "wof:id":873573537,
+    "wof:lastmodified":1464294648,
+    "wof:name":"Tezak Welding Repair",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -112.160048,
+    45.408165,
+    -112.160048,
+    45.408165
+],
+  "geometry": {"coordinates":[-112.160048,45.408165],"type":"Point"}
+}

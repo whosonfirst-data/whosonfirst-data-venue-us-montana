@@ -1,0 +1,75 @@
+{
+  "id": 873627999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.173402,45.955045,-108.173402,45.955045",
+    "geom:latitude":45.955045,
+    "geom:longitude":-108.173402,
+    "iso:country":"US",
+    "sg:address":"1471 Hwy 312",
+    "sg:city":"Worden",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 967 2145",
+    "sg:postcode":"59088",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repair",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BjwpHOl05ySbEOfgLch5n_45.955045_-108.173402@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295340,
+    "wof:geomhash":"8c5cbd114a462b6f9d8b507b20baa587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873627999
+        }
+    ],
+    "wof:id":873627999,
+    "wof:lastmodified":1464295340,
+    "wof:name":"Worden Motors",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -108.173402,
+    45.955045,
+    -108.173402,
+    45.955045
+],
+  "geometry": {"coordinates":[-108.173402,45.955045],"type":"Point"}
+}

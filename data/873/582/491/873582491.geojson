@@ -1,0 +1,69 @@
+{
+  "id": 873582491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.4767,45.804443,-108.4767,45.804443",
+    "geom:latitude":45.804443,
+    "geom:longitude":-108.4767,
+    "iso:country":"US",
+    "sg:address":"247 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 8118",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ku7zvfRTj69OPU7ef2YEo_45.804443_-108.476700@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294747,
+    "wof:geomhash":"78dfecb5cafbbf42ebb9ad101d7b3746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873582491
+        }
+    ],
+    "wof:id":873582491,
+    "wof:lastmodified":1464294747,
+    "wof:name":"Players Club Inc",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -108.4767,
+    45.804443,
+    -108.4767,
+    45.804443
+],
+  "geometry": {"coordinates":[-108.47669999999999,45.804443],"type":"Point"}
+}

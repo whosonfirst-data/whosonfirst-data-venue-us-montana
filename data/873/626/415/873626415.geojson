@@ -1,0 +1,75 @@
+{
+  "id": 873626415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.540484,46.010932,-112.540484,46.010932",
+    "geom:latitude":46.010932,
+    "geom:longitude":-112.540484,
+    "iso:country":"US",
+    "sg:address":"300 W Mercury St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 1355",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24sjm7Q1MTCRaAC3v5BEFy_46.010932_-112.540484@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295324,
+    "wof:geomhash":"1fc6f6e5353a8ea8155c9b1f4a47ee43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873626415
+        }
+    ],
+    "wof:id":873626415,
+    "wof:lastmodified":1464295324,
+    "wof:name":"Center For Women's Health",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -112.540484,
+    46.010932,
+    -112.540484,
+    46.010932
+],
+  "geometry": {"coordinates":[-112.54048400000001,46.010932],"type":"Point"}
+}

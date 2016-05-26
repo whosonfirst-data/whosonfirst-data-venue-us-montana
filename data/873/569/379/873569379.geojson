@@ -1,0 +1,71 @@
+{
+  "id": 873569379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.958949,46.900857,-113.958949,46.900857",
+    "geom:latitude":46.900857,
+    "geom:longitude":-113.958949,
+    "iso:country":"US",
+    "sg:address":"1565 Cornerstone Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 829 8065",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891733,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QnTFk0jEdGE57bjeiZABg_46.900857_-113.958949@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294599,
+    "wof:geomhash":"8d8af1eb65ce29f293adff454699e36b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891733,
+            "region_id":85688617,
+            "venue_id":873569379
+        }
+    ],
+    "wof:id":873569379,
+    "wof:lastmodified":1464294599,
+    "wof:name":"McCloy Construction Inc",
+    "wof:parent_id":85891733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -113.958949,
+    46.900857,
+    -113.958949,
+    46.900857
+],
+  "geometry": {"coordinates":[-113.958949,46.900857],"type":"Point"}
+}

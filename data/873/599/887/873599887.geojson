@@ -1,0 +1,73 @@
+{
+  "id": 873599887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.58483,45.778815,-108.58483,45.778815",
+    "geom:latitude":45.778815,
+    "geom:longitude":-108.58483,
+    "iso:country":"US",
+    "sg:address":"2522 Yellowstone Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9142",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bKUPaKvB5icDnANSlAnvW_45.778815_-108.584830@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294986,
+    "wof:geomhash":"132c32d4af414bb89a5aa5579523597f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873599887
+        }
+    ],
+    "wof:id":873599887,
+    "wof:lastmodified":1464294986,
+    "wof:name":"Elite Dental Arts",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -108.58483,
+    45.778815,
+    -108.58483,
+    45.778815
+],
+  "geometry": {"coordinates":[-108.58483,45.778815],"type":"Point"}
+}

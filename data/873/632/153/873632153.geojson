@@ -1,0 +1,75 @@
+{
+  "id": 873632153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.552429,45.758962,-108.552429,45.758962",
+    "geom:latitude":45.758962,
+    "geom:longitude":-108.552429,
+    "iso:country":"US",
+    "sg:address":"621 Charles St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 8444",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S8zAPgOUtP5uEvzLCbIF8_45.758962_-108.552429@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295386,
+    "wof:geomhash":"3a413db55cd8bdf3be0274bc00737642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873632153
+        }
+    ],
+    "wof:id":873632153,
+    "wof:lastmodified":1464295386,
+    "wof:name":"Northwest Plating Co",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -108.552429,
+    45.758962,
+    -108.552429,
+    45.758962
+],
+  "geometry": {"coordinates":[-108.552429,45.758962],"type":"Point"}
+}

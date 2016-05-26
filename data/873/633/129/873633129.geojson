@@ -1,0 +1,73 @@
+{
+  "id": 873633129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.550082,45.779331,-108.550082,45.779331",
+    "geom:latitude":45.779331,
+    "geom:longitude":-108.550082,
+    "iso:country":"US",
+    "sg:address":"1245 Yellowstone Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 5800",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YtPQOn94LoL4jllBrrzBZ_45.779331_-108.550082@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295401,
+    "wof:geomhash":"52225efc567d6652612ca60493c4b530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873633129
+        }
+    ],
+    "wof:id":873633129,
+    "wof:lastmodified":1464295401,
+    "wof:name":"America's Home Inspection Svc",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -108.550082,
+    45.779331,
+    -108.550082,
+    45.779331
+],
+  "geometry": {"coordinates":[-108.550082,45.779331],"type":"Point"}
+}

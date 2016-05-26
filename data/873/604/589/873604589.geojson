@@ -1,0 +1,73 @@
+{
+  "id": 873604589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.496031,45.774184,-108.496031,45.774184",
+    "geom:latitude":45.774184,
+    "geom:longitude":-108.496031,
+    "iso:country":"US",
+    "sg:address":"701 S 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 247 5100",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O5OvyTmehd8mDiB6XiZe6_45.774184_-108.496031@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295035,
+    "wof:geomhash":"3aea4044b74f01ffcc65c7ba3c7b9869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873604589
+        }
+    ],
+    "wof:id":873604589,
+    "wof:lastmodified":1464295035,
+    "wof:name":"Women's Correctional Ctr",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -108.496031,
+    45.774184,
+    -108.496031,
+    45.774184
+],
+  "geometry": {"coordinates":[-108.496031,45.774184],"type":"Point"}
+}

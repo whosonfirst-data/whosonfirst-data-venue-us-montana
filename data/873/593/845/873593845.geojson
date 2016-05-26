@@ -1,0 +1,71 @@
+{
+  "id": 873593845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.33795,45.907402,-108.33795,45.907402",
+    "geom:latitude":45.907402,
+    "geom:longitude":-108.33795,
+    "iso:country":"US",
+    "sg:address":"5622 Chicago Rd",
+    "sg:city":"Shepherd",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6382",
+    "sg:postcode":"59079",
+    "sg:province":"MT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BvWSDqIgnEDvuwQ1GkN81_45.907402_-108.337950@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294880,
+    "wof:geomhash":"014829d457acee1591676a2a2e2fb616",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873593845
+        }
+    ],
+    "wof:id":873593845,
+    "wof:lastmodified":1464294880,
+    "wof:name":"Shepherd Baptist Church",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -108.33795,
+    45.907402,
+    -108.33795,
+    45.907402
+],
+  "geometry": {"coordinates":[-108.33795000000001,45.907402],"type":"Point"}
+}

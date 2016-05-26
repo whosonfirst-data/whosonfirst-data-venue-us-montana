@@ -1,0 +1,72 @@
+{
+  "id": 873654141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.525315,45.765649,-108.525315,45.765649",
+    "geom:latitude":45.765649,
+    "geom:longitude":-108.525315,
+    "iso:country":"US",
+    "sg:address":"301 Orchard Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6386",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fabricated",
+        "structural"
+    ],
+    "sg:website":"www.andersonsteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FeUiU06fDqipkdpZ4MjRS_45.765649_-108.525315@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295637,
+    "wof:geomhash":"52150a84caef17f7c73f94fd55329230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873654141
+        }
+    ],
+    "wof:id":873654141,
+    "wof:lastmodified":1464295637,
+    "wof:name":"Anderson Steel Supply Co",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricated",
+        "structural"
+    ]
+},
+  "bbox": [
+    -108.525315,
+    45.765649,
+    -108.525315,
+    45.765649
+],
+  "geometry": {"coordinates":[-108.52531500000001,45.765649],"type":"Point"}
+}

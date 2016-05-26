@@ -1,0 +1,75 @@
+{
+  "id": 873671483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.32623,48.198556,-114.32623,48.198556",
+    "geom:latitude":48.198556,
+    "geom:longitude":-114.32623,
+    "iso:country":"US",
+    "sg:address":"67 8th Ave W N",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 8090",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "motor",
+        "rewinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BdFbR8srmg3tHXTZrQT2I_48.198556_-114.326230@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295816,
+    "wof:geomhash":"61b10f29e6f238f884fd7cc3887dd616",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873671483
+        }
+    ],
+    "wof:id":873671483,
+    "wof:lastmodified":1464295816,
+    "wof:name":"Diversified Electric Co",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor",
+        "rewinding"
+    ]
+},
+  "bbox": [
+    -114.32623,
+    48.198556,
+    -114.32623,
+    48.198556
+],
+  "geometry": {"coordinates":[-114.32623,48.198556],"type":"Point"}
+}

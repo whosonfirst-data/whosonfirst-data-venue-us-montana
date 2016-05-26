@@ -1,0 +1,77 @@
+{
+  "id": 873595419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576219,45.75373,-108.576219,45.75373",
+    "geom:latitude":45.75373,
+    "geom:longitude":-108.576219,
+    "iso:country":"US",
+    "sg:address":"1030 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 1100",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CcHWpfLVyIKLGIL7h7VRA_45.753730_-108.576219@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294914,
+    "wof:geomhash":"f3451baad9a7b62996a06c2a865d47cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873595419
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873595419
+        }
+    ],
+    "wof:id":873595419,
+    "wof:lastmodified":1464294914,
+    "wof:name":"Herberg & Lorash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -108.576219,
+    45.75373,
+    -108.576219,
+    45.75373
+],
+  "geometry": {"coordinates":[-108.57621899999999,45.75373],"type":"Point"}
+}

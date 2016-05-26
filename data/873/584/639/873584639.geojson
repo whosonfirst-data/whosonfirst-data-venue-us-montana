@@ -1,0 +1,73 @@
+{
+  "id": 873584639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.163712,45.963696,-108.163712,45.963696",
+    "geom:latitude":45.963696,
+    "geom:longitude":-108.163712,
+    "iso:country":"US",
+    "sg:address":"1509 Clark Ave",
+    "sg:city":"Worden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 967 2709",
+    "sg:postcode":"59088",
+    "sg:province":"MT",
+    "sg:tags":[
+        "asbestos",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J64MJBoTVDqdMmVe00Qt3_45.963696_-108.163712@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294769,
+    "wof:geomhash":"376aea78283ff6436e9bd6d9309290db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873584639
+        }
+    ],
+    "wof:id":873584639,
+    "wof:lastmodified":1464294769,
+    "wof:name":"Interstate Insulation Asbestos",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asbestos",
+        "removal"
+    ]
+},
+  "bbox": [
+    -108.163712,
+    45.963696,
+    -108.163712,
+    45.963696
+],
+  "geometry": {"coordinates":[-108.163712,45.963696],"type":"Point"}
+}

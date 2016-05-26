@@ -1,0 +1,74 @@
+{
+  "id": 873702849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.197706,48.370633,-114.197706,48.370633",
+    "geom:latitude":48.370633,
+    "geom:longitude":-114.197706,
+    "iso:country":"US",
+    "sg:address":"1211 9th St W",
+    "sg:city":"Columbia Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/columbia-falls/191006-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 892 8885",
+    "sg:postcode":"59912",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MF3WFbzvNOjSPTQMRM0t8_48.370711_-114.198290@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296434,
+    "wof:geomhash":"2775c7389e2f4e9b69c8eb8f52a4602b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873702849
+        }
+    ],
+    "wof:id":873702849,
+    "wof:lastmodified":1464296434,
+    "wof:name":"Burger King",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -114.197706,
+    48.370633,
+    -114.197706,
+    48.370633
+],
+  "geometry": {"coordinates":[-114.197706,48.370633],"type":"Point"}
+}

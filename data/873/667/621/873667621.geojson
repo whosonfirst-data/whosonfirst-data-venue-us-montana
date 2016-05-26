@@ -1,0 +1,74 @@
+{
+  "id": 873667621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.501195,45.783128,-108.501195,45.783128",
+    "geom:latitude":45.783128,
+    "geom:longitude":-108.501195,
+    "iso:country":"US",
+    "sg:address":"2407 Montana Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 255 9699",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "internet"
+    ],
+    "sg:website":"www.imt.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MLGd0xgNOGlYrsvKsmn53_45.783128_-108.501195@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295775,
+    "wof:geomhash":"921dd0fffb7805b97ddccb4f768b519a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525795,
+            "region_id":85688617,
+            "venue_id":873667621
+        }
+    ],
+    "wof:id":873667621,
+    "wof:lastmodified":1464295775,
+    "wof:name":"Internet Montana",
+    "wof:parent_id":420525795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -108.501195,
+    45.783128,
+    -108.501195,
+    45.783128
+],
+  "geometry": {"coordinates":[-108.501195,45.783128],"type":"Point"}
+}

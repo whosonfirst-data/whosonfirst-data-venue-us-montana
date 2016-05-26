@@ -1,0 +1,74 @@
+{
+  "id": 873699115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470821,45.825761,-108.470821,45.825761",
+    "geom:latitude":45.825761,
+    "geom:longitude":-108.470821,
+    "iso:country":"US",
+    "sg:address":"1649 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/211833-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 8669",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hvjIiROL3XsDTtkfkNhTg_45.825761_-108.470821@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296395,
+    "wof:geomhash":"69140d37b880a2ecd0044b8dfd3591dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873699115
+        }
+    ],
+    "wof:id":873699115,
+    "wof:lastmodified":1464296395,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -108.470821,
+    45.825761,
+    -108.470821,
+    45.825761
+],
+  "geometry": {"coordinates":[-108.470821,45.825761],"type":"Point"}
+}

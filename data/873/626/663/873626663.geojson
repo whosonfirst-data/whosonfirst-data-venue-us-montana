@@ -1,0 +1,71 @@
+{
+  "id": 873626663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.030157,46.849711,-114.030157,46.849711",
+    "geom:latitude":46.849711,
+    "geom:longitude":-114.030157,
+    "iso:country":"US",
+    "sg:address":"2002 W Sussex Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 6921",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XVp2ou0bfKVlIFgp3lCs5_46.849711_-114.030157@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295327,
+    "wof:geomhash":"418cbf2e7ec73291e28cae8adcbc072b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873626663
+        }
+    ],
+    "wof:id":873626663,
+    "wof:lastmodified":1464295327,
+    "wof:name":"Montana Transmission Svc Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -114.030157,
+    46.849711,
+    -114.030157,
+    46.849711
+],
+  "geometry": {"coordinates":[-114.030157,46.849711],"type":"Point"}
+}

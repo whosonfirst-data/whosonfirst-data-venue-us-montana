@@ -1,0 +1,71 @@
+{
+  "id": 873609845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.699123,45.820165,-108.699123,45.820165",
+    "geom:latitude":45.820165,
+    "geom:longitude":-108.699123,
+    "iso:country":"US",
+    "sg:address":"7140 Molt Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 2775",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HKvV9MBVOyIhX1Z4R9YvV_45.820165_-108.699123@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295140,
+    "wof:geomhash":"9937366e3060f228a3bc78d000d5b96e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873609845
+        }
+    ],
+    "wof:id":873609845,
+    "wof:lastmodified":1464295140,
+    "wof:name":"Yellowstone Rifle Club",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -108.699123,
+    45.820165,
+    -108.699123,
+    45.820165
+],
+  "geometry": {"coordinates":[-108.699123,45.820165],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873673739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.494663,45.78759,-108.494663,45.78759",
+    "geom:latitude":45.78759,
+    "geom:longitude":-108.494663,
+    "iso:country":"US",
+    "sg:address":"1815 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 3210",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drinking",
+        "casino",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pgj83DlmCn6cGWjNfxgBW_45.787590_-108.494663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295838,
+    "wof:geomhash":"7e0bc765079e58897a7f2345e9255f73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873673739
+        }
+    ],
+    "wof:id":873673739,
+    "wof:lastmodified":1464295838,
+    "wof:name":"Andy's Bar & Lounge",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "casino",
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.494663,
+    45.78759,
+    -108.494663,
+    45.78759
+],
+  "geometry": {"coordinates":[-108.494663,45.78759],"type":"Point"}
+}

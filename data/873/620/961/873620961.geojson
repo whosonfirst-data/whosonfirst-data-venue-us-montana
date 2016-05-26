@@ -1,0 +1,73 @@
+{
+  "id": 873620961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.508201,45.780789,-108.508201,45.780789",
+    "geom:latitude":45.780789,
+    "geom:longitude":-108.508201,
+    "iso:country":"US",
+    "sg:address":"14 N 30th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 7924",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "snowmobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74AnVJSPsbJSsKncVjALTB_45.780789_-108.508201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295260,
+    "wof:geomhash":"d9572b0fb1fbd4036905d6ffba6ddd29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873620961
+        }
+    ],
+    "wof:id":873620961,
+    "wof:lastmodified":1464295260,
+    "wof:name":"Billings Hi Mountain",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snowmobile"
+    ]
+},
+  "bbox": [
+    -108.508201,
+    45.780789,
+    -108.508201,
+    45.780789
+],
+  "geometry": {"coordinates":[-108.508201,45.780789],"type":"Point"}
+}

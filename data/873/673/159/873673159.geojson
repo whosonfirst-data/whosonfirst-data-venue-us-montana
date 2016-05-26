@@ -1,0 +1,69 @@
+{
+  "id": 873673159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.548718,45.753625,-108.548718,45.753625",
+    "geom:latitude":45.753625,
+    "geom:longitude":-108.548718,
+    "iso:country":"US",
+    "sg:address":"5400 Southgate Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 8842",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ncJbSRdn5ETw3xMtQGcPS_45.753625_-108.548718@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295832,
+    "wof:geomhash":"93cc00c9f7be4172995b335191cbf8b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873673159
+        }
+    ],
+    "wof:id":873673159,
+    "wof:lastmodified":1464295832,
+    "wof:name":"Super 8 Motel",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -108.548718,
+    45.753625,
+    -108.548718,
+    45.753625
+],
+  "geometry": {"coordinates":[-108.54871799999999,45.753625],"type":"Point"}
+}

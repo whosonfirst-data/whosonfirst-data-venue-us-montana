@@ -1,0 +1,78 @@
+{
+  "id": 873703923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.310537,48.20288,-114.310537,48.20288",
+    "geom:latitude":48.20288,
+    "geom:longitude":-114.310537,
+    "iso:country":"US",
+    "sg:address":"325 E Idaho St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 6868",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BwmQtkMhHH01l251wRkEr_48.202880_-114.310537@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296444,
+    "wof:geomhash":"d0daf0ae3e850a49eb2c424bf37f642c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873703923
+        }
+    ],
+    "wof:id":873703923,
+    "wof:lastmodified":1464296444,
+    "wof:name":"Mountain Mudd Expresso",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -114.310537,
+    48.20288,
+    -114.310537,
+    48.20288
+],
+  "geometry": {"coordinates":[-114.310537,48.20288],"type":"Point"}
+}

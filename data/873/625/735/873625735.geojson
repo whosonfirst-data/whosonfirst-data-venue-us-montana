@@ -1,0 +1,71 @@
+{
+  "id": 873625735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.514448,45.802934,-108.514448,45.802934",
+    "geom:latitude":45.802934,
+    "geom:longitude":-108.514448,
+    "iso:country":"US",
+    "sg:address":"1299 Rimtop Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 2900",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K5kv5JtzRVSmMbKqFgJdi_45.802934_-108.514448@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295318,
+    "wof:geomhash":"431d0354a89195f62687d0d91e97c52d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873625735
+        }
+    ],
+    "wof:id":873625735,
+    "wof:lastmodified":1464295318,
+    "wof:name":"Fire Management & Aviation",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conservation"
+    ]
+},
+  "bbox": [
+    -108.514448,
+    45.802934,
+    -108.514448,
+    45.802934
+],
+  "geometry": {"coordinates":[-108.514448,45.802934],"type":"Point"}
+}

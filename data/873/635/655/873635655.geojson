@@ -1,0 +1,69 @@
+{
+  "id": 873635655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.503785,45.806451,-108.503785,45.806451",
+    "geom:latitude":45.806451,
+    "geom:longitude":-108.503785,
+    "iso:country":"US",
+    "sg:address":"651 Arrow Trl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 9242",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jNwWEjnILgjWAvaYBelqs_45.806451_-108.503785@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295429,
+    "wof:geomhash":"2b02a701c9bbd91ffe3cf4220ecf8940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873635655
+        }
+    ],
+    "wof:id":873635655,
+    "wof:lastmodified":1464295429,
+    "wof:name":"Empire Cattle Company",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -108.503785,
+    45.806451,
+    -108.503785,
+    45.806451
+],
+  "geometry": {"coordinates":[-108.50378499999999,45.806451],"type":"Point"}
+}

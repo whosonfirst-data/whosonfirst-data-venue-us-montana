@@ -1,0 +1,77 @@
+{
+  "id": 873661929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.402114,48.190017,-114.402114,48.190017",
+    "geom:latitude":48.190017,
+    "geom:longitude":-114.402114,
+    "iso:country":"US",
+    "sg:address":"278 Morning View Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 7980",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "logging",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FPwnC6Mkp66VNC01rRFvH_48.190017_-114.402114@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295718,
+    "wof:geomhash":"e17d4a9a298b4bbee81b2e08cffa04a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873661929
+        }
+    ],
+    "wof:id":873661929,
+    "wof:lastmodified":1464295718,
+    "wof:name":"Bruch Logging",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "logging",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.402114,
+    48.190017,
+    -114.402114,
+    48.190017
+],
+  "geometry": {"coordinates":[-114.402114,48.190017],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873648175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.416718,48.213362,-114.416718,48.213362",
+    "geom:latitude":48.213362,
+    "geom:longitude":-114.416718,
+    "iso:country":"US",
+    "sg:address":"1630 Three Mile Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 9177",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wE1ElMKP05aaT2eC0OUTy_48.213362_-114.416718@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295568,
+    "wof:geomhash":"8ba7da308d33338a9e181ab4ff44308d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873648175
+        }
+    ],
+    "wof:id":873648175,
+    "wof:lastmodified":1464295568,
+    "wof:name":"Brian Strodtbeck Company",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -114.416718,
+    48.213362,
+    -114.416718,
+    48.213362
+],
+  "geometry": {"coordinates":[-114.416718,48.213362],"type":"Point"}
+}

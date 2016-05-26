@@ -1,0 +1,75 @@
+{
+  "id": 873633649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584902,45.770142,-108.584902,45.770142",
+    "geom:latitude":45.770142,
+    "geom:longitude":-108.584902,
+    "iso:country":"US",
+    "sg:address":"78 27th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 2817",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SkIqY6zAglsjsApZPW3aD_45.770142_-108.584902@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295409,
+    "wof:geomhash":"ddd08733e0b367f9c9f6691ef58eea06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873633649
+        }
+    ],
+    "wof:id":873633649,
+    "wof:lastmodified":1464295409,
+    "wof:name":"Central Court Village",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -108.584902,
+    45.770142,
+    -108.584902,
+    45.770142
+],
+  "geometry": {"coordinates":[-108.584902,45.770142],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873664473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.48324,45.978795,-112.48324,45.978795",
+    "geom:latitude":45.978795,
+    "geom:longitude":-112.48324,
+    "iso:country":"US",
+    "sg:address":"3470 Wharton St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 494 2081",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RqMFczabTHBHmT1HE9ng9_45.978795_-112.483240@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295745,
+    "wof:geomhash":"44b1d8a7f0ff376f6b412645bb6c1dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873664473
+        }
+    ],
+    "wof:id":873664473,
+    "wof:lastmodified":1464295745,
+    "wof:name":"Scalabrin Rental",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.48324,
+    45.978795,
+    -112.48324,
+    45.978795
+],
+  "geometry": {"coordinates":[-112.48324,45.978795],"type":"Point"}
+}

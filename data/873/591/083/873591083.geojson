@@ -1,0 +1,73 @@
+{
+  "id": 873591083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.197475,45.456398,-112.197475,45.456398",
+    "geom:latitude":45.456398,
+    "geom:longitude":-112.197475,
+    "iso:country":"US",
+    "sg:address":"116 S Main St",
+    "sg:city":"Sheridan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 842 5460",
+    "sg:postcode":"59749",
+    "sg:province":"MT",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972663,
+        102085179,
+        420525785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qy69VgaHrhLZup00ygQNR_45.456398_-112.197475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294844,
+    "wof:geomhash":"9fe3055dfe78d093dc4a639388cc5141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972663,
+            "neighbourhood_id":420525785,
+            "region_id":85688617,
+            "venue_id":873591083
+        }
+    ],
+    "wof:id":873591083,
+    "wof:lastmodified":1464294844,
+    "wof:name":"Jons Refrigeration",
+    "wof:parent_id":420525785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -112.197475,
+    45.456398,
+    -112.197475,
+    45.456398
+],
+  "geometry": {"coordinates":[-112.197475,45.456398],"type":"Point"}
+}

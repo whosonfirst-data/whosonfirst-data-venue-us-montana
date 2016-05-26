@@ -1,0 +1,75 @@
+{
+  "id": 873607609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.547999,45.77899,-108.547999,45.77899",
+    "geom:latitude":45.77899,
+    "geom:longitude":-108.547999,
+    "iso:country":"US",
+    "sg:address":"1329 Yellowstone Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 665 3628",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sMi5oBVdtsrMG94XmFCcA_45.778990_-108.547999@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295089,
+    "wof:geomhash":"40855c01ec29de1ce37c2b8c92b0f4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873607609
+        }
+    ],
+    "wof:id":873607609,
+    "wof:lastmodified":1464295089,
+    "wof:name":"Center Theater & Video",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -108.547999,
+    45.77899,
+    -108.547999,
+    45.77899
+],
+  "geometry": {"coordinates":[-108.547999,45.77899],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873571471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.598853,45.740798,-108.598853,45.740798",
+    "geom:latitude":45.740798,
+    "geom:longitude":-108.598853,
+    "iso:country":"US",
+    "sg:address":"3205 Hesper Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9655",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "roofing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eeNZQcSH1WbQgGR8Hs1Tn_45.740798_-108.598853@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294625,
+    "wof:geomhash":"500f2a3eca809e6706a44323904a6d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873571471
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873571471
+        }
+    ],
+    "wof:id":873571471,
+    "wof:lastmodified":1464294625,
+    "wof:name":"Bridger Steel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing"
+    ]
+},
+  "bbox": [
+    -108.598853,
+    45.740798,
+    -108.598853,
+    45.740798
+],
+  "geometry": {"coordinates":[-108.59885300000001,45.740798],"type":"Point"}
+}

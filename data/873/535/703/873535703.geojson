@@ -1,0 +1,71 @@
+{
+  "id": 873535703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.992931,46.87395,-113.992931,46.87395",
+    "geom:latitude":46.87395,
+    "geom:longitude":-113.992931,
+    "iso:country":"US",
+    "sg:address":"415 N Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 239 4990",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YdTuPsOrJfFACfsI5o9Ld_46.873950_-113.992931@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294212,
+    "wof:geomhash":"69867a5a216c258aaa0ceb7dc2ce8865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873535703
+        }
+    ],
+    "wof:id":873535703,
+    "wof:lastmodified":1464294212,
+    "wof:name":"Garden City Mortgage LLC",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -113.992931,
+    46.87395,
+    -113.992931,
+    46.87395
+],
+  "geometry": {"coordinates":[-113.992931,46.87395],"type":"Point"}
+}

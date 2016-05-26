@@ -1,0 +1,68 @@
+{
+  "id": 873582897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.500137,45.787289,-108.500137,45.787289",
+    "geom:latitude":45.787289,
+    "geom:longitude":-108.500137,
+    "iso:country":"US",
+    "sg:address":"204 N 22nd St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 5599",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6llh0TYbIQZU62mUvOalu8_45.787289_-108.500137@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294751,
+    "wof:geomhash":"b288d04f1faeb4e884def7a7c9068edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525795,
+            "region_id":85688617,
+            "venue_id":873582897
+        }
+    ],
+    "wof:id":873582897,
+    "wof:lastmodified":1464294751,
+    "wof:name":"Hog Wild Cafe",
+    "wof:parent_id":420525795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.500137,
+    45.787289,
+    -108.500137,
+    45.787289
+],
+  "geometry": {"coordinates":[-108.500137,45.787289],"type":"Point"}
+}

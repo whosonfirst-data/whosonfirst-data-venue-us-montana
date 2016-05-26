@@ -1,0 +1,73 @@
+{
+  "id": 873533213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.042003,46.837412,-114.042003,46.837412",
+    "geom:latitude":46.837412,
+    "geom:longitude":-114.042003,
+    "iso:country":"US",
+    "sg:address":"3621 Old US Hwy 93",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 5563",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y7TPYxop6WTNXkhJMtMzm_46.837412_-114.042003@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294160,
+    "wof:geomhash":"141bd14945f5394d1232d84351b640bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873533213
+        }
+    ],
+    "wof:id":873533213,
+    "wof:lastmodified":1464294160,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -114.042003,
+    46.837412,
+    -114.042003,
+    46.837412
+],
+  "geometry": {"coordinates":[-114.04200299999999,46.837412],"type":"Point"}
+}

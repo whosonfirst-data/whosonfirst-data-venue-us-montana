@@ -1,0 +1,71 @@
+{
+  "id": 873546829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.324462,48.19705,-114.324462,48.19705",
+    "geom:latitude":48.19705,
+    "geom:longitude":-114.324462,
+    "iso:country":"US",
+    "sg:address":"735 W Center St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 3311",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VOwh5EYw97Zvk7U6fj6Tm_48.197050_-114.324462@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294337,
+    "wof:geomhash":"a59de2d57b063818ebae03925d212c92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873546829
+        }
+    ],
+    "wof:id":873546829,
+    "wof:lastmodified":1464294337,
+    "wof:name":"Auto Electric Rebuilders",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -114.324462,
+    48.19705,
+    -114.324462,
+    48.19705
+],
+  "geometry": {"coordinates":[-114.324462,48.19705],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873555947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.157931,46.920629,-114.157931,46.920629",
+    "geom:latitude":46.920629,
+    "geom:longitude":-114.157931,
+    "iso:country":"US",
+    "sg:address":"11375 Mullan Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 6863",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hT7x61voaWaYnh3fz5mgt_46.920629_-114.157931@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294448,
+    "wof:geomhash":"ef1a2b7d55ee6252540ac6860d016afa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873555947
+        }
+    ],
+    "wof:id":873555947,
+    "wof:lastmodified":1464294448,
+    "wof:name":"Marvin's Body Shop",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -114.157931,
+    46.920629,
+    -114.157931,
+    46.920629
+],
+  "geometry": {"coordinates":[-114.157931,46.920629],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 873639183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.581436,45.7505,-108.581436,45.7505",
+    "geom:latitude":45.7505,
+    "geom:longitude":-108.581436,
+    "iso:country":"US",
+    "sg:address":"2596 Enterprise Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 7878",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "restoration",
+        "disaster"
+    ],
+    "sg:website":"www.crystalcln.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jCRcymapNhxTO6uBgCAwK_45.750500_-108.581436@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295465,
+    "wof:geomhash":"13295ae8ec397594c87ee03e3307f59e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873639183
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873639183
+        }
+    ],
+    "wof:id":873639183,
+    "wof:lastmodified":1464295465,
+    "wof:name":"Crystal Clean Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "disaster"
+    ]
+},
+  "bbox": [
+    -108.581436,
+    45.7505,
+    -108.581436,
+    45.7505
+],
+  "geometry": {"coordinates":[-108.581436,45.7505],"type":"Point"}
+}

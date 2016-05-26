@@ -1,0 +1,71 @@
+{
+  "id": 873610091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.079936,46.765159,-114.079936,46.765159",
+    "geom:latitude":46.765159,
+    "geom:longitude":-114.079936,
+    "iso:country":"US",
+    "sg:address":"100 Glacier Dr",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 7838",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GGeeJb4NBkcaJ1Nm7ab3c_46.765159_-114.079936@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295144,
+    "wof:geomhash":"05726a8db7b8a1e52cb1b27a8fb6e000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873610091
+        }
+    ],
+    "wof:id":873610091,
+    "wof:lastmodified":1464295144,
+    "wof:name":"Lolo Looks",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -114.079936,
+    46.765159,
+    -114.079936,
+    46.765159
+],
+  "geometry": {"coordinates":[-114.079936,46.765159],"type":"Point"}
+}

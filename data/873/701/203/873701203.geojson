@@ -1,0 +1,72 @@
+{
+  "id": 873701203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.018853,46.855718,-114.018853,46.855718",
+    "geom:latitude":46.855718,
+    "geom:longitude":-114.018853,
+    "iso:country":"US",
+    "sg:address":"1605 S Russell St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/157618-taco-maker/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 541 6718",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09MvGrqAPgarQ7nLGIQP4Q_46.855718_-114.018853@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296417,
+    "wof:geomhash":"00025736e3f4c83a334cf331df7f1117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873701203
+        }
+    ],
+    "wof:id":873701203,
+    "wof:lastmodified":1464296417,
+    "wof:name":"Taco Maker",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -114.018853,
+    46.855718,
+    -114.018853,
+    46.855718
+],
+  "geometry": {"coordinates":[-114.01885299999999,46.855718],"type":"Point"}
+}

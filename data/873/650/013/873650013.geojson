@@ -1,0 +1,73 @@
+{
+  "id": 873650013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.315433,48.202156,-114.315433,48.202156",
+    "geom:latitude":48.202156,
+    "geom:longitude":-114.315433,
+    "iso:country":"US",
+    "sg:address":"35 W Idaho St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 3100",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CZA1PM1DeXNVZ5CiLjHoT_48.202156_-114.315433@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295586,
+    "wof:geomhash":"be3550f2411f895f65eda5a6f59c2c2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873650013
+        }
+    ],
+    "wof:id":873650013,
+    "wof:lastmodified":1464295586,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -114.315433,
+    48.202156,
+    -114.315433,
+    48.202156
+],
+  "geometry": {"coordinates":[-114.315433,48.202156],"type":"Point"}
+}

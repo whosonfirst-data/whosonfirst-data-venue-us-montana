@@ -1,0 +1,96 @@
+{
+  "id": 873702961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.506281,45.716243,-108.506281,45.716243",
+    "geom:latitude":45.716243,
+    "geom:longitude":-108.506281,
+    "iso:country":"US",
+    "sg:address":"3429 Briarwood Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 2966",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "supply",
+        "club",
+        "instruction",
+        "private",
+        "equipment",
+        "courses-private",
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rt05cCdIS3OxvJYHpHObW_45.716243_-108.506281@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296435,
+    "wof:geomhash":"17f05e22bd078858dd9f1d0158a53953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873702961
+        }
+    ],
+    "wof:id":873702961,
+    "wof:lastmodified":1464296435,
+    "wof:name":"Briarwood Golf And Country , T",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "club",
+        "instruction",
+        "private",
+        "equipment",
+        "courses-private",
+        "course"
+    ]
+},
+  "bbox": [
+    -108.506281,
+    45.716243,
+    -108.506281,
+    45.716243
+],
+  "geometry": {"coordinates":[-108.506281,45.716243],"type":"Point"}
+}

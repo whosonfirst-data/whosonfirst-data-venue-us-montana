@@ -1,0 +1,71 @@
+{
+  "id": 873558175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.569843,45.757872,-108.569843,45.757872",
+    "geom:latitude":45.757872,
+    "geom:longitude":-108.569843,
+    "iso:country":"US",
+    "sg:address":"2121 Rosebud Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 7634",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_649b7ev50BcEjHwqUes1qq_45.757872_-108.569843@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294473,
+    "wof:geomhash":"9ce1ce8a6bd9314905360d08481232ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873558175
+        }
+    ],
+    "wof:id":873558175,
+    "wof:lastmodified":1464294473,
+    "wof:name":"Human & Community Svc Dept",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -108.569843,
+    45.757872,
+    -108.569843,
+    45.757872
+],
+  "geometry": {"coordinates":[-108.56984300000001,45.757872],"type":"Point"}
+}

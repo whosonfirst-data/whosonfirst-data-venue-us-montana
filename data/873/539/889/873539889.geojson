@@ -1,0 +1,85 @@
+{
+  "id": 873539889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.611476,45.75622,-108.611476,45.75622",
+    "geom:latitude":45.75622,
+    "geom:longitude":-108.611476,
+    "iso:country":"US",
+    "sg:address":"3614 Decathlon Pkwy",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 4777",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aWufED7MeTBwMJY0X6H6j_45.756220_-108.611476@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294258,
+    "wof:geomhash":"61c6a0e5efd7202d11889564e8c17ee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873539889
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873539889
+        }
+    ],
+    "wof:id":873539889,
+    "wof:lastmodified":1464294258,
+    "wof:name":"Joanna's Home Enhancement Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -108.611476,
+    45.75622,
+    -108.611476,
+    45.75622
+],
+  "geometry": {"coordinates":[-108.611476,45.75622],"type":"Point"}
+}

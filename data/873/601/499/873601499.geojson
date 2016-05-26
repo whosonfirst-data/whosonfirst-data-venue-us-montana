@@ -1,0 +1,71 @@
+{
+  "id": 873601499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.499797,45.790646,-108.499797,45.790646",
+    "geom:latitude":45.790646,
+    "geom:longitude":-108.499797,
+    "iso:country":"US",
+    "sg:address":"504 N 20th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 2995",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "restoration",
+        "preservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TEb7BZDpMmkmjWSMdQro7_45.790646_-108.499797@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295003,
+    "wof:geomhash":"a828f2a6b56492277f1ff8cf0be9b9cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873601499
+        }
+    ],
+    "wof:id":873601499,
+    "wof:lastmodified":1464295003,
+    "wof:name":"Grafix",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "preservation"
+    ]
+},
+  "bbox": [
+    -108.499797,
+    45.790646,
+    -108.499797,
+    45.790646
+],
+  "geometry": {"coordinates":[-108.499797,45.790646],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873533225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.540396,45.790805,-108.540396,45.790805",
+    "geom:latitude":45.790805,
+    "geom:longitude":-108.540396,
+    "iso:country":"US",
+    "sg:address":"900 Delphinium Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 0300",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OWGfuuqCpNWZSLWdfYpWQ_45.790805_-108.540396@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294160,
+    "wof:geomhash":"46e1ec00994ddcc537a456601e18f3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873533225
+        }
+    ],
+    "wof:id":873533225,
+    "wof:lastmodified":1464294160,
+    "wof:name":"Clean Organic",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -108.540396,
+    45.790805,
+    -108.540396,
+    45.790805
+],
+  "geometry": {"coordinates":[-108.540396,45.790805],"type":"Point"}
+}

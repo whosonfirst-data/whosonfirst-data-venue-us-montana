@@ -1,0 +1,79 @@
+{
+  "id": 873592979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.508958,45.78175,-108.508958,45.78175",
+    "geom:latitude":45.78175,
+    "geom:longitude":-108.508958,
+    "iso:country":"US",
+    "sg:address":"109 N 30th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8431",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drinking",
+        "bowling",
+        "sporting",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EGAHibaH9CiMPeVwqWs8L_45.781750_-108.508958@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294868,
+    "wof:geomhash":"be5d6f645047f50c397d0270788add29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873592979
+        }
+    ],
+    "wof:id":873592979,
+    "wof:lastmodified":1464294868,
+    "wof:name":"Center Lanes",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "bowling",
+        "sporting",
+        "center"
+    ]
+},
+  "bbox": [
+    -108.508958,
+    45.78175,
+    -108.508958,
+    45.78175
+],
+  "geometry": {"coordinates":[-108.50895800000001,45.78175],"type":"Point"}
+}

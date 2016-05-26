@@ -1,0 +1,77 @@
+{
+  "id": 873553909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.534013,46.013793,-112.534013,46.013793",
+    "geom:latitude":46.013793,
+    "geom:longitude":-112.534013,
+    "iso:country":"US",
+    "sg:address":"24 E Broadway St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 7272",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J43i8VoEmrB2hxYkFmaLZ_46.013793_-112.534013@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294421,
+    "wof:geomhash":"a6dabdc917f21134ecc2c9aa99afb003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873553909
+        }
+    ],
+    "wof:id":873553909,
+    "wof:lastmodified":1464294421,
+    "wof:name":"Advanced Dermatology Of Butte",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -112.534013,
+    46.013793,
+    -112.534013,
+    46.013793
+],
+  "geometry": {"coordinates":[-112.534013,46.013793],"type":"Point"}
+}

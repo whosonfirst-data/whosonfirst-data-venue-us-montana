@@ -1,0 +1,74 @@
+{
+  "id": 873702735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.039591,46.892195,-114.039591,46.892195",
+    "geom:latitude":46.892195,
+    "geom:longitude":-114.039591,
+    "iso:country":"US",
+    "sg:address":"2805 N Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/92871-fuddruckers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 4577",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39ilKTVDXER9lXm6hAkBTH_46.891854_-114.039283@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296433,
+    "wof:geomhash":"118b5a16507a4d584c9b67b81baa6f7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873702735
+        }
+    ],
+    "wof:id":873702735,
+    "wof:lastmodified":1464296433,
+    "wof:name":"Fuddruckers",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -114.039591,
+    46.892195,
+    -114.039591,
+    46.892195
+],
+  "geometry": {"coordinates":[-114.039591,46.892195],"type":"Point"}
+}

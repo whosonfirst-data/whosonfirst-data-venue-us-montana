@@ -1,0 +1,71 @@
+{
+  "id": 873668551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.559665,45.736313,-108.559665,45.736313",
+    "geom:latitude":45.736313,
+    "geom:longitude":-108.559665,
+    "iso:country":"US",
+    "sg:address":"5846 Story Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 4373",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FFdrfg51q8ZIwGECC3mMV_45.736313_-108.559665@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295781,
+    "wof:geomhash":"ae9d342efd5418289573a8a1883d0e09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873668551
+        }
+    ],
+    "wof:id":873668551,
+    "wof:lastmodified":1464295781,
+    "wof:name":"King West Mini-Storage",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -108.559665,
+    45.736313,
+    -108.559665,
+    45.736313
+],
+  "geometry": {"coordinates":[-108.559665,45.736313],"type":"Point"}
+}

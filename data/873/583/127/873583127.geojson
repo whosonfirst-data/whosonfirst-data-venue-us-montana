@@ -1,0 +1,71 @@
+{
+  "id": 873583127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.56919,45.783983,-108.56919,45.783983",
+    "geom:latitude":45.783983,
+    "geom:longitude":-108.56919,
+    "iso:country":"US",
+    "sg:address":"2010 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 1944",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gf0OnZ74pzl9iJlJqC48N_45.783983_-108.569190@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294753,
+    "wof:geomhash":"c086b11762a560f946aae44e6883ea99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873583127
+        }
+    ],
+    "wof:id":873583127,
+    "wof:lastmodified":1464294753,
+    "wof:name":"Money Lenders",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -108.56919,
+    45.783983,
+    -108.56919,
+    45.783983
+],
+  "geometry": {"coordinates":[-108.56919000000001,45.783983],"type":"Point"}
+}

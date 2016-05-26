@@ -1,0 +1,77 @@
+{
+  "id": 873634729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.51373,45.784539,-108.51373,45.784539",
+    "geom:latitude":45.784539,
+    "geom:longitude":-108.51373,
+    "iso:country":"US",
+    "sg:address":"404 N 31st St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 247 8741",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YS9eQ5kwaUoxwv72zZxNc_45.784539_-108.513730@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295420,
+    "wof:geomhash":"1e53acd277d01509b712021c4429fd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876243,
+            "region_id":85688617,
+            "venue_id":873634729
+        }
+    ],
+    "wof:id":873634729,
+    "wof:lastmodified":1464295420,
+    "wof:name":"Black Hawk",
+    "wof:parent_id":85876243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -108.51373,
+    45.784539,
+    -108.51373,
+    45.784539
+],
+  "geometry": {"coordinates":[-108.51373,45.784539],"type":"Point"}
+}

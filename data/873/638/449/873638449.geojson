@@ -1,0 +1,71 @@
+{
+  "id": 873638449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.034274,46.857299,-114.034274,46.857299",
+    "geom:latitude":46.857299,
+    "geom:longitude":-114.034274,
+    "iso:country":"US",
+    "sg:address":"1405 Eaton St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 9093",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_115fIKLpVyWbRLE7ezAHN8_46.857299_-114.034274@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295459,
+    "wof:geomhash":"4c1632f60c1b2054bb35afcd383d2a55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873638449
+        }
+    ],
+    "wof:id":873638449,
+    "wof:lastmodified":1464295459,
+    "wof:name":"Rainbow International",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet"
+    ]
+},
+  "bbox": [
+    -114.034274,
+    46.857299,
+    -114.034274,
+    46.857299
+],
+  "geometry": {"coordinates":[-114.034274,46.857299],"type":"Point"}
+}

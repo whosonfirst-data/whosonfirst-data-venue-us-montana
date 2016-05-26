@@ -1,0 +1,73 @@
+{
+  "id": 873553331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.060053,45.673369,-111.060053,45.673369",
+    "geom:latitude":45.673369,
+    "geom:longitude":-111.060053,
+    "iso:country":"US",
+    "sg:address":"615 S 16th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 582 2000",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        420525543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31CmcLnfke63n61RncPiTj_45.673369_-111.060053@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294415,
+    "wof:geomhash":"f358dcb9ef0740948933128614bad456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":420525543,
+            "region_id":85688617,
+            "venue_id":873553331
+        }
+    ],
+    "wof:id":873553331,
+    "wof:lastmodified":1464294415,
+    "wof:name":"Bozeman Police Department",
+    "wof:parent_id":420525543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept"
+    ]
+},
+  "bbox": [
+    -111.060053,
+    45.673369,
+    -111.060053,
+    45.673369
+],
+  "geometry": {"coordinates":[-111.060053,45.673369],"type":"Point"}
+}

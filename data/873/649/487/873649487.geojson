@@ -1,0 +1,71 @@
+{
+  "id": 873649487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.015361,46.872975,-114.015361,46.872975",
+    "geom:latitude":46.872975,
+    "geom:longitude":-114.015361,
+    "iso:country":"US",
+    "sg:address":"1228 Montana St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 4730",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qmYzpt2x3a1LGJc13BKA0_46.872975_-114.015361@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295581,
+    "wof:geomhash":"02907c94d8e7fc35257d9f5c6fc100bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873649487
+        }
+    ],
+    "wof:id":873649487,
+    "wof:lastmodified":1464295581,
+    "wof:name":"Guss Roofing",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.015361,
+    46.872975,
+    -114.015361,
+    46.872975
+],
+  "geometry": {"coordinates":[-114.015361,46.872975],"type":"Point"}
+}

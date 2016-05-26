@@ -1,0 +1,77 @@
+{
+  "id": 873608389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.699231,45.711736,-108.699231,45.711736",
+    "geom:latitude":45.711736,
+    "geom:longitude":-108.699231,
+    "iso:country":"US",
+    "sg:address":"6807 Danford Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4356",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "farm",
+        "camp",
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Lon0Svz91P8aDE31beboh_45.711736_-108.699231@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295112,
+    "wof:geomhash":"f2efaa3e006bda13586fdd7d986f883e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873608389
+        }
+    ],
+    "wof:id":873608389,
+    "wof:lastmodified":1464295112,
+    "wof:name":"Frank Kramer",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "camp",
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -108.699231,
+    45.711736,
+    -108.699231,
+    45.711736
+],
+  "geometry": {"coordinates":[-108.699231,45.711736],"type":"Point"}
+}

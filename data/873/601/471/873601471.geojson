@@ -1,0 +1,65 @@
+{
+  "id": 873601471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.516177,45.790867,-108.516177,45.790867",
+    "geom:latitude":45.790867,
+    "geom:longitude":-108.516177,
+    "iso:country":"US",
+    "sg:address":"1041 N 29th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2212",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:website":"www.northernrockiescancer.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RM3ut4Y73ecovyNF91wEC_45.790867_-108.516177@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295003,
+    "wof:geomhash":"3f4eb557e36b48cb0765fb7edbc32056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873601471
+        }
+    ],
+    "wof:id":873601471,
+    "wof:lastmodified":1464295003,
+    "wof:name":"Cancer Treatment Ctr",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.516177,
+    45.790867,
+    -108.516177,
+    45.790867
+],
+  "geometry": {"coordinates":[-108.516177,45.790867],"type":"Point"}
+}

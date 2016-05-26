@@ -1,0 +1,73 @@
+{
+  "id": 873572811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.033027,45.679223,-111.033027,45.679223",
+    "geom:latitude":45.679223,
+    "geom:longitude":-111.033027,
+    "iso:country":"US",
+    "sg:address":"234 E Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 585 8607",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "parlor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BCBaHV3XdninoSlb5kwRN_45.679223_-111.033027@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294639,
+    "wof:geomhash":"d924ba703130b91d4ccc3b180c7bc377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":873572811
+        }
+    ],
+    "wof:id":873572811,
+    "wof:lastmodified":1464294639,
+    "wof:name":"Carters Cobblers Shop Inc",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor"
+    ]
+},
+  "bbox": [
+    -111.033027,
+    45.679223,
+    -111.033027,
+    45.679223
+],
+  "geometry": {"coordinates":[-111.033027,45.679223],"type":"Point"}
+}

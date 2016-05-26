@@ -1,0 +1,71 @@
+{
+  "id": 873647259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.048111,46.833935,-114.048111,46.833935",
+    "geom:latitude":46.833935,
+    "geom:longitude":-114.048111,
+    "iso:country":"US",
+    "sg:address":"4041 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 4020",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H7QNApLcwBJLqmdlaZyhn_46.833935_-114.048111@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295559,
+    "wof:geomhash":"3f264b2344c2d9af2dcb4e044af6a98a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873647259
+        }
+    ],
+    "wof:id":873647259,
+    "wof:lastmodified":1464295559,
+    "wof:name":"Applebys",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "family"
+    ]
+},
+  "bbox": [
+    -114.048111,
+    46.833935,
+    -114.048111,
+    46.833935
+],
+  "geometry": {"coordinates":[-114.04811100000001,46.833935],"type":"Point"}
+}

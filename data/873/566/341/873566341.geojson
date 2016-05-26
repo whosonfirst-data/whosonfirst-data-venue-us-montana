@@ -1,0 +1,71 @@
+{
+  "id": 873566341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.4809,45.813771,-108.4809,45.813771",
+    "geom:latitude":45.813771,
+    "geom:longitude":-108.4809,
+    "iso:country":"US",
+    "sg:address":"846 Shamrock Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2964",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QL0079KXjbCabQzacBWsn_45.813771_-108.480900@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294569,
+    "wof:geomhash":"4e55619f092bb203655d571baa09d4f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873566341
+        }
+    ],
+    "wof:id":873566341,
+    "wof:lastmodified":1464294569,
+    "wof:name":"440 Apartments",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -108.4809,
+    45.813771,
+    -108.4809,
+    45.813771
+],
+  "geometry": {"coordinates":[-108.48090000000001,45.813771],"type":"Point"}
+}

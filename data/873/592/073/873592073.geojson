@@ -1,0 +1,71 @@
+{
+  "id": 873592073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.033385,46.828281,-114.033385,46.828281",
+    "geom:latitude":46.828281,
+    "geom:longitude":-114.033385,
+    "iso:country":"US",
+    "sg:address":"2231 Hillside Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 6795",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aLZgfmMSjAufDz0jItyO7_46.828281_-114.033385@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294860,
+    "wof:geomhash":"ef457f4ca9d51bf80ef18e262ad7d719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873592073
+        }
+    ],
+    "wof:id":873592073,
+    "wof:lastmodified":1464294860,
+    "wof:name":"Wendys Daycare",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -114.033385,
+    46.828281,
+    -114.033385,
+    46.828281
+],
+  "geometry": {"coordinates":[-114.033385,46.828281],"type":"Point"}
+}

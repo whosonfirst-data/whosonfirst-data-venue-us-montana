@@ -1,0 +1,69 @@
+{
+  "id": 873600449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.476155,45.80792,-108.476155,45.80792",
+    "geom:latitude":45.80792,
+    "geom:longitude":-108.476155,
+    "iso:country":"US",
+    "sg:address":"430 Lake Elmo Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 9927",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n7Md0PFvZPKwFmMLgFhiu_45.807920_-108.476155@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294992,
+    "wof:geomhash":"9df6cd43daecf8aa862c8da282419590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873600449
+        }
+    ],
+    "wof:id":873600449,
+    "wof:lastmodified":1464294992,
+    "wof:name":"Heights Eyecare",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.476155,
+    45.80792,
+    -108.476155,
+    45.80792
+],
+  "geometry": {"coordinates":[-108.47615500000001,45.80792],"type":"Point"}
+}

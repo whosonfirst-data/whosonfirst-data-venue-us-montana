@@ -1,0 +1,71 @@
+{
+  "id": 873537585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.073232,48.061955,-114.073232,48.061955",
+    "geom:latitude":48.061955,
+    "geom:longitude":-114.073232,
+    "iso:country":"US",
+    "sg:address":"451 Electric Ave",
+    "sg:city":"Bigfork",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 837 9914",
+    "sg:postcode":"59911",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KG1BLkd3bHmOB0EshFQal_48.061955_-114.073232@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294234,
+    "wof:geomhash":"596922e083a37492913c829d0c189e33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873537585
+        }
+    ],
+    "wof:id":873537585,
+    "wof:lastmodified":1464294234,
+    "wof:name":"Garden Bar",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -114.073232,
+    48.061955,
+    -114.073232,
+    48.061955
+],
+  "geometry": {"coordinates":[-114.073232,48.061955],"type":"Point"}
+}

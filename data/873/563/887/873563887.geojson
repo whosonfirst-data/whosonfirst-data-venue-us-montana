@@ -1,0 +1,77 @@
+{
+  "id": 873563887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584063,45.745212,-108.584063,45.745212",
+    "geom:latitude":45.745212,
+    "geom:longitude":-108.584063,
+    "iso:country":"US",
+    "sg:address":"2701 Gabel Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 1934",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "casino"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5REF12jBNSbzlTp3ZcKNN7_45.745212_-108.584063@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294542,
+    "wof:geomhash":"28ea26f2dc49de7fe7730d18a2815a20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873563887
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873563887
+        }
+    ],
+    "wof:id":873563887,
+    "wof:lastmodified":1464294542,
+    "wof:name":"Caribbean Nites",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casino"
+    ]
+},
+  "bbox": [
+    -108.584063,
+    45.745212,
+    -108.584063,
+    45.745212
+],
+  "geometry": {"coordinates":[-108.584063,45.745212],"type":"Point"}
+}

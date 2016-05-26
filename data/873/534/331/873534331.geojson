@@ -1,0 +1,69 @@
+{
+  "id": 873534331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.471079,45.812808,-108.471079,45.812808",
+    "geom:latitude":45.812808,
+    "geom:longitude":-108.471079,
+    "iso:country":"US",
+    "sg:address":"730 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 6555",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gTzxN5JJS2jlELogJKF9w_45.812808_-108.471079@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294195,
+    "wof:geomhash":"dcee72de8b5c8e3946ac9aeeb2045fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873534331
+        }
+    ],
+    "wof:id":873534331,
+    "wof:lastmodified":1464294195,
+    "wof:name":"ServiceMaster",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -108.471079,
+    45.812808,
+    -108.471079,
+    45.812808
+],
+  "geometry": {"coordinates":[-108.471079,45.812808],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873652709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.099752,44.661504,-111.099752,44.661504",
+    "geom:latitude":44.661504,
+    "geom:longitude":-111.099752,
+    "iso:country":"US",
+    "sg:address":"117 Canyon St",
+    "sg:city":"West Yellowstone",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 646 9644",
+    "sg:postcode":"59758",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "sg:website":"www.madisonriveroutfitters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891741,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CW7shorWEvjVYIbCW6mxK_44.661504_-111.099752@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295621,
+    "wof:geomhash":"e288b4d928e2f5233de46a8272dcdad6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "neighbourhood_id":85891741,
+            "region_id":85688617,
+            "venue_id":873652709
+        }
+    ],
+    "wof:id":873652709,
+    "wof:lastmodified":1464295621,
+    "wof:name":"Madison River Outfitters",
+    "wof:parent_id":85891741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -111.099752,
+    44.661504,
+    -111.099752,
+    44.661504
+],
+  "geometry": {"coordinates":[-111.099752,44.661504],"type":"Point"}
+}

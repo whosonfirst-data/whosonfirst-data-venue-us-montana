@@ -1,0 +1,71 @@
+{
+  "id": 873663565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.483112,45.769841,-108.483112,45.769841",
+    "geom:latitude":45.769841,
+    "geom:longitude":-108.483112,
+    "iso:country":"US",
+    "sg:address":"2251 Belknap Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 8318",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15gaHdV7dBv6bSed4VbFZG_45.769841_-108.483112@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295736,
+    "wof:geomhash":"a1d0aa798ff0c1caf5d9f6e59ed996d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873663565
+        }
+    ],
+    "wof:id":873663565,
+    "wof:lastmodified":1464295736,
+    "wof:name":"Public Utilities-Water Turn On",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -108.483112,
+    45.769841,
+    -108.483112,
+    45.769841
+],
+  "geometry": {"coordinates":[-108.48311200000001,45.769841],"type":"Point"}
+}

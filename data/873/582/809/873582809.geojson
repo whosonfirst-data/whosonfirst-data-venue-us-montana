@@ -1,0 +1,77 @@
+{
+  "id": 873582809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.055266,46.841952,-114.055266,46.841952",
+    "geom:latitude":46.841952,
+    "geom:longitude":-114.055266,
+    "iso:country":"US",
+    "sg:address":"3200 Fort Missoula Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 4416",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "course",
+        "general",
+        "public",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mC3lQRXrzOSpogy7kBZOf_46.841952_-114.055266@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294750,
+    "wof:geomhash":"a60f5734b6b8c8a718629d4fb5e127b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873582809
+        }
+    ],
+    "wof:id":873582809,
+    "wof:lastmodified":1464294750,
+    "wof:name":"Golf Course",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "general",
+        "public",
+        "government"
+    ]
+},
+  "bbox": [
+    -114.055266,
+    46.841952,
+    -114.055266,
+    46.841952
+],
+  "geometry": {"coordinates":[-114.055266,46.841952],"type":"Point"}
+}

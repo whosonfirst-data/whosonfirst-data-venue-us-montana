@@ -1,0 +1,74 @@
+{
+  "id": 873700593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.033838,45.679303,-111.033838,45.679303",
+    "geom:latitude":45.679303,
+    "geom:longitude":-111.033838,
+    "iso:country":"US",
+    "sg:address":"242 E Main St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/bozeman/237178-homepage-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 582 9388",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wYDyTZwvSmj2sn7xKTzw2_45.679303_-111.033838@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296412,
+    "wof:geomhash":"efecb70b269e86f68a4d5fb304124353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876469,
+            "region_id":85688617,
+            "venue_id":873700593
+        }
+    ],
+    "wof:id":873700593,
+    "wof:lastmodified":1464296412,
+    "wof:name":"Homepage Cafe",
+    "wof:parent_id":85876469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.033838,
+    45.679303,
+    -111.033838,
+    45.679303
+],
+  "geometry": {"coordinates":[-111.033838,45.679303],"type":"Point"}
+}

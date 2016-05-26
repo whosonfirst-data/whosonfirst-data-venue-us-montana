@@ -1,0 +1,73 @@
+{
+  "id": 873623185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.183364,47.811913,-112.183364,47.811913",
+    "geom:latitude":47.811913,
+    "geom:longitude":-112.183364,
+    "iso:country":"US",
+    "sg:address":"32 N Main Ave",
+    "sg:city":"Choteau",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 466 2770",
+    "sg:postcode":"59422",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972855,
+        102085149,
+        85810939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JiZ1boiFdOSHdVgx5Z9Iu_47.811913_-112.183364@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295283,
+    "wof:geomhash":"5e8cfebbe284fa737281365a6d0c0f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085149,
+            "locality_id":85972855,
+            "neighbourhood_id":85810939,
+            "region_id":85688617,
+            "venue_id":873623185
+        }
+    ],
+    "wof:id":873623185,
+    "wof:lastmodified":1464295283,
+    "wof:name":"Lils Beauty Shop",
+    "wof:parent_id":85810939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -112.183364,
+    47.811913,
+    -112.183364,
+    47.811913
+],
+  "geometry": {"coordinates":[-112.183364,47.811913],"type":"Point"}
+}

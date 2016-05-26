@@ -1,0 +1,75 @@
+{
+  "id": 873643159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.443715,45.805124,-108.443715,45.805124",
+    "geom:latitude":45.805124,
+    "geom:longitude":-108.443715,
+    "iso:country":"US",
+    "sg:address":"1680 Lockwood Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 0087",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "archery",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t9HtysKz5qsQl21WI0czw_45.805124_-108.443715@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295512,
+    "wof:geomhash":"8892281fb643799501a8659fb63e6999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873643159
+        }
+    ],
+    "wof:id":873643159,
+    "wof:lastmodified":1464295512,
+    "wof:name":"Superior Archery",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "archery",
+        "supply"
+    ]
+},
+  "bbox": [
+    -108.443715,
+    45.805124,
+    -108.443715,
+    45.805124
+],
+  "geometry": {"coordinates":[-108.443715,45.805124],"type":"Point"}
+}

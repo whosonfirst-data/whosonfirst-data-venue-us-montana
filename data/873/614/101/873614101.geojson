@@ -1,0 +1,71 @@
+{
+  "id": 873614101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.029053,46.843462,-114.029053,46.843462",
+    "geom:latitude":46.843462,
+    "geom:longitude":-114.029053,
+    "iso:country":"US",
+    "sg:address":"3025 Paxson St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 8833",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hFXCn0xGNh71kl9ggtYj1_46.843462_-114.029053@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295186,
+    "wof:geomhash":"5122f7d1d815509d69fa984f853316ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873614101
+        }
+    ],
+    "wof:id":873614101,
+    "wof:lastmodified":1464295186,
+    "wof:name":"Ashley Furniture Home Store",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household"
+    ]
+},
+  "bbox": [
+    -114.029053,
+    46.843462,
+    -114.029053,
+    46.843462
+],
+  "geometry": {"coordinates":[-114.029053,46.843462],"type":"Point"}
+}

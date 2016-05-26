@@ -1,0 +1,73 @@
+{
+  "id": 873553723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.475198,45.829922,-108.475198,45.829922",
+    "geom:latitude":45.829922,
+    "geom:longitude":-108.475198,
+    "iso:country":"US",
+    "sg:address":"1716 Augsburg Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 8892",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tcIv9iSQBMzPzj6cXUpNO_45.829922_-108.475198@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294419,
+    "wof:geomhash":"04a1bc0395c909dd527c0e773054a2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":873553723
+        }
+    ],
+    "wof:id":873553723,
+    "wof:lastmodified":1464294419,
+    "wof:name":"Halter Painting",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -108.475198,
+    45.829922,
+    -108.475198,
+    45.829922
+],
+  "geometry": {"coordinates":[-108.47519800000001,45.829922],"type":"Point"}
+}

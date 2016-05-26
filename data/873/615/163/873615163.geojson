@@ -1,0 +1,75 @@
+{
+  "id": 873615163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.542236,45.896073,-111.542236,45.896073",
+    "geom:latitude":45.896073,
+    "geom:longitude":-111.542236,
+    "iso:country":"US",
+    "sg:address":"1106 O Neil St",
+    "sg:city":"Deer Lodge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 846 1159",
+    "sg:postcode":"59722",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972961,
+        102085133,
+        420525741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PsOoJw6N5XAY4LHwKZSnb_45.896073_-111.542236@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295197,
+    "wof:geomhash":"1a5e80b2414238cab0d6d380dafbc6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972961,
+            "neighbourhood_id":420525741,
+            "region_id":85688617,
+            "venue_id":873615163
+        }
+    ],
+    "wof:id":873615163,
+    "wof:lastmodified":1464295197,
+    "wof:name":"Rollins Electric",
+    "wof:parent_id":420525741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.542236,
+    45.896073,
+    -111.542236,
+    45.896073
+],
+  "geometry": {"coordinates":[-111.542236,45.896073],"type":"Point"}
+}

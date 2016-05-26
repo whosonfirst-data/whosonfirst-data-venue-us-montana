@@ -1,0 +1,71 @@
+{
+  "id": 873591315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.036204,46.835123,-114.036204,46.835123",
+    "geom:latitude":46.835123,
+    "geom:longitude":-114.036204,
+    "iso:country":"US",
+    "sg:address":"2405 38th St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 8794",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57eQhOmIhEEvbdnUWx7haL_46.835123_-114.036204@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294847,
+    "wof:geomhash":"9a44ea754363361c89c670d551e77dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873591315
+        }
+    ],
+    "wof:id":873591315,
+    "wof:lastmodified":1464294847,
+    "wof:name":"Little Bear Childcare",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -114.036204,
+    46.835123,
+    -114.036204,
+    46.835123
+],
+  "geometry": {"coordinates":[-114.036204,46.835123],"type":"Point"}
+}

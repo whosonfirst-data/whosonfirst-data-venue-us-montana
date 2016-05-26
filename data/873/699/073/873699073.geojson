@@ -1,0 +1,74 @@
+{
+  "id": 873699073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470782,45.820594,-108.470782,45.820594",
+    "geom:latitude":45.820594,
+    "geom:longitude":-108.470782,
+    "iso:country":"US",
+    "sg:address":"1419 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/67182-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 8424",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BVShBBmPPjCPnDDqsGWgI_45.820594_-108.470782@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296394,
+    "wof:geomhash":"83b77fd3c5f016a891b08329d74d490f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873699073
+        }
+    ],
+    "wof:id":873699073,
+    "wof:lastmodified":1464296394,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -108.470782,
+    45.820594,
+    -108.470782,
+    45.820594
+],
+  "geometry": {"coordinates":[-108.470782,45.820594],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873622073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.079458,48.067554,-114.079458,48.067554",
+    "geom:latitude":48.067554,
+    "geom:longitude":-114.079458,
+    "iso:country":"US",
+    "sg:address":"1050 Grand Dr",
+    "sg:city":"Bigfork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 837 1263",
+    "sg:postcode":"59911",
+    "sg:province":"MT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pMAqmGaushe39DRMNhUZH_48.067554_-114.079458@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295271,
+    "wof:geomhash":"f5496a3e50d9b801f61ada0f3bd87c07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873622073
+        }
+    ],
+    "wof:id":873622073,
+    "wof:lastmodified":1464295271,
+    "wof:name":"Lave View Therapy Ctr",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -114.079458,
+    48.067554,
+    -114.079458,
+    48.067554
+],
+  "geometry": {"coordinates":[-114.079458,48.067554],"type":"Point"}
+}

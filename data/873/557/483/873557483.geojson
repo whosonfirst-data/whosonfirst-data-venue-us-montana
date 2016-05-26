@@ -1,0 +1,71 @@
+{
+  "id": 873557483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.56586,45.783985,-108.56586,45.783985",
+    "geom:latitude":45.783985,
+    "geom:longitude":-108.56586,
+    "iso:country":"US",
+    "sg:address":"1942 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 2488",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QWyL49aNiS8s5xnR6YkYI_45.783985_-108.565860@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294465,
+    "wof:geomhash":"307934893688eaa39f07c2182665b809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873557483
+        }
+    ],
+    "wof:id":873557483,
+    "wof:lastmodified":1464294465,
+    "wof:name":"Korum's Pizzeria",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.56586,
+    45.783985,
+    -108.56586,
+    45.783985
+],
+  "geometry": {"coordinates":[-108.56586,45.783985],"type":"Point"}
+}

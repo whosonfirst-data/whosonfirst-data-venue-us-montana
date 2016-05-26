@@ -1,0 +1,73 @@
+{
+  "id": 873641357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.609531,45.80111,-108.609531,45.80111",
+    "geom:latitude":45.80111,
+    "geom:longitude":-108.609531,
+    "iso:country":"US",
+    "sg:address":"3724 Otis Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 5062",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b2E5bl54Ukc8xsiZOhOkw_45.801110_-108.609531@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295491,
+    "wof:geomhash":"4ba271dd15c17b5da145ce1bd39362dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873641357
+        }
+    ],
+    "wof:id":873641357,
+    "wof:lastmodified":1464295491,
+    "wof:name":"Punkin Farms",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -108.609531,
+    45.80111,
+    -108.609531,
+    45.80111
+],
+  "geometry": {"coordinates":[-108.609531,45.80111],"type":"Point"}
+}

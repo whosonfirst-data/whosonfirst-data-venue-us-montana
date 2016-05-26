@@ -1,0 +1,73 @@
+{
+  "id": 873590099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576054,45.761851,-108.576054,45.761851",
+    "geom:latitude":45.761851,
+    "geom:longitude":-108.576054,
+    "iso:country":"US",
+    "sg:address":"423 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 7484",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IMv7foinpt2RO5ADnwiav_45.761851_-108.576054@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294832,
+    "wof:geomhash":"620151b010da84eed1e89b8692cd314d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873590099
+        }
+    ],
+    "wof:id":873590099,
+    "wof:lastmodified":1464294832,
+    "wof:name":"Master-Lube",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -108.576054,
+    45.761851,
+    -108.576054,
+    45.761851
+],
+  "geometry": {"coordinates":[-108.576054,45.761851],"type":"Point"}
+}

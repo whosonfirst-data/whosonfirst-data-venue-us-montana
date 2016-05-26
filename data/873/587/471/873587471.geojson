@@ -1,0 +1,71 @@
+{
+  "id": 873587471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.623328,45.673825,-110.623328,45.673825",
+    "geom:latitude":45.673825,
+    "geom:longitude":-110.623328,
+    "iso:country":"US",
+    "sg:address":"265 Fleshman Creek Rd",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 6548",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mEyIMiAfbiShncCWxvn2n_45.673825_-110.623328@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294802,
+    "wof:geomhash":"198abdc77b042606853d349e9c48a670",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873587471
+        }
+    ],
+    "wof:id":873587471,
+    "wof:lastmodified":1464294802,
+    "wof:name":"Bainter Construction",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation"
+    ]
+},
+  "bbox": [
+    -110.623328,
+    45.673825,
+    -110.623328,
+    45.673825
+],
+  "geometry": {"coordinates":[-110.623328,45.673825],"type":"Point"}
+}

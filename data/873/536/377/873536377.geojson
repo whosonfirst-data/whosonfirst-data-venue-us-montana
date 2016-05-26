@@ -1,0 +1,73 @@
+{
+  "id": 873536377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.995697,46.877039,-113.995697,46.877039",
+    "geom:latitude":46.877039,
+    "geom:longitude":-113.995697,
+    "iso:country":"US",
+    "sg:address":"311 Railroad St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 4545",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mfg",
+        "trimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pbJ6YFJNb2D59fABhiPDL_46.877039_-113.995697@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294219,
+    "wof:geomhash":"2aaea09552eb478d0d6494d02926019b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873536377
+        }
+    ],
+    "wof:id":873536377,
+    "wof:lastmodified":1464294219,
+    "wof:name":"Team Shirts",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "trimming"
+    ]
+},
+  "bbox": [
+    -113.995697,
+    46.877039,
+    -113.995697,
+    46.877039
+],
+  "geometry": {"coordinates":[-113.99569700000001,46.877039],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873569857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.201916,46.750248,-114.201916,46.750248",
+    "geom:latitude":46.750248,
+    "geom:longitude":-114.201916,
+    "iso:country":"US",
+    "sg:address":"14710 Lolo Creek Rd",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 2935",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rmggsXDu0LNqFtOV0V5yh_46.750248_-114.201916@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294608,
+    "wof:geomhash":"4ff6a3e5a9cbe8ad082936ff3a819c34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873569857
+        }
+    ],
+    "wof:id":873569857,
+    "wof:lastmodified":1464294608,
+    "wof:name":"Trusty Excavating",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -114.201916,
+    46.750248,
+    -114.201916,
+    46.750248
+],
+  "geometry": {"coordinates":[-114.201916,46.750248],"type":"Point"}
+}

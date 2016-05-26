@@ -1,0 +1,71 @@
+{
+  "id": 873549455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.909889,45.71648,-110.909889,45.71648",
+    "geom:latitude":45.71648,
+    "geom:longitude":-110.909889,
+    "iso:country":"US",
+    "sg:address":"8081 Bridger Canyon Rd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 6427",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891691,
+        102085133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XLIMTb5aFPWJExjrMZpJt_45.716480_-110.909889@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294371,
+    "wof:geomhash":"f5c6d60b9ca34a11446d4716fb5ac871",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "neighbourhood_id":85891691,
+            "region_id":85688617,
+            "venue_id":873549455
+        }
+    ],
+    "wof:id":873549455,
+    "wof:lastmodified":1464294371,
+    "wof:name":"Bridger Canyon Rural Fire Dst",
+    "wof:parent_id":85891691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -110.909889,
+    45.71648,
+    -110.909889,
+    45.71648
+],
+  "geometry": {"coordinates":[-110.90988900000001,45.71648],"type":"Point"}
+}

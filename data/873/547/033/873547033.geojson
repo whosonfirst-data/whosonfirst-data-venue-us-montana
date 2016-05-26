@@ -1,0 +1,78 @@
+{
+  "id": 873547033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.504048,45.994018,-112.504048,45.994018",
+    "geom:latitude":45.994018,
+    "geom:longitude":-112.504048,
+    "iso:country":"US",
+    "sg:address":"2341 Cobban St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 3737",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GHSnOeVJ86kf2bzMhJUsS_45.994018_-112.504048@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294340,
+    "wof:geomhash":"6fe51d7fa5f72045712768eb40c1960d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873547033
+        }
+    ],
+    "wof:id":873547033,
+    "wof:lastmodified":1464294340,
+    "wof:name":"Clean & Dry Laundry Service",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -112.504048,
+    45.994018,
+    -112.504048,
+    45.994018
+],
+  "geometry": {"coordinates":[-112.504048,45.994018],"type":"Point"}
+}

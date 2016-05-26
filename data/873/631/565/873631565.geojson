@@ -1,0 +1,85 @@
+{
+  "id": 873631565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.597179,45.755989,-108.597179,45.755989",
+    "geom:latitude":45.755989,
+    "geom:longitude":-108.597179,
+    "iso:country":"US",
+    "sg:address":"3210 Henesta Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 8700",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zrglrDBWQtyd6qHOJx2yR_45.755989_-108.597179@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295380,
+    "wof:geomhash":"6763597005b535401f9b7d57f0c3ac7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873631565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873631565
+        }
+    ],
+    "wof:id":873631565,
+    "wof:lastmodified":1464295380,
+    "wof:name":"Pixies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -108.597179,
+    45.755989,
+    -108.597179,
+    45.755989
+],
+  "geometry": {"coordinates":[-108.597179,45.755989],"type":"Point"}
+}

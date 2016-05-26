@@ -1,0 +1,75 @@
+{
+  "id": 873554071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.078073,46.671161,-114.078073,46.671161",
+    "geom:latitude":46.671161,
+    "geom:longitude":-114.078073,
+    "iso:country":"US",
+    "sg:address":"20960 Old US Hwy 93",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 0277",
+    "sg:postcode":"59833",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QQLYfxqvvAKGiw2ZrpCRN_46.671161_-114.078073@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294423,
+    "wof:geomhash":"232aa500c0885861f796a02b426bf208",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873554071
+        }
+    ],
+    "wof:id":873554071,
+    "wof:lastmodified":1464294423,
+    "wof:name":"Kirk Sybrandt Trucking",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.078073,
+    46.671161,
+    -114.078073,
+    46.671161
+],
+  "geometry": {"coordinates":[-114.078073,46.671161],"type":"Point"}
+}

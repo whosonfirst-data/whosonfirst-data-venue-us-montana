@@ -1,0 +1,75 @@
+{
+  "id": 873587267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.272513,47.026795,-114.272513,47.026795",
+    "geom:latitude":47.026795,
+    "geom:longitude":-114.272513,
+    "iso:country":"US",
+    "sg:address":"16095 Touchette Ln",
+    "sg:city":"Frenchtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 626 0095",
+    "sg:postcode":"59834",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DXVwnRER4q021pxCPwJXv_47.026795_-114.272513@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294800,
+    "wof:geomhash":"8537dfbadb9135a17399739596ee4391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891727,
+            "region_id":85688617,
+            "venue_id":873587267
+        }
+    ],
+    "wof:id":873587267,
+    "wof:lastmodified":1464294800,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85891727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -114.272513,
+    47.026795,
+    -114.272513,
+    47.026795
+],
+  "geometry": {"coordinates":[-114.272513,47.026795],"type":"Point"}
+}

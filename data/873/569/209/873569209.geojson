@@ -1,0 +1,75 @@
+{
+  "id": 873569209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.451534,45.798301,-108.451534,45.798301",
+    "geom:latitude":45.798301,
+    "geom:longitude":-108.451534,
+    "iso:country":"US",
+    "sg:address":"1330 US Hwy 87 E",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 1055",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61ensYsYQNbrkCtJZ0wuXx_45.798301_-108.451534@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294597,
+    "wof:geomhash":"4c50273925c60af5693671e55810d711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873569209
+        }
+    ],
+    "wof:id":873569209,
+    "wof:lastmodified":1464294597,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -108.451534,
+    45.798301,
+    -108.451534,
+    45.798301
+],
+  "geometry": {"coordinates":[-108.451534,45.798301],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873533733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.01768,46.869701,-114.01768,46.869701",
+    "geom:latitude":46.869701,
+    "geom:longitude":-114.01768,
+    "iso:country":"US",
+    "sg:address":"1343 River St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 3846",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j8RxXWBxrMtqqDc2fORDN_46.869701_-114.017680@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294181,
+    "wof:geomhash":"2a908a4655979090fda6e4d9f258b4f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873533733
+        }
+    ],
+    "wof:id":873533733,
+    "wof:lastmodified":1464294181,
+    "wof:name":"Ace Refrigeration Sales & Svc",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -114.01768,
+    46.869701,
+    -114.01768,
+    46.869701
+],
+  "geometry": {"coordinates":[-114.01768,46.869701],"type":"Point"}
+}

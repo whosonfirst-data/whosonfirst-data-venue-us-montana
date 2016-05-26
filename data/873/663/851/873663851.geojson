@@ -1,0 +1,73 @@
+{
+  "id": 873663851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.047452,45.681856,-111.047452,45.681856",
+    "geom:latitude":45.681856,
+    "geom:longitude":-111.047452,
+    "iso:country":"US",
+    "sg:address":"216 N 8th Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 587 2946",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "veterinary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85891685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ive4wMXOJhJGox3hSBReb_45.681856_-111.047452@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295739,
+    "wof:geomhash":"3e179d564572c4312a51898797520945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891685,
+            "region_id":85688617,
+            "venue_id":873663851
+        }
+    ],
+    "wof:id":873663851,
+    "wof:lastmodified":1464295739,
+    "wof:name":"Animal Medical Center PC",
+    "wof:parent_id":85891685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinary"
+    ]
+},
+  "bbox": [
+    -111.047452,
+    45.681856,
+    -111.047452,
+    45.681856
+],
+  "geometry": {"coordinates":[-111.04745200000001,45.681856],"type":"Point"}
+}

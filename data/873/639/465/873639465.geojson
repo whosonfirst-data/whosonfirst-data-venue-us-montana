@@ -1,0 +1,73 @@
+{
+  "id": 873639465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.040404,46.859716,-114.040404,46.859716",
+    "geom:latitude":46.859716,
+    "geom:longitude":-114.040404,
+    "iso:country":"US",
+    "sg:address":"2510 Spurgin Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 549 9922",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "pet",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kDRI20mMrqhXge0wQxDdg_46.859716_-114.040404@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295468,
+    "wof:geomhash":"e819dff7ffa3930be2e367f807609526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873639465
+        }
+    ],
+    "wof:id":873639465,
+    "wof:lastmodified":1464295468,
+    "wof:name":"Neptunes Palace & Pets",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "supply"
+    ]
+},
+  "bbox": [
+    -114.040404,
+    46.859716,
+    -114.040404,
+    46.859716
+],
+  "geometry": {"coordinates":[-114.040404,46.859716],"type":"Point"}
+}

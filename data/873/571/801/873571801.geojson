@@ -1,0 +1,80 @@
+{
+  "id": 873571801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.57796,45.793916,-108.57796,45.793916",
+    "geom:latitude":45.793916,
+    "geom:longitude":-108.57796,
+    "iso:country":"US",
+    "sg:address":"2301 Nina Clare Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 2552",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "business",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rArwUwUxMq9zkUCnUCpg0_45.793916_-108.577960@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294629,
+    "wof:geomhash":"36391602576b165e9a34f3884c83a4aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873571801
+        }
+    ],
+    "wof:id":873571801,
+    "wof:lastmodified":1464294629,
+    "wof:name":"Brownson & Associates",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "business",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.57796,
+    45.793916,
+    -108.57796,
+    45.793916
+],
+  "geometry": {"coordinates":[-108.57796,45.793916],"type":"Point"}
+}

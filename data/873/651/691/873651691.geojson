@@ -1,0 +1,73 @@
+{
+  "id": 873651691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.342614,45.902632,-108.342614,45.902632",
+    "geom:latitude":45.902632,
+    "geom:longitude":-108.342614,
+    "iso:country":"US",
+    "sg:address":"7700 Hwy 312",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 373 6685",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GGJN26Iycn7Mt4QYa6rTH_45.902632_-108.342614@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295610,
+    "wof:geomhash":"983f7fa0d81f7e22576fd59f8a473b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873651691
+        }
+    ],
+    "wof:id":873651691,
+    "wof:lastmodified":1464295610,
+    "wof:name":"Flying D Mini-Storage",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -108.342614,
+    45.902632,
+    -108.342614,
+    45.902632
+],
+  "geometry": {"coordinates":[-108.342614,45.902632],"type":"Point"}
+}

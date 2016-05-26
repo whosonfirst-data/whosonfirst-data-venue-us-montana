@@ -1,0 +1,83 @@
+{
+  "id": 873642295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.506341,45.780706,-108.506341,45.780706",
+    "geom:latitude":45.780706,
+    "geom:longitude":-108.506341,
+    "iso:country":"US",
+    "sg:address":"110 N 29th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 3060",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "product",
+        "mfg",
+        "bakery",
+        "cookie",
+        "prod",
+        "bread"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CeGhDM59kiwzH3ZPiV3hd_45.780706_-108.506341@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295503,
+    "wof:geomhash":"05f0fc6db9fc0cee362d5faa50ba7858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873642295
+        }
+    ],
+    "wof:id":873642295,
+    "wof:lastmodified":1464295503,
+    "wof:name":"Stella's Kitchen & Bakery",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg",
+        "bakery",
+        "cookie",
+        "prod",
+        "bread"
+    ]
+},
+  "bbox": [
+    -108.506341,
+    45.780706,
+    -108.506341,
+    45.780706
+],
+  "geometry": {"coordinates":[-108.50634100000001,45.780706],"type":"Point"}
+}

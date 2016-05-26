@@ -1,0 +1,73 @@
+{
+  "id": 873663739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.342876,48.370777,-114.342876,48.370777",
+    "geom:latitude":48.370777,
+    "geom:longitude":-114.342876,
+    "iso:country":"US",
+    "sg:address":"245 Blanchard Lake Rd",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 5633",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uPjwxjlAwpfo3LRmcKyj8_48.370777_-114.342876@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295738,
+    "wof:geomhash":"41be4705db743dd121ac50d3e9cc4046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873663739
+        }
+    ],
+    "wof:id":873663739,
+    "wof:lastmodified":1464295738,
+    "wof:name":"Jack's Auto & Truck Repair",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -114.342876,
+    48.370777,
+    -114.342876,
+    48.370777
+],
+  "geometry": {"coordinates":[-114.342876,48.370777],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873671333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.083019,45.68578,-111.083019,45.68578",
+    "geom:latitude":45.68578,
+    "geom:longitude":-111.083019,
+    "iso:country":"US",
+    "sg:address":"4979 Durston Rd",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 582 9414",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a8mERjjv9oovn5lTTEbp4_45.685780_-111.083019@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295815,
+    "wof:geomhash":"f566d5a49036e84488d230cd54333a6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891713,
+            "region_id":85688617,
+            "venue_id":873671333
+        }
+    ],
+    "wof:id":873671333,
+    "wof:lastmodified":1464295815,
+    "wof:name":"Susan Kreitzberg",
+    "wof:parent_id":85891713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -111.083019,
+    45.68578,
+    -111.083019,
+    45.68578
+],
+  "geometry": {"coordinates":[-111.08301899999999,45.68578],"type":"Point"}
+}

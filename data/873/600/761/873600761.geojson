@@ -1,0 +1,75 @@
+{
+  "id": 873600761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.584212,45.769812,-108.584212,45.769812",
+    "geom:latitude":45.769812,
+    "geom:longitude":-108.584212,
+    "iso:country":"US",
+    "sg:address":"2675 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 238 2900",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gn9dHEkWxvfmRhlM6mriG_45.769812_-108.584212@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294995,
+    "wof:geomhash":"12401a3e6bef6339591a35ca4640d0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873600761
+        }
+    ],
+    "wof:id":873600761,
+    "wof:lastmodified":1464294995,
+    "wof:name":"Billings Clinic",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -108.584212,
+    45.769812,
+    -108.584212,
+    45.769812
+],
+  "geometry": {"coordinates":[-108.58421199999999,45.769812],"type":"Point"}
+}

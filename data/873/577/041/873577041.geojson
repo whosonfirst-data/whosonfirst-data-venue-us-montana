@@ -1,0 +1,71 @@
+{
+  "id": 873577041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.10249,48.189727,-114.10249,48.189727",
+    "geom:latitude":48.189727,
+    "geom:longitude":-114.10249,
+    "iso:country":"US",
+    "sg:address":"232 Gilbert Lake Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 8340",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VJ3vxT4jq24wMEG1DMJlA_48.189727_-114.102490@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294684,
+    "wof:geomhash":"d508678e187576a8637c2c364e9aa854",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873577041
+        }
+    ],
+    "wof:id":873577041,
+    "wof:lastmodified":1464294684,
+    "wof:name":"Hollopeter Logging",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -114.10249,
+    48.189727,
+    -114.10249,
+    48.189727
+],
+  "geometry": {"coordinates":[-114.10249,48.189727],"type":"Point"}
+}

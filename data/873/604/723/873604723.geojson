@@ -1,0 +1,71 @@
+{
+  "id": 873604723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.332429,48.400126,-114.332429,48.400126",
+    "geom:latitude":48.400126,
+    "geom:longitude":-114.332429,
+    "iso:country":"US",
+    "sg:address":"1305 Columbia Ave",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 3825",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OK8AZfDUt59Pruz5T4G9y_48.400126_-114.332429@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295037,
+    "wof:geomhash":"5022be814848620fe96e02f93fc86a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873604723
+        }
+    ],
+    "wof:id":873604723,
+    "wof:lastmodified":1464295037,
+    "wof:name":"Duck Inn Lodge",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -114.332429,
+    48.400126,
+    -114.332429,
+    48.400126
+],
+  "geometry": {"coordinates":[-114.332429,48.400126],"type":"Point"}
+}

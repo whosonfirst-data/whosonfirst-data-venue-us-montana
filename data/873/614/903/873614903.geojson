@@ -1,0 +1,73 @@
+{
+  "id": 873614903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.774654,45.669485,-108.774654,45.669485",
+    "geom:latitude":45.669485,
+    "geom:longitude":-108.774654,
+    "iso:country":"US",
+    "sg:address":"312 W 1st St",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 7576",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fL42GMsqo3g9whMJVgG0L_45.669485_-108.774654@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295194,
+    "wof:geomhash":"eb9b9349fca098c95fbeb0b8a39bebe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873614903
+        }
+    ],
+    "wof:id":873614903,
+    "wof:lastmodified":1464295194,
+    "wof:name":"Town Pump",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -108.774654,
+    45.669485,
+    -108.774654,
+    45.669485
+],
+  "geometry": {"coordinates":[-108.774654,45.669485],"type":"Point"}
+}

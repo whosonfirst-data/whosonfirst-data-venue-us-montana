@@ -1,0 +1,83 @@
+{
+  "id": 873592231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.609908,45.768981,-108.609908,45.768981",
+    "geom:latitude":45.768981,
+    "geom:longitude":-108.609908,
+    "iso:country":"US",
+    "sg:address":"3704 San Juan Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 9368",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "product",
+        "mfg",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q30KotJO167TA2P2IUcLA_45.768981_-108.609908@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294861,
+    "wof:geomhash":"81b95fe57df36a20fb19d99d24b607f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873592231
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873592231
+        }
+    ],
+    "wof:id":873592231,
+    "wof:lastmodified":1464294861,
+    "wof:name":"S&M Medical LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg",
+        "plastic"
+    ]
+},
+  "bbox": [
+    -108.609908,
+    45.768981,
+    -108.609908,
+    45.768981
+],
+  "geometry": {"coordinates":[-108.609908,45.768981],"type":"Point"}
+}

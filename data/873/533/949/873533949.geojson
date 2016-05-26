@@ -1,0 +1,71 @@
+{
+  "id": 873533949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.090988,46.763127,-114.090988,46.763127",
+    "geom:latitude":46.763127,
+    "geom:longitude":-114.090988,
+    "iso:country":"US",
+    "sg:address":"185 Ridgeway Dr",
+    "sg:city":"Lolo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 273 0544",
+    "sg:postcode":"59847",
+    "sg:province":"MT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gLghckMNpxj3JSHUx2ZBg_46.763127_-114.090988@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294187,
+    "wof:geomhash":"2f3659424ac2cc9216dbb6490a06cbae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873533949
+        }
+    ],
+    "wof:id":873533949,
+    "wof:lastmodified":1464294187,
+    "wof:name":"Sara M Weaver",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -114.090988,
+    46.763127,
+    -114.090988,
+    46.763127
+],
+  "geometry": {"coordinates":[-114.090988,46.763127],"type":"Point"}
+}

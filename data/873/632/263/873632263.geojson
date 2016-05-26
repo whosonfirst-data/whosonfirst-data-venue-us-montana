@@ -1,0 +1,71 @@
+{
+  "id": 873632263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.001223,46.877617,-114.001223,46.877617",
+    "geom:latitude":46.877617,
+    "geom:longitude":-114.001223,
+    "iso:country":"US",
+    "sg:address":"621 W Alder St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 7525",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gx7g8CSxNRYt8jtK3VzLm_46.877617_-114.001223@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295389,
+    "wof:geomhash":"2b4355f4eaae0cd197bc3f3540a23982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873632263
+        }
+    ],
+    "wof:id":873632263,
+    "wof:lastmodified":1464295389,
+    "wof:name":"Missoula Sergical Assoc Pllc",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -114.001223,
+    46.877617,
+    -114.001223,
+    46.877617
+],
+  "geometry": {"coordinates":[-114.001223,46.877617],"type":"Point"}
+}

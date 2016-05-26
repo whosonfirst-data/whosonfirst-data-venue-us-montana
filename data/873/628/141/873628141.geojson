@@ -1,0 +1,71 @@
+{
+  "id": 873628141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.704139,45.686049,-108.704139,45.686049",
+    "geom:latitude":45.686049,
+    "geom:longitude":-108.704139,
+    "iso:country":"US",
+    "sg:address":"7325 Mossmain Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 8011",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F4ouzhFIm3SLNUVUT2FMt_45.686049_-108.704139@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295342,
+    "wof:geomhash":"46d49df4411630a120301c8d6fc71cc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873628141
+        }
+    ],
+    "wof:id":873628141,
+    "wof:lastmodified":1464295342,
+    "wof:name":"Exit 437 Truck & Trailor Svc",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -108.704139,
+    45.686049,
+    -108.704139,
+    45.686049
+],
+  "geometry": {"coordinates":[-108.704139,45.686049],"type":"Point"}
+}

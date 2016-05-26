@@ -1,0 +1,73 @@
+{
+  "id": 873646205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.454589,45.836545,-108.454589,45.836545",
+    "geom:latitude":45.836545,
+    "geom:longitude":-108.454589,
+    "iso:country":"US",
+    "sg:address":"1221 Mading Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6878",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60fNwETtWfbGmVU06U7OfI_45.836545_-108.454589@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295549,
+    "wof:geomhash":"8c5aff4fafb371c1e5bd8c99fcc9ce4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873646205
+        }
+    ],
+    "wof:id":873646205,
+    "wof:lastmodified":1464295549,
+    "wof:name":"Big Sky Electric Inc",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.454589,
+    45.836545,
+    -108.454589,
+    45.836545
+],
+  "geometry": {"coordinates":[-108.454589,45.836545],"type":"Point"}
+}

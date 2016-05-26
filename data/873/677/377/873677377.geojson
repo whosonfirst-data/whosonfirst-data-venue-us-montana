@@ -1,0 +1,71 @@
+{
+  "id": 873677377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566721,45.783976,-108.566721,45.783976",
+    "geom:latitude":45.783976,
+    "geom:longitude":-108.566721,
+    "iso:country":"US",
+    "sg:address":"1904 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 6008",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0svGhVsIcifdwdQH0IBpp7_45.783976_-108.566721@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295921,
+    "wof:geomhash":"2529cc600da5774599425b48e6d6f0c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873677377
+        }
+    ],
+    "wof:id":873677377,
+    "wof:lastmodified":1464295921,
+    "wof:name":"Paint Center Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -108.566721,
+    45.783976,
+    -108.566721,
+    45.783976
+],
+  "geometry": {"coordinates":[-108.566721,45.783976],"type":"Point"}
+}

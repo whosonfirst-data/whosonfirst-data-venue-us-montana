@@ -1,0 +1,85 @@
+{
+  "id": 873547375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.601291,45.762993,-108.601291,45.762993",
+    "geom:latitude":45.762993,
+    "geom:longitude":-108.601291,
+    "iso:country":"US",
+    "sg:address":"3253 Pipestone Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 661 4945",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "television",
+        "telephone",
+        "cable",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hkzhoFRq6g4QFEYIa4zJc_45.762993_-108.601291@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294344,
+    "wof:geomhash":"905e667f4f56b2b4bbe6e41c99d86a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873547375
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873547375
+        }
+    ],
+    "wof:id":873547375,
+    "wof:lastmodified":1464294344,
+    "wof:name":"Enterprise Cabling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "telephone",
+        "cable",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.601291,
+    45.762993,
+    -108.601291,
+    45.762993
+],
+  "geometry": {"coordinates":[-108.601291,45.762993],"type":"Point"}
+}

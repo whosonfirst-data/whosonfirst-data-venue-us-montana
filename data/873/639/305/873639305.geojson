@@ -1,0 +1,68 @@
+{
+  "id": 873639305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.574426,45.769679,-108.574426,45.769679",
+    "geom:latitude":45.769679,
+    "geom:longitude":-108.574426,
+    "iso:country":"US",
+    "sg:address":"2344 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 2485",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16VgBZ90U0uXe3eyN3TjRi_45.769679_-108.574426@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295466,
+    "wof:geomhash":"1deb35961f799d5b7495620eeb00a065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873639305
+        }
+    ],
+    "wof:id":873639305,
+    "wof:lastmodified":1464295466,
+    "wof:name":"Express Center",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.574426,
+    45.769679,
+    -108.574426,
+    45.769679
+],
+  "geometry": {"coordinates":[-108.574426,45.769679],"type":"Point"}
+}

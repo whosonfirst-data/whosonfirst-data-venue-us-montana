@@ -1,0 +1,88 @@
+{
+  "id": 873698961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576286,45.756339,-108.576286,45.756339",
+    "geom:latitude":45.756339,
+    "geom:longitude":-108.576286,
+    "iso:country":"US",
+    "sg:address":"740 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/85217-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 0255",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4irnJzGMRxrkPG7pyjmfqE_45.756339_-108.576286@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296393,
+    "wof:geomhash":"27eaa57b15d34dc30998dd647282d5bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873698961
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873698961
+        }
+    ],
+    "wof:id":873698961,
+    "wof:lastmodified":1464296393,
+    "wof:name":"Applebee's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -108.576286,
+    45.756339,
+    -108.576286,
+    45.756339
+],
+  "geometry": {"coordinates":[-108.576286,45.756339],"type":"Point"}
+}

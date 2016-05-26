@@ -1,0 +1,66 @@
+{
+  "id": 873585137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.03946,46.836616,-114.03946,46.836616",
+    "geom:latitude":46.836616,
+    "geom:longitude":-114.03946,
+    "iso:country":"US",
+    "sg:address":"3900 Brooks St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 2448",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hgmSHytCuzzoOzsPi7fiy_46.836616_-114.039460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294774,
+    "wof:geomhash":"01810a51d544d80eeabd51b5352c0a6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873585137
+        }
+    ],
+    "wof:id":873585137,
+    "wof:lastmodified":1464294774,
+    "wof:name":"Rental Ctr 2-Hrse Trlr Rentals",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.03946,
+    46.836616,
+    -114.03946,
+    46.836616
+],
+  "geometry": {"coordinates":[-114.03946000000001,46.836616],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873699377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.342071,47.482368,-111.342071,47.482368",
+    "geom:latitude":47.482368,
+    "geom:longitude":-111.342071,
+    "iso:country":"US",
+    "sg:address":"1601 Market Place Dr",
+    "sg:city":"Great Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/great-falls/6287-taco-del-mar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 727 1093",
+    "sg:postcode":"59404",
+    "sg:province":"MT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102528273,
+        85688617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_086sqnhxjNiR6OzbC1zMw8_47.482368_-111.342071@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296398,
+    "wof:geomhash":"8d5ef57b67f16a3fed03a95488fe2329",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528273,
+            "country_id":85633793,
+            "region_id":85688617,
+            "venue_id":873699377
+        }
+    ],
+    "wof:id":873699377,
+    "wof:lastmodified":1464296398,
+    "wof:name":"Taco Del Mar",
+    "wof:parent_id":102528273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -111.342071,
+    47.482368,
+    -111.342071,
+    47.482368
+],
+  "geometry": {"coordinates":[-111.342071,47.482368],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873702493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.511424,45.991796,-112.511424,45.991796",
+    "geom:latitude":45.991796,
+    "geom:longitude":-112.511424,
+    "iso:country":"US",
+    "sg:address":"2101 Harrison Ave",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/butte/78174-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 3000",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rFbCByyDl21uyw5pmmnT5_45.991842_-112.511305@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296430,
+    "wof:geomhash":"2847b53cbe406c6ca8ecaa535e6712c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873702493
+        }
+    ],
+    "wof:id":873702493,
+    "wof:lastmodified":1464296430,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -112.511424,
+    45.991796,
+    -112.511424,
+    45.991796
+],
+  "geometry": {"coordinates":[-112.51142400000001,45.991796],"type":"Point"}
+}

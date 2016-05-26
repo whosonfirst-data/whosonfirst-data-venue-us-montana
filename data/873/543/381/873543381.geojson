@@ -1,0 +1,75 @@
+{
+  "id": 873543381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.28792,48.17791,-114.28792,48.17791",
+    "geom:latitude":48.17791,
+    "geom:longitude":-114.28792,
+    "iso:country":"US",
+    "sg:address":"628 Willow Glen Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 1644",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uWXSj6a8zPKO46wLLb4LN_48.177910_-114.287920@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294295,
+    "wof:geomhash":"308c923b941273bc0d0e7103e40e8a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873543381
+        }
+    ],
+    "wof:id":873543381,
+    "wof:lastmodified":1464294295,
+    "wof:name":"Wild Bills Delivery Service",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.28792,
+    48.17791,
+    -114.28792,
+    48.17791
+],
+  "geometry": {"coordinates":[-114.28792,48.17791],"type":"Point"}
+}

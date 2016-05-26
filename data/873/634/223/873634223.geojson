@@ -1,0 +1,71 @@
+{
+  "id": 873634223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.445502,45.827508,-108.445502,45.827508",
+    "geom:latitude":45.827508,
+    "geom:longitude":-108.445502,
+    "iso:country":"US",
+    "sg:address":"1515 Wicks Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8712",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "compressor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L8W9ORPqXU8xzx15Oq7rr_45.827508_-108.445502@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295415,
+    "wof:geomhash":"9533e2ea92067a2db06d86a8a7a33fc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873634223
+        }
+    ],
+    "wof:id":873634223,
+    "wof:lastmodified":1464295415,
+    "wof:name":"Rocky Mountain Compressor Inc",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor"
+    ]
+},
+  "bbox": [
+    -108.445502,
+    45.827508,
+    -108.445502,
+    45.827508
+],
+  "geometry": {"coordinates":[-108.445502,45.827508],"type":"Point"}
+}

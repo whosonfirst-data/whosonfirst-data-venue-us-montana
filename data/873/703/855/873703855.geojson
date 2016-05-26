@@ -1,0 +1,73 @@
+{
+  "id": 873703855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.303827,48.192941,-114.303827,48.192941",
+    "geom:latitude":48.192941,
+    "geom:longitude":-114.303827,
+    "iso:country":"US",
+    "sg:address":"723 5th Ave E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 260 4122",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "espresso",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VFhukNmUanKdE14amiLLJ_48.192941_-114.303827@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296444,
+    "wof:geomhash":"ec0fc115049c150ddd039e0ac33a63f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873703855
+        }
+    ],
+    "wof:id":873703855,
+    "wof:lastmodified":1464296444,
+    "wof:name":"The Boiler Room",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -114.303827,
+    48.192941,
+    -114.303827,
+    48.192941
+],
+  "geometry": {"coordinates":[-114.303827,48.192941],"type":"Point"}
+}

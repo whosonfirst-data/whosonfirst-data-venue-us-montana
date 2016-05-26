@@ -1,0 +1,80 @@
+{
+  "id": 873621049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.597013,45.774475,-108.597013,45.774475",
+    "geom:latitude":45.774475,
+    "geom:longitude":-108.597013,
+    "iso:country":"US",
+    "sg:address":"550 32nd St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 1240",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.firstassemblylifecenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kjJPdh2xvzzgcTtQuoTFv_45.774475_-108.597013@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295261,
+    "wof:geomhash":"48cdd74b7a751a39ca828944a924653f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873621049
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873621049
+        }
+    ],
+    "wof:id":873621049,
+    "wof:lastmodified":1464295261,
+    "wof:name":"First Assembly Life Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -108.597013,
+    45.774475,
+    -108.597013,
+    45.774475
+],
+  "geometry": {"coordinates":[-108.597013,45.774475],"type":"Point"}
+}

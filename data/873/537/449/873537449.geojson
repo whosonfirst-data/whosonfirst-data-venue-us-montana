@@ -1,0 +1,71 @@
+{
+  "id": 873537449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.448532,45.834374,-108.448532,45.834374",
+    "geom:latitude":45.834374,
+    "geom:longitude":-108.448532,
+    "iso:country":"US",
+    "sg:address":"1817 Dogwood Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7373",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o2XPxgiN42SXSFDZBpgva_45.834374_-108.448532@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294233,
+    "wof:geomhash":"9f965b50654d705704568c264c581f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873537449
+        }
+    ],
+    "wof:id":873537449,
+    "wof:lastmodified":1464294233,
+    "wof:name":"Winkler Excavating Inc",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.448532,
+    45.834374,
+    -108.448532,
+    45.834374
+],
+  "geometry": {"coordinates":[-108.448532,45.834374],"type":"Point"}
+}

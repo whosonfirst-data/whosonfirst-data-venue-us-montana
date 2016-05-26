@@ -1,0 +1,71 @@
+{
+  "id": 873560523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.55066,45.749943,-108.55066,45.749943",
+    "geom:latitude":45.749943,
+    "geom:longitude":-108.55066,
+    "iso:country":"US",
+    "sg:address":"5500 Midland Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 7701",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operation",
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pyg8nDBR5kevLo1V4HnXS_45.749943_-108.550660@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294505,
+    "wof:geomhash":"0dfcad5912ba24f706ff836cbd6be26c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873560523
+        }
+    ],
+    "wof:id":873560523,
+    "wof:lastmodified":1464294505,
+    "wof:name":"Holiday Inn",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "drinking"
+    ]
+},
+  "bbox": [
+    -108.55066,
+    45.749943,
+    -108.55066,
+    45.749943
+],
+  "geometry": {"coordinates":[-108.55065999999999,45.749943],"type":"Point"}
+}

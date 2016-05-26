@@ -1,0 +1,79 @@
+{
+  "id": 873540871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.561742,45.661427,-110.561742,45.661427",
+    "geom:latitude":45.661427,
+    "geom:longitude":-110.561742,
+    "iso:country":"US",
+    "sg:address":"104 N 2nd St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 0111",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "motion",
+        "picture",
+        "rental",
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KLZOL3tqP49a1SanIo70p_45.661427_-110.561742@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294268,
+    "wof:geomhash":"5552fd0387579a5049b1f21cde7644f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873540871
+        }
+    ],
+    "wof:id":873540871,
+    "wof:lastmodified":1464294268,
+    "wof:name":"Empire Video",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture",
+        "rental",
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -110.561742,
+    45.661427,
+    -110.561742,
+    45.661427
+],
+  "geometry": {"coordinates":[-110.561742,45.661427],"type":"Point"}
+}

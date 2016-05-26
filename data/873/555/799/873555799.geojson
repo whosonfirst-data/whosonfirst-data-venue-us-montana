@@ -1,0 +1,73 @@
+{
+  "id": 873555799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.453021,45.802236,-108.453021,45.802236",
+    "geom:latitude":45.802236,
+    "geom:longitude":-108.453021,
+    "iso:country":"US",
+    "sg:address":"1307 Taylor Pl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 8413",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yrxPbIsjnoaUuTFcCytcj_45.802236_-108.453021@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294447,
+    "wof:geomhash":"0e0a38ca52fefb707d1ee6d363bb1272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873555799
+        }
+    ],
+    "wof:id":873555799,
+    "wof:lastmodified":1464294447,
+    "wof:name":"Big Rig Truck & Trailer Repair",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -108.453021,
+    45.802236,
+    -108.453021,
+    45.802236
+],
+  "geometry": {"coordinates":[-108.45302100000001,45.802236],"type":"Point"}
+}

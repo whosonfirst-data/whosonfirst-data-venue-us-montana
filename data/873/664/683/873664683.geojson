@@ -1,0 +1,71 @@
+{
+  "id": 873664683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.558321,45.66063,-110.558321,45.66063",
+    "geom:latitude":45.66063,
+    "geom:longitude":-110.558321,
+    "iso:country":"US",
+    "sg:address":"106 E Lewis St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 2633",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NCybvIaTFNekfLf3yE4eb_45.660630_-110.558321@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295747,
+    "wof:geomhash":"6fcec37d2b638f8d11988e75d296e705",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873664683
+        }
+    ],
+    "wof:id":873664683,
+    "wof:lastmodified":1464295747,
+    "wof:name":"Windy City Salon & Tanning",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -110.558321,
+    45.66063,
+    -110.558321,
+    45.66063
+],
+  "geometry": {"coordinates":[-110.55832100000001,45.66063],"type":"Point"}
+}

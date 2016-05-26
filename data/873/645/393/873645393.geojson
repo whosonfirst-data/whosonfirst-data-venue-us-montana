@@ -1,0 +1,73 @@
+{
+  "id": 873645393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.822452,45.655055,-108.822452,45.655055",
+    "geom:latitude":45.655055,
+    "geom:longitude":-108.822452,
+    "iso:country":"US",
+    "sg:address":"1215 Wold Rd",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 698 4201",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RLVQ2TPzWOjUrXym48eEz_45.655055_-108.822452@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295540,
+    "wof:geomhash":"bf37f56b5debb9c873bcd5e34530240c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873645393
+        }
+    ],
+    "wof:id":873645393,
+    "wof:lastmodified":1464295540,
+    "wof:name":"Chris Wilcox Construction",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.822452,
+    45.655055,
+    -108.822452,
+    45.655055
+],
+  "geometry": {"coordinates":[-108.822452,45.655055],"type":"Point"}
+}

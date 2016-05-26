@@ -1,0 +1,71 @@
+{
+  "id": 873577951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.540852,45.693097,-110.540852,45.693097",
+    "geom:latitude":45.693097,
+    "geom:longitude":-110.540852,
+    "iso:country":"US",
+    "sg:address":"33 Willow Creek Rd",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 1122",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ebvWP9DzKEZlmiO6QF6sA_45.693097_-110.540852@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294694,
+    "wof:geomhash":"33d58f44f985dae26caf9e874772a428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873577951
+        }
+    ],
+    "wof:id":873577951,
+    "wof:lastmodified":1464294694,
+    "wof:name":"Livingston Campground",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -110.540852,
+    45.693097,
+    -110.540852,
+    45.693097
+],
+  "geometry": {"coordinates":[-110.540852,45.693097],"type":"Point"}
+}

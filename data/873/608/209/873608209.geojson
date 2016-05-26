@@ -1,0 +1,75 @@
+{
+  "id": 873608209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.300863,48.41444,-114.300863,48.41444",
+    "geom:latitude":48.41444,
+    "geom:longitude":-114.300863,
+    "iso:country":"US",
+    "sg:address":"1410 E Edgewood Dr",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 863 1200",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "agency",
+        "rent",
+        "hertz"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XZ151nrWj8rBn4inQyXcS_48.414440_-114.300863@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295108,
+    "wof:geomhash":"6c686038469887a8c5b5150cf224f4ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873608209
+        }
+    ],
+    "wof:id":873608209,
+    "wof:lastmodified":1464295108,
+    "wof:name":"Rocky Mountains Transportation",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rent",
+        "hertz"
+    ]
+},
+  "bbox": [
+    -114.300863,
+    48.41444,
+    -114.300863,
+    48.41444
+],
+  "geometry": {"coordinates":[-114.30086300000001,48.41444],"type":"Point"}
+}

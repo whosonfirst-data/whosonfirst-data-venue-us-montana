@@ -1,0 +1,71 @@
+{
+  "id": 873562225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.571935,45.651142,-110.571935,45.651142",
+    "geom:latitude":45.651142,
+    "geom:longitude":-110.571935,
+    "iso:country":"US",
+    "sg:address":"1313 W Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 7051",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EOdihmbjXnUbTTuNfefkp_45.651142_-110.571935@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294523,
+    "wof:geomhash":"bca3e75f41ba8ec99e61e185dfeae408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873562225
+        }
+    ],
+    "wof:id":873562225,
+    "wof:lastmodified":1464294523,
+    "wof:name":"Matt Long Photography",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -110.571935,
+    45.651142,
+    -110.571935,
+    45.651142
+],
+  "geometry": {"coordinates":[-110.571935,45.651142],"type":"Point"}
+}

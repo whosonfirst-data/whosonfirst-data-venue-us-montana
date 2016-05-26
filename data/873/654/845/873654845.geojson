@@ -1,0 +1,71 @@
+{
+  "id": 873654845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.33553,48.369608,-114.33553,48.369608",
+    "geom:latitude":48.369608,
+    "geom:longitude":-114.33553,
+    "iso:country":"US",
+    "sg:address":"5735 US Hwy 93",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 5181",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V5v8dYQScX6eC9DEVs5X0_48.369608_-114.335530@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295644,
+    "wof:geomhash":"25f883299ad8404cbe337df2dcfbec38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873654845
+        }
+    ],
+    "wof:id":873654845,
+    "wof:lastmodified":1464295644,
+    "wof:name":"Big Sky Propeller Co",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -114.33553,
+    48.369608,
+    -114.33553,
+    48.369608
+],
+  "geometry": {"coordinates":[-114.33553000000001,48.369608],"type":"Point"}
+}

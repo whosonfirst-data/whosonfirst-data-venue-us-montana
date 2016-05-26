@@ -1,0 +1,76 @@
+{
+  "id": 873700805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.065983,45.692467,-111.065983,45.692467",
+    "geom:latitude":45.692467,
+    "geom:longitude":-111.065983,
+    "iso:country":"US",
+    "sg:address":"2104 Maplewood St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/bozeman/129716-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 4101",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        420525553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bevo0e67oAYtpg2AT4Srq_45.692467_-111.065983@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296414,
+    "wof:geomhash":"bad159c25ac11a260ebf6f84ec219a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":420525553,
+            "region_id":85688617,
+            "venue_id":873700805
+        }
+    ],
+    "wof:id":873700805,
+    "wof:lastmodified":1464296414,
+    "wof:name":"Subway",
+    "wof:parent_id":420525553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -111.065983,
+    45.692467,
+    -111.065983,
+    45.692467
+],
+  "geometry": {"coordinates":[-111.065983,45.692467],"type":"Point"}
+}

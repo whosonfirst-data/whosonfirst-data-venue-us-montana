@@ -1,0 +1,75 @@
+{
+  "id": 873621143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.554297,45.760766,-108.554297,45.760766",
+    "geom:latitude":45.760766,
+    "geom:longitude":-108.554297,
+    "iso:country":"US",
+    "sg:address":"501 Daniel St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 7258",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G1HEW3z917Q6DiT1kBvqe_45.760766_-108.554297@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295262,
+    "wof:geomhash":"25ad1c128fe5d4c3ff611e2c5f93c610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873621143
+        }
+    ],
+    "wof:id":873621143,
+    "wof:lastmodified":1464295262,
+    "wof:name":"Circuit Electric",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.554297,
+    45.760766,
+    -108.554297,
+    45.760766
+],
+  "geometry": {"coordinates":[-108.55429700000001,45.760766],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873649601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.019654,46.878047,-114.019654,46.878047",
+    "geom:latitude":46.878047,
+    "geom:longitude":-114.019654,
+    "iso:country":"US",
+    "sg:address":"1555 Liberty Ln",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 3206",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v1DpuqRuh7MLAmL6P0aKU_46.878047_-114.019654@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295582,
+    "wof:geomhash":"179d93f71ed136dd46fd7c51c85cd36d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873649601
+        }
+    ],
+    "wof:id":873649601,
+    "wof:lastmodified":1464295582,
+    "wof:name":"Desert Oasis Salon",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -114.019654,
+    46.878047,
+    -114.019654,
+    46.878047
+],
+  "geometry": {"coordinates":[-114.019654,46.878047],"type":"Point"}
+}

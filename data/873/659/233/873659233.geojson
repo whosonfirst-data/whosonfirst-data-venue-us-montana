@@ -1,0 +1,74 @@
+{
+  "id": 873659233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.498008,45.776117,-108.498008,45.776117",
+    "geom:latitude":45.776117,
+    "geom:longitude":-108.498008,
+    "iso:country":"US",
+    "sg:address":"530 S 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 0965",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "union"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876261,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Va8NWOR0eJV1ByZKV9QEU_45.776117_-108.498008@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295691,
+    "wof:geomhash":"a4a93b03a140725903b20cbff5855d45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876261,
+            "region_id":85688617,
+            "venue_id":873659233
+        }
+    ],
+    "wof:id":873659233,
+    "wof:lastmodified":1464295691,
+    "wof:name":"Lee's 27th Street Saloon",
+    "wof:parent_id":85876261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "union"
+    ]
+},
+  "bbox": [
+    -108.498008,
+    45.776117,
+    -108.498008,
+    45.776117
+],
+  "geometry": {"coordinates":[-108.498008,45.776117],"type":"Point"}
+}

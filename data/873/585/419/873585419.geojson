@@ -1,0 +1,71 @@
+{
+  "id": 873585419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.58592,45.795144,-108.58592,45.795144",
+    "geom:latitude":45.795144,
+    "geom:longitude":-108.58592,
+    "iso:country":"US",
+    "sg:address":"2820 Lyndale Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 1989",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TadOif05y2WkzuUiqiBfn_45.795144_-108.585920@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294778,
+    "wof:geomhash":"d51de1381702452bd5a28924711878eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873585419
+        }
+    ],
+    "wof:id":873585419,
+    "wof:lastmodified":1464294778,
+    "wof:name":"Wicks & Assoc LLC",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -108.58592,
+    45.795144,
+    -108.58592,
+    45.795144
+],
+  "geometry": {"coordinates":[-108.58592,45.795144],"type":"Point"}
+}

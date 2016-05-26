@@ -1,0 +1,73 @@
+{
+  "id": 873637863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.257086,48.223296,-114.257086,48.223296",
+    "geom:latitude":48.223296,
+    "geom:longitude":-114.257086,
+    "iso:country":"US",
+    "sg:address":"1750 State Hwy 35",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 8121",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "equipment",
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24lgcMLQFPiMsHWs96rNuW_48.223296_-114.257086@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295453,
+    "wof:geomhash":"26d1ab61fcdf670b059cadf1a8389e65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873637863
+        }
+    ],
+    "wof:id":873637863,
+    "wof:lastmodified":1464295453,
+    "wof:name":"Advanced Restaurant Supply",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -114.257086,
+    48.223296,
+    -114.257086,
+    48.223296
+],
+  "geometry": {"coordinates":[-114.257086,48.223296],"type":"Point"}
+}

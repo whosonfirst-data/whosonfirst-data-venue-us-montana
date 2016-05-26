@@ -1,0 +1,78 @@
+{
+  "id": 873662317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.659858,45.769731,-108.659858,45.769731",
+    "geom:latitude":45.769731,
+    "geom:longitude":-108.659858,
+    "iso:country":"US",
+    "sg:address":"5645 Central Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 1207",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "used",
+        "boiler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m6vaV9StSPlC5LPss02Yr_45.769731_-108.659858@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295723,
+    "wof:geomhash":"08368697fb733ae4d6962446ecd8c638",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873662317
+        }
+    ],
+    "wof:id":873662317,
+    "wof:lastmodified":1464295723,
+    "wof:name":"Robinsons Mechanical Contg LLC",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "boiler"
+    ]
+},
+  "bbox": [
+    -108.659858,
+    45.769731,
+    -108.659858,
+    45.769731
+],
+  "geometry": {"coordinates":[-108.659858,45.769731],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873580843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.004946,46.866052,-114.004946,46.866052",
+    "geom:latitude":46.866052,
+    "geom:longitude":-114.004946,
+    "iso:country":"US",
+    "sg:address":"510 S 4th St W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 327 8830",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JB7xniHVgtNhvVORpSKnb_46.866052_-114.004946@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294731,
+    "wof:geomhash":"1a193f66ec03290ada2bfe1a29125788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891731,
+            "region_id":85688617,
+            "venue_id":873580843
+        }
+    ],
+    "wof:id":873580843,
+    "wof:lastmodified":1464294731,
+    "wof:name":"Linda Kastelowitz",
+    "wof:parent_id":85891731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -114.004946,
+    46.866052,
+    -114.004946,
+    46.866052
+],
+  "geometry": {"coordinates":[-114.004946,46.866052],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873698457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.561419,45.661026,-110.561419,45.661026",
+    "geom:latitude":45.661026,
+    "geom:longitude":-110.561419,
+    "iso:country":"US",
+    "sg:address":"123 N 2nd St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/upper-yellowstone-valley/237256-2nd-street-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 9463",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fsaRFlaMQlNPLHq5iIp7y_45.661026_-110.561419@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296389,
+    "wof:geomhash":"1167313239765b09dd426fd310ea6636",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873698457
+        }
+    ],
+    "wof:id":873698457,
+    "wof:lastmodified":1464296389,
+    "wof:name":"2nd Street Bistro",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -110.561419,
+    45.661026,
+    -110.561419,
+    45.661026
+],
+  "geometry": {"coordinates":[-110.561419,45.661026],"type":"Point"}
+}

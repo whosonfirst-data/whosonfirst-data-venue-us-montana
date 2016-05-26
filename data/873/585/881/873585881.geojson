@@ -1,0 +1,71 @@
+{
+  "id": 873585881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.103037,46.889936,-114.103037,46.889936",
+    "geom:latitude":46.889936,
+    "geom:longitude":-114.103037,
+    "iso:country":"US",
+    "sg:address":"141 New Meadows Dr",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 721 5270",
+    "sg:postcode":"59808",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CBdHQwsxHSfTjsizMIgut_46.889936_-114.103037@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294782,
+    "wof:geomhash":"6d05b95099694bd5fc524f23c83c45bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873585881
+        }
+    ],
+    "wof:id":873585881,
+    "wof:lastmodified":1464294782,
+    "wof:name":"Whittier Field Service",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -114.103037,
+    46.889936,
+    -114.103037,
+    46.889936
+],
+  "geometry": {"coordinates":[-114.103037,46.889936],"type":"Point"}
+}

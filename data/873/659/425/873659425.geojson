@@ -1,0 +1,74 @@
+{
+  "id": 873659425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.577386,45.657318,-110.577386,45.657318",
+    "geom:latitude":45.657318,
+    "geom:longitude":-110.577386,
+    "iso:country":"US",
+    "sg:address":"1204 W Front St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 7761",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "sg:website":"www.iron-images.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iwZgxDNs4mDHTXG1Re1C0_45.657318_-110.577386@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295692,
+    "wof:geomhash":"6ba85314cc6d6770b3e2283971ca30d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867995,
+            "region_id":85688617,
+            "venue_id":873659425
+        }
+    ],
+    "wof:id":873659425,
+    "wof:lastmodified":1464295692,
+    "wof:name":"Iron Images",
+    "wof:parent_id":85867995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -110.577386,
+    45.657318,
+    -110.577386,
+    45.657318
+],
+  "geometry": {"coordinates":[-110.577386,45.657318],"type":"Point"}
+}

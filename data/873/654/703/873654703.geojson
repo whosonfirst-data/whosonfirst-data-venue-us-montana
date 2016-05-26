@@ -1,0 +1,73 @@
+{
+  "id": 873654703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.624165,45.797125,-108.624165,45.797125",
+    "geom:latitude":45.797125,
+    "geom:longitude":-108.624165,
+    "iso:country":"US",
+    "sg:address":"2606 Country Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 4033",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z805M4iPTet8p3niErOza_45.797125_-108.624165@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295642,
+    "wof:geomhash":"dceb2cfb82f1f8fa8d02f2cedef0bcb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873654703
+        }
+    ],
+    "wof:id":873654703,
+    "wof:lastmodified":1464295642,
+    "wof:name":"High Country Lighting Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -108.624165,
+    45.797125,
+    -108.624165,
+    45.797125
+],
+  "geometry": {"coordinates":[-108.624165,45.797125],"type":"Point"}
+}

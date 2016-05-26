@@ -1,0 +1,76 @@
+{
+  "id": 873698671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.518326,45.792975,-108.518326,45.792975",
+    "geom:latitude":45.792975,
+    "geom:longitude":-108.518326,
+    "iso:country":"US",
+    "sg:address":"2900 12th Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/129725-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 8921",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yUuC9DeLQ0S0sHFDa3brn_45.792975_-108.518326@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296390,
+    "wof:geomhash":"95adeee7efef52f9d8285fcfd0afeda4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873698671
+        }
+    ],
+    "wof:id":873698671,
+    "wof:lastmodified":1464296390,
+    "wof:name":"Subway",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -108.518326,
+    45.792975,
+    -108.518326,
+    45.792975
+],
+  "geometry": {"coordinates":[-108.518326,45.792975],"type":"Point"}
+}

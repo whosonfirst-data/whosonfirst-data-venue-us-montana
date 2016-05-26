@@ -1,0 +1,71 @@
+{
+  "id": 873605391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.053414,45.660083,-111.053414,45.660083",
+    "geom:latitude":45.660083,
+    "geom:longitude":-111.053414,
+    "iso:country":"US",
+    "sg:address":"1934 Stadium Dr",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 586 7342",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fund"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KN4g6LUusP28zBkmIfjfL_45.660083_-111.053414@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295046,
+    "wof:geomhash":"89c235f9625fed3375205822c9576d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891709,
+            "region_id":85688617,
+            "venue_id":873605391
+        }
+    ],
+    "wof:id":873605391,
+    "wof:lastmodified":1464295046,
+    "wof:name":"Montana Pension Administration",
+    "wof:parent_id":85891709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund"
+    ]
+},
+  "bbox": [
+    -111.053414,
+    45.660083,
+    -111.053414,
+    45.660083
+],
+  "geometry": {"coordinates":[-111.053414,45.660083],"type":"Point"}
+}

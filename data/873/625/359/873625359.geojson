@@ -1,0 +1,71 @@
+{
+  "id": 873625359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.58233,45.77987,-108.58233,45.77987",
+    "geom:latitude":45.77987,
+    "geom:longitude":-108.58233,
+    "iso:country":"US",
+    "sg:address":"2631 Clark Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 4901",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iybIha7wNGgYpVUa9owBk_45.779870_-108.582330@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295314,
+    "wof:geomhash":"00180520608003dc9206071e4fb84d90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873625359
+        }
+    ],
+    "wof:id":873625359,
+    "wof:lastmodified":1464295314,
+    "wof:name":"Mountain High Spirits Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -108.58233,
+    45.77987,
+    -108.58233,
+    45.77987
+],
+  "geometry": {"coordinates":[-108.58233,45.77987],"type":"Point"}
+}

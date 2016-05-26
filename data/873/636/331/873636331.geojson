@@ -1,0 +1,73 @@
+{
+  "id": 873636331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.56956,45.794966,-108.56956,45.794966",
+    "geom:latitude":45.794966,
+    "geom:longitude":-108.56956,
+    "iso:country":"US",
+    "sg:address":"2404 21st St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 8585",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QibmJtd1F3S8TVjAKtSsR_45.794966_-108.569560@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295435,
+    "wof:geomhash":"468785f9548198924ee6c401826fd128",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873636331
+        }
+    ],
+    "wof:id":873636331,
+    "wof:lastmodified":1464295435,
+    "wof:name":"Brown Plumbing & Heating Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.56956,
+    45.794966,
+    -108.56956,
+    45.794966
+],
+  "geometry": {"coordinates":[-108.56956,45.794966],"type":"Point"}
+}

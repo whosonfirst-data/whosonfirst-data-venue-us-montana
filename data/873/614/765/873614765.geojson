@@ -1,0 +1,71 @@
+{
+  "id": 873614765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.137309,48.189408,-114.137309,48.189408",
+    "geom:latitude":48.189408,
+    "geom:longitude":-114.137309,
+    "iso:country":"US",
+    "sg:address":"4498 State Hwy 35",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 0163",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "rescue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZNPYktApyL2vkjBCWq4Ad_48.189408_-114.137309@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295193,
+    "wof:geomhash":"3472832b85c376cd4076ffd315108ca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873614765
+        }
+    ],
+    "wof:id":873614765,
+    "wof:lastmodified":1464295193,
+    "wof:name":"Creston Fire District",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rescue"
+    ]
+},
+  "bbox": [
+    -114.137309,
+    48.189408,
+    -114.137309,
+    48.189408
+],
+  "geometry": {"coordinates":[-114.137309,48.189408],"type":"Point"}
+}

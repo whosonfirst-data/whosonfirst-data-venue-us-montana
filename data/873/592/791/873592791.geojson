@@ -1,0 +1,81 @@
+{
+  "id": 873592791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.609208,45.756932,-108.609208,45.756932",
+    "geom:latitude":45.756932,
+    "geom:longitude":-108.609208,
+    "iso:country":"US",
+    "sg:address":"3660 Rosebud Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 651 4244",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85972929,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QuyBtdVjv0BSIjTZEigxc_45.756932_-108.609208@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294866,
+    "wof:geomhash":"9ba5ebcab460dc559f91bf5a9fb436b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873592791
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873592791
+        }
+    ],
+    "wof:id":873592791,
+    "wof:lastmodified":1464294866,
+    "wof:name":"Kitchen Solvers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.609208,
+    45.756932,
+    -108.609208,
+    45.756932
+],
+  "geometry": {"coordinates":[-108.609208,45.756932],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873661661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.550052,45.760987,-108.550052,45.760987",
+    "geom:latitude":45.760987,
+    "geom:longitude":-108.550052,
+    "iso:country":"US",
+    "sg:address":"504 Bernard St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 698 7880",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58cn3CXBKb73BB1bLKOscj_45.760987_-108.550052@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295716,
+    "wof:geomhash":"2a9b0865a04e9353010d11ca3903ee5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873661661
+        }
+    ],
+    "wof:id":873661661,
+    "wof:lastmodified":1464295716,
+    "wof:name":"Island Breeze",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -108.550052,
+    45.760987,
+    -108.550052,
+    45.760987
+],
+  "geometry": {"coordinates":[-108.55005199999999,45.760987],"type":"Point"}
+}

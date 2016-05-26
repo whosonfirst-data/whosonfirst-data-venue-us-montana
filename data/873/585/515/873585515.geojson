@@ -1,0 +1,71 @@
+{
+  "id": 873585515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.309878,48.18797,-114.309878,48.18797",
+    "geom:latitude":48.18797,
+    "geom:longitude":-114.309878,
+    "iso:country":"US",
+    "sg:address":"1108 S Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 8001",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bebZL9S8KNY178GC3DplE_48.187970_-114.309878@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294778,
+    "wof:geomhash":"775aca7997a273264682fe48befc441a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873585515
+        }
+    ],
+    "wof:id":873585515,
+    "wof:lastmodified":1464294778,
+    "wof:name":"UBS Financial Services Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -114.309878,
+    48.18797,
+    -114.309878,
+    48.18797
+],
+  "geometry": {"coordinates":[-114.309878,48.18797],"type":"Point"}
+}

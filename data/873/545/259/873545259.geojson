@@ -1,0 +1,71 @@
+{
+  "id": 873545259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.155134,48.319969,-114.155134,48.319969",
+    "geom:latitude":48.319969,
+    "geom:longitude":-114.155134,
+    "iso:country":"US",
+    "sg:address":"642 Eckelberry Dr",
+    "sg:city":"Columbia Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 892 3496",
+    "sg:postcode":"59912",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rfpyYB5wpA8KP0aFGxcEX_48.319969_-114.155134@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294319,
+    "wof:geomhash":"eb2ce590b25c3c19e689e5a9b628efcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873545259
+        }
+    ],
+    "wof:id":873545259,
+    "wof:lastmodified":1464294319,
+    "wof:name":"Country Muffler",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -114.155134,
+    48.319969,
+    -114.155134,
+    48.319969
+],
+  "geometry": {"coordinates":[-114.155134,48.319969],"type":"Point"}
+}

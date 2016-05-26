@@ -1,0 +1,69 @@
+{
+  "id": 873535891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.541195,45.749974,-108.541195,45.749974",
+    "geom:latitude":45.749974,
+    "geom:longitude":-108.541195,
+    "iso:country":"US",
+    "sg:address":"5044 Midland Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 5392",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SD6b8dddPtyFsddIxsYh0_45.749974_-108.541195@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294214,
+    "wof:geomhash":"e19949f11fa5e96335457424af3ced91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873535891
+        }
+    ],
+    "wof:id":873535891,
+    "wof:lastmodified":1464294214,
+    "wof:name":"Rimrock Trailways",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -108.541195,
+    45.749974,
+    -108.541195,
+    45.749974
+],
+  "geometry": {"coordinates":[-108.541195,45.749974],"type":"Point"}
+}

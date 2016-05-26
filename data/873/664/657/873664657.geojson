@@ -1,0 +1,71 @@
+{
+  "id": 873664657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.595128,45.7954,-108.595128,45.7954",
+    "geom:latitude":45.7954,
+    "geom:longitude":-108.595128,
+    "iso:country":"US",
+    "sg:address":"2606 Beartooth Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 0548",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w8VvmHAXRqCFvHcdB5Bsl_45.795400_-108.595128@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295746,
+    "wof:geomhash":"b6cf6bb4a5018898876b7ef6fae5cd40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873664657
+        }
+    ],
+    "wof:id":873664657,
+    "wof:lastmodified":1464295746,
+    "wof:name":"Beartooth Heating & Cooling",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.595128,
+    45.7954,
+    -108.595128,
+    45.7954
+],
+  "geometry": {"coordinates":[-108.595128,45.7954],"type":"Point"}
+}

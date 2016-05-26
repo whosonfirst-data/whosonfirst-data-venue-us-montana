@@ -1,0 +1,71 @@
+{
+  "id": 873616867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.756799,45.650501,-108.756799,45.650501",
+    "geom:latitude":45.650501,
+    "geom:longitude":-108.756799,
+    "iso:country":"US",
+    "sg:address":"1547 US Hwy 212 S",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 6901",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xBX4ctin3YDQRtGIiA6KI_45.650501_-108.756799@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295214,
+    "wof:geomhash":"959ec4d0dd69adc788174a4c0d9ee11f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873616867
+        }
+    ],
+    "wof:id":873616867,
+    "wof:lastmodified":1464295214,
+    "wof:name":"Big Sky Radiator & Wrecker",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -108.756799,
+    45.650501,
+    -108.756799,
+    45.650501
+],
+  "geometry": {"coordinates":[-108.756799,45.650501],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873604617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.514014,45.792305,-108.514014,45.792305",
+    "geom:latitude":45.792305,
+    "geom:longitude":-108.514014,
+    "iso:country":"US",
+    "sg:address":"1020 N 27th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 238 2500",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mFo0g3ejviSzs8SRMo6Ll_45.792305_-108.514014@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295035,
+    "wof:geomhash":"d4fbfb2bd79f144a6b040bae3d7d1e43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873604617
+        }
+    ],
+    "wof:id":873604617,
+    "wof:lastmodified":1464295035,
+    "wof:name":"Alan Langbard MD",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -108.514014,
+    45.792305,
+    -108.514014,
+    45.792305
+],
+  "geometry": {"coordinates":[-108.514014,45.792305],"type":"Point"}
+}

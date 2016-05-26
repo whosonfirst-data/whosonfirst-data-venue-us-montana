@@ -1,0 +1,70 @@
+{
+  "id": 873647269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.503215,45.786929,-108.503215,45.786929",
+    "geom:latitude":45.786929,
+    "geom:longitude":-108.503215,
+    "iso:country":"US",
+    "sg:address":"315 N 24th St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 248 2611",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "sg:website":"www.brownfirm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Bz1BikZwYSJlEsYtVshJa_45.786929_-108.503215@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295559,
+    "wof:geomhash":"3d6e84cc62c40ac6e9eb19f859e3f3d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873647269
+        }
+    ],
+    "wof:id":873647269,
+    "wof:lastmodified":1464295559,
+    "wof:name":"Brown Law Firm",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -108.503215,
+    45.786929,
+    -108.503215,
+    45.786929
+],
+  "geometry": {"coordinates":[-108.503215,45.786929],"type":"Point"}
+}

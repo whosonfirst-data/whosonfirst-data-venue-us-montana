@@ -1,0 +1,79 @@
+{
+  "id": 873540379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.624864,45.770491,-108.624864,45.770491",
+    "geom:latitude":45.770491,
+    "geom:longitude":-108.624864,
+    "iso:country":"US",
+    "sg:address":"31 Saddle Tree Pl",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 698 6873",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267,
+        85876265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uYzxkASH453eiBu316dFs_45.770491_-108.624864@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294263,
+    "wof:geomhash":"f8c7bda9cfee8acc4136957f0358f43e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873540379
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873540379
+        }
+    ],
+    "wof:id":873540379,
+    "wof:lastmodified":1464294263,
+    "wof:name":"Harris Landscaping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -108.624864,
+    45.770491,
+    -108.624864,
+    45.770491
+],
+  "geometry": {"coordinates":[-108.624864,45.770491],"type":"Point"}
+}

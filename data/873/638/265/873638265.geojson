@@ -1,0 +1,71 @@
+{
+  "id": 873638265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.282062,48.21568,-114.282062,48.21568",
+    "geom:latitude":48.21568,
+    "geom:longitude":-114.282062,
+    "iso:country":"US",
+    "sg:address":"29 W Cottonwood Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 0516",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G1aC0oVK8OF7rpWj786op_48.215680_-114.282062@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295457,
+    "wof:geomhash":"30094e8495952587cf67a51cbfdaef1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873638265
+        }
+    ],
+    "wof:id":873638265,
+    "wof:lastmodified":1464295457,
+    "wof:name":"Mitchs Auto Works",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -114.282062,
+    48.21568,
+    -114.282062,
+    48.21568
+],
+  "geometry": {"coordinates":[-114.282062,48.21568],"type":"Point"}
+}

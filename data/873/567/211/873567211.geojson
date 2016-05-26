@@ -1,0 +1,80 @@
+{
+  "id": 873567211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.581422,45.750652,-108.581422,45.750652",
+    "geom:latitude":45.750652,
+    "geom:longitude":-108.581422,
+    "iso:country":"US",
+    "sg:address":"2595 Enterprise Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4414",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "instrument",
+        "surveying"
+    ],
+    "sg:website":"www.selbys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aXtkpx8AJMIBRjqG0L7fh_45.750652_-108.581422@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294577,
+    "wof:geomhash":"94a7e1932ac9594209cc08351615dd24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873567211
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873567211
+        }
+    ],
+    "wof:id":873567211,
+    "wof:lastmodified":1464294577,
+    "wof:name":"Selby's Essco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "surveying"
+    ]
+},
+  "bbox": [
+    -108.581422,
+    45.750652,
+    -108.581422,
+    45.750652
+],
+  "geometry": {"coordinates":[-108.581422,45.750652],"type":"Point"}
+}

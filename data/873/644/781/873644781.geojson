@@ -1,0 +1,86 @@
+{
+  "id": 873644781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.583532,45.750447,-108.583532,45.750447",
+    "geom:latitude":45.750447,
+    "geom:longitude":-108.583532,
+    "iso:country":"US",
+    "sg:address":"2701 Enterprise Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 254 2888",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "retail",
+        "printer",
+        "digital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KRtRcjtD3ZGstTIDaqsnZ_45.750447_-108.583532@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295534,
+    "wof:geomhash":"44bb526741387e3f16fe8a251a94a3e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873644781
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873644781
+        }
+    ],
+    "wof:id":873644781,
+    "wof:lastmodified":1464295534,
+    "wof:name":"Big Sky Digital Printing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "printer",
+        "digital"
+    ]
+},
+  "bbox": [
+    -108.583532,
+    45.750447,
+    -108.583532,
+    45.750447
+],
+  "geometry": {"coordinates":[-108.58353200000001,45.750447],"type":"Point"}
+}

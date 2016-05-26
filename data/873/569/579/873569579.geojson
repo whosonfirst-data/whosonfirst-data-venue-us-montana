@@ -1,0 +1,71 @@
+{
+  "id": 873569579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470828,45.814545,-108.470828,45.814545",
+    "geom:latitude":45.814545,
+    "geom:longitude":-108.470828,
+    "iso:country":"US",
+    "sg:address":"848 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 9101",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "coal",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZaCLw3qTIYswYr4YC7Sfx_45.814545_-108.470828@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294605,
+    "wof:geomhash":"1bb34c8c75be55880fbad4d5e69c3f7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873569579
+        }
+    ],
+    "wof:id":873569579,
+    "wof:lastmodified":1464294605,
+    "wof:name":"Yellowstone Coal",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coal",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -108.470828,
+    45.814545,
+    -108.470828,
+    45.814545
+],
+  "geometry": {"coordinates":[-108.470828,45.814545],"type":"Point"}
+}

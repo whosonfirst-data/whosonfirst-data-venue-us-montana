@@ -1,0 +1,77 @@
+{
+  "id": 873638189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.093797,45.672286,-111.093797,45.672286",
+    "geom:latitude":45.672286,
+    "geom:longitude":-111.093797,
+    "iso:country":"US",
+    "sg:address":"676 S Ferguson Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 585 7443",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "merchant",
+        "credit",
+        "processor",
+        "card"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972647,
+        102085133,
+        85891697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JPgVReLK6z2rEsaoP8Snn_45.672286_-111.093797@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295456,
+    "wof:geomhash":"89327ed76cca63dd0a488a44c3b92c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85891697,
+            "region_id":85688617,
+            "venue_id":873638189
+        }
+    ],
+    "wof:id":873638189,
+    "wof:lastmodified":1464295456,
+    "wof:name":"Frontline Processing Corp",
+    "wof:parent_id":85891697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchant",
+        "credit",
+        "processor",
+        "card"
+    ]
+},
+  "bbox": [
+    -111.093797,
+    45.672286,
+    -111.093797,
+    45.672286
+],
+  "geometry": {"coordinates":[-111.093797,45.672286],"type":"Point"}
+}

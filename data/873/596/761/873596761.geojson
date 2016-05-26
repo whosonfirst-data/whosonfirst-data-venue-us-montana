@@ -1,0 +1,81 @@
+{
+  "id": 873596761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.596726,45.750433,-108.596726,45.750433",
+    "geom:latitude":45.750433,
+    "geom:longitude":-108.596726,
+    "iso:country":"US",
+    "sg:address":"1151 S 32nd St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 0110",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F7yDMjCW3TLuDWhUN2305_45.750433_-108.596726@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294942,
+    "wof:geomhash":"a1722dc50c60cc69d4947c4f25b7eeab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873596761
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873596761
+        }
+    ],
+    "wof:id":873596761,
+    "wof:lastmodified":1464294942,
+    "wof:name":"C & L Truck Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -108.596726,
+    45.750433,
+    -108.596726,
+    45.750433
+],
+  "geometry": {"coordinates":[-108.596726,45.750433],"type":"Point"}
+}

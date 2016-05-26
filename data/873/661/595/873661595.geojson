@@ -1,0 +1,71 @@
+{
+  "id": 873661595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.496505,45.787762,-108.496505,45.787762",
+    "geom:latitude":45.787762,
+    "geom:longitude":-108.496505,
+    "iso:country":"US",
+    "sg:address":"1920 2nd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 6016",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32zK9X5iP8nb9Pg4SJsHuE_45.787762_-108.496505@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295715,
+    "wof:geomhash":"f5ddbb58e1e8641f040ad46a366827e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873661595
+        }
+    ],
+    "wof:id":873661595,
+    "wof:lastmodified":1464295715,
+    "wof:name":"G & T Plumbing & Mechanical",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.496505,
+    45.787762,
+    -108.496505,
+    45.787762
+],
+  "geometry": {"coordinates":[-108.496505,45.787762],"type":"Point"}
+}

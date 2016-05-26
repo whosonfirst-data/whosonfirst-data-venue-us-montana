@@ -1,0 +1,73 @@
+{
+  "id": 873652375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.559328,45.79673,-108.559328,45.79673",
+    "geom:latitude":45.79673,
+    "geom:longitude":-108.559328,
+    "iso:country":"US",
+    "sg:address":"9 Stanford Ct",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 0349",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TJhBv8sz1F2XhwgfwKd2y_45.796730_-108.559328@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295617,
+    "wof:geomhash":"8c4a7f86a1f4d588e79c4ee5af0035f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873652375
+        }
+    ],
+    "wof:id":873652375,
+    "wof:lastmodified":1464295617,
+    "wof:name":"Deck Construction",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.559328,
+    45.79673,
+    -108.559328,
+    45.79673
+],
+  "geometry": {"coordinates":[-108.55932799999999,45.79673],"type":"Point"}
+}

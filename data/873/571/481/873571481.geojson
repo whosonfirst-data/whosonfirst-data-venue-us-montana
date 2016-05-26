@@ -1,0 +1,75 @@
+{
+  "id": 873571481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.497974,45.787244,-108.497974,45.787244",
+    "geom:latitude":45.787244,
+    "geom:longitude":-108.497974,
+    "iso:country":"US",
+    "sg:address":"2015 2nd Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 4884",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        420525795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ezezt4aNfgePR4OCzhv2d_45.787244_-108.497974@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294625,
+    "wof:geomhash":"770cfdc7a3df853cd80cc4f786ff5419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":420525795,
+            "region_id":85688617,
+            "venue_id":873571481
+        }
+    ],
+    "wof:id":873571481,
+    "wof:lastmodified":1464294625,
+    "wof:name":"1 Stop Automotive",
+    "wof:parent_id":420525795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.497974,
+    45.787244,
+    -108.497974,
+    45.787244
+],
+  "geometry": {"coordinates":[-108.497974,45.787244],"type":"Point"}
+}

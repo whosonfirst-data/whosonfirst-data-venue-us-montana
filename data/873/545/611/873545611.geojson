@@ -1,0 +1,69 @@
+{
+  "id": 873545611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.972122,46.888788,-113.972122,46.888788",
+    "geom:latitude":46.888788,
+    "geom:longitude":-113.972122,
+    "iso:country":"US",
+    "sg:address":"2508 Sycamore St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 3274",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891733,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qH9KkWI7t0iusvMFQu2AO_46.888788_-113.972122@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294323,
+    "wof:geomhash":"57524055570e56afb4d3df7aa2ac1555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891733,
+            "region_id":85688617,
+            "venue_id":873545611
+        }
+    ],
+    "wof:id":873545611,
+    "wof:lastmodified":1464294323,
+    "wof:name":"Huff Construction",
+    "wof:parent_id":85891733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.972122,
+    46.888788,
+    -113.972122,
+    46.888788
+],
+  "geometry": {"coordinates":[-113.972122,46.888788],"type":"Point"}
+}

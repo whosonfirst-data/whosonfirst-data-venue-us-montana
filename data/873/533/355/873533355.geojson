@@ -1,0 +1,77 @@
+{
+  "id": 873533355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.771347,45.665938,-108.771347,45.665938",
+    "geom:latitude":45.665938,
+    "geom:longitude":-108.771347,
+    "iso:country":"US",
+    "sg:address":"305 S 1st Ave",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 7974",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VRVuUaSYpod6BLiz2NxDJ_45.665938_-108.771347@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294166,
+    "wof:geomhash":"daadf29c5ac7e57bc7a6e69b00054398",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873533355
+        }
+    ],
+    "wof:id":873533355,
+    "wof:lastmodified":1464294166,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -108.771347,
+    45.665938,
+    -108.771347,
+    45.665938
+],
+  "geometry": {"coordinates":[-108.77134700000001,45.665938],"type":"Point"}
+}

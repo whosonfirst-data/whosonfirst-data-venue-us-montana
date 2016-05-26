@@ -1,0 +1,78 @@
+{
+  "id": 873635783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.582014,45.744481,-108.582014,45.744481",
+    "geom:latitude":45.744481,
+    "geom:longitude":-108.582014,
+    "iso:country":"US",
+    "sg:address":"2630 Gabel Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 2238",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.abf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p5K54KF9loMt0XaGwIND1_45.744481_-108.582014@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295430,
+    "wof:geomhash":"3b0d85dc51dff46af40666997661c06c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873635783
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873635783
+        }
+    ],
+    "wof:id":873635783,
+    "wof:lastmodified":1464295430,
+    "wof:name":"ABF Freight System Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.582014,
+    45.744481,
+    -108.582014,
+    45.744481
+],
+  "geometry": {"coordinates":[-108.582014,45.744481],"type":"Point"}
+}

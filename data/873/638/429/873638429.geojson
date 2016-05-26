@@ -1,0 +1,71 @@
+{
+  "id": 873638429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.58675,45.781406,-108.58675,45.781406",
+    "geom:latitude":45.781406,
+    "geom:longitude":-108.58675,
+    "iso:country":"US",
+    "sg:address":"1104 28th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 2833",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V75DfR32HIYbMxfD9ISba_45.781406_-108.586750@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295459,
+    "wof:geomhash":"6ad0afa4080eb387c67180f6bd1555fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873638429
+        }
+    ],
+    "wof:id":873638429,
+    "wof:lastmodified":1464295459,
+    "wof:name":"Arctic Inc",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.58675,
+    45.781406,
+    -108.58675,
+    45.781406
+],
+  "geometry": {"coordinates":[-108.58674999999999,45.781406],"type":"Point"}
+}

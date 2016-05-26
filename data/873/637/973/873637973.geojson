@@ -1,0 +1,69 @@
+{
+  "id": 873637973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.946935,46.779067,-113.946935,46.779067",
+    "geom:latitude":46.779067,
+    "geom:longitude":-113.946935,
+    "iso:country":"US",
+    "sg:address":"10248 Bear Run Creek Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 251 4401",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "forestry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85891729,
+        102085103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51UBrxbGvtyqDfLdmjr0O0_46.779067_-113.946935@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295454,
+    "wof:geomhash":"df3532888ced69c8d856a02559a2f42c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "neighbourhood_id":85891729,
+            "region_id":85688617,
+            "venue_id":873637973
+        }
+    ],
+    "wof:id":873637973,
+    "wof:lastmodified":1464295454,
+    "wof:name":"Miller Creek Reforestation",
+    "wof:parent_id":85891729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forestry"
+    ]
+},
+  "bbox": [
+    -113.946935,
+    46.779067,
+    -113.946935,
+    46.779067
+],
+  "geometry": {"coordinates":[-113.946935,46.779067],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873651359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.465939,45.822283,-108.465939,45.822283",
+    "geom:latitude":45.822283,
+    "geom:longitude":-108.465939,
+    "iso:country":"US",
+    "sg:address":"1248 Bench Blvd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 861 1028",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hSc7g7fKzcJCfNNNnEa9c_45.822283_-108.465939@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295601,
+    "wof:geomhash":"d3fdfe8b2555ac6ec72a733d2bf1cd22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873651359
+        }
+    ],
+    "wof:id":873651359,
+    "wof:lastmodified":1464295601,
+    "wof:name":"Upholstery Shop",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -108.465939,
+    45.822283,
+    -108.465939,
+    45.822283
+],
+  "geometry": {"coordinates":[-108.46593900000001,45.822283],"type":"Point"}
+}

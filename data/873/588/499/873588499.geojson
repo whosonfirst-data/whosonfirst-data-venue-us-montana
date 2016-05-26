@@ -1,0 +1,71 @@
+{
+  "id": 873588499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.312931,48.196574,-114.312931,48.196574",
+    "geom:latitude":48.196574,
+    "geom:longitude":-114.312931,
+    "iso:country":"US",
+    "sg:address":"227 Main St",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 9195",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18NMkoo56vHx6mNaCNugaA_48.196574_-114.312931@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294812,
+    "wof:geomhash":"21796d86d97ae8d63700e73bdc3c76ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873588499
+        }
+    ],
+    "wof:id":873588499,
+    "wof:lastmodified":1464294812,
+    "wof:name":"J D Morrell's",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.312931,
+    48.196574,
+    -114.312931,
+    48.196574
+],
+  "geometry": {"coordinates":[-114.31293100000001,48.196574],"type":"Point"}
+}

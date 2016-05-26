@@ -1,0 +1,73 @@
+{
+  "id": 873555107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.308536,48.188925,-114.308536,48.188925",
+    "geom:latitude":48.188925,
+    "geom:longitude":-114.308536,
+    "iso:country":"US",
+    "sg:address":"1037 1st Ave E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 756 8646",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gmizkLPqMVGHfdtmFfkFl_48.188925_-114.308536@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294437,
+    "wof:geomhash":"b9114e23a3c7a68925259c6a133a4146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873555107
+        }
+    ],
+    "wof:id":873555107,
+    "wof:lastmodified":1464294437,
+    "wof:name":"Jason Bechard",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -114.308536,
+    48.188925,
+    -114.308536,
+    48.188925
+],
+  "geometry": {"coordinates":[-114.308536,48.188925],"type":"Point"}
+}

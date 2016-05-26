@@ -1,0 +1,73 @@
+{
+  "id": 873557225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.430057,45.867917,-108.430057,45.867917",
+    "geom:latitude":45.867917,
+    "geom:longitude":-108.430057,
+    "iso:country":"US",
+    "sg:address":"3809 Hwy 312",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 698 2529",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_377iCa4tNje0qSEvqQgWW7_45.867917_-108.430057@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294463,
+    "wof:geomhash":"75fcb359ce850a8faf3413961f6ca0d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873557225
+        }
+    ],
+    "wof:id":873557225,
+    "wof:lastmodified":1464294463,
+    "wof:name":"J Z Auto Sales",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -108.430057,
+    45.867917,
+    -108.430057,
+    45.867917
+],
+  "geometry": {"coordinates":[-108.43005700000001,45.867917],"type":"Point"}
+}

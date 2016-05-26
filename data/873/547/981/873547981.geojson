@@ -1,0 +1,75 @@
+{
+  "id": 873547981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.103695,48.241514,-114.103695,48.241514",
+    "geom:latitude":48.241514,
+    "geom:longitude":-114.103695,
+    "iso:country":"US",
+    "sg:address":"115 Hemler Creek Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 4240",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nU0RXltcUELfpLuUGpzGR_48.241514_-114.103695@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294356,
+    "wof:geomhash":"20db7e5262620fbc3ebc99efde226066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873547981
+        }
+    ],
+    "wof:id":873547981,
+    "wof:lastmodified":1464294356,
+    "wof:name":"J & J Ventures LLC",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -114.103695,
+    48.241514,
+    -114.103695,
+    48.241514
+],
+  "geometry": {"coordinates":[-114.103695,48.241514],"type":"Point"}
+}

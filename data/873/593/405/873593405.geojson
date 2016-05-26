@@ -1,0 +1,77 @@
+{
+  "id": 873593405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.596687,45.735088,-108.596687,45.735088",
+    "geom:latitude":45.735088,
+    "geom:longitude":-108.596687,
+    "iso:country":"US",
+    "sg:address":"2215 Goodman Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 5488",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MzGqlZQuYCNFpEahFZQjI_45.735088_-108.596687@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294874,
+    "wof:geomhash":"b35d522376abd29d5a96579ec4f18882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873593405
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873593405
+        }
+    ],
+    "wof:id":873593405,
+    "wof:lastmodified":1464294874,
+    "wof:name":"Turnbull Livestock",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -108.596687,
+    45.735088,
+    -108.596687,
+    45.735088
+],
+  "geometry": {"coordinates":[-108.596687,45.735088],"type":"Point"}
+}

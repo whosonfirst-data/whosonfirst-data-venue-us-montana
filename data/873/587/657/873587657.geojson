@@ -1,0 +1,71 @@
+{
+  "id": 873587657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.479748,45.794628,-108.479748,45.794628",
+    "geom:latitude":45.794628,
+    "geom:longitude":-108.479748,
+    "iso:country":"US",
+    "sg:address":"600 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 656 1605",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73Be3EU68PeuF9vW92ulIW_45.794628_-108.479748@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294804,
+    "wof:geomhash":"2b83c61c2989cf60d65b5218d43d7588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873587657
+        }
+    ],
+    "wof:id":873587657,
+    "wof:lastmodified":1464294804,
+    "wof:name":"Car Guys",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.479748,
+    45.794628,
+    -108.479748,
+    45.794628
+],
+  "geometry": {"coordinates":[-108.479748,45.794628],"type":"Point"}
+}

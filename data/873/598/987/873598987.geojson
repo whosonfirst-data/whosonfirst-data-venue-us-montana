@@ -1,0 +1,69 @@
+{
+  "id": 873598987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.541102,45.75383,-108.541102,45.75383",
+    "geom:latitude":45.75383,
+    "geom:longitude":-108.541102,
+    "iso:country":"US",
+    "sg:address":"5201 Southgate Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 7626",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876259,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b4eC0edh3oiSHCfncWuU8_45.753830_-108.541102@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294972,
+    "wof:geomhash":"3c82d30884c849675d20b8d1d99f1585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876259,
+            "region_id":85688617,
+            "venue_id":873598987
+        }
+    ],
+    "wof:id":873598987,
+    "wof:lastmodified":1464294972,
+    "wof:name":"Keebler",
+    "wof:parent_id":85876259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -108.541102,
+    45.75383,
+    -108.541102,
+    45.75383
+],
+  "geometry": {"coordinates":[-108.541102,45.75383],"type":"Point"}
+}

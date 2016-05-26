@@ -1,0 +1,73 @@
+{
+  "id": 873667559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.496788,45.786386,-108.496788,45.786386",
+    "geom:latitude":45.786386,
+    "geom:longitude":-108.496788,
+    "iso:country":"US",
+    "sg:address":"2012 1st Ave N",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 256 8366",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cqGn43JknGGk2eXE3GRaO_45.786386_-108.496788@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295775,
+    "wof:geomhash":"0832117922ffda6f1a73de000c4e4989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873667559
+        }
+    ],
+    "wof:id":873667559,
+    "wof:lastmodified":1464295775,
+    "wof:name":"Track Side Auto Body & Glass",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -108.496788,
+    45.786386,
+    -108.496788,
+    45.786386
+],
+  "geometry": {"coordinates":[-108.496788,45.786386],"type":"Point"}
+}

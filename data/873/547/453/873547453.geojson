@@ -1,0 +1,73 @@
+{
+  "id": 873547453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.312383,48.194671,-114.312383,48.194671",
+    "geom:latitude":48.194671,
+    "geom:longitude":-114.312383,
+    "iso:country":"US",
+    "sg:address":"418 Main St",
+    "sg:city":"Eureka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 296 2751",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "county",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wr472L5ADnlGpzi7nGMtB_48.194671_-114.312383@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294345,
+    "wof:geomhash":"6f6c4b553cdf915473041392a33cb5f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873547453
+        }
+    ],
+    "wof:id":873547453,
+    "wof:lastmodified":1464294345,
+    "wof:name":"Lincoln County Wic",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "resource"
+    ]
+},
+  "bbox": [
+    -114.312383,
+    48.194671,
+    -114.312383,
+    48.194671
+],
+  "geometry": {"coordinates":[-114.312383,48.194671],"type":"Point"}
+}

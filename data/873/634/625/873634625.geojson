@@ -1,0 +1,74 @@
+{
+  "id": 873634625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.559603,45.755163,-108.559603,45.755163",
+    "geom:latitude":45.755163,
+    "geom:longitude":-108.559603,
+    "iso:country":"US",
+    "sg:address":"1724 King Ave W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 9728",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "siding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0blKgfx8zDkuloEubJflg0_45.755163_-108.559603@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295419,
+    "wof:geomhash":"412b1e06da0059e1087292016d65e2d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873634625
+        }
+    ],
+    "wof:id":873634625,
+    "wof:lastmodified":1464295419,
+    "wof:name":"Alside Supply Center",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding"
+    ]
+},
+  "bbox": [
+    -108.559603,
+    45.755163,
+    -108.559603,
+    45.755163
+],
+  "geometry": {"coordinates":[-108.559603,45.755163],"type":"Point"}
+}

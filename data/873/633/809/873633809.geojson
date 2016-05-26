@@ -1,0 +1,66 @@
+{
+  "id": 873633809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470662,45.818797,-108.470662,45.818797",
+    "geom:latitude":45.818797,
+    "geom:longitude":-108.470662,
+    "iso:country":"US",
+    "sg:address":"1111 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6400",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jx00gWTyTsPVqgo114qMc_45.818797_-108.470662@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295411,
+    "wof:geomhash":"69b5e6deee8aac1bd010e19e145182a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873633809
+        }
+    ],
+    "wof:id":873633809,
+    "wof:lastmodified":1464295411,
+    "wof:name":"Fiscus Realty",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.470662,
+    45.818797,
+    -108.470662,
+    45.818797
+],
+  "geometry": {"coordinates":[-108.470662,45.818797],"type":"Point"}
+}

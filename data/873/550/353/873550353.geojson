@@ -1,0 +1,73 @@
+{
+  "id": 873550353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.301305,45.908202,-108.301305,45.908202",
+    "geom:latitude":45.908202,
+    "geom:longitude":-108.301305,
+    "iso:country":"US",
+    "sg:address":"1767 N 2nd Rd",
+    "sg:city":"Huntley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 348 2535",
+    "sg:postcode":"59037",
+    "sg:province":"MT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nmRuv0X3lBieKdzad3qX9_45.908202_-108.301305@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294382,
+    "wof:geomhash":"04c01625b43e9eca5425a57dcf05d32e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873550353
+        }
+    ],
+    "wof:id":873550353,
+    "wof:lastmodified":1464294382,
+    "wof:name":"Hanser's Towing & Recovery",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -108.301305,
+    45.908202,
+    -108.301305,
+    45.908202
+],
+  "geometry": {"coordinates":[-108.301305,45.908202],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873653467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.017451,46.877158,-114.017451,46.877158",
+    "geom:latitude":46.877158,
+    "geom:longitude":-114.017451,
+    "iso:country":"US",
+    "sg:address":"1424 Cedar St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 0387",
+    "sg:postcode":"59802",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck",
+        "van",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dAUJTPb41qJsaAxXQJeY0_46.877158_-114.017451@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295630,
+    "wof:geomhash":"2b96c8d7685e370f61c4139108b43182",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873653467
+        }
+    ],
+    "wof:id":873653467,
+    "wof:lastmodified":1464295630,
+    "wof:name":"Blue Ribbon Truck and Van ACC",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "van",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -114.017451,
+    46.877158,
+    -114.017451,
+    46.877158
+],
+  "geometry": {"coordinates":[-114.01745099999999,46.877158],"type":"Point"}
+}

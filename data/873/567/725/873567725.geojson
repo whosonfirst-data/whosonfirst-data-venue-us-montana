@@ -1,0 +1,73 @@
+{
+  "id": 873567725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.01467,46.834699,-114.01467,46.834699",
+    "geom:latitude":46.834699,
+    "geom:longitude":-114.01467,
+    "iso:country":"US",
+    "sg:address":"1001 SW Higgins Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 543 5872",
+    "sg:postcode":"59803",
+    "sg:province":"MT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50kziejM3lziJUFiZSo8WC_46.834699_-114.014670@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294583,
+    "wof:geomhash":"94d2447441c85814d35178b94487fa48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873567725
+        }
+    ],
+    "wof:id":873567725,
+    "wof:lastmodified":1464294583,
+    "wof:name":"Patricia L Webber PHD",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -114.01467,
+    46.834699,
+    -114.01467,
+    46.834699
+],
+  "geometry": {"coordinates":[-114.01467,46.834699],"type":"Point"}
+}

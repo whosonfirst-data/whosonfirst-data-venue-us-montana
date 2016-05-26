@@ -1,0 +1,71 @@
+{
+  "id": 873637409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.045852,46.846062,-114.045852,46.846062",
+    "geom:latitude":46.846062,
+    "geom:longitude":-114.045852,
+    "iso:country":"US",
+    "sg:address":"2835 Fort Missoula Rd",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 327 4353",
+    "sg:postcode":"59804",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X1KVlTt3gVngp2ige2GxC_46.846062_-114.045852@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295449,
+    "wof:geomhash":"5b72b4cd410deab98092677e33fe8369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873637409
+        }
+    ],
+    "wof:id":873637409,
+    "wof:lastmodified":1464295449,
+    "wof:name":"Lawrence Gerstle",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -114.045852,
+    46.846062,
+    -114.045852,
+    46.846062
+],
+  "geometry": {"coordinates":[-114.045852,46.846062],"type":"Point"}
+}

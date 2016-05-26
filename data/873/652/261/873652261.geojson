@@ -1,0 +1,71 @@
+{
+  "id": 873652261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.337427,48.411727,-114.337427,48.411727",
+    "geom:latitude":48.411727,
+    "geom:longitude":-114.337427,
+    "iso:country":"US",
+    "sg:address":"404 E 1st St",
+    "sg:city":"Whitefish",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 862 3969",
+    "sg:postcode":"59937",
+    "sg:province":"MT",
+    "sg:tags":[
+        "parlor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eCzvtnrdYAciCLCz54mm3_48.411727_-114.337427@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295616,
+    "wof:geomhash":"d0d2078104d4358ac14435963ffbeb42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873652261
+        }
+    ],
+    "wof:id":873652261,
+    "wof:lastmodified":1464295616,
+    "wof:name":"Whitefish Shoe Repair",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor"
+    ]
+},
+  "bbox": [
+    -114.337427,
+    48.411727,
+    -114.337427,
+    48.411727
+],
+  "geometry": {"coordinates":[-114.33742700000001,48.411727],"type":"Point"}
+}

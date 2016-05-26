@@ -1,0 +1,75 @@
+{
+  "id": 873676505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.45958,48.146815,-114.45958,48.146815",
+    "geom:latitude":48.146815,
+    "geom:longitude":-114.45958,
+    "iso:country":"US",
+    "sg:address":"415 Vonderheide Ln",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 752 1465",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YByEuNEzmReBWC7pfSoKp_48.146815_-114.459580@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295900,
+    "wof:geomhash":"0d7b6122624dd070a31ce27b34c24dbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873676505
+        }
+    ],
+    "wof:id":873676505,
+    "wof:lastmodified":1464295900,
+    "wof:name":"Bryce Edgmon Trucking Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -114.45958,
+    48.146815,
+    -114.45958,
+    48.146815
+],
+  "geometry": {"coordinates":[-114.45958,48.146815],"type":"Point"}
+}

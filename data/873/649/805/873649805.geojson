@@ -1,0 +1,79 @@
+{
+  "id": 873649805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576221,45.753633,-108.576221,45.753633",
+    "geom:latitude":45.753633,
+    "geom:longitude":-108.576221,
+    "iso:country":"US",
+    "sg:address":"1020 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 1933",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "orthopedic",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bzeHWWODqp4tkuaV9Gxge_45.753633_-108.576221@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295584,
+    "wof:geomhash":"90d6639ed6604798851a6abb3b00fe9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873649805
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873649805
+        }
+    ],
+    "wof:id":873649805,
+    "wof:lastmodified":1464295584,
+    "wof:name":"Big Sky Orthopedics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedic",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -108.576221,
+    45.753633,
+    -108.576221,
+    45.753633
+],
+  "geometry": {"coordinates":[-108.576221,45.753633],"type":"Point"}
+}

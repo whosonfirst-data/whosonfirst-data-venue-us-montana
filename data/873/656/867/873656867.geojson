@@ -1,0 +1,73 @@
+{
+  "id": 873656867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.548314,45.669223,-110.548314,45.669223",
+    "geom:latitude":45.669223,
+    "geom:longitude":-110.548314,
+    "iso:country":"US",
+    "sg:address":"1224 Hwy 10 W",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 8005",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972889,
+        102085059,
+        420525789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wehiizKvUhKuX50Jqenl9_45.669223_-110.548314@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295666,
+    "wof:geomhash":"b761bd6f614768872759fc31f3013ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":420525789,
+            "region_id":85688617,
+            "venue_id":873656867
+        }
+    ],
+    "wof:id":873656867,
+    "wof:lastmodified":1464295666,
+    "wof:name":"Ken's Equipment Repair",
+    "wof:parent_id":420525789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -110.548314,
+    45.669223,
+    -110.548314,
+    45.669223
+],
+  "geometry": {"coordinates":[-110.548314,45.669223],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873616279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.031854,46.848727,-114.031854,46.848727",
+    "geom:latitude":46.848727,
+    "geom:longitude":-114.031854,
+    "iso:country":"US",
+    "sg:address":"2105 South Ave W",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 5092",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IHh1EPZ3svDVtMIxCPfo1_46.848727_-114.031854@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295208,
+    "wof:geomhash":"18f30de8441b40f29cd429477925d536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873616279
+        }
+    ],
+    "wof:id":873616279,
+    "wof:lastmodified":1464295208,
+    "wof:name":"Star Rental Inc",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -114.031854,
+    46.848727,
+    -114.031854,
+    46.848727
+],
+  "geometry": {"coordinates":[-114.031854,46.848727],"type":"Point"}
+}

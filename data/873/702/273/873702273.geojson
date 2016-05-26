@@ -1,0 +1,72 @@
+{
+  "id": 873702273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.566606,45.754909,-108.566606,45.754909",
+    "geom:latitude":45.754909,
+    "geom:longitude":-108.566606,
+    "iso:country":"US",
+    "sg:address":"2001 Overland Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/97510-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 3565",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85859347,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nGJNAf52ydGzo28OtwOo8_45.754889_-108.566595@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464296428,
+    "wof:geomhash":"df620d7a3aabca9765f7546b12a68769",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873702273
+        }
+    ],
+    "wof:id":873702273,
+    "wof:lastmodified":1464296428,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85859347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -108.566606,
+    45.754909,
+    -108.566606,
+    45.754909
+],
+  "geometry": {"coordinates":[-108.56660599999999,45.754909],"type":"Point"}
+}

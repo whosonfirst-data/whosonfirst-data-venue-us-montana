@@ -1,0 +1,73 @@
+{
+  "id": 873650917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.470857,45.823052,-108.470857,45.823052",
+    "geom:latitude":45.823052,
+    "geom:longitude":-108.470857,
+    "iso:country":"US",
+    "sg:address":"1310 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 259 6884",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mpf7XIGZ32ShplF7RUFd7_45.823052_-108.470857@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295597,
+    "wof:geomhash":"d4d0a2d60b1224e0f27dba784afd9aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876249,
+            "region_id":85688617,
+            "venue_id":873650917
+        }
+    ],
+    "wof:id":873650917,
+    "wof:lastmodified":1464295597,
+    "wof:name":"Log Cabin Bakery",
+    "wof:parent_id":85876249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -108.470857,
+    45.823052,
+    -108.470857,
+    45.823052
+],
+  "geometry": {"coordinates":[-108.470857,45.823052],"type":"Point"}
+}

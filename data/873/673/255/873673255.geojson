@@ -1,0 +1,71 @@
+{
+  "id": 873673255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.477278,45.803975,-108.477278,45.803975",
+    "geom:latitude":45.803975,
+    "geom:longitude":-108.477278,
+    "iso:country":"US",
+    "sg:address":"204 Main St",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 896 8450",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cpkeAx7SYNLQD9xPrNYRa_45.803975_-108.477278@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295833,
+    "wof:geomhash":"2bcb592ed67586c624d4453c5a0728db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873673255
+        }
+    ],
+    "wof:id":873673255,
+    "wof:lastmodified":1464295833,
+    "wof:name":"Applebees",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -108.477278,
+    45.803975,
+    -108.477278,
+    45.803975
+],
+  "geometry": {"coordinates":[-108.477278,45.803975],"type":"Point"}
+}

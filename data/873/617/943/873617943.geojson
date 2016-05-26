@@ -1,0 +1,73 @@
+{
+  "id": 873617943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.580697,45.630396,-110.580697,45.630396",
+    "geom:latitude":45.630396,
+    "geom:longitude":-110.580697,
+    "iso:country":"US",
+    "sg:address":"158 Miller Dr",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 3148",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "backhoe",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972889,
+        102085059,
+        85867993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wUNUdio5dQFMqBfcXqqjJ_45.630396_-110.580697@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295224,
+    "wof:geomhash":"949bc4d4c1a9723058f4d616e073af54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":85867993,
+            "region_id":85688617,
+            "venue_id":873617943
+        }
+    ],
+    "wof:id":873617943,
+    "wof:lastmodified":1464295224,
+    "wof:name":"Garys Backhoe & Pump Service",
+    "wof:parent_id":85867993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "backhoe",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -110.580697,
+    45.630396,
+    -110.580697,
+    45.630396
+],
+  "geometry": {"coordinates":[-110.580697,45.630396],"type":"Point"}
+}

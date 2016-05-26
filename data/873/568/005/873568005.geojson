@@ -1,0 +1,73 @@
+{
+  "id": 873568005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.5478,45.785878,-108.5478,45.785878",
+    "geom:latitude":45.785878,
+    "geom:longitude":-108.5478,
+    "iso:country":"US",
+    "sg:address":"1234 Ave C",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 657 6071",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5teXia1jUza6bqM7s6Cvwy_45.785878_-108.547800@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294586,
+    "wof:geomhash":"1e6362bbc9f2a2d27c9e8cdad114c88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876251,
+            "region_id":85688617,
+            "venue_id":873568005
+        }
+    ],
+    "wof:id":873568005,
+    "wof:lastmodified":1464294586,
+    "wof:name":"Vet Center",
+    "wof:parent_id":85876251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -108.5478,
+    45.785878,
+    -108.5478,
+    45.785878
+],
+  "geometry": {"coordinates":[-108.5478,45.785878],"type":"Point"}
+}

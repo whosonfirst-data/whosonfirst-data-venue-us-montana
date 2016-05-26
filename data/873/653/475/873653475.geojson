@@ -1,0 +1,77 @@
+{
+  "id": 873653475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.545277,45.771978,-108.545277,45.771978",
+    "geom:latitude":45.771978,
+    "geom:longitude":-108.545277,
+    "iso:country":"US",
+    "sg:address":"1134 Cook Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6338",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "carwash",
+        "trade",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6em3WUs074f3VdhhJWzD2w_45.771978_-108.545277@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295630,
+    "wof:geomhash":"38f09f2a4c0cff6e699866553fab35bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873653475
+        }
+    ],
+    "wof:id":873653475,
+    "wof:lastmodified":1464295630,
+    "wof:name":"Sparky Mobile Wash",
+    "wof:parent_id":85876247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "trade",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.545277,
+    45.771978,
+    -108.545277,
+    45.771978
+],
+  "geometry": {"coordinates":[-108.545277,45.771978],"type":"Point"}
+}

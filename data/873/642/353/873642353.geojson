@@ -1,0 +1,77 @@
+{
+  "id": 873642353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.591837,45.744282,-108.591837,45.744282",
+    "geom:latitude":45.744282,
+    "geom:longitude":-108.591837,
+    "iso:country":"US",
+    "sg:address":"3088 Gabel Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4797",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "tool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hsv6XUwFmEXvIh6MDRsDv_45.744282_-108.591837@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295504,
+    "wof:geomhash":"43c257c650749c2fd655052a7a5c4a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873642353
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873642353
+        }
+    ],
+    "wof:id":873642353,
+    "wof:lastmodified":1464295504,
+    "wof:name":"Western Tool Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool"
+    ]
+},
+  "bbox": [
+    -108.591837,
+    45.744282,
+    -108.591837,
+    45.744282
+],
+  "geometry": {"coordinates":[-108.591837,45.744282],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873700825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.06672,45.677269,-111.06672,45.677269",
+    "geom:latitude":45.677269,
+    "geom:longitude":-111.06672,
+    "iso:country":"US",
+    "sg:address":"200 S 23rd Ave",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/bozeman/228221-gandolfos-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 582 9010",
+    "sg:postcode":"59718",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        420525661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65QeExpI01CgxujaOwCpSu_45.677269_-111.066720@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296414,
+    "wof:geomhash":"6902c10d21a2c6976a56ed3d1b818e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":420525661,
+            "region_id":85688617,
+            "venue_id":873700825
+        }
+    ],
+    "wof:id":873700825,
+    "wof:lastmodified":1464296414,
+    "wof:name":"Gandolfo's Deli",
+    "wof:parent_id":420525661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.06672,
+    45.677269,
+    -111.06672,
+    45.677269
+],
+  "geometry": {"coordinates":[-111.06672,45.677269],"type":"Point"}
+}

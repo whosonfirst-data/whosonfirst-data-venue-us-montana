@@ -1,0 +1,85 @@
+{
+  "id": 873703023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.593145,45.784156,-108.593145,45.784156",
+    "geom:latitude":45.784156,
+    "geom:longitude":-108.593145,
+    "iso:country":"US",
+    "sg:address":"3137 Grand Ave",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 8370",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L5dPOY8JixyTBy0VWAH52_45.784156_-108.593145@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296435,
+    "wof:geomhash":"462884ae709211996015be4f40508843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873703023
+        }
+    ],
+    "wof:id":873703023,
+    "wof:lastmodified":1464296435,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -108.593145,
+    45.784156,
+    -108.593145,
+    45.784156
+],
+  "geometry": {"coordinates":[-108.59314500000001,45.784156],"type":"Point"}
+}

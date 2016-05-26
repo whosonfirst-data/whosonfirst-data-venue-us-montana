@@ -1,0 +1,71 @@
+{
+  "id": 873629993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.68113,45.740675,-108.68113,45.740675",
+    "geom:latitude":45.740675,
+    "geom:longitude":-108.68113,
+    "iso:country":"US",
+    "sg:address":"6565 Hesper Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 661 6161",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "wiring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HmSXauxZP3Q7xKxIwrNje_45.740675_-108.681130@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295366,
+    "wof:geomhash":"6b243588f71e0aa01fead8a04f98a710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873629993
+        }
+    ],
+    "wof:id":873629993,
+    "wof:lastmodified":1464295366,
+    "wof:name":"Advanced Cable Technologies",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wiring"
+    ]
+},
+  "bbox": [
+    -108.68113,
+    45.740675,
+    -108.68113,
+    45.740675
+],
+  "geometry": {"coordinates":[-108.68113,45.740675],"type":"Point"}
+}

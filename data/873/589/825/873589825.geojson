@@ -1,0 +1,73 @@
+{
+  "id": 873589825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.539289,46.010983,-112.539289,46.010983",
+    "geom:latitude":46.010983,
+    "geom:longitude":-112.539289,
+    "iso:country":"US",
+    "sg:address":"202 S Montana St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 723 6526",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40phNJK1KkhzxZsEYXbilV_46.010983_-112.539289@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294829,
+    "wof:geomhash":"d83f3aa577f68526835c6e176ab39718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873589825
+        }
+    ],
+    "wof:id":873589825,
+    "wof:lastmodified":1464294829,
+    "wof:name":"Divide Creek",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -112.539289,
+    46.010983,
+    -112.539289,
+    46.010983
+],
+  "geometry": {"coordinates":[-112.539289,46.010983],"type":"Point"}
+}

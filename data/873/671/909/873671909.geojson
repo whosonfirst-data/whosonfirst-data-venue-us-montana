@@ -1,0 +1,73 @@
+{
+  "id": 873671909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.182068,47.812873,-112.182068,47.812873",
+    "geom:latitude":47.812873,
+    "geom:longitude":-112.182068,
+    "iso:country":"US",
+    "sg:address":"29 1st St NE",
+    "sg:city":"Choteau",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 466 2927",
+    "sg:postcode":"59422",
+    "sg:province":"MT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972855,
+        102085149,
+        85810939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fIjzshqHysqbbGdpKRYhp_47.812873_-112.182068@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295820,
+    "wof:geomhash":"b66e1a6cc0ae5b30a6829d7f869e06da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085149,
+            "locality_id":85972855,
+            "neighbourhood_id":85810939,
+            "region_id":85688617,
+            "venue_id":873671909
+        }
+    ],
+    "wof:id":873671909,
+    "wof:lastmodified":1464295820,
+    "wof:name":"Rex's Market",
+    "wof:parent_id":85810939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -112.182068,
+    47.812873,
+    -112.182068,
+    47.812873
+],
+  "geometry": {"coordinates":[-112.182068,47.812873],"type":"Point"}
+}

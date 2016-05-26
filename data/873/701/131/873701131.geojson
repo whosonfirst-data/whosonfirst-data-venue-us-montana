@@ -1,0 +1,74 @@
+{
+  "id": 873701131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.011818,46.851107,-114.011818,46.851107",
+    "geom:latitude":46.851107,
+    "geom:longitude":-114.011818,
+    "iso:country":"US",
+    "sg:address":"2100 Stephens Ave",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/237248-vietnam-noodle-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 8299",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "asian",
+        "vietnamese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5seboFWA7xJP43a72784Sw_46.851107_-114.011818@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296417,
+    "wof:geomhash":"7379d3d5e4859b508c1b87833b624b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873701131
+        }
+    ],
+    "wof:id":873701131,
+    "wof:lastmodified":1464296417,
+    "wof:name":"Vietnam Noodle Restaurant",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "vietnamese"
+    ]
+},
+  "bbox": [
+    -114.011818,
+    46.851107,
+    -114.011818,
+    46.851107
+],
+  "geometry": {"coordinates":[-114.01181800000001,46.851107],"type":"Point"}
+}

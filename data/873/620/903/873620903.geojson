@@ -1,0 +1,71 @@
+{
+  "id": 873620903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.294722,48.200861,-114.294722,48.200861",
+    "geom:latitude":48.200861,
+    "geom:longitude":-114.294722,
+    "iso:country":"US",
+    "sg:address":"49 Tahoe Dr",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 257 1106",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FlEVEVjy2mmMSA76HT8R0_48.200861_-114.294722@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295259,
+    "wof:geomhash":"49de2e59dfe1275f7307cef36bc51d2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873620903
+        }
+    ],
+    "wof:id":873620903,
+    "wof:lastmodified":1464295259,
+    "wof:name":"Harolds Auto Service Inc",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -114.294722,
+    48.200861,
+    -114.294722,
+    48.200861
+],
+  "geometry": {"coordinates":[-114.29472199999999,48.200861],"type":"Point"}
+}

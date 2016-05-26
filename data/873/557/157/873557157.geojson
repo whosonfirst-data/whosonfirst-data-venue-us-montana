@@ -1,0 +1,71 @@
+{
+  "id": 873557157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.75684,45.674855,-108.75684,45.674855",
+    "geom:latitude":45.674855,
+    "geom:longitude":-108.75684,
+    "iso:country":"US",
+    "sg:address":"614 Date Ave",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 628 9933",
+    "sg:postcode":"59044",
+    "sg:province":"MT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bnJNxaBobUZiy9MriB9d2_45.674855_-108.756840@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294462,
+    "wof:geomhash":"65b3485aa11bdc0717937d1666333ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876267,
+            "region_id":85688617,
+            "venue_id":873557157
+        }
+    ],
+    "wof:id":873557157,
+    "wof:lastmodified":1464294462,
+    "wof:name":"Angle Surveying",
+    "wof:parent_id":85876267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -108.75684,
+    45.674855,
+    -108.75684,
+    45.674855
+],
+  "geometry": {"coordinates":[-108.75684,45.674855],"type":"Point"}
+}

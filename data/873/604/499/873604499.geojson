@@ -1,0 +1,71 @@
+{
+  "id": 873604499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.299745,48.176609,-114.299745,48.176609",
+    "geom:latitude":48.176609,
+    "geom:longitude":-114.299745,
+    "iso:country":"US",
+    "sg:address":"2300 US Hwy 93 S",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 2714",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gy65CHbBV1W1WarZ2bZik_48.176609_-114.299745@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295034,
+    "wof:geomhash":"31eff7c8db82a76bf4f386ad98e1b765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873604499
+        }
+    ],
+    "wof:id":873604499,
+    "wof:lastmodified":1464295034,
+    "wof:name":"Jensen Jewelers",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -114.299745,
+    48.176609,
+    -114.299745,
+    48.176609
+],
+  "geometry": {"coordinates":[-114.299745,48.176609],"type":"Point"}
+}

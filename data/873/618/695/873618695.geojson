@@ -1,0 +1,75 @@
+{
+  "id": 873618695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.578965,45.795106,-108.578965,45.795106",
+    "geom:latitude":45.795106,
+    "geom:longitude":-108.578965,
+    "iso:country":"US",
+    "sg:address":"2515 Poly Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 4393",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85876255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E0Y4ShqK8AZQ8t3ZfbKd7_45.795106_-108.578965@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295237,
+    "wof:geomhash":"a931f71fb6a2e16fe72f772a92cb871a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876255,
+            "region_id":85688617,
+            "venue_id":873618695
+        }
+    ],
+    "wof:id":873618695,
+    "wof:lastmodified":1464295237,
+    "wof:name":"Titan Repair & Glazing",
+    "wof:parent_id":85876255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -108.578965,
+    45.795106,
+    -108.578965,
+    45.795106
+],
+  "geometry": {"coordinates":[-108.578965,45.795106],"type":"Point"}
+}

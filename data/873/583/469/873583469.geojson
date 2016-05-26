@@ -1,0 +1,71 @@
+{
+  "id": 873583469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.007906,46.853365,-114.007906,46.853365",
+    "geom:latitude":46.853365,
+    "geom:longitude":-114.007906,
+    "iso:country":"US",
+    "sg:address":"1805 Bancroft St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 1900",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HGT8iRc5hgRgyjGf2AFCP_46.853365_-114.007906@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294757,
+    "wof:geomhash":"b1c596ae1da6dd907ce3379ece1d4a8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873583469
+        }
+    ],
+    "wof:id":873583469,
+    "wof:lastmodified":1464294757,
+    "wof:name":"Ideas Unlimited Printing",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -114.007906,
+    46.853365,
+    -114.007906,
+    46.853365
+],
+  "geometry": {"coordinates":[-114.00790600000001,46.853365],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873647377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.529884,46.010932,-112.529884,46.010932",
+    "geom:latitude":46.010932,
+    "geom:longitude":-112.529884,
+    "iso:country":"US",
+    "sg:address":"220 Curtis St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 6461",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "housing",
+        "apartment",
+        "low",
+        "income"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j6s4aRNES2UlmlS5Sc1eD_46.010932_-112.529884@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295560,
+    "wof:geomhash":"a16afa071dc654b5be91d3dbe550c5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873647377
+        }
+    ],
+    "wof:id":873647377,
+    "wof:lastmodified":1464295560,
+    "wof:name":"Public Housing Authority Butte",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "apartment",
+        "low",
+        "income"
+    ]
+},
+  "bbox": [
+    -112.529884,
+    46.010932,
+    -112.529884,
+    46.010932
+],
+  "geometry": {"coordinates":[-112.529884,46.010932],"type":"Point"}
+}

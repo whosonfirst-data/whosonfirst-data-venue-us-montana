@@ -1,0 +1,81 @@
+{
+  "id": 873541541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.576204,45.754118,-108.576204,45.754118",
+    "geom:latitude":45.754118,
+    "geom:longitude":-108.576204,
+    "iso:country":"US",
+    "sg:address":"1070 S 24th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4873",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general",
+        "dwelling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33dDxt91WP71c1zMRsLKbM_45.754118_-108.576204@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294276,
+    "wof:geomhash":"4c8639131d0b67c0d8c1c3fcd5f143ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873541541
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873541541
+        }
+    ],
+    "wof:id":873541541,
+    "wof:lastmodified":1464294276,
+    "wof:name":"J & E Construction Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "dwelling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.576204,
+    45.754118,
+    -108.576204,
+    45.754118
+],
+  "geometry": {"coordinates":[-108.576204,45.754118],"type":"Point"}
+}

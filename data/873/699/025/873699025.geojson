@@ -1,0 +1,84 @@
+{
+  "id": 873699025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.588568,45.755251,-108.588568,45.755251",
+    "geom:latitude":45.755251,
+    "geom:longitude":-108.588568,
+    "iso:country":"US",
+    "sg:address":"2883 King Ave W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/billings/10003-famous-daves/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 4880",
+    "sg:postcode":"59102",
+    "sg:province":"MT",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        102191575,
+        85972929,
+        85876247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MGcwMr0BeCI1jIhIapVua_45.755251_-108.588568@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296394,
+    "wof:geomhash":"44bb2bb6731b28f1ca6b9ebe7897992b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873699025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876247,
+            "region_id":85688617,
+            "venue_id":873699025
+        }
+    ],
+    "wof:id":873699025,
+    "wof:lastmodified":1464296394,
+    "wof:name":"Famous Dave's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -108.588568,
+    45.755251,
+    -108.588568,
+    45.755251
+],
+  "geometry": {"coordinates":[-108.588568,45.755251],"type":"Point"}
+}

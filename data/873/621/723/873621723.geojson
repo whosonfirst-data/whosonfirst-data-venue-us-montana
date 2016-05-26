@@ -1,0 +1,72 @@
+{
+  "id": 873621723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.627674,45.727319,-108.627674,45.727319",
+    "geom:latitude":45.727319,
+    "geom:longitude":-108.627674,
+    "iso:country":"US",
+    "sg:address":"2325 S 44th St W",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 652 5355",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CnY5d9w47GYIENWiiToQB_45.727319_-108.627674@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295268,
+    "wof:geomhash":"da5e9886eb72f885c39731c9bb29bad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873621723
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873621723
+        }
+    ],
+    "wof:id":873621723,
+    "wof:lastmodified":1464295268,
+    "wof:name":"Oui Oui Madame Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -108.627674,
+    45.727319,
+    -108.627674,
+    45.727319
+],
+  "geometry": {"coordinates":[-108.627674,45.727319],"type":"Point"}
+}

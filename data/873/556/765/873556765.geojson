@@ -1,0 +1,89 @@
+{
+  "id": 873556765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.058492,45.671119,-111.058492,45.671119",
+    "geom:latitude":45.671119,
+    "geom:longitude":-111.058492,
+    "iso:country":"US",
+    "sg:address":"1601 W College St",
+    "sg:city":"Bozeman",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 388 2618",
+    "sg:postcode":"59715",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cabling",
+        "voice",
+        "datum",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972647,
+        102085133,
+        85876465,
+        420559397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xiG73sCTWYPzGkefMqmmd_45.671119_-111.058492@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294457,
+    "wof:geomhash":"543fbdc22f55b133aef18a44179fca7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":85876465,
+            "region_id":85688617,
+            "venue_id":873556765
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085133,
+            "locality_id":85972647,
+            "neighbourhood_id":420559397,
+            "region_id":85688617,
+            "venue_id":873556765
+        }
+    ],
+    "wof:id":873556765,
+    "wof:lastmodified":1464294457,
+    "wof:name":"Sacom LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabling",
+        "voice",
+        "datum",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.058492,
+    45.671119,
+    -111.058492,
+    45.671119
+],
+  "geometry": {"coordinates":[-111.058492,45.671119],"type":"Point"}
+}

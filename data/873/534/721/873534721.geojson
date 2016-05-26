@@ -1,0 +1,73 @@
+{
+  "id": 873534721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.506575,45.782789,-108.506575,45.782789",
+    "geom:latitude":45.782789,
+    "geom:longitude":-108.506575,
+    "iso:country":"US",
+    "sg:address":"116 N Broadway",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6757",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "bouquet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972929,
+        102085087,
+        85876253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UGtbeaAzoIWV3gtegsmd1_45.782789_-108.506575@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294200,
+    "wof:geomhash":"dad7cda83eb648e3d6d842485128622e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85876253,
+            "region_id":85688617,
+            "venue_id":873534721
+        }
+    ],
+    "wof:id":873534721,
+    "wof:lastmodified":1464294200,
+    "wof:name":"Candy Bouquet of Billings",
+    "wof:parent_id":85876253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bouquet"
+    ]
+},
+  "bbox": [
+    -108.506575,
+    45.782789,
+    -108.506575,
+    45.782789
+],
+  "geometry": {"coordinates":[-108.506575,45.782789],"type":"Point"}
+}

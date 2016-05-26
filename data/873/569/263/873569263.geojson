@@ -1,0 +1,71 @@
+{
+  "id": 873569263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.45626,45.829325,-108.45626,45.829325",
+    "geom:latitude":45.829325,
+    "geom:longitude":-108.45626,
+    "iso:country":"US",
+    "sg:address":"1133 Lynch Cir",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 365 9836",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972929,
+        102085087,
+        85806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n2btamQGVYSTwYRoCzKl9_45.829325_-108.456260@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294598,
+    "wof:geomhash":"be32af624b20a49227513b50ebbb5b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85972929,
+            "neighbourhood_id":85806105,
+            "region_id":85688617,
+            "venue_id":873569263
+        }
+    ],
+    "wof:id":873569263,
+    "wof:lastmodified":1464294598,
+    "wof:name":"Waples Construction",
+    "wof:parent_id":85806105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -108.45626,
+    45.829325,
+    -108.45626,
+    45.829325
+],
+  "geometry": {"coordinates":[-108.45626,45.829325],"type":"Point"}
+}

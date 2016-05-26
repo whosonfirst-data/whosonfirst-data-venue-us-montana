@@ -1,0 +1,82 @@
+{
+  "id": 873610917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.623813,45.726156,-108.623813,45.726156",
+    "geom:latitude":45.726156,
+    "geom:longitude":-108.623813,
+    "iso:country":"US",
+    "sg:address":"4110 Neibauer Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 655 0858",
+    "sg:postcode":"59106",
+    "sg:province":"MT",
+    "sg:tags":[
+        "fabricate",
+        "steel",
+        "erect"
+    ],
+    "sg:website":"www.amersteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876265,
+        102085087,
+        85859347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qAb0yEtEixuxe5WwrV4OG_45.726156_-108.623813@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295153,
+    "wof:geomhash":"e441436f97a7bd90eae75c154e9ba254",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876265,
+            "region_id":85688617,
+            "venue_id":873610917
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85859347,
+            "region_id":85688617,
+            "venue_id":873610917
+        }
+    ],
+    "wof:id":873610917,
+    "wof:lastmodified":1464295153,
+    "wof:name":"American Steel Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricate",
+        "steel",
+        "erect"
+    ]
+},
+  "bbox": [
+    -108.623813,
+    45.726156,
+    -108.623813,
+    45.726156
+],
+  "geometry": {"coordinates":[-108.623813,45.726156],"type":"Point"}
+}

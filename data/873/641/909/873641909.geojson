@@ -1,0 +1,73 @@
+{
+  "id": 873641909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.330414,48.265985,-114.330414,48.265985",
+    "geom:latitude":48.265985,
+    "geom:longitude":-114.330414,
+    "iso:country":"US",
+    "sg:address":"3230 US Hwy 93 N",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 751 1950",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "course",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PaP3HfFSV0YlTabZjD5hG_48.265985_-114.330414@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295497,
+    "wof:geomhash":"7ce98a1a16814b53ad116210d7e948a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873641909
+        }
+    ],
+    "wof:id":873641909,
+    "wof:lastmodified":1464295497,
+    "wof:name":"Big Mountain Golf Club",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "public"
+    ]
+},
+  "bbox": [
+    -114.330414,
+    48.265985,
+    -114.330414,
+    48.265985
+],
+  "geometry": {"coordinates":[-114.330414,48.265985],"type":"Point"}
+}

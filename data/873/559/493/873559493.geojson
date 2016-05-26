@@ -1,0 +1,71 @@
+{
+  "id": 873559493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.036615,46.877464,-114.036615,46.877464",
+    "geom:latitude":46.877464,
+    "geom:longitude":-114.036615,
+    "iso:country":"US",
+    "sg:address":"710 N Davis St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 542 8742",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85891735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K7oUOT6YQuMI3GVqXiP5r_46.877464_-114.036615@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294494,
+    "wof:geomhash":"88c0b2400f178d031be9d7c4402afb43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85891735,
+            "region_id":85688617,
+            "venue_id":873559493
+        }
+    ],
+    "wof:id":873559493,
+    "wof:lastmodified":1464294494,
+    "wof:name":"Howards Repair Service",
+    "wof:parent_id":85891735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -114.036615,
+    46.877464,
+    -114.036615,
+    46.877464
+],
+  "geometry": {"coordinates":[-114.036615,46.877464],"type":"Point"}
+}

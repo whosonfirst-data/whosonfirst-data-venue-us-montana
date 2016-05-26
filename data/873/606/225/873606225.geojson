@@ -1,0 +1,74 @@
+{
+  "id": 873606225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.461202,45.799445,-108.461202,45.799445",
+    "geom:latitude":45.799445,
+    "geom:longitude":-108.461202,
+    "iso:country":"US",
+    "sg:address":"831 Cerise Rd",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 6332",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "automobile",
+        "other"
+    ],
+    "sg:website":"www.autoauctionbillings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uFwViyoT0otPeiaLC0hvF_45.799445_-108.461202@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295062,
+    "wof:geomhash":"03a925d884f37c63b584b9621e94a5b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873606225
+        }
+    ],
+    "wof:id":873606225,
+    "wof:lastmodified":1464295062,
+    "wof:name":"Auto Auction Of Billings",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "other"
+    ]
+},
+  "bbox": [
+    -108.461202,
+    45.799445,
+    -108.461202,
+    45.799445
+],
+  "geometry": {"coordinates":[-108.461202,45.799445],"type":"Point"}
+}

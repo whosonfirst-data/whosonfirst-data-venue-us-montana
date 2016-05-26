@@ -1,0 +1,74 @@
+{
+  "id": 873600509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.455385,45.801311,-108.455385,45.801311",
+    "geom:latitude":45.801311,
+    "geom:longitude":-108.455385,
+    "iso:country":"US",
+    "sg:address":"221 Lomond Ln",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 6065",
+    "sg:postcode":"59101",
+    "sg:province":"MT",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "sg:website":"www.corcorantrucking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UbL6s1Jbt9r9AmbsBK8pe_45.801311_-108.455385@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294992,
+    "wof:geomhash":"07a7eda15f7e146f4bc843520c494176",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873600509
+        }
+    ],
+    "wof:id":873600509,
+    "wof:lastmodified":1464294992,
+    "wof:name":"Corcoran Trucking",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -108.455385,
+    45.801311,
+    -108.455385,
+    45.801311
+],
+  "geometry": {"coordinates":[-108.45538500000001,45.801311],"type":"Point"}
+}

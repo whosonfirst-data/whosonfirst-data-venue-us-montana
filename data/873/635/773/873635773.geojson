@@ -1,0 +1,71 @@
+{
+  "id": 873635773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.47611,45.806047,-108.47611,45.806047",
+    "geom:latitude":45.806047,
+    "geom:longitude":-108.47611,
+    "iso:country":"US",
+    "sg:address":"410 Lake Elmo Dr",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 245 3538",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85876257,
+        102085087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gEv95H8Jk9qZBo2tfV34J_45.806047_-108.476110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295430,
+    "wof:geomhash":"3fc4c5e9b834b7df1462c16bbef6fb94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "neighbourhood_id":85876257,
+            "region_id":85688617,
+            "venue_id":873635773
+        }
+    ],
+    "wof:id":873635773,
+    "wof:lastmodified":1464295430,
+    "wof:name":"Billings Dance Academy",
+    "wof:parent_id":85876257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -108.47611,
+    45.806047,
+    -108.47611,
+    45.806047
+],
+  "geometry": {"coordinates":[-108.47611000000001,45.806047],"type":"Point"}
+}

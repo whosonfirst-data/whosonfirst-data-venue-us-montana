@@ -1,0 +1,73 @@
+{
+  "id": 873580163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.726716,45.348808,-111.726716,45.348808",
+    "geom:latitude":45.348808,
+    "geom:longitude":-111.726716,
+    "iso:country":"US",
+    "sg:address":"101 Main St",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 492 6495",
+    "sg:postcode":"59729",
+    "sg:province":"MT",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972661,
+        102085179,
+        85851385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5btIvDDNUQGGvPXHAKlVuJ_45.348808_-111.726716@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294720,
+    "wof:geomhash":"593f84be2a85bbb0dc3040219a318cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085179,
+            "locality_id":85972661,
+            "neighbourhood_id":85851385,
+            "region_id":85688617,
+            "venue_id":873580163
+        }
+    ],
+    "wof:id":873580163,
+    "wof:lastmodified":1464294720,
+    "wof:name":"Avon Store",
+    "wof:parent_id":85851385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -111.726716,
+    45.348808,
+    -111.726716,
+    45.348808
+],
+  "geometry": {"coordinates":[-111.726716,45.348808],"type":"Point"}
+}

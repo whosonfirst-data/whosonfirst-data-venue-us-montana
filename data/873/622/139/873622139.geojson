@@ -1,0 +1,71 @@
+{
+  "id": 873622139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.432038,45.866502,-108.432038,45.866502",
+    "geom:latitude":45.866502,
+    "geom:longitude":-108.432038,
+    "iso:country":"US",
+    "sg:address":"3918 Hwy 312",
+    "sg:city":"Billings",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 252 7066",
+    "sg:postcode":"59105",
+    "sg:province":"MT",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85973451,
+        102085087,
+        85831151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DEGFwgYcbCdEXPJkFksHY_45.866502_-108.432038@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295272,
+    "wof:geomhash":"6102e2cb472c9575f2f3dcd68c14c2cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085087,
+            "locality_id":85973451,
+            "neighbourhood_id":85831151,
+            "region_id":85688617,
+            "venue_id":873622139
+        }
+    ],
+    "wof:id":873622139,
+    "wof:lastmodified":1464295272,
+    "wof:name":"Ellis Auctions",
+    "wof:parent_id":85831151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -108.432038,
+    45.866502,
+    -108.432038,
+    45.866502
+],
+  "geometry": {"coordinates":[-108.43203800000001,45.866502],"type":"Point"}
+}

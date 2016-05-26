@@ -1,0 +1,73 @@
+{
+  "id": 873605111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.503677,46.003351,-112.503677,46.003351",
+    "geom:latitude":46.003351,
+    "geom:longitude":-112.503677,
+    "iso:country":"US",
+    "sg:address":"2314 Walnut St",
+    "sg:city":"Butte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 782 8076",
+    "sg:postcode":"59701",
+    "sg:province":"MT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972699,
+        102085099,
+        85868995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w7K7s3WOJ271QkLnA7Ril_46.003351_-112.503677@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464295041,
+    "wof:geomhash":"a89457814f011a69fcebc311451103bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085099,
+            "locality_id":85972699,
+            "neighbourhood_id":85868995,
+            "region_id":85688617,
+            "venue_id":873605111
+        }
+    ],
+    "wof:id":873605111,
+    "wof:lastmodified":1464295041,
+    "wof:name":"Smidts Roofing & General Cnstr",
+    "wof:parent_id":85868995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.503677,
+    46.003351,
+    -112.503677,
+    46.003351
+],
+  "geometry": {"coordinates":[-112.503677,46.003351],"type":"Point"}
+}

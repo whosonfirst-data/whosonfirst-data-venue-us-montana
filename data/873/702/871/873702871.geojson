@@ -1,0 +1,81 @@
+{
+  "id": 873702871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-110.550657,45.668098,-110.550657,45.668098",
+    "geom:latitude":45.668098,
+    "geom:longitude":-110.550657,
+    "iso:country":"US",
+    "sg:address":"1022 E Park St",
+    "sg:city":"Livingston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 222 0770",
+    "sg:postcode":"59047",
+    "sg:province":"MT",
+    "sg:tags":[
+        "lube",
+        "oil"
+    ],
+    "sg:website":"http://www.rudysautoworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        102191575,
+        85633793,
+        85972889,
+        102085059,
+        420525789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kpXeUPiGMQTeRgje9FnHB_45.668098_-110.550657@1303262841"
+    },
+    "wof:country":"US",
+    "wof:created":1464296434,
+    "wof:geomhash":"201a8a064e39dcbd5adc8b6f04d9175e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085059,
+            "locality_id":85972889,
+            "neighbourhood_id":420525789,
+            "region_id":85688617,
+            "venue_id":873702871
+        }
+    ],
+    "wof:id":873702871,
+    "wof:lastmodified":1464296434,
+    "wof:name":"Rudy's Auto Works",
+    "wof:parent_id":420525789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lube",
+        "oil"
+    ]
+},
+  "bbox": [
+    -110.550657,
+    45.668098,
+    -110.550657,
+    45.668098
+],
+  "geometry": {"coordinates":[-110.550657,45.668098],"type":"Point"}
+}

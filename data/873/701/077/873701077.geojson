@@ -1,0 +1,74 @@
+{
+  "id": 873701077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.039459,46.847258,-114.039459,46.847258",
+    "geom:latitude":46.847258,
+    "geom:longitude":-114.039459,
+    "iso:country":"US",
+    "sg:address":"3150 S Reserve St",
+    "sg:city":"Missoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mt/missoula/129731-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 728 7710",
+    "sg:postcode":"59801",
+    "sg:province":"MT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972703,
+        102085103,
+        85868993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pg1St27oxoPsTxbuSGMB8_46.847258_-114.039459@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464296416,
+    "wof:geomhash":"c5451d56ae34d795289d3d4e771e86ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085103,
+            "locality_id":85972703,
+            "neighbourhood_id":85868993,
+            "region_id":85688617,
+            "venue_id":873701077
+        }
+    ],
+    "wof:id":873701077,
+    "wof:lastmodified":1464296416,
+    "wof:name":"Subway",
+    "wof:parent_id":85868993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -114.039459,
+    46.847258,
+    -114.039459,
+    46.847258
+],
+  "geometry": {"coordinates":[-114.03945899999999,46.847258],"type":"Point"}
+}

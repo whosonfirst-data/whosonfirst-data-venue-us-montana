@@ -1,0 +1,73 @@
+{
+  "id": 873533761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.310349,48.19716,-114.310349,48.19716",
+    "geom:latitude":48.19716,
+    "geom:longitude":-114.310349,
+    "iso:country":"US",
+    "sg:address":"130 2nd St E",
+    "sg:city":"Kalispell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 406 755 6041",
+    "sg:postcode":"59901",
+    "sg:province":"MT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688617,
+        85633793,
+        85972773,
+        102085177,
+        85838307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42tAZTY380vGoaG3aF6LbC_48.197160_-114.310349@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464294182,
+    "wof:geomhash":"9376a8673e3e87b3a349df316ae21f96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085177,
+            "locality_id":85972773,
+            "neighbourhood_id":85838307,
+            "region_id":85688617,
+            "venue_id":873533761
+        }
+    ],
+    "wof:id":873533761,
+    "wof:lastmodified":1464294182,
+    "wof:name":"Sutherland Dry Cleaners",
+    "wof:parent_id":85838307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -114.310349,
+    48.19716,
+    -114.310349,
+    48.19716
+],
+  "geometry": {"coordinates":[-114.310349,48.19716],"type":"Point"}
+}
