@@ -2,13 +2,14 @@
   "id": 186438957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.511388,45.997598,-112.511388,45.997598",
     "geom:latitude":45.997598,
     "geom:longitude":-112.511388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Aberdeen St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186438957,
-    "wof:lastmodified":1449051295,
+    "wof:lastmodified":1466642983,
     "wof:name":"Ro-Bec Construction",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.511388,45.997598,-112.511388,45.997598],
+  "bbox": [
+    -112.511388,
+    45.997598,
+    -112.511388,
+    45.997598
+],
   "geometry": {"coordinates":[-112.511388,45.997598],"type":"Point"}
 }

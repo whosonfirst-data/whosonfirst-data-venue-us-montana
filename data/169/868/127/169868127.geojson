@@ -2,13 +2,14 @@
   "id": 169868127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.039798,45.861001,-111.039798,45.861001",
     "geom:latitude":45.861001,
     "geom:longitude":-111.039798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10711 Corbly Gulch Rd",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169868127,
-    "wof:lastmodified":1449032841,
+    "wof:lastmodified":1466641360,
     "wof:name":"Ol Spring Hill Homestead",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-111.039798,45.861001,-111.039798,45.861001],
+  "bbox": [
+    -111.039798,
+    45.861001,
+    -111.039798,
+    45.861001
+],
   "geometry": {"coordinates":[-111.039798,45.861001],"type":"Point"}
 }

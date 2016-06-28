@@ -2,13 +2,14 @@
   "id": 186125961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.021897,46.648818,-112.021897,46.648818",
     "geom:latitude":46.648818,
     "geom:longitude":-112.021897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Sun Valley Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186125961,
-    "wof:lastmodified":1449052947,
+    "wof:lastmodified":1466642090,
     "wof:name":"Westec Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.021897,46.648818,-112.021897,46.648818],
+  "bbox": [
+    -112.021897,
+    46.648818,
+    -112.021897,
+    46.648818
+],
   "geometry": {"coordinates":[-112.021897,46.648818],"type":"Point"}
 }

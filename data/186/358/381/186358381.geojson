@@ -2,13 +2,14 @@
   "id": 186358381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.050343,46.60113,-112.050343,46.60113",
     "geom:latitude":46.60113,
     "geom:longitude":-112.050343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Euclid Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186358381,
-    "wof:lastmodified":1449051500,
+    "wof:lastmodified":1466642735,
     "wof:name":"Econ-O-Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-112.050343,46.60113,-112.050343,46.60113],
+  "bbox": [
+    -112.050343,
+    46.60113,
+    -112.050343,
+    46.60113
+],
   "geometry": {"coordinates":[-112.050343,46.60113],"type":"Point"}
 }

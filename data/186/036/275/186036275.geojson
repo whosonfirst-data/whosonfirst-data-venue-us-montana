@@ -2,13 +2,14 @@
   "id": 186036275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.090709,46.496256,-114.090709,46.496256",
     "geom:latitude":46.496256,
     "geom:longitude":-114.090709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Boardwalk Dr",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186036275,
-    "wof:lastmodified":1449050994,
+    "wof:lastmodified":1466641792,
     "wof:name":"Rex Olson Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.090709,46.496256,-114.090709,46.496256],
+  "bbox": [
+    -114.090709,
+    46.496256,
+    -114.090709,
+    46.496256
+],
   "geometry": {"coordinates":[-114.090709,46.496256],"type":"Point"}
 }

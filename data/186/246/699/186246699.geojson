@@ -2,13 +2,14 @@
   "id": 186246699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.2083,47.988185,-112.2083,47.988185",
     "geom:latitude":47.988185,
     "geom:longitude":-112.2083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 26th Rd NW",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186246699,
-    "wof:lastmodified":1449050434,
+    "wof:lastmodified":1466642520,
     "wof:name":"Flying U Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-112.2083,47.988185,-112.2083,47.988185],
-  "geometry": {"coordinates":[-112.2083,47.988185],"type":"Point"}
+  "bbox": [
+    -112.2083,
+    47.988185,
+    -112.2083,
+    47.988185
+],
+  "geometry": {"coordinates":[-112.20829999999999,47.988185],"type":"Point"}
 }

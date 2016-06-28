@@ -2,13 +2,14 @@
   "id": 169756829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.70015,48.538603,-109.70015,48.538603",
     "geom:latitude":48.538603,
     "geom:longitude":-109.70015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1342 Boulevard Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169756829,
-    "wof:lastmodified":1449034663,
+    "wof:lastmodified":1466641203,
     "wof:name":"Korb Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.70015,48.538603,-109.70015,48.538603],
-  "geometry": {"coordinates":[-109.70015,48.538603],"type":"Point"}
+  "bbox": [
+    -109.70015,
+    48.538603,
+    -109.70015,
+    48.538603
+],
+  "geometry": {"coordinates":[-109.70014999999999,48.538603],"type":"Point"}
 }

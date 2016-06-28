@@ -2,13 +2,14 @@
   "id": 185922519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.533022,46.009725,-112.533022,46.009725",
     "geom:latitude":46.009725,
     "geom:longitude":-112.533022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Wyoming St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185922519,
-    "wof:lastmodified":1449006757,
+    "wof:lastmodified":1466641667,
     "wof:name":"Welding Shop",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-112.533022,46.009725,-112.533022,46.009725],
+  "bbox": [
+    -112.533022,
+    46.009725,
+    -112.533022,
+    46.009725
+],
   "geometry": {"coordinates":[-112.533022,46.009725],"type":"Point"}
 }

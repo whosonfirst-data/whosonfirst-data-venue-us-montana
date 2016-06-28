@@ -2,13 +2,14 @@
   "id": 186356719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.607393,45.730432,-107.607393,45.730432",
     "geom:latitude":45.730432,
     "geom:longitude":-107.607393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N Custer Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186356719,
-    "wof:lastmodified":1449052530,
+    "wof:lastmodified":1466642575,
     "wof:name":"Jack's Homart Do It Best",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.607393,45.730432,-107.607393,45.730432],
+  "bbox": [
+    -107.607393,
+    45.730432,
+    -107.607393,
+    45.730432
+],
   "geometry": {"coordinates":[-107.607393,45.730432],"type":"Point"}
 }

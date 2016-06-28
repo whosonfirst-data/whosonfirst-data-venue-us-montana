@@ -2,13 +2,14 @@
   "id": 169803569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.310505,48.653372,-112.310505,48.653372",
     "geom:latitude":48.653372,
     "geom:longitude":-112.310505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Luedtke Rd",
     "sg:city":"Cut Bank",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169803569,
-    "wof:lastmodified":1449036008,
+    "wof:lastmodified":1466641268,
     "wof:name":"Pinnacle Medical Svcs P LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physician"
     ]
 },
-  "bbox": [-112.310505,48.653372,-112.310505,48.653372],
-  "geometry": {"coordinates":[-112.310505,48.653372],"type":"Point"}
+  "bbox": [
+    -112.310505,
+    48.653372,
+    -112.310505,
+    48.653372
+],
+  "geometry": {"coordinates":[-112.31050500000001,48.653372],"type":"Point"}
 }

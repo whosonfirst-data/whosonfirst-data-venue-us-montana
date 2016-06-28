@@ -2,13 +2,14 @@
   "id": 185841925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.058029,45.679382,-111.058029,45.679382",
     "geom:latitude":45.679382,
     "geom:longitude":-111.058029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 W Main St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185841925,
-    "wof:lastmodified":1449006951,
+    "wof:lastmodified":1466641579,
     "wof:name":"Hastings Books 9803",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-111.058029,45.679382,-111.058029,45.679382],
+  "bbox": [
+    -111.058029,
+    45.679382,
+    -111.058029,
+    45.679382
+],
   "geometry": {"coordinates":[-111.058029,45.679382],"type":"Point"}
 }

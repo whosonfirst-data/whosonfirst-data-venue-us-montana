@@ -2,13 +2,14 @@
   "id": 186209781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.460753,45.79974,-108.460753,45.79974",
     "geom:latitude":45.79974,
     "geom:longitude":-108.460753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Cerise Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186209781,
-    "wof:lastmodified":1449052733,
+    "wof:lastmodified":1466642289,
     "wof:name":"AAA Mini Storage",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-108.460753,45.79974,-108.460753,45.79974],
+  "bbox": [
+    -108.460753,
+    45.79974,
+    -108.460753,
+    45.79974
+],
   "geometry": {"coordinates":[-108.460753,45.79974],"type":"Point"}
 }

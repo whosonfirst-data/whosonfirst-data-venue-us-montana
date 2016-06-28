@@ -2,13 +2,14 @@
   "id": 185631887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.678536,48.552298,-109.678536,48.552298",
     "geom:latitude":48.552298,
     "geom:longitude":-109.678536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 3rd Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185631887,
-    "wof:lastmodified":1449007106,
+    "wof:lastmodified":1466641335,
     "wof:name":"Carousel Decor & Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.678536,48.552298,-109.678536,48.552298],
-  "geometry": {"coordinates":[-109.678536,48.552298],"type":"Point"}
+  "bbox": [
+    -109.678536,
+    48.552298,
+    -109.678536,
+    48.552298
+],
+  "geometry": {"coordinates":[-109.67853599999999,48.552298],"type":"Point"}
 }

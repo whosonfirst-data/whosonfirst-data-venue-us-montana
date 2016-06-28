@@ -2,13 +2,14 @@
   "id": 169696497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.624263,45.796893,-108.624263,45.796893",
     "geom:latitude":45.796893,
     "geom:longitude":-108.624263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2626 Country Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169696497,
-    "wof:lastmodified":1449032924,
+    "wof:lastmodified":1466641154,
     "wof:name":"Rob Veltkamp",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.624263,45.796893,-108.624263,45.796893],
+  "bbox": [
+    -108.624263,
+    45.796893,
+    -108.624263,
+    45.796893
+],
   "geometry": {"coordinates":[-108.624263,45.796893],"type":"Point"}
 }

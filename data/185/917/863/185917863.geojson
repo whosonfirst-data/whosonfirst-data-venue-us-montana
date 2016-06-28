@@ -2,13 +2,14 @@
   "id": 185917863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.037027,46.591677,-112.037027,46.591677",
     "geom:latitude":46.591677,
     "geom:longitude":-112.037027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185917863,
-    "wof:lastmodified":1449008007,
+    "wof:lastmodified":1466641662,
     "wof:name":"Reynolds Motl & Sherwood Pllp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.037027,46.591677,-112.037027,46.591677],
-  "geometry": {"coordinates":[-112.037027,46.591677],"type":"Point"}
+  "bbox": [
+    -112.037027,
+    46.591677,
+    -112.037027,
+    46.591677
+],
+  "geometry": {"coordinates":[-112.03702699999999,46.591677],"type":"Point"}
 }

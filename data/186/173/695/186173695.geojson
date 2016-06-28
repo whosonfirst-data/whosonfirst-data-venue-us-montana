@@ -2,13 +2,14 @@
   "id": 186173695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.074135,47.442543,-114.074135,47.442543",
     "geom:latitude":47.442543,
     "geom:longitude":-114.074135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1152 Eagle Pass Trl",
     "sg:city":"Charlo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186173695,
-    "wof:lastmodified":1449050923,
+    "wof:lastmodified":1466642165,
     "wof:name":"Lively Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-114.074135,47.442543,-114.074135,47.442543],
+  "bbox": [
+    -114.074135,
+    47.442543,
+    -114.074135,
+    47.442543
+],
   "geometry": {"coordinates":[-114.074135,47.442543],"type":"Point"}
 }

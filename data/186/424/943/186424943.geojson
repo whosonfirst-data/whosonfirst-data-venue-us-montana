@@ -2,13 +2,14 @@
   "id": 186424943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.632967,48.201433,-106.632967,48.201433",
     "geom:latitude":48.201433,
     "geom:longitude":-106.632967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 6th Ave N",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186424943,
-    "wof:lastmodified":1449052864,
+    "wof:lastmodified":1466642928,
     "wof:name":"Kolstad Ehrica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-106.632967,48.201433,-106.632967,48.201433],
-  "geometry": {"coordinates":[-106.632967,48.201433],"type":"Point"}
+  "bbox": [
+    -106.632967,
+    48.201433,
+    -106.632967,
+    48.201433
+],
+  "geometry": {"coordinates":[-106.63296699999999,48.201433],"type":"Point"}
 }

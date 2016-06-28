@@ -2,13 +2,14 @@
   "id": 186444701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.507928,45.975725,-112.507928,45.975725",
     "geom:latitude":45.975725,
     "geom:longitude":-112.507928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3440 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186444701,
-    "wof:lastmodified":1449052653,
+    "wof:lastmodified":1466642995,
     "wof:name":"Treasure Chest Casino",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-112.507928,45.975725,-112.507928,45.975725],
-  "geometry": {"coordinates":[-112.507928,45.975725],"type":"Point"}
+  "bbox": [
+    -112.507928,
+    45.975725,
+    -112.507928,
+    45.975725
+],
+  "geometry": {"coordinates":[-112.50792800000001,45.975725],"type":"Point"}
 }

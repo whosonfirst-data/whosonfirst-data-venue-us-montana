@@ -2,13 +2,14 @@
   "id": 185946807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.207339,46.237509,-114.207339,46.237509",
     "geom:latitude":46.237509,
     "geom:longitude":-114.207339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Catydid Ln",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185946807,
-    "wof:lastmodified":1449008027,
+    "wof:lastmodified":1466641706,
     "wof:name":"Bright Ideas Tile Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-114.207339,46.237509,-114.207339,46.237509],
+  "bbox": [
+    -114.207339,
+    46.237509,
+    -114.207339,
+    46.237509
+],
   "geometry": {"coordinates":[-114.207339,46.237509],"type":"Point"}
 }

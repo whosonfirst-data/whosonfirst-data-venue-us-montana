@@ -2,13 +2,14 @@
   "id": 185935497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.405056,45.442935,-105.405056,45.442935",
     "geom:latitude":45.442935,
     "geom:longitude":-105.405056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Trautman Ave",
     "sg:city":"Broadus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185935497,
-    "wof:lastmodified":1449007946,
+    "wof:lastmodified":1466641685,
     "wof:name":"Powder River County Nursing Hm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-105.405056,45.442935,-105.405056,45.442935],
+  "bbox": [
+    -105.405056,
+    45.442935,
+    -105.405056,
+    45.442935
+],
   "geometry": {"coordinates":[-105.405056,45.442935],"type":"Point"}
 }

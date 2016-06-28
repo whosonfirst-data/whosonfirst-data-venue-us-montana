@@ -2,13 +2,14 @@
   "id": 186289945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.057607,46.546806,-112.057607,46.546806",
     "geom:latitude":46.546806,
     "geom:longitude":-112.057607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1865 Dry Gulch Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186289945,
-    "wof:lastmodified":1449052560,
+    "wof:lastmodified":1466642600,
     "wof:name":"Jeff A Grovom LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-112.057607,46.546806,-112.057607,46.546806],
+  "bbox": [
+    -112.057607,
+    46.546806,
+    -112.057607,
+    46.546806
+],
   "geometry": {"coordinates":[-112.057607,46.546806],"type":"Point"}
 }

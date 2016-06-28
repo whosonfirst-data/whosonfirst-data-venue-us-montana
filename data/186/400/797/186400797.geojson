@@ -2,13 +2,14 @@
   "id": 186400797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.990715,45.659214,-110.990715,45.659214",
     "geom:latitude":45.659214,
     "geom:longitude":-110.990715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Canary Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186400797,
-    "wof:lastmodified":1449050506,
+    "wof:lastmodified":1466642970,
     "wof:name":"Film Lites of Montana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-110.990715,45.659214,-110.990715,45.659214],
-  "geometry": {"coordinates":[-110.990715,45.659214],"type":"Point"}
+  "bbox": [
+    -110.990715,
+    45.659214,
+    -110.990715,
+    45.659214
+],
+  "geometry": {"coordinates":[-110.99071499999999,45.659214],"type":"Point"}
 }

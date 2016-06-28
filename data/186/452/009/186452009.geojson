@@ -2,13 +2,14 @@
   "id": 186452009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.363506,45.914736,-108.363506,45.914736",
     "geom:latitude":45.914736,
     "geom:longitude":-108.363506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5035 Homer Davis Rd",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186452009,
-    "wof:lastmodified":1449051035,
+    "wof:lastmodified":1466643110,
     "wof:name":"Auto Classics LLC",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-108.363506,45.914736,-108.363506,45.914736],
+  "bbox": [
+    -108.363506,
+    45.914736,
+    -108.363506,
+    45.914736
+],
   "geometry": {"coordinates":[-108.363506,45.914736],"type":"Point"}
 }

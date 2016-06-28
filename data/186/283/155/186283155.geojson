@@ -2,13 +2,14 @@
   "id": 186283155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.078406,45.870764,-112.078406,45.870764",
     "geom:latitude":45.870764,
     "geom:longitude":-112.078406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 1st Rd E",
     "sg:city":"Whitehall",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186283155,
-    "wof:lastmodified":1449051169,
+    "wof:lastmodified":1466642734,
     "wof:name":"Mountain States Drivetrain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.078406,45.870764,-112.078406,45.870764],
+  "bbox": [
+    -112.078406,
+    45.870764,
+    -112.078406,
+    45.870764
+],
   "geometry": {"coordinates":[-112.078406,45.870764],"type":"Point"}
 }

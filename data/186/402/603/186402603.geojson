@@ -2,13 +2,14 @@
   "id": 186402603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.547204,48.384859,-115.547204,48.384859",
     "geom:latitude":48.384859,
     "geom:longitude":-115.547204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 E Spruce St",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186402603,
-    "wof:lastmodified":1449051247,
+    "wof:lastmodified":1466642867,
     "wof:name":"Joel Riddel DC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.547204,48.384859,-115.547204,48.384859],
-  "geometry": {"coordinates":[-115.547204,48.384859],"type":"Point"}
+  "bbox": [
+    -115.547204,
+    48.384859,
+    -115.547204,
+    48.384859
+],
+  "geometry": {"coordinates":[-115.54720399999999,48.384859],"type":"Point"}
 }

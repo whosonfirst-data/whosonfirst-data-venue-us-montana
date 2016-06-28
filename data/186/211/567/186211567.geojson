@@ -2,13 +2,14 @@
   "id": 186211567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.737093,45.744165,-108.737093,45.744165",
     "geom:latitude":45.744165,
     "geom:longitude":-108.737093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8740 Longmeadow Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186211567,
-    "wof:lastmodified":1449051054,
+    "wof:lastmodified":1466642370,
     "wof:name":"Mountain Aire Heating & Air Co",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-108.737093,45.744165,-108.737093,45.744165],
+  "bbox": [
+    -108.737093,
+    45.744165,
+    -108.737093,
+    45.744165
+],
   "geometry": {"coordinates":[-108.737093,45.744165],"type":"Point"}
 }

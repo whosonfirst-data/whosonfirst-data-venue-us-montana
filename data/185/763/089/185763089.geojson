@@ -2,13 +2,14 @@
   "id": 185763089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.7584,45.681881,-108.7584,45.681881",
     "geom:latitude":45.681881,
     "geom:longitude":-108.7584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Ridge Dr",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185763089,
-    "wof:lastmodified":1449008199,
+    "wof:lastmodified":1466641487,
     "wof:name":"Bear Creek Log Homes and Cnstr",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.7584,45.681881,-108.7584,45.681881],
-  "geometry": {"coordinates":[-108.7584,45.681881],"type":"Point"}
+  "bbox": [
+    -108.7584,
+    45.681881,
+    -108.7584,
+    45.681881
+],
+  "geometry": {"coordinates":[-108.75839999999999,45.681881],"type":"Point"}
 }

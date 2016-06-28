@@ -2,13 +2,14 @@
   "id": 186267245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.185957,45.789808,-111.185957,45.789808",
     "geom:latitude":45.789808,
     "geom:longitude":-111.185957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Cheery Dr",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186267245,
-    "wof:lastmodified":1449052784,
+    "wof:lastmodified":1466642555,
     "wof:name":"Kostelecky Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.185957,45.789808,-111.185957,45.789808],
+  "bbox": [
+    -111.185957,
+    45.789808,
+    -111.185957,
+    45.789808
+],
   "geometry": {"coordinates":[-111.185957,45.789808],"type":"Point"}
 }

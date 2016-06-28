@@ -2,13 +2,14 @@
   "id": 185658027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020872,46.619526,-112.020872,46.619526",
     "geom:latitude":46.619526,
     "geom:longitude":-112.020872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3321 N Montana Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185658027,
-    "wof:lastmodified":1449006565,
+    "wof:lastmodified":1466641768,
     "wof:name":"Leslies Hallmark 9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.020872,46.619526,-112.020872,46.619526],
+  "bbox": [
+    -112.020872,
+    46.619526,
+    -112.020872,
+    46.619526
+],
   "geometry": {"coordinates":[-112.020872,46.619526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186184159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.043047,46.848827,-114.043047,46.848827",
     "geom:latitude":46.848827,
     "geom:longitude":-114.043047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2618 South Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186184159,
-    "wof:lastmodified":1449050865,
+    "wof:lastmodified":1466642396,
     "wof:name":"Allergy & Asthma Ctr Western M",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-114.043047,46.848827,-114.043047,46.848827],
+  "bbox": [
+    -114.043047,
+    46.848827,
+    -114.043047,
+    46.848827
+],
   "geometry": {"coordinates":[-114.043047,46.848827],"type":"Point"}
 }

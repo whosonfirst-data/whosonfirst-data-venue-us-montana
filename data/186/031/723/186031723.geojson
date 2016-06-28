@@ -2,13 +2,14 @@
   "id": 186031723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.551813,48.394063,-115.551813,48.394063",
     "geom:latitude":48.394063,
     "geom:longitude":-115.551813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 California Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186031723,
-    "wof:lastmodified":1449051377,
+    "wof:lastmodified":1466641642,
     "wof:name":"Western Windshields Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "replacement"
     ]
 },
-  "bbox": [-115.551813,48.394063,-115.551813,48.394063],
+  "bbox": [
+    -115.551813,
+    48.394063,
+    -115.551813,
+    48.394063
+],
   "geometry": {"coordinates":[-115.551813,48.394063],"type":"Point"}
 }

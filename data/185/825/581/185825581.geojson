@@ -2,13 +2,14 @@
   "id": 185825581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.782276,45.621829,-108.782276,45.621829",
     "geom:latitude":45.621829,
     "geom:longitude":-108.782276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3161 US Hwy 212 S",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185825581,
-    "wof:lastmodified":1449006639,
+    "wof:lastmodified":1466641561,
     "wof:name":"Gaynor's Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-108.782276,45.621829,-108.782276,45.621829],
+  "bbox": [
+    -108.782276,
+    45.621829,
+    -108.782276,
+    45.621829
+],
   "geometry": {"coordinates":[-108.782276,45.621829],"type":"Point"}
 }

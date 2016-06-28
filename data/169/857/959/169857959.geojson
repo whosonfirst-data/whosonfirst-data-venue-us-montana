@@ -2,13 +2,14 @@
   "id": 169857959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.940671,46.12601,-112.940671,46.12601",
     "geom:latitude":46.12601,
     "geom:longitude":-112.940671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Adams St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169857959,
-    "wof:lastmodified":1449034828,
+    "wof:lastmodified":1466641348,
     "wof:name":"Young American Bowling Aliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.940671,46.12601,-112.940671,46.12601],
-  "geometry": {"coordinates":[-112.940671,46.12601],"type":"Point"}
+  "bbox": [
+    -112.940671,
+    46.12601,
+    -112.940671,
+    46.12601
+],
+  "geometry": {"coordinates":[-112.94067099999999,46.12601],"type":"Point"}
 }

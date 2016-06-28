@@ -2,13 +2,14 @@
   "id": 186336791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.547776,45.74548,-108.547776,45.74548",
     "geom:latitude":45.74548,
     "geom:longitude":-108.547776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 Weil St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186336791,
-    "wof:lastmodified":1449050185,
+    "wof:lastmodified":1466642686,
     "wof:name":"Appraisers International Inc",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.547776,45.74548,-108.547776,45.74548],
+  "bbox": [
+    -108.547776,
+    45.74548,
+    -108.547776,
+    45.74548
+],
   "geometry": {"coordinates":[-108.547776,45.74548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185764845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.102064,47.529848,-114.102064,47.529848",
     "geom:latitude":47.529848,
     "geom:longitude":-114.102064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Round Butte Rd W",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185764845,
-    "wof:lastmodified":1449008119,
+    "wof:lastmodified":1466641497,
     "wof:name":"Jerome's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-114.102064,47.529848,-114.102064,47.529848],
+  "bbox": [
+    -114.102064,
+    47.529848,
+    -114.102064,
+    47.529848
+],
   "geometry": {"coordinates":[-114.102064,47.529848],"type":"Point"}
 }

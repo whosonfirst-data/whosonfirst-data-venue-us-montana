@@ -2,13 +2,14 @@
   "id": 185946305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.555647,45.793992,-108.555647,45.793992",
     "geom:latitude":45.793992,
     "geom:longitude":-108.555647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 Village Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185946305,
-    "wof:lastmodified":1449008025,
+    "wof:lastmodified":1466641699,
     "wof:name":"B Seamless Raingutter",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-108.555647,45.793992,-108.555647,45.793992],
-  "geometry": {"coordinates":[-108.555647,45.793992],"type":"Point"}
+  "bbox": [
+    -108.555647,
+    45.793992,
+    -108.555647,
+    45.793992
+],
+  "geometry": {"coordinates":[-108.55564699999999,45.793992],"type":"Point"}
 }

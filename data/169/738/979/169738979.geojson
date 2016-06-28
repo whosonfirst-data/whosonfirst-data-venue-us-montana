@@ -2,13 +2,14 @@
   "id": 169738979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.940954,48.518005,-115.940954,48.518005",
     "geom:latitude":48.518005,
     "geom:longitude":-115.940954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Waterfront Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169738979,
-    "wof:lastmodified":1449035097,
+    "wof:lastmodified":1466641176,
     "wof:name":"Visual Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "system"
     ]
 },
-  "bbox": [-115.940954,48.518005,-115.940954,48.518005],
+  "bbox": [
+    -115.940954,
+    48.518005,
+    -115.940954,
+    48.518005
+],
   "geometry": {"coordinates":[-115.940954,48.518005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186282199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010427,46.577175,-112.010427,46.577175",
     "geom:latitude":46.577175,
     "geom:longitude":-112.010427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 S Oakes St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186282199,
-    "wof:lastmodified":1449052045,
+    "wof:lastmodified":1466642578,
     "wof:name":"National Football Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.010427,46.577175,-112.010427,46.577175],
-  "geometry": {"coordinates":[-112.010427,46.577175],"type":"Point"}
+  "bbox": [
+    -112.010427,
+    46.577175,
+    -112.010427,
+    46.577175
+],
+  "geometry": {"coordinates":[-112.01042700000001,46.577175],"type":"Point"}
 }

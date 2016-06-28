@@ -2,13 +2,14 @@
   "id": 186450217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.62947,45.726051,-108.62947,45.726051",
     "geom:latitude":45.726051,
     "geom:longitude":-108.62947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4326 Neibauer Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":186450217,
-    "wof:lastmodified":1449052597,
+    "wof:lastmodified":1466643013,
     "wof:name":"Jerry Anderberg & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.62947,45.726051,-108.62947,45.726051],
+  "bbox": [
+    -108.62947,
+    45.726051,
+    -108.62947,
+    45.726051
+],
   "geometry": {"coordinates":[-108.62947,45.726051],"type":"Point"}
 }

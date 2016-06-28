@@ -2,13 +2,14 @@
   "id": 186230491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.643744,48.194242,-106.643744,48.194242",
     "geom:latitude":48.194242,
     "geom:longitude":-106.643744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 4th Ave S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186230491,
-    "wof:lastmodified":1449052337,
+    "wof:lastmodified":1466642487,
     "wof:name":"Meidinger N Sons House Moving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-106.643744,48.194242,-106.643744,48.194242],
+  "bbox": [
+    -106.643744,
+    48.194242,
+    -106.643744,
+    48.194242
+],
   "geometry": {"coordinates":[-106.643744,48.194242],"type":"Point"}
 }

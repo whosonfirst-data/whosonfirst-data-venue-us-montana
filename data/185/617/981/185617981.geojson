@@ -2,13 +2,14 @@
   "id": 185617981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.501799,47.935793,-110.501799,47.935793",
     "geom:latitude":47.935793,
     "geom:longitude":-110.501799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Main St",
     "sg:city":"Hobson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185617981,
-    "wof:lastmodified":1449006636,
+    "wof:lastmodified":1466641208,
     "wof:name":"Cherokee Capital Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.501799,47.935793,-110.501799,47.935793],
-  "geometry": {"coordinates":[-110.501799,47.935793],"type":"Point"}
+  "bbox": [
+    -110.501799,
+    47.935793,
+    -110.501799,
+    47.935793
+],
+  "geometry": {"coordinates":[-110.50179900000001,47.935793],"type":"Point"}
 }

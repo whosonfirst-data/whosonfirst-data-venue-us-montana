@@ -2,13 +2,14 @@
   "id": 186136487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.642909,45.809613,-108.642909,45.809613",
     "geom:latitude":45.809613,
     "geom:longitude":-108.642909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3608 Kiowa Trl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186136487,
-    "wof:lastmodified":1449052992,
+    "wof:lastmodified":1466641954,
     "wof:name":"Campground Brokers & Assoc LLC",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-108.642909,45.809613,-108.642909,45.809613],
+  "bbox": [
+    -108.642909,
+    45.809613,
+    -108.642909,
+    45.809613
+],
   "geometry": {"coordinates":[-108.642909,45.809613],"type":"Point"}
 }

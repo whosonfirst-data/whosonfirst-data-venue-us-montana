@@ -2,13 +2,14 @@
   "id": 185606093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.953558,46.127482,-112.953558,46.127482",
     "geom:latitude":46.127482,
     "geom:longitude":-112.953558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Main St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185606093,
-    "wof:lastmodified":1449006860,
+    "wof:lastmodified":1466641175,
     "wof:name":"First Presbyterian Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.953558,46.127482,-112.953558,46.127482],
+  "bbox": [
+    -112.953558,
+    46.127482,
+    -112.953558,
+    46.127482
+],
   "geometry": {"coordinates":[-112.953558,46.127482],"type":"Point"}
 }

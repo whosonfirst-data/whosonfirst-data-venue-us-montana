@@ -2,13 +2,14 @@
   "id": 186324353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.530465,45.77614,-108.530465,45.77614",
     "geom:latitude":45.77614,
     "geom:longitude":-108.530465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Custer Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186324353,
-    "wof:lastmodified":1449051938,
+    "wof:lastmodified":1466642665,
     "wof:name":"Holy Rosary Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.530465,45.77614,-108.530465,45.77614],
-  "geometry": {"coordinates":[-108.530465,45.77614],"type":"Point"}
+  "bbox": [
+    -108.530465,
+    45.77614,
+    -108.530465,
+    45.77614
+],
+  "geometry": {"coordinates":[-108.53046500000001,45.77614],"type":"Point"}
 }

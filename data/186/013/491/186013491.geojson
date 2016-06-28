@@ -2,13 +2,14 @@
   "id": 186013491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.328157,48.183112,-114.328157,48.183112",
     "geom:latitude":48.183112,
     "geom:longitude":-114.328157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Ashley Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186013491,
-    "wof:lastmodified":1449052183,
+    "wof:lastmodified":1466641357,
     "wof:name":"R T Adkins Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hauling"
     ]
 },
-  "bbox": [-114.328157,48.183112,-114.328157,48.183112],
+  "bbox": [
+    -114.328157,
+    48.183112,
+    -114.328157,
+    48.183112
+],
   "geometry": {"coordinates":[-114.328157,48.183112],"type":"Point"}
 }

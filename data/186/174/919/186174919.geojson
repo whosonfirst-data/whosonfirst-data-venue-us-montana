@@ -2,13 +2,14 @@
   "id": 186174919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.989982,45.6663,-110.989982,45.6663",
     "geom:latitude":45.6663,
     "geom:longitude":-110.989982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1339 Bluebird Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186174919,
-    "wof:lastmodified":1449050718,
+    "wof:lastmodified":1466642015,
     "wof:name":"Appraisal Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.989982,45.6663,-110.989982,45.6663],
+  "bbox": [
+    -110.989982,
+    45.6663,
+    -110.989982,
+    45.6663
+],
   "geometry": {"coordinates":[-110.989982,45.6663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185682039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.949817,45.828648,-109.949817,45.828648",
     "geom:latitude":45.828648,
     "geom:longitude":-109.949817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W 8th Ave",
     "sg:city":"Big Timber",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185682039,
-    "wof:lastmodified":1449006895,
+    "wof:lastmodified":1466641397,
     "wof:name":"Double Eagle Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.949817,45.828648,-109.949817,45.828648],
+  "bbox": [
+    -109.949817,
+    45.828648,
+    -109.949817,
+    45.828648
+],
   "geometry": {"coordinates":[-109.949817,45.828648],"type":"Point"}
 }

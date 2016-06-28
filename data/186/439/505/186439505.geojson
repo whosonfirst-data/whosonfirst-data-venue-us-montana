@@ -2,13 +2,14 @@
   "id": 186439505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.203989,47.506907,-111.203989,47.506907",
     "geom:latitude":47.506907,
     "geom:longitude":-111.203989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 County Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186439505,
-    "wof:lastmodified":1449051128,
+    "wof:lastmodified":1466642980,
     "wof:name":"Coonie S Wearley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.203989,47.506907,-111.203989,47.506907],
-  "geometry": {"coordinates":[-111.203989,47.506907],"type":"Point"}
+  "bbox": [
+    -111.203989,
+    47.506907,
+    -111.203989,
+    47.506907
+],
+  "geometry": {"coordinates":[-111.20398900000001,47.506907],"type":"Point"}
 }

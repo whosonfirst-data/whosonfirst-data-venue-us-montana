@@ -2,13 +2,14 @@
   "id": 185616249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.727838,47.107074,-104.727838,47.107074",
     "geom:latitude":47.107074,
     "geom:longitude":-104.727838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 W Towne St",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185616249,
-    "wof:lastmodified":1449007773,
+    "wof:lastmodified":1466641203,
     "wof:name":"LED Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.727838,47.107074,-104.727838,47.107074],
-  "geometry": {"coordinates":[-104.727838,47.107074],"type":"Point"}
+  "bbox": [
+    -104.727838,
+    47.107074,
+    -104.727838,
+    47.107074
+],
+  "geometry": {"coordinates":[-104.72783800000001,47.107074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186255979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.625486,45.214901,-112.625486,45.214901",
     "geom:latitude":45.214901,
     "geom:longitude":-112.625486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Cottom Dr",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186255979,
-    "wof:lastmodified":1449051588,
+    "wof:lastmodified":1466642693,
     "wof:name":"Parkview Elementary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-112.625486,45.214901,-112.625486,45.214901],
+  "bbox": [
+    -112.625486,
+    45.214901,
+    -112.625486,
+    45.214901
+],
   "geometry": {"coordinates":[-112.625486,45.214901],"type":"Point"}
 }

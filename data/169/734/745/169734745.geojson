@@ -2,13 +2,14 @@
   "id": 169734745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.163465,47.693337,-114.163465,47.693337",
     "geom:latitude":47.693337,
     "geom:longitude":-114.163465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Main St",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169734745,
-    "wof:lastmodified":1449035537,
+    "wof:lastmodified":1466641170,
     "wof:name":"PC Rescue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.163465,47.693337,-114.163465,47.693337],
+  "bbox": [
+    -114.163465,
+    47.693337,
+    -114.163465,
+    47.693337
+],
   "geometry": {"coordinates":[-114.163465,47.693337],"type":"Point"}
 }

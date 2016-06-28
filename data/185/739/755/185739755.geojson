@@ -2,13 +2,14 @@
   "id": 185739755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.53905,45.989319,-112.53905,45.989319",
     "geom:latitude":45.989319,
     "geom:longitude":-112.53905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 S Montana St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185739755,
-    "wof:lastmodified":1449007282,
+    "wof:lastmodified":1466641468,
     "wof:name":"Mt Moriah Cemetery Association",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-112.53905,45.989319,-112.53905,45.989319],
+  "bbox": [
+    -112.53905,
+    45.989319,
+    -112.53905,
+    45.989319
+],
   "geometry": {"coordinates":[-112.53905,45.989319],"type":"Point"}
 }

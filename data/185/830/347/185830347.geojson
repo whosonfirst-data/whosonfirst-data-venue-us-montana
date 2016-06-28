@@ -2,13 +2,14 @@
   "id": 185830347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.427182,47.069059,-109.427182,47.069059",
     "geom:latitude":47.069059,
     "geom:longitude":-109.427182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 1st Ave N",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185830347,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466641563,
     "wof:name":"Four Aces Casino and Rest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-109.427182,47.069059,-109.427182,47.069059],
+  "bbox": [
+    -109.427182,
+    47.069059,
+    -109.427182,
+    47.069059
+],
   "geometry": {"coordinates":[-109.427182,47.069059],"type":"Point"}
 }

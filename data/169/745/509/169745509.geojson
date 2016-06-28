@@ -2,13 +2,14 @@
   "id": 169745509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.230348,47.51937,-111.230348,47.51937",
     "geom:latitude":47.51937,
     "geom:longitude":-111.230348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 N Star Blvd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169745509,
-    "wof:lastmodified":1449035810,
+    "wof:lastmodified":1466641178,
     "wof:name":"Can AM Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "material"
     ]
 },
-  "bbox": [-111.230348,47.51937,-111.230348,47.51937],
-  "geometry": {"coordinates":[-111.230348,47.51937],"type":"Point"}
+  "bbox": [
+    -111.230348,
+    47.51937,
+    -111.230348,
+    47.51937
+],
+  "geometry": {"coordinates":[-111.23034800000001,47.51937],"type":"Point"}
 }

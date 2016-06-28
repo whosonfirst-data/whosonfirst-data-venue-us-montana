@@ -2,13 +2,14 @@
   "id": 186186315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020771,46.604519,-112.020771,46.604519",
     "geom:latitude":46.604519,
     "geom:longitude":-112.020771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 N Montana Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186186315,
-    "wof:lastmodified":1449052423,
+    "wof:lastmodified":1466642402,
     "wof:name":"Luckys Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.020771,46.604519,-112.020771,46.604519],
+  "bbox": [
+    -112.020771,
+    46.604519,
+    -112.020771,
+    46.604519
+],
   "geometry": {"coordinates":[-112.020771,46.604519],"type":"Point"}
 }

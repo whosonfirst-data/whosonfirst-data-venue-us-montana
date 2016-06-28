@@ -2,13 +2,14 @@
   "id": 169716037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.267567,45.972715,-108.267567,45.972715",
     "geom:latitude":45.972715,
     "geom:longitude":-108.267567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8005 Scandia Rd",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169716037,
-    "wof:lastmodified":1449033159,
+    "wof:lastmodified":1466641725,
     "wof:name":"Richard Devries",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.267567,45.972715,-108.267567,45.972715],
+  "bbox": [
+    -108.267567,
+    45.972715,
+    -108.267567,
+    45.972715
+],
   "geometry": {"coordinates":[-108.267567,45.972715],"type":"Point"}
 }

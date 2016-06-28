@@ -2,13 +2,14 @@
   "id": 186070261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.556474,45.781609,-108.556474,45.781609",
     "geom:latitude":45.781609,
     "geom:longitude":-108.556474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 16th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186070261,
-    "wof:lastmodified":1449051680,
+    "wof:lastmodified":1466641859,
     "wof:name":"Big Sky Sound",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-108.556474,45.781609,-108.556474,45.781609],
-  "geometry": {"coordinates":[-108.556474,45.781609],"type":"Point"}
+  "bbox": [
+    -108.556474,
+    45.781609,
+    -108.556474,
+    45.781609
+],
+  "geometry": {"coordinates":[-108.55647399999999,45.781609],"type":"Point"}
 }

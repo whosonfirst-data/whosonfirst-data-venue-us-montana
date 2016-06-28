@@ -2,13 +2,14 @@
   "id": 169716191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.104555,47.528654,-114.104555,47.528654",
     "geom:latitude":47.528654,
     "geom:longitude":-114.104555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Main St SW",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169716191,
-    "wof:lastmodified":1449033157,
+    "wof:lastmodified":1466641725,
     "wof:name":"Ronan Optical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.104555,47.528654,-114.104555,47.528654],
+  "bbox": [
+    -114.104555,
+    47.528654,
+    -114.104555,
+    47.528654
+],
   "geometry": {"coordinates":[-114.104555,47.528654],"type":"Point"}
 }

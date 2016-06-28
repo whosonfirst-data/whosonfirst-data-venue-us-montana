@@ -2,13 +2,14 @@
   "id": 185680781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.148085,46.229286,-114.148085,46.229286",
     "geom:latitude":46.229286,
     "geom:longitude":-114.148085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Winkler Ln",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185680781,
-    "wof:lastmodified":1449007721,
+    "wof:lastmodified":1466641404,
     "wof:name":"A Fastax Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "filing"
     ]
 },
-  "bbox": [-114.148085,46.229286,-114.148085,46.229286],
-  "geometry": {"coordinates":[-114.148085,46.229286],"type":"Point"}
+  "bbox": [
+    -114.148085,
+    46.229286,
+    -114.148085,
+    46.229286
+],
+  "geometry": {"coordinates":[-114.14808499999999,46.229286],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186052047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.14309,45.97629,-108.14309,45.97629",
     "geom:latitude":45.97629,
     "geom:longitude":-108.14309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2655 N 17th Rd",
     "sg:city":"Worden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186052047,
-    "wof:lastmodified":1449051585,
+    "wof:lastmodified":1466641819,
     "wof:name":"Zimmerman Home Improvements",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-108.14309,45.97629,-108.14309,45.97629],
+  "bbox": [
+    -108.14309,
+    45.97629,
+    -108.14309,
+    45.97629
+],
   "geometry": {"coordinates":[-108.14309,45.97629],"type":"Point"}
 }

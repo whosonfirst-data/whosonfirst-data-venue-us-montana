@@ -2,13 +2,14 @@
   "id": 169815167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.735231,46.399803,-112.735231,46.399803",
     "geom:latitude":46.399803,
     "geom:longitude":-112.735231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Main St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169815167,
-    "wof:lastmodified":1449034279,
+    "wof:lastmodified":1466641282,
     "wof:name":"Lickety Print",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-112.735231,46.399803,-112.735231,46.399803],
+  "bbox": [
+    -112.735231,
+    46.399803,
+    -112.735231,
+    46.399803
+],
   "geometry": {"coordinates":[-112.735231,46.399803],"type":"Point"}
 }

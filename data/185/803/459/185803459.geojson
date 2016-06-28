@@ -2,13 +2,14 @@
   "id": 185803459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.510917,45.99122,-112.510917,45.99122",
     "geom:latitude":45.99122,
     "geom:longitude":-112.510917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185803459,
-    "wof:lastmodified":1449008227,
+    "wof:lastmodified":1466641533,
     "wof:name":"Western States Insurance",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.510917,45.99122,-112.510917,45.99122],
-  "geometry": {"coordinates":[-112.510917,45.99122],"type":"Point"}
+  "bbox": [
+    -112.510917,
+    45.99122,
+    -112.510917,
+    45.99122
+],
+  "geometry": {"coordinates":[-112.51091700000001,45.99122],"type":"Point"}
 }

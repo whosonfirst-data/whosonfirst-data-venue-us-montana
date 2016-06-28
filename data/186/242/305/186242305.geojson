@@ -2,13 +2,14 @@
   "id": 186242305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.88297,47.46138,-114.88297,47.46138",
     "geom:latitude":47.46138,
     "geom:longitude":-114.88297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E Mc Gowan St",
     "sg:city":"Plains",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186242305,
-    "wof:lastmodified":1449052699,
+    "wof:lastmodified":1466642238,
     "wof:name":"Stageline Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.88297,47.46138,-114.88297,47.46138],
+  "bbox": [
+    -114.88297,
+    47.46138,
+    -114.88297,
+    47.46138
+],
   "geometry": {"coordinates":[-114.88297,47.46138],"type":"Point"}
 }

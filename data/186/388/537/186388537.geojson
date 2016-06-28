@@ -2,13 +2,14 @@
   "id": 186388537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.897319,47.350067,-110.897319,47.350067",
     "geom:latitude":47.350067,
     "geom:longitude":-110.897319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7128 US Hwy 89",
     "sg:city":"Belt",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186388537,
-    "wof:lastmodified":1449050373,
+    "wof:lastmodified":1466642697,
     "wof:name":"Gliko David V Attorny At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.897319,47.350067,-110.897319,47.350067],
+  "bbox": [
+    -110.897319,
+    47.350067,
+    -110.897319,
+    47.350067
+],
   "geometry": {"coordinates":[-110.897319,47.350067],"type":"Point"}
 }

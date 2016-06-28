@@ -2,13 +2,14 @@
   "id": 186064789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.954618,46.128578,-112.954618,46.128578",
     "geom:latitude":46.128578,
     "geom:longitude":-112.954618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W 3rd St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186064789,
-    "wof:lastmodified":1449051336,
+    "wof:lastmodified":1466641855,
     "wof:name":"Casey T J PHD Gnrl Psychlgst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.954618,46.128578,-112.954618,46.128578],
+  "bbox": [
+    -112.954618,
+    46.128578,
+    -112.954618,
+    46.128578
+],
   "geometry": {"coordinates":[-112.954618,46.128578],"type":"Point"}
 }

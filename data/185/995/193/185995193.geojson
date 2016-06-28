@@ -2,13 +2,14 @@
   "id": 185995193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.029795,46.840748,-114.029795,46.840748",
     "geom:latitude":46.840748,
     "geom:longitude":-114.029795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3217 Brooks St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185995193,
-    "wof:lastmodified":1449008042,
+    "wof:lastmodified":1466641707,
     "wof:name":"Garden Cy Rplcment Freplace GL",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "covering"
     ]
 },
-  "bbox": [-114.029795,46.840748,-114.029795,46.840748],
-  "geometry": {"coordinates":[-114.029795,46.840748],"type":"Point"}
+  "bbox": [
+    -114.029795,
+    46.840748,
+    -114.029795,
+    46.840748
+],
+  "geometry": {"coordinates":[-114.02979499999999,46.840748],"type":"Point"}
 }

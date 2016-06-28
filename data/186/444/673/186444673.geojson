@@ -2,13 +2,14 @@
   "id": 186444673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.025513,46.603797,-112.025513,46.603797",
     "geom:latitude":46.603797,
     "geom:longitude":-112.025513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Chestnut St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186444673,
-    "wof:lastmodified":1449052649,
+    "wof:lastmodified":1466642866,
     "wof:name":"Al & Buzz Rose Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-112.025513,46.603797,-112.025513,46.603797],
+  "bbox": [
+    -112.025513,
+    46.603797,
+    -112.025513,
+    46.603797
+],
   "geometry": {"coordinates":[-112.025513,46.603797],"type":"Point"}
 }

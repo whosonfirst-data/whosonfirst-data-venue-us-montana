@@ -2,13 +2,14 @@
   "id": 186001689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.085259,46.498014,-114.085259,46.498014",
     "geom:latitude":46.498014,
     "geom:longitude":-114.085259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3556 Baldwin Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186001689,
-    "wof:lastmodified":1449051009,
+    "wof:lastmodified":1466641223,
     "wof:name":"Robert B Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-114.085259,46.498014,-114.085259,46.498014],
-  "geometry": {"coordinates":[-114.085259,46.498014],"type":"Point"}
+  "bbox": [
+    -114.085259,
+    46.498014,
+    -114.085259,
+    46.498014
+],
+  "geometry": {"coordinates":[-114.08525899999999,46.498014],"type":"Point"}
 }

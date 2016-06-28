@@ -2,13 +2,14 @@
   "id": 169814087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.273021,48.25551,-114.273021,48.25551",
     "geom:latitude":48.25551,
     "geom:longitude":-114.273021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2830 US Hwy 2 E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169814087,
-    "wof:lastmodified":1449033292,
+    "wof:lastmodified":1466641277,
     "wof:name":"Kalispell Home Center",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufactured"
     ]
 },
-  "bbox": [-114.273021,48.25551,-114.273021,48.25551],
+  "bbox": [
+    -114.273021,
+    48.25551,
+    -114.273021,
+    48.25551
+],
   "geometry": {"coordinates":[-114.273021,48.25551],"type":"Point"}
 }

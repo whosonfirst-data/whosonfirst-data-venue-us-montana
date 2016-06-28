@@ -2,13 +2,14 @@
   "id": 186230375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.549753,45.768858,-108.549753,45.768858",
     "geom:latitude":45.768858,
     "geom:longitude":-108.549753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Concord Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186230375,
-    "wof:lastmodified":1449052338,
+    "wof:lastmodified":1466642483,
     "wof:name":"Bright-Wight Daycare",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "daycare"
     ]
 },
-  "bbox": [-108.549753,45.768858,-108.549753,45.768858],
+  "bbox": [
+    -108.549753,
+    45.768858,
+    -108.549753,
+    45.768858
+],
   "geometry": {"coordinates":[-108.549753,45.768858],"type":"Point"}
 }

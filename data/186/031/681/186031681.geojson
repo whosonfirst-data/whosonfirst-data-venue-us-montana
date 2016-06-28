@@ -2,13 +2,14 @@
   "id": 186031681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.434498,47.055614,-109.434498,47.055614",
     "geom:latitude":47.055614,
     "geom:longitude":-109.434498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Airport Rd",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186031681,
-    "wof:lastmodified":1449051376,
+    "wof:lastmodified":1466641641,
     "wof:name":"Lewiston Community Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-109.434498,47.055614,-109.434498,47.055614],
+  "bbox": [
+    -109.434498,
+    47.055614,
+    -109.434498,
+    47.055614
+],
   "geometry": {"coordinates":[-109.434498,47.055614],"type":"Point"}
 }

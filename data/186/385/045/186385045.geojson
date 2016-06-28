@@ -2,13 +2,14 @@
   "id": 186385045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.516386,45.790909,-108.516386,45.790909",
     "geom:latitude":45.790909,
     "geom:longitude":-108.516386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1032 N 29th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186385045,
-    "wof:lastmodified":1449051963,
+    "wof:lastmodified":1466642820,
     "wof:name":"Doris Jones Art School",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-108.516386,45.790909,-108.516386,45.790909],
+  "bbox": [
+    -108.516386,
+    45.790909,
+    -108.516386,
+    45.790909
+],
   "geometry": {"coordinates":[-108.516386,45.790909],"type":"Point"}
 }

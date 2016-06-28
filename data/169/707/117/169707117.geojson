@@ -2,13 +2,14 @@
   "id": 169707117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.548301,45.669233,-110.548301,45.669233",
     "geom:latitude":45.669233,
     "geom:longitude":-110.548301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 E Park St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169707117,
-    "wof:lastmodified":1449035441,
+    "wof:lastmodified":1466641241,
     "wof:name":"Tire-Rama Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-110.548301,45.669233,-110.548301,45.669233],
+  "bbox": [
+    -110.548301,
+    45.669233,
+    -110.548301,
+    45.669233
+],
   "geometry": {"coordinates":[-110.548301,45.669233],"type":"Point"}
 }

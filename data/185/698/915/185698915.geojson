@@ -2,13 +2,14 @@
   "id": 185698915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.908849,48.883756,-111.908849,48.883756",
     "geom:latitude":48.883756,
     "geom:longitude":-111.908849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Main St",
     "sg:city":"Sunburst",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185698915,
-    "wof:lastmodified":1449008113,
+    "wof:lastmodified":1466641421,
     "wof:name":"Diamond Willow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.908849,48.883756,-111.908849,48.883756],
+  "bbox": [
+    -111.908849,
+    48.883756,
+    -111.908849,
+    48.883756
+],
   "geometry": {"coordinates":[-111.908849,48.883756],"type":"Point"}
 }

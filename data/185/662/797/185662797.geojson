@@ -2,13 +2,14 @@
   "id": 185662797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.202344,46.302034,-114.202344,46.302034",
     "geom:latitude":46.302034,
     "geom:longitude":-114.202344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Mill Creek Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185662797,
-    "wof:lastmodified":1449007677,
+    "wof:lastmodified":1466641383,
     "wof:name":"Ralph Owens Concrete Work",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.202344,46.302034,-114.202344,46.302034],
+  "bbox": [
+    -114.202344,
+    46.302034,
+    -114.202344,
+    46.302034
+],
   "geometry": {"coordinates":[-114.202344,46.302034],"type":"Point"}
 }

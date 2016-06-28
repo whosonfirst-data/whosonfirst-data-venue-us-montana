@@ -2,13 +2,14 @@
   "id": 185630581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.137501,46.519831,-114.137501,46.519831",
     "geom:latitude":46.519831,
     "geom:longitude":-114.137501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 Sharrott Hill Loop",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185630581,
-    "wof:lastmodified":1449007162,
+    "wof:lastmodified":1466641323,
     "wof:name":"Osellame Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "project"
     ]
 },
-  "bbox": [-114.137501,46.519831,-114.137501,46.519831],
+  "bbox": [
+    -114.137501,
+    46.519831,
+    -114.137501,
+    46.519831
+],
   "geometry": {"coordinates":[-114.137501,46.519831],"type":"Point"}
 }

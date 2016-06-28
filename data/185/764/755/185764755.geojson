@@ -2,13 +2,14 @@
   "id": 185764755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.530625,46.014056,-112.530625,46.014056",
     "geom:latitude":46.014056,
     "geom:longitude":-112.530625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 E Broadway St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185764755,
-    "wof:lastmodified":1449008121,
+    "wof:lastmodified":1466641496,
     "wof:name":"Broadway Garage",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-112.530625,46.014056,-112.530625,46.014056],
+  "bbox": [
+    -112.530625,
+    46.014056,
+    -112.530625,
+    46.014056
+],
   "geometry": {"coordinates":[-112.530625,46.014056],"type":"Point"}
 }

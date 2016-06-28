@@ -2,13 +2,14 @@
   "id": 169842441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.006748,46.589228,-112.006748,46.589228",
     "geom:latitude":46.589228,
     "geom:longitude":-112.006748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1930 9th Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169842441,
-    "wof:lastmodified":1449032918,
+    "wof:lastmodified":1466641316,
     "wof:name":"Cooperative Health Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "community"
     ]
 },
-  "bbox": [-112.006748,46.589228,-112.006748,46.589228],
+  "bbox": [
+    -112.006748,
+    46.589228,
+    -112.006748,
+    46.589228
+],
   "geometry": {"coordinates":[-112.006748,46.589228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169816235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.181218,47.808983,-112.181218,47.808983",
     "geom:latitude":47.808983,
     "geom:longitude":-112.181218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 2nd St SW",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169816235,
-    "wof:lastmodified":1449034608,
+    "wof:lastmodified":1466641283,
     "wof:name":"City Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-112.181218,47.808983,-112.181218,47.808983],
+  "bbox": [
+    -112.181218,
+    47.808983,
+    -112.181218,
+    47.808983
+],
   "geometry": {"coordinates":[-112.181218,47.808983],"type":"Point"}
 }

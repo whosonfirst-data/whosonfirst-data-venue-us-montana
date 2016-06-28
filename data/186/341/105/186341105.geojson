@@ -2,13 +2,14 @@
   "id": 186341105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.236348,48.584416,-109.236348,48.584416",
     "geom:latitude":48.584416,
     "geom:longitude":-109.236348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 12th St",
     "sg:city":"Chinook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186341105,
-    "wof:lastmodified":1449052919,
+    "wof:lastmodified":1466642697,
     "wof:name":"Kingdom Hall Of Jehovah Witnss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-109.236348,48.584416,-109.236348,48.584416],
-  "geometry": {"coordinates":[-109.236348,48.584416],"type":"Point"}
+  "bbox": [
+    -109.236348,
+    48.584416,
+    -109.236348,
+    48.584416
+],
+  "geometry": {"coordinates":[-109.23634800000001,48.584416],"type":"Point"}
 }

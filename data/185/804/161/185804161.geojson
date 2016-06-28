@@ -2,13 +2,14 @@
   "id": 185804161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.081159,47.842228,-112.081159,47.842228",
     "geom:latitude":47.842228,
     "geom:longitude":-112.081159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 16th Rd NW",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185804161,
-    "wof:lastmodified":1449007708,
+    "wof:lastmodified":1466641531,
     "wof:name":"Montana Custom Cabins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cabin"
     ]
 },
-  "bbox": [-112.081159,47.842228,-112.081159,47.842228],
+  "bbox": [
+    -112.081159,
+    47.842228,
+    -112.081159,
+    47.842228
+],
   "geometry": {"coordinates":[-112.081159,47.842228],"type":"Point"}
 }

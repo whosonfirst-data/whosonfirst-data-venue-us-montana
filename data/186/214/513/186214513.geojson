@@ -2,13 +2,14 @@
   "id": 186214513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.177014,45.776003,-111.177014,45.776003",
     "geom:latitude":45.776003,
     "geom:longitude":-111.177014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 E Main St",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186214513,
-    "wof:lastmodified":1449052954,
+    "wof:lastmodified":1466642371,
     "wof:name":"Hub Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.177014,45.776003,-111.177014,45.776003],
+  "bbox": [
+    -111.177014,
+    45.776003,
+    -111.177014,
+    45.776003
+],
   "geometry": {"coordinates":[-111.177014,45.776003],"type":"Point"}
 }

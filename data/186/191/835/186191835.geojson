@@ -2,13 +2,14 @@
   "id": 186191835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.677848,48.553602,-109.677848,48.553602",
     "geom:latitude":48.553602,
     "geom:longitude":-109.677848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 1st St",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186191835,
-    "wof:lastmodified":1449051982,
+    "wof:lastmodified":1466642082,
     "wof:name":"Kleen KUT Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-109.677848,48.553602,-109.677848,48.553602],
+  "bbox": [
+    -109.677848,
+    48.553602,
+    -109.677848,
+    48.553602
+],
   "geometry": {"coordinates":[-109.677848,48.553602],"type":"Point"}
 }

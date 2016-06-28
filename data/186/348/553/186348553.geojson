@@ -2,13 +2,14 @@
   "id": 186348553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.528946,46.000527,-112.528946,46.000527",
     "geom:latitude":46.000527,
     "geom:longitude":-112.528946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Front St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186348553,
-    "wof:lastmodified":1449050392,
+    "wof:lastmodified":1466642557,
     "wof:name":"Quilting Crane",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.528946,46.000527,-112.528946,46.000527],
+  "bbox": [
+    -112.528946,
+    46.000527,
+    -112.528946,
+    46.000527
+],
   "geometry": {"coordinates":[-112.528946,46.000527],"type":"Point"}
 }

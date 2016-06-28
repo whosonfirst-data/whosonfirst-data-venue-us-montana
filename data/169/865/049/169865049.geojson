@@ -2,13 +2,14 @@
   "id": 169865049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.43072,47.068728,-109.43072,47.068728",
     "geom:latitude":47.068728,
     "geom:longitude":-109.43072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 W Corcoran St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169865049,
-    "wof:lastmodified":1449035152,
+    "wof:lastmodified":1466641355,
     "wof:name":"Chamberlain Portables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.43072,47.068728,-109.43072,47.068728],
-  "geometry": {"coordinates":[-109.43072,47.068728],"type":"Point"}
+  "bbox": [
+    -109.43072,
+    47.068728,
+    -109.43072,
+    47.068728
+],
+  "geometry": {"coordinates":[-109.43071999999999,47.068728],"type":"Point"}
 }

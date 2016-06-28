@@ -2,13 +2,14 @@
   "id": 185729873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.187609,48.765964,-104.187609,48.765964",
     "geom:latitude":48.765964,
     "geom:longitude":-104.187609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"971 N Dagmar Rd",
     "sg:city":"Westby",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185729873,
-    "wof:lastmodified":1449007443,
+    "wof:lastmodified":1466641458,
     "wof:name":"Emmaus Cemetery Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-104.187609,48.765964,-104.187609,48.765964],
-  "geometry": {"coordinates":[-104.187609,48.765964],"type":"Point"}
+  "bbox": [
+    -104.187609,
+    48.765964,
+    -104.187609,
+    48.765964
+],
+  "geometry": {"coordinates":[-104.18760899999999,48.765964],"type":"Point"}
 }

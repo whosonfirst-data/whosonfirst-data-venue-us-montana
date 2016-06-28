@@ -2,13 +2,14 @@
   "id": 185947267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.043912,47.515061,-114.043912,47.515061",
     "geom:latitude":47.515061,
     "geom:longitude":-114.043912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 Timberlane Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185947267,
-    "wof:lastmodified":1449007758,
+    "wof:lastmodified":1466641698,
     "wof:name":"National Assn Retired Fed Empl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lodging"
     ]
 },
-  "bbox": [-114.043912,47.515061,-114.043912,47.515061],
-  "geometry": {"coordinates":[-114.043912,47.515061],"type":"Point"}
+  "bbox": [
+    -114.043912,
+    47.515061,
+    -114.043912,
+    47.515061
+],
+  "geometry": {"coordinates":[-114.04391200000001,47.515061],"type":"Point"}
 }

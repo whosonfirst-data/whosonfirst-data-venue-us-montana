@@ -2,13 +2,14 @@
   "id": 186226595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.598969,45.793532,-108.598969,45.793532",
     "geom:latitude":45.793532,
     "geom:longitude":-108.598969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2512 Golden Blvd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186226595,
-    "wof:lastmodified":1449052305,
+    "wof:lastmodified":1466642209,
     "wof:name":"Arts Partners Unlimited",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concert"
     ]
 },
-  "bbox": [-108.598969,45.793532,-108.598969,45.793532],
+  "bbox": [
+    -108.598969,
+    45.793532,
+    -108.598969,
+    45.793532
+],
   "geometry": {"coordinates":[-108.598969,45.793532],"type":"Point"}
 }

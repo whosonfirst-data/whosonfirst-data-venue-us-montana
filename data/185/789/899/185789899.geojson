@@ -2,13 +2,14 @@
   "id": 185789899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.634614,45.218302,-112.634614,45.218302",
     "geom:latitude":45.218302,
     "geom:longitude":-112.634614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 E Helena St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185789899,
-    "wof:lastmodified":1449007345,
+    "wof:lastmodified":1466641522,
     "wof:name":"M D's Auto Repair & Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-112.634614,45.218302,-112.634614,45.218302],
+  "bbox": [
+    -112.634614,
+    45.218302,
+    -112.634614,
+    45.218302
+],
   "geometry": {"coordinates":[-112.634614,45.218302],"type":"Point"}
 }

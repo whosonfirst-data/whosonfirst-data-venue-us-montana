@@ -2,13 +2,14 @@
   "id": 186085707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.161152,47.513535,-114.161152,47.513535",
     "geom:latitude":47.513535,
     "geom:longitude":-114.161152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"356 Hughes Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186085707,
-    "wof:lastmodified":1449051067,
+    "wof:lastmodified":1466641919,
     "wof:name":"J Bar Four",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-114.161152,47.513535,-114.161152,47.513535],
+  "bbox": [
+    -114.161152,
+    47.513535,
+    -114.161152,
+    47.513535
+],
   "geometry": {"coordinates":[-114.161152,47.513535],"type":"Point"}
 }

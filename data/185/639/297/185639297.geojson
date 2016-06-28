@@ -2,13 +2,14 @@
   "id": 185639297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.037895,46.718988,-112.037895,46.718988",
     "geom:latitude":46.718988,
     "geom:longitude":-112.037895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Valleyview Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185639297,
-    "wof:lastmodified":1449008196,
+    "wof:lastmodified":1466641345,
     "wof:name":"Montana City Towing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-112.037895,46.718988,-112.037895,46.718988],
-  "geometry": {"coordinates":[-112.037895,46.718988],"type":"Point"}
+  "bbox": [
+    -112.037895,
+    46.718988,
+    -112.037895,
+    46.718988
+],
+  "geometry": {"coordinates":[-112.03789500000001,46.718988],"type":"Point"}
 }

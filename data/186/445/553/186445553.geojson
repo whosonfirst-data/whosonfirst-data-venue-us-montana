@@ -2,13 +2,14 @@
   "id": 186445553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.91776,45.632116,-108.91776,45.632116",
     "geom:latitude":45.632116,
     "geom:longitude":-108.91776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 1st St SW",
     "sg:city":"Park City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186445553,
-    "wof:lastmodified":1449050667,
+    "wof:lastmodified":1466643105,
     "wof:name":"Kountry KAFE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.91776,45.632116,-108.91776,45.632116],
+  "bbox": [
+    -108.91776,
+    45.632116,
+    -108.91776,
+    45.632116
+],
   "geometry": {"coordinates":[-108.91776,45.632116],"type":"Point"}
 }

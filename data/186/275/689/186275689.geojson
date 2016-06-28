@@ -2,13 +2,14 @@
   "id": 186275689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.404165,48.096092,-110.404165,48.096092",
     "geom:latitude":48.096092,
     "geom:longitude":-110.404165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Ray Ln",
     "sg:city":"Loma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186275689,
-    "wof:lastmodified":1449051251,
+    "wof:lastmodified":1466642573,
     "wof:name":"Keith Danreuther",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-110.404165,48.096092,-110.404165,48.096092],
-  "geometry": {"coordinates":[-110.404165,48.096092],"type":"Point"}
+  "bbox": [
+    -110.404165,
+    48.096092,
+    -110.404165,
+    48.096092
+],
+  "geometry": {"coordinates":[-110.40416500000001,48.096092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186007457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.015444,46.837447,-114.015444,46.837447",
     "geom:latitude":46.837447,
     "geom:longitude":-114.015444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 34th St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186007457,
-    "wof:lastmodified":1449052549,
+    "wof:lastmodified":1466641759,
     "wof:name":"Missoula Housing Authority",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-114.015444,46.837447,-114.015444,46.837447],
+  "bbox": [
+    -114.015444,
+    46.837447,
+    -114.015444,
+    46.837447
+],
   "geometry": {"coordinates":[-114.015444,46.837447],"type":"Point"}
 }

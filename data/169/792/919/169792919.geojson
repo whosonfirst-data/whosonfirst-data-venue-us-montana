@@ -2,13 +2,14 @@
   "id": 169792919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.647488,48.129018,-112.647488,48.129018",
     "geom:latitude":48.129018,
     "geom:longitude":-112.647488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 W Dupuyer Rd",
     "sg:city":"Dupuyer",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169792919,
-    "wof:lastmodified":1449033393,
+    "wof:lastmodified":1466641260,
     "wof:name":"Boone & Crockett Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-112.647488,48.129018,-112.647488,48.129018],
+  "bbox": [
+    -112.647488,
+    48.129018,
+    -112.647488,
+    48.129018
+],
   "geometry": {"coordinates":[-112.647488,48.129018],"type":"Point"}
 }

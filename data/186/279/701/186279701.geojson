@@ -2,13 +2,14 @@
   "id": 186279701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.639081,45.717638,-108.639081,45.717638",
     "geom:latitude":45.717638,
     "geom:longitude":-108.639081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4848 Danford Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":186279701,
-    "wof:lastmodified":1449051605,
+    "wof:lastmodified":1466642329,
     "wof:name":"Michell Kiekover",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.639081,45.717638,-108.639081,45.717638],
+  "bbox": [
+    -108.639081,
+    45.717638,
+    -108.639081,
+    45.717638
+],
   "geometry": {"coordinates":[-108.639081,45.717638],"type":"Point"}
 }

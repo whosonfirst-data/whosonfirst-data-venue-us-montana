@@ -2,13 +2,14 @@
   "id": 185898247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.003411,46.839301,-114.003411,46.839301",
     "geom:latitude":46.839301,
     "geom:longitude":-114.003411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 SW Higgins Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185898247,
-    "wof:lastmodified":1449006570,
+    "wof:lastmodified":1466641637,
     "wof:name":"Lindsay Clodfelter Consulting",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-114.003411,46.839301,-114.003411,46.839301],
+  "bbox": [
+    -114.003411,
+    46.839301,
+    -114.003411,
+    46.839301
+],
   "geometry": {"coordinates":[-114.003411,46.839301],"type":"Point"}
 }

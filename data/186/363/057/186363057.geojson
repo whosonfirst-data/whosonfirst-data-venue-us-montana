@@ -2,13 +2,14 @@
   "id": 186363057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.771656,45.675405,-108.771656,45.675405",
     "geom:latitude":45.675405,
     "geom:longitude":-108.771656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 1st Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186363057,
-    "wof:lastmodified":1449052691,
+    "wof:lastmodified":1466642877,
     "wof:name":"Laurel Main Post Office",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "us"
     ]
 },
-  "bbox": [-108.771656,45.675405,-108.771656,45.675405],
-  "geometry": {"coordinates":[-108.771656,45.675405],"type":"Point"}
+  "bbox": [
+    -108.771656,
+    45.675405,
+    -108.771656,
+    45.675405
+],
+  "geometry": {"coordinates":[-108.77165599999999,45.675405],"type":"Point"}
 }

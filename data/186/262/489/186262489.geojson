@@ -2,13 +2,14 @@
   "id": 186262489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.538775,45.789855,-108.538775,45.789855",
     "geom:latitude":45.789855,
     "geom:longitude":-108.538775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 9th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186262489,
-    "wof:lastmodified":1449052026,
+    "wof:lastmodified":1466642545,
     "wof:name":"Proline Builders LLC",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.538775,45.789855,-108.538775,45.789855],
+  "bbox": [
+    -108.538775,
+    45.789855,
+    -108.538775,
+    45.789855
+],
   "geometry": {"coordinates":[-108.538775,45.789855],"type":"Point"}
 }

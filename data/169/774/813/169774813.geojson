@@ -2,13 +2,14 @@
   "id": 169774813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.259682,45.642857,-109.259682,45.642857",
     "geom:latitude":45.642857,
     "geom:longitude":-109.259682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 W 4th Ave N",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169774813,
-    "wof:lastmodified":1449033960,
+    "wof:lastmodified":1466641227,
     "wof:name":"Stillwater Community Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.259682,45.642857,-109.259682,45.642857],
+  "bbox": [
+    -109.259682,
+    45.642857,
+    -109.259682,
+    45.642857
+],
   "geometry": {"coordinates":[-109.259682,45.642857],"type":"Point"}
 }

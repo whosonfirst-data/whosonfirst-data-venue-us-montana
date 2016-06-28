@@ -2,13 +2,14 @@
   "id": 185898481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.671218,47.607834,-114.671218,47.607834",
     "geom:latitude":47.607834,
     "geom:longitude":-114.671218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Wall St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185898481,
-    "wof:lastmodified":1449006570,
+    "wof:lastmodified":1466641644,
     "wof:name":"Hair Stops Here & Tan Starts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.671218,47.607834,-114.671218,47.607834],
+  "bbox": [
+    -114.671218,
+    47.607834,
+    -114.671218,
+    47.607834
+],
   "geometry": {"coordinates":[-114.671218,47.607834],"type":"Point"}
 }

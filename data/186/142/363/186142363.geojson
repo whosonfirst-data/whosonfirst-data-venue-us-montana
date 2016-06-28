@@ -2,13 +2,14 @@
   "id": 186142363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.027553,45.679415,-111.027553,45.679415",
     "geom:latitude":45.679415,
     "geom:longitude":-111.027553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 E Main St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186142363,
-    "wof:lastmodified":1449052476,
+    "wof:lastmodified":1466642114,
     "wof:name":"Architecture Design Works",
     "wof:parent_id":85891715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-111.027553,45.679415,-111.027553,45.679415],
+  "bbox": [
+    -111.027553,
+    45.679415,
+    -111.027553,
+    45.679415
+],
   "geometry": {"coordinates":[-111.027553,45.679415],"type":"Point"}
 }

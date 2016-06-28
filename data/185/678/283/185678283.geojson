@@ -2,13 +2,14 @@
   "id": 185678283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.03884,45.679136,-111.03884,45.679136",
     "geom:latitude":45.679136,
     "geom:longitude":-111.03884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 S Willson Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185678283,
-    "wof:lastmodified":1449007401,
+    "wof:lastmodified":1466641397,
     "wof:name":"Family Assessment Program",
     "wof:parent_id":85876469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.03884,45.679136,-111.03884,45.679136],
-  "geometry": {"coordinates":[-111.03884,45.679136],"type":"Point"}
+  "bbox": [
+    -111.03884,
+    45.679136,
+    -111.03884,
+    45.679136
+],
+  "geometry": {"coordinates":[-111.03883999999999,45.679136],"type":"Point"}
 }

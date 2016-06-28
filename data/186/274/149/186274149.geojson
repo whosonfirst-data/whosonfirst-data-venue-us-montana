@@ -2,13 +2,14 @@
   "id": 186274149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.692203,47.40291,-110.692203,47.40291",
     "geom:latitude":47.40291,
     "geom:longitude":-110.692203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Willow Creek Rd",
     "sg:city":"Belt",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186274149,
-    "wof:lastmodified":1449050592,
+    "wof:lastmodified":1466642566,
     "wof:name":"Todd Murphy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-110.692203,47.40291,-110.692203,47.40291],
-  "geometry": {"coordinates":[-110.692203,47.40291],"type":"Point"}
+  "bbox": [
+    -110.692203,
+    47.40291,
+    -110.692203,
+    47.40291
+],
+  "geometry": {"coordinates":[-110.69220300000001,47.40291],"type":"Point"}
 }

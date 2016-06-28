@@ -2,13 +2,14 @@
   "id": 169720177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.490858,45.789282,-108.490858,45.789282",
     "geom:latitude":45.789282,
     "geom:longitude":-108.490858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 1st Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169720177,
-    "wof:lastmodified":1449033484,
+    "wof:lastmodified":1466641730,
     "wof:name":"J & S Auto Sales",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-108.490858,45.789282,-108.490858,45.789282],
+  "bbox": [
+    -108.490858,
+    45.789282,
+    -108.490858,
+    45.789282
+],
   "geometry": {"coordinates":[-108.490858,45.789282],"type":"Point"}
 }

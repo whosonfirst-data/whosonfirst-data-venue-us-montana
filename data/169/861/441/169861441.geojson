@@ -2,13 +2,14 @@
   "id": 169861441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.631677,45.199987,-112.631677,45.199987",
     "geom:latitude":45.199987,
     "geom:longitude":-112.631677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 White Ln",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169861441,
-    "wof:lastmodified":1449035941,
+    "wof:lastmodified":1466641351,
     "wof:name":"7 Up Gulch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-112.631677,45.199987,-112.631677,45.199987],
+  "bbox": [
+    -112.631677,
+    45.199987,
+    -112.631677,
+    45.199987
+],
   "geometry": {"coordinates":[-112.631677,45.199987],"type":"Point"}
 }

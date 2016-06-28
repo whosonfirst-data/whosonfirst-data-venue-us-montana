@@ -2,13 +2,14 @@
   "id": 186140845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.549427,46.007732,-112.549427,46.007732",
     "geom:latitude":46.007732,
     "geom:longitude":-112.549427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Excelsior Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186140845,
-    "wof:lastmodified":1449050755,
+    "wof:lastmodified":1466642276,
     "wof:name":"Sato Travel",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-112.549427,46.007732,-112.549427,46.007732],
-  "geometry": {"coordinates":[-112.549427,46.007732],"type":"Point"}
+  "bbox": [
+    -112.549427,
+    46.007732,
+    -112.549427,
+    46.007732
+],
+  "geometry": {"coordinates":[-112.54942699999999,46.007732],"type":"Point"}
 }

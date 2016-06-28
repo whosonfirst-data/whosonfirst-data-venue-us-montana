@@ -2,13 +2,14 @@
   "id": 169793175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.253302,45.640298,-109.253302,45.640298",
     "geom:latitude":45.640298,
     "geom:longitude":-109.253302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E 3rd Ave N",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169793175,
-    "wof:lastmodified":1449034508,
+    "wof:lastmodified":1466641254,
     "wof:name":"Stillwater County Sheriff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-109.253302,45.640298,-109.253302,45.640298],
-  "geometry": {"coordinates":[-109.253302,45.640298],"type":"Point"}
+  "bbox": [
+    -109.253302,
+    45.640298,
+    -109.253302,
+    45.640298
+],
+  "geometry": {"coordinates":[-109.25330200000001,45.640298],"type":"Point"}
 }

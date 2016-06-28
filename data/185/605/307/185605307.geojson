@@ -2,13 +2,14 @@
   "id": 185605307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.513161,45.994884,-112.513161,45.994884",
     "geom:latitude":45.994884,
     "geom:longitude":-112.513161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185605307,
-    "wof:lastmodified":1449007414,
+    "wof:lastmodified":1466641176,
     "wof:name":"Mile High Federal Credit Union",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.513161,45.994884,-112.513161,45.994884],
+  "bbox": [
+    -112.513161,
+    45.994884,
+    -112.513161,
+    45.994884
+],
   "geometry": {"coordinates":[-112.513161,45.994884],"type":"Point"}
 }

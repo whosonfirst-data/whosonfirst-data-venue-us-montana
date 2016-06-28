@@ -2,13 +2,14 @@
   "id": 185646857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.516191,45.998613,-112.516191,45.998613",
     "geom:latitude":45.998613,
     "geom:longitude":-112.516191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185646857,
-    "wof:lastmodified":1449006561,
+    "wof:lastmodified":1466641370,
     "wof:name":"Platec",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-112.516191,45.998613,-112.516191,45.998613],
-  "geometry": {"coordinates":[-112.516191,45.998613],"type":"Point"}
+  "bbox": [
+    -112.516191,
+    45.998613,
+    -112.516191,
+    45.998613
+],
+  "geometry": {"coordinates":[-112.51619100000001,45.998613],"type":"Point"}
 }

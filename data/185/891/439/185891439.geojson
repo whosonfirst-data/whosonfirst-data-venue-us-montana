@@ -2,13 +2,14 @@
   "id": 185891439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.341001,48.422677,-114.341001,48.422677",
     "geom:latitude":48.422677,
     "geom:longitude":-114.341001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Wisconsin Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185891439,
-    "wof:lastmodified":1449007585,
+    "wof:lastmodified":1466641626,
     "wof:name":"Intelliflex Corp",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-114.341001,48.422677,-114.341001,48.422677],
-  "geometry": {"coordinates":[-114.341001,48.422677],"type":"Point"}
+  "bbox": [
+    -114.341001,
+    48.422677,
+    -114.341001,
+    48.422677
+],
+  "geometry": {"coordinates":[-114.34100100000001,48.422677],"type":"Point"}
 }

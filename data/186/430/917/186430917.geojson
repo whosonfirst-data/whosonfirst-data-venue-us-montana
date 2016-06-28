@@ -2,13 +2,14 @@
   "id": 186430917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.29575,46.332474,-113.29575,46.332474",
     "geom:latitude":46.332474,
     "geom:longitude":-113.29575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 W Broadway St",
     "sg:city":"Philipsburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186430917,
-    "wof:lastmodified":1449052088,
+    "wof:lastmodified":1466642943,
     "wof:name":"Montana Abstract & Title Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-113.29575,46.332474,-113.29575,46.332474],
+  "bbox": [
+    -113.29575,
+    46.332474,
+    -113.29575,
+    46.332474
+],
   "geometry": {"coordinates":[-113.29575,46.332474],"type":"Point"}
 }

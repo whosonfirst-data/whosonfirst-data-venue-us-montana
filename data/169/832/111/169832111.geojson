@@ -2,13 +2,14 @@
   "id": 169832111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.311141,48.196073,-114.311141,48.196073",
     "geom:latitude":48.196073,
     "geom:longitude":-114.311141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 1st Ave E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169832111,
-    "wof:lastmodified":1449032706,
+    "wof:lastmodified":1466641298,
     "wof:name":"Kathleen E Hayden Msw",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-114.311141,48.196073,-114.311141,48.196073],
-  "geometry": {"coordinates":[-114.311141,48.196073],"type":"Point"}
+  "bbox": [
+    -114.311141,
+    48.196073,
+    -114.311141,
+    48.196073
+],
+  "geometry": {"coordinates":[-114.31114100000001,48.196073],"type":"Point"}
 }

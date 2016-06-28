@@ -2,13 +2,14 @@
   "id": 185914187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.549729,46.012468,-112.549729,46.012468",
     "geom:latitude":46.012468,
     "geom:longitude":-112.549729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 W Park St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185914187,
-    "wof:lastmodified":1449007221,
+    "wof:lastmodified":1466641651,
     "wof:name":"Park Street Baptist Church",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.549729,46.012468,-112.549729,46.012468],
+  "bbox": [
+    -112.549729,
+    46.012468,
+    -112.549729,
+    46.012468
+],
   "geometry": {"coordinates":[-112.549729,46.012468],"type":"Point"}
 }

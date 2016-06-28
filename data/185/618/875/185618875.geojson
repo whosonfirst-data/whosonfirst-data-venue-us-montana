@@ -2,13 +2,14 @@
   "id": 185618875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.55559,45.788118,-108.55559,45.788118",
     "geom:latitude":45.788118,
     "geom:longitude":-108.55559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1533 Avenue E",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185618875,
-    "wof:lastmodified":1449007610,
+    "wof:lastmodified":1466641212,
     "wof:name":"Anderson G&C Family LLC",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.55559,45.788118,-108.55559,45.788118],
+  "bbox": [
+    -108.55559,
+    45.788118,
+    -108.55559,
+    45.788118
+],
   "geometry": {"coordinates":[-108.55559,45.788118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185743837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.536969,45.768168,-108.536969,45.768168",
     "geom:latitude":45.768168,
     "geom:longitude":-108.536969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Rhea Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185743837,
-    "wof:lastmodified":1449008191,
+    "wof:lastmodified":1466641470,
     "wof:name":"Todd's Toys",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-108.536969,45.768168,-108.536969,45.768168],
+  "bbox": [
+    -108.536969,
+    45.768168,
+    -108.536969,
+    45.768168
+],
   "geometry": {"coordinates":[-108.536969,45.768168],"type":"Point"}
 }

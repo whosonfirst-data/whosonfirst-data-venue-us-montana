@@ -2,13 +2,14 @@
   "id": 186433531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.577599,45.777019,-108.577599,45.777019",
     "geom:latitude":45.777019,
     "geom:longitude":-108.577599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407 Broadwater Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186433531,
-    "wof:lastmodified":1449050558,
+    "wof:lastmodified":1466642952,
     "wof:name":"Softies",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-108.577599,45.777019,-108.577599,45.777019],
-  "geometry": {"coordinates":[-108.577599,45.777019],"type":"Point"}
+  "bbox": [
+    -108.577599,
+    45.777019,
+    -108.577599,
+    45.777019
+],
+  "geometry": {"coordinates":[-108.57759900000001,45.777019],"type":"Point"}
 }

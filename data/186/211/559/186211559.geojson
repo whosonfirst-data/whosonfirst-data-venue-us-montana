@@ -2,13 +2,14 @@
   "id": 186211559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.580593,45.629677,-110.580593,45.629677",
     "geom:latitude":45.629677,
     "geom:longitude":-110.580593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Shamrock Ln",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186211559,
-    "wof:lastmodified":1449051053,
+    "wof:lastmodified":1466642369,
     "wof:name":"Heavy Equipment Repair",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-110.580593,45.629677,-110.580593,45.629677],
-  "geometry": {"coordinates":[-110.580593,45.629677],"type":"Point"}
+  "bbox": [
+    -110.580593,
+    45.629677,
+    -110.580593,
+    45.629677
+],
+  "geometry": {"coordinates":[-110.58059299999999,45.629677],"type":"Point"}
 }

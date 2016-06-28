@@ -2,13 +2,14 @@
   "id": 186442271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.558909,45.787894,-108.558909,45.787894",
     "geom:latitude":45.787894,
     "geom:longitude":-108.558909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 17th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186442271,
-    "wof:lastmodified":1449051550,
+    "wof:lastmodified":1466642987,
     "wof:name":"Steves Auto Sales Inc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-108.558909,45.787894,-108.558909,45.787894],
+  "bbox": [
+    -108.558909,
+    45.787894,
+    -108.558909,
+    45.787894
+],
   "geometry": {"coordinates":[-108.558909,45.787894],"type":"Point"}
 }

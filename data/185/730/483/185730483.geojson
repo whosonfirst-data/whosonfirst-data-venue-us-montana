@@ -2,13 +2,14 @@
   "id": 185730483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.669586,48.541955,-109.669586,48.541955",
     "geom:latitude":48.541955,
     "geom:longitude":-109.669586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 10th Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185730483,
-    "wof:lastmodified":1449007978,
+    "wof:lastmodified":1466641456,
     "wof:name":"Dennis Schnittgen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "installation"
     ]
 },
-  "bbox": [-109.669586,48.541955,-109.669586,48.541955],
+  "bbox": [
+    -109.669586,
+    48.541955,
+    -109.669586,
+    48.541955
+],
   "geometry": {"coordinates":[-109.669586,48.541955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185753607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.554446,45.7624,-108.554446,45.7624",
     "geom:latitude":45.7624,
     "geom:longitude":-108.554446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Daniel St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185753607,
-    "wof:lastmodified":1449006793,
+    "wof:lastmodified":1466641483,
     "wof:name":"Pacific Supply",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.554446,45.7624,-108.554446,45.7624],
+  "bbox": [
+    -108.554446,
+    45.7624,
+    -108.554446,
+    45.7624
+],
   "geometry": {"coordinates":[-108.554446,45.7624],"type":"Point"}
 }

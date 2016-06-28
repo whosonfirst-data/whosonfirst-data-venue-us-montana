@@ -2,13 +2,14 @@
   "id": 186414185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.585738,45.753942,-108.585738,45.753942",
     "geom:latitude":45.753942,
     "geom:longitude":-108.585738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"858 S 29th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186414185,
-    "wof:lastmodified":1449051634,
+    "wof:lastmodified":1466642890,
     "wof:name":"Wave Car Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "washing"
     ]
 },
-  "bbox": [-108.585738,45.753942,-108.585738,45.753942],
-  "geometry": {"coordinates":[-108.585738,45.753942],"type":"Point"}
+  "bbox": [
+    -108.585738,
+    45.753942,
+    -108.585738,
+    45.753942
+],
+  "geometry": {"coordinates":[-108.58573800000001,45.753942],"type":"Point"}
 }

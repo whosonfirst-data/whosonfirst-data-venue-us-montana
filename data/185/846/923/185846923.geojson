@@ -2,13 +2,14 @@
   "id": 185846923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.094405,46.614912,-112.094405,46.614912",
     "geom:latitude":46.614912,
     "geom:longitude":-112.094405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1892 Williams St",
     "sg:city":"Fort Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185846923,
-    "wof:lastmodified":1449007877,
+    "wof:lastmodified":1466641589,
     "wof:name":"Montana Health Care System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [-112.094405,46.614912,-112.094405,46.614912],
-  "geometry": {"coordinates":[-112.094405,46.614912],"type":"Point"}
+  "bbox": [
+    -112.094405,
+    46.614912,
+    -112.094405,
+    46.614912
+],
+  "geometry": {"coordinates":[-112.09440499999999,46.614912],"type":"Point"}
 }

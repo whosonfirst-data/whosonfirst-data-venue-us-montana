@@ -2,13 +2,14 @@
   "id": 186060799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.584902,45.770717,-108.584902,45.770717",
     "geom:latitude":45.770717,
     "geom:longitude":-108.584902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 27th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186060799,
-    "wof:lastmodified":1449052780,
+    "wof:lastmodified":1466641850,
     "wof:name":"Ritzz Salon",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-108.584902,45.770717,-108.584902,45.770717],
+  "bbox": [
+    -108.584902,
+    45.770717,
+    -108.584902,
+    45.770717
+],
   "geometry": {"coordinates":[-108.584902,45.770717],"type":"Point"}
 }

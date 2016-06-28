@@ -2,13 +2,14 @@
   "id": 185633459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.345241,48.417342,-114.345241,48.417342",
     "geom:latitude":48.417342,
     "geom:longitude":-114.345241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Minnesota Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185633459,
-    "wof:lastmodified":1449008186,
+    "wof:lastmodified":1466641332,
     "wof:name":"Dales Home Repair Svc Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-114.345241,48.417342,-114.345241,48.417342],
+  "bbox": [
+    -114.345241,
+    48.417342,
+    -114.345241,
+    48.417342
+],
   "geometry": {"coordinates":[-114.345241,48.417342],"type":"Point"}
 }

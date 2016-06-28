@@ -2,13 +2,14 @@
   "id": 185901667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.95551,45.829521,-109.95551,45.829521",
     "geom:latitude":45.829521,
     "geom:longitude":-109.95551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 W 5th Ave",
     "sg:city":"Big Timber",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185901667,
-    "wof:lastmodified":1449007278,
+    "wof:lastmodified":1466641642,
     "wof:name":"Angel Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-109.95551,45.829521,-109.95551,45.829521],
+  "bbox": [
+    -109.95551,
+    45.829521,
+    -109.95551,
+    45.829521
+],
   "geometry": {"coordinates":[-109.95551,45.829521],"type":"Point"}
 }

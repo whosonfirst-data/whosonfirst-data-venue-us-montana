@@ -2,13 +2,14 @@
   "id": 169857433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.752431,46.679107,-109.752431,46.679107",
     "geom:latitude":46.679107,
     "geom:longitude":-109.752431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 High St",
     "sg:city":"Judith Gap",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169857433,
-    "wof:lastmodified":1449034823,
+    "wof:lastmodified":1466641344,
     "wof:name":"Judith Gap Oil Conoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-109.752431,46.679107,-109.752431,46.679107],
+  "bbox": [
+    -109.752431,
+    46.679107,
+    -109.752431,
+    46.679107
+],
   "geometry": {"coordinates":[-109.752431,46.679107],"type":"Point"}
 }

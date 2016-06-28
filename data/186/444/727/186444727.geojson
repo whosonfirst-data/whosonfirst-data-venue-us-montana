@@ -2,13 +2,14 @@
   "id": 186444727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.177629,46.028988,-114.177629,46.028988",
     "geom:latitude":46.028988,
     "geom:longitude":-114.177629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 N Main St",
     "sg:city":"Darby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186444727,
-    "wof:lastmodified":1449052649,
+    "wof:lastmodified":1466642995,
     "wof:name":"Alpine Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.177629,46.028988,-114.177629,46.028988],
+  "bbox": [
+    -114.177629,
+    46.028988,
+    -114.177629,
+    46.028988
+],
   "geometry": {"coordinates":[-114.177629,46.028988],"type":"Point"}
 }

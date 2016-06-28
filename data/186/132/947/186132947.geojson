@@ -2,13 +2,14 @@
   "id": 186132947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.640866,45.747876,-108.640866,45.747876",
     "geom:latitude":45.747876,
     "geom:longitude":-108.640866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4870 Blue Spruce Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186132947,
-    "wof:lastmodified":1449051685,
+    "wof:lastmodified":1466642247,
     "wof:name":"Sonshine Electric Inc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.640866,45.747876,-108.640866,45.747876],
+  "bbox": [
+    -108.640866,
+    45.747876,
+    -108.640866,
+    45.747876
+],
   "geometry": {"coordinates":[-108.640866,45.747876],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186359613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.538251,45.784112,-108.538251,45.784112",
     "geom:latitude":45.784112,
     "geom:longitude":-108.538251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186359613,
-    "wof:lastmodified":1449050200,
+    "wof:lastmodified":1466642870,
     "wof:name":"A Acupuncture Research Center",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "medical"
     ]
 },
-  "bbox": [-108.538251,45.784112,-108.538251,45.784112],
+  "bbox": [
+    -108.538251,
+    45.784112,
+    -108.538251,
+    45.784112
+],
   "geometry": {"coordinates":[-108.538251,45.784112],"type":"Point"}
 }

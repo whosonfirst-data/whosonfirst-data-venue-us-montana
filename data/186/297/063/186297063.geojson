@@ -2,13 +2,14 @@
   "id": 186297063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.4969,45.795224,-108.4969,45.795224",
     "geom:latitude":45.795224,
     "geom:longitude":-108.4969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 N 16th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186297063,
-    "wof:lastmodified":1449052081,
+    "wof:lastmodified":1466642402,
     "wof:name":"Huffs Shows Inc",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.4969,45.795224,-108.4969,45.795224],
+  "bbox": [
+    -108.4969,
+    45.795224,
+    -108.4969,
+    45.795224
+],
   "geometry": {"coordinates":[-108.4969,45.795224],"type":"Point"}
 }

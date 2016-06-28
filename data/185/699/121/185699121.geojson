@@ -2,13 +2,14 @@
   "id": 185699121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.342937,46.00879,-108.342937,46.00879",
     "geom:latitude":46.00879,
     "geom:longitude":-108.342937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5750 Pleasant Hollow Trl",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185699121,
-    "wof:lastmodified":1449006824,
+    "wof:lastmodified":1466641418,
     "wof:name":"A R Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.342937,46.00879,-108.342937,46.00879],
-  "geometry": {"coordinates":[-108.342937,46.00879],"type":"Point"}
+  "bbox": [
+    -108.342937,
+    46.00879,
+    -108.342937,
+    46.00879
+],
+  "geometry": {"coordinates":[-108.34293700000001,46.00879],"type":"Point"}
 }

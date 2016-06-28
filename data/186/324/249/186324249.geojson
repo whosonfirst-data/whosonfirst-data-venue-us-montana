@@ -2,13 +2,14 @@
   "id": 186324249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.515382,45.780549,-108.515382,45.780549",
     "geom:latitude":45.780549,
     "geom:longitude":-108.515382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Division St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186324249,
-    "wof:lastmodified":1449051936,
+    "wof:lastmodified":1466642664,
     "wof:name":"Clean Team Of Montana",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-108.515382,45.780549,-108.515382,45.780549],
+  "bbox": [
+    -108.515382,
+    45.780549,
+    -108.515382,
+    45.780549
+],
   "geometry": {"coordinates":[-108.515382,45.780549],"type":"Point"}
 }

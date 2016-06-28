@@ -2,13 +2,14 @@
   "id": 186012213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.078145,46.678094,-114.078145,46.678094",
     "geom:latitude":46.678094,
     "geom:longitude":-114.078145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20350 Old US Hwy 93",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186012213,
-    "wof:lastmodified":1449052749,
+    "wof:lastmodified":1466641334,
     "wof:name":"Lambson Plumbing",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.078145,46.678094,-114.078145,46.678094],
-  "geometry": {"coordinates":[-114.078145,46.678094],"type":"Point"}
+  "bbox": [
+    -114.078145,
+    46.678094,
+    -114.078145,
+    46.678094
+],
+  "geometry": {"coordinates":[-114.07814500000001,46.678094],"type":"Point"}
 }

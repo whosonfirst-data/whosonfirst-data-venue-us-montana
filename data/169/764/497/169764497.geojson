@@ -2,13 +2,14 @@
   "id": 169764497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.642301,48.095321,-105.642301,48.095321",
     "geom:latitude":48.095321,
     "geom:longitude":-105.642301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Eureka St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169764497,
-    "wof:lastmodified":1449035806,
+    "wof:lastmodified":1466641207,
     "wof:name":"Eddy Bauer Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machinery"
     ]
 },
-  "bbox": [-105.642301,48.095321,-105.642301,48.095321],
+  "bbox": [
+    -105.642301,
+    48.095321,
+    -105.642301,
+    48.095321
+],
   "geometry": {"coordinates":[-105.642301,48.095321],"type":"Point"}
 }

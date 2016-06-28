@@ -2,13 +2,14 @@
   "id": 186299315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.788141,48.553472,-109.788141,48.553472",
     "geom:latitude":48.553472,
     "geom:longitude":-109.788141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 73rd Ave W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186299315,
-    "wof:lastmodified":1449051078,
+    "wof:lastmodified":1466642617,
     "wof:name":"Badland Rentals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.788141,48.553472,-109.788141,48.553472],
+  "bbox": [
+    -109.788141,
+    48.553472,
+    -109.788141,
+    48.553472
+],
   "geometry": {"coordinates":[-109.788141,48.553472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185860695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.676227,46.264236,-106.676227,46.264236",
     "geom:latitude":46.264236,
     "geom:longitude":-106.676227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 S 10th Ave",
     "sg:city":"Forsyth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185860695,
-    "wof:lastmodified":1449007327,
+    "wof:lastmodified":1466641599,
     "wof:name":"Lucky Lil's Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-106.676227,46.264236,-106.676227,46.264236],
+  "bbox": [
+    -106.676227,
+    46.264236,
+    -106.676227,
+    46.264236
+],
   "geometry": {"coordinates":[-106.676227,46.264236],"type":"Point"}
 }

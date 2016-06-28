@@ -2,13 +2,14 @@
   "id": 186450893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.91142,45.714697,-110.91142,45.714697",
     "geom:latitude":45.714697,
     "geom:longitude":-110.91142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 Bridger Hills Dr",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186450893,
-    "wof:lastmodified":1449052596,
+    "wof:lastmodified":1466643015,
     "wof:name":"Ranch Exit Films Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-110.91142,45.714697,-110.91142,45.714697],
-  "geometry": {"coordinates":[-110.91142,45.714697],"type":"Point"}
+  "bbox": [
+    -110.91142,
+    45.714697,
+    -110.91142,
+    45.714697
+],
+  "geometry": {"coordinates":[-110.91142000000001,45.714697],"type":"Point"}
 }

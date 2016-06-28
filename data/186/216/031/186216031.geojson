@@ -2,13 +2,14 @@
   "id": 186216031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.061242,46.322849,-114.061242,46.322849",
     "geom:latitude":46.322849,
     "geom:longitude":-114.061242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 Summerdale Rd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186216031,
-    "wof:lastmodified":1449052718,
+    "wof:lastmodified":1466642580,
     "wof:name":"Kent Connor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.061242,46.322849,-114.061242,46.322849],
-  "geometry": {"coordinates":[-114.061242,46.322849],"type":"Point"}
+  "bbox": [
+    -114.061242,
+    46.322849,
+    -114.061242,
+    46.322849
+],
+  "geometry": {"coordinates":[-114.06124199999999,46.322849],"type":"Point"}
 }

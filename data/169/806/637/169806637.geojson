@@ -2,13 +2,14 @@
   "id": 169806637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.545228,45.884467,-104.545228,45.884467",
     "geom:latitude":45.884467,
     "geom:longitude":-104.545228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"457 Mormon Ave",
     "sg:city":"Ekalaka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169806637,
-    "wof:lastmodified":1449032672,
+    "wof:lastmodified":1466641278,
     "wof:name":"Mc Cord Equipment Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-104.545228,45.884467,-104.545228,45.884467],
-  "geometry": {"coordinates":[-104.545228,45.884467],"type":"Point"}
+  "bbox": [
+    -104.545228,
+    45.884467,
+    -104.545228,
+    45.884467
+],
+  "geometry": {"coordinates":[-104.54522799999999,45.884467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186342009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.400362,45.888222,-108.400362,45.888222",
     "geom:latitude":45.888222,
     "geom:longitude":-108.400362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5075 Hwy 312",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186342009,
-    "wof:lastmodified":1449052843,
+    "wof:lastmodified":1466642835,
     "wof:name":"Levi Junction",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-108.400362,45.888222,-108.400362,45.888222],
+  "bbox": [
+    -108.400362,
+    45.888222,
+    -108.400362,
+    45.888222
+],
   "geometry": {"coordinates":[-108.400362,45.888222],"type":"Point"}
 }

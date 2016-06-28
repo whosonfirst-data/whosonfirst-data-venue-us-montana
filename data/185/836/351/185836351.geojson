@@ -2,13 +2,14 @@
   "id": 185836351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.929332,47.413787,-110.929332,47.413787",
     "geom:latitude":47.413787,
     "geom:longitude":-110.929332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Belt Creek Rd",
     "sg:city":"Belt",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185836351,
-    "wof:lastmodified":1449007663,
+    "wof:lastmodified":1466641573,
     "wof:name":"Mickeys Windshield Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "replacement"
     ]
 },
-  "bbox": [-110.929332,47.413787,-110.929332,47.413787],
+  "bbox": [
+    -110.929332,
+    47.413787,
+    -110.929332,
+    47.413787
+],
   "geometry": {"coordinates":[-110.929332,47.413787],"type":"Point"}
 }

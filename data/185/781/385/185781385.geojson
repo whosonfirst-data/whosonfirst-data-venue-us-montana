@@ -2,13 +2,14 @@
   "id": 185781385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.525868,46.003264,-112.525868,46.003264",
     "geom:latitude":46.003264,
     "geom:longitude":-112.525868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 S Arizona St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185781385,
-    "wof:lastmodified":1449006924,
+    "wof:lastmodified":1466641512,
     "wof:name":"Hawe Steel Design",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "structural"
     ]
 },
-  "bbox": [-112.525868,46.003264,-112.525868,46.003264],
+  "bbox": [
+    -112.525868,
+    46.003264,
+    -112.525868,
+    46.003264
+],
   "geometry": {"coordinates":[-112.525868,46.003264],"type":"Point"}
 }

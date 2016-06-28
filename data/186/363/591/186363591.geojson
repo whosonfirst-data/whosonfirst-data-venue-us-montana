@@ -2,13 +2,14 @@
   "id": 186363591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.554396,48.391045,-115.554396,48.391045",
     "geom:latitude":48.391045,
     "geom:longitude":-115.554396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 W 6th St",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186363591,
-    "wof:lastmodified":1449052692,
+    "wof:lastmodified":1466642768,
     "wof:name":"Koote Net",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.554396,48.391045,-115.554396,48.391045],
+  "bbox": [
+    -115.554396,
+    48.391045,
+    -115.554396,
+    48.391045
+],
   "geometry": {"coordinates":[-115.554396,48.391045],"type":"Point"}
 }

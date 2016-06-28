@@ -2,13 +2,14 @@
   "id": 186129213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.037946,46.589677,-112.037946,46.589677",
     "geom:latitude":46.589677,
     "geom:longitude":-112.037946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186129213,
-    "wof:lastmodified":1449052488,
+    "wof:lastmodified":1466642082,
     "wof:name":"Energy Share of Montana Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-112.037946,46.589677,-112.037946,46.589677],
-  "geometry": {"coordinates":[-112.037946,46.589677],"type":"Point"}
+  "bbox": [
+    -112.037946,
+    46.589677,
+    -112.037946,
+    46.589677
+],
+  "geometry": {"coordinates":[-112.03794600000001,46.589677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186299637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.187414,46.987148,-104.187414,46.987148",
     "geom:latitude":46.987148,
     "geom:longitude":-104.187414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Orgain Ave E",
     "sg:city":"Wibaux",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186299637,
-    "wof:lastmodified":1449051076,
+    "wof:lastmodified":1466642620,
     "wof:name":"Country Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-104.187414,46.987148,-104.187414,46.987148],
+  "bbox": [
+    -104.187414,
+    46.987148,
+    -104.187414,
+    46.987148
+],
   "geometry": {"coordinates":[-104.187414,46.987148],"type":"Point"}
 }

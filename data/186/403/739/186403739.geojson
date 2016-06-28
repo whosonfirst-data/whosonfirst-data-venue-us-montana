@@ -2,13 +2,14 @@
   "id": 186403739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.109634,46.311901,-114.109634,46.311901",
     "geom:latitude":46.311901,
     "geom:longitude":-114.109634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Bob's Ct",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186403739,
-    "wof:lastmodified":1449052643,
+    "wof:lastmodified":1466642872,
     "wof:name":"Weyer Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.109634,46.311901,-114.109634,46.311901],
+  "bbox": [
+    -114.109634,
+    46.311901,
+    -114.109634,
+    46.311901
+],
   "geometry": {"coordinates":[-114.109634,46.311901],"type":"Point"}
 }

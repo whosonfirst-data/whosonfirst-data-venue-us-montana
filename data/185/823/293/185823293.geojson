@@ -2,13 +2,14 @@
   "id": 185823293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.519494,45.794926,-108.519494,45.794926",
     "geom:latitude":45.794926,
     "geom:longitude":-108.519494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Poly Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185823293,
-    "wof:lastmodified":1449008178,
+    "wof:lastmodified":1466641556,
     "wof:name":"Medical Practices Div",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-108.519494,45.794926,-108.519494,45.794926],
-  "geometry": {"coordinates":[-108.519494,45.794926],"type":"Point"}
+  "bbox": [
+    -108.519494,
+    45.794926,
+    -108.519494,
+    45.794926
+],
+  "geometry": {"coordinates":[-108.51949399999999,45.794926],"type":"Point"}
 }

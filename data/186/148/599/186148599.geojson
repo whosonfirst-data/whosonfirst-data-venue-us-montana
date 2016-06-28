@@ -2,13 +2,14 @@
   "id": 186148599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576354,45.782271,-108.576354,45.782271",
     "geom:latitude":45.782271,
     "geom:longitude":-108.576354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186148599,
-    "wof:lastmodified":1449052581,
+    "wof:lastmodified":1466642124,
     "wof:name":"Wireless Express First Cellula",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-108.576354,45.782271,-108.576354,45.782271],
-  "geometry": {"coordinates":[-108.576354,45.782271],"type":"Point"}
+  "bbox": [
+    -108.576354,
+    45.782271,
+    -108.576354,
+    45.782271
+],
+  "geometry": {"coordinates":[-108.57635399999999,45.782271],"type":"Point"}
 }

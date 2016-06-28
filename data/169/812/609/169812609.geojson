@@ -2,13 +2,14 @@
   "id": 169812609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.150476,46.25496,-114.150476,46.25496",
     "geom:latitude":46.25496,
     "geom:longitude":-114.150476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 Fairgrounds Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169812609,
-    "wof:lastmodified":1449032776,
+    "wof:lastmodified":1466641280,
     "wof:name":"Crossman Jamie M Bacon DDS PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.150476,46.25496,-114.150476,46.25496],
+  "bbox": [
+    -114.150476,
+    46.25496,
+    -114.150476,
+    46.25496
+],
   "geometry": {"coordinates":[-114.150476,46.25496],"type":"Point"}
 }

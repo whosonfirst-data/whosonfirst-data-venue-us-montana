@@ -2,13 +2,14 @@
   "id": 186074545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.538931,45.982986,-112.538931,45.982986",
     "geom:latitude":45.982986,
     "geom:longitude":-112.538931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Beef Trail Rd",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186074545,
-    "wof:lastmodified":1449051829,
+    "wof:lastmodified":1466641884,
     "wof:name":"Mitchell Motors Inc",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-112.538931,45.982986,-112.538931,45.982986],
-  "geometry": {"coordinates":[-112.538931,45.982986],"type":"Point"}
+  "bbox": [
+    -112.538931,
+    45.982986,
+    -112.538931,
+    45.982986
+],
+  "geometry": {"coordinates":[-112.53893100000001,45.982986],"type":"Point"}
 }

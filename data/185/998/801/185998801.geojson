@@ -2,13 +2,14 @@
   "id": 185998801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.652744,45.80671,-108.652744,45.80671",
     "geom:latitude":45.80671,
     "geom:longitude":-108.652744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 54th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185998801,
-    "wof:lastmodified":1449007125,
+    "wof:lastmodified":1466641793,
     "wof:name":"Huppert Brothers Construction",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.652744,45.80671,-108.652744,45.80671],
+  "bbox": [
+    -108.652744,
+    45.80671,
+    -108.652744,
+    45.80671
+],
   "geometry": {"coordinates":[-108.652744,45.80671],"type":"Point"}
 }

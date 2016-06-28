@@ -2,13 +2,14 @@
   "id": 186139347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.363509,45.955305,-108.363509,45.955305",
     "geom:latitude":45.955305,
     "geom:longitude":-108.363509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8603 Hofferber Rd",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186139347,
-    "wof:lastmodified":1449050495,
+    "wof:lastmodified":1466642108,
     "wof:name":"Kuntz Farms",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "property"
     ]
 },
-  "bbox": [-108.363509,45.955305,-108.363509,45.955305],
-  "geometry": {"coordinates":[-108.363509,45.955305],"type":"Point"}
+  "bbox": [
+    -108.363509,
+    45.955305,
+    -108.363509,
+    45.955305
+],
+  "geometry": {"coordinates":[-108.36350899999999,45.955305],"type":"Point"}
 }

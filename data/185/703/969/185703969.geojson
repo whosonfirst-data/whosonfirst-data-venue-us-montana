@@ -2,13 +2,14 @@
   "id": 185703969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.180361,45.782297,-111.180361,45.782297",
     "geom:latitude":45.782297,
     "geom:longitude":-111.180361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Spooner Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185703969,
-    "wof:lastmodified":1449007092,
+    "wof:lastmodified":1466641425,
     "wof:name":"Richard S Nichols",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.180361,45.782297,-111.180361,45.782297],
+  "bbox": [
+    -111.180361,
+    45.782297,
+    -111.180361,
+    45.782297
+],
   "geometry": {"coordinates":[-111.180361,45.782297],"type":"Point"}
 }

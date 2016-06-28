@@ -2,13 +2,14 @@
   "id": 186062519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.096386,45.612091,-111.096386,45.612091",
     "geom:latitude":45.612091,
     "geom:longitude":-111.096386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8950 Cayuse Trl",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186062519,
-    "wof:lastmodified":1449052836,
+    "wof:lastmodified":1466641736,
     "wof:name":"Mary L Armstrong",
     "wof:parent_id":85891701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.096386,45.612091,-111.096386,45.612091],
+  "bbox": [
+    -111.096386,
+    45.612091,
+    -111.096386,
+    45.612091
+],
   "geometry": {"coordinates":[-111.096386,45.612091],"type":"Point"}
 }

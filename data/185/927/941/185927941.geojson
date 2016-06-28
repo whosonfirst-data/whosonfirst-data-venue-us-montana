@@ -2,13 +2,14 @@
   "id": 185927941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638345,48.193055,-106.638345,48.193055",
     "geom:latitude":48.193055,
     "geom:longitude":-106.638345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 W Court St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185927941,
-    "wof:lastmodified":1449008053,
+    "wof:lastmodified":1466641680,
     "wof:name":"Action For Eastern Montana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-106.638345,48.193055,-106.638345,48.193055],
+  "bbox": [
+    -106.638345,
+    48.193055,
+    -106.638345,
+    48.193055
+],
   "geometry": {"coordinates":[-106.638345,48.193055],"type":"Point"}
 }

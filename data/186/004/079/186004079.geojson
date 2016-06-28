@@ -2,13 +2,14 @@
   "id": 186004079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.150209,46.312681,-114.150209,46.312681",
     "geom:latitude":46.312681,
     "geom:longitude":-114.150209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Woodside Cutoff Rd",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186004079,
-    "wof:lastmodified":1449051365,
+    "wof:lastmodified":1466641753,
     "wof:name":"R L Jacobson Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.150209,46.312681,-114.150209,46.312681],
+  "bbox": [
+    -114.150209,
+    46.312681,
+    -114.150209,
+    46.312681
+],
   "geometry": {"coordinates":[-114.150209,46.312681],"type":"Point"}
 }

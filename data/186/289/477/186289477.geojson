@@ -2,13 +2,14 @@
   "id": 186289477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.158939,46.248861,-114.158939,46.248861",
     "geom:latitude":46.248861,
     "geom:longitude":-114.158939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N 3rd St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186289477,
-    "wof:lastmodified":1449052561,
+    "wof:lastmodified":1466642794,
     "wof:name":"Authentic Computer Tutoring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "design"
     ]
 },
-  "bbox": [-114.158939,46.248861,-114.158939,46.248861],
+  "bbox": [
+    -114.158939,
+    46.248861,
+    -114.158939,
+    46.248861
+],
   "geometry": {"coordinates":[-114.158939,46.248861],"type":"Point"}
 }

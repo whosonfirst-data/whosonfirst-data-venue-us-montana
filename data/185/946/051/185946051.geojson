@@ -2,13 +2,14 @@
   "id": 185946051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.539126,45.99804,-112.539126,45.99804",
     "geom:latitude":45.99804,
     "geom:longitude":-112.539126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 S Montana St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185946051,
-    "wof:lastmodified":1449008029,
+    "wof:lastmodified":1466641697,
     "wof:name":"City Center Motel",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lounge"
     ]
 },
-  "bbox": [-112.539126,45.99804,-112.539126,45.99804],
+  "bbox": [
+    -112.539126,
+    45.99804,
+    -112.539126,
+    45.99804
+],
   "geometry": {"coordinates":[-112.539126,45.99804],"type":"Point"}
 }

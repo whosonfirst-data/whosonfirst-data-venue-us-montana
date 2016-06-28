@@ -2,13 +2,14 @@
   "id": 186153071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.023597,46.530774,-114.023597,46.530774",
     "geom:latitude":46.530774,
     "geom:longitude":-114.023597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4054 Angel Way",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186153071,
-    "wof:lastmodified":1449052220,
+    "wof:lastmodified":1466642123,
     "wof:name":"Bugmaster Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.023597,46.530774,-114.023597,46.530774],
+  "bbox": [
+    -114.023597,
+    46.530774,
+    -114.023597,
+    46.530774
+],
   "geometry": {"coordinates":[-114.023597,46.530774],"type":"Point"}
 }

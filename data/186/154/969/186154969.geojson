@@ -2,13 +2,14 @@
   "id": 186154969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.549274,45.668609,-110.549274,45.668609",
     "geom:latitude":45.668609,
     "geom:longitude":-110.549274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1178 Hwy 10 W",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186154969,
-    "wof:lastmodified":1449053060,
+    "wof:lastmodified":1466642131,
     "wof:name":"Bagel Mania",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.549274,45.668609,-110.549274,45.668609],
+  "bbox": [
+    -110.549274,
+    45.668609,
+    -110.549274,
+    45.668609
+],
   "geometry": {"coordinates":[-110.549274,45.668609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185636143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.53708,46.005017,-112.53708,46.005017",
     "geom:latitude":46.005017,
     "geom:longitude":-112.53708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 W Aluminum St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185636143,
-    "wof:lastmodified":1449007259,
+    "wof:lastmodified":1466641336,
     "wof:name":"A-1 Garage Doors Inc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-112.53708,46.005017,-112.53708,46.005017],
+  "bbox": [
+    -112.53708,
+    46.005017,
+    -112.53708,
+    46.005017
+],
   "geometry": {"coordinates":[-112.53708,46.005017],"type":"Point"}
 }

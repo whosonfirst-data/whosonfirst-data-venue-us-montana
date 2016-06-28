@@ -2,13 +2,14 @@
   "id": 185769007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.095913,46.276602,-114.095913,46.276602",
     "geom:latitude":46.276602,
     "geom:longitude":-114.095913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"496 Sweetgrass Ln",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185769007,
-    "wof:lastmodified":1449007128,
+    "wof:lastmodified":1466641776,
     "wof:name":"Bsm Custom Engraving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.095913,46.276602,-114.095913,46.276602],
+  "bbox": [
+    -114.095913,
+    46.276602,
+    -114.095913,
+    46.276602
+],
   "geometry": {"coordinates":[-114.095913,46.276602],"type":"Point"}
 }

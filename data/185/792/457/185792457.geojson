@@ -2,13 +2,14 @@
   "id": 185792457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.510682,45.958961,-112.510682,45.958961",
     "geom:latitude":45.958961,
     "geom:longitude":-112.510682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 Paxson Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185792457,
-    "wof:lastmodified":1449006963,
+    "wof:lastmodified":1466641521,
     "wof:name":"YMCA",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [-112.510682,45.958961,-112.510682,45.958961],
+  "bbox": [
+    -112.510682,
+    45.958961,
+    -112.510682,
+    45.958961
+],
   "geometry": {"coordinates":[-112.510682,45.958961],"type":"Point"}
 }

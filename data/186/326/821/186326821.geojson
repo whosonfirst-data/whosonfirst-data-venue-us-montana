@@ -2,13 +2,14 @@
   "id": 186326821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.148745,46.197052,-114.148745,46.197052",
     "geom:latitude":46.197052,
     "geom:longitude":-114.148745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Skalkaho Hwy",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186326821,
-    "wof:lastmodified":1449051517,
+    "wof:lastmodified":1466642425,
     "wof:name":"Garlick Helicopters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-114.148745,46.197052,-114.148745,46.197052],
-  "geometry": {"coordinates":[-114.148745,46.197052],"type":"Point"}
+  "bbox": [
+    -114.148745,
+    46.197052,
+    -114.148745,
+    46.197052
+],
+  "geometry": {"coordinates":[-114.14874500000001,46.197052],"type":"Point"}
 }

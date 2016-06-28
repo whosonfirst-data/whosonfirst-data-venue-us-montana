@@ -2,13 +2,14 @@
   "id": 186200027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.952586,46.130181,-112.952586,46.130181",
     "geom:latitude":46.130181,
     "geom:longitude":-112.952586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Commercial Ave",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186200027,
-    "wof:lastmodified":1449051441,
+    "wof:lastmodified":1466642262,
     "wof:name":"Copper City Shtmtl Htg & A Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.952586,46.130181,-112.952586,46.130181],
+  "bbox": [
+    -112.952586,
+    46.130181,
+    -112.952586,
+    46.130181
+],
   "geometry": {"coordinates":[-112.952586,46.130181],"type":"Point"}
 }

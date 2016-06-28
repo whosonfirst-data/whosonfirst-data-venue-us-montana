@@ -2,13 +2,14 @@
   "id": 185899733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.68955,45.740533,-108.68955,45.740533",
     "geom:latitude":45.740533,
     "geom:longitude":-108.68955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6734 Hesper Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185899733,
-    "wof:lastmodified":1449008115,
+    "wof:lastmodified":1466641645,
     "wof:name":"Dekalb Cornseed",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.68955,45.740533,-108.68955,45.740533],
+  "bbox": [
+    -108.68955,
+    45.740533,
+    -108.68955,
+    45.740533
+],
   "geometry": {"coordinates":[-108.68955,45.740533],"type":"Point"}
 }

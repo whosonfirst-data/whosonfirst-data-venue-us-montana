@@ -2,13 +2,14 @@
   "id": 185775339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.023969,48.115549,-114.023969,48.115549",
     "geom:latitude":48.115549,
     "geom:longitude":-114.023969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 Echo Retreat",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185775339,
-    "wof:lastmodified":1449007785,
+    "wof:lastmodified":1466641502,
     "wof:name":"Bjork Buses",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.023969,48.115549,-114.023969,48.115549],
-  "geometry": {"coordinates":[-114.023969,48.115549],"type":"Point"}
+  "bbox": [
+    -114.023969,
+    48.115549,
+    -114.023969,
+    48.115549
+],
+  "geometry": {"coordinates":[-114.02396899999999,48.115549],"type":"Point"}
 }

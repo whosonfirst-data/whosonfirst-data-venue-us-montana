@@ -2,13 +2,14 @@
   "id": 186062047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.558143,45.783969,-108.558143,45.783969",
     "geom:latitude":45.783969,
     "geom:longitude":-108.558143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1640 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186062047,
-    "wof:lastmodified":1449052837,
+    "wof:lastmodified":1466641735,
     "wof:name":"Novus Auto Glass Repair & Repl",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-108.558143,45.783969,-108.558143,45.783969],
+  "bbox": [
+    -108.558143,
+    45.783969,
+    -108.558143,
+    45.783969
+],
   "geometry": {"coordinates":[-108.558143,45.783969],"type":"Point"}
 }

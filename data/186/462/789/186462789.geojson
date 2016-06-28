@@ -2,13 +2,14 @@
   "id": 186462789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.197545,46.403089,-114.197545,46.403089",
     "geom:latitude":46.403089,
     "geom:longitude":-114.197545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2329 Red Crow Rd",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186462789,
-    "wof:lastmodified":1449052935,
+    "wof:lastmodified":1466643048,
     "wof:name":"Happy Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-114.197545,46.403089,-114.197545,46.403089],
-  "geometry": {"coordinates":[-114.197545,46.403089],"type":"Point"}
+  "bbox": [
+    -114.197545,
+    46.403089,
+    -114.197545,
+    46.403089
+],
+  "geometry": {"coordinates":[-114.19754500000001,46.403089],"type":"Point"}
 }

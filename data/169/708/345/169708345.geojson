@@ -2,13 +2,14 @@
   "id": 169708345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.82667,46.413465,-105.82667,46.413465",
     "geom:latitude":46.413465,
     "geom:longitude":-105.82667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 N Cheyenne Ave",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169708345,
-    "wof:lastmodified":1449033212,
+    "wof:lastmodified":1466641252,
     "wof:name":"Magic Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.82667,46.413465,-105.82667,46.413465],
-  "geometry": {"coordinates":[-105.82667,46.413465],"type":"Point"}
+  "bbox": [
+    -105.82667,
+    46.413465,
+    -105.82667,
+    46.413465
+],
+  "geometry": {"coordinates":[-105.82666999999999,46.413465],"type":"Point"}
 }

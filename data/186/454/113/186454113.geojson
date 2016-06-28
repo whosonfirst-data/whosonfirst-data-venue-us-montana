@@ -2,13 +2,14 @@
   "id": 186454113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.560226,45.661368,-110.560226,45.661368",
     "geom:latitude":45.661368,
     "geom:longitude":-110.560226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 W Callender St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186454113,
-    "wof:lastmodified":1449052771,
+    "wof:lastmodified":1466643022,
     "wof:name":"Karl Knuchel PC",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-110.560226,45.661368,-110.560226,45.661368],
+  "bbox": [
+    -110.560226,
+    45.661368,
+    -110.560226,
+    45.661368
+],
   "geometry": {"coordinates":[-110.560226,45.661368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185704685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.615046,45.798487,-108.615046,45.798487",
     "geom:latitude":45.798487,
     "geom:longitude":-108.615046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3940 Rimrock Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185704685,
-    "wof:lastmodified":1449007029,
+    "wof:lastmodified":1466641427,
     "wof:name":"Center For Generations",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.615046,45.798487,-108.615046,45.798487],
-  "geometry": {"coordinates":[-108.615046,45.798487],"type":"Point"}
+  "bbox": [
+    -108.615046,
+    45.798487,
+    -108.615046,
+    45.798487
+],
+  "geometry": {"coordinates":[-108.61504600000001,45.798487],"type":"Point"}
 }

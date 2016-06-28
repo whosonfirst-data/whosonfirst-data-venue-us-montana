@@ -2,13 +2,14 @@
   "id": 186251029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081106,47.286642,-115.081106,47.286642",
     "geom:latitude":47.286642,
     "geom:longitude":-115.081106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Four Mile Rd",
     "sg:city":"Saint Regis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186251029,
-    "wof:lastmodified":1449050313,
+    "wof:lastmodified":1466642687,
     "wof:name":"Classic Electric LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.081106,47.286642,-115.081106,47.286642],
-  "geometry": {"coordinates":[-115.081106,47.286642],"type":"Point"}
+  "bbox": [
+    -115.081106,
+    47.286642,
+    -115.081106,
+    47.286642
+],
+  "geometry": {"coordinates":[-115.08110600000001,47.286642],"type":"Point"}
 }

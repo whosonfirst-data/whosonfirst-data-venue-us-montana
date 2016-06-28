@@ -2,13 +2,14 @@
   "id": 186107615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.533064,46.011183,-112.533064,46.011183",
     "geom:latitude":46.011183,
     "geom:longitude":-112.533064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 S Wyoming St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186107615,
-    "wof:lastmodified":1449050266,
+    "wof:lastmodified":1466641830,
     "wof:name":"Truly Professional Janitorial",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-112.533064,46.011183,-112.533064,46.011183],
+  "bbox": [
+    -112.533064,
+    46.011183,
+    -112.533064,
+    46.011183
+],
   "geometry": {"coordinates":[-112.533064,46.011183],"type":"Point"}
 }

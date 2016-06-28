@@ -2,13 +2,14 @@
   "id": 185667553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.02921,48.095167,-114.02921,48.095167",
     "geom:latitude":48.095167,
     "geom:longitude":-114.02921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Swan River Rd",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185667553,
-    "wof:lastmodified":1449007648,
+    "wof:lastmodified":1466641389,
     "wof:name":"Echo Lake Store",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-114.02921,48.095167,-114.02921,48.095167],
-  "geometry": {"coordinates":[-114.02921,48.095167],"type":"Point"}
+  "bbox": [
+    -114.02921,
+    48.095167,
+    -114.02921,
+    48.095167
+],
+  "geometry": {"coordinates":[-114.02921000000001,48.095167],"type":"Point"}
 }

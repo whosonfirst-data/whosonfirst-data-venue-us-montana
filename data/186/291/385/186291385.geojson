@@ -2,13 +2,14 @@
   "id": 186291385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.31826,47.50767,-111.31826,47.50767",
     "geom:latitude":47.50767,
     "geom:longitude":-111.31826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Central Ave W",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186291385,
-    "wof:lastmodified":1449051204,
+    "wof:lastmodified":1466642600,
     "wof:name":"Central West Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "animal"
     ]
 },
-  "bbox": [-111.31826,47.50767,-111.31826,47.50767],
+  "bbox": [
+    -111.31826,
+    47.50767,
+    -111.31826,
+    47.50767
+],
   "geometry": {"coordinates":[-111.31826,47.50767],"type":"Point"}
 }

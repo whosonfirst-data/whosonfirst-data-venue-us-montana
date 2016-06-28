@@ -2,13 +2,14 @@
   "id": 185929671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.012888,46.853405,-114.012888,46.853405",
     "geom:latitude":46.853405,
     "geom:longitude":-114.012888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Kensington Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185929671,
-    "wof:lastmodified":1449007225,
+    "wof:lastmodified":1466641683,
     "wof:name":"Lil' Griz Cub House",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-114.012888,46.853405,-114.012888,46.853405],
+  "bbox": [
+    -114.012888,
+    46.853405,
+    -114.012888,
+    46.853405
+],
   "geometry": {"coordinates":[-114.012888,46.853405],"type":"Point"}
 }

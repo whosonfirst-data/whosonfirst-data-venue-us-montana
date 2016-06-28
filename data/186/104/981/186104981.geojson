@@ -2,13 +2,14 @@
   "id": 186104981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.551647,45.785012,-108.551647,45.785012",
     "geom:latitude":45.785012,
     "geom:longitude":-108.551647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1480 Ave B",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186104981,
-    "wof:lastmodified":1449051487,
+    "wof:lastmodified":1466641998,
     "wof:name":"Valet Today",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.551647,45.785012,-108.551647,45.785012],
+  "bbox": [
+    -108.551647,
+    45.785012,
+    -108.551647,
+    45.785012
+],
   "geometry": {"coordinates":[-108.551647,45.785012],"type":"Point"}
 }

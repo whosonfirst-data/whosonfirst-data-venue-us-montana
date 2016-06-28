@@ -2,13 +2,14 @@
   "id": 186124067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.058755,48.048587,-114.058755,48.048587",
     "geom:latitude":48.048587,
     "geom:longitude":-114.058755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"677 Latigo Ln",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186124067,
-    "wof:lastmodified":1449052821,
+    "wof:lastmodified":1466642074,
     "wof:name":"Make Up Creations Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "picture"
     ]
 },
-  "bbox": [-114.058755,48.048587,-114.058755,48.048587],
+  "bbox": [
+    -114.058755,
+    48.048587,
+    -114.058755,
+    48.048587
+],
   "geometry": {"coordinates":[-114.058755,48.048587],"type":"Point"}
 }

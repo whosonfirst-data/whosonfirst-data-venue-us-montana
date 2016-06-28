@@ -2,13 +2,14 @@
   "id": 186155735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.220069,47.559557,-114.220069,47.559557",
     "geom:latitude":47.559557,
     "geom:longitude":-114.220069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2042 Cornelius Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186155735,
-    "wof:lastmodified":1449052537,
+    "wof:lastmodified":1466642283,
     "wof:name":"Pheasant View Estates Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.220069,47.559557,-114.220069,47.559557],
+  "bbox": [
+    -114.220069,
+    47.559557,
+    -114.220069,
+    47.559557
+],
   "geometry": {"coordinates":[-114.220069,47.559557],"type":"Point"}
 }

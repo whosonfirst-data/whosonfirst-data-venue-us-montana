@@ -2,13 +2,14 @@
   "id": 186440573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.282817,47.20644,-111.282817,47.20644",
     "geom:latitude":47.20644,
     "geom:longitude":-111.282817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2174 Eden Rd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186440573,
-    "wof:lastmodified":1449051344,
+    "wof:lastmodified":1466642982,
     "wof:name":"Eden Tree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.282817,47.20644,-111.282817,47.20644],
-  "geometry": {"coordinates":[-111.282817,47.20644],"type":"Point"}
+  "bbox": [
+    -111.282817,
+    47.20644,
+    -111.282817,
+    47.20644
+],
+  "geometry": {"coordinates":[-111.28281699999999,47.20644],"type":"Point"}
 }

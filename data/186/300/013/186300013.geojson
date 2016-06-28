@@ -2,13 +2,14 @@
   "id": 186300013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.324087,48.629009,-112.324087,48.629009",
     "geom:latitude":48.629009,
     "geom:longitude":-112.324087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 9th Ave SE",
     "sg:city":"Cut Bank",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186300013,
-    "wof:lastmodified":1449051895,
+    "wof:lastmodified":1466642612,
     "wof:name":"Harvest Food Pantry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.324087,48.629009,-112.324087,48.629009],
-  "geometry": {"coordinates":[-112.324087,48.629009],"type":"Point"}
+  "bbox": [
+    -112.324087,
+    48.629009,
+    -112.324087,
+    48.629009
+],
+  "geometry": {"coordinates":[-112.32408700000001,48.629009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185668057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.387476,45.809963,-108.387476,45.809963",
     "geom:latitude":45.809963,
     "geom:longitude":-108.387476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Westgate Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185668057,
-    "wof:lastmodified":1449007715,
+    "wof:lastmodified":1466641383,
     "wof:name":"Professional Transcripts & Off",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "datum"
     ]
 },
-  "bbox": [-108.387476,45.809963,-108.387476,45.809963],
-  "geometry": {"coordinates":[-108.387476,45.809963],"type":"Point"}
+  "bbox": [
+    -108.387476,
+    45.809963,
+    -108.387476,
+    45.809963
+],
+  "geometry": {"coordinates":[-108.38747600000001,45.809963],"type":"Point"}
 }

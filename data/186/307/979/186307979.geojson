@@ -2,13 +2,14 @@
   "id": 186307979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.456274,45.853252,-108.456274,45.853252",
     "geom:latitude":45.853252,
     "geom:longitude":-108.456274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 Independent Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186307979,
-    "wof:lastmodified":1449051084,
+    "wof:lastmodified":1466642642,
     "wof:name":"Roy Degenhart",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.456274,45.853252,-108.456274,45.853252],
-  "geometry": {"coordinates":[-108.456274,45.853252],"type":"Point"}
+  "bbox": [
+    -108.456274,
+    45.853252,
+    -108.456274,
+    45.853252
+],
+  "geometry": {"coordinates":[-108.45627399999999,45.853252],"type":"Point"}
 }

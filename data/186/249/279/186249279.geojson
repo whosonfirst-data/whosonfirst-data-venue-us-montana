@@ -2,13 +2,14 @@
   "id": 186249279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.024331,46.56678,-114.024331,46.56678",
     "geom:latitude":46.56678,
     "geom:longitude":-114.024331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4573 Montana Trl",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186249279,
-    "wof:lastmodified":1449050407,
+    "wof:lastmodified":1466642524,
     "wof:name":"Montana Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.024331,46.56678,-114.024331,46.56678],
+  "bbox": [
+    -114.024331,
+    46.56678,
+    -114.024331,
+    46.56678
+],
   "geometry": {"coordinates":[-114.024331,46.56678],"type":"Point"}
 }

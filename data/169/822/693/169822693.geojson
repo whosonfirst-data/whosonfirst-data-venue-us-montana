@@ -2,13 +2,14 @@
   "id": 169822693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.036549,46.845959,-114.036549,46.845959",
     "geom:latitude":46.845959,
     "geom:longitude":-114.036549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2331 Fairview Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169822693,
-    "wof:lastmodified":1449035860,
+    "wof:lastmodified":1466641293,
     "wof:name":"Dan Orr Welding",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-114.036549,46.845959,-114.036549,46.845959],
-  "geometry": {"coordinates":[-114.036549,46.845959],"type":"Point"}
+  "bbox": [
+    -114.036549,
+    46.845959,
+    -114.036549,
+    46.845959
+],
+  "geometry": {"coordinates":[-114.03654899999999,46.845959],"type":"Point"}
 }

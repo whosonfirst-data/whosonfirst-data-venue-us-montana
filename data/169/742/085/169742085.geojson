@@ -2,13 +2,14 @@
   "id": 169742085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.481791,45.827298,-108.481791,45.827298",
     "geom:latitude":45.827298,
     "geom:longitude":-108.481791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Wicks Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169742085,
-    "wof:lastmodified":1449032897,
+    "wof:lastmodified":1466641744,
     "wof:name":"St Bernard's Parish",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.481791,45.827298,-108.481791,45.827298],
+  "bbox": [
+    -108.481791,
+    45.827298,
+    -108.481791,
+    45.827298
+],
   "geometry": {"coordinates":[-108.481791,45.827298],"type":"Point"}
 }

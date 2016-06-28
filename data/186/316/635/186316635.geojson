@@ -2,13 +2,14 @@
   "id": 186316635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.369693,45.312827,-107.369693,45.312827",
     "geom:latitude":45.312827,
     "geom:longitude":-107.369693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Hill St",
     "sg:city":"Lodge Grass",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186316635,
-    "wof:lastmodified":1449052190,
+    "wof:lastmodified":1466642657,
     "wof:name":"Eagle Cble Vsion Stilites Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-107.369693,45.312827,-107.369693,45.312827],
+  "bbox": [
+    -107.369693,
+    45.312827,
+    -107.369693,
+    45.312827
+],
   "geometry": {"coordinates":[-107.369693,45.312827],"type":"Point"}
 }

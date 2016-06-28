@@ -2,13 +2,14 @@
   "id": 186158165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.962696,48.509403,-110.962696,48.509403",
     "geom:latitude":48.509403,
     "geom:longitude":-110.962696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 2nd St E",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186158165,
-    "wof:lastmodified":1449052158,
+    "wof:lastmodified":1466642134,
     "wof:name":"John A May Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-110.962696,48.509403,-110.962696,48.509403],
-  "geometry": {"coordinates":[-110.962696,48.509403],"type":"Point"}
+  "bbox": [
+    -110.962696,
+    48.509403,
+    -110.962696,
+    48.509403
+],
+  "geometry": {"coordinates":[-110.96269599999999,48.509403],"type":"Point"}
 }

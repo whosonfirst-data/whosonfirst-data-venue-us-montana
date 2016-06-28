@@ -2,13 +2,14 @@
   "id": 186403045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.548044,45.893771,-111.548044,45.893771",
     "geom:latitude":45.893771,
     "geom:longitude":-111.548044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 3rd Ave E",
     "sg:city":"Three Forks",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186403045,
-    "wof:lastmodified":1449052646,
+    "wof:lastmodified":1466642999,
     "wof:name":"Kanta Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "brick"
     ]
 },
-  "bbox": [-111.548044,45.893771,-111.548044,45.893771],
+  "bbox": [
+    -111.548044,
+    45.893771,
+    -111.548044,
+    45.893771
+],
   "geometry": {"coordinates":[-111.548044,45.893771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186082167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.298852,48.23092,-114.298852,48.23092",
     "geom:latitude":48.23092,
     "geom:longitude":-114.298852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Ritzman Ln",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186082167,
-    "wof:lastmodified":1449050334,
+    "wof:lastmodified":1466641752,
     "wof:name":"Denham & Assoc Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.298852,48.23092,-114.298852,48.23092],
+  "bbox": [
+    -114.298852,
+    48.23092,
+    -114.298852,
+    48.23092
+],
   "geometry": {"coordinates":[-114.298852,48.23092],"type":"Point"}
 }

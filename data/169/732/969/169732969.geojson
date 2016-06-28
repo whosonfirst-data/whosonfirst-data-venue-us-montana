@@ -2,13 +2,14 @@
   "id": 169732969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.248488,47.508359,-111.248488,47.508359",
     "geom:latitude":47.508359,
     "geom:longitude":-111.248488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 3rd Ave N",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169732969,
-    "wof:lastmodified":1449036070,
+    "wof:lastmodified":1466641170,
     "wof:name":"New Life Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.248488,47.508359,-111.248488,47.508359],
-  "geometry": {"coordinates":[-111.248488,47.508359],"type":"Point"}
+  "bbox": [
+    -111.248488,
+    47.508359,
+    -111.248488,
+    47.508359
+],
+  "geometry": {"coordinates":[-111.24848799999999,47.508359],"type":"Point"}
 }

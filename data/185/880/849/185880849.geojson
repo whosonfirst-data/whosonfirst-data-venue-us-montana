@@ -2,13 +2,14 @@
   "id": 185880849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.596605,45.759591,-108.596605,45.759591",
     "geom:latitude":45.759591,
     "geom:longitude":-108.596605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3136 Lampman Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185880849,
-    "wof:lastmodified":1449008222,
+    "wof:lastmodified":1466641620,
     "wof:name":"Champion Auto Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "accessory"
     ]
 },
-  "bbox": [-108.596605,45.759591,-108.596605,45.759591],
+  "bbox": [
+    -108.596605,
+    45.759591,
+    -108.596605,
+    45.759591
+],
   "geometry": {"coordinates":[-108.596605,45.759591],"type":"Point"}
 }

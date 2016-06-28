@@ -2,13 +2,14 @@
   "id": 186386523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.555761,45.766123,-108.555761,45.766123",
     "geom:latitude":45.766123,
     "geom:longitude":-108.555761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 Industrial Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186386523,
-    "wof:lastmodified":1449051782,
+    "wof:lastmodified":1466642824,
     "wof:name":"Rocky Mountain Warehouse",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.555761,45.766123,-108.555761,45.766123],
+  "bbox": [
+    -108.555761,
+    45.766123,
+    -108.555761,
+    45.766123
+],
   "geometry": {"coordinates":[-108.555761,45.766123],"type":"Point"}
 }

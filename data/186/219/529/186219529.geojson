@@ -2,13 +2,14 @@
   "id": 186219529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.044962,47.660053,-114.044962,47.660053",
     "geom:latitude":47.660053,
     "geom:longitude":-114.044962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3376 Bisson Ln",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186219529,
-    "wof:lastmodified":1449052928,
+    "wof:lastmodified":1466642161,
     "wof:name":"Ronan Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.044962,47.660053,-114.044962,47.660053],
+  "bbox": [
+    -114.044962,
+    47.660053,
+    -114.044962,
+    47.660053
+],
   "geometry": {"coordinates":[-114.044962,47.660053],"type":"Point"}
 }

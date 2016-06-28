@@ -2,13 +2,14 @@
   "id": 185799893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.768557,45.672334,-108.768557,45.672334",
     "geom:latitude":45.672334,
     "geom:longitude":-108.768557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Colorado Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185799893,
-    "wof:lastmodified":1449008216,
+    "wof:lastmodified":1466641535,
     "wof:name":"W C Heating & Cooling",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.768557,45.672334,-108.768557,45.672334],
+  "bbox": [
+    -108.768557,
+    45.672334,
+    -108.768557,
+    45.672334
+],
   "geometry": {"coordinates":[-108.768557,45.672334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185724445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.626202,47.702985,-114.626202,47.702985",
     "geom:latitude":47.702985,
     "geom:longitude":-114.626202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 State Hwy 28",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185724445,
-    "wof:lastmodified":1449008153,
+    "wof:lastmodified":1466641445,
     "wof:name":"Jolma Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-114.626202,47.702985,-114.626202,47.702985],
-  "geometry": {"coordinates":[-114.626202,47.702985],"type":"Point"}
+  "bbox": [
+    -114.626202,
+    47.702985,
+    -114.626202,
+    47.702985
+],
+  "geometry": {"coordinates":[-114.62620200000001,47.702985],"type":"Point"}
 }

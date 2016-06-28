@@ -2,13 +2,14 @@
   "id": 186416889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.420591,48.792179,-105.420591,48.792179",
     "geom:latitude":48.792179,
     "geom:longitude":-105.420591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Main St",
     "sg:city":"Scobey",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186416889,
-    "wof:lastmodified":1449051578,
+    "wof:lastmodified":1466642894,
     "wof:name":"Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.420591,48.792179,-105.420591,48.792179],
+  "bbox": [
+    -105.420591,
+    48.792179,
+    -105.420591,
+    48.792179
+],
   "geometry": {"coordinates":[-105.420591,48.792179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169735787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.47988,45.977915,-112.47988,45.977915",
     "geom:latitude":45.977915,
     "geom:longitude":-112.47988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3474 Hannibal St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169735787,
-    "wof:lastmodified":1449035890,
+    "wof:lastmodified":1466641168,
     "wof:name":"Paradise Vly Frd Lincoln Mrcry",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.47988,45.977915,-112.47988,45.977915],
-  "geometry": {"coordinates":[-112.47988,45.977915],"type":"Point"}
+  "bbox": [
+    -112.47988,
+    45.977915,
+    -112.47988,
+    45.977915
+],
+  "geometry": {"coordinates":[-112.47987999999999,45.977915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186381899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.732206,45.67949,-108.732206,45.67949",
     "geom:latitude":45.67949,
     "geom:longitude":-108.732206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 Lackawanna Ln",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186381899,
-    "wof:lastmodified":1449050470,
+    "wof:lastmodified":1466642659,
     "wof:name":"C W Insulation",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.732206,45.67949,-108.732206,45.67949],
-  "geometry": {"coordinates":[-108.732206,45.67949],"type":"Point"}
+  "bbox": [
+    -108.732206,
+    45.67949,
+    -108.732206,
+    45.67949
+],
+  "geometry": {"coordinates":[-108.73220600000001,45.67949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185786835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.844253,46.399133,-105.844253,46.399133",
     "geom:latitude":46.399133,
     "geom:longitude":-105.844253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Eagle Ave",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185786835,
-    "wof:lastmodified":1449006813,
+    "wof:lastmodified":1466641519,
     "wof:name":"Drake Entertainment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lounge"
     ]
 },
-  "bbox": [-105.844253,46.399133,-105.844253,46.399133],
-  "geometry": {"coordinates":[-105.844253,46.399133],"type":"Point"}
+  "bbox": [
+    -105.844253,
+    46.399133,
+    -105.844253,
+    46.399133
+],
+  "geometry": {"coordinates":[-105.84425299999999,46.399133],"type":"Point"}
 }

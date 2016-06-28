@@ -2,13 +2,14 @@
   "id": 169717063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.723971,46.397619,-112.723971,46.397619",
     "geom:latitude":46.397619,
     "geom:longitude":-112.723971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 Milwaukee Ave",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169717063,
-    "wof:lastmodified":1449032771,
+    "wof:lastmodified":1466641726,
     "wof:name":"Havenwoods Dental Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-112.723971,46.397619,-112.723971,46.397619],
-  "geometry": {"coordinates":[-112.723971,46.397619],"type":"Point"}
+  "bbox": [
+    -112.723971,
+    46.397619,
+    -112.723971,
+    46.397619
+],
+  "geometry": {"coordinates":[-112.72397100000001,46.397619],"type":"Point"}
 }

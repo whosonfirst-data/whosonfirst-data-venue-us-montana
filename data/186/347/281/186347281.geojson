@@ -2,13 +2,14 @@
   "id": 186347281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.945533,46.127945,-112.945533,46.127945",
     "geom:latitude":46.127945,
     "geom:longitude":-112.945533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 E Park Ave",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186347281,
-    "wof:lastmodified":1449051674,
+    "wof:lastmodified":1466642844,
     "wof:name":"Acm Sports Bar Grill & Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.945533,46.127945,-112.945533,46.127945],
+  "bbox": [
+    -112.945533,
+    46.127945,
+    -112.945533,
+    46.127945
+],
   "geometry": {"coordinates":[-112.945533,46.127945],"type":"Point"}
 }

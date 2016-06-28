@@ -2,13 +2,14 @@
   "id": 186074273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.509167,45.812526,-108.509167,45.812526",
     "geom:latitude":45.812526,
     "geom:longitude":-108.509167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Moon Beam Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186074273,
-    "wof:lastmodified":1449051829,
+    "wof:lastmodified":1466641879,
     "wof:name":"Associates Inventory",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-108.509167,45.812526,-108.509167,45.812526],
-  "geometry": {"coordinates":[-108.509167,45.812526],"type":"Point"}
+  "bbox": [
+    -108.509167,
+    45.812526,
+    -108.509167,
+    45.812526
+],
+  "geometry": {"coordinates":[-108.50916700000001,45.812526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186176607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.283455,47.501981,-111.283455,47.501981",
     "geom:latitude":47.501981,
     "geom:longitude":-111.283455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 3rd Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186176607,
-    "wof:lastmodified":1449052121,
+    "wof:lastmodified":1466642171,
     "wof:name":"K Z Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-111.283455,47.501981,-111.283455,47.501981],
+  "bbox": [
+    -111.283455,
+    47.501981,
+    -111.283455,
+    47.501981
+],
   "geometry": {"coordinates":[-111.283455,47.501981],"type":"Point"}
 }

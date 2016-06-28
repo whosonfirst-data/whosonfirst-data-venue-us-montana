@@ -2,13 +2,14 @@
   "id": 185759323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010397,46.581344,-112.010397,46.581344",
     "geom:latitude":46.581344,
     "geom:longitude":-112.010397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S Oakes St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185759323,
-    "wof:lastmodified":1449008233,
+    "wof:lastmodified":1466641481,
     "wof:name":"Plymouth Congrg Church Ucc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.010397,46.581344,-112.010397,46.581344],
+  "bbox": [
+    -112.010397,
+    46.581344,
+    -112.010397,
+    46.581344
+],
   "geometry": {"coordinates":[-112.010397,46.581344],"type":"Point"}
 }

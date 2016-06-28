@@ -2,13 +2,14 @@
   "id": 185738785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.164671,47.694435,-114.164671,47.694435",
     "geom:latitude":47.694435,
     "geom:longitude":-114.164671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 2nd Ave W",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185738785,
-    "wof:lastmodified":1449007766,
+    "wof:lastmodified":1466641463,
     "wof:name":"Lake County Farmers Mutual Ins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.164671,47.694435,-114.164671,47.694435],
+  "bbox": [
+    -114.164671,
+    47.694435,
+    -114.164671,
+    47.694435
+],
   "geometry": {"coordinates":[-114.164671,47.694435],"type":"Point"}
 }

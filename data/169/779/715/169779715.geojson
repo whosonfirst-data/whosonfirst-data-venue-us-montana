@@ -2,13 +2,14 @@
   "id": 169779715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.88685,47.193321,-114.88685,47.193321",
     "geom:latitude":47.193321,
     "geom:longitude":-114.88685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Spruce St",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169779715,
-    "wof:lastmodified":1449033199,
+    "wof:lastmodified":1466641751,
     "wof:name":"Richard Feldbrugge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-114.88685,47.193321,-114.88685,47.193321],
+  "bbox": [
+    -114.88685,
+    47.193321,
+    -114.88685,
+    47.193321
+],
   "geometry": {"coordinates":[-114.88685,47.193321],"type":"Point"}
 }

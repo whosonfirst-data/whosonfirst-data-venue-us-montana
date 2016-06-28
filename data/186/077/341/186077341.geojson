@@ -2,13 +2,14 @@
   "id": 186077341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.875952,48.358721,-107.875952,48.358721",
     "geom:latitude":48.358721,
     "geom:longitude":-107.875952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 S 1st Ave W",
     "sg:city":"Malta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186077341,
-    "wof:lastmodified":1449050829,
+    "wof:lastmodified":1466641882,
     "wof:name":"Maltana Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.875952,48.358721,-107.875952,48.358721],
+  "bbox": [
+    -107.875952,
+    48.358721,
+    -107.875952,
+    48.358721
+],
   "geometry": {"coordinates":[-107.875952,48.358721],"type":"Point"}
 }

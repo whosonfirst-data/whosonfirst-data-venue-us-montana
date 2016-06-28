@@ -2,13 +2,14 @@
   "id": 186086301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.545939,45.774122,-108.545939,45.774122",
     "geom:latitude":45.774122,
     "geom:longitude":-108.545939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Miles Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186086301,
-    "wof:lastmodified":1449052164,
+    "wof:lastmodified":1466641913,
     "wof:name":"Kent Mende",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.545939,45.774122,-108.545939,45.774122],
+  "bbox": [
+    -108.545939,
+    45.774122,
+    -108.545939,
+    45.774122
+],
   "geometry": {"coordinates":[-108.545939,45.774122],"type":"Point"}
 }

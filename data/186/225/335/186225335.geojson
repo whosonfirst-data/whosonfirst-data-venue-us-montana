@@ -2,13 +2,14 @@
   "id": 186225335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.494703,45.776311,-108.494703,45.776311",
     "geom:latitude":45.776311,
     "geom:longitude":-108.494703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 S 25th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186225335,
-    "wof:lastmodified":1449051216,
+    "wof:lastmodified":1466642397,
     "wof:name":"Maxim Technologies Inc",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-108.494703,45.776311,-108.494703,45.776311],
+  "bbox": [
+    -108.494703,
+    45.776311,
+    -108.494703,
+    45.776311
+],
   "geometry": {"coordinates":[-108.494703,45.776311],"type":"Point"}
 }

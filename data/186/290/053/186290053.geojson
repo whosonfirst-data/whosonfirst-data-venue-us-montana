@@ -2,13 +2,14 @@
   "id": 186290053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.701928,45.683765,-108.701928,45.683765",
     "geom:latitude":45.683765,
     "geom:longitude":-108.701928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11360 S Frontage Rd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186290053,
-    "wof:lastmodified":1449051524,
+    "wof:lastmodified":1466642795,
     "wof:name":"Red Barn Antiques",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-108.701928,45.683765,-108.701928,45.683765],
+  "bbox": [
+    -108.701928,
+    45.683765,
+    -108.701928,
+    45.683765
+],
   "geometry": {"coordinates":[-108.701928,45.683765],"type":"Point"}
 }

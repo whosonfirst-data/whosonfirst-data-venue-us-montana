@@ -2,13 +2,14 @@
   "id": 185739447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.514622,45.780315,-108.514622,45.780315",
     "geom:latitude":45.780315,
     "geom:longitude":-108.514622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3318 3rd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185739447,
-    "wof:lastmodified":1449007283,
+    "wof:lastmodified":1466641463,
     "wof:name":"Custom Home Audio & Theater",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "system"
     ]
 },
-  "bbox": [-108.514622,45.780315,-108.514622,45.780315],
+  "bbox": [
+    -108.514622,
+    45.780315,
+    -108.514622,
+    45.780315
+],
   "geometry": {"coordinates":[-108.514622,45.780315],"type":"Point"}
 }

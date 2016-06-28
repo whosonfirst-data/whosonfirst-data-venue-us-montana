@@ -2,13 +2,14 @@
   "id": 169704835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.554434,45.758723,-108.554434,45.758723",
     "geom:latitude":45.758723,
     "geom:longitude":-108.554434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Daniel St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169704835,
-    "wof:lastmodified":1449033552,
+    "wof:lastmodified":1466641162,
     "wof:name":"GEO Distributing Inc",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-108.554434,45.758723,-108.554434,45.758723],
+  "bbox": [
+    -108.554434,
+    45.758723,
+    -108.554434,
+    45.758723
+],
   "geometry": {"coordinates":[-108.554434,45.758723],"type":"Point"}
 }

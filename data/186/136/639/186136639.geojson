@@ -2,13 +2,14 @@
   "id": 186136639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.714409,47.103414,-104.714409,47.103414",
     "geom:latitude":47.103414,
     "geom:longitude":-104.714409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Merrill Ave",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186136639,
-    "wof:lastmodified":1449052997,
+    "wof:lastmodified":1466641960,
     "wof:name":"Trinkets N Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-104.714409,47.103414,-104.714409,47.103414],
+  "bbox": [
+    -104.714409,
+    47.103414,
+    -104.714409,
+    47.103414
+],
   "geometry": {"coordinates":[-104.714409,47.103414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186390175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.540745,45.760887,-108.540745,45.760887",
     "geom:latitude":45.760887,
     "geom:longitude":-108.540745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186390175,
-    "wof:lastmodified":1449053053,
+    "wof:lastmodified":1466642843,
     "wof:name":"EMCO Distribution",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.540745,45.760887,-108.540745,45.760887],
+  "bbox": [
+    -108.540745,
+    45.760887,
+    -108.540745,
+    45.760887
+],
   "geometry": {"coordinates":[-108.540745,45.760887],"type":"Point"}
 }

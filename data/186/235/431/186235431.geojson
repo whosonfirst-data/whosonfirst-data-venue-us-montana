@@ -2,13 +2,14 @@
   "id": 186235431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.364027,45.649331,-111.364027,45.649331",
     "geom:latitude":45.649331,
     "geom:longitude":-111.364027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Bates Rd",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186235431,
-    "wof:lastmodified":1449050875,
+    "wof:lastmodified":1466642670,
     "wof:name":"Ruby Mountain Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "management"
     ]
 },
-  "bbox": [-111.364027,45.649331,-111.364027,45.649331],
-  "geometry": {"coordinates":[-111.364027,45.649331],"type":"Point"}
+  "bbox": [
+    -111.364027,
+    45.649331,
+    -111.364027,
+    45.649331
+],
+  "geometry": {"coordinates":[-111.36402699999999,45.649331],"type":"Point"}
 }

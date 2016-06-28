@@ -2,13 +2,14 @@
   "id": 186128705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.496253,46.000884,-112.496253,46.000884",
     "geom:latitude":46.000884,
     "geom:longitude":-112.496253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 Elm St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186128705,
-    "wof:lastmodified":1449051411,
+    "wof:lastmodified":1466642240,
     "wof:name":"Jim's Bar",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-112.496253,46.000884,-112.496253,46.000884],
+  "bbox": [
+    -112.496253,
+    46.000884,
+    -112.496253,
+    46.000884
+],
   "geometry": {"coordinates":[-112.496253,46.000884],"type":"Point"}
 }

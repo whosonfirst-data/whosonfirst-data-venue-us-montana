@@ -2,13 +2,14 @@
   "id": 186052985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.538272,45.768383,-108.538272,45.768383",
     "geom:latitude":45.768383,
     "geom:longitude":-108.538272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Florine Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186052985,
-    "wof:lastmodified":1449051584,
+    "wof:lastmodified":1466641832,
     "wof:name":"Rael Cycle",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-108.538272,45.768383,-108.538272,45.768383],
-  "geometry": {"coordinates":[-108.538272,45.768383],"type":"Point"}
+  "bbox": [
+    -108.538272,
+    45.768383,
+    -108.538272,
+    45.768383
+],
+  "geometry": {"coordinates":[-108.53827200000001,45.768383],"type":"Point"}
 }

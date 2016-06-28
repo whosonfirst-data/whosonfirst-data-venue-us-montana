@@ -2,13 +2,14 @@
   "id": 185736601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.023438,46.848782,-114.023438,46.848782",
     "geom:latitude":46.848782,
     "geom:longitude":-114.023438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1733 South Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185736601,
-    "wof:lastmodified":1449008169,
+    "wof:lastmodified":1466641463,
     "wof:name":"Busy Elves and Bridal Shop",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-114.023438,46.848782,-114.023438,46.848782],
+  "bbox": [
+    -114.023438,
+    46.848782,
+    -114.023438,
+    46.848782
+],
   "geometry": {"coordinates":[-114.023438,46.848782],"type":"Point"}
 }

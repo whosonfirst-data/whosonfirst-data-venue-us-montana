@@ -2,13 +2,14 @@
   "id": 169785105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.627677,45.229761,-112.627677,45.229761",
     "geom:latitude":45.229761,
     "geom:longitude":-112.627677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 Selway Dr",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169785105,
-    "wof:lastmodified":1449035396,
+    "wof:lastmodified":1466641241,
     "wof:name":"Dillon Implement Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [-112.627677,45.229761,-112.627677,45.229761],
-  "geometry": {"coordinates":[-112.627677,45.229761],"type":"Point"}
+  "bbox": [
+    -112.627677,
+    45.229761,
+    -112.627677,
+    45.229761
+],
+  "geometry": {"coordinates":[-112.62767700000001,45.229761],"type":"Point"}
 }

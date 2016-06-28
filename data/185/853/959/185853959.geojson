@@ -2,13 +2,14 @@
   "id": 185853959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.334219,47.491435,-111.334219,47.491435",
     "geom:latitude":47.491435,
     "geom:longitude":-111.334219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 13th Ave SW",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185853959,
-    "wof:lastmodified":1449007263,
+    "wof:lastmodified":1466641596,
     "wof:name":"Odegards Body Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-111.334219,47.491435,-111.334219,47.491435],
+  "bbox": [
+    -111.334219,
+    47.491435,
+    -111.334219,
+    47.491435
+],
   "geometry": {"coordinates":[-111.334219,47.491435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185784369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.03722,46.591299,-112.03722,46.591299",
     "geom:latitude":46.591299,
     "geom:longitude":-112.03722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185784369,
-    "wof:lastmodified":1449007669,
+    "wof:lastmodified":1466641513,
     "wof:name":"Alernative Energy Resource",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-112.03722,46.591299,-112.03722,46.591299],
+  "bbox": [
+    -112.03722,
+    46.591299,
+    -112.03722,
+    46.591299
+],
   "geometry": {"coordinates":[-112.03722,46.591299],"type":"Point"}
 }

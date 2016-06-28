@@ -2,13 +2,14 @@
   "id": 185840097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.041054,46.828241,-114.041054,46.828241",
     "geom:latitude":46.828241,
     "geom:longitude":-114.041054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 Garland Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185840097,
-    "wof:lastmodified":1449007871,
+    "wof:lastmodified":1466641572,
     "wof:name":"Neo-Life Distributor",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.041054,46.828241,-114.041054,46.828241],
+  "bbox": [
+    -114.041054,
+    46.828241,
+    -114.041054,
+    46.828241
+],
   "geometry": {"coordinates":[-114.041054,46.828241],"type":"Point"}
 }

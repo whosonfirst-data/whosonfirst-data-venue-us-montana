@@ -2,13 +2,14 @@
   "id": 185611817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.551645,46.442845,-108.551645,46.442845",
     "geom:latitude":46.442845,
     "geom:longitude":-108.551645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 7th St W",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185611817,
-    "wof:lastmodified":1449007885,
+    "wof:lastmodified":1466641193,
     "wof:name":"Lds Church Missionary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.551645,46.442845,-108.551645,46.442845],
-  "geometry": {"coordinates":[-108.551645,46.442845],"type":"Point"}
+  "bbox": [
+    -108.551645,
+    46.442845,
+    -108.551645,
+    46.442845
+],
+  "geometry": {"coordinates":[-108.55164499999999,46.442845],"type":"Point"}
 }

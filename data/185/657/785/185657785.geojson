@@ -2,13 +2,14 @@
   "id": 185657785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.578114,45.774564,-108.578114,45.774564",
     "geom:latitude":45.774564,
     "geom:longitude":-108.578114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2435 Miles Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185657785,
-    "wof:lastmodified":1449006785,
+    "wof:lastmodified":1466641379,
     "wof:name":"Joe Bonini Construction",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.578114,45.774564,-108.578114,45.774564],
+  "bbox": [
+    -108.578114,
+    45.774564,
+    -108.578114,
+    45.774564
+],
   "geometry": {"coordinates":[-108.578114,45.774564],"type":"Point"}
 }

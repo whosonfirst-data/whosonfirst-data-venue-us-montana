@@ -2,13 +2,14 @@
   "id": 186079567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.723159,48.541176,-109.723159,48.541176",
     "geom:latitude":48.541176,
     "geom:longitude":-109.723159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2539 Old Post Rd",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186079567,
-    "wof:lastmodified":1449052559,
+    "wof:lastmodified":1466641886,
     "wof:name":"Jacobson Water Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "drilling"
     ]
 },
-  "bbox": [-109.723159,48.541176,-109.723159,48.541176],
+  "bbox": [
+    -109.723159,
+    48.541176,
+    -109.723159,
+    48.541176
+],
   "geometry": {"coordinates":[-109.723159,48.541176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185750915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.30981,48.196254,-114.30981,48.196254",
     "geom:latitude":48.196254,
     "geom:longitude":-114.30981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 3rd St E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185750915,
-    "wof:lastmodified":1449007593,
+    "wof:lastmodified":1466641479,
     "wof:name":"Robert Hager DC",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.30981,48.196254,-114.30981,48.196254],
+  "bbox": [
+    -114.30981,
+    48.196254,
+    -114.30981,
+    48.196254
+],
   "geometry": {"coordinates":[-114.30981,48.196254],"type":"Point"}
 }

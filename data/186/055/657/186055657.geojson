@@ -2,13 +2,14 @@
   "id": 186055657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.555477,48.39329,-115.555477,48.39329",
     "geom:latitude":48.39329,
     "geom:longitude":-115.555477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Idaho Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186055657,
-    "wof:lastmodified":1449050998,
+    "wof:lastmodified":1466641833,
     "wof:name":"Covey Contracting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.555477,48.39329,-115.555477,48.39329],
+  "bbox": [
+    -115.555477,
+    48.39329,
+    -115.555477,
+    48.39329
+],
   "geometry": {"coordinates":[-115.555477,48.39329],"type":"Point"}
 }

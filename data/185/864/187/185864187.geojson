@@ -2,13 +2,14 @@
   "id": 185864187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.473914,45.81196,-108.473914,45.81196",
     "geom:latitude":45.81196,
     "geom:longitude":-108.473914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Hansen Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185864187,
-    "wof:lastmodified":1449008230,
+    "wof:lastmodified":1466641598,
     "wof:name":"Econo Glass Company Inc",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "residential"
     ]
 },
-  "bbox": [-108.473914,45.81196,-108.473914,45.81196],
-  "geometry": {"coordinates":[-108.473914,45.81196],"type":"Point"}
+  "bbox": [
+    -108.473914,
+    45.81196,
+    -108.473914,
+    45.81196
+],
+  "geometry": {"coordinates":[-108.47391399999999,45.81196],"type":"Point"}
 }

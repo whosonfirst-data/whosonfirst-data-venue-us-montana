@@ -2,13 +2,14 @@
   "id": 186372511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.685735,48.539268,-109.685735,48.539268",
     "geom:latitude":48.539268,
     "geom:longitude":-109.685735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 13th St",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186372511,
-    "wof:lastmodified":1449051989,
+    "wof:lastmodified":1466642789,
     "wof:name":"Mark A Ward DO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-109.685735,48.539268,-109.685735,48.539268],
-  "geometry": {"coordinates":[-109.685735,48.539268],"type":"Point"}
+  "bbox": [
+    -109.685735,
+    48.539268,
+    -109.685735,
+    48.539268
+],
+  "geometry": {"coordinates":[-109.68573499999999,48.539268],"type":"Point"}
 }

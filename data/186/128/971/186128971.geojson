@@ -2,13 +2,14 @@
   "id": 186128971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.296178,45.902878,-108.296178,45.902878",
     "geom:latitude":45.902878,
     "geom:longitude":-108.296178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 3rd St N",
     "sg:city":"Huntley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186128971,
-    "wof:lastmodified":1449051410,
+    "wof:lastmodified":1466642240,
     "wof:name":"Woodever Furniture",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-108.296178,45.902878,-108.296178,45.902878],
+  "bbox": [
+    -108.296178,
+    45.902878,
+    -108.296178,
+    45.902878
+],
   "geometry": {"coordinates":[-108.296178,45.902878],"type":"Point"}
 }

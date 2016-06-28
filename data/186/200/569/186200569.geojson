@@ -2,13 +2,14 @@
   "id": 186200569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.525351,45.98262,-112.525351,45.98262",
     "geom:latitude":45.98262,
     "geom:longitude":-112.525351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Sampson Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186200569,
-    "wof:lastmodified":1449051444,
+    "wof:lastmodified":1466642273,
     "wof:name":"Zobenica Sheet Metal & Heating",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.525351,45.98262,-112.525351,45.98262],
+  "bbox": [
+    -112.525351,
+    45.98262,
+    -112.525351,
+    45.98262
+],
   "geometry": {"coordinates":[-112.525351,45.98262],"type":"Point"}
 }

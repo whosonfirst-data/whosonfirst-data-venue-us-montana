@@ -2,13 +2,14 @@
   "id": 169732019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.505825,45.79235,-108.505825,45.79235",
     "geom:latitude":45.79235,
     "geom:longitude":-108.505825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2261 9th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169732019,
-    "wof:lastmodified":1449036072,
+    "wof:lastmodified":1466641742,
     "wof:name":"Foxyone Designs",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-108.505825,45.79235,-108.505825,45.79235],
+  "bbox": [
+    -108.505825,
+    45.79235,
+    -108.505825,
+    45.79235
+],
   "geometry": {"coordinates":[-108.505825,45.79235],"type":"Point"}
 }

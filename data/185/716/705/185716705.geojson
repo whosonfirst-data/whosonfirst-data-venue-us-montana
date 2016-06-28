@@ -2,13 +2,14 @@
   "id": 185716705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.553882,45.783817,-108.553882,45.783817",
     "geom:latitude":45.783817,
     "geom:longitude":-108.553882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 15th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185716705,
-    "wof:lastmodified":1449006838,
+    "wof:lastmodified":1466641438,
     "wof:name":"Don Charleson Realty",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-108.553882,45.783817,-108.553882,45.783817],
+  "bbox": [
+    -108.553882,
+    45.783817,
+    -108.553882,
+    45.783817
+],
   "geometry": {"coordinates":[-108.553882,45.783817],"type":"Point"}
 }

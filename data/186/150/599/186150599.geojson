@@ -2,13 +2,14 @@
   "id": 186150599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.546068,46.010749,-112.546068,46.010749",
     "geom:latitude":46.010749,
     "geom:longitude":-112.546068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Clark St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186150599,
-    "wof:lastmodified":1449050290,
+    "wof:lastmodified":1466642127,
     "wof:name":"James R Drynan MD PC",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-112.546068,46.010749,-112.546068,46.010749],
-  "geometry": {"coordinates":[-112.546068,46.010749],"type":"Point"}
+  "bbox": [
+    -112.546068,
+    46.010749,
+    -112.546068,
+    46.010749
+],
+  "geometry": {"coordinates":[-112.54606800000001,46.010749],"type":"Point"}
 }

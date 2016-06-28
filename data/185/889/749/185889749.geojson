@@ -2,13 +2,14 @@
   "id": 185889749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.544716,45.764301,-108.544716,45.764301",
     "geom:latitude":45.764301,
     "geom:longitude":-108.544716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Foster Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185889749,
-    "wof:lastmodified":1449006574,
+    "wof:lastmodified":1466641630,
     "wof:name":"Discovery Day Care Center",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-108.544716,45.764301,-108.544716,45.764301],
-  "geometry": {"coordinates":[-108.544716,45.764301],"type":"Point"}
+  "bbox": [
+    -108.544716,
+    45.764301,
+    -108.544716,
+    45.764301
+],
+  "geometry": {"coordinates":[-108.54471599999999,45.764301],"type":"Point"}
 }

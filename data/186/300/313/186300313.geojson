@@ -2,13 +2,14 @@
   "id": 186300313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.011012,46.591145,-112.011012,46.591145",
     "geom:latitude":46.591145,
     "geom:longitude":-112.011012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Prospect Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186300313,
-    "wof:lastmodified":1449051893,
+    "wof:lastmodified":1466642618,
     "wof:name":"Vista Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-112.011012,46.591145,-112.011012,46.591145],
-  "geometry": {"coordinates":[-112.011012,46.591145],"type":"Point"}
+  "bbox": [
+    -112.011012,
+    46.591145,
+    -112.011012,
+    46.591145
+],
+  "geometry": {"coordinates":[-112.01101199999999,46.591145],"type":"Point"}
 }

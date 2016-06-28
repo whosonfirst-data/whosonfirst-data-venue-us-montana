@@ -2,13 +2,14 @@
   "id": 186073385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.082249,46.312555,-114.082249,46.312555",
     "geom:latitude":46.312555,
     "geom:longitude":-114.082249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Willow Creek Rd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186073385,
-    "wof:lastmodified":1449050721,
+    "wof:lastmodified":1466641872,
     "wof:name":"Gardner Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.082249,46.312555,-114.082249,46.312555],
+  "bbox": [
+    -114.082249,
+    46.312555,
+    -114.082249,
+    46.312555
+],
   "geometry": {"coordinates":[-114.082249,46.312555],"type":"Point"}
 }

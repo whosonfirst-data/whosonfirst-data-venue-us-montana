@@ -2,13 +2,14 @@
   "id": 186379815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.637598,45.218839,-112.637598,45.218839",
     "geom:latitude":45.218839,
     "geom:longitude":-112.637598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 W Center St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186379815,
-    "wof:lastmodified":1449051933,
+    "wof:lastmodified":1466642641,
     "wof:name":"Bicentennial Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "authority"
     ]
 },
-  "bbox": [-112.637598,45.218839,-112.637598,45.218839],
+  "bbox": [
+    -112.637598,
+    45.218839,
+    -112.637598,
+    45.218839
+],
   "geometry": {"coordinates":[-112.637598,45.218839],"type":"Point"}
 }

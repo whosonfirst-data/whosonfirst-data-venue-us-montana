@@ -2,13 +2,14 @@
   "id": 169729539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.57603,45.756651,-108.57603,45.756651",
     "geom:latitude":45.756651,
     "geom:longitude":-108.57603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"751 S 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169729539,
-    "wof:lastmodified":1449034350,
+    "wof:lastmodified":1466641164,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.57603,45.756651,-108.57603,45.756651],
+  "bbox": [
+    -108.57603,
+    45.756651,
+    -108.57603,
+    45.756651
+],
   "geometry": {"coordinates":[-108.57603,45.756651],"type":"Point"}
 }

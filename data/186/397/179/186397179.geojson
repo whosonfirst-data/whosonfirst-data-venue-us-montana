@@ -2,13 +2,14 @@
   "id": 186397179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.970503,45.484264,-108.970503,45.484264",
     "geom:latitude":45.484264,
     "geom:longitude":-108.970503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S Main St",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186397179,
-    "wof:lastmodified":1449051442,
+    "wof:lastmodified":1466642851,
     "wof:name":"J Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.970503,45.484264,-108.970503,45.484264],
-  "geometry": {"coordinates":[-108.970503,45.484264],"type":"Point"}
+  "bbox": [
+    -108.970503,
+    45.484264,
+    -108.970503,
+    45.484264
+],
+  "geometry": {"coordinates":[-108.97050299999999,45.484264],"type":"Point"}
 }

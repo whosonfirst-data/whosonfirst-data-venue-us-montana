@@ -2,13 +2,14 @@
   "id": 185931547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.324971,48.212558,-114.324971,48.212558",
     "geom:latitude":48.212558,
     "geom:longitude":-114.324971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1279 Burns Way",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185931547,
-    "wof:lastmodified":1449008071,
+    "wof:lastmodified":1466641682,
     "wof:name":"Lorence R Flynn DDS",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-114.324971,48.212558,-114.324971,48.212558],
-  "geometry": {"coordinates":[-114.324971,48.212558],"type":"Point"}
+  "bbox": [
+    -114.324971,
+    48.212558,
+    -114.324971,
+    48.212558
+],
+  "geometry": {"coordinates":[-114.32497100000001,48.212558],"type":"Point"}
 }

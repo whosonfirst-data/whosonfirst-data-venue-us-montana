@@ -2,13 +2,14 @@
   "id": 169779733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.679443,45.730701,-108.679443,45.730701",
     "geom:latitude":45.730701,
     "geom:longitude":-108.679443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2136 S 64th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169779733,
-    "wof:lastmodified":1449033195,
+    "wof:lastmodified":1466641239,
     "wof:name":"Jeff Roberts Construction",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.679443,45.730701,-108.679443,45.730701],
-  "geometry": {"coordinates":[-108.679443,45.730701],"type":"Point"}
+  "bbox": [
+    -108.679443,
+    45.730701,
+    -108.679443,
+    45.730701
+],
+  "geometry": {"coordinates":[-108.67944300000001,45.730701],"type":"Point"}
 }

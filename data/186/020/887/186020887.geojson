@@ -2,13 +2,14 @@
   "id": 186020887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.762993,45.69746,-108.762993,45.69746",
     "geom:latitude":45.69746,
     "geom:longitude":-108.762993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9533 Laurel Airport Rd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186020887,
-    "wof:lastmodified":1449051632,
+    "wof:lastmodified":1466641775,
     "wof:name":"Pfeifle Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.762993,45.69746,-108.762993,45.69746],
-  "geometry": {"coordinates":[-108.762993,45.69746],"type":"Point"}
+  "bbox": [
+    -108.762993,
+    45.69746,
+    -108.762993,
+    45.69746
+],
+  "geometry": {"coordinates":[-108.76299299999999,45.69746],"type":"Point"}
 }

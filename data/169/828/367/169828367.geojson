@@ -2,13 +2,14 @@
   "id": 169828367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.846282,46.408538,-105.846282,46.408538",
     "geom:latitude":46.408538,
     "geom:longitude":-105.846282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 N 10th St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169828367,
-    "wof:lastmodified":1449034355,
+    "wof:lastmodified":1466641297,
     "wof:name":"Job Service Ctr-Miles City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-105.846282,46.408538,-105.846282,46.408538],
+  "bbox": [
+    -105.846282,
+    46.408538,
+    -105.846282,
+    46.408538
+],
   "geometry": {"coordinates":[-105.846282,46.408538],"type":"Point"}
 }

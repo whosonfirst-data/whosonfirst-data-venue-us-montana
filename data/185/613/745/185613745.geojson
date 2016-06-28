@@ -2,13 +2,14 @@
   "id": 185613745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.647547,48.193356,-106.647547,48.193356",
     "geom:latitude":48.193356,
     "geom:longitude":-106.647547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1034 6th Ave S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185613745,
-    "wof:lastmodified":1449007364,
+    "wof:lastmodified":1466641200,
     "wof:name":"Crossing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.647547,48.193356,-106.647547,48.193356],
+  "bbox": [
+    -106.647547,
+    48.193356,
+    -106.647547,
+    48.193356
+],
   "geometry": {"coordinates":[-106.647547,48.193356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185650049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.028906,46.598237,-112.028906,46.598237",
     "geom:latitude":46.598237,
     "geom:longitude":-112.028906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 E Lyndale Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185650049,
-    "wof:lastmodified":1449007593,
+    "wof:lastmodified":1466641363,
     "wof:name":"Landmark Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.028906,46.598237,-112.028906,46.598237],
-  "geometry": {"coordinates":[-112.028906,46.598237],"type":"Point"}
+  "bbox": [
+    -112.028906,
+    46.598237,
+    -112.028906,
+    46.598237
+],
+  "geometry": {"coordinates":[-112.02890600000001,46.598237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186228085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.161907,47.689124,-114.161907,47.689124",
     "geom:latitude":47.689124,
     "geom:longitude":-114.161907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 1st St E",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186228085,
-    "wof:lastmodified":1449051218,
+    "wof:lastmodified":1466642407,
     "wof:name":"Schulz Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cont"
     ]
 },
-  "bbox": [-114.161907,47.689124,-114.161907,47.689124],
+  "bbox": [
+    -114.161907,
+    47.689124,
+    -114.161907,
+    47.689124
+],
   "geometry": {"coordinates":[-114.161907,47.689124],"type":"Point"}
 }

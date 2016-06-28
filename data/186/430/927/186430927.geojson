@@ -2,13 +2,14 @@
   "id": 186430927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.839248,46.394054,-105.839248,46.394054",
     "geom:latitude":46.394054,
     "geom:longitude":-105.839248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Balsam Dr",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186430927,
-    "wof:lastmodified":1449052089,
+    "wof:lastmodified":1466642838,
     "wof:name":"Cowtown Promotions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.839248,46.394054,-105.839248,46.394054],
+  "bbox": [
+    -105.839248,
+    46.394054,
+    -105.839248,
+    46.394054
+],
   "geometry": {"coordinates":[-105.839248,46.394054],"type":"Point"}
 }

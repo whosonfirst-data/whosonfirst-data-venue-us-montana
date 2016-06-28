@@ -2,13 +2,14 @@
   "id": 169751613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.22731,45.946899,-108.22731,45.946899",
     "geom:latitude":45.946899,
     "geom:longitude":-108.22731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 N 9th Rd",
     "sg:city":"Worden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169751613,
-    "wof:lastmodified":1449032870,
+    "wof:lastmodified":1466641190,
     "wof:name":"Jorgensen Trucking",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.22731,45.946899,-108.22731,45.946899],
+  "bbox": [
+    -108.22731,
+    45.946899,
+    -108.22731,
+    45.946899
+],
   "geometry": {"coordinates":[-108.22731,45.946899],"type":"Point"}
 }

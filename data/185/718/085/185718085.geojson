@@ -2,13 +2,14 @@
   "id": 185718085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.166249,46.410314,-114.166249,46.410314",
     "geom:latitude":46.410314,
     "geom:longitude":-114.166249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2356 Hamby Ln",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185718085,
-    "wof:lastmodified":1449006964,
+    "wof:lastmodified":1466641438,
     "wof:name":"Hilltop Custom Feedings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.166249,46.410314,-114.166249,46.410314],
-  "geometry": {"coordinates":[-114.166249,46.410314],"type":"Point"}
+  "bbox": [
+    -114.166249,
+    46.410314,
+    -114.166249,
+    46.410314
+],
+  "geometry": {"coordinates":[-114.16624899999999,46.410314],"type":"Point"}
 }

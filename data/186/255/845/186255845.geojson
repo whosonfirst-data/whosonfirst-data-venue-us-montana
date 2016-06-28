@@ -2,13 +2,14 @@
   "id": 186255845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.825592,46.434517,-109.825592,46.434517",
     "geom:latitude":46.434517,
     "geom:longitude":-109.825592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Gordon St SE",
     "sg:city":"Harlowton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186255845,
-    "wof:lastmodified":1449051587,
+    "wof:lastmodified":1466642533,
     "wof:name":"Montana Logging Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-109.825592,46.434517,-109.825592,46.434517],
+  "bbox": [
+    -109.825592,
+    46.434517,
+    -109.825592,
+    46.434517
+],
   "geometry": {"coordinates":[-109.825592,46.434517],"type":"Point"}
 }

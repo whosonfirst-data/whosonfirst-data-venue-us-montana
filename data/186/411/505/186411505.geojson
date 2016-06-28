@@ -2,13 +2,14 @@
   "id": 186411505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.058081,46.811023,-114.058081,46.811023",
     "geom:latitude":46.811023,
     "geom:longitude":-114.058081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6525 Linda Vista Blvd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186411505,
-    "wof:lastmodified":1449050398,
+    "wof:lastmodified":1466642789,
     "wof:name":"Flatland Properties Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-114.058081,46.811023,-114.058081,46.811023],
+  "bbox": [
+    -114.058081,
+    46.811023,
+    -114.058081,
+    46.811023
+],
   "geometry": {"coordinates":[-114.058081,46.811023],"type":"Point"}
 }

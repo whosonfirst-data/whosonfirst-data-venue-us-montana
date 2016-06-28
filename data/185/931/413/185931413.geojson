@@ -2,13 +2,14 @@
   "id": 185931413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.157015,47.715286,-104.157015,47.715286",
     "geom:latitude":47.715286,
     "geom:longitude":-104.157015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Main St",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185931413,
-    "wof:lastmodified":1449008072,
+    "wof:lastmodified":1466641680,
     "wof:name":"Anna's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.157015,47.715286,-104.157015,47.715286],
+  "bbox": [
+    -104.157015,
+    47.715286,
+    -104.157015,
+    47.715286
+],
   "geometry": {"coordinates":[-104.157015,47.715286],"type":"Point"}
 }

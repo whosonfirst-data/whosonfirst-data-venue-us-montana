@@ -2,13 +2,14 @@
   "id": 185618949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.421688,47.065276,-109.421688,47.065276",
     "geom:latitude":47.065276,
     "geom:longitude":-109.421688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 1st Ave S",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185618949,
-    "wof:lastmodified":1449007609,
+    "wof:lastmodified":1466641214,
     "wof:name":"Carquest Distrbution Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-109.421688,47.065276,-109.421688,47.065276],
+  "bbox": [
+    -109.421688,
+    47.065276,
+    -109.421688,
+    47.065276
+],
   "geometry": {"coordinates":[-109.421688,47.065276],"type":"Point"}
 }

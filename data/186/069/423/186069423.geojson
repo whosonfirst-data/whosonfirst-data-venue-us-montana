@@ -2,13 +2,14 @@
   "id": 186069423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.527569,45.757669,-108.527569,45.757669",
     "geom:latitude":45.757669,
     "geom:longitude":-108.527569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4544 Stone St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186069423,
-    "wof:lastmodified":1449052062,
+    "wof:lastmodified":1466641864,
     "wof:name":"Alpha Omega Enterprises",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-108.527569,45.757669,-108.527569,45.757669],
+  "bbox": [
+    -108.527569,
+    45.757669,
+    -108.527569,
+    45.757669
+],
   "geometry": {"coordinates":[-108.527569,45.757669],"type":"Point"}
 }

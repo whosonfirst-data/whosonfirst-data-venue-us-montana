@@ -2,13 +2,14 @@
   "id": 186265335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.566317,45.673098,-110.566317,45.673098",
     "geom:latitude":45.673098,
     "geom:longitude":-110.566317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Eagle Ct",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186265335,
-    "wof:lastmodified":1449051305,
+    "wof:lastmodified":1466642550,
     "wof:name":"Computer Solutions",
     "wof:parent_id":85867995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-110.566317,45.673098,-110.566317,45.673098],
+  "bbox": [
+    -110.566317,
+    45.673098,
+    -110.566317,
+    45.673098
+],
   "geometry": {"coordinates":[-110.566317,45.673098],"type":"Point"}
 }

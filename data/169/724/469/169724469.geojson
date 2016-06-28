@@ -2,13 +2,14 @@
   "id": 169724469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.314445,48.306997,-114.314445,48.306997",
     "geom:latitude":48.306997,
     "geom:longitude":-114.314445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Bowdish Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169724469,
-    "wof:lastmodified":1449035900,
+    "wof:lastmodified":1466641736,
     "wof:name":"Fretz Construction Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.314445,48.306997,-114.314445,48.306997],
-  "geometry": {"coordinates":[-114.314445,48.306997],"type":"Point"}
+  "bbox": [
+    -114.314445,
+    48.306997,
+    -114.314445,
+    48.306997
+],
+  "geometry": {"coordinates":[-114.31444500000001,48.306997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186289633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.311973,48.237992,-114.311973,48.237992",
     "geom:latitude":48.237992,
     "geom:longitude":-114.311973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"565 Country Way",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186289633,
-    "wof:lastmodified":1449052563,
+    "wof:lastmodified":1466642795,
     "wof:name":"Phils Plumbing Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.311973,48.237992,-114.311973,48.237992],
-  "geometry": {"coordinates":[-114.311973,48.237992],"type":"Point"}
+  "bbox": [
+    -114.311973,
+    48.237992,
+    -114.311973,
+    48.237992
+],
+  "geometry": {"coordinates":[-114.31197299999999,48.237992],"type":"Point"}
 }

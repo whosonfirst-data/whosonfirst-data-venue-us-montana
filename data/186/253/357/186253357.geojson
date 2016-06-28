@@ -2,13 +2,14 @@
   "id": 186253357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.470828,45.814545,-108.470828,45.814545",
     "geom:latitude":45.814545,
     "geom:longitude":-108.470828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186253357,
-    "wof:lastmodified":1449052684,
+    "wof:lastmodified":1466642691,
     "wof:name":"Ott Robert D CPA",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-108.470828,45.814545,-108.470828,45.814545],
+  "bbox": [
+    -108.470828,
+    45.814545,
+    -108.470828,
+    45.814545
+],
   "geometry": {"coordinates":[-108.470828,45.814545],"type":"Point"}
 }

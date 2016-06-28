@@ -2,13 +2,14 @@
   "id": 185932011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.120871,46.312735,-114.120871,46.312735",
     "geom:latitude":46.312735,
     "geom:longitude":-114.120871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 Woodside Cutoff Rd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185932011,
-    "wof:lastmodified":1449007201,
+    "wof:lastmodified":1466641788,
     "wof:name":"Log Truss Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-114.120871,46.312735,-114.120871,46.312735],
-  "geometry": {"coordinates":[-114.120871,46.312735],"type":"Point"}
+  "bbox": [
+    -114.120871,
+    46.312735,
+    -114.120871,
+    46.312735
+],
+  "geometry": {"coordinates":[-114.12087099999999,46.312735],"type":"Point"}
 }

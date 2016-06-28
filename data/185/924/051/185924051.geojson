@@ -2,13 +2,14 @@
   "id": 185924051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.155305,46.276614,-114.155305,46.276614",
     "geom:latitude":46.276614,
     "geom:longitude":-114.155305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Old Corvallis Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185924051,
-    "wof:lastmodified":1449007052,
+    "wof:lastmodified":1466641787,
     "wof:name":"A To Z Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-114.155305,46.276614,-114.155305,46.276614],
+  "bbox": [
+    -114.155305,
+    46.276614,
+    -114.155305,
+    46.276614
+],
   "geometry": {"coordinates":[-114.155305,46.276614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169720339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.473876,45.835916,-108.473876,45.835916",
     "geom:latitude":45.835916,
     "geom:longitude":-108.473876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Roxy Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169720339,
-    "wof:lastmodified":1449033482,
+    "wof:lastmodified":1466641730,
     "wof:name":"Big Sky Irrigation Inc",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "utility"
     ]
 },
-  "bbox": [-108.473876,45.835916,-108.473876,45.835916],
+  "bbox": [
+    -108.473876,
+    45.835916,
+    -108.473876,
+    45.835916
+],
   "geometry": {"coordinates":[-108.473876,45.835916],"type":"Point"}
 }

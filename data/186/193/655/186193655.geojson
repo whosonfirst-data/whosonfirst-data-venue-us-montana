@@ -2,13 +2,14 @@
   "id": 186193655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.044656,46.854226,-114.044656,46.854226",
     "geom:latitude":46.854226,
     "geom:longitude":-114.044656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 27th Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186193655,
-    "wof:lastmodified":1449050848,
+    "wof:lastmodified":1466642248,
     "wof:name":"Certech",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "computer"
     ]
 },
-  "bbox": [-114.044656,46.854226,-114.044656,46.854226],
+  "bbox": [
+    -114.044656,
+    46.854226,
+    -114.044656,
+    46.854226
+],
   "geometry": {"coordinates":[-114.044656,46.854226],"type":"Point"}
 }

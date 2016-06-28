@@ -2,13 +2,14 @@
   "id": 186291527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.342672,45.952234,-108.342672,45.952234",
     "geom:latitude":45.952234,
     "geom:longitude":-108.342672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5731 Creekview Dr",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186291527,
-    "wof:lastmodified":1449051204,
+    "wof:lastmodified":1466642398,
     "wof:name":"Windows Of The World",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drapery"
     ]
 },
-  "bbox": [-108.342672,45.952234,-108.342672,45.952234],
-  "geometry": {"coordinates":[-108.342672,45.952234],"type":"Point"}
+  "bbox": [
+    -108.342672,
+    45.952234,
+    -108.342672,
+    45.952234
+],
+  "geometry": {"coordinates":[-108.34267199999999,45.952234],"type":"Point"}
 }

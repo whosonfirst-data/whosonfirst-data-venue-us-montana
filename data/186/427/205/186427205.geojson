@@ -2,13 +2,14 @@
   "id": 186427205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.551136,48.392811,-115.551136,48.392811",
     "geom:latitude":48.392811,
     "geom:longitude":-115.551136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Mineral Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186427205,
-    "wof:lastmodified":1449051187,
+    "wof:lastmodified":1466642917,
     "wof:name":"Classy Escape Family Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.551136,48.392811,-115.551136,48.392811],
+  "bbox": [
+    -115.551136,
+    48.392811,
+    -115.551136,
+    48.392811
+],
   "geometry": {"coordinates":[-115.551136,48.392811],"type":"Point"}
 }

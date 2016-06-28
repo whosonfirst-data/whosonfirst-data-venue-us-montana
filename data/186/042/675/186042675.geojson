@@ -2,13 +2,14 @@
   "id": 186042675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.182693,46.38884,-114.182693,46.38884",
     "geom:latitude":46.38884,
     "geom:longitude":-114.182693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Wells Ln",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186042675,
-    "wof:lastmodified":1449052362,
+    "wof:lastmodified":1466641996,
     "wof:name":"R & W Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.182693,46.38884,-114.182693,46.38884],
+  "bbox": [
+    -114.182693,
+    46.38884,
+    -114.182693,
+    46.38884
+],
   "geometry": {"coordinates":[-114.182693,46.38884],"type":"Point"}
 }

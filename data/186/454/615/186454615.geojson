@@ -2,13 +2,14 @@
   "id": 186454615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.489486,45.836369,-108.489486,45.836369",
     "geom:latitude":45.836369,
     "geom:longitude":-108.489486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 Ridgeview Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186454615,
-    "wof:lastmodified":1449052768,
+    "wof:lastmodified":1466643027,
     "wof:name":"Colton Tower Consultants",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tower"
     ]
 },
-  "bbox": [-108.489486,45.836369,-108.489486,45.836369],
+  "bbox": [
+    -108.489486,
+    45.836369,
+    -108.489486,
+    45.836369
+],
   "geometry": {"coordinates":[-108.489486,45.836369],"type":"Point"}
 }

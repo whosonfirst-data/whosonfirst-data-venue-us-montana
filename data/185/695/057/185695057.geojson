@@ -2,13 +2,14 @@
   "id": 185695057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.429483,47.062002,-109.429483,47.062002",
     "geom:latitude":47.062002,
     "geom:longitude":-109.429483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 W Janeaux St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185695057,
-    "wof:lastmodified":1449007212,
+    "wof:lastmodified":1466641771,
     "wof:name":"Payless Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.429483,47.062002,-109.429483,47.062002],
+  "bbox": [
+    -109.429483,
+    47.062002,
+    -109.429483,
+    47.062002
+],
   "geometry": {"coordinates":[-109.429483,47.062002],"type":"Point"}
 }

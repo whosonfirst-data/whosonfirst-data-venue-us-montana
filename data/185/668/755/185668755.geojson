@@ -2,13 +2,14 @@
   "id": 185668755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.227592,45.941545,-108.227592,45.941545",
     "geom:latitude":45.941545,
     "geom:longitude":-108.227592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2180 N 9th Rd",
     "sg:city":"Worden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185668755,
-    "wof:lastmodified":1449007715,
+    "wof:lastmodified":1466641393,
     "wof:name":"TLC Boarding Stable",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.227592,45.941545,-108.227592,45.941545],
+  "bbox": [
+    -108.227592,
+    45.941545,
+    -108.227592,
+    45.941545
+],
   "geometry": {"coordinates":[-108.227592,45.941545],"type":"Point"}
 }

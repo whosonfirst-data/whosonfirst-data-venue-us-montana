@@ -2,13 +2,14 @@
   "id": 169811797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.255797,47.494037,-111.255797,47.494037",
     "geom:latitude":47.494037,
     "geom:longitude":-111.255797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2912 10th Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169811797,
-    "wof:lastmodified":1449034273,
+    "wof:lastmodified":1466641281,
     "wof:name":"Best of Montana Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.255797,47.494037,-111.255797,47.494037],
+  "bbox": [
+    -111.255797,
+    47.494037,
+    -111.255797,
+    47.494037
+],
   "geometry": {"coordinates":[-111.255797,47.494037],"type":"Point"}
 }

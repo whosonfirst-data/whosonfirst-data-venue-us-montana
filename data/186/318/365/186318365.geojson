@@ -2,13 +2,14 @@
   "id": 186318365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.53403,45.998337,-112.53403,45.998337",
     "geom:latitude":45.998337,
     "geom:longitude":-112.53403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 W Front St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186318365,
-    "wof:lastmodified":1449050985,
+    "wof:lastmodified":1466642649,
     "wof:name":"City County Home Health Agency",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-112.53403,45.998337,-112.53403,45.998337],
+  "bbox": [
+    -112.53403,
+    45.998337,
+    -112.53403,
+    45.998337
+],
   "geometry": {"coordinates":[-112.53403,45.998337],"type":"Point"}
 }

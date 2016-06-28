@@ -2,13 +2,14 @@
   "id": 185786675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.508186,45.795597,-108.508186,45.795597",
     "geom:latitude":45.795597,
     "geom:longitude":-108.508186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 N 22nd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185786675,
-    "wof:lastmodified":1449006814,
+    "wof:lastmodified":1466641519,
     "wof:name":"Western Paintings",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-108.508186,45.795597,-108.508186,45.795597],
-  "geometry": {"coordinates":[-108.508186,45.795597],"type":"Point"}
+  "bbox": [
+    -108.508186,
+    45.795597,
+    -108.508186,
+    45.795597
+],
+  "geometry": {"coordinates":[-108.50818599999999,45.795597],"type":"Point"}
 }

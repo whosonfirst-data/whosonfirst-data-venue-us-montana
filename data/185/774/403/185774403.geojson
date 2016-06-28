@@ -2,13 +2,14 @@
   "id": 185774403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.256072,47.494039,-111.256072,47.494039",
     "geom:latitude":47.494039,
     "geom:longitude":-111.256072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2926 10th Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185774403,
-    "wof:lastmodified":1449007247,
+    "wof:lastmodified":1466641504,
     "wof:name":"Sherlocks Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tobacco"
     ]
 },
-  "bbox": [-111.256072,47.494039,-111.256072,47.494039],
+  "bbox": [
+    -111.256072,
+    47.494039,
+    -111.256072,
+    47.494039
+],
   "geometry": {"coordinates":[-111.256072,47.494039],"type":"Point"}
 }

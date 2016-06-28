@@ -2,13 +2,14 @@
   "id": 186112523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.58962,45.757003,-108.58962,45.757003",
     "geom:latitude":45.757003,
     "geom:longitude":-108.58962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2923 Rosebud Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186112523,
-    "wof:lastmodified":1449051608,
+    "wof:lastmodified":1466641872,
     "wof:name":"Yellowstone Services & Fences",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-108.58962,45.757003,-108.58962,45.757003],
+  "bbox": [
+    -108.58962,
+    45.757003,
+    -108.58962,
+    45.757003
+],
   "geometry": {"coordinates":[-108.58962,45.757003],"type":"Point"}
 }

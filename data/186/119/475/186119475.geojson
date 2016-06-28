@@ -2,13 +2,14 @@
   "id": 186119475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.545159,45.77062,-108.545159,45.77062",
     "geom:latitude":45.77062,
     "geom:longitude":-108.545159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 Lynn Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186119475,
-    "wof:lastmodified":1449052277,
+    "wof:lastmodified":1466642226,
     "wof:name":"Goldhammer Handyman Servi",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.545159,45.77062,-108.545159,45.77062],
+  "bbox": [
+    -108.545159,
+    45.77062,
+    -108.545159,
+    45.77062
+],
   "geometry": {"coordinates":[-108.545159,45.77062],"type":"Point"}
 }

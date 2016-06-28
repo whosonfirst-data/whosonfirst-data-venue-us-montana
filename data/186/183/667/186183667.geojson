@@ -2,13 +2,14 @@
   "id": 186183667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.424852,47.066291,-109.424852,47.066291",
     "geom:latitude":47.066291,
     "geom:longitude":-109.424852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 W Main St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186183667,
-    "wof:lastmodified":1449051821,
+    "wof:lastmodified":1466642396,
     "wof:name":"Wier Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "covering"
     ]
 },
-  "bbox": [-109.424852,47.066291,-109.424852,47.066291],
+  "bbox": [
+    -109.424852,
+    47.066291,
+    -109.424852,
+    47.066291
+],
   "geometry": {"coordinates":[-109.424852,47.066291],"type":"Point"}
 }

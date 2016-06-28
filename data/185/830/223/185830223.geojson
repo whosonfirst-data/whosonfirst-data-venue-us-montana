@@ -2,13 +2,14 @@
   "id": 185830223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.632879,45.239953,-112.632879,45.239953",
     "geom:latitude":45.239953,
     "geom:longitude":-112.632879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 State Hwy 91 N",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185830223,
-    "wof:lastmodified":1449006956,
+    "wof:lastmodified":1466641561,
     "wof:name":"L S Ready-Mix Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-112.632879,45.239953,-112.632879,45.239953],
+  "bbox": [
+    -112.632879,
+    45.239953,
+    -112.632879,
+    45.239953
+],
   "geometry": {"coordinates":[-112.632879,45.239953],"type":"Point"}
 }

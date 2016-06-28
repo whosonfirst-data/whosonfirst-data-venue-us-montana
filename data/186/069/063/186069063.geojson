@@ -2,13 +2,14 @@
   "id": 186069063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.542309,45.768152,-108.542309,45.768152",
     "geom:latitude":45.768152,
     "geom:longitude":-108.542309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186069063,
-    "wof:lastmodified":1449052062,
+    "wof:lastmodified":1466641856,
     "wof:name":"Total Control",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-108.542309,45.768152,-108.542309,45.768152],
+  "bbox": [
+    -108.542309,
+    45.768152,
+    -108.542309,
+    45.768152
+],
   "geometry": {"coordinates":[-108.542309,45.768152],"type":"Point"}
 }

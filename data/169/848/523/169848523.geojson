@@ -2,13 +2,14 @@
   "id": 169848523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.092985,47.524974,-114.092985,47.524974",
     "geom:latitude":47.524974,
     "geom:longitude":-114.092985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 3rd Ave SE",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169848523,
-    "wof:lastmodified":1449033153,
+    "wof:lastmodified":1466641329,
     "wof:name":"Country Blacksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-114.092985,47.524974,-114.092985,47.524974],
+  "bbox": [
+    -114.092985,
+    47.524974,
+    -114.092985,
+    47.524974
+],
   "geometry": {"coordinates":[-114.092985,47.524974],"type":"Point"}
 }

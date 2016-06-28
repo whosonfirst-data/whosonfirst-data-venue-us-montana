@@ -2,13 +2,14 @@
   "id": 186093667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.983789,45.665274,-110.983789,45.665274",
     "geom:latitude":45.665274,
     "geom:longitude":-110.983789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 Bluebird Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186093667,
-    "wof:lastmodified":1449050259,
+    "wof:lastmodified":1466641953,
     "wof:name":"Eremite Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.983789,45.665274,-110.983789,45.665274],
+  "bbox": [
+    -110.983789,
+    45.665274,
+    -110.983789,
+    45.665274
+],
   "geometry": {"coordinates":[-110.983789,45.665274],"type":"Point"}
 }

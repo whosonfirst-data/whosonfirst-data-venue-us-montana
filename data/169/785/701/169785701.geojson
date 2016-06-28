@@ -2,13 +2,14 @@
   "id": 169785701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.554028,48.388665,-115.554028,48.388665",
     "geom:latitude":48.388665,
     "geom:longitude":-115.554028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Mineral Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169785701,
-    "wof:lastmodified":1449035398,
+    "wof:lastmodified":1466641246,
     "wof:name":"Evergeen Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-115.554028,48.388665,-115.554028,48.388665],
+  "bbox": [
+    -115.554028,
+    48.388665,
+    -115.554028,
+    48.388665
+],
   "geometry": {"coordinates":[-115.554028,48.388665],"type":"Point"}
 }

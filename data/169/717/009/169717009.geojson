@@ -2,13 +2,14 @@
   "id": 169717009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.506751,45.827191,-108.506751,45.827191",
     "geom:latitude":45.827191,
     "geom:longitude":-108.506751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Governors Blvd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169717009,
-    "wof:lastmodified":1449032776,
+    "wof:lastmodified":1466641726,
     "wof:name":"Marion-Nancy Trendsetters",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-108.506751,45.827191,-108.506751,45.827191],
-  "geometry": {"coordinates":[-108.506751,45.827191],"type":"Point"}
+  "bbox": [
+    -108.506751,
+    45.827191,
+    -108.506751,
+    45.827191
+],
+  "geometry": {"coordinates":[-108.50675099999999,45.827191],"type":"Point"}
 }

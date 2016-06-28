@@ -2,13 +2,14 @@
   "id": 185936845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.157579,46.251018,-114.157579,46.251018",
     "geom:latitude":46.251018,
     "geom:longitude":-114.157579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N 2nd St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185936845,
-    "wof:lastmodified":1449007133,
+    "wof:lastmodified":1466641694,
     "wof:name":"Bitterroot Glass Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-114.157579,46.251018,-114.157579,46.251018],
+  "bbox": [
+    -114.157579,
+    46.251018,
+    -114.157579,
+    46.251018
+],
   "geometry": {"coordinates":[-114.157579,46.251018],"type":"Point"}
 }

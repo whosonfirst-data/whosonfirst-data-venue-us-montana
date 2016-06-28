@@ -2,13 +2,14 @@
   "id": 186429701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.02042,45.760563,-111.02042,45.760563",
     "geom:latitude":45.760563,
     "geom:longitude":-111.02042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4750 Jordan Spur Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186429701,
-    "wof:lastmodified":1449052895,
+    "wof:lastmodified":1466642937,
     "wof:name":"Botanica Fine Art & Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.02042,45.760563,-111.02042,45.760563],
+  "bbox": [
+    -111.02042,
+    45.760563,
+    -111.02042,
+    45.760563
+],
   "geometry": {"coordinates":[-111.02042,45.760563],"type":"Point"}
 }

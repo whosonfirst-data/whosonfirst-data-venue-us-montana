@@ -2,13 +2,14 @@
   "id": 186007341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.095196,46.510096,-114.095196,46.510096",
     "geom:latitude":46.510096,
     "geom:longitude":-114.095196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 W 3rd St",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186007341,
-    "wof:lastmodified":1449052551,
+    "wof:lastmodified":1466641260,
     "wof:name":"Mwb Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.095196,46.510096,-114.095196,46.510096],
+  "bbox": [
+    -114.095196,
+    46.510096,
+    -114.095196,
+    46.510096
+],
   "geometry": {"coordinates":[-114.095196,46.510096],"type":"Point"}
 }

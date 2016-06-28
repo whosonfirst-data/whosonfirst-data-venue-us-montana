@@ -2,13 +2,14 @@
   "id": 185733201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.154548,46.239424,-114.154548,46.239424",
     "geom:latitude":46.239424,
     "geom:longitude":-114.154548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 S 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185733201,
-    "wof:lastmodified":1449006827,
+    "wof:lastmodified":1466641452,
     "wof:name":"Dogs R Us",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-114.154548,46.239424,-114.154548,46.239424],
-  "geometry": {"coordinates":[-114.154548,46.239424],"type":"Point"}
+  "bbox": [
+    -114.154548,
+    46.239424,
+    -114.154548,
+    46.239424
+],
+  "geometry": {"coordinates":[-114.15454800000001,46.239424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169839589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.703819,47.118648,-104.703819,47.118648",
     "geom:latitude":47.118648,
     "geom:longitude":-104.703819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Dilworth St",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169839589,
-    "wof:lastmodified":1449034665,
+    "wof:lastmodified":1466641313,
     "wof:name":"Glendive Mgnetical Ctr HM Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "care"
     ]
 },
-  "bbox": [-104.703819,47.118648,-104.703819,47.118648],
+  "bbox": [
+    -104.703819,
+    47.118648,
+    -104.703819,
+    47.118648
+],
   "geometry": {"coordinates":[-104.703819,47.118648],"type":"Point"}
 }

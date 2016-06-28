@@ -2,13 +2,14 @@
   "id": 185636255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.963698,46.631299,-111.963698,46.631299",
     "geom:latitude":46.631299,
     "geom:longitude":-111.963698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2470 York Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185636255,
-    "wof:lastmodified":1449007256,
+    "wof:lastmodified":1466641338,
     "wof:name":"Anders Family Trust Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "management"
     ]
 },
-  "bbox": [-111.963698,46.631299,-111.963698,46.631299],
-  "geometry": {"coordinates":[-111.963698,46.631299],"type":"Point"}
+  "bbox": [
+    -111.963698,
+    46.631299,
+    -111.963698,
+    46.631299
+],
+  "geometry": {"coordinates":[-111.96369799999999,46.631299],"type":"Point"}
 }

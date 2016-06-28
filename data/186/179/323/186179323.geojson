@@ -2,13 +2,14 @@
   "id": 186179323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.078304,46.822734,-114.078304,46.822734",
     "geom:latitude":46.822734,
     "geom:longitude":-114.078304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5145 US Hwy 93",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186179323,
-    "wof:lastmodified":1449052743,
+    "wof:lastmodified":1466642172,
     "wof:name":"93 Mini Storage",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-114.078304,46.822734,-114.078304,46.822734],
+  "bbox": [
+    -114.078304,
+    46.822734,
+    -114.078304,
+    46.822734
+],
   "geometry": {"coordinates":[-114.078304,46.822734],"type":"Point"}
 }

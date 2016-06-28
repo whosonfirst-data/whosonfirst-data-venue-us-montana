@@ -2,13 +2,14 @@
   "id": 186126959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.518531,45.757027,-108.518531,45.757027",
     "geom:latitude":45.757027,
     "geom:longitude":-108.518531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 Murphy Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186126959,
-    "wof:lastmodified":1449051374,
+    "wof:lastmodified":1466642238,
     "wof:name":"Mutt & Jeff's Mobile Computer",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-108.518531,45.757027,-108.518531,45.757027],
+  "bbox": [
+    -108.518531,
+    45.757027,
+    -108.518531,
+    45.757027
+],
   "geometry": {"coordinates":[-108.518531,45.757027],"type":"Point"}
 }

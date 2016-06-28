@@ -2,13 +2,14 @@
   "id": 185846053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.684636,48.554063,-109.684636,48.554063",
     "geom:latitude":48.554063,
     "geom:longitude":-109.684636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 1st St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185846053,
-    "wof:lastmodified":1449007873,
+    "wof:lastmodified":1466641782,
     "wof:name":"Checker Auto Parts 1684",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.684636,48.554063,-109.684636,48.554063],
+  "bbox": [
+    -109.684636,
+    48.554063,
+    -109.684636,
+    48.554063
+],
   "geometry": {"coordinates":[-109.684636,48.554063],"type":"Point"}
 }

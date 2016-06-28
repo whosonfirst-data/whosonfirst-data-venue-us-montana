@@ -2,13 +2,14 @@
   "id": 186073919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.285281,46.566625,-113.285281,46.566625",
     "geom:latitude":46.566625,
     "geom:longitude":-113.285281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Lower Willow Creek Rd",
     "sg:city":"Hall",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186073919,
-    "wof:lastmodified":1449050724,
+    "wof:lastmodified":1466641875,
     "wof:name":"Hall Sand & Gravel LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "rock"
     ]
 },
-  "bbox": [-113.285281,46.566625,-113.285281,46.566625],
+  "bbox": [
+    -113.285281,
+    46.566625,
+    -113.285281,
+    46.566625
+],
   "geometry": {"coordinates":[-113.285281,46.566625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185704275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.513605,45.780941,-108.513605,45.780941",
     "geom:latitude":45.780941,
     "geom:longitude":-108.513605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3203 3rd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185704275,
-    "wof:lastmodified":1449007026,
+    "wof:lastmodified":1466641423,
     "wof:name":"Premier Home Packages",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-108.513605,45.780941,-108.513605,45.780941],
+  "bbox": [
+    -108.513605,
+    45.780941,
+    -108.513605,
+    45.780941
+],
   "geometry": {"coordinates":[-108.513605,45.780941],"type":"Point"}
 }

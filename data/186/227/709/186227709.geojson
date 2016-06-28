@@ -2,13 +2,14 @@
   "id": 186227709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.510997,45.789458,-108.510997,45.789458",
     "geom:latitude":45.789458,
     "geom:longitude":-108.510997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 N 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186227709,
-    "wof:lastmodified":1449050981,
+    "wof:lastmodified":1466642406,
     "wof:name":"Jim Caldwell Photgrapher",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-108.510997,45.789458,-108.510997,45.789458],
+  "bbox": [
+    -108.510997,
+    45.789458,
+    -108.510997,
+    45.789458
+],
   "geometry": {"coordinates":[-108.510997,45.789458],"type":"Point"}
 }

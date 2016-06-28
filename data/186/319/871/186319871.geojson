@@ -2,13 +2,14 @@
   "id": 186319871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.993788,46.57895,-111.993788,46.57895",
     "geom:latitude":46.57895,
     "geom:longitude":-111.993788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Saddle Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186319871,
-    "wof:lastmodified":1449051468,
+    "wof:lastmodified":1466642659,
     "wof:name":"Donna Hale Lcsw Acsw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.993788,46.57895,-111.993788,46.57895],
+  "bbox": [
+    -111.993788,
+    46.57895,
+    -111.993788,
+    46.57895
+],
   "geometry": {"coordinates":[-111.993788,46.57895],"type":"Point"}
 }

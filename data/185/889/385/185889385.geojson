@@ -2,13 +2,14 @@
   "id": 185889385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.695013,48.555001,-109.695013,48.555001",
     "geom:latitude":48.555001,
     "geom:longitude":-109.695013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"658 1st St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185889385,
-    "wof:lastmodified":1449006575,
+    "wof:lastmodified":1466641624,
     "wof:name":"Andys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-109.695013,48.555001,-109.695013,48.555001],
+  "bbox": [
+    -109.695013,
+    48.555001,
+    -109.695013,
+    48.555001
+],
   "geometry": {"coordinates":[-109.695013,48.555001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186151539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.249042,48.254772,-114.249042,48.254772",
     "geom:latitude":48.254772,
     "geom:longitude":-114.249042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Addison Sq",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186151539,
-    "wof:lastmodified":1449050282,
+    "wof:lastmodified":1466642277,
     "wof:name":"Vortech Mfg Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "aluminum"
     ]
 },
-  "bbox": [-114.249042,48.254772,-114.249042,48.254772],
+  "bbox": [
+    -114.249042,
+    48.254772,
+    -114.249042,
+    48.254772
+],
   "geometry": {"coordinates":[-114.249042,48.254772],"type":"Point"}
 }

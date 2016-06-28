@@ -2,13 +2,14 @@
   "id": 185918367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.13904,46.298504,-114.13904,46.298504",
     "geom:latitude":46.298504,
     "geom:longitude":-114.13904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Old Corvallis Rd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185918367,
-    "wof:lastmodified":1449007680,
+    "wof:lastmodified":1466641662,
     "wof:name":"River Bottom Beef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-114.13904,46.298504,-114.13904,46.298504],
-  "geometry": {"coordinates":[-114.13904,46.298504],"type":"Point"}
+  "bbox": [
+    -114.13904,
+    46.298504,
+    -114.13904,
+    46.298504
+],
+  "geometry": {"coordinates":[-114.13903999999999,46.298504],"type":"Point"}
 }

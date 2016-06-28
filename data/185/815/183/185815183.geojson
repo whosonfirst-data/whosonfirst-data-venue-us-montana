@@ -2,13 +2,14 @@
   "id": 185815183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.297574,48.22645,-114.297574,48.22645",
     "geom:latitude":48.22645,
     "geom:longitude":-114.297574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 E Nicklaus Ave",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185815183,
-    "wof:lastmodified":1449007405,
+    "wof:lastmodified":1466641542,
     "wof:name":"Ramsey W Vaughn",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.297574,48.22645,-114.297574,48.22645],
+  "bbox": [
+    -114.297574,
+    48.22645,
+    -114.297574,
+    48.22645
+],
   "geometry": {"coordinates":[-114.297574,48.22645],"type":"Point"}
 }

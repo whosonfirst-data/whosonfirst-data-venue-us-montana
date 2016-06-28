@@ -2,13 +2,14 @@
   "id": 185648599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.981738,47.614528,-111.981738,47.614528",
     "geom:latitude":47.614528,
     "geom:longitude":-111.981738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Central Ave",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185648599,
-    "wof:lastmodified":1449007048,
+    "wof:lastmodified":1466641368,
     "wof:name":"Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.981738,47.614528,-111.981738,47.614528],
-  "geometry": {"coordinates":[-111.981738,47.614528],"type":"Point"}
+  "bbox": [
+    -111.981738,
+    47.614528,
+    -111.981738,
+    47.614528
+],
+  "geometry": {"coordinates":[-111.98173800000001,47.614528],"type":"Point"}
 }

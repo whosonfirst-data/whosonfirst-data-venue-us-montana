@@ -2,13 +2,14 @@
   "id": 186022231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036942,46.646811,-112.036942,46.646811",
     "geom:latitude":46.646811,
     "geom:longitude":-112.036942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Stadler Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186022231,
-    "wof:lastmodified":1449051283,
+    "wof:lastmodified":1466641486,
     "wof:name":"Pear Produce Greenhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ornamental"
     ]
 },
-  "bbox": [-112.036942,46.646811,-112.036942,46.646811],
+  "bbox": [
+    -112.036942,
+    46.646811,
+    -112.036942,
+    46.646811
+],
   "geometry": {"coordinates":[-112.036942,46.646811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186172197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01439,46.637117,-112.01439,46.637117",
     "geom:latitude":46.637117,
     "geom:longitude":-112.01439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4509 Prairie Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186172197,
-    "wof:lastmodified":1449051454,
+    "wof:lastmodified":1466642379,
     "wof:name":"Lawn-Pro-Tree Spraying & Insct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-112.01439,46.637117,-112.01439,46.637117],
-  "geometry": {"coordinates":[-112.01439,46.637117],"type":"Point"}
+  "bbox": [
+    -112.01439,
+    46.637117,
+    -112.01439,
+    46.637117
+],
+  "geometry": {"coordinates":[-112.01439000000001,46.637117],"type":"Point"}
 }

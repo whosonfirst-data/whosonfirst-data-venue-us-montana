@@ -2,13 +2,14 @@
   "id": 186350503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.006886,46.829868,-114.006886,46.829868",
     "geom:latitude":46.829868,
     "geom:longitude":-114.006886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Rimrock Way",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186350503,
-    "wof:lastmodified":1449051737,
+    "wof:lastmodified":1466642718,
     "wof:name":"Bee Alert Technology Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-114.006886,46.829868,-114.006886,46.829868],
-  "geometry": {"coordinates":[-114.006886,46.829868],"type":"Point"}
+  "bbox": [
+    -114.006886,
+    46.829868,
+    -114.006886,
+    46.829868
+],
+  "geometry": {"coordinates":[-114.00688599999999,46.829868],"type":"Point"}
 }

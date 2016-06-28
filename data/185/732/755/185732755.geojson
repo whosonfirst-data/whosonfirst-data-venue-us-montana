@@ -2,13 +2,14 @@
   "id": 185732755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.06619,46.819885,-114.06619,46.819885",
     "geom:latitude":46.819885,
     "geom:longitude":-114.06619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 Lower Miller Creek Rd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185732755,
-    "wof:lastmodified":1449008275,
+    "wof:lastmodified":1466641457,
     "wof:name":"BR Steel Fabrication LLC",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabrication"
     ]
 },
-  "bbox": [-114.06619,46.819885,-114.06619,46.819885],
-  "geometry": {"coordinates":[-114.06619,46.819885],"type":"Point"}
+  "bbox": [
+    -114.06619,
+    46.819885,
+    -114.06619,
+    46.819885
+],
+  "geometry": {"coordinates":[-114.06619000000001,46.819885],"type":"Point"}
 }

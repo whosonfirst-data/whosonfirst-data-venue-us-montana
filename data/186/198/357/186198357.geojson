@@ -2,13 +2,14 @@
   "id": 186198357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.637618,45.216292,-112.637618,45.216292",
     "geom:latitude":45.216292,
     "geom:longitude":-112.637618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Idaho St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186198357,
-    "wof:lastmodified":1449051362,
+    "wof:lastmodified":1466642266,
     "wof:name":"Dillon City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-112.637618,45.216292,-112.637618,45.216292],
+  "bbox": [
+    -112.637618,
+    45.216292,
+    -112.637618,
+    45.216292
+],
   "geometry": {"coordinates":[-112.637618,45.216292],"type":"Point"}
 }

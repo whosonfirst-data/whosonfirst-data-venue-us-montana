@@ -2,13 +2,14 @@
   "id": 186241053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.203136,48.220126,-114.203136,48.220126",
     "geom:latitude":48.220126,
     "geom:longitude":-114.203136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2598 State Hwy 35",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186241053,
-    "wof:lastmodified":1449052967,
+    "wof:lastmodified":1466642673,
     "wof:name":"Parker Bronze Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-114.203136,48.220126,-114.203136,48.220126],
+  "bbox": [
+    -114.203136,
+    48.220126,
+    -114.203136,
+    48.220126
+],
   "geometry": {"coordinates":[-114.203136,48.220126],"type":"Point"}
 }

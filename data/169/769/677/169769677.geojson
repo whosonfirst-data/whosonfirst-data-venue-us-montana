@@ -2,13 +2,14 @@
   "id": 169769677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.445737,45.799489,-108.445737,45.799489",
     "geom:latitude":45.799489,
     "geom:longitude":-108.445737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 Old Hardin Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169769677,
-    "wof:lastmodified":1449033785,
+    "wof:lastmodified":1466641221,
     "wof:name":"Standard Part of Montana",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-108.445737,45.799489,-108.445737,45.799489],
-  "geometry": {"coordinates":[-108.445737,45.799489],"type":"Point"}
+  "bbox": [
+    -108.445737,
+    45.799489,
+    -108.445737,
+    45.799489
+],
+  "geometry": {"coordinates":[-108.44573699999999,45.799489],"type":"Point"}
 }

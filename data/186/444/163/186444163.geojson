@@ -2,13 +2,14 @@
   "id": 186444163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036766,46.585704,-112.036766,46.585704",
     "geom:latitude":46.585704,
     "geom:longitude":-112.036766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 E Broadway St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186444163,
-    "wof:lastmodified":1449052652,
+    "wof:lastmodified":1466642986,
     "wof:name":"Lewis & Clark Justice Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-112.036766,46.585704,-112.036766,46.585704],
+  "bbox": [
+    -112.036766,
+    46.585704,
+    -112.036766,
+    46.585704
+],
   "geometry": {"coordinates":[-112.036766,46.585704],"type":"Point"}
 }

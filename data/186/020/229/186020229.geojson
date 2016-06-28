@@ -2,13 +2,14 @@
   "id": 186020229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.417193,48.266673,-114.417193,48.266673",
     "geom:latitude":48.266673,
     "geom:longitude":-114.417193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2995 Farm To Market Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186020229,
-    "wof:lastmodified":1449051632,
+    "wof:lastmodified":1466641455,
     "wof:name":"Aura Dynamic Systems",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "install"
     ]
 },
-  "bbox": [-114.417193,48.266673,-114.417193,48.266673],
+  "bbox": [
+    -114.417193,
+    48.266673,
+    -114.417193,
+    48.266673
+],
   "geometry": {"coordinates":[-114.417193,48.266673],"type":"Point"}
 }

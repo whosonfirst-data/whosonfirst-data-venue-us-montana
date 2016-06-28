@@ -2,13 +2,14 @@
   "id": 186398435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.827806,46.408292,-105.827806,46.408292",
     "geom:latitude":46.408292,
     "geom:longitude":-105.827806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2610 Main St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186398435,
-    "wof:lastmodified":1449050467,
+    "wof:lastmodified":1466642853,
     "wof:name":"Automated Bookkeeping Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.827806,46.408292,-105.827806,46.408292],
+  "bbox": [
+    -105.827806,
+    46.408292,
+    -105.827806,
+    46.408292
+],
   "geometry": {"coordinates":[-105.827806,46.408292],"type":"Point"}
 }

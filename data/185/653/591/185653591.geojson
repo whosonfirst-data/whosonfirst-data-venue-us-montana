@@ -2,13 +2,14 @@
   "id": 185653591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641454,48.208327,-106.641454,48.208327",
     "geom:latitude":48.208327,
     "geom:longitude":-106.641454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 US Hwy 2",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185653591,
-    "wof:lastmodified":1449006721,
+    "wof:lastmodified":1466641375,
     "wof:name":"VFW Fort Peck Post 3107",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.641454,48.208327,-106.641454,48.208327],
+  "bbox": [
+    -106.641454,
+    48.208327,
+    -106.641454,
+    48.208327
+],
   "geometry": {"coordinates":[-106.641454,48.208327],"type":"Point"}
 }

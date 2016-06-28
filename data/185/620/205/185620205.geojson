@@ -2,13 +2,14 @@
   "id": 185620205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.557813,45.780618,-108.557813,45.780618",
     "geom:latitude":45.780618,
     "geom:longitude":-108.557813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Lewis Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185620205,
-    "wof:lastmodified":1449008081,
+    "wof:lastmodified":1466641212,
     "wof:name":"Big B Bingo Corporate Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-108.557813,45.780618,-108.557813,45.780618],
+  "bbox": [
+    -108.557813,
+    45.780618,
+    -108.557813,
+    45.780618
+],
   "geometry": {"coordinates":[-108.557813,45.780618],"type":"Point"}
 }

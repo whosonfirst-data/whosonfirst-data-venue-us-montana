@@ -2,13 +2,14 @@
   "id": 186199945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.54434,45.725286,-108.54434,45.725286",
     "geom:latitude":45.725286,
     "geom:longitude":-108.54434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Jack St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186199945,
-    "wof:lastmodified":1449050518,
+    "wof:lastmodified":1466642277,
     "wof:name":"R&B Properties",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-108.54434,45.725286,-108.54434,45.725286],
-  "geometry": {"coordinates":[-108.54434,45.725286],"type":"Point"}
+  "bbox": [
+    -108.54434,
+    45.725286,
+    -108.54434,
+    45.725286
+],
+  "geometry": {"coordinates":[-108.54434000000001,45.725286],"type":"Point"}
 }

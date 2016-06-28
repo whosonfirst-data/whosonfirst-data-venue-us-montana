@@ -2,13 +2,14 @@
   "id": 186120489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.569266,45.790488,-108.569266,45.790488",
     "geom:latitude":45.790488,
     "geom:longitude":-108.569266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 Beverly Hill Blvd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186120489,
-    "wof:lastmodified":1449052630,
+    "wof:lastmodified":1466642064,
     "wof:name":"Buttes Petroleum Corporation",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "production"
     ]
 },
-  "bbox": [-108.569266,45.790488,-108.569266,45.790488],
+  "bbox": [
+    -108.569266,
+    45.790488,
+    -108.569266,
+    45.790488
+],
   "geometry": {"coordinates":[-108.569266,45.790488],"type":"Point"}
 }

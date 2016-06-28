@@ -2,13 +2,14 @@
   "id": 185941885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.19694,48.111891,-105.19694,48.111891",
     "geom:latitude":48.111891,
     "geom:longitude":-105.19694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 2nd Ave W",
     "sg:city":"Poplar",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185941885,
-    "wof:lastmodified":1449007570,
+    "wof:lastmodified":1466641697,
     "wof:name":"Shamrock Bar & Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.19694,48.111891,-105.19694,48.111891],
+  "bbox": [
+    -105.19694,
+    48.111891,
+    -105.19694,
+    48.111891
+],
   "geometry": {"coordinates":[-105.19694,48.111891],"type":"Point"}
 }

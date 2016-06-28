@@ -2,13 +2,14 @@
   "id": 186027853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.235181,48.584182,-109.235181,48.584182",
     "geom:latitude":48.584182,
     "geom:longitude":-109.235181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 New York St",
     "sg:city":"Chinook",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186027853,
-    "wof:lastmodified":1449050907,
+    "wof:lastmodified":1466641577,
     "wof:name":"John Pike Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.235181,48.584182,-109.235181,48.584182],
+  "bbox": [
+    -109.235181,
+    48.584182,
+    -109.235181,
+    48.584182
+],
   "geometry": {"coordinates":[-109.235181,48.584182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186023521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.037569,46.584486,-112.037569,46.584486",
     "geom:latitude":46.584486,
     "geom:longitude":-112.037569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 S Ewing St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186023521,
-    "wof:lastmodified":1449052759,
+    "wof:lastmodified":1466641506,
     "wof:name":"Intelligentfundingcom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-112.037569,46.584486,-112.037569,46.584486],
+  "bbox": [
+    -112.037569,
+    46.584486,
+    -112.037569,
+    46.584486
+],
   "geometry": {"coordinates":[-112.037569,46.584486],"type":"Point"}
 }

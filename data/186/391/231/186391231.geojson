@@ -2,13 +2,14 @@
   "id": 186391231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.98057,46.138745,-112.98057,46.138745",
     "geom:latitude":46.138745,
     "geom:longitude":-112.98057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 Ogden St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186391231,
-    "wof:lastmodified":1449052094,
+    "wof:lastmodified":1466642844,
     "wof:name":"Boyer Landscape Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-112.98057,46.138745,-112.98057,46.138745],
+  "bbox": [
+    -112.98057,
+    46.138745,
+    -112.98057,
+    46.138745
+],
   "geometry": {"coordinates":[-112.98057,46.138745],"type":"Point"}
 }

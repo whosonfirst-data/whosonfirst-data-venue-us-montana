@@ -2,13 +2,14 @@
   "id": 186262107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.157739,47.714118,-104.157739,47.714118",
     "geom:latitude":47.714118,
     "geom:longitude":-104.157739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 S Central Ave",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186262107,
-    "wof:lastmodified":1449052024,
+    "wof:lastmodified":1466642542,
     "wof:name":"Dura-Med Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-104.157739,47.714118,-104.157739,47.714118],
-  "geometry": {"coordinates":[-104.157739,47.714118],"type":"Point"}
+  "bbox": [
+    -104.157739,
+    47.714118,
+    -104.157739,
+    47.714118
+],
+  "geometry": {"coordinates":[-104.15773900000001,47.714118],"type":"Point"}
 }

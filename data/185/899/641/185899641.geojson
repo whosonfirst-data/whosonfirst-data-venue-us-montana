@@ -2,13 +2,14 @@
   "id": 185899641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.355257,47.516332,-111.355257,47.516332",
     "geom:latitude":47.516332,
     "geom:longitude":-111.355257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Vaughn Rd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185899641,
-    "wof:lastmodified":1449008117,
+    "wof:lastmodified":1466641642,
     "wof:name":"Motor Power Equipment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-111.355257,47.516332,-111.355257,47.516332],
-  "geometry": {"coordinates":[-111.355257,47.516332],"type":"Point"}
+  "bbox": [
+    -111.355257,
+    47.516332,
+    -111.355257,
+    47.516332
+],
+  "geometry": {"coordinates":[-111.35525699999999,47.516332],"type":"Point"}
 }

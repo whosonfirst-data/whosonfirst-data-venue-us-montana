@@ -2,13 +2,14 @@
   "id": 186255687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.166725,47.691348,-114.166725,47.691348",
     "geom:latitude":47.691348,
     "geom:longitude":-114.166725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 5th Ave W",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186255687,
-    "wof:lastmodified":1449051588,
+    "wof:lastmodified":1466642532,
     "wof:name":"Cals Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "petr"
     ]
 },
-  "bbox": [-114.166725,47.691348,-114.166725,47.691348],
+  "bbox": [
+    -114.166725,
+    47.691348,
+    -114.166725,
+    47.691348
+],
   "geometry": {"coordinates":[-114.166725,47.691348],"type":"Point"}
 }

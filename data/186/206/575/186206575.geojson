@@ -2,13 +2,14 @@
   "id": 186206575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.072849,48.060884,-114.072849,48.060884",
     "geom:latitude":48.060884,
     "geom:longitude":-114.072849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Bridge St",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186206575,
-    "wof:lastmodified":1449052196,
+    "wof:lastmodified":1466642560,
     "wof:name":"LA Provence Restaurant",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-114.072849,48.060884,-114.072849,48.060884],
-  "geometry": {"coordinates":[-114.072849,48.060884],"type":"Point"}
+  "bbox": [
+    -114.072849,
+    48.060884,
+    -114.072849,
+    48.060884
+],
+  "geometry": {"coordinates":[-114.07284900000001,48.060884],"type":"Point"}
 }

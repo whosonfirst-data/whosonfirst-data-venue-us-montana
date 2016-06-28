@@ -2,13 +2,14 @@
   "id": 185662909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.115488,47.609558,-114.115488,47.609558",
     "geom:latitude":47.609558,
     "geom:longitude":-114.115488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Greywolf Dr",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185662909,
-    "wof:lastmodified":1449007677,
+    "wof:lastmodified":1466641385,
     "wof:name":"Blixts Rail & Post Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-114.115488,47.609558,-114.115488,47.609558],
+  "bbox": [
+    -114.115488,
+    47.609558,
+    -114.115488,
+    47.609558
+],
   "geometry": {"coordinates":[-114.115488,47.609558],"type":"Point"}
 }

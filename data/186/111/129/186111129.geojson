@@ -2,13 +2,14 @@
   "id": 186111129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.540405,45.777117,-108.540405,45.777117",
     "geom:latitude":45.777117,
     "geom:longitude":-108.540405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 Broadwater Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186111129,
-    "wof:lastmodified":1449053107,
+    "wof:lastmodified":1466641853,
     "wof:name":"Gregory L Dorow DDS",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-108.540405,45.777117,-108.540405,45.777117],
-  "geometry": {"coordinates":[-108.540405,45.777117],"type":"Point"}
+  "bbox": [
+    -108.540405,
+    45.777117,
+    -108.540405,
+    45.777117
+],
+  "geometry": {"coordinates":[-108.54040500000001,45.777117],"type":"Point"}
 }

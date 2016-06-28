@@ -2,13 +2,14 @@
   "id": 186274105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.511723,45.972552,-112.511723,45.972552",
     "geom:latitude":45.972552,
     "geom:longitude":-112.511723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Longfellow St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186274105,
-    "wof:lastmodified":1449050595,
+    "wof:lastmodified":1466642565,
     "wof:name":"Stor-A-Way Of Butte Inc",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-112.511723,45.972552,-112.511723,45.972552],
+  "bbox": [
+    -112.511723,
+    45.972552,
+    -112.511723,
+    45.972552
+],
   "geometry": {"coordinates":[-112.511723,45.972552],"type":"Point"}
 }

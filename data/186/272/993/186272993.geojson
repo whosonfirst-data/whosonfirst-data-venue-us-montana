@@ -2,13 +2,14 @@
   "id": 186272993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.632745,48.195575,-106.632745,48.195575",
     "geom:latitude":48.195575,
     "geom:longitude":-106.632745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Klein Ave",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186272993,
-    "wof:lastmodified":1449052847,
+    "wof:lastmodified":1466642575,
     "wof:name":"Gordons Meat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocery"
     ]
 },
-  "bbox": [-106.632745,48.195575,-106.632745,48.195575],
+  "bbox": [
+    -106.632745,
+    48.195575,
+    -106.632745,
+    48.195575
+],
   "geometry": {"coordinates":[-106.632745,48.195575],"type":"Point"}
 }

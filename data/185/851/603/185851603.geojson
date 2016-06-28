@@ -2,13 +2,14 @@
   "id": 185851603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.174442,47.442759,-114.174442,47.442759",
     "geom:latitude":47.442759,
     "geom:longitude":-114.174442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3336 Morris Rd",
     "sg:city":"Charlo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185851603,
-    "wof:lastmodified":1449007661,
+    "wof:lastmodified":1466641587,
     "wof:name":"Double J Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.174442,47.442759,-114.174442,47.442759],
+  "bbox": [
+    -114.174442,
+    47.442759,
+    -114.174442,
+    47.442759
+],
   "geometry": {"coordinates":[-114.174442,47.442759],"type":"Point"}
 }

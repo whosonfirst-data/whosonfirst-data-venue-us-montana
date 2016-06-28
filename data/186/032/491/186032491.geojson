@@ -2,13 +2,14 @@
   "id": 186032491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.487373,45.985636,-112.487373,45.985636",
     "geom:latitude":45.985636,
     "geom:longitude":-112.487373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3213 Bayard St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186032491,
-    "wof:lastmodified":1449051688,
+    "wof:lastmodified":1466641787,
     "wof:name":"Atv Safety of Butte",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-112.487373,45.985636,-112.487373,45.985636],
-  "geometry": {"coordinates":[-112.487373,45.985636],"type":"Point"}
+  "bbox": [
+    -112.487373,
+    45.985636,
+    -112.487373,
+    45.985636
+],
+  "geometry": {"coordinates":[-112.48737300000001,45.985636],"type":"Point"}
 }

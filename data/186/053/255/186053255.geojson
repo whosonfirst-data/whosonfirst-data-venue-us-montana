@@ -2,13 +2,14 @@
   "id": 186053255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.037218,46.821848,-114.037218,46.821848",
     "geom:latitude":46.821848,
     "geom:longitude":-114.037218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 W Crescent Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186053255,
-    "wof:lastmodified":1449050910,
+    "wof:lastmodified":1466641821,
     "wof:name":"Logistics Boyd Brothers",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.037218,46.821848,-114.037218,46.821848],
+  "bbox": [
+    -114.037218,
+    46.821848,
+    -114.037218,
+    46.821848
+],
   "geometry": {"coordinates":[-114.037218,46.821848],"type":"Point"}
 }

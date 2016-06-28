@@ -2,13 +2,14 @@
   "id": 186089077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.550461,48.393731,-115.550461,48.393731",
     "geom:latitude":48.393731,
     "geom:longitude":-115.550461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Mineral Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186089077,
-    "wof:lastmodified":1449050947,
+    "wof:lastmodified":1466641772,
     "wof:name":"US Bioenergy Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gathering"
     ]
 },
-  "bbox": [-115.550461,48.393731,-115.550461,48.393731],
+  "bbox": [
+    -115.550461,
+    48.393731,
+    -115.550461,
+    48.393731
+],
   "geometry": {"coordinates":[-115.550461,48.393731],"type":"Point"}
 }

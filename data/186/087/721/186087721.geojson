@@ -2,13 +2,14 @@
   "id": 186087721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.660755,45.996087,-110.660755,45.996087",
     "geom:latitude":45.996087,
     "geom:longitude":-110.660755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Elliot St",
     "sg:city":"Wilsall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186087721,
-    "wof:lastmodified":1449051616,
+    "wof:lastmodified":1466642077,
     "wof:name":"Crazy Mountain Beauty Salon",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-110.660755,45.996087,-110.660755,45.996087],
-  "geometry": {"coordinates":[-110.660755,45.996087],"type":"Point"}
+  "bbox": [
+    -110.660755,
+    45.996087,
+    -110.660755,
+    45.996087
+],
+  "geometry": {"coordinates":[-110.66075499999999,45.996087],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185943369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.964519,48.513215,-110.964519,48.513215",
     "geom:latitude":48.513215,
     "geom:longitude":-110.964519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 1st St E",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185943369,
-    "wof:lastmodified":1449007038,
+    "wof:lastmodified":1466641694,
     "wof:name":"Liberty County Times Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "publishing"
     ]
 },
-  "bbox": [-110.964519,48.513215,-110.964519,48.513215],
+  "bbox": [
+    -110.964519,
+    48.513215,
+    -110.964519,
+    48.513215
+],
   "geometry": {"coordinates":[-110.964519,48.513215],"type":"Point"}
 }

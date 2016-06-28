@@ -2,13 +2,14 @@
   "id": 186290557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.770503,45.670466,-108.770503,45.670466",
     "geom:latitude":45.670466,
     "geom:longitude":-108.770503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Montana Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186290557,
-    "wof:lastmodified":1449051526,
+    "wof:lastmodified":1466642798,
     "wof:name":"First Citizens Bank",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "reserve"
     ]
 },
-  "bbox": [-108.770503,45.670466,-108.770503,45.670466],
-  "geometry": {"coordinates":[-108.770503,45.670466],"type":"Point"}
+  "bbox": [
+    -108.770503,
+    45.670466,
+    -108.770503,
+    45.670466
+],
+  "geometry": {"coordinates":[-108.77050300000001,45.670466],"type":"Point"}
 }

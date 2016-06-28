@@ -2,13 +2,14 @@
   "id": 186375031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036688,46.70435,-112.036688,46.70435",
     "geom:latitude":46.70435,
     "geom:longitude":-112.036688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 W Lincoln Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186375031,
-    "wof:lastmodified":1449050363,
+    "wof:lastmodified":1466642882,
     "wof:name":"American Plumbing and Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-112.036688,46.70435,-112.036688,46.70435],
+  "bbox": [
+    -112.036688,
+    46.70435,
+    -112.036688,
+    46.70435
+],
   "geometry": {"coordinates":[-112.036688,46.70435],"type":"Point"}
 }

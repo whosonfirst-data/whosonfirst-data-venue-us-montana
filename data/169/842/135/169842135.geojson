@@ -2,13 +2,14 @@
   "id": 169842135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.014664,46.84983,-114.014664,46.84983",
     "geom:latitude":46.84983,
     "geom:longitude":-114.014664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 W Sussex Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169842135,
-    "wof:lastmodified":1449032922,
+    "wof:lastmodified":1466641314,
     "wof:name":"Dotz Piano Tuning Sls Rentals",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "se"
     ]
 },
-  "bbox": [-114.014664,46.84983,-114.014664,46.84983],
+  "bbox": [
+    -114.014664,
+    46.84983,
+    -114.014664,
+    46.84983
+],
   "geometry": {"coordinates":[-114.014664,46.84983],"type":"Point"}
 }

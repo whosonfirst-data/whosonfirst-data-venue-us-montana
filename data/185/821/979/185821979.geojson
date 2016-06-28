@@ -2,13 +2,14 @@
   "id": 185821979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.513153,45.778446,-108.513153,45.778446",
     "geom:latitude":45.778446,
     "geom:longitude":-108.513153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 N 34th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185821979,
-    "wof:lastmodified":1449007488,
+    "wof:lastmodified":1466641561,
     "wof:name":"34th Street Spa",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "personal"
     ]
 },
-  "bbox": [-108.513153,45.778446,-108.513153,45.778446],
+  "bbox": [
+    -108.513153,
+    45.778446,
+    -108.513153,
+    45.778446
+],
   "geometry": {"coordinates":[-108.513153,45.778446],"type":"Point"}
 }

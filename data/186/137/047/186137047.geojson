@@ -2,13 +2,14 @@
   "id": 186137047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.346449,48.420182,-114.346449,48.420182",
     "geom:latitude":48.420182,
     "geom:longitude":-114.346449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 Dakota Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186137047,
-    "wof:lastmodified":1449052646,
+    "wof:lastmodified":1466642101,
     "wof:name":"Paul A Biolo",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.346449,48.420182,-114.346449,48.420182],
-  "geometry": {"coordinates":[-114.346449,48.420182],"type":"Point"}
+  "bbox": [
+    -114.346449,
+    48.420182,
+    -114.346449,
+    48.420182
+],
+  "geometry": {"coordinates":[-114.34644900000001,48.420182],"type":"Point"}
 }

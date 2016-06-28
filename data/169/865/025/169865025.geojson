@@ -2,13 +2,14 @@
   "id": 169865025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.492781,45.770997,-108.492781,45.770997",
     "geom:latitude":45.770997,
     "geom:longitude":-108.492781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 S 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169865025,
-    "wof:lastmodified":1449035155,
+    "wof:lastmodified":1466641354,
     "wof:name":"Blondys Inc",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-108.492781,45.770997,-108.492781,45.770997],
-  "geometry": {"coordinates":[-108.492781,45.770997],"type":"Point"}
+  "bbox": [
+    -108.492781,
+    45.770997,
+    -108.492781,
+    45.770997
+],
+  "geometry": {"coordinates":[-108.49278099999999,45.770997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185888075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.537318,48.363237,-115.537318,48.363237",
     "geom:latitude":48.363237,
     "geom:longitude":-115.537318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1882 US Hwy 2 S",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185888075,
-    "wof:lastmodified":1449007613,
+    "wof:lastmodified":1466641785,
     "wof:name":"MAL Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "conservation"
     ]
 },
-  "bbox": [-115.537318,48.363237,-115.537318,48.363237],
+  "bbox": [
+    -115.537318,
+    48.363237,
+    -115.537318,
+    48.363237
+],
   "geometry": {"coordinates":[-115.537318,48.363237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186432109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.114092,46.523506,-114.114092,46.523506",
     "geom:latitude":46.523506,
     "geom:longitude":-114.114092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3885 US Hwy 93",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186432109,
-    "wof:lastmodified":1449050189,
+    "wof:lastmodified":1466642945,
     "wof:name":"Old West Medical Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "medical"
     ]
 },
-  "bbox": [-114.114092,46.523506,-114.114092,46.523506],
+  "bbox": [
+    -114.114092,
+    46.523506,
+    -114.114092,
+    46.523506
+],
   "geometry": {"coordinates":[-114.114092,46.523506],"type":"Point"}
 }

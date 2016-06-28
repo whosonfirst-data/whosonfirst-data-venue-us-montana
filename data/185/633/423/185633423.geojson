@@ -2,13 +2,14 @@
   "id": 185633423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.980368,47.614526,-111.980368,47.614526",
     "geom:latitude":47.614526,
     "geom:longitude":-111.980368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Central Ave",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185633423,
-    "wof:lastmodified":1449008182,
+    "wof:lastmodified":1466641330,
     "wof:name":"Servicemen's Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.980368,47.614526,-111.980368,47.614526],
+  "bbox": [
+    -111.980368,
+    47.614526,
+    -111.980368,
+    47.614526
+],
   "geometry": {"coordinates":[-111.980368,47.614526],"type":"Point"}
 }

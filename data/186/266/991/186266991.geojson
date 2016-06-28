@@ -2,13 +2,14 @@
   "id": 186266991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.157728,46.251003,-114.157728,46.251003",
     "geom:latitude":46.251003,
     "geom:longitude":-114.157728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 N 2nd St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186266991,
-    "wof:lastmodified":1449050350,
+    "wof:lastmodified":1466642554,
     "wof:name":"River Street Dance Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.157728,46.251003,-114.157728,46.251003],
-  "geometry": {"coordinates":[-114.157728,46.251003],"type":"Point"}
+  "bbox": [
+    -114.157728,
+    46.251003,
+    -114.157728,
+    46.251003
+],
+  "geometry": {"coordinates":[-114.15772800000001,46.251003],"type":"Point"}
 }

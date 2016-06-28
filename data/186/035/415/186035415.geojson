@@ -2,13 +2,14 @@
   "id": 186035415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.037479,46.593177,-112.037479,46.593177",
     "geom:latitude":46.593177,
     "geom:longitude":-112.037479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Neill Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186035415,
-    "wof:lastmodified":1449052494,
+    "wof:lastmodified":1466641704,
     "wof:name":"Insurance Coordinators of Mont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.037479,46.593177,-112.037479,46.593177],
+  "bbox": [
+    -112.037479,
+    46.593177,
+    -112.037479,
+    46.593177
+],
   "geometry": {"coordinates":[-112.037479,46.593177],"type":"Point"}
 }

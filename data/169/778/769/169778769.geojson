@@ -2,13 +2,14 @@
   "id": 169778769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.509926,45.818482,-108.509926,45.818482",
     "geom:latitude":45.818482,
     "geom:longitude":-108.509926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Ginger Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169778769,
-    "wof:lastmodified":1449032750,
+    "wof:lastmodified":1466641240,
     "wof:name":"Triangle H Land & Livestock",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.509926,45.818482,-108.509926,45.818482],
-  "geometry": {"coordinates":[-108.509926,45.818482],"type":"Point"}
+  "bbox": [
+    -108.509926,
+    45.818482,
+    -108.509926,
+    45.818482
+],
+  "geometry": {"coordinates":[-108.50992599999999,45.818482],"type":"Point"}
 }

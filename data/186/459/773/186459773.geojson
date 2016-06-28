@@ -2,13 +2,14 @@
   "id": 186459773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.976922,45.974006,-107.976922,45.974006",
     "geom:latitude":45.974006,
     "geom:longitude":-107.976922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3267 Lower Canal Rd",
     "sg:city":"Pompeys Pillar",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186459773,
-    "wof:lastmodified":1449051462,
+    "wof:lastmodified":1466643046,
     "wof:name":"Kemph Farms Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-107.976922,45.974006,-107.976922,45.974006],
+  "bbox": [
+    -107.976922,
+    45.974006,
+    -107.976922,
+    45.974006
+],
   "geometry": {"coordinates":[-107.976922,45.974006],"type":"Point"}
 }

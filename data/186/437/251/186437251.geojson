@@ -2,13 +2,14 @@
   "id": 186437251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.551226,45.762507,-108.551226,45.762507",
     "geom:latitude":45.762507,
     "geom:longitude":-108.551226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Monad Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186437251,
-    "wof:lastmodified":1449052296,
+    "wof:lastmodified":1466642855,
     "wof:name":"Sign Products",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.551226,45.762507,-108.551226,45.762507],
+  "bbox": [
+    -108.551226,
+    45.762507,
+    -108.551226,
+    45.762507
+],
   "geometry": {"coordinates":[-108.551226,45.762507],"type":"Point"}
 }

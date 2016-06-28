@@ -2,13 +2,14 @@
   "id": 186306137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.027007,46.817084,-114.027007,46.817084",
     "geom:latitude":46.817084,
     "geom:longitude":-114.027007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Skyview Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186306137,
-    "wof:lastmodified":1449052917,
+    "wof:lastmodified":1466642628,
     "wof:name":"Mr D J",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-114.027007,46.817084,-114.027007,46.817084],
+  "bbox": [
+    -114.027007,
+    46.817084,
+    -114.027007,
+    46.817084
+],
   "geometry": {"coordinates":[-114.027007,46.817084],"type":"Point"}
 }

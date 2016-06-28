@@ -2,13 +2,14 @@
   "id": 185917823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.397531,45.819703,-108.397531,45.819703",
     "geom:latitude":45.819703,
     "geom:longitude":-108.397531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3455 Old Hardin Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185917823,
-    "wof:lastmodified":1449008008,
+    "wof:lastmodified":1466641662,
     "wof:name":"Marshall Logging Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-108.397531,45.819703,-108.397531,45.819703],
+  "bbox": [
+    -108.397531,
+    45.819703,
+    -108.397531,
+    45.819703
+],
   "geometry": {"coordinates":[-108.397531,45.819703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185717509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.482309,45.812691,-108.482309,45.812691",
     "geom:latitude":45.812691,
     "geom:longitude":-108.482309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Agate Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185717509,
-    "wof:lastmodified":1449006620,
+    "wof:lastmodified":1466641440,
     "wof:name":"Dave Dean Drywall",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-108.482309,45.812691,-108.482309,45.812691],
+  "bbox": [
+    -108.482309,
+    45.812691,
+    -108.482309,
+    45.812691
+],
   "geometry": {"coordinates":[-108.482309,45.812691],"type":"Point"}
 }

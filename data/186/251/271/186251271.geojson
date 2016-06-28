@@ -2,13 +2,14 @@
   "id": 186251271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.951291,45.652545,-110.951291,45.652545",
     "geom:latitude":45.652545,
     "geom:longitude":-110.951291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3739 Bozeman Trail Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186251271,
-    "wof:lastmodified":1449050313,
+    "wof:lastmodified":1466642530,
     "wof:name":"Calendar Frameworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-110.951291,45.652545,-110.951291,45.652545],
+  "bbox": [
+    -110.951291,
+    45.652545,
+    -110.951291,
+    45.652545
+],
   "geometry": {"coordinates":[-110.951291,45.652545],"type":"Point"}
 }

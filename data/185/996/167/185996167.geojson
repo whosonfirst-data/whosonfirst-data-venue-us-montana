@@ -2,13 +2,14 @@
   "id": 185996167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.494566,47.119286,-114.494566,47.119286",
     "geom:latitude":47.119286,
     "geom:longitude":-114.494566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27350 Nine Mile Rd",
     "sg:city":"Huson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185996167,
-    "wof:lastmodified":1449007043,
+    "wof:lastmodified":1466641712,
     "wof:name":"Turtle Dove Post & Rail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-114.494566,47.119286,-114.494566,47.119286],
-  "geometry": {"coordinates":[-114.494566,47.119286],"type":"Point"}
+  "bbox": [
+    -114.494566,
+    47.119286,
+    -114.494566,
+    47.119286
+],
+  "geometry": {"coordinates":[-114.49456600000001,47.119286],"type":"Point"}
 }

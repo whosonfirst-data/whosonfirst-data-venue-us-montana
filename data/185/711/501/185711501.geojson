@@ -2,13 +2,14 @@
   "id": 185711501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.161057,47.464965,-114.161057,47.464965",
     "geom:latitude":47.464965,
     "geom:longitude":-114.161057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4440 Rocky Butte Rd",
     "sg:city":"Charlo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185711501,
-    "wof:lastmodified":1449007933,
+    "wof:lastmodified":1466641434,
     "wof:name":"KB Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-114.161057,47.464965,-114.161057,47.464965],
+  "bbox": [
+    -114.161057,
+    47.464965,
+    -114.161057,
+    47.464965
+],
   "geometry": {"coordinates":[-114.161057,47.464965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186002285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.313437,48.197511,-114.313437,48.197511",
     "geom:latitude":48.197511,
     "geom:longitude":-114.313437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Main St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186002285,
-    "wof:lastmodified":1449052523,
+    "wof:lastmodified":1466641231,
     "wof:name":"Timeless Treasures Antiques",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.313437,48.197511,-114.313437,48.197511],
-  "geometry": {"coordinates":[-114.313437,48.197511],"type":"Point"}
+  "bbox": [
+    -114.313437,
+    48.197511,
+    -114.313437,
+    48.197511
+],
+  "geometry": {"coordinates":[-114.31343699999999,48.197511],"type":"Point"}
 }

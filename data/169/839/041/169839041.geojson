@@ -2,13 +2,14 @@
   "id": 169839041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576075,45.753436,-108.576075,45.753436",
     "geom:latitude":45.753436,
     "geom:longitude":-108.576075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 S 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -65,16 +66,22 @@
         }
     ],
     "wof:id":169839041,
-    "wof:lastmodified":1449034667,
+    "wof:lastmodified":1466641764,
     "wof:name":"Liberty Northwest Insur Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-108.576075,45.753436,-108.576075,45.753436],
+  "bbox": [
+    -108.576075,
+    45.753436,
+    -108.576075,
+    45.753436
+],
   "geometry": {"coordinates":[-108.576075,45.753436],"type":"Point"}
 }

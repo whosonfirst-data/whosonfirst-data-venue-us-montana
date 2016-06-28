@@ -2,13 +2,14 @@
   "id": 186195289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.584009,45.777009,-108.584009,45.777009",
     "geom:latitude":45.777009,
     "geom:longitude":-108.584009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 Broadwater Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186195289,
-    "wof:lastmodified":1449052134,
+    "wof:lastmodified":1466642255,
     "wof:name":"Russell Warchola Geologist",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.584009,45.777009,-108.584009,45.777009],
-  "geometry": {"coordinates":[-108.584009,45.777009],"type":"Point"}
+  "bbox": [
+    -108.584009,
+    45.777009,
+    -108.584009,
+    45.777009
+],
+  "geometry": {"coordinates":[-108.58400899999999,45.777009],"type":"Point"}
 }

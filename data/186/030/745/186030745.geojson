@@ -2,13 +2,14 @@
   "id": 186030745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.627996,48.19516,-106.627996,48.19516",
     "geom:latitude":48.19516,
     "geom:longitude":-106.627996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 US Hwy 2",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186030745,
-    "wof:lastmodified":1449051372,
+    "wof:lastmodified":1466641627,
     "wof:name":"Arch's Tire & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-106.627996,48.19516,-106.627996,48.19516],
+  "bbox": [
+    -106.627996,
+    48.19516,
+    -106.627996,
+    48.19516
+],
   "geometry": {"coordinates":[-106.627996,48.19516],"type":"Point"}
 }

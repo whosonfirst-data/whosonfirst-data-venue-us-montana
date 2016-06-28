@@ -2,13 +2,14 @@
   "id": 169823549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.218728,46.393756,-114.218728,46.393756",
     "geom:latitude":46.393756,
     "geom:longitude":-114.218728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2089 Alder Springs Ln",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169823549,
-    "wof:lastmodified":1449035935,
+    "wof:lastmodified":1466641291,
     "wof:name":"Izzor International Foudation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.218728,46.393756,-114.218728,46.393756],
+  "bbox": [
+    -114.218728,
+    46.393756,
+    -114.218728,
+    46.393756
+],
   "geometry": {"coordinates":[-114.218728,46.393756],"type":"Point"}
 }

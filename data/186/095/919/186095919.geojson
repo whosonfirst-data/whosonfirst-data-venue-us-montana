@@ -2,13 +2,14 @@
   "id": 186095919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.489009,45.972691,-112.489009,45.972691",
     "geom:latitude":45.972691,
     "geom:longitude":-112.489009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 Whiteway Blvd",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186095919,
-    "wof:lastmodified":1449051733,
+    "wof:lastmodified":1466641961,
     "wof:name":"Lowrance Cmpany",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-112.489009,45.972691,-112.489009,45.972691],
+  "bbox": [
+    -112.489009,
+    45.972691,
+    -112.489009,
+    45.972691
+],
   "geometry": {"coordinates":[-112.489009,45.972691],"type":"Point"}
 }

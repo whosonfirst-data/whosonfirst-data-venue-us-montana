@@ -2,13 +2,14 @@
   "id": 169807605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.655529,46.777254,-113.655529,46.777254",
     "geom:latitude":46.777254,
     "geom:longitude":-113.655529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22345 Wallace Creek Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169807605,
-    "wof:lastmodified":1449033538,
+    "wof:lastmodified":1466641279,
     "wof:name":"Wallace Creek Cabinets Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-113.655529,46.777254,-113.655529,46.777254],
+  "bbox": [
+    -113.655529,
+    46.777254,
+    -113.655529,
+    46.777254
+],
   "geometry": {"coordinates":[-113.655529,46.777254],"type":"Point"}
 }

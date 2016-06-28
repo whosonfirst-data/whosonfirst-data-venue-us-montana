@@ -2,13 +2,14 @@
   "id": 186174635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.156348,46.253262,-114.156348,46.253262",
     "geom:latitude":46.253262,
     "geom:longitude":-114.156348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 N 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186174635,
-    "wof:lastmodified":1449050701,
+    "wof:lastmodified":1466642161,
     "wof:name":"Music Box Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.156348,46.253262,-114.156348,46.253262],
-  "geometry": {"coordinates":[-114.156348,46.253262],"type":"Point"}
+  "bbox": [
+    -114.156348,
+    46.253262,
+    -114.156348,
+    46.253262
+],
+  "geometry": {"coordinates":[-114.15634799999999,46.253262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185633603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.559967,45.661437,-110.559967,45.661437",
     "geom:latitude":45.661437,
     "geom:longitude":-110.559967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S Main St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185633603,
-    "wof:lastmodified":1449008186,
+    "wof:lastmodified":1466641333,
     "wof:name":"Tony Demin Photography",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-110.559967,45.661437,-110.559967,45.661437],
+  "bbox": [
+    -110.559967,
+    45.661437,
+    -110.559967,
+    45.661437
+],
   "geometry": {"coordinates":[-110.559967,45.661437],"type":"Point"}
 }

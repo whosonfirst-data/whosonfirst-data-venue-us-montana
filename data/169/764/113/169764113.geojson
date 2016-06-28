@@ -2,13 +2,14 @@
   "id": 169764113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.161661,47.687899,-114.161661,47.687899",
     "geom:latitude":47.687899,
     "geom:longitude":-114.161661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Division St",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169764113,
-    "wof:lastmodified":1449035806,
+    "wof:lastmodified":1466641746,
     "wof:name":"Quality Body and Bike",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-114.161661,47.687899,-114.161661,47.687899],
+  "bbox": [
+    -114.161661,
+    47.687899,
+    -114.161661,
+    47.687899
+],
   "geometry": {"coordinates":[-114.161661,47.687899],"type":"Point"}
 }

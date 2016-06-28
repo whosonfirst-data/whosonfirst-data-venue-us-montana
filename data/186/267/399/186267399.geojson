@@ -2,13 +2,14 @@
   "id": 186267399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.093064,46.852266,-114.093064,46.852266",
     "geom:latitude":46.852266,
     "geom:longitude":-114.093064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4607 North Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186267399,
-    "wof:lastmodified":1449052780,
+    "wof:lastmodified":1466642279,
     "wof:name":"Patsy D Plaggemeyer",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.093064,46.852266,-114.093064,46.852266],
+  "bbox": [
+    -114.093064,
+    46.852266,
+    -114.093064,
+    46.852266
+],
   "geometry": {"coordinates":[-114.093064,46.852266],"type":"Point"}
 }

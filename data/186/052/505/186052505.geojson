@@ -2,13 +2,14 @@
   "id": 186052505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.820176,46.690709,-111.820176,46.690709",
     "geom:latitude":46.690709,
     "geom:longitude":-111.820176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5505 York Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186052505,
-    "wof:lastmodified":1449051585,
+    "wof:lastmodified":1466641824,
     "wof:name":"Campeau & Assoc Pllc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.820176,46.690709,-111.820176,46.690709],
+  "bbox": [
+    -111.820176,
+    46.690709,
+    -111.820176,
+    46.690709
+],
   "geometry": {"coordinates":[-111.820176,46.690709],"type":"Point"}
 }

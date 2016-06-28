@@ -2,13 +2,14 @@
   "id": 185906571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.356748,45.811574,-108.356748,45.811574",
     "geom:latitude":45.811574,
     "geom:longitude":-108.356748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 Dinosaur Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185906571,
-    "wof:lastmodified":1449007219,
+    "wof:lastmodified":1466641643,
     "wof:name":"Guenther Enterprises",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-108.356748,45.811574,-108.356748,45.811574],
+  "bbox": [
+    -108.356748,
+    45.811574,
+    -108.356748,
+    45.811574
+],
   "geometry": {"coordinates":[-108.356748,45.811574],"type":"Point"}
 }

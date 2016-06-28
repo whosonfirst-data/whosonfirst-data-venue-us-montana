@@ -2,13 +2,14 @@
   "id": 185931469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.960074,46.820082,-113.960074,46.820082",
     "geom:latitude":46.820082,
     "geom:longitude":-113.960074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2850 Mitten Mountain Rd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185931469,
-    "wof:lastmodified":1449008074,
+    "wof:lastmodified":1466641680,
     "wof:name":"Mitten Mountain Outfitters",
     "wof:parent_id":85891729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "luggage"
     ]
 },
-  "bbox": [-113.960074,46.820082,-113.960074,46.820082],
-  "geometry": {"coordinates":[-113.960074,46.820082],"type":"Point"}
+  "bbox": [
+    -113.960074,
+    46.820082,
+    -113.960074,
+    46.820082
+],
+  "geometry": {"coordinates":[-113.96007400000001,46.820082],"type":"Point"}
 }

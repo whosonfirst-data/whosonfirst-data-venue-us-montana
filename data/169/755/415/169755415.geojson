@@ -2,13 +2,14 @@
   "id": 169755415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.513188,45.994689,-112.513188,45.994689",
     "geom:latitude":45.994689,
     "geom:longitude":-112.513188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169755415,
-    "wof:lastmodified":1449033615,
+    "wof:lastmodified":1466641193,
     "wof:name":"Truzzonlilno Tamales",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mexican"
     ]
 },
-  "bbox": [-112.513188,45.994689,-112.513188,45.994689],
+  "bbox": [
+    -112.513188,
+    45.994689,
+    -112.513188,
+    45.994689
+],
   "geometry": {"coordinates":[-112.513188,45.994689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185918955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.484697,48.193644,-114.484697,48.193644",
     "geom:latitude":48.193644,
     "geom:longitude":-114.484697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Sherman Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185918955,
-    "wof:lastmodified":1449007681,
+    "wof:lastmodified":1466641669,
     "wof:name":"Grizzley Logging & Lumber LLC",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.484697,48.193644,-114.484697,48.193644],
+  "bbox": [
+    -114.484697,
+    48.193644,
+    -114.484697,
+    48.193644
+],
   "geometry": {"coordinates":[-114.484697,48.193644],"type":"Point"}
 }

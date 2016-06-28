@@ -2,13 +2,14 @@
   "id": 186216753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.691034,47.118722,-104.691034,47.118722",
     "geom:latitude":47.118722,
     "geom:longitude":-104.691034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Georgetown Dr",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186216753,
-    "wof:lastmodified":1449052715,
+    "wof:lastmodified":1466642384,
     "wof:name":"Hay Creek Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-104.691034,47.118722,-104.691034,47.118722],
+  "bbox": [
+    -104.691034,
+    47.118722,
+    -104.691034,
+    47.118722
+],
   "geometry": {"coordinates":[-104.691034,47.118722],"type":"Point"}
 }

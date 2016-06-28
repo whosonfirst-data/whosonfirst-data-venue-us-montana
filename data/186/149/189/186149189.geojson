@@ -2,13 +2,14 @@
   "id": 186149189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.039541,46.849944,-114.039541,46.849944",
     "geom:latitude":46.849944,
     "geom:longitude":-114.039541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2330 S Reserve St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186149189,
-    "wof:lastmodified":1449050262,
+    "wof:lastmodified":1466642117,
     "wof:name":"Government Employees Credit Un",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-114.039541,46.849944,-114.039541,46.849944],
+  "bbox": [
+    -114.039541,
+    46.849944,
+    -114.039541,
+    46.849944
+],
   "geometry": {"coordinates":[-114.039541,46.849944],"type":"Point"}
 }

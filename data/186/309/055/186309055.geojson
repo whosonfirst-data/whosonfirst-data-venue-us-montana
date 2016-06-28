@@ -2,13 +2,14 @@
   "id": 186309055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.420246,48.791303,-105.420246,48.791303",
     "geom:latitude":48.791303,
     "geom:longitude":-105.420246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Main St",
     "sg:city":"Scobey",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186309055,
-    "wof:lastmodified":1449050991,
+    "wof:lastmodified":1466642628,
     "wof:name":"Leibrand's Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-105.420246,48.791303,-105.420246,48.791303],
-  "geometry": {"coordinates":[-105.420246,48.791303],"type":"Point"}
+  "bbox": [
+    -105.420246,
+    48.791303,
+    -105.420246,
+    48.791303
+],
+  "geometry": {"coordinates":[-105.42024600000001,48.791303],"type":"Point"}
 }

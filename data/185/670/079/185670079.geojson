@@ -2,13 +2,14 @@
   "id": 185670079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.156262,48.019324,-112.156262,48.019324",
     "geom:latitude":48.019324,
     "geom:longitude":-112.156262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2881 8th Ln NW",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185670079,
-    "wof:lastmodified":1449006851,
+    "wof:lastmodified":1466641384,
     "wof:name":"Lightner Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-112.156262,48.019324,-112.156262,48.019324],
+  "bbox": [
+    -112.156262,
+    48.019324,
+    -112.156262,
+    48.019324
+],
   "geometry": {"coordinates":[-112.156262,48.019324],"type":"Point"}
 }

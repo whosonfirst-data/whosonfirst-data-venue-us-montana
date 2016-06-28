@@ -2,13 +2,14 @@
   "id": 186138311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.3789,45.670688,-108.3789,45.670688",
     "geom:latitude":45.670688,
     "geom:longitude":-108.3789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7249 Pryor Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186138311,
-    "wof:lastmodified":1449051146,
+    "wof:lastmodified":1466642105,
     "wof:name":"Core Technology Group Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-108.3789,45.670688,-108.3789,45.670688],
+  "bbox": [
+    -108.3789,
+    45.670688,
+    -108.3789,
+    45.670688
+],
   "geometry": {"coordinates":[-108.3789,45.670688],"type":"Point"}
 }

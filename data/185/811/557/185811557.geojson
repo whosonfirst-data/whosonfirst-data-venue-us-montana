@@ -2,13 +2,14 @@
   "id": 185811557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.273818,48.13629,-114.273818,48.13629",
     "geom:latitude":48.13629,
     "geom:longitude":-114.273818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Auction Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185811557,
-    "wof:lastmodified":1449007396,
+    "wof:lastmodified":1466641542,
     "wof:name":"Kalispell Truss Ctr",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truss"
     ]
 },
-  "bbox": [-114.273818,48.13629,-114.273818,48.13629],
-  "geometry": {"coordinates":[-114.273818,48.13629],"type":"Point"}
+  "bbox": [
+    -114.273818,
+    48.13629,
+    -114.273818,
+    48.13629
+],
+  "geometry": {"coordinates":[-114.27381800000001,48.13629],"type":"Point"}
 }

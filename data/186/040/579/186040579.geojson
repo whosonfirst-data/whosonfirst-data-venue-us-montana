@@ -2,13 +2,14 @@
   "id": 186040579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.046392,45.682066,-111.046392,45.682066",
     "geom:latitude":45.682066,
     "geom:longitude":-111.046392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 N 7th Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186040579,
-    "wof:lastmodified":1449052959,
+    "wof:lastmodified":1466641806,
     "wof:name":"Beds Plus",
     "wof:parent_id":85891685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.046392,45.682066,-111.046392,45.682066],
+  "bbox": [
+    -111.046392,
+    45.682066,
+    -111.046392,
+    45.682066
+],
   "geometry": {"coordinates":[-111.046392,45.682066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186330553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.501506,45.777918,-108.501506,45.777918",
     "geom:latitude":45.777918,
     "geom:longitude":-108.501506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S 28th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186330553,
-    "wof:lastmodified":1449051716,
+    "wof:lastmodified":1466642485,
     "wof:name":"Navaco Property Mntnc Inc",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "flue"
     ]
 },
-  "bbox": [-108.501506,45.777918,-108.501506,45.777918],
-  "geometry": {"coordinates":[-108.501506,45.777918],"type":"Point"}
+  "bbox": [
+    -108.501506,
+    45.777918,
+    -108.501506,
+    45.777918
+],
+  "geometry": {"coordinates":[-108.50150600000001,45.777918],"type":"Point"}
 }

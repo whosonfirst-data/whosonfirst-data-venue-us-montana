@@ -2,13 +2,14 @@
   "id": 169766261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.490766,45.838364,-108.490766,45.838364",
     "geom:latitude":45.838364,
     "geom:longitude":-108.490766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 St Andrews Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169766261,
-    "wof:lastmodified":1449032636,
+    "wof:lastmodified":1466641209,
     "wof:name":"Billings Anesthesiology",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-108.490766,45.838364,-108.490766,45.838364],
-  "geometry": {"coordinates":[-108.490766,45.838364],"type":"Point"}
+  "bbox": [
+    -108.490766,
+    45.838364,
+    -108.490766,
+    45.838364
+],
+  "geometry": {"coordinates":[-108.49076599999999,45.838364],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185996311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.155807,46.312958,-114.155807,46.312958",
     "geom:latitude":46.312958,
     "geom:longitude":-114.155807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Woodside Xing",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185996311,
-    "wof:lastmodified":1449007042,
+    "wof:lastmodified":1466641714,
     "wof:name":"Silent Signal Alarm Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-114.155807,46.312958,-114.155807,46.312958],
+  "bbox": [
+    -114.155807,
+    46.312958,
+    -114.155807,
+    46.312958
+],
   "geometry": {"coordinates":[-114.155807,46.312958],"type":"Point"}
 }

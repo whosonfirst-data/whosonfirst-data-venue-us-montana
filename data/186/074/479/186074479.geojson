@@ -2,13 +2,14 @@
   "id": 186074479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.453109,45.801035,-108.453109,45.801035",
     "geom:latitude":45.801035,
     "geom:longitude":-108.453109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1270 Lockwood Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186074479,
-    "wof:lastmodified":1449051828,
+    "wof:lastmodified":1466641883,
     "wof:name":"Big Sky Transmission Repair",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "transmission"
     ]
 },
-  "bbox": [-108.453109,45.801035,-108.453109,45.801035],
+  "bbox": [
+    -108.453109,
+    45.801035,
+    -108.453109,
+    45.801035
+],
   "geometry": {"coordinates":[-108.453109,45.801035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185617951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.602463,45.218209,-112.602463,45.218209",
     "geom:latitude":45.218209,
     "geom:longitude":-112.602463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Fox Ridge Dr",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185617951,
-    "wof:lastmodified":1449006634,
+    "wof:lastmodified":1466641207,
     "wof:name":"Sweetwater Estates Homeowners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.602463,45.218209,-112.602463,45.218209],
+  "bbox": [
+    -112.602463,
+    45.218209,
+    -112.602463,
+    45.218209
+],
   "geometry": {"coordinates":[-112.602463,45.218209],"type":"Point"}
 }

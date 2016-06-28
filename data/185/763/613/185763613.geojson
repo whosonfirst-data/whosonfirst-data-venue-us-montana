@@ -2,13 +2,14 @@
   "id": 185763613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.575436,45.752298,-108.575436,45.752298",
     "geom:latitude":45.752298,
     "geom:longitude":-108.575436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2290 Grant Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185763613,
-    "wof:lastmodified":1449008200,
+    "wof:lastmodified":1466641492,
     "wof:name":"Hall & Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.575436,45.752298,-108.575436,45.752298],
+  "bbox": [
+    -108.575436,
+    45.752298,
+    -108.575436,
+    45.752298
+],
   "geometry": {"coordinates":[-108.575436,45.752298],"type":"Point"}
 }

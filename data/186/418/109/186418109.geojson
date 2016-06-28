@@ -2,13 +2,14 @@
   "id": 186418109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.617622,45.790319,-108.617622,45.790319",
     "geom:latitude":45.790319,
     "geom:longitude":-108.617622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 Shiloh Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186418109,
-    "wof:lastmodified":1449052422,
+    "wof:lastmodified":1466642899,
     "wof:name":"Signature Interiors LLC",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-108.617622,45.790319,-108.617622,45.790319],
+  "bbox": [
+    -108.617622,
+    45.790319,
+    -108.617622,
+    45.790319
+],
   "geometry": {"coordinates":[-108.617622,45.790319],"type":"Point"}
 }

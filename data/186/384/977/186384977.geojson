@@ -2,13 +2,14 @@
   "id": 186384977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.035328,46.840669,-114.035328,46.840669",
     "geom:latitude":46.840669,
     "geom:longitude":-114.035328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 Dixon Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186384977,
-    "wof:lastmodified":1449050629,
+    "wof:lastmodified":1466642826,
     "wof:name":"North West Supply",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "piece"
     ]
 },
-  "bbox": [-114.035328,46.840669,-114.035328,46.840669],
-  "geometry": {"coordinates":[-114.035328,46.840669],"type":"Point"}
+  "bbox": [
+    -114.035328,
+    46.840669,
+    -114.035328,
+    46.840669
+],
+  "geometry": {"coordinates":[-114.03532800000001,46.840669],"type":"Point"}
 }

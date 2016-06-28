@@ -2,13 +2,14 @@
   "id": 186384399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.309309,45.699854,-111.309309,45.699854",
     "geom:latitude":45.699854,
     "geom:longitude":-111.309309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11831 Churchill Rd",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186384399,
-    "wof:lastmodified":1449050626,
+    "wof:lastmodified":1466642823,
     "wof:name":"Logterman Livestock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-111.309309,45.699854,-111.309309,45.699854],
+  "bbox": [
+    -111.309309,
+    45.699854,
+    -111.309309,
+    45.699854
+],
   "geometry": {"coordinates":[-111.309309,45.699854],"type":"Point"}
 }

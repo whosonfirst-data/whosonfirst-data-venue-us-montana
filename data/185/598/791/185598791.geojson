@@ -2,13 +2,14 @@
   "id": 185598791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.489048,45.79263,-108.489048,45.79263",
     "geom:latitude":45.79263,
     "geom:longitude":-108.489048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 N 13th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185598791,
-    "wof:lastmodified":1449006665,
+    "wof:lastmodified":1466641148,
     "wof:name":"Auto & Truck Repair",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-108.489048,45.79263,-108.489048,45.79263],
+  "bbox": [
+    -108.489048,
+    45.79263,
+    -108.489048,
+    45.79263
+],
   "geometry": {"coordinates":[-108.489048,45.79263],"type":"Point"}
 }

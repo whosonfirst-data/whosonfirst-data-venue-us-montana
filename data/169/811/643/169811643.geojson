@@ -2,13 +2,14 @@
   "id": 169811643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.460962,45.837828,-108.460962,45.837828",
     "geom:latitude":45.837828,
     "geom:longitude":-108.460962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 Mossman Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169811643,
-    "wof:lastmodified":1449034273,
+    "wof:lastmodified":1466641279,
     "wof:name":"Ervs Excavation",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.460962,45.837828,-108.460962,45.837828],
-  "geometry": {"coordinates":[-108.460962,45.837828],"type":"Point"}
+  "bbox": [
+    -108.460962,
+    45.837828,
+    -108.460962,
+    45.837828
+],
+  "geometry": {"coordinates":[-108.46096199999999,45.837828],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169707237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.771489,45.681001,-108.771489,45.681001",
     "geom:latitude":45.681001,
     "geom:longitude":-108.771489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 1st Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169707237,
-    "wof:lastmodified":1449035439,
+    "wof:lastmodified":1466641242,
     "wof:name":"Davis Ashley MD",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-108.771489,45.681001,-108.771489,45.681001],
+  "bbox": [
+    -108.771489,
+    45.681001,
+    -108.771489,
+    45.681001
+],
   "geometry": {"coordinates":[-108.771489,45.681001],"type":"Point"}
 }

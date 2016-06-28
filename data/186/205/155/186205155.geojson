@@ -2,13 +2,14 @@
   "id": 186205155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.71119,48.544724,-109.71119,48.544724",
     "geom:latitude":48.544724,
     "geom:longitude":-109.71119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1636 10th St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186205155,
-    "wof:lastmodified":1449051980,
+    "wof:lastmodified":1466642123,
     "wof:name":"Ron Knutson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.71119,48.544724,-109.71119,48.544724],
+  "bbox": [
+    -109.71119,
+    48.544724,
+    -109.71119,
+    48.544724
+],
   "geometry": {"coordinates":[-109.71119,48.544724],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185917141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.636465,48.193771,-106.636465,48.193771",
     "geom:latitude":48.193771,
     "geom:longitude":-106.636465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 2nd Ave S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185917141,
-    "wof:lastmodified":1449008006,
+    "wof:lastmodified":1466641655,
     "wof:name":"Insty-Prints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commercial"
     ]
 },
-  "bbox": [-106.636465,48.193771,-106.636465,48.193771],
+  "bbox": [
+    -106.636465,
+    48.193771,
+    -106.636465,
+    48.193771
+],
   "geometry": {"coordinates":[-106.636465,48.193771],"type":"Point"}
 }

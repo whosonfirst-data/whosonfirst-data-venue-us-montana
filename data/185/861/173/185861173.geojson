@@ -2,13 +2,14 @@
   "id": 185861173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.752197,47.647812,-111.752197,47.647812",
     "geom:latitude":47.647812,
     "geom:longitude":-111.752197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 11th Ln NE",
     "sg:city":"Power",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185861173,
-    "wof:lastmodified":1449008188,
+    "wof:lastmodified":1466641593,
     "wof:name":"Morris Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-111.752197,47.647812,-111.752197,47.647812],
+  "bbox": [
+    -111.752197,
+    47.647812,
+    -111.752197,
+    47.647812
+],
   "geometry": {"coordinates":[-111.752197,47.647812],"type":"Point"}
 }

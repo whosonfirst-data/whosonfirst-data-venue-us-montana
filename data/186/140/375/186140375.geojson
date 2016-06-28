@@ -2,13 +2,14 @@
   "id": 186140375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.139734,48.240248,-114.139734,48.240248",
     "geom:latitude":48.240248,
     "geom:longitude":-114.139734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Liahona Ln",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186140375,
-    "wof:lastmodified":1449050755,
+    "wof:lastmodified":1466642274,
     "wof:name":"Frederick R Ricketts",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-114.139734,48.240248,-114.139734,48.240248],
+  "bbox": [
+    -114.139734,
+    48.240248,
+    -114.139734,
+    48.240248
+],
   "geometry": {"coordinates":[-114.139734,48.240248],"type":"Point"}
 }

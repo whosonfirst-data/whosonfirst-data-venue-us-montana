@@ -2,13 +2,14 @@
   "id": 169768157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.164075,47.691347,-114.164075,47.691347",
     "geom:latitude":47.691347,
     "geom:longitude":-114.164075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 5th Ave W",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169768157,
-    "wof:lastmodified":1449033956,
+    "wof:lastmodified":1466641210,
     "wof:name":"Fiddlesticks School of Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.164075,47.691347,-114.164075,47.691347],
+  "bbox": [
+    -114.164075,
+    47.691347,
+    -114.164075,
+    47.691347
+],
   "geometry": {"coordinates":[-114.164075,47.691347],"type":"Point"}
 }

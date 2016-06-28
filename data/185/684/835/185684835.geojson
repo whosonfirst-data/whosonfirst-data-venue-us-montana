@@ -2,13 +2,14 @@
   "id": 185684835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.540811,45.777114,-108.540811,45.777114",
     "geom:latitude":45.777114,
     "geom:longitude":-108.540811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Broadwater Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185684835,
-    "wof:lastmodified":1449007012,
+    "wof:lastmodified":1466641406,
     "wof:name":"Contact Lens Assoc Ophthlmolgy",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "good"
     ]
 },
-  "bbox": [-108.540811,45.777114,-108.540811,45.777114],
-  "geometry": {"coordinates":[-108.540811,45.777114],"type":"Point"}
+  "bbox": [
+    -108.540811,
+    45.777114,
+    -108.540811,
+    45.777114
+],
+  "geometry": {"coordinates":[-108.54081100000001,45.777114],"type":"Point"}
 }

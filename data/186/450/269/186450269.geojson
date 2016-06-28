@@ -2,13 +2,14 @@
   "id": 186450269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.343709,48.420896,-114.343709,48.420896",
     "geom:latitude":48.420896,
     "geom:longitude":-114.343709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Iowa Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186450269,
-    "wof:lastmodified":1449052597,
+    "wof:lastmodified":1466643013,
     "wof:name":"R G B Pictures LLC",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-114.343709,48.420896,-114.343709,48.420896],
+  "bbox": [
+    -114.343709,
+    48.420896,
+    -114.343709,
+    48.420896
+],
   "geometry": {"coordinates":[-114.343709,48.420896],"type":"Point"}
 }

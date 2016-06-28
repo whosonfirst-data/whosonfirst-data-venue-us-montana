@@ -2,13 +2,14 @@
   "id": 185646713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.363051,45.885697,-108.363051,45.885697",
     "geom:latitude":45.885697,
     "geom:longitude":-108.363051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 Mc Girl Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185646713,
-    "wof:lastmodified":1449006563,
+    "wof:lastmodified":1466641369,
     "wof:name":"Pinpoint Land Surveys PLLC",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-108.363051,45.885697,-108.363051,45.885697],
+  "bbox": [
+    -108.363051,
+    45.885697,
+    -108.363051,
+    45.885697
+],
   "geometry": {"coordinates":[-108.363051,45.885697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186135905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.154161,45.670263,-111.154161,45.670263",
     "geom:latitude":45.670263,
     "geom:longitude":-111.154161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6730 Tawney Brown Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186135905,
-    "wof:lastmodified":1449051405,
+    "wof:lastmodified":1466641945,
     "wof:name":"New Creation Cabinetry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "furniture"
     ]
 },
-  "bbox": [-111.154161,45.670263,-111.154161,45.670263],
+  "bbox": [
+    -111.154161,
+    45.670263,
+    -111.154161,
+    45.670263
+],
   "geometry": {"coordinates":[-111.154161,45.670263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185905409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.724495,46.398582,-112.724495,46.398582",
     "geom:latitude":46.398582,
     "geom:longitude":-112.724495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Missouri Ave",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185905409,
-    "wof:lastmodified":1449007250,
+    "wof:lastmodified":1466641636,
     "wof:name":"Deer Lodge Ironworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-112.724495,46.398582,-112.724495,46.398582],
+  "bbox": [
+    -112.724495,
+    46.398582,
+    -112.724495,
+    46.398582
+],
   "geometry": {"coordinates":[-112.724495,46.398582],"type":"Point"}
 }

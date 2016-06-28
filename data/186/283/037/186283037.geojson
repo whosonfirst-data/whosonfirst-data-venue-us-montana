@@ -2,13 +2,14 @@
   "id": 186283037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.18476,47.81376,-112.18476,47.81376",
     "geom:latitude":47.81376,
     "geom:longitude":-112.18476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Main Ave",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186283037,
-    "wof:lastmodified":1449051170,
+    "wof:lastmodified":1466642732,
     "wof:name":"John Henrys",
     "wof:parent_id":85810939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.18476,47.81376,-112.18476,47.81376],
+  "bbox": [
+    -112.18476,
+    47.81376,
+    -112.18476,
+    47.81376
+],
   "geometry": {"coordinates":[-112.18476,47.81376],"type":"Point"}
 }

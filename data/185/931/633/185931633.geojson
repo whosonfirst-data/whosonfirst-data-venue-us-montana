@@ -2,13 +2,14 @@
   "id": 185931633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.397531,45.819703,-108.397531,45.819703",
     "geom:latitude":45.819703,
     "geom:longitude":-108.397531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3455 Old Hardin Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185931633,
-    "wof:lastmodified":1449008074,
+    "wof:lastmodified":1466641682,
     "wof:name":"Glentana Mobile Home Court LLC",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-108.397531,45.819703,-108.397531,45.819703],
+  "bbox": [
+    -108.397531,
+    45.819703,
+    -108.397531,
+    45.819703
+],
   "geometry": {"coordinates":[-108.397531,45.819703],"type":"Point"}
 }

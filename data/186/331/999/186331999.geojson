@@ -2,13 +2,14 @@
   "id": 186331999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.505651,45.782108,-108.505651,45.782108",
     "geom:latitude":45.782108,
     "geom:longitude":-108.505651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 1st Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186331999,
-    "wof:lastmodified":1449051995,
+    "wof:lastmodified":1466642507,
     "wof:name":"Advanced Forecasting Corp",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-108.505651,45.782108,-108.505651,45.782108],
+  "bbox": [
+    -108.505651,
+    45.782108,
+    -108.505651,
+    45.782108
+],
   "geometry": {"coordinates":[-108.505651,45.782108],"type":"Point"}
 }

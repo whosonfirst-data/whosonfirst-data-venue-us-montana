@@ -2,13 +2,14 @@
   "id": 185912731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.042166,46.804397,-114.042166,46.804397",
     "geom:latitude":46.804397,
     "geom:longitude":-114.042166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3275 Terrace Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185912731,
-    "wof:lastmodified":1449007423,
+    "wof:lastmodified":1466641655,
     "wof:name":"Tellurian Exploration Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gold"
     ]
 },
-  "bbox": [-114.042166,46.804397,-114.042166,46.804397],
-  "geometry": {"coordinates":[-114.042166,46.804397],"type":"Point"}
+  "bbox": [
+    -114.042166,
+    46.804397,
+    -114.042166,
+    46.804397
+],
+  "geometry": {"coordinates":[-114.04216599999999,46.804397],"type":"Point"}
 }

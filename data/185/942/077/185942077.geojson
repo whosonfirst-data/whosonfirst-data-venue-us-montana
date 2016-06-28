@@ -2,13 +2,14 @@
   "id": 185942077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.634169,45.711591,-108.634169,45.711591",
     "geom:latitude":45.711591,
     "geom:longitude":-108.634169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8710 Danford Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":185942077,
-    "wof:lastmodified":1449007354,
+    "wof:lastmodified":1466641789,
     "wof:name":"Quality Painting & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-108.634169,45.711591,-108.634169,45.711591],
+  "bbox": [
+    -108.634169,
+    45.711591,
+    -108.634169,
+    45.711591
+],
   "geometry": {"coordinates":[-108.634169,45.711591],"type":"Point"}
 }

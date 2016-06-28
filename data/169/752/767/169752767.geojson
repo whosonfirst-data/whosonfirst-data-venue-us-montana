@@ -2,13 +2,14 @@
   "id": 169752767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.550677,45.769857,-108.550677,45.769857",
     "geom:latitude":45.769857,
     "geom:longitude":-108.550677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 Central Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169752767,
-    "wof:lastmodified":1449033249,
+    "wof:lastmodified":1466641194,
     "wof:name":"Fun Trade",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-108.550677,45.769857,-108.550677,45.769857],
-  "geometry": {"coordinates":[-108.550677,45.769857],"type":"Point"}
+  "bbox": [
+    -108.550677,
+    45.769857,
+    -108.550677,
+    45.769857
+],
+  "geometry": {"coordinates":[-108.55067699999999,45.769857],"type":"Point"}
 }

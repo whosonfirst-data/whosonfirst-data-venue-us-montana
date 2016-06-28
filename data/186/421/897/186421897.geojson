@@ -2,13 +2,14 @@
   "id": 186421897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.090653,45.972356,-108.090653,45.972356",
     "geom:latitude":45.972356,
     "geom:longitude":-108.090653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2561 S 22nd Rd",
     "sg:city":"Worden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186421897,
-    "wof:lastmodified":1449052080,
+    "wof:lastmodified":1466642920,
     "wof:name":"Mueller Jette",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chicken"
     ]
 },
-  "bbox": [-108.090653,45.972356,-108.090653,45.972356],
+  "bbox": [
+    -108.090653,
+    45.972356,
+    -108.090653,
+    45.972356
+],
   "geometry": {"coordinates":[-108.090653,45.972356],"type":"Point"}
 }

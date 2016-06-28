@@ -2,13 +2,14 @@
   "id": 186226897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.089477,46.762121,-114.089477,46.762121",
     "geom:latitude":46.762121,
     "geom:longitude":-114.089477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Cap de Villa",
     "sg:city":"Lolo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186226897,
-    "wof:lastmodified":1449052304,
+    "wof:lastmodified":1466642211,
     "wof:name":"Healing Rooms of Missoula Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.089477,46.762121,-114.089477,46.762121],
+  "bbox": [
+    -114.089477,
+    46.762121,
+    -114.089477,
+    46.762121
+],
   "geometry": {"coordinates":[-114.089477,46.762121],"type":"Point"}
 }

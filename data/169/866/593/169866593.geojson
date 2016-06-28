@@ -2,13 +2,14 @@
   "id": 169866593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.534928,46.012744,-112.534928,46.012744",
     "geom:latitude":46.012744,
     "geom:longitude":-112.534928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 E Park St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169866593,
-    "wof:lastmodified":1449034249,
+    "wof:lastmodified":1466641361,
     "wof:name":"Silver Bow Properties",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.534928,46.012744,-112.534928,46.012744],
-  "geometry": {"coordinates":[-112.534928,46.012744],"type":"Point"}
+  "bbox": [
+    -112.534928,
+    46.012744,
+    -112.534928,
+    46.012744
+],
+  "geometry": {"coordinates":[-112.53492799999999,46.012744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186369923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.013754,46.918606,-113.013754,46.918606",
     "geom:latitude":46.918606,
     "geom:longitude":-113.013754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 Cut Off Rd",
     "sg:city":"Helmville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186369923,
-    "wof:lastmodified":1449052904,
+    "wof:lastmodified":1466642781,
     "wof:name":"H2-O Water Fowl Production",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "company"
     ]
 },
-  "bbox": [-113.013754,46.918606,-113.013754,46.918606],
-  "geometry": {"coordinates":[-113.013754,46.918606],"type":"Point"}
+  "bbox": [
+    -113.013754,
+    46.918606,
+    -113.013754,
+    46.918606
+],
+  "geometry": {"coordinates":[-113.01375400000001,46.918606],"type":"Point"}
 }

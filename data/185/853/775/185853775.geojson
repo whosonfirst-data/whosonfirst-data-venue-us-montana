@@ -2,13 +2,14 @@
   "id": 185853775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.50384,45.994018,-112.50384,45.994018",
     "geom:latitude":45.994018,
     "geom:longitude":-112.50384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2327 Cobban St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185853775,
-    "wof:lastmodified":1449007262,
+    "wof:lastmodified":1466641593,
     "wof:name":"Bernie's Hallmark Cards & Gift",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cards"
     ]
 },
-  "bbox": [-112.50384,45.994018,-112.50384,45.994018],
+  "bbox": [
+    -112.50384,
+    45.994018,
+    -112.50384,
+    45.994018
+],
   "geometry": {"coordinates":[-112.50384,45.994018],"type":"Point"}
 }

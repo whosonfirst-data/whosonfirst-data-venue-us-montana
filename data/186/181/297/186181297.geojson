@@ -2,13 +2,14 @@
   "id": 186181297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.183283,46.13896,-114.183283,46.13896",
     "geom:latitude":46.13896,
     "geom:longitude":-114.183283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Camas Creek Loop",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186181297,
-    "wof:lastmodified":1449052006,
+    "wof:lastmodified":1466642389,
     "wof:name":"Country Scrappin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.183283,46.13896,-114.183283,46.13896],
+  "bbox": [
+    -114.183283,
+    46.13896,
+    -114.183283,
+    46.13896
+],
   "geometry": {"coordinates":[-114.183283,46.13896],"type":"Point"}
 }

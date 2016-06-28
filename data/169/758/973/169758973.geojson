@@ -2,13 +2,14 @@
   "id": 169758973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.806274,48.554612,-109.806274,48.554612",
     "geom:latitude":48.554612,
     "geom:longitude":-109.806274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 86th Ave W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169758973,
-    "wof:lastmodified":1449033684,
+    "wof:lastmodified":1466641206,
     "wof:name":"PS Limo Service Rodrick Entps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-109.806274,48.554612,-109.806274,48.554612],
+  "bbox": [
+    -109.806274,
+    48.554612,
+    -109.806274,
+    48.554612
+],
   "geometry": {"coordinates":[-109.806274,48.554612],"type":"Point"}
 }

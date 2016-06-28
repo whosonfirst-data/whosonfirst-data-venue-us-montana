@@ -2,13 +2,14 @@
   "id": 169865259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.899159,47.339344,-108.899159,47.339344",
     "geom:latitude":47.339344,
     "geom:longitude":-108.899159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3812 US Hwy 191",
     "sg:city":"Roy",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169865259,
-    "wof:lastmodified":1449035153,
+    "wof:lastmodified":1466641356,
     "wof:name":"Siroky Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.899159,47.339344,-108.899159,47.339344],
+  "bbox": [
+    -108.899159,
+    47.339344,
+    -108.899159,
+    47.339344
+],
   "geometry": {"coordinates":[-108.899159,47.339344],"type":"Point"}
 }

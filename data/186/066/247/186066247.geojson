@@ -2,13 +2,14 @@
   "id": 186066247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.188524,46.980645,-104.188524,46.980645",
     "geom:latitude":46.980645,
     "geom:longitude":-104.188524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Wibaux St S",
     "sg:city":"Wibaux",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186066247,
-    "wof:lastmodified":1449051157,
+    "wof:lastmodified":1466641861,
     "wof:name":"Wibaux County Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-104.188524,46.980645,-104.188524,46.980645],
+  "bbox": [
+    -104.188524,
+    46.980645,
+    -104.188524,
+    46.980645
+],
   "geometry": {"coordinates":[-104.188524,46.980645],"type":"Point"}
 }

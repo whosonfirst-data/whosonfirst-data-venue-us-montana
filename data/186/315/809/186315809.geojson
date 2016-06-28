@@ -2,13 +2,14 @@
   "id": 186315809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.442048,47.068441,-109.442048,47.068441",
     "geom:latitude":47.068441,
     "geom:longitude":-109.442048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Highland Ave",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186315809,
-    "wof:lastmodified":1449052902,
+    "wof:lastmodified":1466642660,
     "wof:name":"Diamond D Five Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.442048,47.068441,-109.442048,47.068441],
+  "bbox": [
+    -109.442048,
+    47.068441,
+    -109.442048,
+    47.068441
+],
   "geometry": {"coordinates":[-109.442048,47.068441],"type":"Point"}
 }

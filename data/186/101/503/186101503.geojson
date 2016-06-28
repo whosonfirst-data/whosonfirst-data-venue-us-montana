@@ -2,13 +2,14 @@
   "id": 186101503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.776263,45.668392,-108.776263,45.668392",
     "geom:latitude":45.668392,
     "geom:longitude":-108.776263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 W Main St",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186101503,
-    "wof:lastmodified":1449051787,
+    "wof:lastmodified":1466641981,
     "wof:name":"Circuit The Women In Fitness",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "facility"
     ]
 },
-  "bbox": [-108.776263,45.668392,-108.776263,45.668392],
+  "bbox": [
+    -108.776263,
+    45.668392,
+    -108.776263,
+    45.668392
+],
   "geometry": {"coordinates":[-108.776263,45.668392],"type":"Point"}
 }

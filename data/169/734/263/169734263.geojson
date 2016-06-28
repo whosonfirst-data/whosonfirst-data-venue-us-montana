@@ -2,13 +2,14 @@
   "id": 169734263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.114709,46.232095,-114.114709,46.232095",
     "geom:latitude":46.232095,
     "geom:longitude":-114.114709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Golf Course Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169734263,
-    "wof:lastmodified":1449035537,
+    "wof:lastmodified":1466641743,
     "wof:name":"Hamilton Golf Club Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-114.114709,46.232095,-114.114709,46.232095],
+  "bbox": [
+    -114.114709,
+    46.232095,
+    -114.114709,
+    46.232095
+],
   "geometry": {"coordinates":[-114.114709,46.232095],"type":"Point"}
 }

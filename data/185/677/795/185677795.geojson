@@ -2,13 +2,14 @@
   "id": 185677795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.993939,46.581508,-111.993939,46.581508",
     "geom:latitude":46.581508,
     "geom:longitude":-111.993939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Saddle Dr",
     "sg:city":"Clancy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185677795,
-    "wof:lastmodified":1449007172,
+    "wof:lastmodified":1466641402,
     "wof:name":"Spangler Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-111.993939,46.581508,-111.993939,46.581508],
+  "bbox": [
+    -111.993939,
+    46.581508,
+    -111.993939,
+    46.581508
+],
   "geometry": {"coordinates":[-111.993939,46.581508],"type":"Point"}
 }

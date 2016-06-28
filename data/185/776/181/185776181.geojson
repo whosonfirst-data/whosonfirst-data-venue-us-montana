@@ -2,13 +2,14 @@
   "id": 185776181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.328576,45.669667,-111.328576,45.669667",
     "geom:latitude":45.669667,
     "geom:longitude":-111.328576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12557 Little Holland Rd",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185776181,
-    "wof:lastmodified":1449006969,
+    "wof:lastmodified":1466641501,
     "wof:name":"Vissers Greenhouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nursery"
     ]
 },
-  "bbox": [-111.328576,45.669667,-111.328576,45.669667],
+  "bbox": [
+    -111.328576,
+    45.669667,
+    -111.328576,
+    45.669667
+],
   "geometry": {"coordinates":[-111.328576,45.669667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186410153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.607958,45.797596,-108.607958,45.797596",
     "geom:latitude":45.797596,
     "geom:longitude":-108.607958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3631 Donna Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186410153,
-    "wof:lastmodified":1449050297,
+    "wof:lastmodified":1466642775,
     "wof:name":"J & S Pioneer Svc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-108.607958,45.797596,-108.607958,45.797596],
+  "bbox": [
+    -108.607958,
+    45.797596,
+    -108.607958,
+    45.797596
+],
   "geometry": {"coordinates":[-108.607958,45.797596],"type":"Point"}
 }

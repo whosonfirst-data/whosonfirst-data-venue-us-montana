@@ -2,13 +2,14 @@
   "id": 185634455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.981696,47.614527,-111.981696,47.614527",
     "geom:latitude":47.614527,
     "geom:longitude":-111.981696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Central Ave",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185634455,
-    "wof:lastmodified":1449007391,
+    "wof:lastmodified":1466641337,
     "wof:name":"Mills Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-111.981696,47.614527,-111.981696,47.614527],
+  "bbox": [
+    -111.981696,
+    47.614527,
+    -111.981696,
+    47.614527
+],
   "geometry": {"coordinates":[-111.981696,47.614527],"type":"Point"}
 }

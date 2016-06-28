@@ -2,13 +2,14 @@
   "id": 169758111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.951909,45.837065,-109.951909,45.837065",
     "geom:latitude":45.837065,
     "geom:longitude":-109.951909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 E 1st Ave",
     "sg:city":"Big Timber",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169758111,
-    "wof:lastmodified":1449033686,
+    "wof:lastmodified":1466641197,
     "wof:name":"Country Crossroads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-109.951909,45.837065,-109.951909,45.837065],
+  "bbox": [
+    -109.951909,
+    45.837065,
+    -109.951909,
+    45.837065
+],
   "geometry": {"coordinates":[-109.951909,45.837065],"type":"Point"}
 }

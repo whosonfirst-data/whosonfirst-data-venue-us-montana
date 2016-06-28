@@ -2,13 +2,14 @@
   "id": 185644613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.615082,45.760597,-108.615082,45.760597",
     "geom:latitude":45.760597,
     "geom:longitude":-108.615082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Victory Cir",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185644613,
-    "wof:lastmodified":1449007523,
+    "wof:lastmodified":1466641367,
     "wof:name":"Olympic Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-108.615082,45.760597,-108.615082,45.760597],
+  "bbox": [
+    -108.615082,
+    45.760597,
+    -108.615082,
+    45.760597
+],
   "geometry": {"coordinates":[-108.615082,45.760597],"type":"Point"}
 }

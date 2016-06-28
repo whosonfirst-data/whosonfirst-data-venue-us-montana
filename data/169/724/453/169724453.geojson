@@ -2,13 +2,14 @@
   "id": 169724453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.547439,46.001629,-112.547439,46.001629",
     "geom:latitude":46.001629,
     "geom:longitude":-112.547439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 Illinois St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169724453,
-    "wof:lastmodified":1449035899,
+    "wof:lastmodified":1466641736,
     "wof:name":"Db Firewalker",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-112.547439,46.001629,-112.547439,46.001629],
+  "bbox": [
+    -112.547439,
+    46.001629,
+    -112.547439,
+    46.001629
+],
   "geometry": {"coordinates":[-112.547439,46.001629],"type":"Point"}
 }

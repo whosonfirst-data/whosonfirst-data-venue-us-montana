@@ -2,13 +2,14 @@
   "id": 186160717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.699298,45.755181,-108.699298,45.755181",
     "geom:latitude":45.755181,
     "geom:longitude":-108.699298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7137 King Ave W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186160717,
-    "wof:lastmodified":1449052578,
+    "wof:lastmodified":1466642287,
     "wof:name":"Kotas Kennels",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.699298,45.755181,-108.699298,45.755181],
+  "bbox": [
+    -108.699298,
+    45.755181,
+    -108.699298,
+    45.755181
+],
   "geometry": {"coordinates":[-108.699298,45.755181],"type":"Point"}
 }

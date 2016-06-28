@@ -2,13 +2,14 @@
   "id": 186328081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.052222,46.804818,-114.052222,46.804818",
     "geom:latitude":46.804818,
     "geom:longitude":-114.052222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4963 Christian Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186328081,
-    "wof:lastmodified":1449051945,
+    "wof:lastmodified":1466642445,
     "wof:name":"Gary Minster Construction",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.052222,46.804818,-114.052222,46.804818],
+  "bbox": [
+    -114.052222,
+    46.804818,
+    -114.052222,
+    46.804818
+],
   "geometry": {"coordinates":[-114.052222,46.804818],"type":"Point"}
 }

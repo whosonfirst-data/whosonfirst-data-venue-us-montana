@@ -2,13 +2,14 @@
   "id": 186059555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.304745,48.291092,-114.304745,48.291092",
     "geom:latitude":48.291092,
     "geom:longitude":-114.304745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Birch Grove Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186059555,
-    "wof:lastmodified":1449051121,
+    "wof:lastmodified":1466641734,
     "wof:name":"Knotts Family Investments Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-114.304745,48.291092,-114.304745,48.291092],
+  "bbox": [
+    -114.304745,
+    48.291092,
+    -114.304745,
+    48.291092
+],
   "geometry": {"coordinates":[-114.304745,48.291092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186146495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.076082,47.152874,-114.076082,47.152874",
     "geom:latitude":47.152874,
     "geom:longitude":-114.076082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 Lumpry Rd",
     "sg:city":"Arlee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186146495,
-    "wof:lastmodified":1449051485,
+    "wof:lastmodified":1466642113,
     "wof:name":"Pine Ridge Post & Pole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-114.076082,47.152874,-114.076082,47.152874],
+  "bbox": [
+    -114.076082,
+    47.152874,
+    -114.076082,
+    47.152874
+],
   "geometry": {"coordinates":[-114.076082,47.152874],"type":"Point"}
 }

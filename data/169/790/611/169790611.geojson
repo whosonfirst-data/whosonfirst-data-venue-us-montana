@@ -2,13 +2,14 @@
   "id": 169790611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.70154,48.542231,-109.70154,48.542231",
     "geom:latitude":48.542231,
     "geom:longitude":-109.70154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 Lincoln Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169790611,
-    "wof:lastmodified":1449035190,
+    "wof:lastmodified":1466641253,
     "wof:name":"Bethel J Coe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.70154,48.542231,-109.70154,48.542231],
-  "geometry": {"coordinates":[-109.70154,48.542231],"type":"Point"}
+  "bbox": [
+    -109.70154,
+    48.542231,
+    -109.70154,
+    48.542231
+],
+  "geometry": {"coordinates":[-109.70153999999999,48.542231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186395441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.000044,46.867864,-114.000044,46.867864",
     "geom:latitude":46.867864,
     "geom:longitude":-114.000044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 S 2nd St W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186395441,
-    "wof:lastmodified":1449052617,
+    "wof:lastmodified":1466642854,
     "wof:name":"Logan Marshall Blank",
     "wof:parent_id":85891731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.000044,46.867864,-114.000044,46.867864],
+  "bbox": [
+    -114.000044,
+    46.867864,
+    -114.000044,
+    46.867864
+],
   "geometry": {"coordinates":[-114.000044,46.867864],"type":"Point"}
 }

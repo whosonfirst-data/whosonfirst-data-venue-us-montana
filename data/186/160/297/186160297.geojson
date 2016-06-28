@@ -2,13 +2,14 @@
   "id": 186160297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.005938,46.848743,-114.005938,46.848743",
     "geom:latitude":46.848743,
     "geom:longitude":-114.005938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 South Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186160297,
-    "wof:lastmodified":1449052580,
+    "wof:lastmodified":1466642138,
     "wof:name":"University Montana Golf Course",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "public"
     ]
 },
-  "bbox": [-114.005938,46.848743,-114.005938,46.848743],
+  "bbox": [
+    -114.005938,
+    46.848743,
+    -114.005938,
+    46.848743
+],
   "geometry": {"coordinates":[-114.005938,46.848743],"type":"Point"}
 }

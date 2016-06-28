@@ -2,13 +2,14 @@
   "id": 186012187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.002703,46.823128,-114.002703,46.823128",
     "geom:latitude":46.823128,
     "geom:longitude":-114.002703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5111 Pintlar Mountain Ct",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186012187,
-    "wof:lastmodified":1449052751,
+    "wof:lastmodified":1466641333,
     "wof:name":"Bender Realty LLC",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.002703,46.823128,-114.002703,46.823128],
+  "bbox": [
+    -114.002703,
+    46.823128,
+    -114.002703,
+    46.823128
+],
   "geometry": {"coordinates":[-114.002703,46.823128],"type":"Point"}
 }

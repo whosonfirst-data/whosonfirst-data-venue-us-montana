@@ -2,13 +2,14 @@
   "id": 186101663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.113225,45.866853,-112.113225,45.866853",
     "geom:latitude":45.866853,
     "geom:longitude":-112.113225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Kaddy Ln",
     "sg:city":"Whitehall",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186101663,
-    "wof:lastmodified":1449051786,
+    "wof:lastmodified":1466641981,
     "wof:name":"Ten Mares Wood Working",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.113225,45.866853,-112.113225,45.866853],
+  "bbox": [
+    -112.113225,
+    45.866853,
+    -112.113225,
+    45.866853
+],
   "geometry": {"coordinates":[-112.113225,45.866853],"type":"Point"}
 }

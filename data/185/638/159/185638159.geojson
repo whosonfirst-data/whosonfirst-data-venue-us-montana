@@ -2,13 +2,14 @@
   "id": 185638159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.108328,45.748706,-111.108328,45.748706",
     "geom:latitude":45.748706,
     "geom:longitude":-111.108328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Coulee Dr",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185638159,
-    "wof:lastmodified":1449006672,
+    "wof:lastmodified":1466641341,
     "wof:name":"Rocky Mountain Shows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.108328,45.748706,-111.108328,45.748706],
+  "bbox": [
+    -111.108328,
+    45.748706,
+    -111.108328,
+    45.748706
+],
   "geometry": {"coordinates":[-111.108328,45.748706],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169829643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.50894,45.990342,-112.50894,45.990342",
     "geom:latitude":45.990342,
     "geom:longitude":-112.50894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Florence Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169829643,
-    "wof:lastmodified":1449035746,
+    "wof:lastmodified":1466641303,
     "wof:name":"Gloria Dei Lutheran Church",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-112.50894,45.990342,-112.50894,45.990342],
+  "bbox": [
+    -112.50894,
+    45.990342,
+    -112.50894,
+    45.990342
+],
   "geometry": {"coordinates":[-112.50894,45.990342],"type":"Point"}
 }

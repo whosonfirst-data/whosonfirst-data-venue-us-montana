@@ -2,13 +2,14 @@
   "id": 186239051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.145338,46.47237,-114.145338,46.47237",
     "geom:latitude":46.47237,
     "geom:longitude":-114.145338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Indian Prairie Loop",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186239051,
-    "wof:lastmodified":1449050500,
+    "wof:lastmodified":1466642504,
     "wof:name":"Hotcha Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sitting"
     ]
 },
-  "bbox": [-114.145338,46.47237,-114.145338,46.47237],
+  "bbox": [
+    -114.145338,
+    46.47237,
+    -114.145338,
+    46.47237
+],
   "geometry": {"coordinates":[-114.145338,46.47237],"type":"Point"}
 }

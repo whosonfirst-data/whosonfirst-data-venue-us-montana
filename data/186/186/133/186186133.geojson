@@ -2,13 +2,14 @@
   "id": 186186133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.592405,47.001727,-114.592405,47.001727",
     "geom:latitude":47.001727,
     "geom:longitude":-114.592405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Juniper Ln",
     "sg:city":"Alberton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186186133,
-    "wof:lastmodified":1449052421,
+    "wof:lastmodified":1466642402,
     "wof:name":"JB Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "prep"
     ]
 },
-  "bbox": [-114.592405,47.001727,-114.592405,47.001727],
+  "bbox": [
+    -114.592405,
+    47.001727,
+    -114.592405,
+    47.001727
+],
   "geometry": {"coordinates":[-114.592405,47.001727],"type":"Point"}
 }

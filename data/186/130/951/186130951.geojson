@@ -2,13 +2,14 @@
   "id": 186130951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.342381,48.244142,-114.342381,48.244142",
     "geom:latitude":48.244142,
     "geom:longitude":-114.342381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Bowman Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186130951,
-    "wof:lastmodified":1449051315,
+    "wof:lastmodified":1466642089,
     "wof:name":"A&M Phone Systems",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-114.342381,48.244142,-114.342381,48.244142],
+  "bbox": [
+    -114.342381,
+    48.244142,
+    -114.342381,
+    48.244142
+],
   "geometry": {"coordinates":[-114.342381,48.244142],"type":"Point"}
 }

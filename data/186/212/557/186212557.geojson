@@ -2,13 +2,14 @@
   "id": 186212557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.453192,45.841969,-108.453192,45.841969",
     "geom:latitude":45.841969,
     "geom:longitude":-108.453192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Mary St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186212557,
-    "wof:lastmodified":1449052112,
+    "wof:lastmodified":1466642367,
     "wof:name":"Empire Sand & Gravel Co Inc",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.453192,45.841969,-108.453192,45.841969],
+  "bbox": [
+    -108.453192,
+    45.841969,
+    -108.453192,
+    45.841969
+],
   "geometry": {"coordinates":[-108.453192,45.841969],"type":"Point"}
 }

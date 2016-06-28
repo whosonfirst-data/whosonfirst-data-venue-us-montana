@@ -2,13 +2,14 @@
   "id": 185741759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.080417,46.716808,-112.080417,46.716808",
     "geom:latitude":46.716808,
     "geom:longitude":-112.080417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Grassy Hills Ln",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185741759,
-    "wof:lastmodified":1449006672,
+    "wof:lastmodified":1466641470,
     "wof:name":"Lone Mountain Cedar Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.080417,46.716808,-112.080417,46.716808],
+  "bbox": [
+    -112.080417,
+    46.716808,
+    -112.080417,
+    46.716808
+],
   "geometry": {"coordinates":[-112.080417,46.716808],"type":"Point"}
 }

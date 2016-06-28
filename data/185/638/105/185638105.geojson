@@ -2,13 +2,14 @@
   "id": 185638105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.024969,46.736948,-112.024969,46.736948",
     "geom:latitude":46.736948,
     "geom:longitude":-112.024969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Erickson Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185638105,
-    "wof:lastmodified":1449006672,
+    "wof:lastmodified":1466641339,
     "wof:name":"Robert J Tobol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fighting"
     ]
 },
-  "bbox": [-112.024969,46.736948,-112.024969,46.736948],
+  "bbox": [
+    -112.024969,
+    46.736948,
+    -112.024969,
+    46.736948
+],
   "geometry": {"coordinates":[-112.024969,46.736948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186108099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.507863,45.956776,-112.507863,45.956776",
     "geom:latitude":45.956776,
     "geom:longitude":-112.507863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186108099,
-    "wof:lastmodified":1449050310,
+    "wof:lastmodified":1466642154,
     "wof:name":"Star Lanes Family Sports Ctr",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-112.507863,45.956776,-112.507863,45.956776],
+  "bbox": [
+    -112.507863,
+    45.956776,
+    -112.507863,
+    45.956776
+],
   "geometry": {"coordinates":[-112.507863,45.956776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186447553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.5563,45.778723,-108.5563,45.778723",
     "geom:latitude":45.778723,
     "geom:longitude":-108.5563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 16th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":186447553,
-    "wof:lastmodified":1449052242,
+    "wof:lastmodified":1466643107,
     "wof:name":"Engraveables & Grover Laser",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "award"
     ]
 },
-  "bbox": [-108.5563,45.778723,-108.5563,45.778723],
-  "geometry": {"coordinates":[-108.5563,45.778723],"type":"Point"}
+  "bbox": [
+    -108.5563,
+    45.778723,
+    -108.5563,
+    45.778723
+],
+  "geometry": {"coordinates":[-108.55629999999999,45.778723],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186253141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.157051,46.25729,-114.157051,46.25729",
     "geom:latitude":46.25729,
     "geom:longitude":-114.157051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 N 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186253141,
-    "wof:lastmodified":1449052684,
+    "wof:lastmodified":1466642531,
     "wof:name":"Nez Perce Land Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.157051,46.25729,-114.157051,46.25729],
+  "bbox": [
+    -114.157051,
+    46.25729,
+    -114.157051,
+    46.25729
+],
   "geometry": {"coordinates":[-114.157051,46.25729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185618429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.145205,46.230346,-114.145205,46.230346",
     "geom:latitude":46.230346,
     "geom:longitude":-114.145205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Grantsdale Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185618429,
-    "wof:lastmodified":1449007611,
+    "wof:lastmodified":1466641209,
     "wof:name":"Powell Surveying Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-114.145205,46.230346,-114.145205,46.230346],
+  "bbox": [
+    -114.145205,
+    46.230346,
+    -114.145205,
+    46.230346
+],
   "geometry": {"coordinates":[-114.145205,46.230346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185866645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.552581,45.666027,-110.552581,45.666027",
     "geom:latitude":45.666027,
     "geom:longitude":-110.552581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 N H St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185866645,
-    "wof:lastmodified":1449007383,
+    "wof:lastmodified":1466641605,
     "wof:name":"Title Cash of Montana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.552581,45.666027,-110.552581,45.666027],
+  "bbox": [
+    -110.552581,
+    45.666027,
+    -110.552581,
+    45.666027
+],
   "geometry": {"coordinates":[-110.552581,45.666027],"type":"Point"}
 }

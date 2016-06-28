@@ -2,13 +2,14 @@
   "id": 186177381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.640929,48.090174,-105.640929,48.090174",
     "geom:latitude":48.090174,
     "geom:longitude":-105.640929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Main St",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186177381,
-    "wof:lastmodified":1449053022,
+    "wof:lastmodified":1466642172,
     "wof:name":"Froid Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-105.640929,48.090174,-105.640929,48.090174],
+  "bbox": [
+    -105.640929,
+    48.090174,
+    -105.640929,
+    48.090174
+],
   "geometry": {"coordinates":[-105.640929,48.090174],"type":"Point"}
 }

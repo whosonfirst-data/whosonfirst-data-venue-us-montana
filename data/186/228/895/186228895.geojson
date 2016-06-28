@@ -2,13 +2,14 @@
   "id": 186228895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.498503,45.812564,-108.498503,45.812564",
     "geom:latitude":45.812564,
     "geom:longitude":-108.498503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Sahara Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186228895,
-    "wof:lastmodified":1449051218,
+    "wof:lastmodified":1466642409,
     "wof:name":"Kit Kat Cafe",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.498503,45.812564,-108.498503,45.812564],
+  "bbox": [
+    -108.498503,
+    45.812564,
+    -108.498503,
+    45.812564
+],
   "geometry": {"coordinates":[-108.498503,45.812564],"type":"Point"}
 }

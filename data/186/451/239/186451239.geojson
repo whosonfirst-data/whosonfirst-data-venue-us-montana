@@ -2,13 +2,14 @@
   "id": 186451239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.237016,45.96367,-108.237016,45.96367",
     "geom:latitude":45.96367,
     "geom:longitude":-108.237016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2456 N 8th Rd",
     "sg:city":"Huntley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186451239,
-    "wof:lastmodified":1449051540,
+    "wof:lastmodified":1466643017,
     "wof:name":"Mountain View Home Inspection",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-108.237016,45.96367,-108.237016,45.96367],
+  "bbox": [
+    -108.237016,
+    45.96367,
+    -108.237016,
+    45.96367
+],
   "geometry": {"coordinates":[-108.237016,45.96367],"type":"Point"}
 }

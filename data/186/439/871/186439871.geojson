@@ -2,13 +2,14 @@
   "id": 186439871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.505013,45.788772,-108.505013,45.788772",
     "geom:latitude":45.788772,
     "geom:longitude":-108.505013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N 24th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186439871,
-    "wof:lastmodified":1449051124,
+    "wof:lastmodified":1466642985,
     "wof:name":"Corrpro Companies",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "corrosion"
     ]
 },
-  "bbox": [-108.505013,45.788772,-108.505013,45.788772],
-  "geometry": {"coordinates":[-108.505013,45.788772],"type":"Point"}
+  "bbox": [
+    -108.505013,
+    45.788772,
+    -108.505013,
+    45.788772
+],
+  "geometry": {"coordinates":[-108.50501300000001,45.788772],"type":"Point"}
 }

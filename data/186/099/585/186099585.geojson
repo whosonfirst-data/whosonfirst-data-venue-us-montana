@@ -2,13 +2,14 @@
   "id": 186099585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.693909,48.543592,-109.693909,48.543592",
     "geom:latitude":48.543592,
     "geom:longitude":-109.693909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1064 McKinley Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186099585,
-    "wof:lastmodified":1449052119,
+    "wof:lastmodified":1466641783,
     "wof:name":"Havre Refrigeration Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.693909,48.543592,-109.693909,48.543592],
+  "bbox": [
+    -109.693909,
+    48.543592,
+    -109.693909,
+    48.543592
+],
   "geometry": {"coordinates":[-109.693909,48.543592],"type":"Point"}
 }

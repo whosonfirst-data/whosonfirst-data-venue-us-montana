@@ -2,13 +2,14 @@
   "id": 185726869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.32554,47.311759,-111.32554,47.311759",
     "geom:latitude":47.311759,
     "geom:longitude":-111.32554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"283 Goodwyn Coulee Rd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185726869,
-    "wof:lastmodified":1449007691,
+    "wof:lastmodified":1466641453,
     "wof:name":"Paul Iverson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-111.32554,47.311759,-111.32554,47.311759],
+  "bbox": [
+    -111.32554,
+    47.311759,
+    -111.32554,
+    47.311759
+],
   "geometry": {"coordinates":[-111.32554,47.311759],"type":"Point"}
 }

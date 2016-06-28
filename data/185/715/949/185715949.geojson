@@ -2,13 +2,14 @@
   "id": 185715949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.025331,46.992567,-105.025331,46.992567",
     "geom:latitude":46.992567,
     "geom:longitude":-105.025331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1192 Rd 248",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185715949,
-    "wof:lastmodified":1449007897,
+    "wof:lastmodified":1466641443,
     "wof:name":"Barnick Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.025331,46.992567,-105.025331,46.992567],
-  "geometry": {"coordinates":[-105.025331,46.992567],"type":"Point"}
+  "bbox": [
+    -105.025331,
+    46.992567,
+    -105.025331,
+    46.992567
+],
+  "geometry": {"coordinates":[-105.02533099999999,46.992567],"type":"Point"}
 }

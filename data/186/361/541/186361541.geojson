@@ -2,13 +2,14 @@
   "id": 186361541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.82662,46.968743,-104.82662,46.968743",
     "geom:latitude":46.968743,
     "geom:longitude":-104.82662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1032 Rd 261",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186361541,
-    "wof:lastmodified":1449052308,
+    "wof:lastmodified":1466642756,
     "wof:name":"Gvd Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-104.82662,46.968743,-104.82662,46.968743],
-  "geometry": {"coordinates":[-104.82662,46.968743],"type":"Point"}
+  "bbox": [
+    -104.82662,
+    46.968743,
+    -104.82662,
+    46.968743
+],
+  "geometry": {"coordinates":[-104.82662000000001,46.968743],"type":"Point"}
 }

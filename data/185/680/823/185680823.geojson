@@ -2,13 +2,14 @@
   "id": 185680823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.637996,45.717836,-108.637996,45.717836",
     "geom:latitude":45.717836,
     "geom:longitude":-108.637996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4804 Danford Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":185680823,
-    "wof:lastmodified":1449007725,
+    "wof:lastmodified":1466641406,
     "wof:name":"Simplot Grower Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "agricultural"
     ]
 },
-  "bbox": [-108.637996,45.717836,-108.637996,45.717836],
+  "bbox": [
+    -108.637996,
+    45.717836,
+    -108.637996,
+    45.717836
+],
   "geometry": {"coordinates":[-108.637996,45.717836],"type":"Point"}
 }

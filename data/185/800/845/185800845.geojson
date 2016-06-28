@@ -2,13 +2,14 @@
   "id": 185800845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.122001,45.381358,-112.122001,45.381358",
     "geom:latitude":45.381358,
     "geom:longitude":-112.122001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Bivens Creek Rd",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185800845,
-    "wof:lastmodified":1449006731,
+    "wof:lastmodified":1466641536,
     "wof:name":"Bieroth Del",
     "wof:parent_id":85851385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-112.122001,45.381358,-112.122001,45.381358],
+  "bbox": [
+    -112.122001,
+    45.381358,
+    -112.122001,
+    45.381358
+],
   "geometry": {"coordinates":[-112.122001,45.381358],"type":"Point"}
 }

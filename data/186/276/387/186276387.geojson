@@ -2,13 +2,14 @@
   "id": 186276387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.513456,45.77715,-108.513456,45.77715",
     "geom:latitude":45.77715,
     "geom:longitude":-108.513456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3407 Montana Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186276387,
-    "wof:lastmodified":1449050372,
+    "wof:lastmodified":1466642570,
     "wof:name":"Scary Larrys",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-108.513456,45.77715,-108.513456,45.77715],
-  "geometry": {"coordinates":[-108.513456,45.77715],"type":"Point"}
+  "bbox": [
+    -108.513456,
+    45.77715,
+    -108.513456,
+    45.77715
+],
+  "geometry": {"coordinates":[-108.51345600000001,45.77715],"type":"Point"}
 }

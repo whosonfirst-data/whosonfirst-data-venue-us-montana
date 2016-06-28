@@ -2,13 +2,14 @@
   "id": 185649425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.637426,45.217408,-112.637426,45.217408",
     "geom:latitude":45.217408,
     "geom:longitude":-112.637426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 E Bannack St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185649425,
-    "wof:lastmodified":1449007685,
+    "wof:lastmodified":1466641367,
     "wof:name":"Sweetwater Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-112.637426,45.217408,-112.637426,45.217408],
+  "bbox": [
+    -112.637426,
+    45.217408,
+    -112.637426,
+    45.217408
+],
   "geometry": {"coordinates":[-112.637426,45.217408],"type":"Point"}
 }

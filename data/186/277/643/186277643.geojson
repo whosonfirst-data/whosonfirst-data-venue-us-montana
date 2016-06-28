@@ -2,13 +2,14 @@
   "id": 186277643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.504411,45.786348,-108.504411,45.786348",
     "geom:latitude":45.786348,
     "geom:longitude":-108.504411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N 25th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186277643,
-    "wof:lastmodified":1449050554,
+    "wof:lastmodified":1466642289,
     "wof:name":"Rocky Mountain Health Network",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-108.504411,45.786348,-108.504411,45.786348],
+  "bbox": [
+    -108.504411,
+    45.786348,
+    -108.504411,
+    45.786348
+],
   "geometry": {"coordinates":[-108.504411,45.786348],"type":"Point"}
 }

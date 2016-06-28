@@ -2,13 +2,14 @@
   "id": 186445185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.663106,45.185513,-112.663106,45.185513",
     "geom:latitude":45.185513,
     "geom:longitude":-112.663106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Southwind Ln",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186445185,
-    "wof:lastmodified":1449050667,
+    "wof:lastmodified":1466643000,
     "wof:name":"R & R Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-112.663106,45.185513,-112.663106,45.185513],
+  "bbox": [
+    -112.663106,
+    45.185513,
+    -112.663106,
+    45.185513
+],
   "geometry": {"coordinates":[-112.663106,45.185513],"type":"Point"}
 }

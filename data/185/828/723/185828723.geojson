@@ -2,13 +2,14 @@
   "id": 185828723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.315958,47.529721,-114.315958,47.529721",
     "geom:latitude":47.529721,
     "geom:longitude":-114.315958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10098 Round Butte Rd W",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185828723,
-    "wof:lastmodified":1449007451,
+    "wof:lastmodified":1466641564,
     "wof:name":"Dan Jackson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.315958,47.529721,-114.315958,47.529721],
-  "geometry": {"coordinates":[-114.315958,47.529721],"type":"Point"}
+  "bbox": [
+    -114.315958,
+    47.529721,
+    -114.315958,
+    47.529721
+],
+  "geometry": {"coordinates":[-114.31595799999999,47.529721],"type":"Point"}
 }

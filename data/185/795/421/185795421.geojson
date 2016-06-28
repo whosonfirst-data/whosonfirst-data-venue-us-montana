@@ -2,13 +2,14 @@
   "id": 185795421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.998259,46.831735,-113.998259,46.831735",
     "geom:latitude":46.831735,
     "geom:longitude":-113.998259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Ironwood Pl",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185795421,
-    "wof:lastmodified":1449007565,
+    "wof:lastmodified":1466641522,
     "wof:name":"Cloud Ix L L C",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-113.998259,46.831735,-113.998259,46.831735],
+  "bbox": [
+    -113.998259,
+    46.831735,
+    -113.998259,
+    46.831735
+],
   "geometry": {"coordinates":[-113.998259,46.831735],"type":"Point"}
 }

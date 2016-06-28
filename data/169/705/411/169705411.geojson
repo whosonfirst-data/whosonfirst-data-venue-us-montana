@@ -2,13 +2,14 @@
   "id": 169705411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.038203,47.531306,-114.038203,47.531306",
     "geom:latitude":47.531306,
     "geom:longitude":-114.038203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Michel Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169705411,
-    "wof:lastmodified":1449035989,
+    "wof:lastmodified":1466641230,
     "wof:name":"Woodchuck Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "operates"
     ]
 },
-  "bbox": [-114.038203,47.531306,-114.038203,47.531306],
+  "bbox": [
+    -114.038203,
+    47.531306,
+    -114.038203,
+    47.531306
+],
   "geometry": {"coordinates":[-114.038203,47.531306],"type":"Point"}
 }

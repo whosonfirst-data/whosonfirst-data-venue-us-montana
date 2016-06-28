@@ -2,13 +2,14 @@
   "id": 186001861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.021466,46.648886,-112.021466,46.648886",
     "geom:latitude":46.648886,
     "geom:longitude":-112.021466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5150 N Montana Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186001861,
-    "wof:lastmodified":1449051009,
+    "wof:lastmodified":1466641226,
     "wof:name":"Automotive Restorations & Spc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-112.021466,46.648886,-112.021466,46.648886],
+  "bbox": [
+    -112.021466,
+    46.648886,
+    -112.021466,
+    46.648886
+],
   "geometry": {"coordinates":[-112.021466,46.648886],"type":"Point"}
 }

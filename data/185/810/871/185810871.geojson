@@ -2,13 +2,14 @@
   "id": 185810871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.021305,46.644904,-112.021305,46.644904",
     "geom:latitude":46.644904,
     "geom:longitude":-112.021305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4995 N Montana Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185810871,
-    "wof:lastmodified":1449007080,
+    "wof:lastmodified":1466641546,
     "wof:name":"Hounder C B Sales & Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-112.021305,46.644904,-112.021305,46.644904],
+  "bbox": [
+    -112.021305,
+    46.644904,
+    -112.021305,
+    46.644904
+],
   "geometry": {"coordinates":[-112.021305,46.644904],"type":"Point"}
 }

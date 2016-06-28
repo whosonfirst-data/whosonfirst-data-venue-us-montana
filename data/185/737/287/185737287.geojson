@@ -2,13 +2,14 @@
   "id": 185737287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.656028,45.801545,-108.656028,45.801545",
     "geom:latitude":45.801545,
     "geom:longitude":-108.656028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3126 Lloyd Mangrum Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185737287,
-    "wof:lastmodified":1449006977,
+    "wof:lastmodified":1466641457,
     "wof:name":"McCalla APT",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-108.656028,45.801545,-108.656028,45.801545],
-  "geometry": {"coordinates":[-108.656028,45.801545],"type":"Point"}
+  "bbox": [
+    -108.656028,
+    45.801545,
+    -108.656028,
+    45.801545
+],
+  "geometry": {"coordinates":[-108.65602800000001,45.801545],"type":"Point"}
 }

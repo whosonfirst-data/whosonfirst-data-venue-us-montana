@@ -2,13 +2,14 @@
   "id": 186443537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.321291,48.193352,-114.321291,48.193352",
     "geom:latitude":48.193352,
     "geom:longitude":-114.321291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 6th Ave W",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186443537,
-    "wof:lastmodified":1449052514,
+    "wof:lastmodified":1466643101,
     "wof:name":"Lyndon L Steinmetz Design",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [-114.321291,48.193352,-114.321291,48.193352],
+  "bbox": [
+    -114.321291,
+    48.193352,
+    -114.321291,
+    48.193352
+],
   "geometry": {"coordinates":[-114.321291,48.193352],"type":"Point"}
 }

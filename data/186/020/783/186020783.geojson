@@ -2,13 +2,14 @@
   "id": 186020783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.693622,48.554886,-109.693622,48.554886",
     "geom:latitude":48.554886,
     "geom:longitude":-109.693622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 1st St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186020783,
-    "wof:lastmodified":1449051630,
+    "wof:lastmodified":1466641465,
     "wof:name":"Leon's Buy & Sell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-109.693622,48.554886,-109.693622,48.554886],
+  "bbox": [
+    -109.693622,
+    48.554886,
+    -109.693622,
+    48.554886
+],
   "geometry": {"coordinates":[-109.693622,48.554886],"type":"Point"}
 }

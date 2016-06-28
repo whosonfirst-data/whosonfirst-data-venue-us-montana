@@ -2,13 +2,14 @@
   "id": 186051811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.259402,47.505161,-111.259402,47.505161",
     "geom:latitude":47.505161,
     "geom:longitude":-111.259402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Central Ave",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186051811,
-    "wof:lastmodified":1449052021,
+    "wof:lastmodified":1466641832,
     "wof:name":"M R M Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumbing"
     ]
 },
-  "bbox": [-111.259402,47.505161,-111.259402,47.505161],
-  "geometry": {"coordinates":[-111.259402,47.505161],"type":"Point"}
+  "bbox": [
+    -111.259402,
+    47.505161,
+    -111.259402,
+    47.505161
+],
+  "geometry": {"coordinates":[-111.25940199999999,47.505161],"type":"Point"}
 }

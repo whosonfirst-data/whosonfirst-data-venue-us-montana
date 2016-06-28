@@ -2,13 +2,14 @@
   "id": 186369641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.676506,48.552271,-109.676506,48.552271",
     "geom:latitude":48.552271,
     "geom:longitude":-109.676506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 2nd St",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186369641,
-    "wof:lastmodified":1449052904,
+    "wof:lastmodified":1466642779,
     "wof:name":"Holdens Hot Wheels Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "replacement"
     ]
 },
-  "bbox": [-109.676506,48.552271,-109.676506,48.552271],
+  "bbox": [
+    -109.676506,
+    48.552271,
+    -109.676506,
+    48.552271
+],
   "geometry": {"coordinates":[-109.676506,48.552271],"type":"Point"}
 }

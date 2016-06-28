@@ -2,13 +2,14 @@
   "id": 185779745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.318107,45.787078,-111.318107,45.787078",
     "geom:latitude":45.787078,
     "geom:longitude":-111.318107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4675 Churchill Rd",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185779745,
-    "wof:lastmodified":1449006860,
+    "wof:lastmodified":1466641510,
     "wof:name":"Farlow Backhoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.318107,45.787078,-111.318107,45.787078],
+  "bbox": [
+    -111.318107,
+    45.787078,
+    -111.318107,
+    45.787078
+],
   "geometry": {"coordinates":[-111.318107,45.787078],"type":"Point"}
 }

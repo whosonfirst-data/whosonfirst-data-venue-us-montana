@@ -2,13 +2,14 @@
   "id": 186350209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.028793,45.666836,-111.028793,45.666836",
     "geom:latitude":45.666836,
     "geom:longitude":-111.028793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 S Church Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186350209,
-    "wof:lastmodified":1449051736,
+    "wof:lastmodified":1466642859,
     "wof:name":"Martel Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-111.028793,45.666836,-111.028793,45.666836],
-  "geometry": {"coordinates":[-111.028793,45.666836],"type":"Point"}
+  "bbox": [
+    -111.028793,
+    45.666836,
+    -111.028793,
+    45.666836
+],
+  "geometry": {"coordinates":[-111.02879299999999,45.666836],"type":"Point"}
 }

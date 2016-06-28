@@ -2,13 +2,14 @@
   "id": 185813135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.014755,46.848914,-114.014755,46.848914",
     "geom:latitude":46.848914,
     "geom:longitude":-114.014755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 South Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185813135,
-    "wof:lastmodified":1449007021,
+    "wof:lastmodified":1466641542,
     "wof:name":"Village Cleaners",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plant"
     ]
 },
-  "bbox": [-114.014755,46.848914,-114.014755,46.848914],
-  "geometry": {"coordinates":[-114.014755,46.848914],"type":"Point"}
+  "bbox": [
+    -114.014755,
+    46.848914,
+    -114.014755,
+    46.848914
+],
+  "geometry": {"coordinates":[-114.01475499999999,46.848914],"type":"Point"}
 }

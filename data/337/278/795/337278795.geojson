@@ -2,13 +2,14 @@
   "id": 337278795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.626131,45.801185,-108.626131,45.801185",
     "geom:latitude":45.801185,
     "geom:longitude":-108.626131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4355 Pine Cove Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337278795,
-    "wof:lastmodified":1449027392,
+    "wof:lastmodified":1466641901,
     "wof:name":"A & S Electric",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.626131,45.801185,-108.626131,45.801185],
+  "bbox": [
+    -108.626131,
+    45.801185,
+    -108.626131,
+    45.801185
+],
   "geometry": {"coordinates":[-108.626131,45.801185],"type":"Point"}
 }

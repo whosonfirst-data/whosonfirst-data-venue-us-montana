@@ -2,13 +2,14 @@
   "id": 185945277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.077216,46.638931,-114.077216,46.638931",
     "geom:latitude":46.638931,
     "geom:longitude":-114.077216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5529 Old US Hwy 93",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185945277,
-    "wof:lastmodified":1449006739,
+    "wof:lastmodified":1466641696,
     "wof:name":"Florence Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-114.077216,46.638931,-114.077216,46.638931],
-  "geometry": {"coordinates":[-114.077216,46.638931],"type":"Point"}
+  "bbox": [
+    -114.077216,
+    46.638931,
+    -114.077216,
+    46.638931
+],
+  "geometry": {"coordinates":[-114.07721600000001,46.638931],"type":"Point"}
 }

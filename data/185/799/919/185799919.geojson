@@ -2,13 +2,14 @@
   "id": 185799919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.715408,47.848052,-111.715408,47.848052",
     "geom:latitude":47.848052,
     "geom:longitude":-111.715408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Main St",
     "sg:city":"Dutton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185799919,
-    "wof:lastmodified":1449008217,
+    "wof:lastmodified":1466641536,
     "wof:name":"Dutton Senior Citizens Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-111.715408,47.848052,-111.715408,47.848052],
+  "bbox": [
+    -111.715408,
+    47.848052,
+    -111.715408,
+    47.848052
+],
   "geometry": {"coordinates":[-111.715408,47.848052],"type":"Point"}
 }

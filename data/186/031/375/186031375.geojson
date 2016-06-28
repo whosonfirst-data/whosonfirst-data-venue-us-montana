@@ -2,13 +2,14 @@
   "id": 186031375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.049943,47.616775,-114.049943,47.616775",
     "geom:latitude":47.616775,
     "geom:longitude":-114.049943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2371 Courville Trl",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186031375,
-    "wof:lastmodified":1449051375,
+    "wof:lastmodified":1466641636,
     "wof:name":"Mountain View Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.049943,47.616775,-114.049943,47.616775],
+  "bbox": [
+    -114.049943,
+    47.616775,
+    -114.049943,
+    47.616775
+],
   "geometry": {"coordinates":[-114.049943,47.616775],"type":"Point"}
 }

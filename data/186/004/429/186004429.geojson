@@ -2,13 +2,14 @@
   "id": 186004429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.420226,47.070468,-109.420226,47.070468",
     "geom:latitude":47.070468,
     "geom:longitude":-109.420226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 E Broadway St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186004429,
-    "wof:lastmodified":1449051368,
+    "wof:lastmodified":1466641247,
     "wof:name":"Otter Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-109.420226,47.070468,-109.420226,47.070468],
+  "bbox": [
+    -109.420226,
+    47.070468,
+    -109.420226,
+    47.070468
+],
   "geometry": {"coordinates":[-109.420226,47.070468],"type":"Point"}
 }

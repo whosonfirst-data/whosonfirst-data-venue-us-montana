@@ -2,13 +2,14 @@
   "id": 186004057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.515322,45.77912,-108.515322,45.77912",
     "geom:latitude":45.77912,
     "geom:longitude":-108.515322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Division St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186004057,
-    "wof:lastmodified":1449051364,
+    "wof:lastmodified":1466641753,
     "wof:name":"Jackson Fekety & Odle",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.515322,45.77912,-108.515322,45.77912],
+  "bbox": [
+    -108.515322,
+    45.77912,
+    -108.515322,
+    45.77912
+],
   "geometry": {"coordinates":[-108.515322,45.77912],"type":"Point"}
 }

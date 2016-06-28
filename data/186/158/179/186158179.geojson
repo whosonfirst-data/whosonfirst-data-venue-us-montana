@@ -2,13 +2,14 @@
   "id": 186158179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.547032,45.78984,-108.547032,45.78984",
     "geom:latitude":45.78984,
     "geom:longitude":-108.547032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 Parkhill Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186158179,
-    "wof:lastmodified":1449052157,
+    "wof:lastmodified":1466642135,
     "wof:name":"Dave Wheaty",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-108.547032,45.78984,-108.547032,45.78984],
+  "bbox": [
+    -108.547032,
+    45.78984,
+    -108.547032,
+    45.78984
+],
   "geometry": {"coordinates":[-108.547032,45.78984],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185879017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.49939,45.777718,-108.49939,45.777718",
     "geom:latitude":45.777718,
     "geom:longitude":-108.49939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 4th Ave S",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185879017,
-    "wof:lastmodified":1449006613,
+    "wof:lastmodified":1466641784,
     "wof:name":"Flashpagez",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-108.49939,45.777718,-108.49939,45.777718],
-  "geometry": {"coordinates":[-108.49939,45.777718],"type":"Point"}
+  "bbox": [
+    -108.49939,
+    45.777718,
+    -108.49939,
+    45.777718
+],
+  "geometry": {"coordinates":[-108.49939000000001,45.777718],"type":"Point"}
 }

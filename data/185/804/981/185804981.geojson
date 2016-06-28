@@ -2,13 +2,14 @@
   "id": 185804981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.395949,45.816331,-108.395949,45.816331",
     "geom:latitude":45.816331,
     "geom:longitude":-108.395949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 Quinella Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185804981,
-    "wof:lastmodified":1449007712,
+    "wof:lastmodified":1466641543,
     "wof:name":"Diamond Pet Food Distributors",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-108.395949,45.816331,-108.395949,45.816331],
+  "bbox": [
+    -108.395949,
+    45.816331,
+    -108.395949,
+    45.816331
+],
   "geometry": {"coordinates":[-108.395949,45.816331],"type":"Point"}
 }

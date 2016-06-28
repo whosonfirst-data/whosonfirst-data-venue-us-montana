@@ -2,13 +2,14 @@
   "id": 169864521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.26126,47.496235,-111.26126,47.496235",
     "geom:latitude":47.496235,
     "geom:longitude":-111.26126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2626 8th Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169864521,
-    "wof:lastmodified":1449036013,
+    "wof:lastmodified":1466641356,
     "wof:name":"Rocky Mountain Weed Control LL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.26126,47.496235,-111.26126,47.496235],
-  "geometry": {"coordinates":[-111.26126,47.496235],"type":"Point"}
+  "bbox": [
+    -111.26126,
+    47.496235,
+    -111.26126,
+    47.496235
+],
+  "geometry": {"coordinates":[-111.26125999999999,47.496235],"type":"Point"}
 }

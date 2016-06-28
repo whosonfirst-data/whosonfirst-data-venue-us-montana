@@ -2,13 +2,14 @@
   "id": 186026041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.045159,46.599503,-112.045159,46.599503",
     "geom:latitude":46.599503,
     "geom:longitude":-112.045159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Euclid Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186026041,
-    "wof:lastmodified":1449051950,
+    "wof:lastmodified":1466641550,
     "wof:name":"Mane Gallery Hair Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.045159,46.599503,-112.045159,46.599503],
+  "bbox": [
+    -112.045159,
+    46.599503,
+    -112.045159,
+    46.599503
+],
   "geometry": {"coordinates":[-112.045159,46.599503],"type":"Point"}
 }

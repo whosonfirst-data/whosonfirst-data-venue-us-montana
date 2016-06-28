@@ -2,13 +2,14 @@
   "id": 186448669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.334566,48.328994,-114.334566,48.328994",
     "geom:latitude":48.328994,
     "geom:longitude":-114.334566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"377 Antelope Trl",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186448669,
-    "wof:lastmodified":1449052911,
+    "wof:lastmodified":1466642873,
     "wof:name":"Sagens Plumbing & Heating",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.334566,48.328994,-114.334566,48.328994],
+  "bbox": [
+    -114.334566,
+    48.328994,
+    -114.334566,
+    48.328994
+],
   "geometry": {"coordinates":[-114.334566,48.328994],"type":"Point"}
 }

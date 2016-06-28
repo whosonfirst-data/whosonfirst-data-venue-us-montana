@@ -2,13 +2,14 @@
   "id": 185870719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.955889,46.125534,-112.955889,46.125534",
     "geom:latitude":46.125534,
     "geom:longitude":-112.955889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Hickory St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185870719,
-    "wof:lastmodified":1449007028,
+    "wof:lastmodified":1466641609,
     "wof:name":"Hickory Hse Inn Bed Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-112.955889,46.125534,-112.955889,46.125534],
+  "bbox": [
+    -112.955889,
+    46.125534,
+    -112.955889,
+    46.125534
+],
   "geometry": {"coordinates":[-112.955889,46.125534],"type":"Point"}
 }

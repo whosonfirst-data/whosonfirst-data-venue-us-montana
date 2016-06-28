@@ -2,13 +2,14 @@
   "id": 186147577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.467694,48.397122,-114.467694,48.397122",
     "geom:latitude":48.397122,
     "geom:longitude":-114.467694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6710 Farm To Market Rd",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186147577,
-    "wof:lastmodified":1449052730,
+    "wof:lastmodified":1466642125,
     "wof:name":"Lehman Mechanical LLC",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.467694,48.397122,-114.467694,48.397122],
-  "geometry": {"coordinates":[-114.467694,48.397122],"type":"Point"}
+  "bbox": [
+    -114.467694,
+    48.397122,
+    -114.467694,
+    48.397122
+],
+  "geometry": {"coordinates":[-114.46769399999999,48.397122],"type":"Point"}
 }

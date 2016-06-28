@@ -2,13 +2,14 @@
   "id": 185847981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.605861,45.731545,-107.605861,45.731545",
     "geom:latitude":45.731545,
     "geom:longitude":-107.605861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N Center Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185847981,
-    "wof:lastmodified":1449007181,
+    "wof:lastmodified":1466641584,
     "wof:name":"Merry Mixer Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.605861,45.731545,-107.605861,45.731545],
+  "bbox": [
+    -107.605861,
+    45.731545,
+    -107.605861,
+    45.731545
+],
   "geometry": {"coordinates":[-107.605861,45.731545],"type":"Point"}
 }

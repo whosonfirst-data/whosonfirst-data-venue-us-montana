@@ -2,13 +2,14 @@
   "id": 186173921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.9085,45.59596,-110.9085,45.59596",
     "geom:latitude":45.59596,
     "geom:longitude":-110.9085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3462 Bear Canyon Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186173921,
-    "wof:lastmodified":1449050923,
+    "wof:lastmodified":1466642170,
     "wof:name":"Positive Exposure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "operation"
     ]
 },
-  "bbox": [-110.9085,45.59596,-110.9085,45.59596],
+  "bbox": [
+    -110.9085,
+    45.59596,
+    -110.9085,
+    45.59596
+],
   "geometry": {"coordinates":[-110.9085,45.59596],"type":"Point"}
 }

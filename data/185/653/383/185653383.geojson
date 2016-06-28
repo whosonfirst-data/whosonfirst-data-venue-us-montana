@@ -2,13 +2,14 @@
   "id": 185653383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.649991,48.101307,-105.649991,48.101307",
     "geom:latitude":48.101307,
     "geom:longitude":-105.649991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"739 Knapp St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185653383,
-    "wof:lastmodified":1449006721,
+    "wof:lastmodified":1466641370,
     "wof:name":"Chuck D Martin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-105.649991,48.101307,-105.649991,48.101307],
+  "bbox": [
+    -105.649991,
+    48.101307,
+    -105.649991,
+    48.101307
+],
   "geometry": {"coordinates":[-105.649991,48.101307],"type":"Point"}
 }

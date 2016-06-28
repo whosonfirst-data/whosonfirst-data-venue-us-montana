@@ -2,13 +2,14 @@
   "id": 186368181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.034204,46.586224,-112.034204,46.586224",
     "geom:latitude":46.586224,
     "geom:longitude":-112.034204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Rodney St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186368181,
-    "wof:lastmodified":1449051021,
+    "wof:lastmodified":1466642774,
     "wof:name":"Lewis & Clark County Coroner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-112.034204,46.586224,-112.034204,46.586224],
+  "bbox": [
+    -112.034204,
+    46.586224,
+    -112.034204,
+    46.586224
+],
   "geometry": {"coordinates":[-112.034204,46.586224],"type":"Point"}
 }

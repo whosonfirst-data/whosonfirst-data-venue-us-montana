@@ -2,13 +2,14 @@
   "id": 185825711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.511099,45.819296,-108.511099,45.819296",
     "geom:latitude":45.819296,
     "geom:longitude":-108.511099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 Calico Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185825711,
-    "wof:lastmodified":1449006641,
+    "wof:lastmodified":1466641565,
     "wof:name":"Big Sky Awning & Exterior Clg",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-108.511099,45.819296,-108.511099,45.819296],
+  "bbox": [
+    -108.511099,
+    45.819296,
+    -108.511099,
+    45.819296
+],
   "geometry": {"coordinates":[-108.511099,45.819296],"type":"Point"}
 }

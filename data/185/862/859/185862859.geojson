@@ -2,13 +2,14 @@
   "id": 185862859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.970893,47.283865,-111.970893,47.283865",
     "geom:latitude":47.283865,
     "geom:longitude":-111.970893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"499 Mission Rd",
     "sg:city":"Cascade",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185862859,
-    "wof:lastmodified":1449008267,
+    "wof:lastmodified":1466641601,
     "wof:name":"Crabtree Frank C & Bobby Jean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-111.970893,47.283865,-111.970893,47.283865],
+  "bbox": [
+    -111.970893,
+    47.283865,
+    -111.970893,
+    47.283865
+],
   "geometry": {"coordinates":[-111.970893,47.283865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186332921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.094303,47.199784,-114.094303,47.199784",
     "geom:latitude":47.199784,
     "geom:longitude":-114.094303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Sodfarm Rd",
     "sg:city":"Arlee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186332921,
-    "wof:lastmodified":1449051873,
+    "wof:lastmodified":1466642823,
     "wof:name":"Shane Sproul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.094303,47.199784,-114.094303,47.199784],
+  "bbox": [
+    -114.094303,
+    47.199784,
+    -114.094303,
+    47.199784
+],
   "geometry": {"coordinates":[-114.094303,47.199784],"type":"Point"}
 }

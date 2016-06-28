@@ -2,13 +2,14 @@
   "id": 186115063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.432671,47.067389,-109.432671,47.067389",
     "geom:latitude":47.067389,
     "geom:longitude":-109.432671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 5th Ave N",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186115063,
-    "wof:lastmodified":1449050229,
+    "wof:lastmodified":1466642039,
     "wof:name":"H & L Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-109.432671,47.067389,-109.432671,47.067389],
+  "bbox": [
+    -109.432671,
+    47.067389,
+    -109.432671,
+    47.067389
+],
   "geometry": {"coordinates":[-109.432671,47.067389],"type":"Point"}
 }

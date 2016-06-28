@@ -2,13 +2,14 @@
   "id": 186397017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.643703,45.925206,-108.643703,45.925206",
     "geom:latitude":45.925206,
     "geom:longitude":-108.643703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5020 Encampment Trl",
     "sg:city":"Acton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186397017,
-    "wof:lastmodified":1449051439,
+    "wof:lastmodified":1466642968,
     "wof:name":"Advanced Arbor Care",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-108.643703,45.925206,-108.643703,45.925206],
+  "bbox": [
+    -108.643703,
+    45.925206,
+    -108.643703,
+    45.925206
+],
   "geometry": {"coordinates":[-108.643703,45.925206],"type":"Point"}
 }

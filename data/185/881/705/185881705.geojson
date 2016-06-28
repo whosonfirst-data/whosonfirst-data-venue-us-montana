@@ -2,13 +2,14 @@
   "id": 185881705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.921788,45.687121,-108.921788,45.687121",
     "geom:latitude":45.687121,
     "geom:longitude":-108.921788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 Benedict Gulch Rd",
     "sg:city":"Park City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185881705,
-    "wof:lastmodified":1449007547,
+    "wof:lastmodified":1466641619,
     "wof:name":"Kolb and Lehnert Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.921788,45.687121,-108.921788,45.687121],
-  "geometry": {"coordinates":[-108.921788,45.687121],"type":"Point"}
+  "bbox": [
+    -108.921788,
+    45.687121,
+    -108.921788,
+    45.687121
+],
+  "geometry": {"coordinates":[-108.92178800000001,45.687121],"type":"Point"}
 }

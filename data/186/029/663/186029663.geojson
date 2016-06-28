@@ -2,13 +2,14 @@
   "id": 186029663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.563108,45.755149,-108.563108,45.755149",
     "geom:latitude":45.755149,
     "geom:longitude":-108.563108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1838 King Ave W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186029663,
-    "wof:lastmodified":1449051510,
+    "wof:lastmodified":1466641609,
     "wof:name":"King Resources Inc",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-108.563108,45.755149,-108.563108,45.755149],
+  "bbox": [
+    -108.563108,
+    45.755149,
+    -108.563108,
+    45.755149
+],
   "geometry": {"coordinates":[-108.563108,45.755149],"type":"Point"}
 }

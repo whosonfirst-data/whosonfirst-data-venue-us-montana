@@ -2,13 +2,14 @@
   "id": 185898039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.121245,45.936124,-114.121245,45.936124",
     "geom:latitude":45.936124,
     "geom:longitude":-114.121245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4674 US Hwy 93",
     "sg:city":"Darby",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185898039,
-    "wof:lastmodified":1449006571,
+    "wof:lastmodified":1466641631,
     "wof:name":"Conner Wesleyan Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.121245,45.936124,-114.121245,45.936124],
+  "bbox": [
+    -114.121245,
+    45.936124,
+    -114.121245,
+    45.936124
+],
   "geometry": {"coordinates":[-114.121245,45.936124],"type":"Point"}
 }

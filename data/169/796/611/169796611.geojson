@@ -2,13 +2,14 @@
   "id": 169796611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.273116,47.494285,-111.273116,47.494285",
     "geom:latitude":47.494285,
     "geom:longitude":-111.273116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 10th Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169796611,
-    "wof:lastmodified":1449034238,
+    "wof:lastmodified":1466641261,
     "wof:name":"Vacuum City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-111.273116,47.494285,-111.273116,47.494285],
+  "bbox": [
+    -111.273116,
+    47.494285,
+    -111.273116,
+    47.494285
+],
   "geometry": {"coordinates":[-111.273116,47.494285],"type":"Point"}
 }

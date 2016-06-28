@@ -2,13 +2,14 @@
   "id": 169841069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.060084,46.323465,-114.060084,46.323465",
     "geom:latitude":46.323465,
     "geom:longitude":-114.060084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"873 Soft Rock Rd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169841069,
-    "wof:lastmodified":1449033378,
+    "wof:lastmodified":1466641313,
     "wof:name":"Mix and Fix Patchwork",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-114.060084,46.323465,-114.060084,46.323465],
+  "bbox": [
+    -114.060084,
+    46.323465,
+    -114.060084,
+    46.323465
+],
   "geometry": {"coordinates":[-114.060084,46.323465],"type":"Point"}
 }

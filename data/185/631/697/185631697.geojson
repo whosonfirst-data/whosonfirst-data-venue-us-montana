@@ -2,13 +2,14 @@
   "id": 185631697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.045549,46.551707,-114.045549,46.551707",
     "geom:latitude":46.551707,
     "geom:longitude":-114.045549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Cougar Ln",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185631697,
-    "wof:lastmodified":1449007103,
+    "wof:lastmodified":1466641332,
     "wof:name":"Coleman Sprinklers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.045549,46.551707,-114.045549,46.551707],
-  "geometry": {"coordinates":[-114.045549,46.551707],"type":"Point"}
+  "bbox": [
+    -114.045549,
+    46.551707,
+    -114.045549,
+    46.551707
+],
+  "geometry": {"coordinates":[-114.04554899999999,46.551707],"type":"Point"}
 }

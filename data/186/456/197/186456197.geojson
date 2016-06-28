@@ -2,13 +2,14 @@
   "id": 186456197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.018863,46.586848,-112.018863,46.586848",
     "geom:latitude":46.586848,
     "geom:longitude":-112.018863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1232 E 6th Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186456197,
-    "wof:lastmodified":1449051175,
+    "wof:lastmodified":1466643024,
     "wof:name":"MEA Mft Southwest Field Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.018863,46.586848,-112.018863,46.586848],
+  "bbox": [
+    -112.018863,
+    46.586848,
+    -112.018863,
+    46.586848
+],
   "geometry": {"coordinates":[-112.018863,46.586848],"type":"Point"}
 }

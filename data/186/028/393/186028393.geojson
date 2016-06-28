@@ -2,13 +2,14 @@
   "id": 186028393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.471583,45.811402,-108.471583,45.811402",
     "geom:latitude":45.811402,
     "geom:longitude":-108.471583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"548 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186028393,
-    "wof:lastmodified":1449051831,
+    "wof:lastmodified":1466641589,
     "wof:name":"Havin's Tire Svc",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-108.471583,45.811402,-108.471583,45.811402],
+  "bbox": [
+    -108.471583,
+    45.811402,
+    -108.471583,
+    45.811402
+],
   "geometry": {"coordinates":[-108.471583,45.811402],"type":"Point"}
 }

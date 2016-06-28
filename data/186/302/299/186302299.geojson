@@ -2,13 +2,14 @@
   "id": 186302299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.506202,45.779327,-108.506202,45.779327",
     "geom:latitude":45.779327,
     "geom:longitude":-108.506202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2924 Minnesota Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186302299,
-    "wof:lastmodified":1449051291,
+    "wof:lastmodified":1466642616,
     "wof:name":"Rocky Mountain Motors Inc",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-108.506202,45.779327,-108.506202,45.779327],
+  "bbox": [
+    -108.506202,
+    45.779327,
+    -108.506202,
+    45.779327
+],
   "geometry": {"coordinates":[-108.506202,45.779327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185842891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.495074,45.814315,-108.495074,45.814315",
     "geom:latitude":45.814315,
     "geom:longitude":-108.495074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Governors Blvd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185842891,
-    "wof:lastmodified":1449006725,
+    "wof:lastmodified":1466641583,
     "wof:name":"Micky A Eckart",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guard"
     ]
 },
-  "bbox": [-108.495074,45.814315,-108.495074,45.814315],
+  "bbox": [
+    -108.495074,
+    45.814315,
+    -108.495074,
+    45.814315
+],
   "geometry": {"coordinates":[-108.495074,45.814315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186173061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.589792,45.783958,-108.589792,45.783958",
     "geom:latitude":45.783958,
     "geom:longitude":-108.589792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2918 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186173061,
-    "wof:lastmodified":1449050923,
+    "wof:lastmodified":1466642158,
     "wof:name":"Mikat Inc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-108.589792,45.783958,-108.589792,45.783958],
+  "bbox": [
+    -108.589792,
+    45.783958,
+    -108.589792,
+    45.783958
+],
   "geometry": {"coordinates":[-108.589792,45.783958],"type":"Point"}
 }

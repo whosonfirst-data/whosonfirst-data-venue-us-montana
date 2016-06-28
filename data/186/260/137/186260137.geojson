@@ -2,13 +2,14 @@
   "id": 186260137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.503849,46.002582,-112.503849,46.002582",
     "geom:latitude":46.002582,
     "geom:longitude":-112.503849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Silver Bow Blvd",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186260137,
-    "wof:lastmodified":1449050862,
+    "wof:lastmodified":1466642700,
     "wof:name":"Christy L McGrath",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-112.503849,46.002582,-112.503849,46.002582],
+  "bbox": [
+    -112.503849,
+    46.002582,
+    -112.503849,
+    46.002582
+],
   "geometry": {"coordinates":[-112.503849,46.002582],"type":"Point"}
 }

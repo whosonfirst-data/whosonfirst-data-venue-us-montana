@@ -2,13 +2,14 @@
   "id": 185781129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.716416,46.061152,-108.716416,46.061152",
     "geom:latitude":46.061152,
     "geom:longitude":-108.716416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14435 Oswald Rd",
     "sg:city":"Broadview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185781129,
-    "wof:lastmodified":1449006923,
+    "wof:lastmodified":1466641508,
     "wof:name":"Mountain View Colony",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-108.716416,46.061152,-108.716416,46.061152],
+  "bbox": [
+    -108.716416,
+    46.061152,
+    -108.716416,
+    46.061152
+],
   "geometry": {"coordinates":[-108.716416,46.061152],"type":"Point"}
 }

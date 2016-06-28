@@ -2,13 +2,14 @@
   "id": 169722093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.309282,48.186863,-114.309282,48.186863",
     "geom:latitude":48.186863,
     "geom:longitude":-114.309282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 S Main St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169722093,
-    "wof:lastmodified":1449033842,
+    "wof:lastmodified":1466641733,
     "wof:name":"Witheys Health Foods Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.309282,48.186863,-114.309282,48.186863],
+  "bbox": [
+    -114.309282,
+    48.186863,
+    -114.309282,
+    48.186863
+],
   "geometry": {"coordinates":[-114.309282,48.186863],"type":"Point"}
 }

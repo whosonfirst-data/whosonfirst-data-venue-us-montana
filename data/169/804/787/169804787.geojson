@@ -2,13 +2,14 @@
   "id": 169804787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.301735,48.191262,-114.301735,48.191262",
     "geom:latitude":48.191262,
     "geom:longitude":-114.301735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 6th Ave E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169804787,
-    "wof:lastmodified":1449034987,
+    "wof:lastmodified":1466641277,
     "wof:name":"Karen Nichols Photography",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-114.301735,48.191262,-114.301735,48.191262],
-  "geometry": {"coordinates":[-114.301735,48.191262],"type":"Point"}
+  "bbox": [
+    -114.301735,
+    48.191262,
+    -114.301735,
+    48.191262
+],
+  "geometry": {"coordinates":[-114.30173499999999,48.191262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169760993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.273645,48.215503,-114.273645,48.215503",
     "geom:latitude":48.215503,
     "geom:longitude":-114.273645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Cedar Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169760993,
-    "wof:lastmodified":1449035837,
+    "wof:lastmodified":1466641211,
     "wof:name":"Loren's Carpet Care",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-114.273645,48.215503,-114.273645,48.215503],
+  "bbox": [
+    -114.273645,
+    48.215503,
+    -114.273645,
+    48.215503
+],
   "geometry": {"coordinates":[-114.273645,48.215503],"type":"Point"}
 }

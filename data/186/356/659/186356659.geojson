@@ -2,13 +2,14 @@
   "id": 186356659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.513982,45.782709,-108.513982,45.782709",
     "geom:latitude":45.782709,
     "geom:longitude":-108.513982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N 32nd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186356659,
-    "wof:lastmodified":1449052531,
+    "wof:lastmodified":1466642571,
     "wof:name":"A Few Books More",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-108.513982,45.782709,-108.513982,45.782709],
+  "bbox": [
+    -108.513982,
+    45.782709,
+    -108.513982,
+    45.782709
+],
   "geometry": {"coordinates":[-108.513982,45.782709],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186015607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.14171,45.928222,-114.14171,45.928222",
     "geom:latitude":45.928222,
     "geom:longitude":-114.14171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"268 Conner Cutoff Rd",
     "sg:city":"Darby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186015607,
-    "wof:lastmodified":1449051008,
+    "wof:lastmodified":1466641389,
     "wof:name":"Monarch Bows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-114.14171,45.928222,-114.14171,45.928222],
+  "bbox": [
+    -114.14171,
+    45.928222,
+    -114.14171,
+    45.928222
+],
   "geometry": {"coordinates":[-114.14171,45.928222],"type":"Point"}
 }

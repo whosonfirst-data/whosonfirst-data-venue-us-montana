@@ -2,13 +2,14 @@
   "id": 186118831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.155155,46.230281,-114.155155,46.230281",
     "geom:latitude":46.230281,
     "geom:longitude":-114.155155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1182 US Hwy 93 S",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186118831,
-    "wof:lastmodified":1449052501,
+    "wof:lastmodified":1466642057,
     "wof:name":"Bitterroot River Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [-114.155155,46.230281,-114.155155,46.230281],
-  "geometry": {"coordinates":[-114.155155,46.230281],"type":"Point"}
+  "bbox": [
+    -114.155155,
+    46.230281,
+    -114.155155,
+    46.230281
+],
+  "geometry": {"coordinates":[-114.15515499999999,46.230281],"type":"Point"}
 }

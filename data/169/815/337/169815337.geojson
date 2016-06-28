@@ -2,13 +2,14 @@
   "id": 169815337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.156324,46.249276,-114.156324,46.249276",
     "geom:latitude":46.249276,
     "geom:longitude":-114.156324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Cherry St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169815337,
-    "wof:lastmodified":1449034279,
+    "wof:lastmodified":1466641287,
     "wof:name":"Gerald Hazuka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "ground"
     ]
 },
-  "bbox": [-114.156324,46.249276,-114.156324,46.249276],
+  "bbox": [
+    -114.156324,
+    46.249276,
+    -114.156324,
+    46.249276
+],
   "geometry": {"coordinates":[-114.156324,46.249276],"type":"Point"}
 }

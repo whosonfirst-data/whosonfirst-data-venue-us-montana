@@ -2,13 +2,14 @@
   "id": 185815415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.201618,48.139632,-114.201618,48.139632",
     "geom:latitude":48.139632,
     "geom:longitude":-114.201618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 Lower Valley Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185815415,
-    "wof:lastmodified":1449007407,
+    "wof:lastmodified":1466641544,
     "wof:name":"Hurst & Cross LLC",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.201618,48.139632,-114.201618,48.139632],
+  "bbox": [
+    -114.201618,
+    48.139632,
+    -114.201618,
+    48.139632
+],
   "geometry": {"coordinates":[-114.201618,48.139632],"type":"Point"}
 }

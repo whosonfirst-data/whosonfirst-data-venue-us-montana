@@ -2,13 +2,14 @@
   "id": 169777101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.029586,46.604637,-114.029586,46.604637",
     "geom:latitude":46.604637,
     "geom:longitude":-114.029586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5041 Falcon Ln",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169777101,
-    "wof:lastmodified":1449034427,
+    "wof:lastmodified":1466641232,
     "wof:name":"D & D Tools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.029586,46.604637,-114.029586,46.604637],
-  "geometry": {"coordinates":[-114.029586,46.604637],"type":"Point"}
+  "bbox": [
+    -114.029586,
+    46.604637,
+    -114.029586,
+    46.604637
+],
+  "geometry": {"coordinates":[-114.02958599999999,46.604637],"type":"Point"}
 }

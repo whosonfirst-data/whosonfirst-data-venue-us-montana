@@ -2,13 +2,14 @@
   "id": 186333629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.465872,45.812868,-108.465872,45.812868",
     "geom:latitude":45.812868,
     "geom:longitude":-108.465872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Bench Blvd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186333629,
-    "wof:lastmodified":1449052845,
+    "wof:lastmodified":1466642678,
     "wof:name":"Gainan's Garden Ctr & Nursery",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-108.465872,45.812868,-108.465872,45.812868],
+  "bbox": [
+    -108.465872,
+    45.812868,
+    -108.465872,
+    45.812868
+],
   "geometry": {"coordinates":[-108.465872,45.812868],"type":"Point"}
 }

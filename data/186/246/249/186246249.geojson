@@ -2,13 +2,14 @@
   "id": 186246249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.22612,47.768083,-114.22612,47.768083",
     "geom:latitude":47.768083,
     "geom:longitude":-114.22612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Great Pine Hill",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186246249,
-    "wof:lastmodified":1449050434,
+    "wof:lastmodified":1466642515,
     "wof:name":"Rocky Mt Scenic Engraving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "furniture"
     ]
 },
-  "bbox": [-114.22612,47.768083,-114.22612,47.768083],
-  "geometry": {"coordinates":[-114.22612,47.768083],"type":"Point"}
+  "bbox": [
+    -114.22612,
+    47.768083,
+    -114.22612,
+    47.768083
+],
+  "geometry": {"coordinates":[-114.22611999999999,47.768083],"type":"Point"}
 }

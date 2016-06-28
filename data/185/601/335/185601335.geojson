@@ -2,13 +2,14 @@
   "id": 185601335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.998523,45.666556,-110.998523,45.666556",
     "geom:latitude":45.666556,
     "geom:longitude":-110.998523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Brandon Trail Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185601335,
-    "wof:lastmodified":1449007334,
+    "wof:lastmodified":1466641166,
     "wof:name":"Chinook Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-110.998523,45.666556,-110.998523,45.666556],
-  "geometry": {"coordinates":[-110.998523,45.666556],"type":"Point"}
+  "bbox": [
+    -110.998523,
+    45.666556,
+    -110.998523,
+    45.666556
+],
+  "geometry": {"coordinates":[-110.99852300000001,45.666556],"type":"Point"}
 }

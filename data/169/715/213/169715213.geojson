@@ -2,13 +2,14 @@
   "id": 169715213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.386298,48.40132,-114.386298,48.40132",
     "geom:latitude":48.40132,
     "geom:longitude":-114.386298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2475 US Hwy 93",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169715213,
-    "wof:lastmodified":1449035296,
+    "wof:lastmodified":1466641724,
     "wof:name":"Exclusive Individual Expecters",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-114.386298,48.40132,-114.386298,48.40132],
+  "bbox": [
+    -114.386298,
+    48.40132,
+    -114.386298,
+    48.40132
+],
   "geometry": {"coordinates":[-114.386298,48.40132],"type":"Point"}
 }

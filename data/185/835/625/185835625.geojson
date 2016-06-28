@@ -2,13 +2,14 @@
   "id": 185835625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.166114,47.718015,-104.166114,47.718015",
     "geom:latitude":47.718015,
     "geom:longitude":-104.166114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 W Holly St",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185835625,
-    "wof:lastmodified":1449006843,
+    "wof:lastmodified":1466641572,
     "wof:name":"Seven Ten Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "replacement"
     ]
 },
-  "bbox": [-104.166114,47.718015,-104.166114,47.718015],
-  "geometry": {"coordinates":[-104.166114,47.718015],"type":"Point"}
+  "bbox": [
+    -104.166114,
+    47.718015,
+    -104.166114,
+    47.718015
+],
+  "geometry": {"coordinates":[-104.16611399999999,47.718015],"type":"Point"}
 }

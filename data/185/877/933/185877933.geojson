@@ -2,13 +2,14 @@
   "id": 185877933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.16397,46.252843,-114.16397,46.252843",
     "geom:latitude":46.252843,
     "geom:longitude":-114.16397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 N 6th St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185877933,
-    "wof:lastmodified":1449007729,
+    "wof:lastmodified":1466641616,
     "wof:name":"Blast From Past",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-114.16397,46.252843,-114.16397,46.252843],
-  "geometry": {"coordinates":[-114.16397,46.252843],"type":"Point"}
+  "bbox": [
+    -114.16397,
+    46.252843,
+    -114.16397,
+    46.252843
+],
+  "geometry": {"coordinates":[-114.16397000000001,46.252843],"type":"Point"}
 }

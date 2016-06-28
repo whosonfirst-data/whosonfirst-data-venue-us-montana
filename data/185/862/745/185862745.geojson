@@ -2,13 +2,14 @@
   "id": 185862745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.889466,48.469179,-115.889466,48.469179",
     "geom:latitude":48.469179,
     "geom:longitude":-115.889466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Riverside Ave",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185862745,
-    "wof:lastmodified":1449008266,
+    "wof:lastmodified":1466641600,
     "wof:name":"Jeff Thill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.889466,48.469179,-115.889466,48.469179],
+  "bbox": [
+    -115.889466,
+    48.469179,
+    -115.889466,
+    48.469179
+],
   "geometry": {"coordinates":[-115.889466,48.469179],"type":"Point"}
 }

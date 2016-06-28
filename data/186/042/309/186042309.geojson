@@ -2,13 +2,14 @@
   "id": 186042309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.332405,48.402421,-114.332405,48.402421",
     "geom:latitude":48.402421,
     "geom:longitude":-114.332405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Columbia Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186042309,
-    "wof:lastmodified":1449052361,
+    "wof:lastmodified":1466641801,
     "wof:name":"Randy B Leventhal",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wildlife"
     ]
 },
-  "bbox": [-114.332405,48.402421,-114.332405,48.402421],
-  "geometry": {"coordinates":[-114.332405,48.402421],"type":"Point"}
+  "bbox": [
+    -114.332405,
+    48.402421,
+    -114.332405,
+    48.402421
+],
+  "geometry": {"coordinates":[-114.33240499999999,48.402421],"type":"Point"}
 }

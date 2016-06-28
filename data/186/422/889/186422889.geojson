@@ -2,13 +2,14 @@
   "id": 186422889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047108,46.599947,-112.047108,46.599947",
     "geom:latitude":46.599947,
     "geom:longitude":-112.047108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Euclid Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186422889,
-    "wof:lastmodified":1449050440,
+    "wof:lastmodified":1466642915,
     "wof:name":"West Side Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.047108,46.599947,-112.047108,46.599947],
-  "geometry": {"coordinates":[-112.047108,46.599947],"type":"Point"}
+  "bbox": [
+    -112.047108,
+    46.599947,
+    -112.047108,
+    46.599947
+],
+  "geometry": {"coordinates":[-112.04710799999999,46.599947],"type":"Point"}
 }

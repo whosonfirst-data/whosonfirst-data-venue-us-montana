@@ -2,13 +2,14 @@
   "id": 186211333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.51015,45.990084,-112.51015,45.990084",
     "geom:latitude":45.990084,
     "geom:longitude":-112.51015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186211333,
-    "wof:lastmodified":1449051054,
+    "wof:lastmodified":1466642366,
     "wof:name":"Your Lucky Charm",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-112.51015,45.990084,-112.51015,45.990084],
+  "bbox": [
+    -112.51015,
+    45.990084,
+    -112.51015,
+    45.990084
+],
   "geometry": {"coordinates":[-112.51015,45.990084],"type":"Point"}
 }

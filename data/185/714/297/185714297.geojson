@@ -2,13 +2,14 @@
   "id": 185714297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.581108,48.404237,-115.581108,48.404237",
     "geom:latitude":48.404237,
     "geom:longitude":-115.581108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Three Corner Rd",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185714297,
-    "wof:lastmodified":1449007420,
+    "wof:lastmodified":1466641433,
     "wof:name":"Three Corners Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "site"
     ]
 },
-  "bbox": [-115.581108,48.404237,-115.581108,48.404237],
+  "bbox": [
+    -115.581108,
+    48.404237,
+    -115.581108,
+    48.404237
+],
   "geometry": {"coordinates":[-115.581108,48.404237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186001355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.033109,46.591519,-112.033109,46.591519",
     "geom:latitude":46.591519,
     "geom:longitude":-112.033109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 N Warren St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186001355,
-    "wof:lastmodified":1449051007,
+    "wof:lastmodified":1466641218,
     "wof:name":"Indoff Office Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.033109,46.591519,-112.033109,46.591519],
+  "bbox": [
+    -112.033109,
+    46.591519,
+    -112.033109,
+    46.591519
+],
   "geometry": {"coordinates":[-112.033109,46.591519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186454493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.289667,48.198196,-114.289667,48.198196",
     "geom:latitude":48.198196,
     "geom:longitude":-114.289667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Collier Ln",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186454493,
-    "wof:lastmodified":1449052768,
+    "wof:lastmodified":1466643026,
     "wof:name":"Inland Northwest Distributing",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.289667,48.198196,-114.289667,48.198196],
-  "geometry": {"coordinates":[-114.289667,48.198196],"type":"Point"}
+  "bbox": [
+    -114.289667,
+    48.198196,
+    -114.289667,
+    48.198196
+],
+  "geometry": {"coordinates":[-114.28966699999999,48.198196],"type":"Point"}
 }

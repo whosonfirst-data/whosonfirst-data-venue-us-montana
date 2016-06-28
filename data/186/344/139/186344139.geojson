@@ -2,13 +2,14 @@
   "id": 186344139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.540281,45.789838,-108.540281,45.789838",
     "geom:latitude":45.789838,
     "geom:longitude":-108.540281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 Parkhill Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186344139,
-    "wof:lastmodified":1449050398,
+    "wof:lastmodified":1466642700,
     "wof:name":"Thorn Electrical Design Co",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-108.540281,45.789838,-108.540281,45.789838],
-  "geometry": {"coordinates":[-108.540281,45.789838],"type":"Point"}
+  "bbox": [
+    -108.540281,
+    45.789838,
+    -108.540281,
+    45.789838
+],
+  "geometry": {"coordinates":[-108.54028099999999,45.789838],"type":"Point"}
 }

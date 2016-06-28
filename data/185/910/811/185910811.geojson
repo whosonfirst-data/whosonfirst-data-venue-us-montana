@@ -2,13 +2,14 @@
   "id": 185910811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.667997,45.899478,-108.667997,45.899478",
     "geom:latitude":45.899478,
     "geom:longitude":-108.667997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7256 US Hwy 3",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185910811,
-    "wof:lastmodified":1449007273,
+    "wof:lastmodified":1466641658,
     "wof:name":"Neuman Quarter Horse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.667997,45.899478,-108.667997,45.899478],
+  "bbox": [
+    -108.667997,
+    45.899478,
+    -108.667997,
+    45.899478
+],
   "geometry": {"coordinates":[-108.667997,45.899478],"type":"Point"}
 }

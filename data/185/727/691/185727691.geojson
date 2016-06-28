@@ -2,13 +2,14 @@
   "id": 185727691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.069558,47.869085,-112.069558,47.869085",
     "geom:latitude":47.869085,
     "geom:longitude":-112.069558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 18th Rd NW",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185727691,
-    "wof:lastmodified":1449006851,
+    "wof:lastmodified":1466641450,
     "wof:name":"New Rockport Colony School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "colony"
     ]
 },
-  "bbox": [-112.069558,47.869085,-112.069558,47.869085],
+  "bbox": [
+    -112.069558,
+    47.869085,
+    -112.069558,
+    47.869085
+],
   "geometry": {"coordinates":[-112.069558,47.869085],"type":"Point"}
 }

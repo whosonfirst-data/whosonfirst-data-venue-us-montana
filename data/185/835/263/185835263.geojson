@@ -2,13 +2,14 @@
   "id": 185835263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.513441,45.995354,-112.513441,45.995354",
     "geom:latitude":45.995354,
     "geom:longitude":-112.513441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1880 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185835263,
-    "wof:lastmodified":1449006844,
+    "wof:lastmodified":1466641568,
     "wof:name":"Glacier Bank",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.513441,45.995354,-112.513441,45.995354],
+  "bbox": [
+    -112.513441,
+    45.995354,
+    -112.513441,
+    45.995354
+],
   "geometry": {"coordinates":[-112.513441,45.995354],"type":"Point"}
 }

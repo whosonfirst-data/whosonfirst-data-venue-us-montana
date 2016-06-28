@@ -2,13 +2,14 @@
   "id": 186234269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.231761,47.513333,-111.231761,47.513333",
     "geom:latitude":47.513333,
     "geom:longitude":-111.231761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 43rd St N",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186234269,
-    "wof:lastmodified":1449052891,
+    "wof:lastmodified":1466642494,
     "wof:name":"Supply Pro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "retail"
     ]
 },
-  "bbox": [-111.231761,47.513333,-111.231761,47.513333],
-  "geometry": {"coordinates":[-111.231761,47.513333],"type":"Point"}
+  "bbox": [
+    -111.231761,
+    47.513333,
+    -111.231761,
+    47.513333
+],
+  "geometry": {"coordinates":[-111.23176100000001,47.513333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186192625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.891369,47.197781,-114.891369,47.197781",
     "geom:latitude":47.197781,
     "geom:longitude":-114.891369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Mullan Rd W",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186192625,
-    "wof:lastmodified":1449052257,
+    "wof:lastmodified":1466642241,
     "wof:name":"KANE Water Well Drilling & Pmp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "drilling"
     ]
 },
-  "bbox": [-114.891369,47.197781,-114.891369,47.197781],
+  "bbox": [
+    -114.891369,
+    47.197781,
+    -114.891369,
+    47.197781
+],
   "geometry": {"coordinates":[-114.891369,47.197781],"type":"Point"}
 }

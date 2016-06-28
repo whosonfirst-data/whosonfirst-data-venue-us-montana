@@ -2,13 +2,14 @@
   "id": 186439993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.280534,48.225984,-114.280534,48.225984",
     "geom:latitude":48.225984,
     "geom:longitude":-114.280534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 W Evergreen Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186439993,
-    "wof:lastmodified":1449051128,
+    "wof:lastmodified":1466643100,
     "wof:name":"Kalispell Fence Company",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "fence"
     ]
 },
-  "bbox": [-114.280534,48.225984,-114.280534,48.225984],
+  "bbox": [
+    -114.280534,
+    48.225984,
+    -114.280534,
+    48.225984
+],
   "geometry": {"coordinates":[-114.280534,48.225984],"type":"Point"}
 }

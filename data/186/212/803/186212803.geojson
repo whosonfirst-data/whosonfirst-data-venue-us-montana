@@ -2,13 +2,14 @@
   "id": 186212803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.087617,46.764438,-114.087617,46.764438",
     "geom:latitude":46.764438,
     "geom:longitude":-114.087617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Dallas St",
     "sg:city":"Lolo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186212803,
-    "wof:lastmodified":1449052112,
+    "wof:lastmodified":1466642373,
     "wof:name":"Have Travel",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-114.087617,46.764438,-114.087617,46.764438],
-  "geometry": {"coordinates":[-114.087617,46.764438],"type":"Point"}
+  "bbox": [
+    -114.087617,
+    46.764438,
+    -114.087617,
+    46.764438
+],
+  "geometry": {"coordinates":[-114.08761699999999,46.764438],"type":"Point"}
 }

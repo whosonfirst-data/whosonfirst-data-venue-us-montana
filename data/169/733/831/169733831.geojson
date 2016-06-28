@@ -2,13 +2,14 @@
   "id": 169733831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.037779,46.59739,-112.037779,46.59739",
     "geom:latitude":46.59739,
     "geom:longitude":-112.037779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"939 Getchell St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169733831,
-    "wof:lastmodified":1449033149,
+    "wof:lastmodified":1466641171,
     "wof:name":"Sleeping Giant Brewing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-112.037779,46.59739,-112.037779,46.59739],
+  "bbox": [
+    -112.037779,
+    46.59739,
+    -112.037779,
+    46.59739
+],
   "geometry": {"coordinates":[-112.037779,46.59739],"type":"Point"}
 }

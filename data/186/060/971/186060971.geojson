@@ -2,13 +2,14 @@
   "id": 186060971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.079782,45.876723,-111.079782,45.876723",
     "geom:latitude":45.876723,
     "geom:longitude":-111.079782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5825 Estate Ln",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186060971,
-    "wof:lastmodified":1449052778,
+    "wof:lastmodified":1466641853,
     "wof:name":"Gray Sawmill Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mill"
     ]
 },
-  "bbox": [-111.079782,45.876723,-111.079782,45.876723],
-  "geometry": {"coordinates":[-111.079782,45.876723],"type":"Point"}
+  "bbox": [
+    -111.079782,
+    45.876723,
+    -111.079782,
+    45.876723
+],
+  "geometry": {"coordinates":[-111.07978199999999,45.876723],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186324567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.498294,45.77835,-108.498294,45.77835",
     "geom:latitude":45.77835,
     "geom:longitude":-108.498294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S 26th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186324567,
-    "wof:lastmodified":1449051940,
+    "wof:lastmodified":1466642816,
     "wof:name":"Bob's Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-108.498294,45.77835,-108.498294,45.77835],
+  "bbox": [
+    -108.498294,
+    45.77835,
+    -108.498294,
+    45.77835
+],
   "geometry": {"coordinates":[-108.498294,45.77835],"type":"Point"}
 }

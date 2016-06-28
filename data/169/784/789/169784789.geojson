@@ -2,13 +2,14 @@
   "id": 169784789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.275655,48.22579,-114.275655,48.22579",
     "geom:latitude":48.22579,
     "geom:longitude":-114.275655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Evergreen Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169784789,
-    "wof:lastmodified":1449034892,
+    "wof:lastmodified":1466641755,
     "wof:name":"East Evergreen Storage & MBL",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-114.275655,48.22579,-114.275655,48.22579],
+  "bbox": [
+    -114.275655,
+    48.22579,
+    -114.275655,
+    48.22579
+],
   "geometry": {"coordinates":[-114.275655,48.22579],"type":"Point"}
 }

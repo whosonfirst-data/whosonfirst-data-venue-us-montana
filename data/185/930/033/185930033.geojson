@@ -2,13 +2,14 @@
   "id": 185930033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.390472,45.900084,-108.390472,45.900084",
     "geom:latitude":45.900084,
     "geom:longitude":-108.390472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3436 Duck Club Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185930033,
-    "wof:lastmodified":1449007115,
+    "wof:lastmodified":1466641675,
     "wof:name":"Evening Star Horses",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.390472,45.900084,-108.390472,45.900084],
+  "bbox": [
+    -108.390472,
+    45.900084,
+    -108.390472,
+    45.900084
+],
   "geometry": {"coordinates":[-108.390472,45.900084],"type":"Point"}
 }

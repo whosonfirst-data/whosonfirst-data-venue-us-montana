@@ -2,13 +2,14 @@
   "id": 186119223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.007665,46.591251,-112.007665,46.591251",
     "geom:latitude":46.591251,
     "geom:longitude":-112.007665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 Prospect Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186119223,
-    "wof:lastmodified":1449052277,
+    "wof:lastmodified":1466642225,
     "wof:name":"Village Inn Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-112.007665,46.591251,-112.007665,46.591251],
+  "bbox": [
+    -112.007665,
+    46.591251,
+    -112.007665,
+    46.591251
+],
   "geometry": {"coordinates":[-112.007665,46.591251],"type":"Point"}
 }

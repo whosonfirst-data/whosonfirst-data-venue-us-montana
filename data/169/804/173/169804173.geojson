@@ -2,13 +2,14 @@
   "id": 169804173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.317023,48.191565,-114.317023,48.191565",
     "geom:latitude":48.191565,
     "geom:longitude":-114.317023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"644 4th Ave W",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169804173,
-    "wof:lastmodified":1449034984,
+    "wof:lastmodified":1466641268,
     "wof:name":"Flathead High School",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.317023,48.191565,-114.317023,48.191565],
-  "geometry": {"coordinates":[-114.317023,48.191565],"type":"Point"}
+  "bbox": [
+    -114.317023,
+    48.191565,
+    -114.317023,
+    48.191565
+],
+  "geometry": {"coordinates":[-114.31702300000001,48.191565],"type":"Point"}
 }

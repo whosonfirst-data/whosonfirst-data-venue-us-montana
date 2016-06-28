@@ -2,13 +2,14 @@
   "id": 185694209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.626872,45.213293,-112.626872,45.213293",
     "geom:latitude":45.213293,
     "geom:longitude":-112.626872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"965 E Parkview Ct",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185694209,
-    "wof:lastmodified":1449007061,
+    "wof:lastmodified":1466641410,
     "wof:name":"Willard A Rehm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-112.626872,45.213293,-112.626872,45.213293],
-  "geometry": {"coordinates":[-112.626872,45.213293],"type":"Point"}
+  "bbox": [
+    -112.626872,
+    45.213293,
+    -112.626872,
+    45.213293
+],
+  "geometry": {"coordinates":[-112.62687200000001,45.213293],"type":"Point"}
 }

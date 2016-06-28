@@ -2,13 +2,14 @@
   "id": 186135809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.506492,45.769396,-110.506492,45.769396",
     "geom:latitude":45.769396,
     "geom:longitude":-110.506492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Sagebrush Rd",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186135809,
-    "wof:lastmodified":1449051406,
+    "wof:lastmodified":1466641944,
     "wof:name":"Adrian Hatfield",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "using"
     ]
 },
-  "bbox": [-110.506492,45.769396,-110.506492,45.769396],
-  "geometry": {"coordinates":[-110.506492,45.769396],"type":"Point"}
+  "bbox": [
+    -110.506492,
+    45.769396,
+    -110.506492,
+    45.769396
+],
+  "geometry": {"coordinates":[-110.50649199999999,45.769396],"type":"Point"}
 }

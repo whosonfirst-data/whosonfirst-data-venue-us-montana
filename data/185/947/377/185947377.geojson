@@ -2,13 +2,14 @@
   "id": 185947377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.980836,48.044807,-113.980836,48.044807",
     "geom:latitude":48.044807,
     "geom:longitude":-113.980836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 Drifting Way",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185947377,
-    "wof:lastmodified":1449007757,
+    "wof:lastmodified":1466641700,
     "wof:name":"Thaddeus Jordt Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-113.980836,48.044807,-113.980836,48.044807],
+  "bbox": [
+    -113.980836,
+    48.044807,
+    -113.980836,
+    48.044807
+],
   "geometry": {"coordinates":[-113.980836,48.044807],"type":"Point"}
 }

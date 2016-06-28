@@ -2,13 +2,14 @@
   "id": 185688389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.031959,46.849641,-114.031959,46.849641",
     "geom:latitude":46.849641,
     "geom:longitude":-114.031959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2145 W Sussex Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185688389,
-    "wof:lastmodified":1449007210,
+    "wof:lastmodified":1466641408,
     "wof:name":"Attitude Leather Works",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.031959,46.849641,-114.031959,46.849641],
+  "bbox": [
+    -114.031959,
+    46.849641,
+    -114.031959,
+    46.849641
+],
   "geometry": {"coordinates":[-114.031959,46.849641],"type":"Point"}
 }

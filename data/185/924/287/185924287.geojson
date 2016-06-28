@@ -2,13 +2,14 @@
   "id": 185924287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.50794,45.949604,-112.50794,45.949604",
     "geom:latitude":45.949604,
     "geom:longitude":-112.50794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185924287,
-    "wof:lastmodified":1449007051,
+    "wof:lastmodified":1466641666,
     "wof:name":"Mc Closkey's Auto Electric",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-112.50794,45.949604,-112.50794,45.949604],
+  "bbox": [
+    -112.50794,
+    45.949604,
+    -112.50794,
+    45.949604
+],
   "geometry": {"coordinates":[-112.50794,45.949604],"type":"Point"}
 }

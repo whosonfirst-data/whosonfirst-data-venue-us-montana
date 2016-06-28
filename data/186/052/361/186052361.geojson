@@ -2,13 +2,14 @@
   "id": 186052361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.499941,45.776121,-108.499941,45.776121",
     "geom:latitude":45.776121,
     "geom:longitude":-108.499941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S 28th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186052361,
-    "wof:lastmodified":1449051585,
+    "wof:lastmodified":1466641822,
     "wof:name":"Stuarts Applied Graphics",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "cotton"
     ]
 },
-  "bbox": [-108.499941,45.776121,-108.499941,45.776121],
-  "geometry": {"coordinates":[-108.499941,45.776121],"type":"Point"}
+  "bbox": [
+    -108.499941,
+    45.776121,
+    -108.499941,
+    45.776121
+],
+  "geometry": {"coordinates":[-108.49994100000001,45.776121],"type":"Point"}
 }

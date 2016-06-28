@@ -2,13 +2,14 @@
   "id": 169722883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.730476,45.755288,-108.730476,45.755288",
     "geom:latitude":45.755288,
     "geom:longitude":-108.730476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8451 King Ave W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169722883,
-    "wof:lastmodified":1449033849,
+    "wof:lastmodified":1466641734,
     "wof:name":"Delaware Construction",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "housing"
     ]
 },
-  "bbox": [-108.730476,45.755288,-108.730476,45.755288],
+  "bbox": [
+    -108.730476,
+    45.755288,
+    -108.730476,
+    45.755288
+],
   "geometry": {"coordinates":[-108.730476,45.755288],"type":"Point"}
 }

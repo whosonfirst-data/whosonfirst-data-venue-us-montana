@@ -2,13 +2,14 @@
   "id": 186407053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.190064,47.808591,-112.190064,47.808591",
     "geom:latitude":47.808591,
     "geom:longitude":-112.190064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 8th Ave SW",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186407053,
-    "wof:lastmodified":1449051867,
+    "wof:lastmodified":1466643011,
     "wof:name":"Teton Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-112.190064,47.808591,-112.190064,47.808591],
-  "geometry": {"coordinates":[-112.190064,47.808591],"type":"Point"}
+  "bbox": [
+    -112.190064,
+    47.808591,
+    -112.190064,
+    47.808591
+],
+  "geometry": {"coordinates":[-112.19006400000001,47.808591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186308679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.520627,45.793387,-108.520627,45.793387",
     "geom:latitude":45.793387,
     "geom:longitude":-108.520627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1232 N 30th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186308679,
-    "wof:lastmodified":1449053091,
+    "wof:lastmodified":1466642640,
     "wof:name":"Childrens Clinic PC",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-108.520627,45.793387,-108.520627,45.793387],
+  "bbox": [
+    -108.520627,
+    45.793387,
+    -108.520627,
+    45.793387
+],
   "geometry": {"coordinates":[-108.520627,45.793387],"type":"Point"}
 }

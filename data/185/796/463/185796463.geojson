@@ -2,13 +2,14 @@
   "id": 185796463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.320178,45.607741,-110.320178,45.607741",
     "geom:latitude":45.607741,
     "geom:longitude":-110.320178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Swingley Rd",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185796463,
-    "wof:lastmodified":1449007378,
+    "wof:lastmodified":1466641528,
     "wof:name":"12 Springs Ranch & Cattle Co",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-110.320178,45.607741,-110.320178,45.607741],
+  "bbox": [
+    -110.320178,
+    45.607741,
+    -110.320178,
+    45.607741
+],
   "geometry": {"coordinates":[-110.320178,45.607741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186233417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.491912,45.853426,-112.491912,45.853426",
     "geom:latitude":45.853426,
     "geom:longitude":-112.491912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Lime Kiln Rd",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186233417,
-    "wof:lastmodified":1449053065,
+    "wof:lastmodified":1466642499,
     "wof:name":"Aviation Enterprises LLC",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.491912,45.853426,-112.491912,45.853426],
+  "bbox": [
+    -112.491912,
+    45.853426,
+    -112.491912,
+    45.853426
+],
   "geometry": {"coordinates":[-112.491912,45.853426],"type":"Point"}
 }

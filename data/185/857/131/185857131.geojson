@@ -2,13 +2,14 @@
   "id": 185857131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.161543,45.960748,-108.161543,45.960748",
     "geom:latitude":45.960748,
     "geom:longitude":-108.161543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2432 Main St",
     "sg:city":"Worden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185857131,
-    "wof:lastmodified":1449007641,
+    "wof:lastmodified":1466641591,
     "wof:name":"Steiner's Diner",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.161543,45.960748,-108.161543,45.960748],
-  "geometry": {"coordinates":[-108.161543,45.960748],"type":"Point"}
+  "bbox": [
+    -108.161543,
+    45.960748,
+    -108.161543,
+    45.960748
+],
+  "geometry": {"coordinates":[-108.16154299999999,45.960748],"type":"Point"}
 }

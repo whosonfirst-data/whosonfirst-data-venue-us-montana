@@ -2,13 +2,14 @@
   "id": 185700359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.705338,45.033247,-110.705338,45.033247",
     "geom:latitude":45.033247,
     "geom:longitude":-110.705338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Jardine Rd",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185700359,
-    "wof:lastmodified":1449008073,
+    "wof:lastmodified":1466641420,
     "wof:name":"Electric Peak Arts Council",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arts"
     ]
 },
-  "bbox": [-110.705338,45.033247,-110.705338,45.033247],
+  "bbox": [
+    -110.705338,
+    45.033247,
+    -110.705338,
+    45.033247
+],
   "geometry": {"coordinates":[-110.705338,45.033247],"type":"Point"}
 }

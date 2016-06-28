@@ -2,13 +2,14 @@
   "id": 186029439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.029555,46.628397,-112.029555,46.628397",
     "geom:latitude":46.628397,
     "geom:longitude":-112.029555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Faw Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186029439,
-    "wof:lastmodified":1449051508,
+    "wof:lastmodified":1466641606,
     "wof:name":"Fortress of Joy Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.029555,46.628397,-112.029555,46.628397],
+  "bbox": [
+    -112.029555,
+    46.628397,
+    -112.029555,
+    46.628397
+],
   "geometry": {"coordinates":[-112.029555,46.628397],"type":"Point"}
 }

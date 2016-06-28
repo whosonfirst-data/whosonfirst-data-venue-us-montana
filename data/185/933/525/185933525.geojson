@@ -2,13 +2,14 @@
   "id": 185933525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.786347,45.682226,-108.786347,45.682226",
     "geom:latitude":45.682226,
     "geom:longitude":-108.786347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1129 12th Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185933525,
-    "wof:lastmodified":1449006947,
+    "wof:lastmodified":1466641687,
     "wof:name":"Paladin Electronics",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-108.786347,45.682226,-108.786347,45.682226],
-  "geometry": {"coordinates":[-108.786347,45.682226],"type":"Point"}
+  "bbox": [
+    -108.786347,
+    45.682226,
+    -108.786347,
+    45.682226
+],
+  "geometry": {"coordinates":[-108.78634700000001,45.682226],"type":"Point"}
 }

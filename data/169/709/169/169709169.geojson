@@ -2,13 +2,14 @@
   "id": 169709169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.341116,48.402018,-114.341116,48.402018",
     "geom:latitude":48.402018,
     "geom:longitude":-114.341116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Obrien Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169709169,
-    "wof:lastmodified":1449033350,
+    "wof:lastmodified":1466641256,
     "wof:name":"Lyle B Kelch",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-114.341116,48.402018,-114.341116,48.402018],
+  "bbox": [
+    -114.341116,
+    48.402018,
+    -114.341116,
+    48.402018
+],
   "geometry": {"coordinates":[-114.341116,48.402018],"type":"Point"}
 }

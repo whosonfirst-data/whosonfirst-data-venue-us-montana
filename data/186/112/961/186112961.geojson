@@ -2,13 +2,14 @@
   "id": 186112961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.439822,46.242017,-108.439822,46.242017",
     "geom:latitude":46.242017,
     "geom:longitude":-108.439822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Curlee Rd",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186112961,
-    "wof:lastmodified":1449051608,
+    "wof:lastmodified":1466641878,
     "wof:name":"Mountain Aura Needle Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-108.439822,46.242017,-108.439822,46.242017],
-  "geometry": {"coordinates":[-108.439822,46.242017],"type":"Point"}
+  "bbox": [
+    -108.439822,
+    46.242017,
+    -108.439822,
+    46.242017
+],
+  "geometry": {"coordinates":[-108.43982200000001,46.242017],"type":"Point"}
 }

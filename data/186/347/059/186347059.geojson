@@ -2,13 +2,14 @@
   "id": 186347059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.566536,45.774779,-108.566536,45.774779",
     "geom:latitude":45.774779,
     "geom:longitude":-108.566536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 Gorham Park Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186347059,
-    "wof:lastmodified":1449051673,
+    "wof:lastmodified":1466642843,
     "wof:name":"Frame By Frame",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-108.566536,45.774779,-108.566536,45.774779],
+  "bbox": [
+    -108.566536,
+    45.774779,
+    -108.566536,
+    45.774779
+],
   "geometry": {"coordinates":[-108.566536,45.774779],"type":"Point"}
 }

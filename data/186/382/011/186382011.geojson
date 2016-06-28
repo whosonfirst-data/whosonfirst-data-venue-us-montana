@@ -2,13 +2,14 @@
   "id": 186382011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.491953,45.786196,-108.491953,45.786196",
     "geom:latitude":45.786196,
     "geom:longitude":-108.491953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1380 Minnesota Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186382011,
-    "wof:lastmodified":1449051101,
+    "wof:lastmodified":1466642813,
     "wof:name":"Provet Veterinary Supply",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.491953,45.786196,-108.491953,45.786196],
+  "bbox": [
+    -108.491953,
+    45.786196,
+    -108.491953,
+    45.786196
+],
   "geometry": {"coordinates":[-108.491953,45.786196],"type":"Point"}
 }

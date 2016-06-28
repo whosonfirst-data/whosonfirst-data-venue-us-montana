@@ -2,13 +2,14 @@
   "id": 186132167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220088,45.411924,-112.220088,45.411924",
     "geom:latitude":45.411924,
     "geom:longitude":-112.220088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Ruby River Dr",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186132167,
-    "wof:lastmodified":1449051687,
+    "wof:lastmodified":1466642093,
     "wof:name":"Silver Spring Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cattle"
     ]
 },
-  "bbox": [-112.220088,45.411924,-112.220088,45.411924],
+  "bbox": [
+    -112.220088,
+    45.411924,
+    -112.220088,
+    45.411924
+],
   "geometry": {"coordinates":[-112.220088,45.411924],"type":"Point"}
 }

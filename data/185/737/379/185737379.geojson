@@ -2,13 +2,14 @@
   "id": 185737379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.540484,46.010932,-112.540484,46.010932",
     "geom:latitude":46.010932,
     "geom:longitude":-112.540484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Mercury St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185737379,
-    "wof:lastmodified":1449006980,
+    "wof:lastmodified":1466641458,
     "wof:name":"Cortese Florian M MD Facg",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-112.540484,46.010932,-112.540484,46.010932],
-  "geometry": {"coordinates":[-112.540484,46.010932],"type":"Point"}
+  "bbox": [
+    -112.540484,
+    46.010932,
+    -112.540484,
+    46.010932
+],
+  "geometry": {"coordinates":[-112.54048400000001,46.010932],"type":"Point"}
 }

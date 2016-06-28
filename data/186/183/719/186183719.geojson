@@ -2,13 +2,14 @@
   "id": 186183719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.73353,46.398949,-112.73353,46.398949",
     "geom:latitude":46.398949,
     "geom:longitude":-112.73353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Missouri Ave",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186183719,
-    "wof:lastmodified":1449051818,
+    "wof:lastmodified":1466642396,
     "wof:name":"Powell County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-112.73353,46.398949,-112.73353,46.398949],
+  "bbox": [
+    -112.73353,
+    46.398949,
+    -112.73353,
+    46.398949
+],
   "geometry": {"coordinates":[-112.73353,46.398949],"type":"Point"}
 }

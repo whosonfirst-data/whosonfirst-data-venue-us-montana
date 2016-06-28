@@ -2,13 +2,14 @@
   "id": 185921745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.50845,45.783428,-108.50845,45.783428",
     "geom:latitude":45.783428,
     "geom:longitude":-108.50845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 3rd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185921745,
-    "wof:lastmodified":1449007630,
+    "wof:lastmodified":1466641674,
     "wof:name":"Information Network Services",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "datum"
     ]
 },
-  "bbox": [-108.50845,45.783428,-108.50845,45.783428],
+  "bbox": [
+    -108.50845,
+    45.783428,
+    -108.50845,
+    45.783428
+],
   "geometry": {"coordinates":[-108.50845,45.783428],"type":"Point"}
 }

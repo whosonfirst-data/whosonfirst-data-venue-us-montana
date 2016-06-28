@@ -2,13 +2,14 @@
   "id": 186011427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.244399,45.189028,-109.244399,45.189028",
     "geom:latitude":45.189028,
     "geom:longitude":-109.244399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 E 9th St",
     "sg:city":"Red Lodge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186011427,
-    "wof:lastmodified":1449052520,
+    "wof:lastmodified":1466641321,
     "wof:name":"Garden Party",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.244399,45.189028,-109.244399,45.189028],
+  "bbox": [
+    -109.244399,
+    45.189028,
+    -109.244399,
+    45.189028
+],
   "geometry": {"coordinates":[-109.244399,45.189028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186382785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.489352,45.79121,-108.489352,45.79121",
     "geom:latitude":45.79121,
     "geom:longitude":-108.489352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 2nd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186382785,
-    "wof:lastmodified":1449051100,
+    "wof:lastmodified":1466642667,
     "wof:name":"Liquor Store 4",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-108.489352,45.79121,-108.489352,45.79121],
+  "bbox": [
+    -108.489352,
+    45.79121,
+    -108.489352,
+    45.79121
+],
   "geometry": {"coordinates":[-108.489352,45.79121],"type":"Point"}
 }

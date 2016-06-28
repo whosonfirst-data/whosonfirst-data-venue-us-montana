@@ -2,13 +2,14 @@
   "id": 185818507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.196076,46.035027,-114.196076,46.035027",
     "geom:latitude":46.035027,
     "geom:longitude":-114.196076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Bunkhouse Rd",
     "sg:city":"Darby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185818507,
-    "wof:lastmodified":1449007410,
+    "wof:lastmodified":1466641551,
     "wof:name":"Ponderosa Big Sky Rnch Retreat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "guest"
     ]
 },
-  "bbox": [-114.196076,46.035027,-114.196076,46.035027],
-  "geometry": {"coordinates":[-114.196076,46.035027],"type":"Point"}
+  "bbox": [
+    -114.196076,
+    46.035027,
+    -114.196076,
+    46.035027
+],
+  "geometry": {"coordinates":[-114.19607600000001,46.035027],"type":"Point"}
 }

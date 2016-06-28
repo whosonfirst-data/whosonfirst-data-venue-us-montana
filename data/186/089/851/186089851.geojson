@@ -2,13 +2,14 @@
   "id": 186089851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.15673,46.2551,-114.15673,46.2551",
     "geom:latitude":46.2551,
     "geom:longitude":-114.15673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186089851,
-    "wof:lastmodified":1449050951,
+    "wof:lastmodified":1466641930,
     "wof:name":"S & S Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-114.15673,46.2551,-114.15673,46.2551],
+  "bbox": [
+    -114.15673,
+    46.2551,
+    -114.15673,
+    46.2551
+],
   "geometry": {"coordinates":[-114.15673,46.2551],"type":"Point"}
 }

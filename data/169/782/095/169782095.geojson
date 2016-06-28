@@ -2,13 +2,14 @@
   "id": 169782095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.540925,45.761121,-108.540925,45.761121",
     "geom:latitude":45.761121,
     "geom:longitude":-108.540925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169782095,
-    "wof:lastmodified":1449032669,
+    "wof:lastmodified":1466641238,
     "wof:name":"FNW/Allied Technical Sales",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.540925,45.761121,-108.540925,45.761121],
+  "bbox": [
+    -108.540925,
+    45.761121,
+    -108.540925,
+    45.761121
+],
   "geometry": {"coordinates":[-108.540925,45.761121],"type":"Point"}
 }

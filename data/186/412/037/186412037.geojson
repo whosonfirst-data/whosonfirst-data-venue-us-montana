@@ -2,13 +2,14 @@
   "id": 186412037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.993073,46.82179,-113.993073,46.82179",
     "geom:latitude":46.82179,
     "geom:longitude":-113.993073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Spanish Peak Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186412037,
-    "wof:lastmodified":1449050954,
+    "wof:lastmodified":1466642882,
     "wof:name":"Wild Rivers Publishing",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-113.993073,46.82179,-113.993073,46.82179],
+  "bbox": [
+    -113.993073,
+    46.82179,
+    -113.993073,
+    46.82179
+],
   "geometry": {"coordinates":[-113.993073,46.82179],"type":"Point"}
 }

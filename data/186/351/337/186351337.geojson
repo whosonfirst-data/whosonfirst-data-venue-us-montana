@@ -2,13 +2,14 @@
   "id": 186351337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.986259,46.5912,-111.986259,46.5912",
     "geom:latitude":46.5912,
     "geom:longitude":-111.986259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3135 Prospect Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186351337,
-    "wof:lastmodified":1449052608,
+    "wof:lastmodified":1466642861,
     "wof:name":"Montana Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.986259,46.5912,-111.986259,46.5912],
+  "bbox": [
+    -111.986259,
+    46.5912,
+    -111.986259,
+    46.5912
+],
   "geometry": {"coordinates":[-111.986259,46.5912],"type":"Point"}
 }

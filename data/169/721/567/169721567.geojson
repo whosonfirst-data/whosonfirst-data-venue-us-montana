@@ -2,13 +2,14 @@
   "id": 169721567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.541614,45.748869,-108.541614,45.748869",
     "geom:latitude":45.748869,
     "geom:longitude":-108.541614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 Maggie St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169721567,
-    "wof:lastmodified":1449035962,
+    "wof:lastmodified":1466641732,
     "wof:name":"Competition Wireline",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.541614,45.748869,-108.541614,45.748869],
+  "bbox": [
+    -108.541614,
+    45.748869,
+    -108.541614,
+    45.748869
+],
   "geometry": {"coordinates":[-108.541614,45.748869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185786017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.845862,46.410025,-105.845862,46.410025",
     "geom:latitude":46.410025,
     "geom:longitude":-105.845862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Palmer St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185786017,
-    "wof:lastmodified":1449006813,
+    "wof:lastmodified":1466641778,
     "wof:name":"Order of Eastern Star of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.845862,46.410025,-105.845862,46.410025],
+  "bbox": [
+    -105.845862,
+    46.410025,
+    -105.845862,
+    46.410025
+],
   "geometry": {"coordinates":[-105.845862,46.410025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185834963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.333425,47.485788,-111.333425,47.485788",
     "geom:latitude":47.485788,
     "geom:longitude":-111.333425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 19th Ave SW",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185834963,
-    "wof:lastmodified":1449006761,
+    "wof:lastmodified":1466641578,
     "wof:name":"Dockter Family LP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "holding"
     ]
 },
-  "bbox": [-111.333425,47.485788,-111.333425,47.485788],
-  "geometry": {"coordinates":[-111.333425,47.485788],"type":"Point"}
+  "bbox": [
+    -111.333425,
+    47.485788,
+    -111.333425,
+    47.485788
+],
+  "geometry": {"coordinates":[-111.33342500000001,47.485788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185646513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.567385,45.75258,-108.567385,45.75258",
     "geom:latitude":45.75258,
     "geom:longitude":-108.567385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2060 Overland Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185646513,
-    "wof:lastmodified":1449006562,
+    "wof:lastmodified":1466641366,
     "wof:name":"Beaches Distributing",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "establishment"
     ]
 },
-  "bbox": [-108.567385,45.75258,-108.567385,45.75258],
+  "bbox": [
+    -108.567385,
+    45.75258,
+    -108.567385,
+    45.75258
+],
   "geometry": {"coordinates":[-108.567385,45.75258],"type":"Point"}
 }

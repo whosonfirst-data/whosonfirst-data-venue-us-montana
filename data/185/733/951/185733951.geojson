@@ -2,13 +2,14 @@
   "id": 185733951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.312185,48.189699,-114.312185,48.189699",
     "geom:latitude":48.189699,
     "geom:longitude":-114.312185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 1st Ave W",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185733951,
-    "wof:lastmodified":1449006825,
+    "wof:lastmodified":1466641460,
     "wof:name":"Let Them Eat Cake",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-114.312185,48.189699,-114.312185,48.189699],
+  "bbox": [
+    -114.312185,
+    48.189699,
+    -114.312185,
+    48.189699
+],
   "geometry": {"coordinates":[-114.312185,48.189699],"type":"Point"}
 }

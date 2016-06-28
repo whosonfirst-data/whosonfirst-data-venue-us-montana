@@ -2,13 +2,14 @@
   "id": 185787595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.54365,45.785719,-108.54365,45.785719",
     "geom:latitude":45.785719,
     "geom:longitude":-108.54365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 11th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185787595,
-    "wof:lastmodified":1449007349,
+    "wof:lastmodified":1466641516,
     "wof:name":"Hirschi Telecommunications",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.54365,45.785719,-108.54365,45.785719],
+  "bbox": [
+    -108.54365,
+    45.785719,
+    -108.54365,
+    45.785719
+],
   "geometry": {"coordinates":[-108.54365,45.785719],"type":"Point"}
 }

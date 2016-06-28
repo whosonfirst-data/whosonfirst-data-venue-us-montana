@@ -2,13 +2,14 @@
   "id": 185993705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111746,47.549995,-115.111746,47.549995",
     "geom:latitude":47.549995,
     "geom:longitude":-115.111746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6175 State Hwy 200",
     "sg:city":"Thompson Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185993705,
-    "wof:lastmodified":1449007327,
+    "wof:lastmodified":1466641712,
     "wof:name":"Richard Gatto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "timber"
     ]
 },
-  "bbox": [-115.111746,47.549995,-115.111746,47.549995],
+  "bbox": [
+    -115.111746,
+    47.549995,
+    -115.111746,
+    47.549995
+],
   "geometry": {"coordinates":[-115.111746,47.549995],"type":"Point"}
 }

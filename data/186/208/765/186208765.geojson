@@ -2,13 +2,14 @@
   "id": 186208765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.58813,45.744379,-108.58813,45.744379",
     "geom:latitude":45.744379,
     "geom:longitude":-108.58813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2915 Gabel Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186208765,
-    "wof:lastmodified":1449050567,
+    "wof:lastmodified":1466642140,
     "wof:name":"Army National Guard Recruiting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "security"
     ]
 },
-  "bbox": [-108.58813,45.744379,-108.58813,45.744379],
-  "geometry": {"coordinates":[-108.58813,45.744379],"type":"Point"}
+  "bbox": [
+    -108.58813,
+    45.744379,
+    -108.58813,
+    45.744379
+],
+  "geometry": {"coordinates":[-108.58813000000001,45.744379],"type":"Point"}
 }

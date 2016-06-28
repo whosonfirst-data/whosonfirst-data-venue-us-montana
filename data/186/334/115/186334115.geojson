@@ -2,13 +2,14 @@
   "id": 186334115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.519318,46.000759,-112.519318,46.000759",
     "geom:latitude":46.000759,
     "geom:longitude":-112.519318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1370 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186334115,
-    "wof:lastmodified":1449051158,
+    "wof:lastmodified":1466642675,
     "wof:name":"Town Pump Inc & Affiliates",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-112.519318,46.000759,-112.519318,46.000759],
+  "bbox": [
+    -112.519318,
+    46.000759,
+    -112.519318,
+    46.000759
+],
   "geometry": {"coordinates":[-112.519318,46.000759],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186174737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.520648,45.793419,-108.520648,45.793419",
     "geom:latitude":45.793419,
     "geom:longitude":-108.520648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 N 30th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186174737,
-    "wof:lastmodified":1449050699,
+    "wof:lastmodified":1466642161,
     "wof:name":"Pediatric Specialty Care",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-108.520648,45.793419,-108.520648,45.793419],
-  "geometry": {"coordinates":[-108.520648,45.793419],"type":"Point"}
+  "bbox": [
+    -108.520648,
+    45.793419,
+    -108.520648,
+    45.793419
+],
+  "geometry": {"coordinates":[-108.52064799999999,45.793419],"type":"Point"}
 }

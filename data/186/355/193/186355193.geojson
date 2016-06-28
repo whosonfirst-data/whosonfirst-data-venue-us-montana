@@ -2,13 +2,14 @@
   "id": 186355193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.877579,45.723356,-108.877579,45.723356",
     "geom:latitude":45.723356,
     "geom:longitude":-108.877579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Cheif Looking Grass Rd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186355193,
-    "wof:lastmodified":1449051136,
+    "wof:lastmodified":1466642721,
     "wof:name":"Laurel Water Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "company"
     ]
 },
-  "bbox": [-108.877579,45.723356,-108.877579,45.723356],
+  "bbox": [
+    -108.877579,
+    45.723356,
+    -108.877579,
+    45.723356
+],
   "geometry": {"coordinates":[-108.877579,45.723356],"type":"Point"}
 }

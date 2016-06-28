@@ -2,13 +2,14 @@
   "id": 186273265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.26876,45.749646,-111.26876,45.749646",
     "geom:latitude":45.749646,
     "geom:longitude":-111.26876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4865 Highline Rd",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186273265,
-    "wof:lastmodified":1449051760,
+    "wof:lastmodified":1466642567,
     "wof:name":"Howard Triemstra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-111.26876,45.749646,-111.26876,45.749646],
+  "bbox": [
+    -111.26876,
+    45.749646,
+    -111.26876,
+    45.749646
+],
   "geometry": {"coordinates":[-111.26876,45.749646],"type":"Point"}
 }

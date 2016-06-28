@@ -2,13 +2,14 @@
   "id": 186043957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.550419,48.39382,-115.550419,48.39382",
     "geom:latitude":48.39382,
     "geom:longitude":-115.550419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Mineral Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186043957,
-    "wof:lastmodified":1449052350,
+    "wof:lastmodified":1466641810,
     "wof:name":"Mac's KWIK Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-115.550419,48.39382,-115.550419,48.39382],
-  "geometry": {"coordinates":[-115.550419,48.39382],"type":"Point"}
+  "bbox": [
+    -115.550419,
+    48.39382,
+    -115.550419,
+    48.39382
+],
+  "geometry": {"coordinates":[-115.55041900000001,48.39382],"type":"Point"}
 }

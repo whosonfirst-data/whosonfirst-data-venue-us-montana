@@ -2,13 +2,14 @@
   "id": 186375743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.456114,48.409382,-114.456114,48.409382",
     "geom:latitude":48.409382,
     "geom:longitude":-114.456114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3760 US Hwy 93",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186375743,
-    "wof:lastmodified":1449050365,
+    "wof:lastmodified":1466642887,
     "wof:name":"OKeef & Co Unlimited",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.456114,48.409382,-114.456114,48.409382],
+  "bbox": [
+    -114.456114,
+    48.409382,
+    -114.456114,
+    48.409382
+],
   "geometry": {"coordinates":[-114.456114,48.409382],"type":"Point"}
 }

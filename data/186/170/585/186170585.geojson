@@ -2,13 +2,14 @@
   "id": 186170585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.001181,46.840094,-114.001181,46.840094",
     "geom:latitude":46.840094,
     "geom:longitude":-114.001181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 SW Higgins Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186170585,
-    "wof:lastmodified":1449050490,
+    "wof:lastmodified":1466642376,
     "wof:name":"Jem Shoppe Jewelers",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-114.001181,46.840094,-114.001181,46.840094],
+  "bbox": [
+    -114.001181,
+    46.840094,
+    -114.001181,
+    46.840094
+],
   "geometry": {"coordinates":[-114.001181,46.840094],"type":"Point"}
 }

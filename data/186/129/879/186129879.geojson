@@ -2,13 +2,14 @@
   "id": 186129879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.308604,48.256423,-114.308604,48.256423",
     "geom:latitude":48.256423,
     "geom:longitude":-114.308604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2227 Whitefish Stage",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186129879,
-    "wof:lastmodified":1449052488,
+    "wof:lastmodified":1466642087,
     "wof:name":"Summit Media LLC",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-114.308604,48.256423,-114.308604,48.256423],
+  "bbox": [
+    -114.308604,
+    48.256423,
+    -114.308604,
+    48.256423
+],
   "geometry": {"coordinates":[-114.308604,48.256423],"type":"Point"}
 }

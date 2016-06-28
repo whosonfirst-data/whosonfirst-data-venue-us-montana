@@ -2,13 +2,14 @@
   "id": 186178633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.649075,45.717529,-108.649075,45.717529",
     "geom:latitude":45.717529,
     "geom:longitude":-108.649075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5240 Roland Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186178633,
-    "wof:lastmodified":1449052288,
+    "wof:lastmodified":1466642175,
     "wof:name":"Sharbono & Sharbono",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-108.649075,45.717529,-108.649075,45.717529],
+  "bbox": [
+    -108.649075,
+    45.717529,
+    -108.649075,
+    45.717529
+],
   "geometry": {"coordinates":[-108.649075,45.717529],"type":"Point"}
 }

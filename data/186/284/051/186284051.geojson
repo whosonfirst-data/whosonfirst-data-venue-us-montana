@@ -2,13 +2,14 @@
   "id": 186284051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.646791,48.094979,-105.646791,48.094979",
     "geom:latitude":48.094979,
     "geom:longitude":-105.646791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 6th Ave N",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186284051,
-    "wof:lastmodified":1449052029,
+    "wof:lastmodified":1466642582,
     "wof:name":"US Community Health Reps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.646791,48.094979,-105.646791,48.094979],
-  "geometry": {"coordinates":[-105.646791,48.094979],"type":"Point"}
+  "bbox": [
+    -105.646791,
+    48.094979,
+    -105.646791,
+    48.094979
+],
+  "geometry": {"coordinates":[-105.64679099999999,48.094979],"type":"Point"}
 }

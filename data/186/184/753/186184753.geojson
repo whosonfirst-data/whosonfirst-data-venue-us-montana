@@ -2,13 +2,14 @@
   "id": 186184753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.642754,48.08717,-105.642754,48.08717",
     "geom:latitude":48.08717,
     "geom:longitude":-105.642754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Dawson St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186184753,
-    "wof:lastmodified":1449050865,
+    "wof:lastmodified":1466642199,
     "wof:name":"Immaculate Conception Catholic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-105.642754,48.08717,-105.642754,48.08717],
+  "bbox": [
+    -105.642754,
+    48.08717,
+    -105.642754,
+    48.08717
+],
   "geometry": {"coordinates":[-105.642754,48.08717],"type":"Point"}
 }

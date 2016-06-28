@@ -2,13 +2,14 @@
   "id": 185839167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.145289,47.687871,-114.145289,47.687871",
     "geom:latitude":47.687871,
     "geom:longitude":-114.145289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Shasta Ln",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185839167,
-    "wof:lastmodified":1449007582,
+    "wof:lastmodified":1466641570,
     "wof:name":"Hillcrest Irrigation Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co"
     ]
 },
-  "bbox": [-114.145289,47.687871,-114.145289,47.687871],
-  "geometry": {"coordinates":[-114.145289,47.687871],"type":"Point"}
+  "bbox": [
+    -114.145289,
+    47.687871,
+    -114.145289,
+    47.687871
+],
+  "geometry": {"coordinates":[-114.14528900000001,47.687871],"type":"Point"}
 }

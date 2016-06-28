@@ -2,13 +2,14 @@
   "id": 185994635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.751482,45.682094,-108.751482,45.682094",
     "geom:latitude":45.682094,
     "geom:longitude":-108.751482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 Ridge Dr",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185994635,
-    "wof:lastmodified":1449006656,
+    "wof:lastmodified":1466641712,
     "wof:name":"Martys Contrct Wldng/Rebr Plac",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.751482,45.682094,-108.751482,45.682094],
+  "bbox": [
+    -108.751482,
+    45.682094,
+    -108.751482,
+    45.682094
+],
   "geometry": {"coordinates":[-108.751482,45.682094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186205737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.295555,47.44884,-111.295555,47.44884",
     "geom:latitude":47.44884,
     "geom:longitude":-111.295555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5085 Lower River Rd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186205737,
-    "wof:lastmodified":1449051978,
+    "wof:lastmodified":1466642131,
     "wof:name":"Liscum Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-111.295555,47.44884,-111.295555,47.44884],
-  "geometry": {"coordinates":[-111.295555,47.44884],"type":"Point"}
+  "bbox": [
+    -111.295555,
+    47.44884,
+    -111.295555,
+    47.44884
+],
+  "geometry": {"coordinates":[-111.29555499999999,47.44884],"type":"Point"}
 }

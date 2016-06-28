@@ -2,13 +2,14 @@
   "id": 185840695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.187874,45.602568,-111.187874,45.602568",
     "geom:latitude":45.602568,
     "geom:longitude":-111.187874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Wheeler Mountain Way",
     "sg:city":"Gallatin Gateway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185840695,
-    "wof:lastmodified":1449007872,
+    "wof:lastmodified":1466641578,
     "wof:name":"Homewright Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-111.187874,45.602568,-111.187874,45.602568],
-  "geometry": {"coordinates":[-111.187874,45.602568],"type":"Point"}
+  "bbox": [
+    -111.187874,
+    45.602568,
+    -111.187874,
+    45.602568
+],
+  "geometry": {"coordinates":[-111.18787399999999,45.602568],"type":"Point"}
 }

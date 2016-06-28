@@ -2,13 +2,14 @@
   "id": 169862405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.609577,45.80126,-108.609577,45.80126",
     "geom:latitude":45.80126,
     "geom:longitude":-108.609577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3717 Otis Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169862405,
-    "wof:lastmodified":1449036048,
+    "wof:lastmodified":1466641352,
     "wof:name":"Tierney Land & Livestock Co",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "livestock"
     ]
 },
-  "bbox": [-108.609577,45.80126,-108.609577,45.80126],
+  "bbox": [
+    -108.609577,
+    45.80126,
+    -108.609577,
+    45.80126
+],
   "geometry": {"coordinates":[-108.609577,45.80126],"type":"Point"}
 }

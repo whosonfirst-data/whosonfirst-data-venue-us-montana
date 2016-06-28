@@ -2,13 +2,14 @@
   "id": 169747031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.64357,46.641265,-111.64357,46.641265",
     "geom:latitude":46.641265,
     "geom:longitude":-111.64357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8875 Canyon Ferry Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169747031,
-    "wof:lastmodified":1449033290,
+    "wof:lastmodified":1466641744,
     "wof:name":"Rochelle Russell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.64357,46.641265,-111.64357,46.641265],
+  "bbox": [
+    -111.64357,
+    46.641265,
+    -111.64357,
+    46.641265
+],
   "geometry": {"coordinates":[-111.64357,46.641265],"type":"Point"}
 }

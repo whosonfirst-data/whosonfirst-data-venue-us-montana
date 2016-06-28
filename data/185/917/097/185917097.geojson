@@ -2,13 +2,14 @@
   "id": 185917097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.667394,45.733945,-108.667394,45.733945",
     "geom:latitude":45.733945,
     "geom:longitude":-108.667394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5651 Lazy Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185917097,
-    "wof:lastmodified":1449008006,
+    "wof:lastmodified":1466641654,
     "wof:name":"Grover Painting George",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.667394,45.733945,-108.667394,45.733945],
+  "bbox": [
+    -108.667394,
+    45.733945,
+    -108.667394,
+    45.733945
+],
   "geometry": {"coordinates":[-108.667394,45.733945],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186346355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.431223,45.801509,-108.431223,45.801509",
     "geom:latitude":45.801509,
     "geom:longitude":-108.431223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Nightingale Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186346355,
-    "wof:lastmodified":1449050240,
+    "wof:lastmodified":1466642551,
     "wof:name":"Riteway Intermodal Svc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.431223,45.801509,-108.431223,45.801509],
+  "bbox": [
+    -108.431223,
+    45.801509,
+    -108.431223,
+    45.801509
+],
   "geometry": {"coordinates":[-108.431223,45.801509],"type":"Point"}
 }

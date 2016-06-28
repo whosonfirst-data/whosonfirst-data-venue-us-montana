@@ -2,13 +2,14 @@
   "id": 185998047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.63068,47.817029,-110.63068,47.817029",
     "geom:latitude":47.817029,
     "geom:longitude":-110.63068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Double Circle Ln",
     "sg:city":"Fort Benton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185998047,
-    "wof:lastmodified":1449007124,
+    "wof:lastmodified":1466641790,
     "wof:name":"Mary Tweet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-110.63068,47.817029,-110.63068,47.817029],
+  "bbox": [
+    -110.63068,
+    47.817029,
+    -110.63068,
+    47.817029
+],
   "geometry": {"coordinates":[-110.63068,47.817029],"type":"Point"}
 }

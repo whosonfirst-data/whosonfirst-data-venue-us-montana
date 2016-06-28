@@ -2,13 +2,14 @@
   "id": 169723191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.391643,48.298162,-114.391643,48.298162",
     "geom:latitude":48.298162,
     "geom:longitude":-114.391643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Lost Creek Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169723191,
-    "wof:lastmodified":1449034619,
+    "wof:lastmodified":1466641734,
     "wof:name":"R S Sampson Trucking",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.391643,48.298162,-114.391643,48.298162],
+  "bbox": [
+    -114.391643,
+    48.298162,
+    -114.391643,
+    48.298162
+],
   "geometry": {"coordinates":[-114.391643,48.298162],"type":"Point"}
 }

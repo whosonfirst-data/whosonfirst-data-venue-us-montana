@@ -2,13 +2,14 @@
   "id": 186125111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.555166,47.259384,-105.555166,47.259384",
     "geom:latitude":47.259384,
     "geom:longitude":-105.555166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Union Rd",
     "sg:city":"Circle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186125111,
-    "wof:lastmodified":1449052947,
+    "wof:lastmodified":1466642081,
     "wof:name":"Dekker Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-105.555166,47.259384,-105.555166,47.259384],
+  "bbox": [
+    -105.555166,
+    47.259384,
+    -105.555166,
+    47.259384
+],
   "geometry": {"coordinates":[-105.555166,47.259384],"type":"Point"}
 }

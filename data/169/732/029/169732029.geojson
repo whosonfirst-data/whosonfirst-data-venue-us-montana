@@ -2,13 +2,14 @@
   "id": 169732029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.590327,47.418181,-105.590327,47.418181",
     "geom:latitude":47.418181,
     "geom:longitude":-105.590327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Main St",
     "sg:city":"Circle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169732029,
-    "wof:lastmodified":1449036070,
+    "wof:lastmodified":1466641742,
     "wof:name":"Joanne's Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.590327,47.418181,-105.590327,47.418181],
+  "bbox": [
+    -105.590327,
+    47.418181,
+    -105.590327,
+    47.418181
+],
   "geometry": {"coordinates":[-105.590327,47.418181],"type":"Point"}
 }

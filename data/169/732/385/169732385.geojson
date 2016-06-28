@@ -2,13 +2,14 @@
   "id": 169732385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.290341,47.506327,-111.290341,47.506327",
     "geom:latitude":47.506327,
     "geom:longitude":-111.290341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 1st Ave N",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169732385,
-    "wof:lastmodified":1449036071,
+    "wof:lastmodified":1466641163,
     "wof:name":"Mini Mart 766",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-111.290341,47.506327,-111.290341,47.506327],
+  "bbox": [
+    -111.290341,
+    47.506327,
+    -111.290341,
+    47.506327
+],
   "geometry": {"coordinates":[-111.290341,47.506327],"type":"Point"}
 }

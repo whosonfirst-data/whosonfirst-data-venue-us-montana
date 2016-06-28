@@ -2,13 +2,14 @@
   "id": 186085661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.088188,46.760695,-114.088188,46.760695",
     "geom:latitude":46.760695,
     "geom:longitude":-114.088188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"269 Essex St",
     "sg:city":"Lolo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186085661,
-    "wof:lastmodified":1449051067,
+    "wof:lastmodified":1466641917,
     "wof:name":"ML Electronics",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.088188,46.760695,-114.088188,46.760695],
+  "bbox": [
+    -114.088188,
+    46.760695,
+    -114.088188,
+    46.760695
+],
   "geometry": {"coordinates":[-114.088188,46.760695],"type":"Point"}
 }

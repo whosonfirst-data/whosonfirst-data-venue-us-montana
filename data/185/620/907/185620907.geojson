@@ -2,13 +2,14 @@
   "id": 185620907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.827113,47.08557,-104.827113,47.08557",
     "geom:latitude":47.08557,
     "geom:longitude":-104.827113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Rd 238",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185620907,
-    "wof:lastmodified":1449008084,
+    "wof:lastmodified":1466641220,
     "wof:name":"F Diamond Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-104.827113,47.08557,-104.827113,47.08557],
+  "bbox": [
+    -104.827113,
+    47.08557,
+    -104.827113,
+    47.08557
+],
   "geometry": {"coordinates":[-104.827113,47.08557],"type":"Point"}
 }

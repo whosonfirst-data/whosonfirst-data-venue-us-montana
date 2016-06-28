@@ -2,13 +2,14 @@
   "id": 186123463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.036585,46.850721,-114.036585,46.850721",
     "geom:latitude":46.850721,
     "geom:longitude":-114.036585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2426 W Central Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186123463,
-    "wof:lastmodified":1449051181,
+    "wof:lastmodified":1466642074,
     "wof:name":"Ivah G Schmitz CPA",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.036585,46.850721,-114.036585,46.850721],
+  "bbox": [
+    -114.036585,
+    46.850721,
+    -114.036585,
+    46.850721
+],
   "geometry": {"coordinates":[-114.036585,46.850721],"type":"Point"}
 }

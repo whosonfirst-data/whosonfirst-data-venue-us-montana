@@ -2,13 +2,14 @@
   "id": 186067601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036972,46.590339,-112.036972,46.590339",
     "geom:latitude":46.590339,
     "geom:longitude":-112.036972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 N Jackson St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186067601,
-    "wof:lastmodified":1449050429,
+    "wof:lastmodified":1466641863,
     "wof:name":"Queen City Ballet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-112.036972,46.590339,-112.036972,46.590339],
-  "geometry": {"coordinates":[-112.036972,46.590339],"type":"Point"}
+  "bbox": [
+    -112.036972,
+    46.590339,
+    -112.036972,
+    46.590339
+],
+  "geometry": {"coordinates":[-112.03697200000001,46.590339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186133423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.161829,47.688269,-114.161829,47.688269",
     "geom:latitude":47.688269,
     "geom:longitude":-114.161829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 1st St E",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186133423,
-    "wof:lastmodified":1449052544,
+    "wof:lastmodified":1466642245,
     "wof:name":"Duford Tire & Off Road",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.161829,47.688269,-114.161829,47.688269],
+  "bbox": [
+    -114.161829,
+    47.688269,
+    -114.161829,
+    47.688269
+],
   "geometry": {"coordinates":[-114.161829,47.688269],"type":"Point"}
 }

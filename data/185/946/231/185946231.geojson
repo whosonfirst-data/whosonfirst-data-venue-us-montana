@@ -2,13 +2,14 @@
   "id": 185946231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.542167,45.768701,-108.542167,45.768701",
     "geom:latitude":45.768701,
     "geom:longitude":-108.542167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185946231,
-    "wof:lastmodified":1449008028,
+    "wof:lastmodified":1466641699,
     "wof:name":"Advant Edge Marketing Inc",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.542167,45.768701,-108.542167,45.768701],
-  "geometry": {"coordinates":[-108.542167,45.768701],"type":"Point"}
+  "bbox": [
+    -108.542167,
+    45.768701,
+    -108.542167,
+    45.768701
+],
+  "geometry": {"coordinates":[-108.54216700000001,45.768701],"type":"Point"}
 }

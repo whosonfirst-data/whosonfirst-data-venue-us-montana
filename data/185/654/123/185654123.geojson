@@ -2,13 +2,14 @@
   "id": 185654123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.439053,48.374982,-114.439053,48.374982",
     "geom:latitude":48.374982,
     "geom:longitude":-114.439053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1080 Lodgepole Rd",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185654123,
-    "wof:lastmodified":1449007141,
+    "wof:lastmodified":1466641371,
     "wof:name":"Anderson Todd Fine Woodworking",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-114.439053,48.374982,-114.439053,48.374982],
+  "bbox": [
+    -114.439053,
+    48.374982,
+    -114.439053,
+    48.374982
+],
   "geometry": {"coordinates":[-114.439053,48.374982],"type":"Point"}
 }

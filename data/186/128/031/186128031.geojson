@@ -2,13 +2,14 @@
   "id": 186128031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.316081,48.195944,-114.316081,48.195944",
     "geom:latitude":48.195944,
     "geom:longitude":-114.316081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 2nd Ave W",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186128031,
-    "wof:lastmodified":1449051409,
+    "wof:lastmodified":1466642236,
     "wof:name":"Jungle Rama",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-114.316081,48.195944,-114.316081,48.195944],
+  "bbox": [
+    -114.316081,
+    48.195944,
+    -114.316081,
+    48.195944
+],
   "geometry": {"coordinates":[-114.316081,48.195944],"type":"Point"}
 }

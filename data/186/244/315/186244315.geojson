@@ -2,13 +2,14 @@
   "id": 186244315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.482362,45.827264,-108.482362,45.827264",
     "geom:latitude":45.827264,
     "geom:longitude":-108.482362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Wicks Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186244315,
-    "wof:lastmodified":1449051437,
+    "wof:lastmodified":1466642517,
     "wof:name":"Eric Saberhagen",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.482362,45.827264,-108.482362,45.827264],
-  "geometry": {"coordinates":[-108.482362,45.827264],"type":"Point"}
+  "bbox": [
+    -108.482362,
+    45.827264,
+    -108.482362,
+    45.827264
+],
+  "geometry": {"coordinates":[-108.48236199999999,45.827264],"type":"Point"}
 }

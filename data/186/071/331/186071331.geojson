@@ -2,13 +2,14 @@
   "id": 186071331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.521097,45.997753,-112.521097,45.997753",
     "geom:latitude":45.997753,
     "geom:longitude":-112.521097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1624 Oregon Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186071331,
-    "wof:lastmodified":1449052059,
+    "wof:lastmodified":1466641867,
     "wof:name":"Sunshine Oxygen Svc Inc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [-112.521097,45.997753,-112.521097,45.997753],
+  "bbox": [
+    -112.521097,
+    45.997753,
+    -112.521097,
+    45.997753
+],
   "geometry": {"coordinates":[-112.521097,45.997753],"type":"Point"}
 }

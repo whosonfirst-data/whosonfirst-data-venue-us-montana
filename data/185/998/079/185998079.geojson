@@ -2,13 +2,14 @@
   "id": 185998079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.135086,45.725684,-111.135086,45.725684",
     "geom:latitude":45.725684,
     "geom:longitude":-111.135086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Candlelight Dr",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185998079,
-    "wof:lastmodified":1449007127,
+    "wof:lastmodified":1466641710,
     "wof:name":"Buckle My Shoe LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.135086,45.725684,-111.135086,45.725684],
+  "bbox": [
+    -111.135086,
+    45.725684,
+    -111.135086,
+    45.725684
+],
   "geometry": {"coordinates":[-111.135086,45.725684],"type":"Point"}
 }

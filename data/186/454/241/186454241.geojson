@@ -2,13 +2,14 @@
   "id": 186454241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.129031,47.69532,-114.129031,47.69532",
     "geom:latitude":47.69532,
     "geom:longitude":-114.129031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Litler Ln",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186454241,
-    "wof:lastmodified":1449052769,
+    "wof:lastmodified":1466643024,
     "wof:name":"Phoenix Counseling Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.129031,47.69532,-114.129031,47.69532],
+  "bbox": [
+    -114.129031,
+    47.69532,
+    -114.129031,
+    47.69532
+],
   "geometry": {"coordinates":[-114.129031,47.69532],"type":"Point"}
 }

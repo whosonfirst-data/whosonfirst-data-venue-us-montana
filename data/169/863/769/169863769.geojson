@@ -2,13 +2,14 @@
   "id": 169863769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.642601,45.207933,-112.642601,45.207933",
     "geom:latitude":45.207933,
     "geom:longitude":-112.642601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 S Atlantic St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169863769,
-    "wof:lastmodified":1449034970,
+    "wof:lastmodified":1466641357,
     "wof:name":"Torrey Mtn Med Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.642601,45.207933,-112.642601,45.207933],
+  "bbox": [
+    -112.642601,
+    45.207933,
+    -112.642601,
+    45.207933
+],
   "geometry": {"coordinates":[-112.642601,45.207933],"type":"Point"}
 }

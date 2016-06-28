@@ -2,13 +2,14 @@
   "id": 186064483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.158538,46.245967,-114.158538,46.245967",
     "geom:latitude":46.245967,
     "geom:longitude":-114.158538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 State St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186064483,
-    "wof:lastmodified":1449051337,
+    "wof:lastmodified":1466641854,
     "wof:name":"Bitterroot Public Library Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.158538,46.245967,-114.158538,46.245967],
-  "geometry": {"coordinates":[-114.158538,46.245967],"type":"Point"}
+  "bbox": [
+    -114.158538,
+    46.245967,
+    -114.158538,
+    46.245967
+],
+  "geometry": {"coordinates":[-114.15853799999999,46.245967],"type":"Point"}
 }

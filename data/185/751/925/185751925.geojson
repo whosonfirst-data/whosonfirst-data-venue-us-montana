@@ -2,13 +2,14 @@
   "id": 185751925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.750862,45.680222,-108.750862,45.680222",
     "geom:latitude":45.680222,
     "geom:longitude":-108.750862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1532 E Maryland Ln",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185751925,
-    "wof:lastmodified":1449006677,
+    "wof:lastmodified":1466641481,
     "wof:name":"Rods and Lambs",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-108.750862,45.680222,-108.750862,45.680222],
+  "bbox": [
+    -108.750862,
+    45.680222,
+    -108.750862,
+    45.680222
+],
   "geometry": {"coordinates":[-108.750862,45.680222],"type":"Point"}
 }

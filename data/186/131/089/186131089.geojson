@@ -2,13 +2,14 @@
   "id": 186131089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.087882,47.428035,-114.087882,47.428035",
     "geom:latitude":47.428035,
     "geom:longitude":-114.087882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Gunlock Rd",
     "sg:city":"Charlo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186131089,
-    "wof:lastmodified":1449051188,
+    "wof:lastmodified":1466642083,
     "wof:name":"Pilot Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.087882,47.428035,-114.087882,47.428035],
-  "geometry": {"coordinates":[-114.087882,47.428035],"type":"Point"}
+  "bbox": [
+    -114.087882,
+    47.428035,
+    -114.087882,
+    47.428035
+],
+  "geometry": {"coordinates":[-114.08788199999999,47.428035],"type":"Point"}
 }

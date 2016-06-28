@@ -2,13 +2,14 @@
   "id": 185780945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.336681,48.410376,-114.336681,48.410376",
     "geom:latitude":48.410376,
     "geom:longitude":-114.336681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Central Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185780945,
-    "wof:lastmodified":1449007807,
+    "wof:lastmodified":1466641515,
     "wof:name":"Whitefish Gift & Gear",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.336681,48.410376,-114.336681,48.410376],
+  "bbox": [
+    -114.336681,
+    48.410376,
+    -114.336681,
+    48.410376
+],
   "geometry": {"coordinates":[-114.336681,48.410376],"type":"Point"}
 }

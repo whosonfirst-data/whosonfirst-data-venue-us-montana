@@ -2,13 +2,14 @@
   "id": 186102299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.188503,46.988608,-104.188503,46.988608",
     "geom:latitude":46.988608,
     "geom:longitude":-104.188503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Nolan Ave W",
     "sg:city":"Wibaux",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186102299,
-    "wof:lastmodified":1449052827,
+    "wof:lastmodified":1466641791,
     "wof:name":"Border States Paving Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-104.188503,46.988608,-104.188503,46.988608],
+  "bbox": [
+    -104.188503,
+    46.988608,
+    -104.188503,
+    46.988608
+],
   "geometry": {"coordinates":[-104.188503,46.988608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185835719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.664091,47.492288,-110.664091,47.492288",
     "geom:latitude":47.492288,
     "geom:longitude":-110.664091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Elk Run Ln",
     "sg:city":"Highwood",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185835719,
-    "wof:lastmodified":1449006838,
+    "wof:lastmodified":1466641575,
     "wof:name":"Elk Run Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-110.664091,47.492288,-110.664091,47.492288],
+  "bbox": [
+    -110.664091,
+    47.492288,
+    -110.664091,
+    47.492288
+],
   "geometry": {"coordinates":[-110.664091,47.492288],"type":"Point"}
 }

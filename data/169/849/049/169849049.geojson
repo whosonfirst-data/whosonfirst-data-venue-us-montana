@@ -2,13 +2,14 @@
   "id": 169849049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020232,46.402146,-112.020232,46.402146",
     "geom:latitude":46.402146,
     "geom:longitude":-112.020232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 N Main St",
     "sg:city":"Boulder",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169849049,
-    "wof:lastmodified":1449033298,
+    "wof:lastmodified":1466641327,
     "wof:name":"L & P GROCERY",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-112.020232,46.402146,-112.020232,46.402146],
-  "geometry": {"coordinates":[-112.020232,46.402146],"type":"Point"}
+  "bbox": [
+    -112.020232,
+    46.402146,
+    -112.020232,
+    46.402146
+],
+  "geometry": {"coordinates":[-112.02023199999999,46.402146],"type":"Point"}
 }

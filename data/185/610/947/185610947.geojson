@@ -2,13 +2,14 @@
   "id": 185610947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.514982,45.995781,-112.514982,45.995781",
     "geom:latitude":45.995781,
     "geom:longitude":-112.514982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1855 Garrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185610947,
-    "wof:lastmodified":1449008168,
+    "wof:lastmodified":1466641194,
     "wof:name":"Fournier Painting",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.514982,45.995781,-112.514982,45.995781],
+  "bbox": [
+    -112.514982,
+    45.995781,
+    -112.514982,
+    45.995781
+],
   "geometry": {"coordinates":[-112.514982,45.995781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186425093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.49488,45.780445,-108.49488,45.780445",
     "geom:latitude":45.780445,
     "geom:longitude":-108.49488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S 23rd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186425093,
-    "wof:lastmodified":1449051337,
+    "wof:lastmodified":1466642918,
     "wof:name":"Conoco Phillips Refinery",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "refiner"
     ]
 },
-  "bbox": [-108.49488,45.780445,-108.49488,45.780445],
-  "geometry": {"coordinates":[-108.49488,45.780445],"type":"Point"}
+  "bbox": [
+    -108.49488,
+    45.780445,
+    -108.49488,
+    45.780445
+],
+  "geometry": {"coordinates":[-108.49487999999999,45.780445],"type":"Point"}
 }

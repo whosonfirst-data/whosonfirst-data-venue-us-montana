@@ -2,13 +2,14 @@
   "id": 186097575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.470784,45.813809,-108.470784,45.813809",
     "geom:latitude":45.813809,
     "geom:longitude":-108.470784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"885 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186097575,
-    "wof:lastmodified":1449051420,
+    "wof:lastmodified":1466641970,
     "wof:name":"Checker Auto Parts 478",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-108.470784,45.813809,-108.470784,45.813809],
-  "geometry": {"coordinates":[-108.470784,45.813809],"type":"Point"}
+  "bbox": [
+    -108.470784,
+    45.813809,
+    -108.470784,
+    45.813809
+],
+  "geometry": {"coordinates":[-108.47078399999999,45.813809],"type":"Point"}
 }

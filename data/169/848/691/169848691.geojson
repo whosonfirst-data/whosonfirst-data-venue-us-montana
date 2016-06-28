@@ -2,13 +2,14 @@
   "id": 169848691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.170433,46.246242,-114.170433,46.246242",
     "geom:latitude":46.246242,
     "geom:longitude":-114.170433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 W Main St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169848691,
-    "wof:lastmodified":1449033149,
+    "wof:lastmodified":1466641331,
     "wof:name":"A Plus Paging Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-114.170433,46.246242,-114.170433,46.246242],
+  "bbox": [
+    -114.170433,
+    46.246242,
+    -114.170433,
+    46.246242
+],
   "geometry": {"coordinates":[-114.170433,46.246242],"type":"Point"}
 }

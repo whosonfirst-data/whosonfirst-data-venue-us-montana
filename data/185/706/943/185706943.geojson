@@ -2,13 +2,14 @@
   "id": 185706943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.631279,45.220709,-112.631279,45.220709",
     "geom:latitude":45.220709,
     "geom:longitude":-112.631279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 N Washington St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185706943,
-    "wof:lastmodified":1449006717,
+    "wof:lastmodified":1466641434,
     "wof:name":"Owen Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.631279,45.220709,-112.631279,45.220709],
-  "geometry": {"coordinates":[-112.631279,45.220709],"type":"Point"}
+  "bbox": [
+    -112.631279,
+    45.220709,
+    -112.631279,
+    45.220709
+],
+  "geometry": {"coordinates":[-112.63127900000001,45.220709],"type":"Point"}
 }

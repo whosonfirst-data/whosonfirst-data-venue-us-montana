@@ -2,13 +2,14 @@
   "id": 185765911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.039769,46.586388,-112.039769,46.586388",
     "geom:latitude":46.586388,
     "geom:longitude":-112.039769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 S Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185765911,
-    "wof:lastmodified":1449007537,
+    "wof:lastmodified":1466641498,
     "wof:name":"Lasso The Moon Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "banner"
     ]
 },
-  "bbox": [-112.039769,46.586388,-112.039769,46.586388],
-  "geometry": {"coordinates":[-112.039769,46.586388],"type":"Point"}
+  "bbox": [
+    -112.039769,
+    46.586388,
+    -112.039769,
+    46.586388
+],
+  "geometry": {"coordinates":[-112.03976900000001,46.586388],"type":"Point"}
 }

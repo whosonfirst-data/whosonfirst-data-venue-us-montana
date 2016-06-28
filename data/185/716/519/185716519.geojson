@@ -2,13 +2,14 @@
   "id": 185716519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.504523,45.786246,-108.504523,45.786246",
     "geom:latitude":45.786246,
     "geom:longitude":-108.504523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N 25th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185716519,
-    "wof:lastmodified":1449006837,
+    "wof:lastmodified":1466641436,
     "wof:name":"Nelson Law Firm",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-108.504523,45.786246,-108.504523,45.786246],
-  "geometry": {"coordinates":[-108.504523,45.786246],"type":"Point"}
+  "bbox": [
+    -108.504523,
+    45.786246,
+    -108.504523,
+    45.786246
+],
+  "geometry": {"coordinates":[-108.50452300000001,45.786246],"type":"Point"}
 }

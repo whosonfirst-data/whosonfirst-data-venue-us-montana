@@ -2,13 +2,14 @@
   "id": 186460649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.163461,47.686279,-114.163461,47.686279",
     "geom:latitude":47.686279,
     "geom:longitude":-114.163461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Main St",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186460649,
-    "wof:lastmodified":1449052883,
+    "wof:lastmodified":1466642886,
     "wof:name":"Main Street Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-114.163461,47.686279,-114.163461,47.686279],
+  "bbox": [
+    -114.163461,
+    47.686279,
+    -114.163461,
+    47.686279
+],
   "geometry": {"coordinates":[-114.163461,47.686279],"type":"Point"}
 }

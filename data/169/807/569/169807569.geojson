@@ -2,13 +2,14 @@
   "id": 169807569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.727749,45.679623,-108.727749,45.679623",
     "geom:latitude":45.679623,
     "geom:longitude":-108.727749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 E Main St",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169807569,
-    "wof:lastmodified":1449033538,
+    "wof:lastmodified":1466641278,
     "wof:name":"Save It Mini Storage",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "special"
     ]
 },
-  "bbox": [-108.727749,45.679623,-108.727749,45.679623],
+  "bbox": [
+    -108.727749,
+    45.679623,
+    -108.727749,
+    45.679623
+],
   "geometry": {"coordinates":[-108.727749,45.679623],"type":"Point"}
 }

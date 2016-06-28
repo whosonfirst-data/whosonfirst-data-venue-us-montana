@@ -2,13 +2,14 @@
   "id": 186005481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.778667,45.673569,-108.778667,45.673569",
     "geom:latitude":45.673569,
     "geom:longitude":-108.778667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 W 5th St",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186005481,
-    "wof:lastmodified":1449052812,
+    "wof:lastmodified":1466641905,
     "wof:name":"Le Duc Jewelers",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-108.778667,45.673569,-108.778667,45.673569],
+  "bbox": [
+    -108.778667,
+    45.673569,
+    -108.778667,
+    45.673569
+],
   "geometry": {"coordinates":[-108.778667,45.673569],"type":"Point"}
 }

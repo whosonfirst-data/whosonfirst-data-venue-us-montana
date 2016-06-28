@@ -2,13 +2,14 @@
   "id": 186232631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.150703,47.712134,-104.150703,47.712134",
     "geom:latitude":47.712134,
     "geom:longitude":-104.150703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 2nd St SE",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186232631,
-    "wof:lastmodified":1449051252,
+    "wof:lastmodified":1466642499,
     "wof:name":"B&J Refrigeration & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-104.150703,47.712134,-104.150703,47.712134],
-  "geometry": {"coordinates":[-104.150703,47.712134],"type":"Point"}
+  "bbox": [
+    -104.150703,
+    47.712134,
+    -104.150703,
+    47.712134
+],
+  "geometry": {"coordinates":[-104.15070299999999,47.712134],"type":"Point"}
 }

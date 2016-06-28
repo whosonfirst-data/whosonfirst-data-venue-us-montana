@@ -2,13 +2,14 @@
   "id": 186182011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.511417,45.999279,-112.511417,45.999279",
     "geom:latitude":45.999279,
     "geom:longitude":-112.511417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Wall St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186182011,
-    "wof:lastmodified":1449052071,
+    "wof:lastmodified":1466642016,
     "wof:name":"Lonesome Dove Boutique",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "child"
     ]
 },
-  "bbox": [-112.511417,45.999279,-112.511417,45.999279],
-  "geometry": {"coordinates":[-112.511417,45.999279],"type":"Point"}
+  "bbox": [
+    -112.511417,
+    45.999279,
+    -112.511417,
+    45.999279
+],
+  "geometry": {"coordinates":[-112.51141699999999,45.999279],"type":"Point"}
 }

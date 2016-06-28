@@ -2,13 +2,14 @@
   "id": 186353535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.499681,45.781554,-108.499681,45.781554",
     "geom:latitude":45.781554,
     "geom:longitude":-108.499681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 S 25th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186353535,
-    "wof:lastmodified":1449051142,
+    "wof:lastmodified":1466642722,
     "wof:name":"Unlimited Development Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.499681,45.781554,-108.499681,45.781554],
+  "bbox": [
+    -108.499681,
+    45.781554,
+    -108.499681,
+    45.781554
+],
   "geometry": {"coordinates":[-108.499681,45.781554],"type":"Point"}
 }

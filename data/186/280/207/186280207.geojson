@@ -2,13 +2,14 @@
   "id": 186280207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.05802,46.807858,-114.05802,46.807858",
     "geom:latitude":46.807858,
     "geom:longitude":-114.05802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6746 Linda Vista Blvd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186280207,
-    "wof:lastmodified":1449051699,
+    "wof:lastmodified":1466642337,
     "wof:name":"Eyi Integrated Marketing",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.05802,46.807858,-114.05802,46.807858],
+  "bbox": [
+    -114.05802,
+    46.807858,
+    -114.05802,
+    46.807858
+],
   "geometry": {"coordinates":[-114.05802,46.807858],"type":"Point"}
 }

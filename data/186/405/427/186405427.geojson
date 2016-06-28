@@ -2,13 +2,14 @@
   "id": 186405427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.0188,46.151654,-113.0188,46.151654",
     "geom:latitude":46.151654,
     "geom:longitude":-113.0188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Howe St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186405427,
-    "wof:lastmodified":1449052796,
+    "wof:lastmodified":1466643007,
     "wof:name":"Colberts Statewide Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-113.0188,46.151654,-113.0188,46.151654],
+  "bbox": [
+    -113.0188,
+    46.151654,
+    -113.0188,
+    46.151654
+],
   "geometry": {"coordinates":[-113.0188,46.151654],"type":"Point"}
 }

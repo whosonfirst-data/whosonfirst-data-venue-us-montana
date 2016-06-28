@@ -2,13 +2,14 @@
   "id": 185604969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.000054,46.457161,-114.000054,46.457161",
     "geom:latitude":46.457161,
     "geom:longitude":-114.000054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2849 McIntyre Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185604969,
-    "wof:lastmodified":1449008036,
+    "wof:lastmodified":1466641181,
     "wof:name":"Tamarack Helicopters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "aircraft"
     ]
 },
-  "bbox": [-114.000054,46.457161,-114.000054,46.457161],
-  "geometry": {"coordinates":[-114.000054,46.457161],"type":"Point"}
+  "bbox": [
+    -114.000054,
+    46.457161,
+    -114.000054,
+    46.457161
+],
+  "geometry": {"coordinates":[-114.00005400000001,46.457161],"type":"Point"}
 }

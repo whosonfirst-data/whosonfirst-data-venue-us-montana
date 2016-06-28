@@ -2,13 +2,14 @@
   "id": 186101791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.180367,45.786745,-111.180367,45.786745",
     "geom:latitude":45.786745,
     "geom:longitude":-111.180367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Spooner Rd",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186101791,
-    "wof:lastmodified":1449051786,
+    "wof:lastmodified":1466641787,
     "wof:name":"Bridger View Inspections Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.180367,45.786745,-111.180367,45.786745],
+  "bbox": [
+    -111.180367,
+    45.786745,
+    -111.180367,
+    45.786745
+],
   "geometry": {"coordinates":[-111.180367,45.786745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185677459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.476051,45.856476,-108.476051,45.856476",
     "geom:latitude":45.856476,
     "geom:longitude":-108.476051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 Alexander Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185677459,
-    "wof:lastmodified":1449007171,
+    "wof:lastmodified":1466641396,
     "wof:name":"New Beginnings Ministry Center",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.476051,45.856476,-108.476051,45.856476],
+  "bbox": [
+    -108.476051,
+    45.856476,
+    -108.476051,
+    45.856476
+],
   "geometry": {"coordinates":[-108.476051,45.856476],"type":"Point"}
 }

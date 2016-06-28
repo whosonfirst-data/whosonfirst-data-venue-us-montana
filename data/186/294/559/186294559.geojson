@@ -2,13 +2,14 @@
   "id": 186294559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.016503,46.587738,-112.016503,46.587738",
     "geom:latitude":46.587738,
     "geom:longitude":-112.016503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 N Roberts St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186294559,
-    "wof:lastmodified":1449052269,
+    "wof:lastmodified":1466642606,
     "wof:name":"Agricultural Loan Auth Mont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "loan"
     ]
 },
-  "bbox": [-112.016503,46.587738,-112.016503,46.587738],
+  "bbox": [
+    -112.016503,
+    46.587738,
+    -112.016503,
+    46.587738
+],
   "geometry": {"coordinates":[-112.016503,46.587738],"type":"Point"}
 }

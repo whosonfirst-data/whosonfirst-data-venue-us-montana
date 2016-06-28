@@ -2,13 +2,14 @@
   "id": 185916835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.212491,48.103265,-114.212491,48.103265",
     "geom:latitude":48.103265,
     "geom:longitude":-114.212491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Somers Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185916835,
-    "wof:lastmodified":1449007490,
+    "wof:lastmodified":1466641665,
     "wof:name":"Wolfes Iron Art",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.212491,48.103265,-114.212491,48.103265],
+  "bbox": [
+    -114.212491,
+    48.103265,
+    -114.212491,
+    48.103265
+],
   "geometry": {"coordinates":[-114.212491,48.103265],"type":"Point"}
 }

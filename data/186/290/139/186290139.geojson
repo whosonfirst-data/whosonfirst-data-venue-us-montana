@@ -2,13 +2,14 @@
   "id": 186290139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.033511,46.613717,-112.033511,46.613717",
     "geom:latitude":46.613717,
     "geom:longitude":-112.033511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Cloverview Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186290139,
-    "wof:lastmodified":1449051525,
+    "wof:lastmodified":1466642599,
     "wof:name":"Clay Schulz Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-112.033511,46.613717,-112.033511,46.613717],
+  "bbox": [
+    -112.033511,
+    46.613717,
+    -112.033511,
+    46.613717
+],
   "geometry": {"coordinates":[-112.033511,46.613717],"type":"Point"}
 }

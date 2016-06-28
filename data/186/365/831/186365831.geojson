@@ -2,13 +2,14 @@
   "id": 186365831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.001006,46.759165,-105.001006,46.759165",
     "geom:latitude":46.759165,
     "geom:longitude":-105.001006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Hwy 340",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186365831,
-    "wof:lastmodified":1449050845,
+    "wof:lastmodified":1466642772,
     "wof:name":"Meidinger & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-105.001006,46.759165,-105.001006,46.759165],
+  "bbox": [
+    -105.001006,
+    46.759165,
+    -105.001006,
+    46.759165
+],
   "geometry": {"coordinates":[-105.001006,46.759165],"type":"Point"}
 }

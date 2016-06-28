@@ -2,13 +2,14 @@
   "id": 185702955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.177708,46.029106,-114.177708,46.029106",
     "geom:latitude":46.029106,
     "geom:longitude":-114.177708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Main St",
     "sg:city":"Darby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185702955,
-    "wof:lastmodified":1449007430,
+    "wof:lastmodified":1466641428,
     "wof:name":"Trapper Peak Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.177708,46.029106,-114.177708,46.029106],
+  "bbox": [
+    -114.177708,
+    46.029106,
+    -114.177708,
+    46.029106
+],
   "geometry": {"coordinates":[-114.177708,46.029106],"type":"Point"}
 }

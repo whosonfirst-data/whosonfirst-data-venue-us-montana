@@ -2,13 +2,14 @@
   "id": 169723267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.665389,47.717444,-114.665389,47.717444",
     "geom:latitude":47.717444,
     "geom:longitude":-114.665389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Far West Rd",
     "sg:city":"Lonepine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169723267,
-    "wof:lastmodified":1449034619,
+    "wof:lastmodified":1466641734,
     "wof:name":"Heidegger Ranch & Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.665389,47.717444,-114.665389,47.717444],
+  "bbox": [
+    -114.665389,
+    47.717444,
+    -114.665389,
+    47.717444
+],
   "geometry": {"coordinates":[-114.665389,47.717444],"type":"Point"}
 }

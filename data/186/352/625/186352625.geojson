@@ -2,13 +2,14 @@
   "id": 186352625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.553851,45.997001,-112.553851,45.997001",
     "geom:latitude":45.997001,
     "geom:longitude":-112.553851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Centennial Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186352625,
-    "wof:lastmodified":1449052010,
+    "wof:lastmodified":1466642721,
     "wof:name":"Centennial Concrete Sand",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-112.553851,45.997001,-112.553851,45.997001],
-  "geometry": {"coordinates":[-112.553851,45.997001],"type":"Point"}
+  "bbox": [
+    -112.553851,
+    45.997001,
+    -112.553851,
+    45.997001
+],
+  "geometry": {"coordinates":[-112.55385099999999,45.997001],"type":"Point"}
 }

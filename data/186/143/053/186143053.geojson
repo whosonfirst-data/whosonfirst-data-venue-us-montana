@@ -2,13 +2,14 @@
   "id": 186143053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.510714,45.991068,-112.510714,45.991068",
     "geom:latitude":45.991068,
     "geom:longitude":-112.510714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186143053,
-    "wof:lastmodified":1449052550,
+    "wof:lastmodified":1466642110,
     "wof:name":"Checker Auto Parts 4084",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-112.510714,45.991068,-112.510714,45.991068],
-  "geometry": {"coordinates":[-112.510714,45.991068],"type":"Point"}
+  "bbox": [
+    -112.510714,
+    45.991068,
+    -112.510714,
+    45.991068
+],
+  "geometry": {"coordinates":[-112.51071399999999,45.991068],"type":"Point"}
 }

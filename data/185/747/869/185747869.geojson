@@ -2,13 +2,14 @@
   "id": 185747869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.914424,46.594953,-111.914424,46.594953",
     "geom:latitude":46.594953,
     "geom:longitude":-111.914424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Lewis St",
     "sg:city":"East Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185747869,
-    "wof:lastmodified":1449006906,
+    "wof:lastmodified":1466641474,
     "wof:name":"Freddys Pressure Washing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.914424,46.594953,-111.914424,46.594953],
+  "bbox": [
+    -111.914424,
+    46.594953,
+    -111.914424,
+    46.594953
+],
   "geometry": {"coordinates":[-111.914424,46.594953],"type":"Point"}
 }

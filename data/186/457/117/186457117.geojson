@@ -2,13 +2,14 @@
   "id": 186457117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.546694,48.773917,-104.546694,48.773917",
     "geom:latitude":48.773917,
     "geom:longitude":-104.546694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"784 Paul Ln",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186457117,
-    "wof:lastmodified":1449052172,
+    "wof:lastmodified":1466643027,
     "wof:name":"SC Green Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.546694,48.773917,-104.546694,48.773917],
+  "bbox": [
+    -104.546694,
+    48.773917,
+    -104.546694,
+    48.773917
+],
   "geometry": {"coordinates":[-104.546694,48.773917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186009807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.589185,45.733967,-108.589185,45.733967",
     "geom:latitude":45.733967,
     "geom:longitude":-108.589185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6840 Trade Center Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186009807,
-    "wof:lastmodified":1449052980,
+    "wof:lastmodified":1466641297,
     "wof:name":"Gardner Distributing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.589185,45.733967,-108.589185,45.733967],
+  "bbox": [
+    -108.589185,
+    45.733967,
+    -108.589185,
+    45.733967
+],
   "geometry": {"coordinates":[-108.589185,45.733967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185830161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.494213,45.788641,-108.494213,45.788641",
     "geom:latitude":45.788641,
     "geom:longitude":-108.494213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N 18th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185830161,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466641560,
     "wof:name":"Ken's Auto Svc",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-108.494213,45.788641,-108.494213,45.788641],
+  "bbox": [
+    -108.494213,
+    45.788641,
+    -108.494213,
+    45.788641
+],
   "geometry": {"coordinates":[-108.494213,45.788641],"type":"Point"}
 }

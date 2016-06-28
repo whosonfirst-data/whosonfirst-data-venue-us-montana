@@ -2,13 +2,14 @@
   "id": 186055793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.515774,48.145493,-104.515774,48.145493",
     "geom:latitude":48.145493,
     "geom:longitude":-104.515774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 2nd St E",
     "sg:city":"Culbertson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186055793,
-    "wof:lastmodified":1449051000,
+    "wof:lastmodified":1466641835,
     "wof:name":"Richland Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.515774,48.145493,-104.515774,48.145493],
-  "geometry": {"coordinates":[-104.515774,48.145493],"type":"Point"}
+  "bbox": [
+    -104.515774,
+    48.145493,
+    -104.515774,
+    48.145493
+],
+  "geometry": {"coordinates":[-104.51577399999999,48.145493],"type":"Point"}
 }

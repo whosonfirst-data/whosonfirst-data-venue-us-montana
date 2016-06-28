@@ -2,13 +2,14 @@
   "id": 169724315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.164582,45.745547,-111.164582,45.745547",
     "geom:latitude":45.745547,
     "geom:longitude":-111.164582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2133 S Alaska Rd",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169724315,
-    "wof:lastmodified":1449035901,
+    "wof:lastmodified":1466641736,
     "wof:name":"J & S Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.164582,45.745547,-111.164582,45.745547],
+  "bbox": [
+    -111.164582,
+    45.745547,
+    -111.164582,
+    45.745547
+],
   "geometry": {"coordinates":[-111.164582,45.745547],"type":"Point"}
 }

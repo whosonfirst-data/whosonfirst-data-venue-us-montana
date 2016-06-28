@@ -2,13 +2,14 @@
   "id": 186292915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.440188,45.806994,-108.440188,45.806994",
     "geom:latitude":45.806994,
     "geom:longitude":-108.440188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Lockwood Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186292915,
-    "wof:lastmodified":1449050475,
+    "wof:lastmodified":1466642804,
     "wof:name":"Transbas Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herbicide"
     ]
 },
-  "bbox": [-108.440188,45.806994,-108.440188,45.806994],
-  "geometry": {"coordinates":[-108.440188,45.806994],"type":"Point"}
+  "bbox": [
+    -108.440188,
+    45.806994,
+    -108.440188,
+    45.806994
+],
+  "geometry": {"coordinates":[-108.44018800000001,45.806994],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186073383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.08062,46.852431,-114.08062,46.852431",
     "geom:latitude":46.852431,
     "geom:longitude":-114.08062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4020 North Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186073383,
-    "wof:lastmodified":1449050721,
+    "wof:lastmodified":1466641872,
     "wof:name":"Ken Chilcote Construction",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.08062,46.852431,-114.08062,46.852431],
+  "bbox": [
+    -114.08062,
+    46.852431,
+    -114.08062,
+    46.852431
+],
   "geometry": {"coordinates":[-114.08062,46.852431],"type":"Point"}
 }

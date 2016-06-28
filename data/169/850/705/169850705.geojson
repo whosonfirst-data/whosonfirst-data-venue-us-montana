@@ -2,13 +2,14 @@
   "id": 169850705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.166859,47.679005,-114.166859,47.679005",
     "geom:latitude":47.679005,
     "geom:longitude":-114.166859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 2nd St W",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169850705,
-    "wof:lastmodified":1449034604,
+    "wof:lastmodified":1466641335,
     "wof:name":"Polson High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "secondary"
     ]
 },
-  "bbox": [-114.166859,47.679005,-114.166859,47.679005],
+  "bbox": [
+    -114.166859,
+    47.679005,
+    -114.166859,
+    47.679005
+],
   "geometry": {"coordinates":[-114.166859,47.679005],"type":"Point"}
 }

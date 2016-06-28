@@ -2,13 +2,14 @@
   "id": 185926245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.994797,45.671668,-110.994797,45.671668",
     "geom:latitude":45.671668,
     "geom:longitude":-110.994797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Shawnee Way",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185926245,
-    "wof:lastmodified":1449007153,
+    "wof:lastmodified":1466641671,
     "wof:name":"Culligan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "unit"
     ]
 },
-  "bbox": [-110.994797,45.671668,-110.994797,45.671668],
-  "geometry": {"coordinates":[-110.994797,45.671668],"type":"Point"}
+  "bbox": [
+    -110.994797,
+    45.671668,
+    -110.994797,
+    45.671668
+],
+  "geometry": {"coordinates":[-110.99479700000001,45.671668],"type":"Point"}
 }

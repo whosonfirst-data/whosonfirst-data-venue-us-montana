@@ -2,13 +2,14 @@
   "id": 185673073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.136026,46.488879,-114.136026,46.488879",
     "geom:latitude":46.488879,
     "geom:longitude":-114.136026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3375 Fern Ln",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185673073,
-    "wof:lastmodified":1449007239,
+    "wof:lastmodified":1466641769,
     "wof:name":"Thomas P Powers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "livestock"
     ]
 },
-  "bbox": [-114.136026,46.488879,-114.136026,46.488879],
+  "bbox": [
+    -114.136026,
+    46.488879,
+    -114.136026,
+    46.488879
+],
   "geometry": {"coordinates":[-114.136026,46.488879],"type":"Point"}
 }

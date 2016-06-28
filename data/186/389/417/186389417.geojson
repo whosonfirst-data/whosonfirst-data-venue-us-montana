@@ -2,13 +2,14 @@
   "id": 186389417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.345996,45.818953,-108.345996,45.818953",
     "geom:latitude":45.818953,
     "geom:longitude":-108.345996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5410 Old Montana Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186389417,
-    "wof:lastmodified":1449052464,
+    "wof:lastmodified":1466642840,
     "wof:name":"Building Image Solutions",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-108.345996,45.818953,-108.345996,45.818953],
+  "bbox": [
+    -108.345996,
+    45.818953,
+    -108.345996,
+    45.818953
+],
   "geometry": {"coordinates":[-108.345996,45.818953],"type":"Point"}
 }

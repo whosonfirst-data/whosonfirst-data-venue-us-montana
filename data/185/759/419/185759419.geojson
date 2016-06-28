@@ -2,13 +2,14 @@
   "id": 185759419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.58454,45.795916,-108.58454,45.795916",
     "geom:latitude":45.795916,
     "geom:longitude":-108.58454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 Louise Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185759419,
-    "wof:lastmodified":1449008238,
+    "wof:lastmodified":1466641483,
     "wof:name":"R & J Trucking Inc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.58454,45.795916,-108.58454,45.795916],
+  "bbox": [
+    -108.58454,
+    45.795916,
+    -108.58454,
+    45.795916
+],
   "geometry": {"coordinates":[-108.58454,45.795916],"type":"Point"}
 }

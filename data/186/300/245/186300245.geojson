@@ -2,13 +2,14 @@
   "id": 186300245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.113196,47.384603,-114.113196,47.384603",
     "geom:latitude":47.384603,
     "geom:longitude":-114.113196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 Dublin Gulch Rd",
     "sg:city":"Saint Ignatius",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186300245,
-    "wof:lastmodified":1449051894,
+    "wof:lastmodified":1466642617,
     "wof:name":"Wadsworth Legrand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-114.113196,47.384603,-114.113196,47.384603],
+  "bbox": [
+    -114.113196,
+    47.384603,
+    -114.113196,
+    47.384603
+],
   "geometry": {"coordinates":[-114.113196,47.384603],"type":"Point"}
 }

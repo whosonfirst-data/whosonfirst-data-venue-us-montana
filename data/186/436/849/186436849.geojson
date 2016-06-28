@@ -2,13 +2,14 @@
   "id": 186436849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.641807,45.80662,-108.641807,45.80662",
     "geom:latitude":45.80662,
     "geom:longitude":-108.641807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4937 Arapaho Trl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186436849,
-    "wof:lastmodified":1449052762,
+    "wof:lastmodified":1466642850,
     "wof:name":"T and T Indreland",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.641807,45.80662,-108.641807,45.80662],
+  "bbox": [
+    -108.641807,
+    45.80662,
+    -108.641807,
+    45.80662
+],
   "geometry": {"coordinates":[-108.641807,45.80662],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169802409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.174265,47.714091,-104.174265,47.714091",
     "geom:latitude":47.714091,
     "geom:longitude":-104.174265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 4th St SW",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169802409,
-    "wof:lastmodified":1449035342,
+    "wof:lastmodified":1466641266,
     "wof:name":"Curt Christensen DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-104.174265,47.714091,-104.174265,47.714091],
-  "geometry": {"coordinates":[-104.174265,47.714091],"type":"Point"}
+  "bbox": [
+    -104.174265,
+    47.714091,
+    -104.174265,
+    47.714091
+],
+  "geometry": {"coordinates":[-104.17426500000001,47.714091],"type":"Point"}
 }

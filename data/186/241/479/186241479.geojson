@@ -2,13 +2,14 @@
   "id": 186241479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.568486,45.783186,-108.568486,45.783186",
     "geom:latitude":45.783186,
     "geom:longitude":-108.568486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2329 Alderson Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186241479,
-    "wof:lastmodified":1449052969,
+    "wof:lastmodified":1466642509,
     "wof:name":"Weatherguy Enterprises",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-108.568486,45.783186,-108.568486,45.783186],
-  "geometry": {"coordinates":[-108.568486,45.783186],"type":"Point"}
+  "bbox": [
+    -108.568486,
+    45.783186,
+    -108.568486,
+    45.783186
+],
+  "geometry": {"coordinates":[-108.56848599999999,45.783186],"type":"Point"}
 }

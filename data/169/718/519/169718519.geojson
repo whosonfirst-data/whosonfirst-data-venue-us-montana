@@ -2,13 +2,14 @@
   "id": 169718519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.637935,45.73504,-108.637935,45.73504",
     "geom:latitude":45.73504,
     "geom:longitude":-108.637935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 S 48th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169718519,
-    "wof:lastmodified":1449033398,
+    "wof:lastmodified":1466641728,
     "wof:name":"Bernhardt Seed & Chemical",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machinery"
     ]
 },
-  "bbox": [-108.637935,45.73504,-108.637935,45.73504],
+  "bbox": [
+    -108.637935,
+    45.73504,
+    -108.637935,
+    45.73504
+],
   "geometry": {"coordinates":[-108.637935,45.73504],"type":"Point"}
 }

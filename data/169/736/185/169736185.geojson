@@ -2,13 +2,14 @@
   "id": 169736185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.294305,48.187596,-114.294305,48.187596",
     "geom:latitude":48.187596,
     "geom:longitude":-114.294305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1480 Memory Ln",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169736185,
-    "wof:lastmodified":1449035930,
+    "wof:lastmodified":1466641163,
     "wof:name":"Cindie Jobe",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-114.294305,48.187596,-114.294305,48.187596],
-  "geometry": {"coordinates":[-114.294305,48.187596],"type":"Point"}
+  "bbox": [
+    -114.294305,
+    48.187596,
+    -114.294305,
+    48.187596
+],
+  "geometry": {"coordinates":[-114.29430499999999,48.187596],"type":"Point"}
 }

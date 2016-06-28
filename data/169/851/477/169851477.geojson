@@ -2,13 +2,14 @@
   "id": 169851477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.157834,47.714234,-104.157834,47.714234",
     "geom:latitude":47.714234,
     "geom:longitude":-104.157834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Central Ave",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169851477,
-    "wof:lastmodified":1449034859,
+    "wof:lastmodified":1466641333,
     "wof:name":"Omni Electronics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "personal"
     ]
 },
-  "bbox": [-104.157834,47.714234,-104.157834,47.714234],
-  "geometry": {"coordinates":[-104.157834,47.714234],"type":"Point"}
+  "bbox": [
+    -104.157834,
+    47.714234,
+    -104.157834,
+    47.714234
+],
+  "geometry": {"coordinates":[-104.15783399999999,47.714234],"type":"Point"}
 }

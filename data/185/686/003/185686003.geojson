@@ -2,13 +2,14 @@
   "id": 185686003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.940123,45.628398,-110.940123,45.628398",
     "geom:latitude":45.628398,
     "geom:longitude":-110.940123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 Bear Canyon Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185686003,
-    "wof:lastmodified":1449007838,
+    "wof:lastmodified":1466641770,
     "wof:name":"Bear Canyon Fire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "leasing"
     ]
 },
-  "bbox": [-110.940123,45.628398,-110.940123,45.628398],
+  "bbox": [
+    -110.940123,
+    45.628398,
+    -110.940123,
+    45.628398
+],
   "geometry": {"coordinates":[-110.940123,45.628398],"type":"Point"}
 }

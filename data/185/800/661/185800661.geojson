@@ -2,13 +2,14 @@
   "id": 185800661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.510589,45.775967,-108.510589,45.775967",
     "geom:latitude":45.775967,
     "geom:longitude":-108.510589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 1st Ave S",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185800661,
-    "wof:lastmodified":1449006736,
+    "wof:lastmodified":1466641533,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-108.510589,45.775967,-108.510589,45.775967],
+  "bbox": [
+    -108.510589,
+    45.775967,
+    -108.510589,
+    45.775967
+],
   "geometry": {"coordinates":[-108.510589,45.775967],"type":"Point"}
 }

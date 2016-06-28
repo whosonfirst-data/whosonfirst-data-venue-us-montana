@@ -2,13 +2,14 @@
   "id": 186180243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.545229,45.773976,-108.545229,45.773976",
     "geom:latitude":45.773976,
     "geom:longitude":-108.545229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1138 Miles Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186180243,
-    "wof:lastmodified":1449050378,
+    "wof:lastmodified":1466642170,
     "wof:name":"A 1 Glenn's Welding & Machine",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-108.545229,45.773976,-108.545229,45.773976],
-  "geometry": {"coordinates":[-108.545229,45.773976],"type":"Point"}
+  "bbox": [
+    -108.545229,
+    45.773976,
+    -108.545229,
+    45.773976
+],
+  "geometry": {"coordinates":[-108.54522900000001,45.773976],"type":"Point"}
 }

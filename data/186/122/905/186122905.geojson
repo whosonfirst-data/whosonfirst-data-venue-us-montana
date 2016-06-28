@@ -2,13 +2,14 @@
   "id": 186122905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.155698,47.714732,-104.155698,47.714732",
     "geom:latitude":47.714732,
     "geom:longitude":-104.155698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E Main St",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186122905,
-    "wof:lastmodified":1449051902,
+    "wof:lastmodified":1466642079,
     "wof:name":"Eagle Country Ford Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-104.155698,47.714732,-104.155698,47.714732],
+  "bbox": [
+    -104.155698,
+    47.714732,
+    -104.155698,
+    47.714732
+],
   "geometry": {"coordinates":[-104.155698,47.714732],"type":"Point"}
 }

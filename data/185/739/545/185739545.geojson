@@ -2,13 +2,14 @@
   "id": 185739545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.548914,45.292518,-112.548914,45.292518",
     "geom:latitude":45.292518,
     "geom:longitude":-112.548914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6875 State Hwy 41",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185739545,
-    "wof:lastmodified":1449007281,
+    "wof:lastmodified":1466641464,
     "wof:name":"Kim Laden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-112.548914,45.292518,-112.548914,45.292518],
+  "bbox": [
+    -112.548914,
+    45.292518,
+    -112.548914,
+    45.292518
+],
   "geometry": {"coordinates":[-112.548914,45.292518],"type":"Point"}
 }

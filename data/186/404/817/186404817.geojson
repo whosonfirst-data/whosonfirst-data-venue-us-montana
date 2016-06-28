@@ -2,13 +2,14 @@
   "id": 186404817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.639958,48.194052,-106.639958,48.194052",
     "geom:latitude":48.194052,
     "geom:longitude":-106.639958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 3rd Ave S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186404817,
-    "wof:lastmodified":1449052149,
+    "wof:lastmodified":1466642742,
     "wof:name":"Eye Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.639958,48.194052,-106.639958,48.194052],
-  "geometry": {"coordinates":[-106.639958,48.194052],"type":"Point"}
+  "bbox": [
+    -106.639958,
+    48.194052,
+    -106.639958,
+    48.194052
+],
+  "geometry": {"coordinates":[-106.63995799999999,48.194052],"type":"Point"}
 }

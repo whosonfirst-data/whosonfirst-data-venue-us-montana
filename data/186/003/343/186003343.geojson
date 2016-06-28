@@ -2,13 +2,14 @@
   "id": 186003343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.521452,46.002264,-112.521452,46.002264",
     "geom:latitude":46.002264,
     "geom:longitude":-112.521452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186003343,
-    "wof:lastmodified":1449052818,
+    "wof:lastmodified":1466641900,
     "wof:name":"Persnickety Cleaners",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-112.521452,46.002264,-112.521452,46.002264],
+  "bbox": [
+    -112.521452,
+    46.002264,
+    -112.521452,
+    46.002264
+],
   "geometry": {"coordinates":[-112.521452,46.002264],"type":"Point"}
 }

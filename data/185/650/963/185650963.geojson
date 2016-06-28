@@ -2,13 +2,14 @@
   "id": 185650963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.587703,45.777688,-108.587703,45.777688",
     "geom:latitude":45.777688,
     "geom:longitude":-108.587703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Aurora Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185650963,
-    "wof:lastmodified":1449007594,
+    "wof:lastmodified":1466641374,
     "wof:name":"Greg Roadifer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.587703,45.777688,-108.587703,45.777688],
+  "bbox": [
+    -108.587703,
+    45.777688,
+    -108.587703,
+    45.777688
+],
   "geometry": {"coordinates":[-108.587703,45.777688],"type":"Point"}
 }

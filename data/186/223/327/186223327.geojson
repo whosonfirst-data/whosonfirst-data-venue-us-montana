@@ -2,13 +2,14 @@
   "id": 186223327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.075451,47.333915,-114.075451,47.333915",
     "geom:latitude":47.333915,
     "geom:longitude":-114.075451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13508 Watson Rd",
     "sg:city":"Saint Ignatius",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186223327,
-    "wof:lastmodified":1449050439,
+    "wof:lastmodified":1466642594,
     "wof:name":"Hackney Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.075451,47.333915,-114.075451,47.333915],
+  "bbox": [
+    -114.075451,
+    47.333915,
+    -114.075451,
+    47.333915
+],
   "geometry": {"coordinates":[-114.075451,47.333915],"type":"Point"}
 }

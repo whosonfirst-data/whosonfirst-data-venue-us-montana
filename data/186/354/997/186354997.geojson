@@ -2,13 +2,14 @@
   "id": 186354997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.882951,47.456995,-114.882951,47.456995",
     "geom:latitude":47.456995,
     "geom:longitude":-114.882951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Meany St",
     "sg:city":"Plains",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186354997,
-    "wof:lastmodified":1449052722,
+    "wof:lastmodified":1466642721,
     "wof:name":"United Methodist Church-Plains",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-114.882951,47.456995,-114.882951,47.456995],
-  "geometry": {"coordinates":[-114.882951,47.456995],"type":"Point"}
+  "bbox": [
+    -114.882951,
+    47.456995,
+    -114.882951,
+    47.456995
+],
+  "geometry": {"coordinates":[-114.88295100000001,47.456995],"type":"Point"}
 }

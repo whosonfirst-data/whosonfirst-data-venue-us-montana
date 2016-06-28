@@ -2,13 +2,14 @@
   "id": 186399139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.078102,48.063294,-114.078102,48.063294",
     "geom:latitude":48.063294,
     "geom:longitude":-114.078102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"452 Grand Dr",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186399139,
-    "wof:lastmodified":1449050889,
+    "wof:lastmodified":1466642849,
     "wof:name":"Pointer Enterprises",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "transport"
     ]
 },
-  "bbox": [-114.078102,48.063294,-114.078102,48.063294],
+  "bbox": [
+    -114.078102,
+    48.063294,
+    -114.078102,
+    48.063294
+],
   "geometry": {"coordinates":[-114.078102,48.063294],"type":"Point"}
 }

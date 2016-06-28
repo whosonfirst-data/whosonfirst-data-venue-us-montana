@@ -2,13 +2,14 @@
   "id": 169753253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.060256,47.573301,-114.060256,47.573301",
     "geom:latitude":47.573301,
     "geom:longitude":-114.060256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2188 N Crow Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169753253,
-    "wof:lastmodified":1449033072,
+    "wof:lastmodified":1466641190,
     "wof:name":"Dolence Apiaries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "animal"
     ]
 },
-  "bbox": [-114.060256,47.573301,-114.060256,47.573301],
+  "bbox": [
+    -114.060256,
+    47.573301,
+    -114.060256,
+    47.573301
+],
   "geometry": {"coordinates":[-114.060256,47.573301],"type":"Point"}
 }

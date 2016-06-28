@@ -2,13 +2,14 @@
   "id": 185839225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.157751,47.716505,-104.157751,47.716505",
     "geom:latitude":47.716505,
     "geom:longitude":-104.157751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 2nd St NW",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185839225,
-    "wof:lastmodified":1449007580,
+    "wof:lastmodified":1466641572,
     "wof:name":"1st Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-104.157751,47.716505,-104.157751,47.716505],
+  "bbox": [
+    -104.157751,
+    47.716505,
+    -104.157751,
+    47.716505
+],
   "geometry": {"coordinates":[-104.157751,47.716505],"type":"Point"}
 }

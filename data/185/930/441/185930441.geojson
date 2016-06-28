@@ -2,13 +2,14 @@
   "id": 185930441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.101834,46.392792,-114.101834,46.392792",
     "geom:latitude":46.392792,
     "geom:longitude":-114.101834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 Eastside Hwy",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185930441,
-    "wof:lastmodified":1449007114,
+    "wof:lastmodified":1466641680,
     "wof:name":"Earl Wolfe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.101834,46.392792,-114.101834,46.392792],
+  "bbox": [
+    -114.101834,
+    46.392792,
+    -114.101834,
+    46.392792
+],
   "geometry": {"coordinates":[-114.101834,46.392792],"type":"Point"}
 }

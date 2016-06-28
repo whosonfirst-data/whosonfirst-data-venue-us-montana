@@ -2,13 +2,14 @@
   "id": 169718575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.11372,48.196878,-114.11372,48.196878",
     "geom:latitude":48.196878,
     "geom:longitude":-114.11372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Kauffman Ln",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169718575,
-    "wof:lastmodified":1449033395,
+    "wof:lastmodified":1466641728,
     "wof:name":"Creston Firefighters Assn",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.11372,48.196878,-114.11372,48.196878],
+  "bbox": [
+    -114.11372,
+    48.196878,
+    -114.11372,
+    48.196878
+],
   "geometry": {"coordinates":[-114.11372,48.196878],"type":"Point"}
 }

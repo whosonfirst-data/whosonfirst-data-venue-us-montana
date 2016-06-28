@@ -2,13 +2,14 @@
   "id": 186350261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.57159,45.793912,-108.57159,45.793912",
     "geom:latitude":45.793912,
     "geom:longitude":-108.57159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2322 22nd St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186350261,
-    "wof:lastmodified":1449051734,
+    "wof:lastmodified":1466642859,
     "wof:name":"Sundseth Repair",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-108.57159,45.793912,-108.57159,45.793912],
+  "bbox": [
+    -108.57159,
+    45.793912,
+    -108.57159,
+    45.793912
+],
   "geometry": {"coordinates":[-108.57159,45.793912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185862005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.524924,45.817328,-108.524924,45.817328",
     "geom:latitude":45.817328,
     "geom:longitude":-108.524924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 Prickley Pear Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185862005,
-    "wof:lastmodified":1449008266,
+    "wof:lastmodified":1466641593,
     "wof:name":"Planning Resources",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-108.524924,45.817328,-108.524924,45.817328],
+  "bbox": [
+    -108.524924,
+    45.817328,
+    -108.524924,
+    45.817328
+],
   "geometry": {"coordinates":[-108.524924,45.817328],"type":"Point"}
 }

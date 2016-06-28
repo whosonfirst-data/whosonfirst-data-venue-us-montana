@@ -2,13 +2,14 @@
   "id": 169843489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.735377,46.39779,-112.735377,46.39779",
     "geom:latitude":46.39779,
     "geom:longitude":-112.735377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Main St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169843489,
-    "wof:lastmodified":1449032967,
+    "wof:lastmodified":1466641322,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.735377,46.39779,-112.735377,46.39779],
+  "bbox": [
+    -112.735377,
+    46.39779,
+    -112.735377,
+    46.39779
+],
   "geometry": {"coordinates":[-112.735377,46.39779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186051463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.564563,48.384431,-115.564563,48.384431",
     "geom:latitude":48.384431,
     "geom:longitude":-115.564563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 Renwood Dr",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186051463,
-    "wof:lastmodified":1449052025,
+    "wof:lastmodified":1466641824,
     "wof:name":"Kootenai Insulation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "insulation"
     ]
 },
-  "bbox": [-115.564563,48.384431,-115.564563,48.384431],
-  "geometry": {"coordinates":[-115.564563,48.384431],"type":"Point"}
+  "bbox": [
+    -115.564563,
+    48.384431,
+    -115.564563,
+    48.384431
+],
+  "geometry": {"coordinates":[-115.56456300000001,48.384431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186083549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.63575,46.050191,-110.63575,46.050191",
     "geom:latitude":46.050191,
     "geom:longitude":-110.63575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"383 Shields River Rd",
     "sg:city":"Wilsall",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186083549,
-    "wof:lastmodified":1449051652,
+    "wof:lastmodified":1466641909,
     "wof:name":"Robert Hoyem",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cattle"
     ]
 },
-  "bbox": [-110.63575,46.050191,-110.63575,46.050191],
+  "bbox": [
+    -110.63575,
+    46.050191,
+    -110.63575,
+    46.050191
+],
   "geometry": {"coordinates":[-110.63575,46.050191],"type":"Point"}
 }

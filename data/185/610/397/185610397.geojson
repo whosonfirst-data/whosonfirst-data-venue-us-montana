@@ -2,13 +2,14 @@
   "id": 185610397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.454215,45.835544,-108.454215,45.835544",
     "geom:latitude":45.835544,
     "geom:longitude":-108.454215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2048 Linden Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185610397,
-    "wof:lastmodified":1449008166,
+    "wof:lastmodified":1466641189,
     "wof:name":"Los Guys Lawn Svc",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-108.454215,45.835544,-108.454215,45.835544],
+  "bbox": [
+    -108.454215,
+    45.835544,
+    -108.454215,
+    45.835544
+],
   "geometry": {"coordinates":[-108.454215,45.835544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169807441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.50512,45.955007,-112.50512,45.955007",
     "geom:latitude":45.955007,
     "geom:longitude":-112.50512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Airport Rd",
     "sg:city":"Ennis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169807441,
-    "wof:lastmodified":1449033535,
+    "wof:lastmodified":1466641276,
     "wof:name":"Matson Excavation",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.50512,45.955007,-112.50512,45.955007],
-  "geometry": {"coordinates":[-112.50512,45.955007],"type":"Point"}
+  "bbox": [
+    -112.50512,
+    45.955007,
+    -112.50512,
+    45.955007
+],
+  "geometry": {"coordinates":[-112.50512000000001,45.955007],"type":"Point"}
 }

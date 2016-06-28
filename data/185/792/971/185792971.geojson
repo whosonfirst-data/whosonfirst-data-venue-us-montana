@@ -2,13 +2,14 @@
   "id": 185792971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.198135,48.582671,-104.198135,48.582671",
     "geom:latitude":48.582671,
     "geom:longitude":-104.198135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Central Ave",
     "sg:city":"Dagmar",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185792971,
-    "wof:lastmodified":1449006961,
+    "wof:lastmodified":1466641527,
     "wof:name":"C J's Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "improvement"
     ]
 },
-  "bbox": [-104.198135,48.582671,-104.198135,48.582671],
-  "geometry": {"coordinates":[-104.198135,48.582671],"type":"Point"}
+  "bbox": [
+    -104.198135,
+    48.582671,
+    -104.198135,
+    48.582671
+],
+  "geometry": {"coordinates":[-104.19813499999999,48.582671],"type":"Point"}
 }

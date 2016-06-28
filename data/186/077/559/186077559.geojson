@@ -2,13 +2,14 @@
   "id": 186077559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.445315,45.799488,-108.445315,45.799488",
     "geom:latitude":45.799488,
     "geom:longitude":-108.445315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 Old Hardin Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186077559,
-    "wof:lastmodified":1449050830,
+    "wof:lastmodified":1466641885,
     "wof:name":"Prince Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-108.445315,45.799488,-108.445315,45.799488],
-  "geometry": {"coordinates":[-108.445315,45.799488],"type":"Point"}
+  "bbox": [
+    -108.445315,
+    45.799488,
+    -108.445315,
+    45.799488
+],
+  "geometry": {"coordinates":[-108.44531499999999,45.799488],"type":"Point"}
 }

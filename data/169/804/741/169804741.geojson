@@ -2,13 +2,14 @@
   "id": 169804741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.720047,46.400521,-112.720047,46.400521",
     "geom:latitude":46.400521,
     "geom:longitude":-112.720047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Beaumont St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169804741,
-    "wof:lastmodified":1449034984,
+    "wof:lastmodified":1466641276,
     "wof:name":"Walts Archery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.720047,46.400521,-112.720047,46.400521],
-  "geometry": {"coordinates":[-112.720047,46.400521],"type":"Point"}
+  "bbox": [
+    -112.720047,
+    46.400521,
+    -112.720047,
+    46.400521
+],
+  "geometry": {"coordinates":[-112.72004699999999,46.400521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186022551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.316836,48.198064,-114.316836,48.198064",
     "geom:latitude":48.198064,
     "geom:longitude":-114.316836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 2nd Ave W",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186022551,
-    "wof:lastmodified":1449051283,
+    "wof:lastmodified":1466641490,
     "wof:name":"Kaufman Vidal & Hileman",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-114.316836,48.198064,-114.316836,48.198064],
+  "bbox": [
+    -114.316836,
+    48.198064,
+    -114.316836,
+    48.198064
+],
   "geometry": {"coordinates":[-114.316836,48.198064],"type":"Point"}
 }

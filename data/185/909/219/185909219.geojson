@@ -2,13 +2,14 @@
   "id": 185909219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.546668,45.769865,-108.546668,45.769865",
     "geom:latitude":45.769865,
     "geom:longitude":-108.546668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1245 Central Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185909219,
-    "wof:lastmodified":1449007822,
+    "wof:lastmodified":1466641648,
     "wof:name":"American Car Center",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-108.546668,45.769865,-108.546668,45.769865],
+  "bbox": [
+    -108.546668,
+    45.769865,
+    -108.546668,
+    45.769865
+],
   "geometry": {"coordinates":[-108.546668,45.769865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169848799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.556471,45.781252,-108.556471,45.781252",
     "geom:latitude":45.781252,
     "geom:longitude":-108.556471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1148 16th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169848799,
-    "wof:lastmodified":1449033155,
+    "wof:lastmodified":1466641332,
     "wof:name":"Billings RE Professionals",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firm"
     ]
 },
-  "bbox": [-108.556471,45.781252,-108.556471,45.781252],
+  "bbox": [
+    -108.556471,
+    45.781252,
+    -108.556471,
+    45.781252
+],
   "geometry": {"coordinates":[-108.556471,45.781252],"type":"Point"}
 }

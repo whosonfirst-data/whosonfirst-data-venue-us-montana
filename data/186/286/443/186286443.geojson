@@ -2,13 +2,14 @@
   "id": 186286443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.632099,48.193082,-106.632099,48.193082",
     "geom:latitude":48.193082,
     "geom:longitude":-106.632099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 2nd St S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186286443,
-    "wof:lastmodified":1449051094,
+    "wof:lastmodified":1466642754,
     "wof:name":"Holtan Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.632099,48.193082,-106.632099,48.193082],
+  "bbox": [
+    -106.632099,
+    48.193082,
+    -106.632099,
+    48.193082
+],
   "geometry": {"coordinates":[-106.632099,48.193082],"type":"Point"}
 }

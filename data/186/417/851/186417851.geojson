@@ -2,13 +2,14 @@
   "id": 186417851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.259244,47.491968,-111.259244,47.491968",
     "geom:latitude":47.491968,
     "geom:longitude":-111.259244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 28th St S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186417851,
-    "wof:lastmodified":1449051471,
+    "wof:lastmodified":1466642897,
     "wof:name":"Great Falls Inn The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inn"
     ]
 },
-  "bbox": [-111.259244,47.491968,-111.259244,47.491968],
+  "bbox": [
+    -111.259244,
+    47.491968,
+    -111.259244,
+    47.491968
+],
   "geometry": {"coordinates":[-111.259244,47.491968],"type":"Point"}
 }

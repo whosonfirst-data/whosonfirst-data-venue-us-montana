@@ -2,13 +2,14 @@
   "id": 169834529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.55891,48.779106,-104.55891,48.779106",
     "geom:latitude":48.779106,
     "geom:longitude":-104.55891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Sheridan St",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169834529,
-    "wof:lastmodified":1449032975,
+    "wof:lastmodified":1466641308,
     "wof:name":"Pioneer Manor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.55891,48.779106,-104.55891,48.779106],
+  "bbox": [
+    -104.55891,
+    48.779106,
+    -104.55891,
+    48.779106
+],
   "geometry": {"coordinates":[-104.55891,48.779106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186271259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.062903,46.809156,-114.062903,46.809156",
     "geom:latitude":46.809156,
     "geom:longitude":-114.062903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Scott Allen Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186271259,
-    "wof:lastmodified":1449051775,
+    "wof:lastmodified":1466642568,
     "wof:name":"Rocky Mtn Adaptive Softwares",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-114.062903,46.809156,-114.062903,46.809156],
-  "geometry": {"coordinates":[-114.062903,46.809156],"type":"Point"}
+  "bbox": [
+    -114.062903,
+    46.809156,
+    -114.062903,
+    46.809156
+],
+  "geometry": {"coordinates":[-114.06290300000001,46.809156],"type":"Point"}
 }

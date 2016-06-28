@@ -2,13 +2,14 @@
   "id": 186015265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.039886,46.856108,-114.039886,46.856108",
     "geom:latitude":46.856108,
     "geom:longitude":-114.039886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 Mount Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186015265,
-    "wof:lastmodified":1449051010,
+    "wof:lastmodified":1466641382,
     "wof:name":"Lolo Peak Winery Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "winery"
     ]
 },
-  "bbox": [-114.039886,46.856108,-114.039886,46.856108],
+  "bbox": [
+    -114.039886,
+    46.856108,
+    -114.039886,
+    46.856108
+],
   "geometry": {"coordinates":[-114.039886,46.856108],"type":"Point"}
 }

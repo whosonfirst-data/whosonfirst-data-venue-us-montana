@@ -2,13 +2,14 @@
   "id": 186436163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.482544,45.796113,-108.482544,45.796113",
     "geom:latitude":45.796113,
     "geom:longitude":-108.482544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 3rd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186436163,
-    "wof:lastmodified":1449052766,
+    "wof:lastmodified":1466642959,
     "wof:name":"Hardin Laundromat & Dry Clrs",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "power"
     ]
 },
-  "bbox": [-108.482544,45.796113,-108.482544,45.796113],
+  "bbox": [
+    -108.482544,
+    45.796113,
+    -108.482544,
+    45.796113
+],
   "geometry": {"coordinates":[-108.482544,45.796113],"type":"Point"}
 }

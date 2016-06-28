@@ -2,13 +2,14 @@
   "id": 185762383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.680597,48.549074,-109.680597,48.549074",
     "geom:latitude":48.549074,
     "geom:longitude":-109.680597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 2nd Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185762383,
-    "wof:lastmodified":1449007739,
+    "wof:lastmodified":1466641488,
     "wof:name":"Lennox Security Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-109.680597,48.549074,-109.680597,48.549074],
-  "geometry": {"coordinates":[-109.680597,48.549074],"type":"Point"}
+  "bbox": [
+    -109.680597,
+    48.549074,
+    -109.680597,
+    48.549074
+],
+  "geometry": {"coordinates":[-109.68059700000001,48.549074],"type":"Point"}
 }

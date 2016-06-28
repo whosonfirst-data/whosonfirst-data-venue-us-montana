@@ -2,13 +2,14 @@
   "id": 185854467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.029103,46.631651,-114.029103,46.631651",
     "geom:latitude":46.631651,
     "geom:longitude":-114.029103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Explorer Way",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185854467,
-    "wof:lastmodified":1449008132,
+    "wof:lastmodified":1466641591,
     "wof:name":"Maclay Electric & Pump Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.029103,46.631651,-114.029103,46.631651],
-  "geometry": {"coordinates":[-114.029103,46.631651],"type":"Point"}
+  "bbox": [
+    -114.029103,
+    46.631651,
+    -114.029103,
+    46.631651
+],
+  "geometry": {"coordinates":[-114.02910300000001,46.631651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186039271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.490805,45.818073,-108.490805,45.818073",
     "geom:latitude":45.818073,
     "geom:longitude":-108.490805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Norris Ct W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186039271,
-    "wof:lastmodified":1449052680,
+    "wof:lastmodified":1466641800,
     "wof:name":"Goldstar Inc",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-108.490805,45.818073,-108.490805,45.818073],
-  "geometry": {"coordinates":[-108.490805,45.818073],"type":"Point"}
+  "bbox": [
+    -108.490805,
+    45.818073,
+    -108.490805,
+    45.818073
+],
+  "geometry": {"coordinates":[-108.49080499999999,45.818073],"type":"Point"}
 }

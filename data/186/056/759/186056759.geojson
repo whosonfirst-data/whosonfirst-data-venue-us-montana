@@ -2,13 +2,14 @@
   "id": 186056759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.639968,45.73978,-108.639968,45.73978",
     "geom:latitude":45.73978,
     "geom:longitude":-108.639968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4852 Amber Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186056759,
-    "wof:lastmodified":1449051143,
+    "wof:lastmodified":1466641835,
     "wof:name":"Prospect Investment LLC",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-108.639968,45.73978,-108.639968,45.73978],
+  "bbox": [
+    -108.639968,
+    45.73978,
+    -108.639968,
+    45.73978
+],
   "geometry": {"coordinates":[-108.639968,45.73978],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185783107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.509178,45.996063,-112.509178,45.996063",
     "geom:latitude":45.996063,
     "geom:longitude":-112.509178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1852 Carolina Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185783107,
-    "wof:lastmodified":1449006629,
+    "wof:lastmodified":1466641509,
     "wof:name":"Dona Ru Beauty Shoppe",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.509178,45.996063,-112.509178,45.996063],
-  "geometry": {"coordinates":[-112.509178,45.996063],"type":"Point"}
+  "bbox": [
+    -112.509178,
+    45.996063,
+    -112.509178,
+    45.996063
+],
+  "geometry": {"coordinates":[-112.50917800000001,45.996063],"type":"Point"}
 }

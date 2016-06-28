@@ -2,13 +2,14 @@
   "id": 186303185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637668,48.195319,-106.637668,48.195319",
     "geom:latitude":48.195319,
     "geom:longitude":-106.637668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 6th St S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186303185,
-    "wof:lastmodified":1449050278,
+    "wof:lastmodified":1466642615,
     "wof:name":"Valley Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.637668,48.195319,-106.637668,48.195319],
-  "geometry": {"coordinates":[-106.637668,48.195319],"type":"Point"}
+  "bbox": [
+    -106.637668,
+    48.195319,
+    -106.637668,
+    48.195319
+],
+  "geometry": {"coordinates":[-106.63766800000001,48.195319],"type":"Point"}
 }

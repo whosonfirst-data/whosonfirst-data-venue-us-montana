@@ -2,13 +2,14 @@
   "id": 186458827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.590418,45.797283,-108.590418,45.797283",
     "geom:latitude":45.797283,
     "geom:longitude":-108.590418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 Rehberg Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186458827,
-    "wof:lastmodified":1449052265,
+    "wof:lastmodified":1466643117,
     "wof:name":"Williams Products",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-108.590418,45.797283,-108.590418,45.797283],
+  "bbox": [
+    -108.590418,
+    45.797283,
+    -108.590418,
+    45.797283
+],
   "geometry": {"coordinates":[-108.590418,45.797283],"type":"Point"}
 }

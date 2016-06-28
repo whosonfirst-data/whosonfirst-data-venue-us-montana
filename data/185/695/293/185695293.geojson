@@ -2,13 +2,14 @@
   "id": 185695293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.845741,46.407598,-105.845741,46.407598",
     "geom:latitude":46.407598,
     "geom:longitude":-105.845741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Main St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185695293,
-    "wof:lastmodified":1449007213,
+    "wof:lastmodified":1466641411,
     "wof:name":"Kickin'Ass Hat Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hat"
     ]
 },
-  "bbox": [-105.845741,46.407598,-105.845741,46.407598],
+  "bbox": [
+    -105.845741,
+    46.407598,
+    -105.845741,
+    46.407598
+],
   "geometry": {"coordinates":[-105.845741,46.407598],"type":"Point"}
 }

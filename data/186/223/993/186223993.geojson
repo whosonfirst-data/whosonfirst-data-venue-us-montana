@@ -2,13 +2,14 @@
   "id": 186223993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.491306,48.336107,-104.491306,48.336107",
     "geom:latitude":48.336107,
     "geom:longitude":-104.491306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Main St",
     "sg:city":"Froid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186223993,
-    "wof:lastmodified":1449050438,
+    "wof:lastmodified":1466642394,
     "wof:name":"True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.491306,48.336107,-104.491306,48.336107],
-  "geometry": {"coordinates":[-104.491306,48.336107],"type":"Point"}
+  "bbox": [
+    -104.491306,
+    48.336107,
+    -104.491306,
+    48.336107
+],
+  "geometry": {"coordinates":[-104.49130599999999,48.336107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186349069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.939385,46.130896,-112.939385,46.130896",
     "geom:latitude":46.130896,
     "geom:longitude":-112.939385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Pauline Dr",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186349069,
-    "wof:lastmodified":1449051397,
+    "wof:lastmodified":1466642715,
     "wof:name":"Treasure State Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-112.939385,46.130896,-112.939385,46.130896],
+  "bbox": [
+    -112.939385,
+    46.130896,
+    -112.939385,
+    46.130896
+],
   "geometry": {"coordinates":[-112.939385,46.130896],"type":"Point"}
 }

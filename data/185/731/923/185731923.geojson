@@ -2,13 +2,14 @@
   "id": 185731923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.157257,46.260983,-114.157257,46.260983",
     "geom:latitude":46.260983,
     "geom:longitude":-114.157257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 N 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185731923,
-    "wof:lastmodified":1449008043,
+    "wof:lastmodified":1466641461,
     "wof:name":"Bitterroot Conservation Dst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "resource"
     ]
 },
-  "bbox": [-114.157257,46.260983,-114.157257,46.260983],
+  "bbox": [
+    -114.157257,
+    46.260983,
+    -114.157257,
+    46.260983
+],
   "geometry": {"coordinates":[-114.157257,46.260983],"type":"Point"}
 }

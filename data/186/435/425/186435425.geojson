@@ -2,13 +2,14 @@
   "id": 186435425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.486794,45.791261,-108.486794,45.791261",
     "geom:latitude":45.791261,
     "geom:longitude":-108.486794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1248 1st Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186435425,
-    "wof:lastmodified":1449052773,
+    "wof:lastmodified":1466642947,
     "wof:name":"Sterling Auto & Trailer Sales",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.486794,45.791261,-108.486794,45.791261],
+  "bbox": [
+    -108.486794,
+    45.791261,
+    -108.486794,
+    45.791261
+],
   "geometry": {"coordinates":[-108.486794,45.791261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186410117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.482396,45.797207,-108.482396,45.797207",
     "geom:latitude":45.797207,
     "geom:longitude":-108.482396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 4th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186410117,
-    "wof:lastmodified":1449050297,
+    "wof:lastmodified":1466642772,
     "wof:name":"Pacific Recycling",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-108.482396,45.797207,-108.482396,45.797207],
-  "geometry": {"coordinates":[-108.482396,45.797207],"type":"Point"}
+  "bbox": [
+    -108.482396,
+    45.797207,
+    -108.482396,
+    45.797207
+],
+  "geometry": {"coordinates":[-108.48239599999999,45.797207],"type":"Point"}
 }

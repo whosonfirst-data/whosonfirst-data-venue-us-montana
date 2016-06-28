@@ -2,13 +2,14 @@
   "id": 185886589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.572414,45.757255,-108.572414,45.757255",
     "geom:latitude":45.757255,
     "geom:longitude":-108.572414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 S 22nd St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185886589,
-    "wof:lastmodified":1449007502,
+    "wof:lastmodified":1466641623,
     "wof:name":"Susan J Maddock P C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.572414,45.757255,-108.572414,45.757255],
-  "geometry": {"coordinates":[-108.572414,45.757255],"type":"Point"}
+  "bbox": [
+    -108.572414,
+    45.757255,
+    -108.572414,
+    45.757255
+],
+  "geometry": {"coordinates":[-108.57241399999999,45.757255],"type":"Point"}
 }

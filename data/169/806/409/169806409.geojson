@@ -2,13 +2,14 @@
   "id": 169806409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.489024,45.792596,-108.489024,45.792596",
     "geom:latitude":45.792596,
     "geom:longitude":-108.489024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N 13th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169806409,
-    "wof:lastmodified":1449032675,
+    "wof:lastmodified":1466641275,
     "wof:name":"Steepworld",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gymnasium"
     ]
 },
-  "bbox": [-108.489024,45.792596,-108.489024,45.792596],
+  "bbox": [
+    -108.489024,
+    45.792596,
+    -108.489024,
+    45.792596
+],
   "geometry": {"coordinates":[-108.489024,45.792596],"type":"Point"}
 }

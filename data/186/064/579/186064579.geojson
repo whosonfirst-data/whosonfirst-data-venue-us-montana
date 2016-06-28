@@ -2,13 +2,14 @@
   "id": 186064579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.588743,45.790333,-108.588743,45.790333",
     "geom:latitude":45.790333,
     "geom:longitude":-108.588743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2932 Parkhill Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186064579,
-    "wof:lastmodified":1449051336,
+    "wof:lastmodified":1466641854,
     "wof:name":"Grizzly Enterprise",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.588743,45.790333,-108.588743,45.790333],
-  "geometry": {"coordinates":[-108.588743,45.790333],"type":"Point"}
+  "bbox": [
+    -108.588743,
+    45.790333,
+    -108.588743,
+    45.790333
+],
+  "geometry": {"coordinates":[-108.58874299999999,45.790333],"type":"Point"}
 }

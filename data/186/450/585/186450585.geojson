@@ -2,13 +2,14 @@
   "id": 186450585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.537425,46.445903,-108.537425,46.445903",
     "geom:latitude":46.445903,
     "geom:longitude":-108.537425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 5th Ave E",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186450585,
-    "wof:lastmodified":1449052597,
+    "wof:lastmodified":1466642876,
     "wof:name":"Gordon Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.537425,46.445903,-108.537425,46.445903],
+  "bbox": [
+    -108.537425,
+    46.445903,
+    -108.537425,
+    46.445903
+],
   "geometry": {"coordinates":[-108.537425,46.445903],"type":"Point"}
 }

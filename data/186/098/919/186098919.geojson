@@ -2,13 +2,14 @@
   "id": 186098919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.547368,45.692638,-110.547368,45.692638",
     "geom:latitude":45.692638,
     "geom:longitude":-110.547368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Kindsfather Dr",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186098919,
-    "wof:lastmodified":1449052739,
+    "wof:lastmodified":1466642102,
     "wof:name":"Short Quality Management Healt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "care"
     ]
 },
-  "bbox": [-110.547368,45.692638,-110.547368,45.692638],
-  "geometry": {"coordinates":[-110.547368,45.692638],"type":"Point"}
+  "bbox": [
+    -110.547368,
+    45.692638,
+    -110.547368,
+    45.692638
+],
+  "geometry": {"coordinates":[-110.54736800000001,45.692638],"type":"Point"}
 }

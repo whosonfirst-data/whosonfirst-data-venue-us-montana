@@ -2,13 +2,14 @@
   "id": 169794721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.54755,46.011524,-112.54755,46.011524",
     "geom:latitude":46.011524,
     "geom:longitude":-112.54755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 W Galena St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169794721,
-    "wof:lastmodified":1449034269,
+    "wof:lastmodified":1466641262,
     "wof:name":"Copper King Mfg",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-112.54755,46.011524,-112.54755,46.011524],
+  "bbox": [
+    -112.54755,
+    46.011524,
+    -112.54755,
+    46.011524
+],
   "geometry": {"coordinates":[-112.54755,46.011524],"type":"Point"}
 }

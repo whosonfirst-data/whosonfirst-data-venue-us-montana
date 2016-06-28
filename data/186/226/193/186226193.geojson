@@ -2,13 +2,14 @@
   "id": 186226193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.104232,46.211225,-114.104232,46.211225",
     "geom:latitude":46.211225,
     "geom:longitude":-114.104232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Arrow Hill Dr",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186226193,
-    "wof:lastmodified":1449052303,
+    "wof:lastmodified":1466642206,
     "wof:name":"Humble Bodys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "trainer"
     ]
 },
-  "bbox": [-114.104232,46.211225,-114.104232,46.211225],
+  "bbox": [
+    -114.104232,
+    46.211225,
+    -114.104232,
+    46.211225
+],
   "geometry": {"coordinates":[-114.104232,46.211225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169801841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.677212,48.534437,-109.677212,48.534437",
     "geom:latitude":48.534437,
     "geom:longitude":-109.677212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Bullhook Dr SE",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169801841,
-    "wof:lastmodified":1449035376,
+    "wof:lastmodified":1466641269,
     "wof:name":"MJB Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.677212,48.534437,-109.677212,48.534437],
+  "bbox": [
+    -109.677212,
+    48.534437,
+    -109.677212,
+    48.534437
+],
   "geometry": {"coordinates":[-109.677212,48.534437],"type":"Point"}
 }

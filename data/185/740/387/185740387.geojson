@@ -2,13 +2,14 @@
   "id": 185740387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.313765,45.944453,-108.313765,45.944453",
     "geom:latitude":45.944453,
     "geom:longitude":-108.313765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6629 Buffalo Dr",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185740387,
-    "wof:lastmodified":1449007354,
+    "wof:lastmodified":1466641465,
     "wof:name":"Glenn Paulson Office",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-108.313765,45.944453,-108.313765,45.944453],
+  "bbox": [
+    -108.313765,
+    45.944453,
+    -108.313765,
+    45.944453
+],
   "geometry": {"coordinates":[-108.313765,45.944453],"type":"Point"}
 }

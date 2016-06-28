@@ -2,13 +2,14 @@
   "id": 185914065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.027389,46.862578,-114.027389,46.862578",
     "geom:latitude":46.862578,
     "geom:longitude":-114.027389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1938 S 8th St W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185914065,
-    "wof:lastmodified":1449007223,
+    "wof:lastmodified":1466641786,
     "wof:name":"Waldbillig Electric",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.027389,46.862578,-114.027389,46.862578],
+  "bbox": [
+    -114.027389,
+    46.862578,
+    -114.027389,
+    46.862578
+],
   "geometry": {"coordinates":[-114.027389,46.862578],"type":"Point"}
 }

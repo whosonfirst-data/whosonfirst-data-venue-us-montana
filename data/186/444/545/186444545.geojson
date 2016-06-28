@@ -2,13 +2,14 @@
   "id": 186444545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.269518,48.238321,-114.269518,48.238321",
     "geom:latitude":48.238321,
     "geom:longitude":-114.269518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Mountain View Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186444545,
-    "wof:lastmodified":1449052649,
+    "wof:lastmodified":1466642992,
     "wof:name":"FIRE Transportation",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crew"
     ]
 },
-  "bbox": [-114.269518,48.238321,-114.269518,48.238321],
-  "geometry": {"coordinates":[-114.269518,48.238321],"type":"Point"}
+  "bbox": [
+    -114.269518,
+    48.238321,
+    -114.269518,
+    48.238321
+],
+  "geometry": {"coordinates":[-114.26951800000001,48.238321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185638255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.376101,48.189464,-114.376101,48.189464",
     "geom:latitude":48.189464,
     "geom:longitude":-114.376101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 Whalebone Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185638255,
-    "wof:lastmodified":1449006671,
+    "wof:lastmodified":1466641344,
     "wof:name":"Robert J Fuerst Msw Lcsw",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.376101,48.189464,-114.376101,48.189464],
-  "geometry": {"coordinates":[-114.376101,48.189464],"type":"Point"}
+  "bbox": [
+    -114.376101,
+    48.189464,
+    -114.376101,
+    48.189464
+],
+  "geometry": {"coordinates":[-114.37610100000001,48.189464],"type":"Point"}
 }

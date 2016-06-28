@@ -2,13 +2,14 @@
   "id": 186454349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.613392,45.258181,-112.613392,45.258181",
     "geom:latitude":45.258181,
     "geom:longitude":-112.613392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Christine Ln",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186454349,
-    "wof:lastmodified":1449052768,
+    "wof:lastmodified":1466643112,
     "wof:name":"Bunkhouse Ballistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.613392,45.258181,-112.613392,45.258181],
+  "bbox": [
+    -112.613392,
+    45.258181,
+    -112.613392,
+    45.258181
+],
   "geometry": {"coordinates":[-112.613392,45.258181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186333437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.224929,45.264416,-109.224929,45.264416",
     "geom:latitude":45.264416,
     "geom:longitude":-109.224929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7464 US Hwy 212",
     "sg:city":"Red Lodge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186333437,
-    "wof:lastmodified":1449052845,
+    "wof:lastmodified":1466642824,
     "wof:name":"KOA Kampgrounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.224929,45.264416,-109.224929,45.264416],
+  "bbox": [
+    -109.224929,
+    45.264416,
+    -109.224929,
+    45.264416
+],
   "geometry": {"coordinates":[-109.224929,45.264416],"type":"Point"}
 }

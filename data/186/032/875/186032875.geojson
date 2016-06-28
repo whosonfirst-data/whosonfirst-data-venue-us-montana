@@ -2,13 +2,14 @@
   "id": 186032875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.483077,45.796739,-108.483077,45.796739",
     "geom:latitude":45.796739,
     "geom:longitude":-108.483077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 4th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186032875,
-    "wof:lastmodified":1449051690,
+    "wof:lastmodified":1466641661,
     "wof:name":"R & R Motors",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-108.483077,45.796739,-108.483077,45.796739],
-  "geometry": {"coordinates":[-108.483077,45.796739],"type":"Point"}
+  "bbox": [
+    -108.483077,
+    45.796739,
+    -108.483077,
+    45.796739
+],
+  "geometry": {"coordinates":[-108.48307699999999,45.796739],"type":"Point"}
 }

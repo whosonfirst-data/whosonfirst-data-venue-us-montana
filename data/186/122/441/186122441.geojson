@@ -2,13 +2,14 @@
   "id": 186122441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.13976,47.50776,-114.13976,47.50776",
     "geom:latitude":47.50776,
     "geom:longitude":-114.13976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Rocky Butte Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186122441,
-    "wof:lastmodified":1449051898,
+    "wof:lastmodified":1466642074,
     "wof:name":"Native Montana Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.13976,47.50776,-114.13976,47.50776],
+  "bbox": [
+    -114.13976,
+    47.50776,
+    -114.13976,
+    47.50776
+],
   "geometry": {"coordinates":[-114.13976,47.50776],"type":"Point"}
 }

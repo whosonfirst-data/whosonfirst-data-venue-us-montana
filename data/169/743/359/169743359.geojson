@@ -2,13 +2,14 @@
   "id": 169743359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.050981,47.152636,-114.050981,47.152636",
     "geom:latitude":47.152636,
     "geom:longitude":-114.050981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Jocko Rd",
     "sg:city":"Arlee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169743359,
-    "wof:lastmodified":1449035946,
+    "wof:lastmodified":1466641177,
     "wof:name":"S&S Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.050981,47.152636,-114.050981,47.152636],
-  "geometry": {"coordinates":[-114.050981,47.152636],"type":"Point"}
+  "bbox": [
+    -114.050981,
+    47.152636,
+    -114.050981,
+    47.152636
+],
+  "geometry": {"coordinates":[-114.05098099999999,47.152636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186434089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.058222,46.59851,-112.058222,46.59851",
     "geom:latitude":46.59851,
     "geom:longitude":-112.058222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Stuart St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186434089,
-    "wof:lastmodified":1449050976,
+    "wof:lastmodified":1466642945,
     "wof:name":"Squires Bookkeeping Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.058222,46.59851,-112.058222,46.59851],
+  "bbox": [
+    -112.058222,
+    46.59851,
+    -112.058222,
+    46.59851
+],
   "geometry": {"coordinates":[-112.058222,46.59851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169799995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.372377,48.176051,-114.372377,48.176051",
     "geom:latitude":48.176051,
     "geom:longitude":-114.372377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Hillcrest Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169799995,
-    "wof:lastmodified":1449035988,
+    "wof:lastmodified":1466641761,
     "wof:name":"Nathaniel Beck",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crew"
     ]
 },
-  "bbox": [-114.372377,48.176051,-114.372377,48.176051],
+  "bbox": [
+    -114.372377,
+    48.176051,
+    -114.372377,
+    48.176051
+],
   "geometry": {"coordinates":[-114.372377,48.176051],"type":"Point"}
 }

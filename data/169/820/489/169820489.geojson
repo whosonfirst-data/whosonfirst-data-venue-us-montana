@@ -2,13 +2,14 @@
   "id": 169820489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.498501,46.002951,-112.498501,46.002951",
     "geom:latitude":46.002951,
     "geom:longitude":-112.498501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Stuart Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169820489,
-    "wof:lastmodified":1449034387,
+    "wof:lastmodified":1466641289,
     "wof:name":"Lavelle Equipment Repair LLC",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-112.498501,46.002951,-112.498501,46.002951],
+  "bbox": [
+    -112.498501,
+    46.002951,
+    -112.498501,
+    46.002951
+],
   "geometry": {"coordinates":[-112.498501,46.002951],"type":"Point"}
 }

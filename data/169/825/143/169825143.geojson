@@ -2,13 +2,14 @@
   "id": 169825143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.445697,47.672784,-115.445697,47.672784",
     "geom:latitude":47.672784,
     "geom:longitude":-115.445697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Little Beaver Creek Rd",
     "sg:city":"Trout Creek",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169825143,
-    "wof:lastmodified":1449032818,
+    "wof:lastmodified":1466641293,
     "wof:name":"Pete Ross Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-115.445697,47.672784,-115.445697,47.672784],
+  "bbox": [
+    -115.445697,
+    47.672784,
+    -115.445697,
+    47.672784
+],
   "geometry": {"coordinates":[-115.445697,47.672784],"type":"Point"}
 }

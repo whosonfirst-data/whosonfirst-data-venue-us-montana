@@ -2,13 +2,14 @@
   "id": 186161921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.489206,47.54107,-111.489206,47.54107",
     "geom:latitude":47.54107,
     "geom:longitude":-111.489206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1569 Adams Blvd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186161921,
-    "wof:lastmodified":1449051428,
+    "wof:lastmodified":1466642145,
     "wof:name":"Goodspeeds Exterior & Cnstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "metal"
     ]
 },
-  "bbox": [-111.489206,47.54107,-111.489206,47.54107],
+  "bbox": [
+    -111.489206,
+    47.54107,
+    -111.489206,
+    47.54107
+],
   "geometry": {"coordinates":[-111.489206,47.54107],"type":"Point"}
 }

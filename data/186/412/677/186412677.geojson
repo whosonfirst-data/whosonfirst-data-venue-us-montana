@@ -2,13 +2,14 @@
   "id": 186412677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.635529,45.608585,-110.635529,45.608585",
     "geom:latitude":45.608585,
     "geom:longitude":-110.635529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Thistle Hill",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186412677,
-    "wof:lastmodified":1449050952,
+    "wof:lastmodified":1466642884,
     "wof:name":"Karnatz Tree Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.635529,45.608585,-110.635529,45.608585],
-  "geometry": {"coordinates":[-110.635529,45.608585],"type":"Point"}
+  "bbox": [
+    -110.635529,
+    45.608585,
+    -110.635529,
+    45.608585
+],
+  "geometry": {"coordinates":[-110.63552900000001,45.608585],"type":"Point"}
 }

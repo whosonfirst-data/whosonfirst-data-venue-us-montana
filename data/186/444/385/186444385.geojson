@@ -2,13 +2,14 @@
   "id": 186444385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.855404,46.406864,-105.855404,46.406864",
     "geom:latitude":46.406864,
     "geom:longitude":-105.855404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Palmer St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186444385,
-    "wof:lastmodified":1449052651,
+    "wof:lastmodified":1466642989,
     "wof:name":"M P Automotive Machine & Weld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-105.855404,46.406864,-105.855404,46.406864],
-  "geometry": {"coordinates":[-105.855404,46.406864],"type":"Point"}
+  "bbox": [
+    -105.855404,
+    46.406864,
+    -105.855404,
+    46.406864
+],
+  "geometry": {"coordinates":[-105.85540399999999,46.406864],"type":"Point"}
 }

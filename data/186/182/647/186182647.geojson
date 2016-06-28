@@ -2,13 +2,14 @@
   "id": 186182647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.521165,48.339543,-115.521165,48.339543",
     "geom:latitude":48.339543,
     "geom:longitude":-115.521165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Granite Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186182647,
-    "wof:lastmodified":1449052071,
+    "wof:lastmodified":1466642019,
     "wof:name":"Elkf Wildland Firefighters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-115.521165,48.339543,-115.521165,48.339543],
+  "bbox": [
+    -115.521165,
+    48.339543,
+    -115.521165,
+    48.339543
+],
   "geometry": {"coordinates":[-115.521165,48.339543],"type":"Point"}
 }

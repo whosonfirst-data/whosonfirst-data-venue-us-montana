@@ -2,13 +2,14 @@
   "id": 186281327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.522649,45.781999,-108.522649,45.781999",
     "geom:latitude":45.781999,
     "geom:longitude":-108.522649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Burlington Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186281327,
-    "wof:lastmodified":1449052599,
+    "wof:lastmodified":1466642355,
     "wof:name":"Research Management",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-108.522649,45.781999,-108.522649,45.781999],
+  "bbox": [
+    -108.522649,
+    45.781999,
+    -108.522649,
+    45.781999
+],
   "geometry": {"coordinates":[-108.522649,45.781999],"type":"Point"}
 }

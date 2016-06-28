@@ -2,13 +2,14 @@
   "id": 185825659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.529055,46.000546,-112.529055,46.000546",
     "geom:latitude":46.000546,
     "geom:longitude":-112.529055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 E Front St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185825659,
-    "wof:lastmodified":1449006639,
+    "wof:lastmodified":1466641564,
     "wof:name":"Gambling Investigation",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "taxation"
     ]
 },
-  "bbox": [-112.529055,46.000546,-112.529055,46.000546],
+  "bbox": [
+    -112.529055,
+    46.000546,
+    -112.529055,
+    46.000546
+],
   "geometry": {"coordinates":[-112.529055,46.000546],"type":"Point"}
 }

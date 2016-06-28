@@ -2,13 +2,14 @@
   "id": 186400903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.974286,46.573697,-113.974286,46.573697",
     "geom:latitude":46.573697,
     "geom:longitude":-113.974286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1284 Three Mile Creek Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186400903,
-    "wof:lastmodified":1449050501,
+    "wof:lastmodified":1466642860,
     "wof:name":"Karrer Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "co"
     ]
 },
-  "bbox": [-113.974286,46.573697,-113.974286,46.573697],
-  "geometry": {"coordinates":[-113.974286,46.573697],"type":"Point"}
+  "bbox": [
+    -113.974286,
+    46.573697,
+    -113.974286,
+    46.573697
+],
+  "geometry": {"coordinates":[-113.97428600000001,46.573697],"type":"Point"}
 }

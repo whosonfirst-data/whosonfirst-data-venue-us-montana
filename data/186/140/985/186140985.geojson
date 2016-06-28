@@ -2,13 +2,14 @@
   "id": 186140985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.224406,45.940589,-108.224406,45.940589",
     "geom:latitude":45.940589,
     "geom:longitude":-108.224406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1239 Homestead Dr",
     "sg:city":"Worden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186140985,
-    "wof:lastmodified":1449050757,
+    "wof:lastmodified":1466642277,
     "wof:name":"Affordable Landscaping",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.224406,45.940589,-108.224406,45.940589],
+  "bbox": [
+    -108.224406,
+    45.940589,
+    -108.224406,
+    45.940589
+],
   "geometry": {"coordinates":[-108.224406,45.940589],"type":"Point"}
 }

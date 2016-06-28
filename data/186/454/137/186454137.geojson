@@ -2,13 +2,14 @@
   "id": 186454137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.972066,46.704348,-111.972066,46.704348",
     "geom:latitude":46.704348,
     "geom:longitude":-111.972066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2293 E Lincoln Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186454137,
-    "wof:lastmodified":1449052769,
+    "wof:lastmodified":1466643023,
     "wof:name":"Bio Logical Solutions LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.972066,46.704348,-111.972066,46.704348],
+  "bbox": [
+    -111.972066,
+    46.704348,
+    -111.972066,
+    46.704348
+],
   "geometry": {"coordinates":[-111.972066,46.704348],"type":"Point"}
 }

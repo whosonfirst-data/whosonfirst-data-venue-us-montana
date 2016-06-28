@@ -2,13 +2,14 @@
   "id": 186153299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.416155,45.811604,-108.416155,45.811604",
     "geom:latitude":45.811604,
     "geom:longitude":-108.416155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 Old Hardin Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186153299,
-    "wof:lastmodified":1449052218,
+    "wof:lastmodified":1466642279,
     "wof:name":"Quick Bucks",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "loan"
     ]
 },
-  "bbox": [-108.416155,45.811604,-108.416155,45.811604],
+  "bbox": [
+    -108.416155,
+    45.811604,
+    -108.416155,
+    45.811604
+],
   "geometry": {"coordinates":[-108.416155,45.811604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185787901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.380858,47.460315,-111.380858,47.460315",
     "geom:latitude":47.460315,
     "geom:longitude":-111.380858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 49th St SW",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185787901,
-    "wof:lastmodified":1449007345,
+    "wof:lastmodified":1466641518,
     "wof:name":"Electric City Auto Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.380858,47.460315,-111.380858,47.460315],
+  "bbox": [
+    -111.380858,
+    47.460315,
+    -111.380858,
+    47.460315
+],
   "geometry": {"coordinates":[-111.380858,47.460315],"type":"Point"}
 }

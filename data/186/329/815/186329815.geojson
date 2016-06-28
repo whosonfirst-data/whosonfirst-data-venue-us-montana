@@ -2,13 +2,14 @@
   "id": 186329815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.742306,45.753021,-108.742306,45.753021",
     "geom:latitude":45.753021,
     "geom:longitude":-108.742306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8848 Camelot Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186329815,
-    "wof:lastmodified":1449051130,
+    "wof:lastmodified":1466642470,
     "wof:name":"Cg Concrete & Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.742306,45.753021,-108.742306,45.753021],
+  "bbox": [
+    -108.742306,
+    45.753021,
+    -108.742306,
+    45.753021
+],
   "geometry": {"coordinates":[-108.742306,45.753021],"type":"Point"}
 }

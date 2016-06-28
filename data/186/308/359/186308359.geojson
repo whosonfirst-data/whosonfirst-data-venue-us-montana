@@ -2,13 +2,14 @@
   "id": 186308359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.489924,45.456952,-109.489924,45.456952",
     "geom:latitude":45.456952,
     "geom:longitude":-109.489924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Main",
     "sg:city":"Fishtail",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186308359,
-    "wof:lastmodified":1449053089,
+    "wof:lastmodified":1466642635,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.489924,45.456952,-109.489924,45.456952],
+  "bbox": [
+    -109.489924,
+    45.456952,
+    -109.489924,
+    45.456952
+],
   "geometry": {"coordinates":[-109.489924,45.456952],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169862083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.41726,48.243336,-114.41726,48.243336",
     "geom:latitude":48.243336,
     "geom:longitude":-114.41726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 Farm To Market Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169862083,
-    "wof:lastmodified":1449036045,
+    "wof:lastmodified":1466641349,
     "wof:name":"West Valley Fire Dept",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-114.41726,48.243336,-114.41726,48.243336],
+  "bbox": [
+    -114.41726,
+    48.243336,
+    -114.41726,
+    48.243336
+],
   "geometry": {"coordinates":[-114.41726,48.243336],"type":"Point"}
 }

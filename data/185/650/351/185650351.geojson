@@ -2,13 +2,14 @@
   "id": 185650351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.304461,48.190564,-114.304461,48.190564",
     "geom:latitude":48.190564,
     "geom:longitude":-114.304461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"945 4th Ave E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185650351,
-    "wof:lastmodified":1449007597,
+    "wof:lastmodified":1466641366,
     "wof:name":"Cdc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.304461,48.190564,-114.304461,48.190564],
+  "bbox": [
+    -114.304461,
+    48.190564,
+    -114.304461,
+    48.190564
+],
   "geometry": {"coordinates":[-114.304461,48.190564],"type":"Point"}
 }

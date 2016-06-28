@@ -2,13 +2,14 @@
   "id": 185777297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.557287,45.776852,-108.557287,45.776852",
     "geom:latitude":45.776852,
     "geom:longitude":-108.557287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 Broadwater Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185777297,
-    "wof:lastmodified":1449007472,
+    "wof:lastmodified":1466641505,
     "wof:name":"C B J Architects",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-108.557287,45.776852,-108.557287,45.776852],
+  "bbox": [
+    -108.557287,
+    45.776852,
+    -108.557287,
+    45.776852
+],
   "geometry": {"coordinates":[-108.557287,45.776852],"type":"Point"}
 }

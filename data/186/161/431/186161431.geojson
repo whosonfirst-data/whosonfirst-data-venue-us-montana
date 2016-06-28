@@ -2,13 +2,14 @@
   "id": 186161431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.40702,45.438542,-105.40702,45.438542",
     "geom:latitude":45.438542,
     "geom:longitude":-105.40702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Lincoln Ave",
     "sg:city":"Broadus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186161431,
-    "wof:lastmodified":1449051425,
+    "wof:lastmodified":1466642139,
     "wof:name":"Aye's Fabricating & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-105.40702,45.438542,-105.40702,45.438542],
+  "bbox": [
+    -105.40702,
+    45.438542,
+    -105.40702,
+    45.438542
+],
   "geometry": {"coordinates":[-105.40702,45.438542],"type":"Point"}
 }

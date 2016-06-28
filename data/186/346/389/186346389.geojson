@@ -2,13 +2,14 @@
   "id": 186346389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.526934,46.002928,-112.526934,46.002928",
     "geom:latitude":46.002928,
     "geom:longitude":-112.526934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Utah Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186346389,
-    "wof:lastmodified":1449050240,
+    "wof:lastmodified":1466642709,
     "wof:name":"Butte Floral Co",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.526934,46.002928,-112.526934,46.002928],
+  "bbox": [
+    -112.526934,
+    46.002928,
+    -112.526934,
+    46.002928
+],
   "geometry": {"coordinates":[-112.526934,46.002928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186105441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.287651,48.161051,-114.287651,48.161051",
     "geom:latitude":48.161051,
     "geom:longitude":-114.287651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2995 US Hwy 93 S",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186105441,
-    "wof:lastmodified":1449051400,
+    "wof:lastmodified":1466642149,
     "wof:name":"KGEZ",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-114.287651,48.161051,-114.287651,48.161051],
+  "bbox": [
+    -114.287651,
+    48.161051,
+    -114.287651,
+    48.161051
+],
   "geometry": {"coordinates":[-114.287651,48.161051],"type":"Point"}
 }

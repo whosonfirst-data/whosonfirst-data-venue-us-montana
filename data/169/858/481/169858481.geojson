@@ -2,13 +2,14 @@
   "id": 169858481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.332821,48.206028,-114.332821,48.206028",
     "geom:latitude":48.206028,
     "geom:longitude":-114.332821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Glenwood Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169858481,
-    "wof:lastmodified":1449032996,
+    "wof:lastmodified":1466641347,
     "wof:name":"Kalispell Meeting Halls",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-114.332821,48.206028,-114.332821,48.206028],
+  "bbox": [
+    -114.332821,
+    48.206028,
+    -114.332821,
+    48.206028
+],
   "geometry": {"coordinates":[-114.332821,48.206028],"type":"Point"}
 }

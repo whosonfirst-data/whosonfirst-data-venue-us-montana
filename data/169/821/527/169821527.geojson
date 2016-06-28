@@ -2,13 +2,14 @@
   "id": 169821527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.425283,47.064989,-109.425283,47.064989",
     "geom:latitude":47.064989,
     "geom:longitude":-109.425283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Janeaux St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169821527,
-    "wof:lastmodified":1449034489,
+    "wof:lastmodified":1466641763,
     "wof:name":"Big Sky Fire Equip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "aid"
     ]
 },
-  "bbox": [-109.425283,47.064989,-109.425283,47.064989],
-  "geometry": {"coordinates":[-109.425283,47.064989],"type":"Point"}
+  "bbox": [
+    -109.425283,
+    47.064989,
+    -109.425283,
+    47.064989
+],
+  "geometry": {"coordinates":[-109.42528299999999,47.064989],"type":"Point"}
 }

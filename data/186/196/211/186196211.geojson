@@ -2,13 +2,14 @@
   "id": 186196211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.563224,45.755148,-108.563224,45.755148",
     "geom:latitude":45.755148,
     "geom:longitude":-108.563224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1832 King Ave W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186196211,
-    "wof:lastmodified":1449051003,
+    "wof:lastmodified":1466642260,
     "wof:name":"Incredible KIA",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-108.563224,45.755148,-108.563224,45.755148],
-  "geometry": {"coordinates":[-108.563224,45.755148],"type":"Point"}
+  "bbox": [
+    -108.563224,
+    45.755148,
+    -108.563224,
+    45.755148
+],
+  "geometry": {"coordinates":[-108.56322400000001,45.755148],"type":"Point"}
 }

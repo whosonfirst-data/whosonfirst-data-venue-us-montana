@@ -2,13 +2,14 @@
   "id": 186237559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.560879,45.787055,-108.560879,45.787055",
     "geom:latitude":45.787055,
     "geom:longitude":-108.560879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1734 Ave D",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186237559,
-    "wof:lastmodified":1449050332,
+    "wof:lastmodified":1466642675,
     "wof:name":"Moonlight Construction",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.560879,45.787055,-108.560879,45.787055],
+  "bbox": [
+    -108.560879,
+    45.787055,
+    -108.560879,
+    45.787055
+],
   "geometry": {"coordinates":[-108.560879,45.787055],"type":"Point"}
 }

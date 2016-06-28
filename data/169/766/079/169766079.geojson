@@ -2,13 +2,14 @@
   "id": 169766079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.129357,47.695395,-114.129357,47.695395",
     "geom:latitude":47.695395,
     "geom:longitude":-114.129357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Bayshore Dr",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169766079,
-    "wof:lastmodified":1449032641,
+    "wof:lastmodified":1466641207,
     "wof:name":"Aznoe Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.129357,47.695395,-114.129357,47.695395],
+  "bbox": [
+    -114.129357,
+    47.695395,
+    -114.129357,
+    47.695395
+],
   "geometry": {"coordinates":[-114.129357,47.695395],"type":"Point"}
 }

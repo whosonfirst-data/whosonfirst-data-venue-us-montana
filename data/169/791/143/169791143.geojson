@@ -2,13 +2,14 @@
   "id": 169791143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.046592,46.602748,-112.046592,46.602748",
     "geom:latitude":46.602748,
     "geom:longitude":-112.046592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"941 Hollins Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169791143,
-    "wof:lastmodified":1449035196,
+    "wof:lastmodified":1466641249,
     "wof:name":"James and June Fitspatrick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-112.046592,46.602748,-112.046592,46.602748],
+  "bbox": [
+    -112.046592,
+    46.602748,
+    -112.046592,
+    46.602748
+],
   "geometry": {"coordinates":[-112.046592,46.602748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185774695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.164826,45.669858,-111.164826,45.669858",
     "geom:latitude":45.669858,
     "geom:longitude":-111.164826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Cobb Hill Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185774695,
-    "wof:lastmodified":1449007242,
+    "wof:lastmodified":1466641507,
     "wof:name":"Roger Brownson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-111.164826,45.669858,-111.164826,45.669858],
-  "geometry": {"coordinates":[-111.164826,45.669858],"type":"Point"}
+  "bbox": [
+    -111.164826,
+    45.669858,
+    -111.164826,
+    45.669858
+],
+  "geometry": {"coordinates":[-111.16482600000001,45.669858],"type":"Point"}
 }

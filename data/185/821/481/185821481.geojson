@@ -2,13 +2,14 @@
   "id": 185821481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.644472,48.093654,-105.644472,48.093654",
     "geom:latitude":48.093654,
     "geom:longitude":-105.644472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Cascade St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185821481,
-    "wof:lastmodified":1449007491,
+    "wof:lastmodified":1466641555,
     "wof:name":"Top Notch Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "tape"
     ]
 },
-  "bbox": [-105.644472,48.093654,-105.644472,48.093654],
-  "geometry": {"coordinates":[-105.644472,48.093654],"type":"Point"}
+  "bbox": [
+    -105.644472,
+    48.093654,
+    -105.644472,
+    48.093654
+],
+  "geometry": {"coordinates":[-105.64447199999999,48.093654],"type":"Point"}
 }

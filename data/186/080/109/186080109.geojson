@@ -2,13 +2,14 @@
   "id": 186080109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.335174,48.405497,-114.335174,48.405497",
     "geom:latitude":48.405497,
     "geom:longitude":-114.335174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"669 Spokane Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186080109,
-    "wof:lastmodified":1449052964,
+    "wof:lastmodified":1466642023,
     "wof:name":"Power Clean Professional",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-114.335174,48.405497,-114.335174,48.405497],
-  "geometry": {"coordinates":[-114.335174,48.405497],"type":"Point"}
+  "bbox": [
+    -114.335174,
+    48.405497,
+    -114.335174,
+    48.405497
+],
+  "geometry": {"coordinates":[-114.33517399999999,48.405497],"type":"Point"}
 }

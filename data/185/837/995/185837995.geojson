@@ -2,13 +2,14 @@
   "id": 185837995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.558832,48.774247,-104.558832,48.774247",
     "geom:latitude":48.774247,
     "geom:longitude":-104.558832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E 1st Ave",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185837995,
-    "wof:lastmodified":1449006867,
+    "wof:lastmodified":1466641579,
     "wof:name":"Sheridan & Culbertson Sheet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.558832,48.774247,-104.558832,48.774247],
+  "bbox": [
+    -104.558832,
+    48.774247,
+    -104.558832,
+    48.774247
+],
   "geometry": {"coordinates":[-104.558832,48.774247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185948885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.430057,45.867917,-108.430057,45.867917",
     "geom:latitude":45.867917,
     "geom:longitude":-108.430057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 Hwy 312",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185948885,
-    "wof:lastmodified":1449007891,
+    "wof:lastmodified":1466641707,
     "wof:name":"Westate Machinery Co",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "crushing"
     ]
 },
-  "bbox": [-108.430057,45.867917,-108.430057,45.867917],
-  "geometry": {"coordinates":[-108.430057,45.867917],"type":"Point"}
+  "bbox": [
+    -108.430057,
+    45.867917,
+    -108.430057,
+    45.867917
+],
+  "geometry": {"coordinates":[-108.43005700000001,45.867917],"type":"Point"}
 }

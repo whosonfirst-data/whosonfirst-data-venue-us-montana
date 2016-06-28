@@ -2,13 +2,14 @@
   "id": 169838773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.602188,45.775077,-108.602188,45.775077",
     "geom:latitude":45.775077,
     "geom:longitude":-108.602188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 34th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169838773,
-    "wof:lastmodified":1449033081,
+    "wof:lastmodified":1466641313,
     "wof:name":"Smith Funeral Chapels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-108.602188,45.775077,-108.602188,45.775077],
+  "bbox": [
+    -108.602188,
+    45.775077,
+    -108.602188,
+    45.775077
+],
   "geometry": {"coordinates":[-108.602188,45.775077],"type":"Point"}
 }

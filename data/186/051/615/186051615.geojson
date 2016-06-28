@@ -2,13 +2,14 @@
   "id": 186051615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.013901,45.684543,-111.013901,45.684543",
     "geom:latitude":45.684543,
     "geom:longitude":-111.013901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Bohart Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186051615,
-    "wof:lastmodified":1449052020,
+    "wof:lastmodified":1466641826,
     "wof:name":"JTL Group Inc",
     "wof:parent_id":85876477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-111.013901,45.684543,-111.013901,45.684543],
+  "bbox": [
+    -111.013901,
+    45.684543,
+    -111.013901,
+    45.684543
+],
   "geometry": {"coordinates":[-111.013901,45.684543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185660277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.045753,46.595248,-112.045753,46.595248",
     "geom:latitude":46.595248,
     "geom:longitude":-112.045753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 Harrison Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185660277,
-    "wof:lastmodified":1449008055,
+    "wof:lastmodified":1466641375,
     "wof:name":"Block P LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-112.045753,46.595248,-112.045753,46.595248],
+  "bbox": [
+    -112.045753,
+    46.595248,
+    -112.045753,
+    46.595248
+],
   "geometry": {"coordinates":[-112.045753,46.595248],"type":"Point"}
 }

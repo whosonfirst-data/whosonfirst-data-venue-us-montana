@@ -2,13 +2,14 @@
   "id": 185750443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.5055,45.785892,-108.5055,45.785892",
     "geom:latitude":45.785892,
     "geom:longitude":-108.5055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2522 4th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185750443,
-    "wof:lastmodified":1449007592,
+    "wof:lastmodified":1466641474,
     "wof:name":"Billings Federal Credit Union",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chartered"
     ]
 },
-  "bbox": [-108.5055,45.785892,-108.5055,45.785892],
+  "bbox": [
+    -108.5055,
+    45.785892,
+    -108.5055,
+    45.785892
+],
   "geometry": {"coordinates":[-108.5055,45.785892],"type":"Point"}
 }

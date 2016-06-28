@@ -2,13 +2,14 @@
   "id": 186121865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.907953,46.646285,-111.907953,46.646285",
     "geom:latitude":46.646285,
     "geom:longitude":-111.907953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3525 York Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186121865,
-    "wof:lastmodified":1449052412,
+    "wof:lastmodified":1466641911,
     "wof:name":"A B & T Fence and Pole Barns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "barn"
     ]
 },
-  "bbox": [-111.907953,46.646285,-111.907953,46.646285],
-  "geometry": {"coordinates":[-111.907953,46.646285],"type":"Point"}
+  "bbox": [
+    -111.907953,
+    46.646285,
+    -111.907953,
+    46.646285
+],
+  "geometry": {"coordinates":[-111.90795300000001,46.646285],"type":"Point"}
 }

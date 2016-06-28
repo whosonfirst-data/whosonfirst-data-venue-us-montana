@@ -2,13 +2,14 @@
   "id": 186047963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.553967,45.84305,-108.553967,45.84305",
     "geom:latitude":45.84305,
     "geom:longitude":-108.553967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2437 Alkali Creek Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186047963,
-    "wof:lastmodified":1449052100,
+    "wof:lastmodified":1466641815,
     "wof:name":"Lazy D-T Guest Ranch",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rooms"
     ]
 },
-  "bbox": [-108.553967,45.84305,-108.553967,45.84305],
+  "bbox": [
+    -108.553967,
+    45.84305,
+    -108.553967,
+    45.84305
+],
   "geometry": {"coordinates":[-108.553967,45.84305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186068671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.303458,47.377715,-114.303458,47.377715",
     "geom:latitude":47.377715,
     "geom:longitude":-114.303458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11191 Moiese Valley Rd",
     "sg:city":"Charlo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186068671,
-    "wof:lastmodified":1449051752,
+    "wof:lastmodified":1466641864,
     "wof:name":"Stipe Charolais & Angus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.303458,47.377715,-114.303458,47.377715],
-  "geometry": {"coordinates":[-114.303458,47.377715],"type":"Point"}
+  "bbox": [
+    -114.303458,
+    47.377715,
+    -114.303458,
+    47.377715
+],
+  "geometry": {"coordinates":[-114.30345800000001,47.377715],"type":"Point"}
 }

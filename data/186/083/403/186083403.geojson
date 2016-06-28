@@ -2,13 +2,14 @@
   "id": 186083403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.157194,47.714989,-104.157194,47.714989",
     "geom:latitude":47.714989,
     "geom:longitude":-104.157194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S Central Ave",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186083403,
-    "wof:lastmodified":1449051653,
+    "wof:lastmodified":1466641761,
     "wof:name":"Richland County Health Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-104.157194,47.714989,-104.157194,47.714989],
+  "bbox": [
+    -104.157194,
+    47.714989,
+    -104.157194,
+    47.714989
+],
   "geometry": {"coordinates":[-104.157194,47.714989],"type":"Point"}
 }

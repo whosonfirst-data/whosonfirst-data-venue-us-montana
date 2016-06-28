@@ -2,13 +2,14 @@
   "id": 186043273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.262299,47.529663,-114.262299,47.529663",
     "geom:latitude":47.529663,
     "geom:longitude":-114.262299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7286 Round Butte Rd W",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186043273,
-    "wof:lastmodified":1449052350,
+    "wof:lastmodified":1466641799,
     "wof:name":"Larrys Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.262299,47.529663,-114.262299,47.529663],
+  "bbox": [
+    -114.262299,
+    47.529663,
+    -114.262299,
+    47.529663
+],
   "geometry": {"coordinates":[-114.262299,47.529663],"type":"Point"}
 }

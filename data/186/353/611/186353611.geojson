@@ -2,13 +2,14 @@
   "id": 186353611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.027314,45.633688,-111.027314,45.633688",
     "geom:latitude":45.633688,
     "geom:longitude":-111.027314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Hitching Post Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186353611,
-    "wof:lastmodified":1449051144,
+    "wof:lastmodified":1466642862,
     "wof:name":"Bridger Mountain Trading Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gun"
     ]
 },
-  "bbox": [-111.027314,45.633688,-111.027314,45.633688],
+  "bbox": [
+    -111.027314,
+    45.633688,
+    -111.027314,
+    45.633688
+],
   "geometry": {"coordinates":[-111.027314,45.633688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185714169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.03109,46.580715,-112.03109,46.580715",
     "geom:latitude":46.580715,
     "geom:longitude":-112.03109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 2nd St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185714169,
-    "wof:lastmodified":1449007418,
+    "wof:lastmodified":1466641431,
     "wof:name":"Magnus Opus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-112.03109,46.580715,-112.03109,46.580715],
-  "geometry": {"coordinates":[-112.03109,46.580715],"type":"Point"}
+  "bbox": [
+    -112.03109,
+    46.580715,
+    -112.03109,
+    46.580715
+],
+  "geometry": {"coordinates":[-112.03109000000001,46.580715],"type":"Point"}
 }

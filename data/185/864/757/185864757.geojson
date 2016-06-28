@@ -2,13 +2,14 @@
   "id": 185864757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.557142,45.663843,-110.557142,45.663843",
     "geom:latitude":45.663843,
     "geom:longitude":-110.557142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N D St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185864757,
-    "wof:lastmodified":1449008231,
+    "wof:lastmodified":1466641604,
     "wof:name":"Warren Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-110.557142,45.663843,-110.557142,45.663843],
+  "bbox": [
+    -110.557142,
+    45.663843,
+    -110.557142,
+    45.663843
+],
   "geometry": {"coordinates":[-110.557142,45.663843],"type":"Point"}
 }

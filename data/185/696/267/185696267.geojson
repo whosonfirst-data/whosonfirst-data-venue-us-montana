@@ -2,13 +2,14 @@
   "id": 185696267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.025696,46.838893,-114.025696,46.838893",
     "geom:latitude":46.838893,
     "geom:longitude":-114.025696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1832 Charlott Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185696267,
-    "wof:lastmodified":1449006729,
+    "wof:lastmodified":1466641413,
     "wof:name":"Steve Tincher",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "sanitary"
     ]
 },
-  "bbox": [-114.025696,46.838893,-114.025696,46.838893],
+  "bbox": [
+    -114.025696,
+    46.838893,
+    -114.025696,
+    46.838893
+],
   "geometry": {"coordinates":[-114.025696,46.838893],"type":"Point"}
 }

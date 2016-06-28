@@ -2,13 +2,14 @@
   "id": 186377515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.324096,48.2162,-114.324096,48.2162",
     "geom:latitude":48.2162,
     "geom:longitude":-114.324096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Sunnyview Ln",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186377515,
-    "wof:lastmodified":1449051387,
+    "wof:lastmodified":1466642604,
     "wof:name":"Jonathan Bechard",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-114.324096,48.2162,-114.324096,48.2162],
+  "bbox": [
+    -114.324096,
+    48.2162,
+    -114.324096,
+    48.2162
+],
   "geometry": {"coordinates":[-114.324096,48.2162],"type":"Point"}
 }

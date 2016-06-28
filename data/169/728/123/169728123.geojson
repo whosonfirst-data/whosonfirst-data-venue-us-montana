@@ -2,13 +2,14 @@
   "id": 169728123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.255118,45.637497,-109.255118,45.637497",
     "geom:latitude":45.637497,
     "geom:longitude":-109.255118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 E Pike Ave",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169728123,
-    "wof:lastmodified":1449033460,
+    "wof:lastmodified":1466641741,
     "wof:name":"Project Hope",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-109.255118,45.637497,-109.255118,45.637497],
+  "bbox": [
+    -109.255118,
+    45.637497,
+    -109.255118,
+    45.637497
+],
   "geometry": {"coordinates":[-109.255118,45.637497],"type":"Point"}
 }

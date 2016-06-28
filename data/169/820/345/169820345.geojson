@@ -2,13 +2,14 @@
   "id": 169820345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.637633,45.217476,-112.637633,45.217476",
     "geom:latitude":45.217476,
     "geom:longitude":-112.637633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 S Montana St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169820345,
-    "wof:lastmodified":1449034389,
+    "wof:lastmodified":1466641288,
     "wof:name":"Empire Office Machines Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "repair"
     ]
 },
-  "bbox": [-112.637633,45.217476,-112.637633,45.217476],
-  "geometry": {"coordinates":[-112.637633,45.217476],"type":"Point"}
+  "bbox": [
+    -112.637633,
+    45.217476,
+    -112.637633,
+    45.217476
+],
+  "geometry": {"coordinates":[-112.63763299999999,45.217476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185998457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576203,45.761828,-108.576203,45.761828",
     "geom:latitude":45.761828,
     "geom:longitude":-108.576203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 S 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185998457,
-    "wof:lastmodified":1449007126,
+    "wof:lastmodified":1466641716,
     "wof:name":"Casa Village",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-108.576203,45.761828,-108.576203,45.761828],
-  "geometry": {"coordinates":[-108.576203,45.761828],"type":"Point"}
+  "bbox": [
+    -108.576203,
+    45.761828,
+    -108.576203,
+    45.761828
+],
+  "geometry": {"coordinates":[-108.57620300000001,45.761828],"type":"Point"}
 }

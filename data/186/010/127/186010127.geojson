@@ -2,13 +2,14 @@
   "id": 186010127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.185355,45.67549,-111.185355,45.67549",
     "geom:latitude":45.67549,
     "geom:longitude":-111.185355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7330 Shedhorn Dr",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186010127,
-    "wof:lastmodified":1449052038,
+    "wof:lastmodified":1466641301,
     "wof:name":"Transaria Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "datum"
     ]
 },
-  "bbox": [-111.185355,45.67549,-111.185355,45.67549],
+  "bbox": [
+    -111.185355,
+    45.67549,
+    -111.185355,
+    45.67549
+],
   "geometry": {"coordinates":[-111.185355,45.67549],"type":"Point"}
 }

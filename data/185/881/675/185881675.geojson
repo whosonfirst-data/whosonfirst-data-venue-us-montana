@@ -2,13 +2,14 @@
   "id": 185881675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.397948,45.426239,-112.397948,45.426239",
     "geom:latitude":45.426239,
     "geom:longitude":-112.397948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 E Bench Rd",
     "sg:city":"Twin Bridges",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185881675,
-    "wof:lastmodified":1449007544,
+    "wof:lastmodified":1466641618,
     "wof:name":"Walt Morris",
     "wof:parent_id":85851385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-112.397948,45.426239,-112.397948,45.426239],
+  "bbox": [
+    -112.397948,
+    45.426239,
+    -112.397948,
+    45.426239
+],
   "geometry": {"coordinates":[-112.397948,45.426239],"type":"Point"}
 }

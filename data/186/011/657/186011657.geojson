@@ -2,13 +2,14 @@
   "id": 186011657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.711712,47.099751,-104.711712,47.099751",
     "geom:latitude":47.099751,
     "geom:longitude":-104.711712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 E Mann St",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186011657,
-    "wof:lastmodified":1449052520,
+    "wof:lastmodified":1466641325,
     "wof:name":"Interstate Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-104.711712,47.099751,-104.711712,47.099751],
-  "geometry": {"coordinates":[-104.711712,47.099751],"type":"Point"}
+  "bbox": [
+    -104.711712,
+    47.099751,
+    -104.711712,
+    47.099751
+],
+  "geometry": {"coordinates":[-104.71171200000001,47.099751],"type":"Point"}
 }

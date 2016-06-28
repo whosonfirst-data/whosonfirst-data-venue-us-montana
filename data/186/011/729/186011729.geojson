@@ -2,13 +2,14 @@
   "id": 186011729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.623208,45.801157,-108.623208,45.801157",
     "geom:latitude":45.801157,
     "geom:longitude":-108.623208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4227 Pine Cove Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186011729,
-    "wof:lastmodified":1449052521,
+    "wof:lastmodified":1466641327,
     "wof:name":"Artisan Builders Dennis Olson",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.623208,45.801157,-108.623208,45.801157],
-  "geometry": {"coordinates":[-108.623208,45.801157],"type":"Point"}
+  "bbox": [
+    -108.623208,
+    45.801157,
+    -108.623208,
+    45.801157
+],
+  "geometry": {"coordinates":[-108.62320800000001,45.801157],"type":"Point"}
 }

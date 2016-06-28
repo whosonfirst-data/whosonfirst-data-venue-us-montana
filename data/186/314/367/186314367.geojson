@@ -2,13 +2,14 @@
   "id": 186314367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.801749,47.969944,-105.801749,47.969944",
     "geom:latitude":47.969944,
     "geom:longitude":-105.801749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Highland Rd",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186314367,
-    "wof:lastmodified":1449052922,
+    "wof:lastmodified":1466642644,
     "wof:name":"Kal Well Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-105.801749,47.969944,-105.801749,47.969944],
+  "bbox": [
+    -105.801749,
+    47.969944,
+    -105.801749,
+    47.969944
+],
   "geometry": {"coordinates":[-105.801749,47.969944],"type":"Point"}
 }

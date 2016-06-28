@@ -2,13 +2,14 @@
   "id": 186190565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.754799,47.10386,-104.754799,47.10386",
     "geom:latitude":47.10386,
     "geom:longitude":-104.754799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Hemlock Ave",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186190565,
-    "wof:lastmodified":1449052863,
+    "wof:lastmodified":1466642501,
     "wof:name":"Quality Technique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-104.754799,47.10386,-104.754799,47.10386],
-  "geometry": {"coordinates":[-104.754799,47.10386],"type":"Point"}
+  "bbox": [
+    -104.754799,
+    47.10386,
+    -104.754799,
+    47.10386
+],
+  "geometry": {"coordinates":[-104.75479900000001,47.10386],"type":"Point"}
 }

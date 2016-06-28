@@ -2,13 +2,14 @@
   "id": 186128555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.338896,48.204335,-114.338896,48.204335",
     "geom:latitude":48.204335,
     "geom:longitude":-114.338896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Cooper Ln",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186128555,
-    "wof:lastmodified":1449051410,
+    "wof:lastmodified":1466642087,
     "wof:name":"West Wind Village Apartments",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-114.338896,48.204335,-114.338896,48.204335],
-  "geometry": {"coordinates":[-114.338896,48.204335],"type":"Point"}
+  "bbox": [
+    -114.338896,
+    48.204335,
+    -114.338896,
+    48.204335
+],
+  "geometry": {"coordinates":[-114.33889600000001,48.204335],"type":"Point"}
 }

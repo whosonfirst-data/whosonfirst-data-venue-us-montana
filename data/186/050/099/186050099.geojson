@@ -2,13 +2,14 @@
   "id": 186050099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.209847,46.410824,-114.209847,46.410824",
     "geom:latitude":46.410824,
     "geom:longitude":-114.209847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Wild Rose Ln",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186050099,
-    "wof:lastmodified":1449051858,
+    "wof:lastmodified":1466641818,
     "wof:name":"Maglia Aggregate Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.209847,46.410824,-114.209847,46.410824],
+  "bbox": [
+    -114.209847,
+    46.410824,
+    -114.209847,
+    46.410824
+],
   "geometry": {"coordinates":[-114.209847,46.410824],"type":"Point"}
 }

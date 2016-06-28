@@ -2,13 +2,14 @@
   "id": 186038895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.164826,47.710133,-104.164826,47.710133",
     "geom:latitude":47.710133,
     "geom:longitude":-104.164826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 7th Ave SW",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186038895,
-    "wof:lastmodified":1449052098,
+    "wof:lastmodified":1466641996,
     "wof:name":"Sidney City Water Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-104.164826,47.710133,-104.164826,47.710133],
-  "geometry": {"coordinates":[-104.164826,47.710133],"type":"Point"}
+  "bbox": [
+    -104.164826,
+    47.710133,
+    -104.164826,
+    47.710133
+],
+  "geometry": {"coordinates":[-104.16482600000001,47.710133],"type":"Point"}
 }

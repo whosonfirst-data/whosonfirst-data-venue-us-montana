@@ -2,13 +2,14 @@
   "id": 169731161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.150088,46.338963,-114.150088,46.338963",
     "geom:latitude":46.338963,
     "geom:longitude":-114.150088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1344 US Hwy 93",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169731161,
-    "wof:lastmodified":1449035585,
+    "wof:lastmodified":1466641163,
     "wof:name":"Pioneer Log Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "handcrafted"
     ]
 },
-  "bbox": [-114.150088,46.338963,-114.150088,46.338963],
+  "bbox": [
+    -114.150088,
+    46.338963,
+    -114.150088,
+    46.338963
+],
   "geometry": {"coordinates":[-114.150088,46.338963],"type":"Point"}
 }

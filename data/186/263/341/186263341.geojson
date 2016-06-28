@@ -2,13 +2,14 @@
   "id": 186263341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576229,45.76529,-108.576229,45.76529",
     "geom:latitude":45.76529,
     "geom:longitude":-108.576229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 S 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186263341,
-    "wof:lastmodified":1449052956,
+    "wof:lastmodified":1466642547,
     "wof:name":"J C Penney Optical",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.576229,45.76529,-108.576229,45.76529],
+  "bbox": [
+    -108.576229,
+    45.76529,
+    -108.576229,
+    45.76529
+],
   "geometry": {"coordinates":[-108.576229,45.76529],"type":"Point"}
 }

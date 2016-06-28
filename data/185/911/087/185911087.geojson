@@ -2,13 +2,14 @@
   "id": 185911087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.526562,46.002609,-112.526562,46.002609",
     "geom:latitude":46.002609,
     "geom:longitude":-112.526562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1134 Utah Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185911087,
-    "wof:lastmodified":1449007969,
+    "wof:lastmodified":1466641649,
     "wof:name":"Wild Willow",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.526562,46.002609,-112.526562,46.002609],
+  "bbox": [
+    -112.526562,
+    46.002609,
+    -112.526562,
+    46.002609
+],
   "geometry": {"coordinates":[-112.526562,46.002609],"type":"Point"}
 }

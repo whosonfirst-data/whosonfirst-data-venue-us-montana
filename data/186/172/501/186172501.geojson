@@ -2,13 +2,14 @@
   "id": 186172501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.536106,48.419844,-104.536106,48.419844",
     "geom:latitude":48.419844,
     "geom:longitude":-104.536106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 2nd Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186172501,
-    "wof:lastmodified":1449051453,
+    "wof:lastmodified":1466642162,
     "wof:name":"Ross D Flagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "research"
     ]
 },
-  "bbox": [-104.536106,48.419844,-104.536106,48.419844],
+  "bbox": [
+    -104.536106,
+    48.419844,
+    -104.536106,
+    48.419844
+],
   "geometry": {"coordinates":[-104.536106,48.419844],"type":"Point"}
 }

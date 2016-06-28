@@ -2,13 +2,14 @@
   "id": 186170187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049387,46.624016,-112.049387,46.624016",
     "geom:latitude":46.624016,
     "geom:longitude":-112.049387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Horseshoe Bend Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186170187,
-    "wof:lastmodified":1449050489,
+    "wof:lastmodified":1466642371,
     "wof:name":"D & S Diversified Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-112.049387,46.624016,-112.049387,46.624016],
+  "bbox": [
+    -112.049387,
+    46.624016,
+    -112.049387,
+    46.624016
+],
   "geometry": {"coordinates":[-112.049387,46.624016],"type":"Point"}
 }

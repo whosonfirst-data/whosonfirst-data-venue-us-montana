@@ -2,13 +2,14 @@
   "id": 186122287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.029984,46.848881,-114.029984,46.848881",
     "geom:latitude":46.848881,
     "geom:longitude":-114.029984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 South Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186122287,
-    "wof:lastmodified":1449051899,
+    "wof:lastmodified":1466642073,
     "wof:name":"Howards Pizza Villa Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-114.029984,46.848881,-114.029984,46.848881],
+  "bbox": [
+    -114.029984,
+    46.848881,
+    -114.029984,
+    46.848881
+],
   "geometry": {"coordinates":[-114.029984,46.848881],"type":"Point"}
 }

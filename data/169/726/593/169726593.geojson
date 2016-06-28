@@ -2,13 +2,14 @@
   "id": 169726593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.512969,47.771086,-105.512969,47.771086",
     "geom:latitude":47.771086,
     "geom:longitude":-105.512969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 L-N Rd",
     "sg:city":"Vida",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169726593,
-    "wof:lastmodified":1449034955,
+    "wof:lastmodified":1466641739,
     "wof:name":"D Bar R Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.512969,47.771086,-105.512969,47.771086],
+  "bbox": [
+    -105.512969,
+    47.771086,
+    -105.512969,
+    47.771086
+],
   "geometry": {"coordinates":[-105.512969,47.771086],"type":"Point"}
 }

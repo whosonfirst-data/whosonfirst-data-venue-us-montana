@@ -2,13 +2,14 @@
   "id": 186063511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.110231,46.311701,-114.110231,46.311701",
     "geom:latitude":46.311701,
     "geom:longitude":-114.110231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1059 Tefft St",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186063511,
-    "wof:lastmodified":1449050478,
+    "wof:lastmodified":1466641852,
     "wof:name":"Exhale Personal Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "miscellaneous"
     ]
 },
-  "bbox": [-114.110231,46.311701,-114.110231,46.311701],
+  "bbox": [
+    -114.110231,
+    46.311701,
+    -114.110231,
+    46.311701
+],
   "geometry": {"coordinates":[-114.110231,46.311701],"type":"Point"}
 }

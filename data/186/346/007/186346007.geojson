@@ -2,13 +2,14 @@
   "id": 186346007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.705903,45.342376,-111.705903,45.342376",
     "geom:latitude":45.342376,
     "geom:longitude":-111.705903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Jeffers Rd",
     "sg:city":"Ennis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186346007,
-    "wof:lastmodified":1449050240,
+    "wof:lastmodified":1466642549,
     "wof:name":"Jeffers Inn",
     "wof:parent_id":85851385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-111.705903,45.342376,-111.705903,45.342376],
-  "geometry": {"coordinates":[-111.705903,45.342376],"type":"Point"}
+  "bbox": [
+    -111.705903,
+    45.342376,
+    -111.705903,
+    45.342376
+],
+  "geometry": {"coordinates":[-111.70590300000001,45.342376],"type":"Point"}
 }

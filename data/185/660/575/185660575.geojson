@@ -2,13 +2,14 @@
   "id": 185660575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.506122,45.773389,-108.506122,45.773389",
     "geom:latitude":45.773389,
     "geom:longitude":-108.506122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 S 33rd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185660575,
-    "wof:lastmodified":1449008055,
+    "wof:lastmodified":1466641379,
     "wof:name":"Irma House",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-108.506122,45.773389,-108.506122,45.773389],
+  "bbox": [
+    -108.506122,
+    45.773389,
+    -108.506122,
+    45.773389
+],
   "geometry": {"coordinates":[-108.506122,45.773389],"type":"Point"}
 }

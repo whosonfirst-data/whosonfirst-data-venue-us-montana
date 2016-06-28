@@ -2,13 +2,14 @@
   "id": 186154433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.345729,47.476937,-111.345729,47.476937",
     "geom:latitude":47.476937,
     "geom:longitude":-111.345729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 Greenbriar Dr",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186154433,
-    "wof:lastmodified":1449053056,
+    "wof:lastmodified":1466642128,
     "wof:name":"Bgo Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-111.345729,47.476937,-111.345729,47.476937],
-  "geometry": {"coordinates":[-111.345729,47.476937],"type":"Point"}
+  "bbox": [
+    -111.345729,
+    47.476937,
+    -111.345729,
+    47.476937
+],
+  "geometry": {"coordinates":[-111.34572900000001,47.476937],"type":"Point"}
 }

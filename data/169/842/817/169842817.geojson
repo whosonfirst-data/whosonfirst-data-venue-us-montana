@@ -2,13 +2,14 @@
   "id": 169842817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.656836,48.22245,-106.656836,48.22245",
     "geom:latitude":48.22245,
     "geom:longitude":-106.656836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Scotsman Dr",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169842817,
-    "wof:lastmodified":1449032921,
+    "wof:lastmodified":1466641321,
     "wof:name":"Probst Cleaning Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "carpet"
     ]
 },
-  "bbox": [-106.656836,48.22245,-106.656836,48.22245],
+  "bbox": [
+    -106.656836,
+    48.22245,
+    -106.656836,
+    48.22245
+],
   "geometry": {"coordinates":[-106.656836,48.22245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186167389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.299822,46.719475,-113.299822,46.719475",
     "geom:latitude":46.719475,
     "geom:longitude":-113.299822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Frontage Rd W",
     "sg:city":"Drummond",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186167389,
-    "wof:lastmodified":1449051765,
+    "wof:lastmodified":1466642145,
     "wof:name":"Mountain Line Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-113.299822,46.719475,-113.299822,46.719475],
-  "geometry": {"coordinates":[-113.299822,46.719475],"type":"Point"}
+  "bbox": [
+    -113.299822,
+    46.719475,
+    -113.299822,
+    46.719475
+],
+  "geometry": {"coordinates":[-113.29982200000001,46.719475],"type":"Point"}
 }

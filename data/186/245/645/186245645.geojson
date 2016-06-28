@@ -2,13 +2,14 @@
   "id": 186245645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.462274,48.37496,-114.462274,48.37496",
     "geom:latitude":48.37496,
     "geom:longitude":-114.462274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5955 Farm To Market Rd",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186245645,
-    "wof:lastmodified":1449052947,
+    "wof:lastmodified":1466642522,
     "wof:name":"Bissell Middle/Olney",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-114.462274,48.37496,-114.462274,48.37496],
-  "geometry": {"coordinates":[-114.462274,48.37496],"type":"Point"}
+  "bbox": [
+    -114.462274,
+    48.37496,
+    -114.462274,
+    48.37496
+],
+  "geometry": {"coordinates":[-114.46227399999999,48.37496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186104697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.60588,45.733439,-107.60588,45.733439",
     "geom:latitude":45.733439,
     "geom:longitude":-107.60588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 N Center Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186104697,
-    "wof:lastmodified":1449051484,
+    "wof:lastmodified":1466641809,
     "wof:name":"Longhorn Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-107.60588,45.733439,-107.60588,45.733439],
+  "bbox": [
+    -107.60588,
+    45.733439,
+    -107.60588,
+    45.733439
+],
   "geometry": {"coordinates":[-107.60588,45.733439],"type":"Point"}
 }

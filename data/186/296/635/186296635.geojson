@@ -2,13 +2,14 @@
   "id": 186296635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.563418,45.782265,-108.563418,45.782265",
     "geom:latitude":45.782265,
     "geom:longitude":-108.563418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1834 Belvedere Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186296635,
-    "wof:lastmodified":1449052513,
+    "wof:lastmodified":1466642612,
     "wof:name":"Billings Window & Siding Specs",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.563418,45.782265,-108.563418,45.782265],
+  "bbox": [
+    -108.563418,
+    45.782265,
+    -108.563418,
+    45.782265
+],
   "geometry": {"coordinates":[-108.563418,45.782265],"type":"Point"}
 }

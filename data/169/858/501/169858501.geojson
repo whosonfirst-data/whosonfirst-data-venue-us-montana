@@ -2,13 +2,14 @@
   "id": 169858501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.489212,48.457371,-114.489212,48.457371",
     "geom:latitude":48.457371,
     "geom:longitude":-114.489212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5121 US Hwy 93",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169858501,
-    "wof:lastmodified":1449032998,
+    "wof:lastmodified":1466641348,
     "wof:name":"KOA Kampground",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-114.489212,48.457371,-114.489212,48.457371],
-  "geometry": {"coordinates":[-114.489212,48.457371],"type":"Point"}
+  "bbox": [
+    -114.489212,
+    48.457371,
+    -114.489212,
+    48.457371
+],
+  "geometry": {"coordinates":[-114.48921199999999,48.457371],"type":"Point"}
 }

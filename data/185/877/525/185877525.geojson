@@ -2,13 +2,14 @@
   "id": 185877525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.640677,48.090072,-105.640677,48.090072",
     "geom:latitude":48.090072,
     "geom:longitude":-105.640677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S 3rd Ave",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185877525,
-    "wof:lastmodified":1449007732,
+    "wof:lastmodified":1466641612,
     "wof:name":"HI Line Home Programs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "human"
     ]
 },
-  "bbox": [-105.640677,48.090072,-105.640677,48.090072],
+  "bbox": [
+    -105.640677,
+    48.090072,
+    -105.640677,
+    48.090072
+],
   "geometry": {"coordinates":[-105.640677,48.090072],"type":"Point"}
 }

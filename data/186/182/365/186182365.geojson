@@ -2,13 +2,14 @@
   "id": 186182365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.714587,47.107259,-104.714587,47.107259",
     "geom:latitude":47.107259,
     "geom:longitude":-104.714587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 N Meade Ave",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186182365,
-    "wof:lastmodified":1449052068,
+    "wof:lastmodified":1466642171,
     "wof:name":"K R Zuroff Optometry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.714587,47.107259,-104.714587,47.107259],
-  "geometry": {"coordinates":[-104.714587,47.107259],"type":"Point"}
+  "bbox": [
+    -104.714587,
+    47.107259,
+    -104.714587,
+    47.107259
+],
+  "geometry": {"coordinates":[-104.71458699999999,47.107259],"type":"Point"}
 }

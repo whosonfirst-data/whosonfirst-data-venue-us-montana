@@ -2,13 +2,14 @@
   "id": 186190663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.27466,48.208029,-114.27466,48.208029",
     "geom:latitude":48.208029,
     "geom:longitude":-114.27466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 Conrad Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186190663,
-    "wof:lastmodified":1449052863,
+    "wof:lastmodified":1466642502,
     "wof:name":"Flathead Auto Source Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-114.27466,48.208029,-114.27466,48.208029],
+  "bbox": [
+    -114.27466,
+    48.208029,
+    -114.27466,
+    48.208029
+],
   "geometry": {"coordinates":[-114.27466,48.208029],"type":"Point"}
 }

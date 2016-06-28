@@ -2,13 +2,14 @@
   "id": 169701033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.490103,45.915469,-112.490103,45.915469",
     "geom:latitude":45.915469,
     "geom:longitude":-112.490103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Janney Rd",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169701033,
-    "wof:lastmodified":1449035270,
+    "wof:lastmodified":1466641153,
     "wof:name":"Dean Naylor Group",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-112.490103,45.915469,-112.490103,45.915469],
+  "bbox": [
+    -112.490103,
+    45.915469,
+    -112.490103,
+    45.915469
+],
   "geometry": {"coordinates":[-112.490103,45.915469],"type":"Point"}
 }

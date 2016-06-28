@@ -2,13 +2,14 @@
   "id": 186404759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.542252,45.769797,-108.542252,45.769797",
     "geom:latitude":45.769797,
     "geom:longitude":-108.542252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Central Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186404759,
-    "wof:lastmodified":1449052149,
+    "wof:lastmodified":1466642870,
     "wof:name":"Wagner's Mechanical Inc",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.542252,45.769797,-108.542252,45.769797],
+  "bbox": [
+    -108.542252,
+    45.769797,
+    -108.542252,
+    45.769797
+],
   "geometry": {"coordinates":[-108.542252,45.769797],"type":"Point"}
 }

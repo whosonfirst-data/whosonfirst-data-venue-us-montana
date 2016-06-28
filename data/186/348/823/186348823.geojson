@@ -2,13 +2,14 @@
   "id": 186348823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036172,46.585453,-112.036172,46.585453",
     "geom:latitude":46.585453,
     "geom:longitude":-112.036172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 E Broadway St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186348823,
-    "wof:lastmodified":1449050393,
+    "wof:lastmodified":1466642715,
     "wof:name":"Hunt Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-112.036172,46.585453,-112.036172,46.585453],
-  "geometry": {"coordinates":[-112.036172,46.585453],"type":"Point"}
+  "bbox": [
+    -112.036172,
+    46.585453,
+    -112.036172,
+    46.585453
+],
+  "geometry": {"coordinates":[-112.03617199999999,46.585453],"type":"Point"}
 }

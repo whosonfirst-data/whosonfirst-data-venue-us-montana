@@ -2,13 +2,14 @@
   "id": 185609917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.563116,45.67199,-110.563116,45.67199",
     "geom:latitude":45.67199,
     "geom:longitude":-110.563116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Ridgeway Dr",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185609917,
-    "wof:lastmodified":1449007209,
+    "wof:lastmodified":1466641194,
     "wof:name":"Interconnections",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.563116,45.67199,-110.563116,45.67199],
-  "geometry": {"coordinates":[-110.563116,45.67199],"type":"Point"}
+  "bbox": [
+    -110.563116,
+    45.67199,
+    -110.563116,
+    45.67199
+],
+  "geometry": {"coordinates":[-110.56311599999999,45.67199],"type":"Point"}
 }

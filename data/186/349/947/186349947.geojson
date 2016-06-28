@@ -2,13 +2,14 @@
   "id": 186349947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.551015,48.386072,-115.551015,48.386072",
     "geom:latitude":48.386072,
     "geom:longitude":-115.551015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Utah Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186349947,
-    "wof:lastmodified":1449051400,
+    "wof:lastmodified":1466642717,
     "wof:name":"Church of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.551015,48.386072,-115.551015,48.386072],
-  "geometry": {"coordinates":[-115.551015,48.386072],"type":"Point"}
+  "bbox": [
+    -115.551015,
+    48.386072,
+    -115.551015,
+    48.386072
+],
+  "geometry": {"coordinates":[-115.55101500000001,48.386072],"type":"Point"}
 }

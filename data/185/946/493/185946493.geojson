@@ -2,13 +2,14 @@
   "id": 185946493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.512957,45.956751,-112.512957,45.956751",
     "geom:latitude":45.956751,
     "geom:longitude":-112.512957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Sunset Rd",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185946493,
-    "wof:lastmodified":1449008026,
+    "wof:lastmodified":1466641703,
     "wof:name":"Silver Bow Mntessori Preschool",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-112.512957,45.956751,-112.512957,45.956751],
+  "bbox": [
+    -112.512957,
+    45.956751,
+    -112.512957,
+    45.956751
+],
   "geometry": {"coordinates":[-112.512957,45.956751],"type":"Point"}
 }

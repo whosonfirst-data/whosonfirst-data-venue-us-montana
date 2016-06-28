@@ -2,13 +2,14 @@
   "id": 186422307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01007,46.588974,-112.01007,46.588974",
     "geom:latitude":46.588974,
     "geom:longitude":-112.01007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1728 9th Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186422307,
-    "wof:lastmodified":1449050444,
+    "wof:lastmodified":1466642912,
     "wof:name":"Annaco Investment Mgmt & Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.01007,46.588974,-112.01007,46.588974],
+  "bbox": [
+    -112.01007,
+    46.588974,
+    -112.01007,
+    46.588974
+],
   "geometry": {"coordinates":[-112.01007,46.588974],"type":"Point"}
 }

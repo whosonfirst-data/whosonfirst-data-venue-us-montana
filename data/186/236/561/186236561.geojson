@@ -2,13 +2,14 @@
   "id": 186236561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.075739,46.864577,-114.075739,46.864577",
     "geom:latitude":46.864577,
     "geom:longitude":-114.075739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3828 S 6th St W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186236561,
-    "wof:lastmodified":1449050534,
+    "wof:lastmodified":1466642499,
     "wof:name":"Craft Plumbing",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.075739,46.864577,-114.075739,46.864577],
+  "bbox": [
+    -114.075739,
+    46.864577,
+    -114.075739,
+    46.864577
+],
   "geometry": {"coordinates":[-114.075739,46.864577],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186163691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.919218,47.983977,-113.919218,47.983977",
     "geom:latitude":47.983977,
     "geom:longitude":-113.919218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76001 State Hwy 83",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186163691,
-    "wof:lastmodified":1449052974,
+    "wof:lastmodified":1466642143,
     "wof:name":"Montana Trim Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "frame"
     ]
 },
-  "bbox": [-113.919218,47.983977,-113.919218,47.983977],
+  "bbox": [
+    -113.919218,
+    47.983977,
+    -113.919218,
+    47.983977
+],
   "geometry": {"coordinates":[-113.919218,47.983977],"type":"Point"}
 }

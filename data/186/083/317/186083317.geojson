@@ -2,13 +2,14 @@
   "id": 186083317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.341157,48.416795,-114.341157,48.416795",
     "geom:latitude":48.416795,
     "geom:longitude":-114.341157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Wisconsin Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186083317,
-    "wof:lastmodified":1449051651,
+    "wof:lastmodified":1466641759,
     "wof:name":"Kibo Group Architecture",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.341157,48.416795,-114.341157,48.416795],
+  "bbox": [
+    -114.341157,
+    48.416795,
+    -114.341157,
+    48.416795
+],
   "geometry": {"coordinates":[-114.341157,48.416795],"type":"Point"}
 }

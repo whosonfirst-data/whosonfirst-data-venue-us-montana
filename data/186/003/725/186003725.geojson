@@ -2,13 +2,14 @@
   "id": 186003725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.168136,47.471736,-114.168136,47.471736",
     "geom:latitude":47.471736,
     "geom:longitude":-114.168136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3368 Duck Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186003725,
-    "wof:lastmodified":1449052817,
+    "wof:lastmodified":1466641904,
     "wof:name":"Johnson Jaye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.168136,47.471736,-114.168136,47.471736],
+  "bbox": [
+    -114.168136,
+    47.471736,
+    -114.168136,
+    47.471736
+],
   "geometry": {"coordinates":[-114.168136,47.471736],"type":"Point"}
 }

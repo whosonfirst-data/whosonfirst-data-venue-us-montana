@@ -2,13 +2,14 @@
   "id": 185656759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.080911,46.852431,-114.080911,46.852431",
     "geom:latitude":46.852431,
     "geom:longitude":-114.080911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4004 North Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185656759,
-    "wof:lastmodified":1449007650,
+    "wof:lastmodified":1466641383,
     "wof:name":"Montana Central Vac",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-114.080911,46.852431,-114.080911,46.852431],
+  "bbox": [
+    -114.080911,
+    46.852431,
+    -114.080911,
+    46.852431
+],
   "geometry": {"coordinates":[-114.080911,46.852431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169778923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576167,45.77595,-108.576167,45.77595",
     "geom:latitude":45.77595,
     "geom:longitude":-108.576167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169778923,
-    "wof:lastmodified":1449032751,
+    "wof:lastmodified":1466641242,
     "wof:name":"Golden Phoenix West Inc",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-108.576167,45.77595,-108.576167,45.77595],
+  "bbox": [
+    -108.576167,
+    45.77595,
+    -108.576167,
+    45.77595
+],
   "geometry": {"coordinates":[-108.576167,45.77595],"type":"Point"}
 }

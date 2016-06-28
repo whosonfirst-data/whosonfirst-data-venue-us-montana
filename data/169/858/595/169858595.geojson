@@ -2,13 +2,14 @@
   "id": 169858595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.542291,45.765449,-108.542291,45.765449",
     "geom:latitude":45.765449,
     "geom:longitude":-108.542291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169858595,
-    "wof:lastmodified":1449032996,
+    "wof:lastmodified":1466641349,
     "wof:name":"Eastern Montana Landlords Assn",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-108.542291,45.765449,-108.542291,45.765449],
-  "geometry": {"coordinates":[-108.542291,45.765449],"type":"Point"}
+  "bbox": [
+    -108.542291,
+    45.765449,
+    -108.542291,
+    45.765449
+],
+  "geometry": {"coordinates":[-108.54229100000001,45.765449],"type":"Point"}
 }

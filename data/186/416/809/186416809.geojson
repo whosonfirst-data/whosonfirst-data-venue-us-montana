@@ -2,13 +2,14 @@
   "id": 186416809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.542289,45.765214,-108.542289,45.765214",
     "geom:latitude":45.765214,
     "geom:longitude":-108.542289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186416809,
-    "wof:lastmodified":1449051582,
+    "wof:lastmodified":1466642893,
     "wof:name":"Montana International Supply",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mining"
     ]
 },
-  "bbox": [-108.542289,45.765214,-108.542289,45.765214],
+  "bbox": [
+    -108.542289,
+    45.765214,
+    -108.542289,
+    45.765214
+],
   "geometry": {"coordinates":[-108.542289,45.765214],"type":"Point"}
 }

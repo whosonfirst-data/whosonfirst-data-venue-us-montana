@@ -2,13 +2,14 @@
   "id": 186249671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.693803,45.726056,-108.693803,45.726056",
     "geom:latitude":45.726056,
     "geom:longitude":-108.693803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6848 Neibauer Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186249671,
-    "wof:lastmodified":1449050406,
+    "wof:lastmodified":1466642685,
     "wof:name":"West End Sand and Gravel",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-108.693803,45.726056,-108.693803,45.726056],
+  "bbox": [
+    -108.693803,
+    45.726056,
+    -108.693803,
+    45.726056
+],
   "geometry": {"coordinates":[-108.693803,45.726056],"type":"Point"}
 }

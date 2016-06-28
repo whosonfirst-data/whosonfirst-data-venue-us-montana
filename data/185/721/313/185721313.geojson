@@ -2,13 +2,14 @@
   "id": 185721313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.848125,46.40486,-105.848125,46.40486",
     "geom:latitude":46.40486,
     "geom:longitude":-105.848125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S 7th St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185721313,
-    "wof:lastmodified":1449008205,
+    "wof:lastmodified":1466641442,
     "wof:name":"Frame Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.848125,46.40486,-105.848125,46.40486],
+  "bbox": [
+    -105.848125,
+    46.40486,
+    -105.848125,
+    46.40486
+],
   "geometry": {"coordinates":[-105.848125,46.40486],"type":"Point"}
 }

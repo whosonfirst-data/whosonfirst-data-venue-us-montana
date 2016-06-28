@@ -2,13 +2,14 @@
   "id": 186437063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.395768,45.815365,-108.395768,45.815365",
     "geom:latitude":45.815365,
     "geom:longitude":-108.395768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 Carmel Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186437063,
-    "wof:lastmodified":1449052298,
+    "wof:lastmodified":1466642853,
     "wof:name":"Drapery Cottage",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-108.395768,45.815365,-108.395768,45.815365],
+  "bbox": [
+    -108.395768,
+    45.815365,
+    -108.395768,
+    45.815365
+],
   "geometry": {"coordinates":[-108.395768,45.815365],"type":"Point"}
 }

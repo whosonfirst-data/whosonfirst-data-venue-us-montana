@@ -2,13 +2,14 @@
   "id": 185900393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.348859,45.927187,-108.348859,45.927187",
     "geom:latitude":45.927187,
     "geom:longitude":-108.348859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7033 Bronco Rd",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185900393,
-    "wof:lastmodified":1449007303,
+    "wof:lastmodified":1466641635,
     "wof:name":"Triple R Svc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.348859,45.927187,-108.348859,45.927187],
+  "bbox": [
+    -108.348859,
+    45.927187,
+    -108.348859,
+    45.927187
+],
   "geometry": {"coordinates":[-108.348859,45.927187],"type":"Point"}
 }

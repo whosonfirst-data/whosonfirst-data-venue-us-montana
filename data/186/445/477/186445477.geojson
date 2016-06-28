@@ -2,13 +2,14 @@
   "id": 186445477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.03419,46.849641,-114.03419,46.849641",
     "geom:latitude":46.849641,
     "geom:longitude":-114.03419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 W Sussex Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186445477,
-    "wof:lastmodified":1449050667,
+    "wof:lastmodified":1466643104,
     "wof:name":"A D Sharbono Trucking",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.03419,46.849641,-114.03419,46.849641],
+  "bbox": [
+    -114.03419,
+    46.849641,
+    -114.03419,
+    46.849641
+],
   "geometry": {"coordinates":[-114.03419,46.849641],"type":"Point"}
 }

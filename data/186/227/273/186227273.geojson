@@ -2,13 +2,14 @@
   "id": 186227273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.641285,45.21171,-112.641285,45.21171",
     "geom:latitude":45.21171,
     "geom:longitude":-112.641285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 S Washington St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186227273,
-    "wof:lastmodified":1449050982,
+    "wof:lastmodified":1466642216,
     "wof:name":"Cornell Fertilizer Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.641285,45.21171,-112.641285,45.21171],
+  "bbox": [
+    -112.641285,
+    45.21171,
+    -112.641285,
+    45.21171
+],
   "geometry": {"coordinates":[-112.641285,45.21171],"type":"Point"}
 }

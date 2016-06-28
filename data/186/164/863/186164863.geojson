@@ -2,13 +2,14 @@
   "id": 186164863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.412309,45.443514,-105.412309,45.443514",
     "geom:latitude":45.443514,
     "geom:longitude":-105.412309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Holt St",
     "sg:city":"Broadus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186164863,
-    "wof:lastmodified":1449050570,
+    "wof:lastmodified":1466642147,
     "wof:name":"Chuck's Fast Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.412309,45.443514,-105.412309,45.443514],
-  "geometry": {"coordinates":[-105.412309,45.443514],"type":"Point"}
+  "bbox": [
+    -105.412309,
+    45.443514,
+    -105.412309,
+    45.443514
+],
+  "geometry": {"coordinates":[-105.41230899999999,45.443514],"type":"Point"}
 }

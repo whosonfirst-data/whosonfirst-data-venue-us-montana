@@ -2,13 +2,14 @@
   "id": 186032551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.164712,47.70451,-104.164712,47.70451",
     "geom:latitude":47.70451,
     "geom:longitude":-104.164712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 S Central Ave",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186032551,
-    "wof:lastmodified":1449051688,
+    "wof:lastmodified":1466641655,
     "wof:name":"Sidney Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-104.164712,47.70451,-104.164712,47.70451],
-  "geometry": {"coordinates":[-104.164712,47.70451],"type":"Point"}
+  "bbox": [
+    -104.164712,
+    47.70451,
+    -104.164712,
+    47.70451
+],
+  "geometry": {"coordinates":[-104.16471199999999,47.70451],"type":"Point"}
 }

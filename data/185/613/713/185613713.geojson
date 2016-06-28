@@ -2,13 +2,14 @@
   "id": 185613713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.645383,48.097239,-105.645383,48.097239",
     "geom:latitude":48.097239,
     "geom:longitude":-105.645383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Garfield St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185613713,
-    "wof:lastmodified":1449007364,
+    "wof:lastmodified":1466641199,
     "wof:name":"Herman Shumway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-105.645383,48.097239,-105.645383,48.097239],
+  "bbox": [
+    -105.645383,
+    48.097239,
+    -105.645383,
+    48.097239
+],
   "geometry": {"coordinates":[-105.645383,48.097239],"type":"Point"}
 }

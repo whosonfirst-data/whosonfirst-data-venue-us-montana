@@ -2,13 +2,14 @@
   "id": 185838431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.022123,46.859424,-114.022123,46.859424",
     "geom:latitude":46.859424,
     "geom:longitude":-114.022123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 S 11th St W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185838431,
-    "wof:lastmodified":1449006795,
+    "wof:lastmodified":1466641572,
     "wof:name":"Allegany Consulting Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-114.022123,46.859424,-114.022123,46.859424],
-  "geometry": {"coordinates":[-114.022123,46.859424],"type":"Point"}
+  "bbox": [
+    -114.022123,
+    46.859424,
+    -114.022123,
+    46.859424
+],
+  "geometry": {"coordinates":[-114.02212299999999,46.859424],"type":"Point"}
 }

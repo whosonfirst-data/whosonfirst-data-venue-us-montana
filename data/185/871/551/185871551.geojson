@@ -2,13 +2,14 @@
   "id": 185871551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.195477,48.110839,-105.195477,48.110839",
     "geom:latitude":48.110839,
     "geom:longitude":-105.195477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 1st Ave W",
     "sg:city":"Poplar",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185871551,
-    "wof:lastmodified":1449007117,
+    "wof:lastmodified":1466641607,
     "wof:name":"Tande Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-105.195477,48.110839,-105.195477,48.110839],
+  "bbox": [
+    -105.195477,
+    48.110839,
+    -105.195477,
+    48.110839
+],
   "geometry": {"coordinates":[-105.195477,48.110839],"type":"Point"}
 }

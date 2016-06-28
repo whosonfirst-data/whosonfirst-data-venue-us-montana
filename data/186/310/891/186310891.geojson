@@ -2,13 +2,14 @@
   "id": 186310891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.515077,45.769808,-108.515077,45.769808",
     "geom:latitude":45.769808,
     "geom:longitude":-108.515077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4141 State Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186310891,
-    "wof:lastmodified":1449052014,
+    "wof:lastmodified":1466642642,
     "wof:name":"Smith Marketing Co",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-108.515077,45.769808,-108.515077,45.769808],
-  "geometry": {"coordinates":[-108.515077,45.769808],"type":"Point"}
+  "bbox": [
+    -108.515077,
+    45.769808,
+    -108.515077,
+    45.769808
+],
+  "geometry": {"coordinates":[-108.51507700000001,45.769808],"type":"Point"}
 }

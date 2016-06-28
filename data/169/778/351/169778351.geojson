@@ -2,13 +2,14 @@
   "id": 169778351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.156435,46.25338,-114.156435,46.25338",
     "geom:latitude":46.25338,
     "geom:longitude":-114.156435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169778351,
-    "wof:lastmodified":1449032751,
+    "wof:lastmodified":1466641235,
     "wof:name":"United Building Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-114.156435,46.25338,-114.156435,46.25338],
+  "bbox": [
+    -114.156435,
+    46.25338,
+    -114.156435,
+    46.25338
+],
   "geometry": {"coordinates":[-114.156435,46.25338],"type":"Point"}
 }

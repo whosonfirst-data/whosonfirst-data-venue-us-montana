@@ -2,13 +2,14 @@
   "id": 186022625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.497118,45.777365,-108.497118,45.777365",
     "geom:latitude":45.777365,
     "geom:longitude":-108.497118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 5th Ave S",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186022625,
-    "wof:lastmodified":1449051284,
+    "wof:lastmodified":1466641492,
     "wof:name":"Walla Walla College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-108.497118,45.777365,-108.497118,45.777365],
+  "bbox": [
+    -108.497118,
+    45.777365,
+    -108.497118,
+    45.777365
+],
   "geometry": {"coordinates":[-108.497118,45.777365],"type":"Point"}
 }

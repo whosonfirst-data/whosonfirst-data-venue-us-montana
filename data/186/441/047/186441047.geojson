@@ -2,13 +2,14 @@
   "id": 186441047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.585503,45.657786,-110.585503,45.657786",
     "geom:latitude":45.657786,
     "geom:longitude":-110.585503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 E Milky Way Dr",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186441047,
-    "wof:lastmodified":1449050455,
+    "wof:lastmodified":1466642984,
     "wof:name":"Weimer Construction Inc",
     "wof:parent_id":85867995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-110.585503,45.657786,-110.585503,45.657786],
+  "bbox": [
+    -110.585503,
+    45.657786,
+    -110.585503,
+    45.657786
+],
   "geometry": {"coordinates":[-110.585503,45.657786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169757815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.630697,45.209789,-112.630697,45.209789",
     "geom:latitude":45.209789,
     "geom:longitude":-112.630697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 S Nevada St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169757815,
-    "wof:lastmodified":1449034549,
+    "wof:lastmodified":1466641201,
     "wof:name":"Donald D Murray",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "forest"
     ]
 },
-  "bbox": [-112.630697,45.209789,-112.630697,45.209789],
+  "bbox": [
+    -112.630697,
+    45.209789,
+    -112.630697,
+    45.209789
+],
   "geometry": {"coordinates":[-112.630697,45.209789],"type":"Point"}
 }

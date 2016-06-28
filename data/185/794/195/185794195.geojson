@@ -2,13 +2,14 @@
   "id": 185794195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.007717,45.74603,-111.007717,45.74603",
     "geom:latitude":45.74603,
     "geom:longitude":-111.007717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8895 Sypes Canyon Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185794195,
-    "wof:lastmodified":1449007393,
+    "wof:lastmodified":1466641519,
     "wof:name":"Sypes Canyon Subdivision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.007717,45.74603,-111.007717,45.74603],
+  "bbox": [
+    -111.007717,
+    45.74603,
+    -111.007717,
+    45.74603
+],
   "geometry": {"coordinates":[-111.007717,45.74603],"type":"Point"}
 }

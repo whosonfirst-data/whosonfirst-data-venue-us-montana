@@ -2,13 +2,14 @@
   "id": 186125853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.530243,45.772052,-108.530243,45.772052",
     "geom:latitude":45.772052,
     "geom:longitude":-108.530243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Cook Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186125853,
-    "wof:lastmodified":1449052945,
+    "wof:lastmodified":1466642088,
     "wof:name":"Alcoholics Anonymous 644 Group",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-108.530243,45.772052,-108.530243,45.772052],
+  "bbox": [
+    -108.530243,
+    45.772052,
+    -108.530243,
+    45.772052
+],
   "geometry": {"coordinates":[-108.530243,45.772052],"type":"Point"}
 }

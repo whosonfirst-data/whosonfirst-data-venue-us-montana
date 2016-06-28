@@ -2,13 +2,14 @@
   "id": 186214569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.06936,46.486754,-114.06936,46.486754",
     "geom:latitude":46.486754,
     "geom:longitude":-114.06936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Pine Hollow Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186214569,
-    "wof:lastmodified":1449052953,
+    "wof:lastmodified":1466642373,
     "wof:name":"Our Savior Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.06936,46.486754,-114.06936,46.486754],
+  "bbox": [
+    -114.06936,
+    46.486754,
+    -114.06936,
+    46.486754
+],
   "geometry": {"coordinates":[-114.06936,46.486754],"type":"Point"}
 }

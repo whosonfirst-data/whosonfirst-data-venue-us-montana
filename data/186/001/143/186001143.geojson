@@ -2,13 +2,14 @@
   "id": 186001143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.583834,47.422634,-105.583834,47.422634",
     "geom:latitude":47.422634,
     "geom:longitude":-105.583834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 la Valley St",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186001143,
-    "wof:lastmodified":1449051009,
+    "wof:lastmodified":1466641215,
     "wof:name":"Big Muddy Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.583834,47.422634,-105.583834,47.422634],
+  "bbox": [
+    -105.583834,
+    47.422634,
+    -105.583834,
+    47.422634
+],
   "geometry": {"coordinates":[-105.583834,47.422634],"type":"Point"}
 }

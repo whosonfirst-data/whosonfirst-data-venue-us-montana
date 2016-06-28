@@ -2,13 +2,14 @@
   "id": 185670221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.518136,45.97179,-112.518136,45.97179",
     "geom:latitude":45.97179,
     "geom:longitude":-112.518136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Browning St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185670221,
-    "wof:lastmodified":1449006848,
+    "wof:lastmodified":1466641385,
     "wof:name":"Goose Mill Const",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-112.518136,45.97179,-112.518136,45.97179],
+  "bbox": [
+    -112.518136,
+    45.97179,
+    -112.518136,
+    45.97179
+],
   "geometry": {"coordinates":[-112.518136,45.97179],"type":"Point"}
 }

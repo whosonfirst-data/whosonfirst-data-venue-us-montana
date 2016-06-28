@@ -2,13 +2,14 @@
   "id": 186113783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.627753,45.740545,-108.627753,45.740545",
     "geom:latitude":45.740545,
     "geom:longitude":-108.627753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4014 Hesper Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186113783,
-    "wof:lastmodified":1449052799,
+    "wof:lastmodified":1466641888,
     "wof:name":"JTL Group Inc",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.627753,45.740545,-108.627753,45.740545],
+  "bbox": [
+    -108.627753,
+    45.740545,
+    -108.627753,
+    45.740545
+],
   "geometry": {"coordinates":[-108.627753,45.740545],"type":"Point"}
 }

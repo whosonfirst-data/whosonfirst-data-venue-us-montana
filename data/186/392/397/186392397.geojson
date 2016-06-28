@@ -2,13 +2,14 @@
   "id": 186392397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.181479,46.24955,-114.181479,46.24955",
     "geom:latitude":46.24955,
     "geom:longitude":-114.181479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ricketts Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186392397,
-    "wof:lastmodified":1449052479,
+    "wof:lastmodified":1466642844,
     "wof:name":"Dutton's Restorables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "classic"
     ]
 },
-  "bbox": [-114.181479,46.24955,-114.181479,46.24955],
+  "bbox": [
+    -114.181479,
+    46.24955,
+    -114.181479,
+    46.24955
+],
   "geometry": {"coordinates":[-114.181479,46.24955],"type":"Point"}
 }

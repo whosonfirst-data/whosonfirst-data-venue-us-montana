@@ -2,13 +2,14 @@
   "id": 185598535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.995827,46.82867,-113.995827,46.82867",
     "geom:latitude":46.82867,
     "geom:longitude":-113.995827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Ben Hogan Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185598535,
-    "wof:lastmodified":1449006662,
+    "wof:lastmodified":1466641148,
     "wof:name":"JLW Productions",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-113.995827,46.82867,-113.995827,46.82867],
-  "geometry": {"coordinates":[-113.995827,46.82867],"type":"Point"}
+  "bbox": [
+    -113.995827,
+    46.82867,
+    -113.995827,
+    46.82867
+],
+  "geometry": {"coordinates":[-113.99582700000001,46.82867],"type":"Point"}
 }

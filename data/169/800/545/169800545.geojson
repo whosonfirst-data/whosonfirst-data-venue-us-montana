@@ -2,13 +2,14 @@
   "id": 169800545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.51466,45.972719,-112.51466,45.972719",
     "geom:latitude":45.972719,
     "geom:longitude":-112.51466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1461 Longfellow St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169800545,
-    "wof:lastmodified":1449032937,
+    "wof:lastmodified":1466641265,
     "wof:name":"Connie Edelen",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "typist"
     ]
 },
-  "bbox": [-112.51466,45.972719,-112.51466,45.972719],
-  "geometry": {"coordinates":[-112.51466,45.972719],"type":"Point"}
+  "bbox": [
+    -112.51466,
+    45.972719,
+    -112.51466,
+    45.972719
+],
+  "geometry": {"coordinates":[-112.51466000000001,45.972719],"type":"Point"}
 }

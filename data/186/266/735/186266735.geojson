@@ -2,13 +2,14 @@
   "id": 186266735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.309078,48.238388,-114.309078,48.238388",
     "geom:latitude":48.238388,
     "geom:longitude":-114.309078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Country Way",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186266735,
-    "wof:lastmodified":1449050352,
+    "wof:lastmodified":1466642276,
     "wof:name":"Turnkey Mechanical Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "conveyor"
     ]
 },
-  "bbox": [-114.309078,48.238388,-114.309078,48.238388],
+  "bbox": [
+    -114.309078,
+    48.238388,
+    -114.309078,
+    48.238388
+],
   "geometry": {"coordinates":[-114.309078,48.238388],"type":"Point"}
 }

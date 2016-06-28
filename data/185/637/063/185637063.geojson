@@ -2,13 +2,14 @@
   "id": 185637063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049645,46.616281,-112.049645,46.616281",
     "geom:latitude":46.616281,
     "geom:longitude":-112.049645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Custer Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185637063,
-    "wof:lastmodified":1449006595,
+    "wof:lastmodified":1466641766,
     "wof:name":"Salon 2000",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.049645,46.616281,-112.049645,46.616281],
+  "bbox": [
+    -112.049645,
+    46.616281,
+    -112.049645,
+    46.616281
+],
   "geometry": {"coordinates":[-112.049645,46.616281],"type":"Point"}
 }

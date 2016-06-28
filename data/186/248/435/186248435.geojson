@@ -2,13 +2,14 @@
   "id": 186248435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.035306,46.828344,-114.035306,46.828344",
     "geom:latitude":46.828344,
     "geom:longitude":-114.035306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4718 23rd Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186248435,
-    "wof:lastmodified":1449051853,
+    "wof:lastmodified":1466642517,
     "wof:name":"Regional Accounting Office",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-114.035306,46.828344,-114.035306,46.828344],
-  "geometry": {"coordinates":[-114.035306,46.828344],"type":"Point"}
+  "bbox": [
+    -114.035306,
+    46.828344,
+    -114.035306,
+    46.828344
+],
+  "geometry": {"coordinates":[-114.03530600000001,46.828344],"type":"Point"}
 }

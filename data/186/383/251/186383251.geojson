@@ -2,13 +2,14 @@
   "id": 186383251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.001528,46.839931,-114.001528,46.839931",
     "geom:latitude":46.839931,
     "geom:longitude":-114.001528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 SW Higgins Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186383251,
-    "wof:lastmodified":1449051510,
+    "wof:lastmodified":1466642670,
     "wof:name":"Ginger Jar",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-114.001528,46.839931,-114.001528,46.839931],
-  "geometry": {"coordinates":[-114.001528,46.839931],"type":"Point"}
+  "bbox": [
+    -114.001528,
+    46.839931,
+    -114.001528,
+    46.839931
+],
+  "geometry": {"coordinates":[-114.00152799999999,46.839931],"type":"Point"}
 }

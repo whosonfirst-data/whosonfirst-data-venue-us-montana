@@ -2,13 +2,14 @@
   "id": 186434671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.097014,47.52486,-114.097014,47.52486",
     "geom:latitude":47.52486,
     "geom:longitude":-114.097014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 US Hwy 93",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186434671,
-    "wof:lastmodified":1449050975,
+    "wof:lastmodified":1466642951,
     "wof:name":"K Howie Hire Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "executive"
     ]
 },
-  "bbox": [-114.097014,47.52486,-114.097014,47.52486],
+  "bbox": [
+    -114.097014,
+    47.52486,
+    -114.097014,
+    47.52486
+],
   "geometry": {"coordinates":[-114.097014,47.52486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185680355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.435124,47.05662,-109.435124,47.05662",
     "geom:latitude":47.05662,
     "geom:longitude":-109.435124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 14th Ave S",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185680355,
-    "wof:lastmodified":1449007722,
+    "wof:lastmodified":1466641397,
     "wof:name":"R & R Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-109.435124,47.05662,-109.435124,47.05662],
+  "bbox": [
+    -109.435124,
+    47.05662,
+    -109.435124,
+    47.05662
+],
   "geometry": {"coordinates":[-109.435124,47.05662],"type":"Point"}
 }

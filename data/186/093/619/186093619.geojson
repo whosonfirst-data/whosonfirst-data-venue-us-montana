@@ -2,13 +2,14 @@
   "id": 186093619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.54062,46.013223,-112.54062,46.013223",
     "geom:latitude":46.013223,
     "geom:longitude":-112.54062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 N Idaho St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186093619,
-    "wof:lastmodified":1449050257,
+    "wof:lastmodified":1466641952,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-112.54062,46.013223,-112.54062,46.013223],
+  "bbox": [
+    -112.54062,
+    46.013223,
+    -112.54062,
+    46.013223
+],
   "geometry": {"coordinates":[-112.54062,46.013223],"type":"Point"}
 }

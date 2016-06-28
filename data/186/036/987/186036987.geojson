@@ -2,13 +2,14 @@
   "id": 186036987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.07581,45.787316,-111.07581,45.787316",
     "geom:latitude":45.787316,
     "geom:longitude":-111.07581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4510 E Baseline Rd",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186036987,
-    "wof:lastmodified":1449050995,
+    "wof:lastmodified":1466641794,
     "wof:name":"Dove Tail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.07581,45.787316,-111.07581,45.787316],
+  "bbox": [
+    -111.07581,
+    45.787316,
+    -111.07581,
+    45.787316
+],
   "geometry": {"coordinates":[-111.07581,45.787316],"type":"Point"}
 }

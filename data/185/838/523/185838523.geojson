@@ -2,13 +2,14 @@
   "id": 185838523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.957806,46.181651,-112.957806,46.181651",
     "geom:latitude":46.181651,
     "geom:longitude":-112.957806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3603 Lost Creek Rd",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185838523,
-    "wof:lastmodified":1449006796,
+    "wof:lastmodified":1466641573,
     "wof:name":"Johnson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.957806,46.181651,-112.957806,46.181651],
-  "geometry": {"coordinates":[-112.957806,46.181651],"type":"Point"}
+  "bbox": [
+    -112.957806,
+    46.181651,
+    -112.957806,
+    46.181651
+],
+  "geometry": {"coordinates":[-112.95780600000001,46.181651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186183933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.341006,48.417836,-114.341006,48.417836",
     "geom:latitude":48.417836,
     "geom:longitude":-114.341006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Wisconsin Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186183933,
-    "wof:lastmodified":1449051818,
+    "wof:lastmodified":1466642197,
     "wof:name":"Imperial Capital LLC",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-114.341006,48.417836,-114.341006,48.417836],
-  "geometry": {"coordinates":[-114.341006,48.417836],"type":"Point"}
+  "bbox": [
+    -114.341006,
+    48.417836,
+    -114.341006,
+    48.417836
+],
+  "geometry": {"coordinates":[-114.34100599999999,48.417836],"type":"Point"}
 }

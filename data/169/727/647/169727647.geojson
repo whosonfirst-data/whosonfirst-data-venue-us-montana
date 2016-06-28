@@ -2,13 +2,14 @@
   "id": 169727647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.166129,47.676811,-114.166129,47.676811",
     "geom:latitude":47.676811,
     "geom:longitude":-114.166129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 20th Ave W",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169727647,
-    "wof:lastmodified":1449033191,
+    "wof:lastmodified":1466641740,
     "wof:name":"Harvey Kenitzer Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.166129,47.676811,-114.166129,47.676811],
+  "bbox": [
+    -114.166129,
+    47.676811,
+    -114.166129,
+    47.676811
+],
   "geometry": {"coordinates":[-114.166129,47.676811],"type":"Point"}
 }

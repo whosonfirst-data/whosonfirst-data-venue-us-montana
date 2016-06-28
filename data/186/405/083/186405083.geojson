@@ -2,13 +2,14 @@
   "id": 186405083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.056961,46.603275,-112.056961,46.603275",
     "geom:latitude":46.603275,
     "geom:longitude":-112.056961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Euclid Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186405083,
-    "wof:lastmodified":1449052797,
+    "wof:lastmodified":1466643005,
     "wof:name":"Far Post Soccer LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sport"
     ]
 },
-  "bbox": [-112.056961,46.603275,-112.056961,46.603275],
+  "bbox": [
+    -112.056961,
+    46.603275,
+    -112.056961,
+    46.603275
+],
   "geometry": {"coordinates":[-112.056961,46.603275],"type":"Point"}
 }

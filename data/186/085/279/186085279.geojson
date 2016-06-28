@@ -2,13 +2,14 @@
   "id": 186085279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.018314,46.851586,-114.018314,46.851586",
     "geom:latitude":46.851586,
     "geom:longitude":-114.018314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 W Kent Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186085279,
-    "wof:lastmodified":1449051065,
+    "wof:lastmodified":1466641914,
     "wof:name":"Import Solutions",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-114.018314,46.851586,-114.018314,46.851586],
+  "bbox": [
+    -114.018314,
+    46.851586,
+    -114.018314,
+    46.851586
+],
   "geometry": {"coordinates":[-114.018314,46.851586],"type":"Point"}
 }

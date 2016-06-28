@@ -2,13 +2,14 @@
   "id": 185912411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004051,46.573502,-112.004051,46.573502",
     "geom:latitude":46.573502,
     "geom:longitude":-112.004051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2243 Gold Rush Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185912411,
-    "wof:lastmodified":1449007422,
+    "wof:lastmodified":1466641651,
     "wof:name":"Sams Snowplow Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitary"
     ]
 },
-  "bbox": [-112.004051,46.573502,-112.004051,46.573502],
+  "bbox": [
+    -112.004051,
+    46.573502,
+    -112.004051,
+    46.573502
+],
   "geometry": {"coordinates":[-112.004051,46.573502],"type":"Point"}
 }

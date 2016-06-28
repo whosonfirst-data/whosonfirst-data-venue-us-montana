@@ -2,13 +2,14 @@
   "id": 169700027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.612474,45.757707,-108.612474,45.757707",
     "geom:latitude":45.757707,
     "geom:longitude":-108.612474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3714 Decathlon Pkwy",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":169700027,
-    "wof:lastmodified":1449035668,
+    "wof:lastmodified":1466641148,
     "wof:name":"St George Lighting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "sales"
     ]
 },
-  "bbox": [-108.612474,45.757707,-108.612474,45.757707],
-  "geometry": {"coordinates":[-108.612474,45.757707],"type":"Point"}
+  "bbox": [
+    -108.612474,
+    45.757707,
+    -108.612474,
+    45.757707
+],
+  "geometry": {"coordinates":[-108.61247400000001,45.757707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186128175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.403996,48.29829,-114.403996,48.29829",
     "geom:latitude":48.29829,
     "geom:longitude":-114.403996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Lost Creek Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186128175,
-    "wof:lastmodified":1449051411,
+    "wof:lastmodified":1466642083,
     "wof:name":"Kevin Collom",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.403996,48.29829,-114.403996,48.29829],
-  "geometry": {"coordinates":[-114.403996,48.29829],"type":"Point"}
+  "bbox": [
+    -114.403996,
+    48.29829,
+    -114.403996,
+    48.29829
+],
+  "geometry": {"coordinates":[-114.40399600000001,48.29829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185715169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.22566,48.029014,-114.22566,48.029014",
     "geom:latitude":48.029014,
     "geom:longitude":-114.22566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6895 US Hwy 93",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185715169,
-    "wof:lastmodified":1449007897,
+    "wof:lastmodified":1466641434,
     "wof:name":"Jay Titchbourne",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-114.22566,48.029014,-114.22566,48.029014],
+  "bbox": [
+    -114.22566,
+    48.029014,
+    -114.22566,
+    48.029014
+],
   "geometry": {"coordinates":[-114.22566,48.029014],"type":"Point"}
 }

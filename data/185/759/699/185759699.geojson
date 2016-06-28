@@ -2,13 +2,14 @@
   "id": 185759699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.903174,46.544413,-110.903174,46.544413",
     "geom:latitude":46.544413,
     "geom:longitude":-110.903174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 E Maginnis St",
     "sg:city":"White Slphr Spgs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185759699,
-    "wof:lastmodified":1449008235,
+    "wof:lastmodified":1466641486,
     "wof:name":"Jepson Realty Branch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.903174,46.544413,-110.903174,46.544413],
-  "geometry": {"coordinates":[-110.903174,46.544413],"type":"Point"}
+  "bbox": [
+    -110.903174,
+    46.544413,
+    -110.903174,
+    46.544413
+],
+  "geometry": {"coordinates":[-110.90317400000001,46.544413],"type":"Point"}
 }

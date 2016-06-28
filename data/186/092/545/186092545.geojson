@@ -2,13 +2,14 @@
   "id": 186092545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.404219,48.298139,-114.404219,48.298139",
     "geom:latitude":48.298139,
     "geom:longitude":-114.404219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Lost Creek Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186092545,
-    "wof:lastmodified":1449052508,
+    "wof:lastmodified":1466641951,
     "wof:name":"Boskets Plumbing Excating",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.404219,48.298139,-114.404219,48.298139],
+  "bbox": [
+    -114.404219,
+    48.298139,
+    -114.404219,
+    48.298139
+],
   "geometry": {"coordinates":[-114.404219,48.298139],"type":"Point"}
 }

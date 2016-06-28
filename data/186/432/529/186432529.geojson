@@ -2,13 +2,14 @@
   "id": 186432529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.032347,46.519075,-114.032347,46.519075",
     "geom:latitude":46.519075,
     "geom:longitude":-114.032347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"739 Hollibaugh Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186432529,
-    "wof:lastmodified":1449050187,
+    "wof:lastmodified":1466643091,
     "wof:name":"Pronk Ave LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-114.032347,46.519075,-114.032347,46.519075],
+  "bbox": [
+    -114.032347,
+    46.519075,
+    -114.032347,
+    46.519075
+],
   "geometry": {"coordinates":[-114.032347,46.519075],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169764933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.161396,47.708512,-104.161396,47.708512",
     "geom:latitude":47.708512,
     "geom:longitude":-104.161396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 S Central Ave",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169764933,
-    "wof:lastmodified":1449035804,
+    "wof:lastmodified":1466641215,
     "wof:name":"Churn Creek Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-104.161396,47.708512,-104.161396,47.708512],
+  "bbox": [
+    -104.161396,
+    47.708512,
+    -104.161396,
+    47.708512
+],
   "geometry": {"coordinates":[-104.161396,47.708512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186125847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.055112,46.842166,-114.055112,46.842166",
     "geom:latitude":46.842166,
     "geom:longitude":-114.055112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3255 Fort Missoula Rd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186125847,
-    "wof:lastmodified":1449052945,
+    "wof:lastmodified":1466642238,
     "wof:name":"Garnet Preservation Assoc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-114.055112,46.842166,-114.055112,46.842166],
-  "geometry": {"coordinates":[-114.055112,46.842166],"type":"Point"}
+  "bbox": [
+    -114.055112,
+    46.842166,
+    -114.055112,
+    46.842166
+],
+  "geometry": {"coordinates":[-114.05511199999999,46.842166],"type":"Point"}
 }

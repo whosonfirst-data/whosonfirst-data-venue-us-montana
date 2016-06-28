@@ -2,13 +2,14 @@
   "id": 169817745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.161532,47.708575,-104.161532,47.708575",
     "geom:latitude":47.708575,
     "geom:longitude":-104.161532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 S Central Ave",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169817745,
-    "wof:lastmodified":1449035315,
+    "wof:lastmodified":1466641291,
     "wof:name":"Rick Saboe Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.161532,47.708575,-104.161532,47.708575],
-  "geometry": {"coordinates":[-104.161532,47.708575],"type":"Point"}
+  "bbox": [
+    -104.161532,
+    47.708575,
+    -104.161532,
+    47.708575
+],
+  "geometry": {"coordinates":[-104.16153199999999,47.708575],"type":"Point"}
 }

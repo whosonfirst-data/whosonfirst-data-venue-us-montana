@@ -2,13 +2,14 @@
   "id": 185879351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.150512,45.669211,-111.150512,45.669211",
     "geom:latitude":45.669211,
     "geom:longitude":-111.150512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6667 Lynx Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185879351,
-    "wof:lastmodified":1449006613,
+    "wof:lastmodified":1466641614,
     "wof:name":"Insulation Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.150512,45.669211,-111.150512,45.669211],
-  "geometry": {"coordinates":[-111.150512,45.669211],"type":"Point"}
+  "bbox": [
+    -111.150512,
+    45.669211,
+    -111.150512,
+    45.669211
+],
+  "geometry": {"coordinates":[-111.15051200000001,45.669211],"type":"Point"}
 }

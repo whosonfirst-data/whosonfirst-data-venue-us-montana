@@ -2,13 +2,14 @@
   "id": 185622233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641325,48.19435,-106.641325,48.19435",
     "geom:latitude":48.19435,
     "geom:longitude":-106.641325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 3rd Ave S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185622233,
-    "wof:lastmodified":1449007940,
+    "wof:lastmodified":1466641220,
     "wof:name":"CHMS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-106.641325,48.19435,-106.641325,48.19435],
-  "geometry": {"coordinates":[-106.641325,48.19435],"type":"Point"}
+  "bbox": [
+    -106.641325,
+    48.19435,
+    -106.641325,
+    48.19435
+],
+  "geometry": {"coordinates":[-106.64132499999999,48.19435],"type":"Point"}
 }

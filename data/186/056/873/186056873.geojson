@@ -2,13 +2,14 @@
   "id": 186056873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036809,46.590365,-112.036809,46.590365",
     "geom:latitude":46.590365,
     "geom:longitude":-112.036809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 N Jackson St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186056873,
-    "wof:lastmodified":1449051141,
+    "wof:lastmodified":1466641838,
     "wof:name":"Acupuncture and Acupressu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.036809,46.590365,-112.036809,46.590365],
-  "geometry": {"coordinates":[-112.036809,46.590365],"type":"Point"}
+  "bbox": [
+    -112.036809,
+    46.590365,
+    -112.036809,
+    46.590365
+],
+  "geometry": {"coordinates":[-112.03680900000001,46.590365],"type":"Point"}
 }

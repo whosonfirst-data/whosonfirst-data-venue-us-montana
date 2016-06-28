@@ -2,13 +2,14 @@
   "id": 169771801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.536169,46.016864,-112.536169,46.016864",
     "geom:latitude":46.016864,
     "geom:longitude":-112.536169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Main St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169771801,
-    "wof:lastmodified":1449034487,
+    "wof:lastmodified":1466641224,
     "wof:name":"Attorneys Executive Off For US",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "legal"
     ]
 },
-  "bbox": [-112.536169,46.016864,-112.536169,46.016864],
+  "bbox": [
+    -112.536169,
+    46.016864,
+    -112.536169,
+    46.016864
+],
   "geometry": {"coordinates":[-112.536169,46.016864],"type":"Point"}
 }

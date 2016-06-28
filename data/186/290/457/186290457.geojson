@@ -2,13 +2,14 @@
   "id": 186290457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.502821,45.781125,-108.502821,45.781125",
     "geom:latitude":45.781125,
     "geom:longitude":-108.502821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 Minnesota Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186290457,
-    "wof:lastmodified":1449051526,
+    "wof:lastmodified":1466642796,
     "wof:name":"Potato Factory Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processor"
     ]
 },
-  "bbox": [-108.502821,45.781125,-108.502821,45.781125],
+  "bbox": [
+    -108.502821,
+    45.781125,
+    -108.502821,
+    45.781125
+],
   "geometry": {"coordinates":[-108.502821,45.781125],"type":"Point"}
 }

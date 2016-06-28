@@ -2,13 +2,14 @@
   "id": 185752677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022431,46.587798,-112.022431,46.587798",
     "geom:latitude":46.587798,
     "geom:longitude":-112.022431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1034 8th Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185752677,
-    "wof:lastmodified":1449006881,
+    "wof:lastmodified":1466641480,
     "wof:name":"Fehlig Type & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "typesetting"
     ]
 },
-  "bbox": [-112.022431,46.587798,-112.022431,46.587798],
+  "bbox": [
+    -112.022431,
+    46.587798,
+    -112.022431,
+    46.587798
+],
   "geometry": {"coordinates":[-112.022431,46.587798],"type":"Point"}
 }

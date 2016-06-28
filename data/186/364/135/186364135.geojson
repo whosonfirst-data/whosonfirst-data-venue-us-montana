@@ -2,13 +2,14 @@
   "id": 186364135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.120902,46.197154,-114.120902,46.197154",
     "geom:latitude":46.197154,
     "geom:longitude":-114.120902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"557 Skalkaho Hwy",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186364135,
-    "wof:lastmodified":1449051888,
+    "wof:lastmodified":1466642758,
     "wof:name":"Welding Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-114.120902,46.197154,-114.120902,46.197154],
+  "bbox": [
+    -114.120902,
+    46.197154,
+    -114.120902,
+    46.197154
+],
   "geometry": {"coordinates":[-114.120902,46.197154],"type":"Point"}
 }

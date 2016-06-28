@@ -2,13 +2,14 @@
   "id": 186311947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.213717,47.611168,-112.213717,47.611168",
     "geom:latitude":47.611168,
     "geom:longitude":-112.213717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1080 W Division",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186311947,
-    "wof:lastmodified":1449051029,
+    "wof:lastmodified":1466642645,
     "wof:name":"Bradley Dezort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-112.213717,47.611168,-112.213717,47.611168],
+  "bbox": [
+    -112.213717,
+    47.611168,
+    -112.213717,
+    47.611168
+],
   "geometry": {"coordinates":[-112.213717,47.611168],"type":"Point"}
 }

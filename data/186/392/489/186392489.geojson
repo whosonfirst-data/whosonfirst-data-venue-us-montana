@@ -2,13 +2,14 @@
   "id": 186392489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.065573,46.848821,-114.065573,46.848821",
     "geom:latitude":46.848821,
     "geom:longitude":-114.065573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3414 South Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186392489,
-    "wof:lastmodified":1449052478,
+    "wof:lastmodified":1466642713,
     "wof:name":"W Kirk Hennefer",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fighting"
     ]
 },
-  "bbox": [-114.065573,46.848821,-114.065573,46.848821],
+  "bbox": [
+    -114.065573,
+    46.848821,
+    -114.065573,
+    46.848821
+],
   "geometry": {"coordinates":[-114.065573,46.848821],"type":"Point"}
 }

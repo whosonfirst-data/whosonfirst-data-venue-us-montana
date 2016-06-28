@@ -2,13 +2,14 @@
   "id": 186001289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.503498,45.796378,-108.503498,45.796378",
     "geom:latitude":45.796378,
     "geom:longitude":-108.503498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N 19th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186001289,
-    "wof:lastmodified":1449051009,
+    "wof:lastmodified":1466641217,
     "wof:name":"Deb's Art Glass",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leaded"
     ]
 },
-  "bbox": [-108.503498,45.796378,-108.503498,45.796378],
-  "geometry": {"coordinates":[-108.503498,45.796378],"type":"Point"}
+  "bbox": [
+    -108.503498,
+    45.796378,
+    -108.503498,
+    45.796378
+],
+  "geometry": {"coordinates":[-108.50349799999999,45.796378],"type":"Point"}
 }

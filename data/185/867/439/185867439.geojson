@@ -2,13 +2,14 @@
   "id": 185867439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.384958,45.810912,-108.384958,45.810912",
     "geom:latitude":45.810912,
     "geom:longitude":-108.384958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3804 Becraft Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185867439,
-    "wof:lastmodified":1449007307,
+    "wof:lastmodified":1466641603,
     "wof:name":"Dallas Trucking",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.384958,45.810912,-108.384958,45.810912],
+  "bbox": [
+    -108.384958,
+    45.810912,
+    -108.384958,
+    45.810912
+],
   "geometry": {"coordinates":[-108.384958,45.810912],"type":"Point"}
 }

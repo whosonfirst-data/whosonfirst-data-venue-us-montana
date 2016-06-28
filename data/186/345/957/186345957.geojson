@@ -2,13 +2,14 @@
   "id": 186345957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.800053,45.718086,-108.800053,45.718086",
     "geom:latitude":45.718086,
     "geom:longitude":-108.800053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Buffalo Trail Rd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186345957,
-    "wof:lastmodified":1449052815,
+    "wof:lastmodified":1466642706,
     "wof:name":"William Kukes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.800053,45.718086,-108.800053,45.718086],
-  "geometry": {"coordinates":[-108.800053,45.718086],"type":"Point"}
+  "bbox": [
+    -108.800053,
+    45.718086,
+    -108.800053,
+    45.718086
+],
+  "geometry": {"coordinates":[-108.80005300000001,45.718086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186153949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.668051,48.548987,-109.668051,48.548987",
     "geom:latitude":48.548987,
     "geom:longitude":-109.668051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 10th Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186153949,
-    "wof:lastmodified":1449052219,
+    "wof:lastmodified":1466642131,
     "wof:name":"Native Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trimming"
     ]
 },
-  "bbox": [-109.668051,48.548987,-109.668051,48.548987],
-  "geometry": {"coordinates":[-109.668051,48.548987],"type":"Point"}
+  "bbox": [
+    -109.668051,
+    48.548987,
+    -109.668051,
+    48.548987
+],
+  "geometry": {"coordinates":[-109.66805100000001,48.548987],"type":"Point"}
 }

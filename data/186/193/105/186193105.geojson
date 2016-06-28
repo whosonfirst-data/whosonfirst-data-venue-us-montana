@@ -2,13 +2,14 @@
   "id": 186193105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.584655,45.794927,-108.584655,45.794927",
     "geom:latitude":45.794927,
     "geom:longitude":-108.584655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 Louise Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186193105,
-    "wof:lastmodified":1449050845,
+    "wof:lastmodified":1466642093,
     "wof:name":"Gel Properties",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-108.584655,45.794927,-108.584655,45.794927],
+  "bbox": [
+    -108.584655,
+    45.794927,
+    -108.584655,
+    45.794927
+],
   "geometry": {"coordinates":[-108.584655,45.794927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169730459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.248949,47.660389,-114.248949,47.660389",
     "geom:latitude":47.660389,
     "geom:longitude":-114.248949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8379 Valley View Rd",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169730459,
-    "wof:lastmodified":1449035429,
+    "wof:lastmodified":1466641743,
     "wof:name":"Martin Dry Wall Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.248949,47.660389,-114.248949,47.660389],
+  "bbox": [
+    -114.248949,
+    47.660389,
+    -114.248949,
+    47.660389
+],
   "geometry": {"coordinates":[-114.248949,47.660389],"type":"Point"}
 }

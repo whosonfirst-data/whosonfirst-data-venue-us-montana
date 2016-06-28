@@ -2,13 +2,14 @@
   "id": 186298671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.540534,46.011002,-112.540534,46.011002",
     "geom:latitude":46.011002,
     "geom:longitude":-112.540534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 W Mercury St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186298671,
-    "wof:lastmodified":1449051110,
+    "wof:lastmodified":1466642620,
     "wof:name":"Copier Doctors",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-112.540534,46.011002,-112.540534,46.011002],
-  "geometry": {"coordinates":[-112.540534,46.011002],"type":"Point"}
+  "bbox": [
+    -112.540534,
+    46.011002,
+    -112.540534,
+    46.011002
+],
+  "geometry": {"coordinates":[-112.54053399999999,46.011002],"type":"Point"}
 }

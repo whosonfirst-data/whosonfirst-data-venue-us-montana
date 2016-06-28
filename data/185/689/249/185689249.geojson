@@ -2,13 +2,14 @@
   "id": 185689249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.014648,46.584053,-112.014648,46.584053",
     "geom:latitude":46.584053,
     "geom:longitude":-112.014648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 E Broadway St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185689249,
-    "wof:lastmodified":1449007964,
+    "wof:lastmodified":1466641405,
     "wof:name":"Operations & Fiscal Svcs Bur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fiscal"
     ]
 },
-  "bbox": [-112.014648,46.584053,-112.014648,46.584053],
-  "geometry": {"coordinates":[-112.014648,46.584053],"type":"Point"}
+  "bbox": [
+    -112.014648,
+    46.584053,
+    -112.014648,
+    46.584053
+],
+  "geometry": {"coordinates":[-112.01464799999999,46.584053],"type":"Point"}
 }

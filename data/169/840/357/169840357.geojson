@@ -2,13 +2,14 @@
   "id": 169840357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.224144,47.39198,-114.224144,47.39198",
     "geom:latitude":47.39198,
     "geom:longitude":-114.224144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9707 Crow Dam Rd",
     "sg:city":"Charlo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169840357,
-    "wof:lastmodified":1449035215,
+    "wof:lastmodified":1466641312,
     "wof:name":"Krantz Concrete & Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-114.224144,47.39198,-114.224144,47.39198],
+  "bbox": [
+    -114.224144,
+    47.39198,
+    -114.224144,
+    47.39198
+],
   "geometry": {"coordinates":[-114.224144,47.39198],"type":"Point"}
 }

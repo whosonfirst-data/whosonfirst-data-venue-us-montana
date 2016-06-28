@@ -2,13 +2,14 @@
   "id": 185842711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.575967,45.784109,-108.575967,45.784109",
     "geom:latitude":45.784109,
     "geom:longitude":-108.575967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185842711,
-    "wof:lastmodified":1449006725,
+    "wof:lastmodified":1466641581,
     "wof:name":"Davidson Home Furnishings & De",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.575967,45.784109,-108.575967,45.784109],
-  "geometry": {"coordinates":[-108.575967,45.784109],"type":"Point"}
+  "bbox": [
+    -108.575967,
+    45.784109,
+    -108.575967,
+    45.784109
+],
+  "geometry": {"coordinates":[-108.57596700000001,45.784109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185991121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.626399,45.802514,-108.626399,45.802514",
     "geom:latitude":45.802514,
     "geom:longitude":-108.626399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4510 Laredo Pl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185991121,
-    "wof:lastmodified":1449007108,
+    "wof:lastmodified":1466641701,
     "wof:name":"Student Planner",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "representative"
     ]
 },
-  "bbox": [-108.626399,45.802514,-108.626399,45.802514],
-  "geometry": {"coordinates":[-108.626399,45.802514],"type":"Point"}
+  "bbox": [
+    -108.626399,
+    45.802514,
+    -108.626399,
+    45.802514
+],
+  "geometry": {"coordinates":[-108.62639900000001,45.802514],"type":"Point"}
 }

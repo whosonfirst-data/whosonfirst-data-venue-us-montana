@@ -2,13 +2,14 @@
   "id": 186045879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.773064,45.670344,-108.773064,45.670344",
     "geom:latitude":45.670344,
     "geom:longitude":-108.773064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 2nd Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186045879,
-    "wof:lastmodified":1449052704,
+    "wof:lastmodified":1466641822,
     "wof:name":"Keever Construction Inc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-108.773064,45.670344,-108.773064,45.670344],
-  "geometry": {"coordinates":[-108.773064,45.670344],"type":"Point"}
+  "bbox": [
+    -108.773064,
+    45.670344,
+    -108.773064,
+    45.670344
+],
+  "geometry": {"coordinates":[-108.77306400000001,45.670344],"type":"Point"}
 }

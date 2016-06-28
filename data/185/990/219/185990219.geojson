@@ -2,13 +2,14 @@
   "id": 185990219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.778055,45.665581,-108.778055,45.665581",
     "geom:latitude":45.665581,
     "geom:longitude":-108.778055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Durland Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185990219,
-    "wof:lastmodified":1449007672,
+    "wof:lastmodified":1466641701,
     "wof:name":"Mangum's Custom Upholstery",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-108.778055,45.665581,-108.778055,45.665581],
-  "geometry": {"coordinates":[-108.778055,45.665581],"type":"Point"}
+  "bbox": [
+    -108.778055,
+    45.665581,
+    -108.778055,
+    45.665581
+],
+  "geometry": {"coordinates":[-108.77805499999999,45.665581],"type":"Point"}
 }

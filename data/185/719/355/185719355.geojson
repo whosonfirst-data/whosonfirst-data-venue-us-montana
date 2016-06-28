@@ -2,13 +2,14 @@
   "id": 185719355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.999821,45.668867,-110.999821,45.668867",
     "geom:latitude":45.668867,
     "geom:longitude":-110.999821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Sunset Blvd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185719355,
-    "wof:lastmodified":1449006807,
+    "wof:lastmodified":1466641439,
     "wof:name":"Hobaugh Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-110.999821,45.668867,-110.999821,45.668867],
+  "bbox": [
+    -110.999821,
+    45.668867,
+    -110.999821,
+    45.668867
+],
   "geometry": {"coordinates":[-110.999821,45.668867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185901517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.278971,47.530381,-111.278971,47.530381",
     "geom:latitude":47.530381,
     "geom:longitude":-111.278971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2513 17th St NE",
     "sg:city":"Black Eagle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185901517,
-    "wof:lastmodified":1449007278,
+    "wof:lastmodified":1466641638,
     "wof:name":"Mosch Electric Motors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "generator"
     ]
 },
-  "bbox": [-111.278971,47.530381,-111.278971,47.530381],
+  "bbox": [
+    -111.278971,
+    47.530381,
+    -111.278971,
+    47.530381
+],
   "geometry": {"coordinates":[-111.278971,47.530381],"type":"Point"}
 }

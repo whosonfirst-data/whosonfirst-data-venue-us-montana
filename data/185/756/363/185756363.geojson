@@ -2,13 +2,14 @@
   "id": 185756363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.201944,46.35758,-114.201944,46.35758",
     "geom:latitude":46.35758,
     "geom:longitude":-114.201944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1488 Spiritwood Rd",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185756363,
-    "wof:lastmodified":1449007575,
+    "wof:lastmodified":1466641480,
     "wof:name":"Cliffs Chimney Sweeping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-114.201944,46.35758,-114.201944,46.35758],
+  "bbox": [
+    -114.201944,
+    46.35758,
+    -114.201944,
+    46.35758
+],
   "geometry": {"coordinates":[-114.201944,46.35758],"type":"Point"}
 }

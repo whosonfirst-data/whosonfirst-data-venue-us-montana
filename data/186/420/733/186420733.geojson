@@ -2,13 +2,14 @@
   "id": 186420733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.269781,48.261818,-114.269781,48.261818",
     "geom:latitude":48.261818,
     "geom:longitude":-114.269781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 US Hwy 2 E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186420733,
-    "wof:lastmodified":1449051661,
+    "wof:lastmodified":1466643079,
     "wof:name":"Lyford Bob Plumbing & Heating",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.269781,48.261818,-114.269781,48.261818],
-  "geometry": {"coordinates":[-114.269781,48.261818],"type":"Point"}
+  "bbox": [
+    -114.269781,
+    48.261818,
+    -114.269781,
+    48.261818
+],
+  "geometry": {"coordinates":[-114.26978099999999,48.261818],"type":"Point"}
 }

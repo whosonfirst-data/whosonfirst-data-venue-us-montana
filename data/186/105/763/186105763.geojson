@@ -2,13 +2,14 @@
   "id": 186105763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.072258,46.444297,-114.072258,46.444297",
     "geom:latitude":46.444297,
     "geom:longitude":-114.072258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"457 Willoughby Ln",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186105763,
-    "wof:lastmodified":1449051403,
+    "wof:lastmodified":1466642150,
     "wof:name":"Kenneth L McPherson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-114.072258,46.444297,-114.072258,46.444297],
-  "geometry": {"coordinates":[-114.072258,46.444297],"type":"Point"}
+  "bbox": [
+    -114.072258,
+    46.444297,
+    -114.072258,
+    46.444297
+],
+  "geometry": {"coordinates":[-114.07225800000001,46.444297],"type":"Point"}
 }

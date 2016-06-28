@@ -2,13 +2,14 @@
   "id": 186196207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.09341,46.509839,-114.09341,46.509839",
     "geom:latitude":46.509839,
     "geom:longitude":-114.09341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Main St",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186196207,
-    "wof:lastmodified":1449051005,
+    "wof:lastmodified":1466642542,
     "wof:name":"Food Fetish Catering & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.09341,46.509839,-114.09341,46.509839],
-  "geometry": {"coordinates":[-114.09341,46.509839],"type":"Point"}
+  "bbox": [
+    -114.09341,
+    46.509839,
+    -114.09341,
+    46.509839
+],
+  "geometry": {"coordinates":[-114.09341000000001,46.509839],"type":"Point"}
 }

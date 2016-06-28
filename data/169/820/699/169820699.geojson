@@ -2,13 +2,14 @@
   "id": 169820699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.023765,45.704889,-111.023765,45.704889",
     "geom:latitude":45.704889,
     "geom:longitude":-111.023765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Par Ct",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169820699,
-    "wof:lastmodified":1449034386,
+    "wof:lastmodified":1466641293,
     "wof:name":"Mamachic Maternity Inc",
     "wof:parent_id":85876477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.023765,45.704889,-111.023765,45.704889],
+  "bbox": [
+    -111.023765,
+    45.704889,
+    -111.023765,
+    45.704889
+],
   "geometry": {"coordinates":[-111.023765,45.704889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185732099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.340996,48.421816,-114.340996,48.421816",
     "geom:latitude":48.421816,
     "geom:longitude":-114.340996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Wisconsin Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185732099,
-    "wof:lastmodified":1449008275,
+    "wof:lastmodified":1466641774,
     "wof:name":"Sew Excited Fabrics",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-114.340996,48.421816,-114.340996,48.421816],
+  "bbox": [
+    -114.340996,
+    48.421816,
+    -114.340996,
+    48.421816
+],
   "geometry": {"coordinates":[-114.340996,48.421816],"type":"Point"}
 }

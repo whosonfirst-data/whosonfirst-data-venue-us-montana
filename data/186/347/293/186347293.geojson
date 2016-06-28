@@ -2,13 +2,14 @@
   "id": 186347293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.546843,45.769864,-108.546843,45.769864",
     "geom:latitude":45.769864,
     "geom:longitude":-108.546843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 Central Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186347293,
-    "wof:lastmodified":1449051673,
+    "wof:lastmodified":1466642844,
     "wof:name":"Montana Wing Tsun Kung-Fu",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-108.546843,45.769864,-108.546843,45.769864],
+  "bbox": [
+    -108.546843,
+    45.769864,
+    -108.546843,
+    45.769864
+],
   "geometry": {"coordinates":[-108.546843,45.769864],"type":"Point"}
 }

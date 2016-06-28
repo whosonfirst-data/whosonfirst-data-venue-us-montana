@@ -2,13 +2,14 @@
   "id": 186253769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.548509,45.785909,-108.548509,45.785909",
     "geom:latitude":45.785909,
     "geom:longitude":-108.548509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 13th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186253769,
-    "wof:lastmodified":1449052683,
+    "wof:lastmodified":1466642538,
     "wof:name":"Rocky Mountain School-Massage",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-108.548509,45.785909,-108.548509,45.785909],
+  "bbox": [
+    -108.548509,
+    45.785909,
+    -108.548509,
+    45.785909
+],
   "geometry": {"coordinates":[-108.548509,45.785909],"type":"Point"}
 }

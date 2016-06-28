@@ -2,13 +2,14 @@
   "id": 186080159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.688075,46.780893,-113.688075,46.780893",
     "geom:latitude":46.780893,
     "geom:longitude":-113.688075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22575 Hill Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186080159,
-    "wof:lastmodified":1449052963,
+    "wof:lastmodified":1466641880,
     "wof:name":"Scharfs Sport Shop",
     "wof:parent_id":85891729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.688075,46.780893,-113.688075,46.780893],
+  "bbox": [
+    -113.688075,
+    46.780893,
+    -113.688075,
+    46.780893
+],
   "geometry": {"coordinates":[-113.688075,46.780893],"type":"Point"}
 }

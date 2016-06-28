@@ -2,13 +2,14 @@
   "id": 186057867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.03718,45.682063,-111.03718,45.682063",
     "geom:latitude":45.682063,
     "geom:longitude":-111.03718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 E Beall St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186057867,
-    "wof:lastmodified":1449051701,
+    "wof:lastmodified":1466641843,
     "wof:name":"Off The Beaten Path LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [-111.03718,45.682063,-111.03718,45.682063],
-  "geometry": {"coordinates":[-111.03718,45.682063],"type":"Point"}
+  "bbox": [
+    -111.03718,
+    45.682063,
+    -111.03718,
+    45.682063
+],
+  "geometry": {"coordinates":[-111.03718000000001,45.682063],"type":"Point"}
 }

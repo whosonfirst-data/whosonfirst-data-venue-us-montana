@@ -2,13 +2,14 @@
   "id": 169782949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.390817,45.816152,-108.390817,45.816152",
     "geom:latitude":45.816152,
     "geom:longitude":-108.390817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3716 Spotted Jack Loop S",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169782949,
-    "wof:lastmodified":1449032671,
+    "wof:lastmodified":1466641251,
     "wof:name":"Fredrickson Wall Systems Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-108.390817,45.816152,-108.390817,45.816152],
+  "bbox": [
+    -108.390817,
+    45.816152,
+    -108.390817,
+    45.816152
+],
   "geometry": {"coordinates":[-108.390817,45.816152],"type":"Point"}
 }

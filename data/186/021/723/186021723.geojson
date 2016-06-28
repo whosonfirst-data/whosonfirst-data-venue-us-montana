@@ -2,13 +2,14 @@
   "id": 186021723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.539661,45.777124,-108.539661,45.777124",
     "geom:latitude":45.777124,
     "geom:longitude":-108.539661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"951 Broadwater Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186021723,
-    "wof:lastmodified":1449052061,
+    "wof:lastmodified":1466641477,
     "wof:name":"Complete Foot Care",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.539661,45.777124,-108.539661,45.777124],
+  "bbox": [
+    -108.539661,
+    45.777124,
+    -108.539661,
+    45.777124
+],
   "geometry": {"coordinates":[-108.539661,45.777124],"type":"Point"}
 }

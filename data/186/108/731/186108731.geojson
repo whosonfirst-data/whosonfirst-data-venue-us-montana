@@ -2,13 +2,14 @@
   "id": 186108731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.516748,45.772893,-108.516748,45.772893",
     "geom:latitude":45.772893,
     "geom:longitude":-108.516748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 1st Ave S",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186108731,
-    "wof:lastmodified":1449050311,
+    "wof:lastmodified":1466642157,
     "wof:name":"K & K Auto Outlet",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-108.516748,45.772893,-108.516748,45.772893],
-  "geometry": {"coordinates":[-108.516748,45.772893],"type":"Point"}
+  "bbox": [
+    -108.516748,
+    45.772893,
+    -108.516748,
+    45.772893
+],
+  "geometry": {"coordinates":[-108.51674800000001,45.772893],"type":"Point"}
 }

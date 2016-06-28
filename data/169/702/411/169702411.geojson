@@ -2,13 +2,14 @@
   "id": 169702411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.279827,45.930005,-108.279827,45.930005",
     "geom:latitude":45.930005,
     "geom:longitude":-108.279827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2056 N 4th Rd",
     "sg:city":"Huntley",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169702411,
-    "wof:lastmodified":1449034337,
+    "wof:lastmodified":1466641156,
     "wof:name":"X Diamond Farm Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.279827,45.930005,-108.279827,45.930005],
+  "bbox": [
+    -108.279827,
+    45.930005,
+    -108.279827,
+    45.930005
+],
   "geometry": {"coordinates":[-108.279827,45.930005],"type":"Point"}
 }

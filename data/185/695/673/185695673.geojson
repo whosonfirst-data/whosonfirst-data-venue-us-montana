@@ -2,13 +2,14 @@
   "id": 185695673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638187,48.194574,-106.638187,48.194574",
     "geom:latitude":48.194574,
     "geom:longitude":-106.638187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 2nd Ave S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185695673,
-    "wof:lastmodified":1449007213,
+    "wof:lastmodified":1466641415,
     "wof:name":"United Insurance & Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.638187,48.194574,-106.638187,48.194574],
+  "bbox": [
+    -106.638187,
+    48.194574,
+    -106.638187,
+    48.194574
+],
   "geometry": {"coordinates":[-106.638187,48.194574],"type":"Point"}
 }

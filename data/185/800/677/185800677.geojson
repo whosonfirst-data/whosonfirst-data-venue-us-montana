@@ -2,13 +2,14 @@
   "id": 185800677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.609068,45.730283,-107.609068,45.730283",
     "geom:latitude":45.730283,
     "geom:longitude":-107.609068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 2nd St W",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185800677,
-    "wof:lastmodified":1449006732,
+    "wof:lastmodified":1466641534,
     "wof:name":"Core Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.609068,45.730283,-107.609068,45.730283],
-  "geometry": {"coordinates":[-107.609068,45.730283],"type":"Point"}
+  "bbox": [
+    -107.609068,
+    45.730283,
+    -107.609068,
+    45.730283
+],
+  "geometry": {"coordinates":[-107.60906799999999,45.730283],"type":"Point"}
 }

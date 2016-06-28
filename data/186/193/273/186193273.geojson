@@ -2,13 +2,14 @@
   "id": 186193273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.139371,47.417406,-114.139371,47.417406",
     "geom:latitude":47.417406,
     "geom:longitude":-114.139371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7603 Ninepipe Rd",
     "sg:city":"Charlo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186193273,
-    "wof:lastmodified":1449050848,
+    "wof:lastmodified":1466642246,
     "wof:name":"Anderson Shad Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.139371,47.417406,-114.139371,47.417406],
+  "bbox": [
+    -114.139371,
+    47.417406,
+    -114.139371,
+    47.417406
+],
   "geometry": {"coordinates":[-114.139371,47.417406],"type":"Point"}
 }

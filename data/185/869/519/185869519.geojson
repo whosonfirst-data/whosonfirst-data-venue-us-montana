@@ -2,13 +2,14 @@
   "id": 185869519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.426771,48.123246,-115.426771,48.123246",
     "geom:latitude":48.123246,
     "geom:longitude":-115.426771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19845 US Hwy 2 S",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185869519,
-    "wof:lastmodified":1449008091,
+    "wof:lastmodified":1466641607,
     "wof:name":"LIBBYMT.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "design"
     ]
 },
-  "bbox": [-115.426771,48.123246,-115.426771,48.123246],
+  "bbox": [
+    -115.426771,
+    48.123246,
+    -115.426771,
+    48.123246
+],
   "geometry": {"coordinates":[-115.426771,48.123246],"type":"Point"}
 }

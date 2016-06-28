@@ -2,13 +2,14 @@
   "id": 185849895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.327984,48.213597,-114.327984,48.213597",
     "geom:latitude":48.213597,
     "geom:longitude":-114.327984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Conway Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185849895,
-    "wof:lastmodified":1449006915,
+    "wof:lastmodified":1466641587,
     "wof:name":"Dino-Sore Sick Child Program",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-114.327984,48.213597,-114.327984,48.213597],
+  "bbox": [
+    -114.327984,
+    48.213597,
+    -114.327984,
+    48.213597
+],
   "geometry": {"coordinates":[-114.327984,48.213597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186343599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.554446,48.387823,-115.554446,48.387823",
     "geom:latitude":48.387823,
     "geom:longitude":-115.554446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Mineral Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186343599,
-    "wof:lastmodified":1449052260,
+    "wof:lastmodified":1466642702,
     "wof:name":"Copper Creek Espresso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.554446,48.387823,-115.554446,48.387823],
+  "bbox": [
+    -115.554446,
+    48.387823,
+    -115.554446,
+    48.387823
+],
   "geometry": {"coordinates":[-115.554446,48.387823],"type":"Point"}
 }

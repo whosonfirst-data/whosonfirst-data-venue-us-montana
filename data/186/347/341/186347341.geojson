@@ -2,13 +2,14 @@
   "id": 186347341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.157215,45.670077,-111.157215,45.670077",
     "geom:latitude":45.670077,
     "geom:longitude":-111.157215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6550 Falcon Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186347341,
-    "wof:lastmodified":1449051675,
+    "wof:lastmodified":1466642845,
     "wof:name":"Salsberg Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auto"
     ]
 },
-  "bbox": [-111.157215,45.670077,-111.157215,45.670077],
-  "geometry": {"coordinates":[-111.157215,45.670077],"type":"Point"}
+  "bbox": [
+    -111.157215,
+    45.670077,
+    -111.157215,
+    45.670077
+],
+  "geometry": {"coordinates":[-111.15721499999999,45.670077],"type":"Point"}
 }

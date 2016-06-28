@@ -2,13 +2,14 @@
   "id": 169730659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.288768,47.506392,-111.288768,47.506392",
     "geom:latitude":47.506392,
     "geom:longitude":-111.288768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 1st Ave N",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169730659,
-    "wof:lastmodified":1449035428,
+    "wof:lastmodified":1466641163,
     "wof:name":"Interior Motives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.288768,47.506392,-111.288768,47.506392],
+  "bbox": [
+    -111.288768,
+    47.506392,
+    -111.288768,
+    47.506392
+],
   "geometry": {"coordinates":[-111.288768,47.506392],"type":"Point"}
 }

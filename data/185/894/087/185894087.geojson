@@ -2,13 +2,14 @@
   "id": 185894087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.76302,45.665583,-108.76302,45.665583",
     "geom:latitude":45.665583,
     "geom:longitude":-108.76302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S Washington Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185894087,
-    "wof:lastmodified":1449007267,
+    "wof:lastmodified":1466641627,
     "wof:name":"Fiberglass Structures Inc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fiber"
     ]
 },
-  "bbox": [-108.76302,45.665583,-108.76302,45.665583],
+  "bbox": [
+    -108.76302,
+    45.665583,
+    -108.76302,
+    45.665583
+],
   "geometry": {"coordinates":[-108.76302,45.665583],"type":"Point"}
 }

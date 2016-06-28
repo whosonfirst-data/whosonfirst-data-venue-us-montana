@@ -2,13 +2,14 @@
   "id": 185818853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.164105,47.692247,-114.164105,47.692247",
     "geom:latitude":47.692247,
     "geom:longitude":-114.164105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 4th Ave W",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185818853,
-    "wof:lastmodified":1449007411,
+    "wof:lastmodified":1466641557,
     "wof:name":"Odyssey Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.164105,47.692247,-114.164105,47.692247],
-  "geometry": {"coordinates":[-114.164105,47.692247],"type":"Point"}
+  "bbox": [
+    -114.164105,
+    47.692247,
+    -114.164105,
+    47.692247
+],
+  "geometry": {"coordinates":[-114.16410500000001,47.692247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169811877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.500378,45.778703,-108.500378,45.778703",
     "geom:latitude":45.778703,
     "geom:longitude":-108.500378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 S 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169811877,
-    "wof:lastmodified":1449034273,
+    "wof:lastmodified":1466641282,
     "wof:name":"Big G Building Maintenance Cln",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-108.500378,45.778703,-108.500378,45.778703],
+  "bbox": [
+    -108.500378,
+    45.778703,
+    -108.500378,
+    45.778703
+],
   "geometry": {"coordinates":[-108.500378,45.778703],"type":"Point"}
 }

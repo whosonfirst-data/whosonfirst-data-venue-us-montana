@@ -2,13 +2,14 @@
   "id": 186036153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.351693,47.485,-111.351693,47.485",
     "geom:latitude":47.485,
     "geom:longitude":-111.351693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Airport Ct",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186036153,
-    "wof:lastmodified":1449050995,
+    "wof:lastmodified":1466641715,
     "wof:name":"Corporate Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air"
     ]
 },
-  "bbox": [-111.351693,47.485,-111.351693,47.485],
+  "bbox": [
+    -111.351693,
+    47.485,
+    -111.351693,
+    47.485
+],
   "geometry": {"coordinates":[-111.351693,47.485],"type":"Point"}
 }

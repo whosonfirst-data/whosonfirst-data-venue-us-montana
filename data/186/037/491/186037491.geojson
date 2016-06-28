@@ -2,13 +2,14 @@
   "id": 186037491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.110865,47.290207,-111.110865,47.290207",
     "geom:latitude":47.290207,
     "geom:longitude":-111.110865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 Cottonwood Coulee Rd",
     "sg:city":"Stockett",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186037491,
-    "wof:lastmodified":1449053069,
+    "wof:lastmodified":1466641795,
     "wof:name":"Curt Clarke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-111.110865,47.290207,-111.110865,47.290207],
+  "bbox": [
+    -111.110865,
+    47.290207,
+    -111.110865,
+    47.290207
+],
   "geometry": {"coordinates":[-111.110865,47.290207],"type":"Point"}
 }

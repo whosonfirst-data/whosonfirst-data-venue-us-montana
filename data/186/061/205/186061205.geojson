@@ -2,13 +2,14 @@
   "id": 186061205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.501668,45.778078,-108.501668,45.778078",
     "geom:latitude":45.778078,
     "geom:longitude":-108.501668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 S 28th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186061205,
-    "wof:lastmodified":1449052295,
+    "wof:lastmodified":1466642012,
     "wof:name":"MAF Lawn Svc",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-108.501668,45.778078,-108.501668,45.778078],
+  "bbox": [
+    -108.501668,
+    45.778078,
+    -108.501668,
+    45.778078
+],
   "geometry": {"coordinates":[-108.501668,45.778078],"type":"Point"}
 }

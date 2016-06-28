@@ -2,13 +2,14 @@
   "id": 185707139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.548859,46.014701,-112.548859,46.014701",
     "geom:latitude":46.014701,
     "geom:longitude":-112.548859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"833 W Quartz St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185707139,
-    "wof:lastmodified":1449007981,
+    "wof:lastmodified":1466641772,
     "wof:name":"Hadnagy Photography",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photography"
     ]
 },
-  "bbox": [-112.548859,46.014701,-112.548859,46.014701],
-  "geometry": {"coordinates":[-112.548859,46.014701],"type":"Point"}
+  "bbox": [
+    -112.548859,
+    46.014701,
+    -112.548859,
+    46.014701
+],
+  "geometry": {"coordinates":[-112.54885899999999,46.014701],"type":"Point"}
 }

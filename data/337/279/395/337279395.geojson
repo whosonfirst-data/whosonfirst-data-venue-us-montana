@@ -2,13 +2,14 @@
   "id": 337279395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.439832,45.80418,-108.439832,45.80418",
     "geom:latitude":45.80418,
     "geom:longitude":-108.439832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Reynolds St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337279395,
-    "wof:lastmodified":1449027320,
+    "wof:lastmodified":1466641226,
     "wof:name":"Hail Masters",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-108.439832,45.80418,-108.439832,45.80418],
+  "bbox": [
+    -108.439832,
+    45.80418,
+    -108.439832,
+    45.80418
+],
   "geometry": {"coordinates":[-108.439832,45.80418],"type":"Point"}
 }

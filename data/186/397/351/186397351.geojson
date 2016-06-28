@@ -2,13 +2,14 @@
   "id": 186397351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.995889,46.861086,-113.995889,46.861086",
     "geom:latitude":46.861086,
     "geom:longitude":-113.995889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Gerald Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186397351,
-    "wof:lastmodified":1449051439,
+    "wof:lastmodified":1466642852,
     "wof:name":"Kappa Kappa Gamma Inc",
     "wof:parent_id":85891729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sorority"
     ]
 },
-  "bbox": [-113.995889,46.861086,-113.995889,46.861086],
-  "geometry": {"coordinates":[-113.995889,46.861086],"type":"Point"}
+  "bbox": [
+    -113.995889,
+    46.861086,
+    -113.995889,
+    46.861086
+],
+  "geometry": {"coordinates":[-113.99588900000001,46.861086],"type":"Point"}
 }

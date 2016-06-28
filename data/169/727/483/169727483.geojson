@@ -2,13 +2,14 @@
   "id": 169727483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.540881,45.761323,-108.540881,45.761323",
     "geom:latitude":45.761323,
     "geom:longitude":-108.540881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169727483,
-    "wof:lastmodified":1449033191,
+    "wof:lastmodified":1466641740,
     "wof:name":"Catey Cntrls Hydrlics Pneumati",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [-108.540881,45.761323,-108.540881,45.761323],
+  "bbox": [
+    -108.540881,
+    45.761323,
+    -108.540881,
+    45.761323
+],
   "geometry": {"coordinates":[-108.540881,45.761323],"type":"Point"}
 }

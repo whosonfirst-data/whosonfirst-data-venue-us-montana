@@ -2,13 +2,14 @@
   "id": 186197939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.927353,45.621624,-110.927353,45.621624",
     "geom:latitude":45.621624,
     "geom:longitude":-110.927353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14080 Lone Bear Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186197939,
-    "wof:lastmodified":1449052674,
+    "wof:lastmodified":1466642262,
     "wof:name":"Frohnmayer John Atty At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.927353,45.621624,-110.927353,45.621624],
+  "bbox": [
+    -110.927353,
+    45.621624,
+    -110.927353,
+    45.621624
+],
   "geometry": {"coordinates":[-110.927353,45.621624],"type":"Point"}
 }

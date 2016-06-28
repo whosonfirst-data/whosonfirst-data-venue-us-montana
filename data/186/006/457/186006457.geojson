@@ -2,13 +2,14 @@
   "id": 186006457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.635765,45.217644,-112.635765,45.217644",
     "geom:latitude":45.217644,
     "geom:longitude":-112.635765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 N Idaho St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186006457,
-    "wof:lastmodified":1449052487,
+    "wof:lastmodified":1466641906,
     "wof:name":"Moving Image Health Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-112.635765,45.217644,-112.635765,45.217644],
-  "geometry": {"coordinates":[-112.635765,45.217644],"type":"Point"}
+  "bbox": [
+    -112.635765,
+    45.217644,
+    -112.635765,
+    45.217644
+],
+  "geometry": {"coordinates":[-112.63576500000001,45.217644],"type":"Point"}
 }

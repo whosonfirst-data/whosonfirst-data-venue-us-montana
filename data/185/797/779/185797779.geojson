@@ -2,13 +2,14 @@
   "id": 185797779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.498008,45.776117,-108.498008,45.776117",
     "geom:latitude":45.776117,
     "geom:longitude":-108.498008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 S 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185797779,
-    "wof:lastmodified":1449008063,
+    "wof:lastmodified":1466641532,
     "wof:name":"Painters Local 1922",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painter"
     ]
 },
-  "bbox": [-108.498008,45.776117,-108.498008,45.776117],
+  "bbox": [
+    -108.498008,
+    45.776117,
+    -108.498008,
+    45.776117
+],
   "geometry": {"coordinates":[-108.498008,45.776117],"type":"Point"}
 }

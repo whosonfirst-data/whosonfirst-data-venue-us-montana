@@ -2,13 +2,14 @@
   "id": 186314491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.624679,45.72615,-107.624679,45.72615",
     "geom:latitude":45.72615,
     "geom:longitude":-107.624679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Rangeview Dr",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186314491,
-    "wof:lastmodified":1449052921,
+    "wof:lastmodified":1466642410,
     "wof:name":"Rapid Transit Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-107.624679,45.72615,-107.624679,45.72615],
+  "bbox": [
+    -107.624679,
+    45.72615,
+    -107.624679,
+    45.72615
+],
   "geometry": {"coordinates":[-107.624679,45.72615],"type":"Point"}
 }

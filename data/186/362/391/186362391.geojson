@@ -2,13 +2,14 @@
   "id": 186362391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.326936,47.485992,-111.326936,47.485992",
     "geom:latitude":47.485992,
     "geom:longitude":-111.326936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 Dahlia Ct",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186362391,
-    "wof:lastmodified":1449052109,
+    "wof:lastmodified":1466642764,
     "wof:name":"Murray Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-111.326936,47.485992,-111.326936,47.485992],
+  "bbox": [
+    -111.326936,
+    47.485992,
+    -111.326936,
+    47.485992
+],
   "geometry": {"coordinates":[-111.326936,47.485992],"type":"Point"}
 }

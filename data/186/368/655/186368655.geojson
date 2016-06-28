@@ -2,13 +2,14 @@
   "id": 186368655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.459347,45.505329,-109.459347,45.505329",
     "geom:latitude":45.505329,
     "geom:longitude":-109.459347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Nitche Rd",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186368655,
-    "wof:lastmodified":1449051020,
+    "wof:lastmodified":1466642781,
     "wof:name":"Flanagan Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.459347,45.505329,-109.459347,45.505329],
-  "geometry": {"coordinates":[-109.459347,45.505329],"type":"Point"}
+  "bbox": [
+    -109.459347,
+    45.505329,
+    -109.459347,
+    45.505329
+],
+  "geometry": {"coordinates":[-109.45934699999999,45.505329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186049013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.256337,45.637788,-109.256337,45.637788",
     "geom:latitude":45.637788,
     "geom:longitude":-109.256337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 E Pike Ave",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186049013,
-    "wof:lastmodified":1449051708,
+    "wof:lastmodified":1466642003,
     "wof:name":"Hanson Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-109.256337,45.637788,-109.256337,45.637788],
+  "bbox": [
+    -109.256337,
+    45.637788,
+    -109.256337,
+    45.637788
+],
   "geometry": {"coordinates":[-109.256337,45.637788],"type":"Point"}
 }

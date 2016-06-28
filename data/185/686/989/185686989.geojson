@@ -2,13 +2,14 @@
   "id": 185686989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.436578,48.302567,-114.436578,48.302567",
     "geom:latitude":48.302567,
     "geom:longitude":-114.436578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Sunday Ln",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185686989,
-    "wof:lastmodified":1449007835,
+    "wof:lastmodified":1466641413,
     "wof:name":"Home Options Hospice",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-114.436578,48.302567,-114.436578,48.302567],
+  "bbox": [
+    -114.436578,
+    48.302567,
+    -114.436578,
+    48.302567
+],
   "geometry": {"coordinates":[-114.436578,48.302567],"type":"Point"}
 }

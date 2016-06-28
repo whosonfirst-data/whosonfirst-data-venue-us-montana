@@ -2,13 +2,14 @@
   "id": 185789881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.678349,48.55245,-109.678349,48.55245",
     "geom:latitude":48.55245,
     "geom:longitude":-109.678349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 3rd Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185789881,
-    "wof:lastmodified":1449007342,
+    "wof:lastmodified":1466641522,
     "wof:name":"Petal Pusher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gift"
     ]
 },
-  "bbox": [-109.678349,48.55245,-109.678349,48.55245],
+  "bbox": [
+    -109.678349,
+    48.55245,
+    -109.678349,
+    48.55245
+],
   "geometry": {"coordinates":[-109.678349,48.55245],"type":"Point"}
 }

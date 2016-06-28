@@ -2,13 +2,14 @@
   "id": 169792807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.733003,46.396694,-112.733003,46.396694",
     "geom:latitude":46.396694,
     "geom:longitude":-112.733003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Montana Ave",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169792807,
-    "wof:lastmodified":1449033392,
+    "wof:lastmodified":1466641758,
     "wof:name":"Montana Education Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.733003,46.396694,-112.733003,46.396694],
+  "bbox": [
+    -112.733003,
+    46.396694,
+    -112.733003,
+    46.396694
+],
   "geometry": {"coordinates":[-112.733003,46.396694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186348193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.746102,45.650272,-108.746102,45.650272",
     "geom:latitude":45.650272,
     "geom:longitude":-108.746102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 Thiel Rd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186348193,
-    "wof:lastmodified":1449050393,
+    "wof:lastmodified":1466642712,
     "wof:name":"Riverside Repair Radiator Inc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-108.746102,45.650272,-108.746102,45.650272],
-  "geometry": {"coordinates":[-108.746102,45.650272],"type":"Point"}
+  "bbox": [
+    -108.746102,
+    45.650272,
+    -108.746102,
+    45.650272
+],
+  "geometry": {"coordinates":[-108.74610199999999,45.650272],"type":"Point"}
 }

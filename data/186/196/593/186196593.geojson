@@ -2,13 +2,14 @@
   "id": 186196593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.349141,45.928196,-108.349141,45.928196",
     "geom:latitude":45.928196,
     "geom:longitude":-108.349141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7110 Bronco Rd",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186196593,
-    "wof:lastmodified":1449051005,
+    "wof:lastmodified":1466642264,
     "wof:name":"Montana Equine Exposition",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.349141,45.928196,-108.349141,45.928196],
+  "bbox": [
+    -108.349141,
+    45.928196,
+    -108.349141,
+    45.928196
+],
   "geometry": {"coordinates":[-108.349141,45.928196],"type":"Point"}
 }

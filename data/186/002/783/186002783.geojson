@@ -2,13 +2,14 @@
   "id": 186002783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.087651,46.7568,-114.087651,46.7568",
     "geom:latitude":46.7568,
     "geom:longitude":-114.087651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 US Hwy 12",
     "sg:city":"Lolo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186002783,
-    "wof:lastmodified":1449052523,
+    "wof:lastmodified":1466641239,
     "wof:name":"Guys Lolo Creek Steakhouse",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-114.087651,46.7568,-114.087651,46.7568],
-  "geometry": {"coordinates":[-114.087651,46.7568],"type":"Point"}
+  "bbox": [
+    -114.087651,
+    46.7568,
+    -114.087651,
+    46.7568
+],
+  "geometry": {"coordinates":[-114.08765099999999,46.7568],"type":"Point"}
 }

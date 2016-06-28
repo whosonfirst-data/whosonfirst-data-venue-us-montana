@@ -2,13 +2,14 @@
   "id": 186045257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.947233,46.128233,-112.947233,46.128233",
     "geom:latitude":46.128233,
     "geom:longitude":-112.947233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 E Park Ave",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":186045257,
-    "wof:lastmodified":1449052703,
+    "wof:lastmodified":1466641813,
     "wof:name":"Jim & Clara's Dinner Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-112.947233,46.128233,-112.947233,46.128233],
+  "bbox": [
+    -112.947233,
+    46.128233,
+    -112.947233,
+    46.128233
+],
   "geometry": {"coordinates":[-112.947233,46.128233],"type":"Point"}
 }

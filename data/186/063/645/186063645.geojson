@@ -2,13 +2,14 @@
   "id": 186063645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.470634,45.817019,-108.470634,45.817019",
     "geom:latitude":45.817019,
     "geom:longitude":-108.470634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186063645,
-    "wof:lastmodified":1449050479,
+    "wof:lastmodified":1466641855,
     "wof:name":"Shalet Market",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-108.470634,45.817019,-108.470634,45.817019],
+  "bbox": [
+    -108.470634,
+    45.817019,
+    -108.470634,
+    45.817019
+],
   "geometry": {"coordinates":[-108.470634,45.817019],"type":"Point"}
 }

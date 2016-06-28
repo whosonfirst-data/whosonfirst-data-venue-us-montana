@@ -2,13 +2,14 @@
   "id": 186257353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.550454,45.786897,-108.550454,45.786897",
     "geom:latitude":45.786897,
     "geom:longitude":-108.550454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 Ave D",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186257353,
-    "wof:lastmodified":1449051163,
+    "wof:lastmodified":1466642531,
     "wof:name":"B B Builders",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.550454,45.786897,-108.550454,45.786897],
+  "bbox": [
+    -108.550454,
+    45.786897,
+    -108.550454,
+    45.786897
+],
   "geometry": {"coordinates":[-108.550454,45.786897],"type":"Point"}
 }

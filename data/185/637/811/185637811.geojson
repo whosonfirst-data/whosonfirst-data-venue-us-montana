@@ -2,13 +2,14 @@
   "id": 185637811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.542703,45.778096,-108.542703,45.778096",
     "geom:latitude":45.778096,
     "geom:longitude":-108.542703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Wyoming Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185637811,
-    "wof:lastmodified":1449006595,
+    "wof:lastmodified":1466641344,
     "wof:name":"Mart Cox Specialties Inc",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-108.542703,45.778096,-108.542703,45.778096],
+  "bbox": [
+    -108.542703,
+    45.778096,
+    -108.542703,
+    45.778096
+],
   "geometry": {"coordinates":[-108.542703,45.778096],"type":"Point"}
 }

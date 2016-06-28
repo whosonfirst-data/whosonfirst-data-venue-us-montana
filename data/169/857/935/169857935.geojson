@@ -2,13 +2,14 @@
   "id": 169857935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.631139,45.801231,-108.631139,45.801231",
     "geom:latitude":45.801231,
     "geom:longitude":-108.631139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 Pine Cove Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169857935,
-    "wof:lastmodified":1449034825,
+    "wof:lastmodified":1466641348,
     "wof:name":"Pine Cove Consulting LLC",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-108.631139,45.801231,-108.631139,45.801231],
+  "bbox": [
+    -108.631139,
+    45.801231,
+    -108.631139,
+    45.801231
+],
   "geometry": {"coordinates":[-108.631139,45.801231],"type":"Point"}
 }

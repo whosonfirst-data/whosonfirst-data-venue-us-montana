@@ -2,13 +2,14 @@
   "id": 186245729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.195396,45.957694,-108.195396,45.957694",
     "geom:latitude":45.957694,
     "geom:longitude":-108.195396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2375 N 12th Rd",
     "sg:city":"Worden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186245729,
-    "wof:lastmodified":1449052947,
+    "wof:lastmodified":1466642685,
     "wof:name":"Jack Bowser",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.195396,45.957694,-108.195396,45.957694],
+  "bbox": [
+    -108.195396,
+    45.957694,
+    -108.195396,
+    45.957694
+],
   "geometry": {"coordinates":[-108.195396,45.957694],"type":"Point"}
 }

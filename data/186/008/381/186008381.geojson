@@ -2,13 +2,14 @@
   "id": 186008381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.428115,47.064212,-109.428115,47.064212",
     "geom:latitude":47.064212,
     "geom:longitude":-109.428115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 W Main St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186008381,
-    "wof:lastmodified":1449051222,
+    "wof:lastmodified":1466641277,
     "wof:name":"Moccasin Mountain Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "for"
     ]
 },
-  "bbox": [-109.428115,47.064212,-109.428115,47.064212],
-  "geometry": {"coordinates":[-109.428115,47.064212],"type":"Point"}
+  "bbox": [
+    -109.428115,
+    47.064212,
+    -109.428115,
+    47.064212
+],
+  "geometry": {"coordinates":[-109.42811500000001,47.064212],"type":"Point"}
 }

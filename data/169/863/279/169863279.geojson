@@ -2,13 +2,14 @@
   "id": 169863279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.16331,47.692087,-114.16331,47.692087",
     "geom:latitude":47.692087,
     "geom:longitude":-114.16331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Main St",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169863279,
-    "wof:lastmodified":1449034970,
+    "wof:lastmodified":1466641352,
     "wof:name":"Post 2986",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.16331,47.692087,-114.16331,47.692087],
+  "bbox": [
+    -114.16331,
+    47.692087,
+    -114.16331,
+    47.692087
+],
   "geometry": {"coordinates":[-114.16331,47.692087],"type":"Point"}
 }

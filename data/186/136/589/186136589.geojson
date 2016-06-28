@@ -2,13 +2,14 @@
   "id": 186136589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.309625,45.753046,-111.309625,45.753046",
     "geom:latitude":45.753046,
     "geom:longitude":-111.309625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7580 Churchill Rd",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186136589,
-    "wof:lastmodified":1449052994,
+    "wof:lastmodified":1466641958,
     "wof:name":"Dawe Distributing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.309625,45.753046,-111.309625,45.753046],
+  "bbox": [
+    -111.309625,
+    45.753046,
+    -111.309625,
+    45.753046
+],
   "geometry": {"coordinates":[-111.309625,45.753046],"type":"Point"}
 }

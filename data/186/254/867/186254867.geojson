@@ -2,13 +2,14 @@
   "id": 186254867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.106328,47.528665,-114.106328,47.528665",
     "geom:latitude":47.528665,
     "geom:longitude":-114.106328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 6th Ave SW",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186254867,
-    "wof:lastmodified":1449052215,
+    "wof:lastmodified":1466642537,
     "wof:name":"Saint Luke Cmnty Nursing HM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-114.106328,47.528665,-114.106328,47.528665],
+  "bbox": [
+    -114.106328,
+    47.528665,
+    -114.106328,
+    47.528665
+],
   "geometry": {"coordinates":[-114.106328,47.528665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185935029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.59723,45.756139,-108.59723,45.756139",
     "geom:latitude":45.756139,
     "geom:longitude":-108.59723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3213 Henesta Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185935029,
-    "wof:lastmodified":1449007943,
+    "wof:lastmodified":1466641678,
     "wof:name":"Fiberworks Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "quilt"
     ]
 },
-  "bbox": [-108.59723,45.756139,-108.59723,45.756139],
+  "bbox": [
+    -108.59723,
+    45.756139,
+    -108.59723,
+    45.756139
+],
   "geometry": {"coordinates":[-108.59723,45.756139],"type":"Point"}
 }

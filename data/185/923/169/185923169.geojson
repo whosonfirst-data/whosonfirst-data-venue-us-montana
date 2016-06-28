@@ -2,13 +2,14 @@
   "id": 185923169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.093209,46.503143,-114.093209,46.503143",
     "geom:latitude":46.503143,
     "geom:longitude":-114.093209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Main St",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185923169,
-    "wof:lastmodified":1449008136,
+    "wof:lastmodified":1466641664,
     "wof:name":"Kootenai Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-114.093209,46.503143,-114.093209,46.503143],
+  "bbox": [
+    -114.093209,
+    46.503143,
+    -114.093209,
+    46.503143
+],
   "geometry": {"coordinates":[-114.093209,46.503143],"type":"Point"}
 }

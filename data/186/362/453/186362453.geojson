@@ -2,13 +2,14 @@
   "id": 186362453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.498658,45.817347,-108.498658,45.817347",
     "geom:latitude":45.817347,
     "geom:longitude":-108.498658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Toole Cir",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186362453,
-    "wof:lastmodified":1449052109,
+    "wof:lastmodified":1466642766,
     "wof:name":"Mountain Computer Solutions",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-108.498658,45.817347,-108.498658,45.817347],
-  "geometry": {"coordinates":[-108.498658,45.817347],"type":"Point"}
+  "bbox": [
+    -108.498658,
+    45.817347,
+    -108.498658,
+    45.817347
+],
+  "geometry": {"coordinates":[-108.49865800000001,45.817347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169817039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576167,45.776002,-108.576167,45.776002",
     "geom:latitude":45.776002,
     "geom:longitude":-108.576167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169817039,
-    "wof:lastmodified":1449035316,
+    "wof:lastmodified":1466641762,
     "wof:name":"Airtel",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-108.576167,45.776002,-108.576167,45.776002],
+  "bbox": [
+    -108.576167,
+    45.776002,
+    -108.576167,
+    45.776002
+],
   "geometry": {"coordinates":[-108.576167,45.776002],"type":"Point"}
 }

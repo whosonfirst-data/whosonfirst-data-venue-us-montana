@@ -2,13 +2,14 @@
   "id": 186058007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.90965,45.727227,-110.90965,45.727227",
     "geom:latitude":45.727227,
     "geom:longitude":-110.90965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8653 Bridger Canyon Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186058007,
-    "wof:lastmodified":1449050788,
+    "wof:lastmodified":1466642003,
     "wof:name":"Montana Molecular LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "molecular"
     ]
 },
-  "bbox": [-110.90965,45.727227,-110.90965,45.727227],
+  "bbox": [
+    -110.90965,
+    45.727227,
+    -110.90965,
+    45.727227
+],
   "geometry": {"coordinates":[-110.90965,45.727227],"type":"Point"}
 }

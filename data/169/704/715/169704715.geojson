@@ -2,13 +2,14 @@
   "id": 169704715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.090379,47.399036,-114.090379,47.399036",
     "geom:latitude":47.399036,
     "geom:longitude":-114.090379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 E Post Creek Rd",
     "sg:city":"Saint Ignatius",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169704715,
-    "wof:lastmodified":1449033553,
+    "wof:lastmodified":1466641162,
     "wof:name":"Carol Cahoon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fighting"
     ]
 },
-  "bbox": [-114.090379,47.399036,-114.090379,47.399036],
+  "bbox": [
+    -114.090379,
+    47.399036,
+    -114.090379,
+    47.399036
+],
   "geometry": {"coordinates":[-114.090379,47.399036],"type":"Point"}
 }

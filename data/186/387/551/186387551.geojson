@@ -2,13 +2,14 @@
   "id": 186387551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.548588,45.786936,-108.548588,45.786936",
     "geom:latitude":45.786936,
     "geom:longitude":-108.548588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1711 13th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186387551,
-    "wof:lastmodified":1449052653,
+    "wof:lastmodified":1466642831,
     "wof:name":"Childrens Dental Center",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.548588,45.786936,-108.548588,45.786936],
+  "bbox": [
+    -108.548588,
+    45.786936,
+    -108.548588,
+    45.786936
+],
   "geometry": {"coordinates":[-108.548588,45.786936],"type":"Point"}
 }

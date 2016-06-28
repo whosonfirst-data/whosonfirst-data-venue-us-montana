@@ -2,13 +2,14 @@
   "id": 186271403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.630857,45.22329,-112.630857,45.22329",
     "geom:latitude":45.22329,
     "geom:longitude":-112.630857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"693 N Montana St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186271403,
-    "wof:lastmodified":1449051776,
+    "wof:lastmodified":1466642571,
     "wof:name":"Peak Espresso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-112.630857,45.22329,-112.630857,45.22329],
-  "geometry": {"coordinates":[-112.630857,45.22329],"type":"Point"}
+  "bbox": [
+    -112.630857,
+    45.22329,
+    -112.630857,
+    45.22329
+],
+  "geometry": {"coordinates":[-112.63085700000001,45.22329],"type":"Point"}
 }

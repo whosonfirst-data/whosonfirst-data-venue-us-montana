@@ -2,13 +2,14 @@
   "id": 186242351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.19333,45.675395,-111.19333,45.675395",
     "geom:latitude":45.675395,
     "geom:longitude":-111.19333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8002 Timberline Dr",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186242351,
-    "wof:lastmodified":1449052701,
+    "wof:lastmodified":1466642508,
     "wof:name":"Dp Coatings Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "exterior"
     ]
 },
-  "bbox": [-111.19333,45.675395,-111.19333,45.675395],
+  "bbox": [
+    -111.19333,
+    45.675395,
+    -111.19333,
+    45.675395
+],
   "geometry": {"coordinates":[-111.19333,45.675395],"type":"Point"}
 }

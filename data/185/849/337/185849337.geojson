@@ -2,13 +2,14 @@
   "id": 185849337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.151627,46.250715,-114.151627,46.250715",
     "geom:latitude":46.250715,
     "geom:longitude":-114.151627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Skeels Ave",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185849337,
-    "wof:lastmodified":1449006915,
+    "wof:lastmodified":1466641582,
     "wof:name":"Sparrow Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-114.151627,46.250715,-114.151627,46.250715],
+  "bbox": [
+    -114.151627,
+    46.250715,
+    -114.151627,
+    46.250715
+],
   "geometry": {"coordinates":[-114.151627,46.250715],"type":"Point"}
 }

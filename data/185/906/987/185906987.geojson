@@ -2,13 +2,14 @@
   "id": 185906987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.541006,45.791595,-108.541006,45.791595",
     "geom:latitude":45.791595,
     "geom:longitude":-108.541006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 Azalea Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185906987,
-    "wof:lastmodified":1449007218,
+    "wof:lastmodified":1466641652,
     "wof:name":"Billings Vlleyball Booster CLB",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.541006,45.791595,-108.541006,45.791595],
+  "bbox": [
+    -108.541006,
+    45.791595,
+    -108.541006,
+    45.791595
+],
   "geometry": {"coordinates":[-108.541006,45.791595],"type":"Point"}
 }

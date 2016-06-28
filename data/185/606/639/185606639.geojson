@@ -2,13 +2,14 @@
   "id": 185606639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.503566,46.294889,-108.503566,46.294889",
     "geom:latitude":46.294889,
     "geom:longitude":-108.503566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Hampton Rd",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185606639,
-    "wof:lastmodified":1449006865,
+    "wof:lastmodified":1466641181,
     "wof:name":"EBM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "machinery"
     ]
 },
-  "bbox": [-108.503566,46.294889,-108.503566,46.294889],
-  "geometry": {"coordinates":[-108.503566,46.294889],"type":"Point"}
+  "bbox": [
+    -108.503566,
+    46.294889,
+    -108.503566,
+    46.294889
+],
+  "geometry": {"coordinates":[-108.50356600000001,46.294889],"type":"Point"}
 }

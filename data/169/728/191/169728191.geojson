@@ -2,13 +2,14 @@
   "id": 169728191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.028666,46.576752,-114.028666,46.576752",
     "geom:latitude":46.576752,
     "geom:longitude":-114.028666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Porter Hill Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169728191,
-    "wof:lastmodified":1449033461,
+    "wof:lastmodified":1466641741,
     "wof:name":"Glenn Smith Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.028666,46.576752,-114.028666,46.576752],
+  "bbox": [
+    -114.028666,
+    46.576752,
+    -114.028666,
+    46.576752
+],
   "geometry": {"coordinates":[-114.028666,46.576752],"type":"Point"}
 }

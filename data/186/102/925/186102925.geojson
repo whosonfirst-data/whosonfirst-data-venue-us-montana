@@ -2,13 +2,14 @@
   "id": 186102925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.520358,48.278566,-115.520358,48.278566",
     "geom:latitude":48.278566,
     "geom:longitude":-115.520358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Bear Creek Rd",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186102925,
-    "wof:lastmodified":1449052824,
+    "wof:lastmodified":1466641794,
     "wof:name":"JP Teez Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.520358,48.278566,-115.520358,48.278566],
+  "bbox": [
+    -115.520358,
+    48.278566,
+    -115.520358,
+    48.278566
+],
   "geometry": {"coordinates":[-115.520358,48.278566],"type":"Point"}
 }

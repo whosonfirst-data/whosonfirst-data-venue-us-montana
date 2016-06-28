@@ -2,13 +2,14 @@
   "id": 169700595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.257386,47.4896,-111.257386,47.4896",
     "geom:latitude":47.4896,
     "geom:longitude":-111.257386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 15th Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169700595,
-    "wof:lastmodified":1449035671,
+    "wof:lastmodified":1466641152,
     "wof:name":"Evergreen Veterinary Clnc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.257386,47.4896,-111.257386,47.4896],
+  "bbox": [
+    -111.257386,
+    47.4896,
+    -111.257386,
+    47.4896
+],
   "geometry": {"coordinates":[-111.257386,47.4896],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186374101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.709116,48.036727,-114.709116,48.036727",
     "geom:latitude":48.036727,
     "geom:longitude":-114.709116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Hubbart Dam Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186374101,
-    "wof:lastmodified":1449051538,
+    "wof:lastmodified":1466642791,
     "wof:name":"Wilderness Treatment School",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-114.709116,48.036727,-114.709116,48.036727],
-  "geometry": {"coordinates":[-114.709116,48.036727],"type":"Point"}
+  "bbox": [
+    -114.709116,
+    48.036727,
+    -114.709116,
+    48.036727
+],
+  "geometry": {"coordinates":[-114.70911599999999,48.036727],"type":"Point"}
 }

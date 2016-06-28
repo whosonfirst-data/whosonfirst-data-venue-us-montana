@@ -2,13 +2,14 @@
   "id": 186192669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576139,45.763449,-108.576139,45.763449",
     "geom:latitude":45.763449,
     "geom:longitude":-108.576139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186192669,
-    "wof:lastmodified":1449052251,
+    "wof:lastmodified":1466642241,
     "wof:name":"Gap & Gap Kids",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.576139,45.763449,-108.576139,45.763449],
+  "bbox": [
+    -108.576139,
+    45.763449,
+    -108.576139,
+    45.763449
+],
   "geometry": {"coordinates":[-108.576139,45.763449],"type":"Point"}
 }

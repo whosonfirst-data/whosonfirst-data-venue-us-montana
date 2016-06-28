@@ -2,13 +2,14 @@
   "id": 186325739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.330403,48.195122,-114.330403,48.195122",
     "geom:latitude":48.195122,
     "geom:longitude":-114.330403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 S Meridian Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186325739,
-    "wof:lastmodified":1449051412,
+    "wof:lastmodified":1466642819,
     "wof:name":"Rainbow Paints-N-More",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-114.330403,48.195122,-114.330403,48.195122],
+  "bbox": [
+    -114.330403,
+    48.195122,
+    -114.330403,
+    48.195122
+],
   "geometry": {"coordinates":[-114.330403,48.195122],"type":"Point"}
 }

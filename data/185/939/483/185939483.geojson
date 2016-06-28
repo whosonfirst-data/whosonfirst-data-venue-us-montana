@@ -2,13 +2,14 @@
   "id": 185939483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.233834,46.293102,-107.233834,46.293102",
     "geom:latitude":46.293102,
     "geom:longitude":-107.233834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Spurling St",
     "sg:city":"Hysham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185939483,
-    "wof:lastmodified":1449007088,
+    "wof:lastmodified":1466641692,
     "wof:name":"Shear Excellence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-107.233834,46.293102,-107.233834,46.293102],
+  "bbox": [
+    -107.233834,
+    46.293102,
+    -107.233834,
+    46.293102
+],
   "geometry": {"coordinates":[-107.233834,46.293102],"type":"Point"}
 }

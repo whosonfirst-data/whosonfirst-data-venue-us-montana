@@ -2,13 +2,14 @@
   "id": 185857637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.160275,47.690239,-114.160275,47.690239",
     "geom:latitude":47.690239,
     "geom:longitude":-114.160275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 6th Ave E",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185857637,
-    "wof:lastmodified":1449007640,
+    "wof:lastmodified":1466641596,
     "wof:name":"Grogan Funeral Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-114.160275,47.690239,-114.160275,47.690239],
+  "bbox": [
+    -114.160275,
+    47.690239,
+    -114.160275,
+    47.690239
+],
   "geometry": {"coordinates":[-114.160275,47.690239],"type":"Point"}
 }

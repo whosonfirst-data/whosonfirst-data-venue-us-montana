@@ -2,13 +2,14 @@
   "id": 185743129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.099614,44.655065,-111.099614,44.655065",
     "geom:latitude":44.655065,
     "geom:longitude":-111.099614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 S Canyon St",
     "sg:city":"West Yellowstone",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185743129,
-    "wof:lastmodified":1449008194,
+    "wof:lastmodified":1466641465,
     "wof:name":"KEZQ",
     "wof:parent_id":85891741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-111.099614,44.655065,-111.099614,44.655065],
+  "bbox": [
+    -111.099614,
+    44.655065,
+    -111.099614,
+    44.655065
+],
   "geometry": {"coordinates":[-111.099614,44.655065],"type":"Point"}
 }

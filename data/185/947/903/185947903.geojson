@@ -2,13 +2,14 @@
   "id": 185947903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.003067,46.864918,-114.003067,46.864918",
     "geom:latitude":46.864918,
     "geom:longitude":-114.003067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 S 5th St W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185947903,
-    "wof:lastmodified":1449007755,
+    "wof:lastmodified":1466641709,
     "wof:name":"Homeier Hess Law Firm",
     "wof:parent_id":85891731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.003067,46.864918,-114.003067,46.864918],
+  "bbox": [
+    -114.003067,
+    46.864918,
+    -114.003067,
+    46.864918
+],
   "geometry": {"coordinates":[-114.003067,46.864918],"type":"Point"}
 }

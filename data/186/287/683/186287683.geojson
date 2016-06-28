@@ -2,13 +2,14 @@
   "id": 186287683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.519802,48.300094,-115.519802,48.300094",
     "geom:latitude":48.300094,
     "geom:longitude":-115.519802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8004 US Hwy 2 S",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186287683,
-    "wof:lastmodified":1449050425,
+    "wof:lastmodified":1466642592,
     "wof:name":"Jim's Custom Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-115.519802,48.300094,-115.519802,48.300094],
+  "bbox": [
+    -115.519802,
+    48.300094,
+    -115.519802,
+    48.300094
+],
   "geometry": {"coordinates":[-115.519802,48.300094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185627389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.33267,48.399871,-114.33267,48.399871",
     "geom:latitude":48.399871,
     "geom:longitude":-114.33267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 E 13th St",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185627389,
-    "wof:lastmodified":1449008253,
+    "wof:lastmodified":1466641310,
     "wof:name":"Professional Therapy Associate",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-114.33267,48.399871,-114.33267,48.399871],
-  "geometry": {"coordinates":[-114.33267,48.399871],"type":"Point"}
+  "bbox": [
+    -114.33267,
+    48.399871,
+    -114.33267,
+    48.399871
+],
+  "geometry": {"coordinates":[-114.33266999999999,48.399871],"type":"Point"}
 }

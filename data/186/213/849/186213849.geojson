@@ -2,13 +2,14 @@
   "id": 186213849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.640713,48.100495,-105.640713,48.100495",
     "geom:latitude":48.100495,
     "geom:longitude":-105.640713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Johnson St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186213849,
-    "wof:lastmodified":1449050282,
+    "wof:lastmodified":1466642580,
     "wof:name":"Brent Hintz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-105.640713,48.100495,-105.640713,48.100495],
-  "geometry": {"coordinates":[-105.640713,48.100495],"type":"Point"}
+  "bbox": [
+    -105.640713,
+    48.100495,
+    -105.640713,
+    48.100495
+],
+  "geometry": {"coordinates":[-105.64071300000001,48.100495],"type":"Point"}
 }

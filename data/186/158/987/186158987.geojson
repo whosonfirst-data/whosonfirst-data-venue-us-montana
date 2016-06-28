@@ -2,13 +2,14 @@
   "id": 186158987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.917153,45.294531,-108.917153,45.294531",
     "geom:latitude":45.294531,
     "geom:longitude":-108.917153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S 3rd St",
     "sg:city":"Bridger",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186158987,
-    "wof:lastmodified":1449052157,
+    "wof:lastmodified":1466641997,
     "wof:name":"Heartfelt Fibers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.917153,45.294531,-108.917153,45.294531],
+  "bbox": [
+    -108.917153,
+    45.294531,
+    -108.917153,
+    45.294531
+],
   "geometry": {"coordinates":[-108.917153,45.294531],"type":"Point"}
 }

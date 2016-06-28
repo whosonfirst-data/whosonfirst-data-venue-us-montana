@@ -2,13 +2,14 @@
   "id": 169738617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.345874,47.478258,-111.345874,47.478258",
     "geom:latitude":47.478258,
     "geom:longitude":-111.345874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2777 Fern Dr",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169738617,
-    "wof:lastmodified":1449035095,
+    "wof:lastmodified":1466641170,
     "wof:name":"H & P Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "operative"
     ]
 },
-  "bbox": [-111.345874,47.478258,-111.345874,47.478258],
-  "geometry": {"coordinates":[-111.345874,47.478258],"type":"Point"}
+  "bbox": [
+    -111.345874,
+    47.478258,
+    -111.345874,
+    47.478258
+],
+  "geometry": {"coordinates":[-111.34587399999999,47.478258],"type":"Point"}
 }

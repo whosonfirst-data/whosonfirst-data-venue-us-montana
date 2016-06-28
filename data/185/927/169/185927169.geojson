@@ -2,13 +2,14 @@
   "id": 185927169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.018816,46.598712,-112.018816,46.598712",
     "geom:latitude":46.598712,
     "geom:longitude":-112.018816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Helena Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185927169,
-    "wof:lastmodified":1449008054,
+    "wof:lastmodified":1466641668,
     "wof:name":"Region Four",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "family"
     ]
 },
-  "bbox": [-112.018816,46.598712,-112.018816,46.598712],
+  "bbox": [
+    -112.018816,
+    46.598712,
+    -112.018816,
+    46.598712
+],
   "geometry": {"coordinates":[-112.018816,46.598712],"type":"Point"}
 }

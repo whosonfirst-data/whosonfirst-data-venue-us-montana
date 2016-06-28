@@ -2,13 +2,14 @@
   "id": 185823319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.631941,48.195245,-106.631941,48.195245",
     "geom:latitude":48.195245,
     "geom:longitude":-106.631941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Klein Ave",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185823319,
-    "wof:lastmodified":1449008180,
+    "wof:lastmodified":1466641557,
     "wof:name":"Western States Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.631941,48.195245,-106.631941,48.195245],
+  "bbox": [
+    -106.631941,
+    48.195245,
+    -106.631941,
+    48.195245
+],
   "geometry": {"coordinates":[-106.631941,48.195245],"type":"Point"}
 }

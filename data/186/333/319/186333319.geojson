@@ -2,13 +2,14 @@
   "id": 186333319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.679079,48.554397,-109.679079,48.554397",
     "geom:latitude":48.554397,
     "geom:longitude":-109.679079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Main St",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186333319,
-    "wof:lastmodified":1449052844,
+    "wof:lastmodified":1466642677,
     "wof:name":"Bnrr Signal Dept Supervisior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "line"
     ]
 },
-  "bbox": [-109.679079,48.554397,-109.679079,48.554397],
+  "bbox": [
+    -109.679079,
+    48.554397,
+    -109.679079,
+    48.554397
+],
   "geometry": {"coordinates":[-109.679079,48.554397],"type":"Point"}
 }

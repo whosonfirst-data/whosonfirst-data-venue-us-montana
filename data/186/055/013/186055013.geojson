@@ -2,13 +2,14 @@
   "id": 186055013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.314715,48.201002,-114.314715,48.201002",
     "geom:latitude":48.201002,
     "geom:longitude":-114.314715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 N Main St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186055013,
-    "wof:lastmodified":1449051000,
+    "wof:lastmodified":1466641825,
     "wof:name":"Herbergers 040",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.314715,48.201002,-114.314715,48.201002],
-  "geometry": {"coordinates":[-114.314715,48.201002],"type":"Point"}
+  "bbox": [
+    -114.314715,
+    48.201002,
+    -114.314715,
+    48.201002
+],
+  "geometry": {"coordinates":[-114.31471500000001,48.201002],"type":"Point"}
 }

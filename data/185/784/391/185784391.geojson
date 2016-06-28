@@ -2,13 +2,14 @@
   "id": 185784391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.633245,45.799564,-108.633245,45.799564",
     "geom:latitude":45.799564,
     "geom:longitude":-108.633245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4604 Audubon Way",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185784391,
-    "wof:lastmodified":1449007669,
+    "wof:lastmodified":1466641513,
     "wof:name":"Smoke Signal Structure Protect",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "structure"
     ]
 },
-  "bbox": [-108.633245,45.799564,-108.633245,45.799564],
+  "bbox": [
+    -108.633245,
+    45.799564,
+    -108.633245,
+    45.799564
+],
   "geometry": {"coordinates":[-108.633245,45.799564],"type":"Point"}
 }

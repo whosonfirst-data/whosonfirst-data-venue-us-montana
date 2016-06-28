@@ -2,13 +2,14 @@
   "id": 169696477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.522373,45.817158,-108.522373,45.817158",
     "geom:latitude":45.817158,
     "geom:longitude":-108.522373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1370 Valley Heights Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169696477,
-    "wof:lastmodified":1449032923,
+    "wof:lastmodified":1466641147,
     "wof:name":"Truchot Heating & Air Cond",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.522373,45.817158,-108.522373,45.817158],
+  "bbox": [
+    -108.522373,
+    45.817158,
+    -108.522373,
+    45.817158
+],
   "geometry": {"coordinates":[-108.522373,45.817158],"type":"Point"}
 }

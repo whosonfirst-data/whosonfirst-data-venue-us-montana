@@ -2,13 +2,14 @@
   "id": 185765205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.003508,48.09538,-114.003508,48.09538",
     "geom:latitude":48.09538,
     "geom:longitude":-114.003508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 Swan Hwy",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185765205,
-    "wof:lastmodified":1449007536,
+    "wof:lastmodified":1466641490,
     "wof:name":"Andy Cottle",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.003508,48.09538,-114.003508,48.09538],
+  "bbox": [
+    -114.003508,
+    48.09538,
+    -114.003508,
+    48.09538
+],
   "geometry": {"coordinates":[-114.003508,48.09538],"type":"Point"}
 }

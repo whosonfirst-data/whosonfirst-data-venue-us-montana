@@ -2,13 +2,14 @@
   "id": 169783627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.029932,45.858235,-114.029932,45.858235",
     "geom:latitude":45.858235,
     "geom:longitude":-114.029932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Bertie Lord Ln",
     "sg:city":"Conner",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169783627,
-    "wof:lastmodified":1449032795,
+    "wof:lastmodified":1466641246,
     "wof:name":"Image House Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-114.029932,45.858235,-114.029932,45.858235],
+  "bbox": [
+    -114.029932,
+    45.858235,
+    -114.029932,
+    45.858235
+],
   "geometry": {"coordinates":[-114.029932,45.858235],"type":"Point"}
 }

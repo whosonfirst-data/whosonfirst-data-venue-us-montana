@@ -2,13 +2,14 @@
   "id": 185641129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.013427,46.855962,-114.013427,46.855962",
     "geom:latitude":46.855962,
     "geom:longitude":-114.013427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Mount Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185641129,
-    "wof:lastmodified":1449007841,
+    "wof:lastmodified":1466641350,
     "wof:name":"Hoyt Homes Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.013427,46.855962,-114.013427,46.855962],
-  "geometry": {"coordinates":[-114.013427,46.855962],"type":"Point"}
+  "bbox": [
+    -114.013427,
+    46.855962,
+    -114.013427,
+    46.855962
+],
+  "geometry": {"coordinates":[-114.01342699999999,46.855962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186020137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.435843,45.798261,-108.435843,45.798261",
     "geom:latitude":45.798261,
     "geom:longitude":-108.435843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1932 US Hwy 87 E",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186020137,
-    "wof:lastmodified":1449051632,
+    "wof:lastmodified":1466641454,
     "wof:name":"Eastern Yellowstone Special Ed",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "administrative"
     ]
 },
-  "bbox": [-108.435843,45.798261,-108.435843,45.798261],
-  "geometry": {"coordinates":[-108.435843,45.798261],"type":"Point"}
+  "bbox": [
+    -108.435843,
+    45.798261,
+    -108.435843,
+    45.798261
+],
+  "geometry": {"coordinates":[-108.43584300000001,45.798261],"type":"Point"}
 }

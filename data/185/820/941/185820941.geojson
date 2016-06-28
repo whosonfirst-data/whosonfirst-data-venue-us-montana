@@ -2,13 +2,14 @@
   "id": 185820941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.503622,45.699924,-108.503622,45.699924",
     "geom:latitude":45.699924,
     "geom:longitude":-108.503622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3344 Aquiesta",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185820941,
-    "wof:lastmodified":1449007465,
+    "wof:lastmodified":1466641559,
     "wof:name":"Wickham Construction",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-108.503622,45.699924,-108.503622,45.699924],
-  "geometry": {"coordinates":[-108.503622,45.699924],"type":"Point"}
+  "bbox": [
+    -108.503622,
+    45.699924,
+    -108.503622,
+    45.699924
+],
+  "geometry": {"coordinates":[-108.50362199999999,45.699924],"type":"Point"}
 }

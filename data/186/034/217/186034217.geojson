@@ -2,13 +2,14 @@
   "id": 186034217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.309661,45.787248,-111.309661,45.787248",
     "geom:latitude":45.787248,
     "geom:longitude":-111.309661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5041 Stagecoach Trail Rd",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186034217,
-    "wof:lastmodified":1449050546,
+    "wof:lastmodified":1466641683,
     "wof:name":"Pleasant Home Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.309661,45.787248,-111.309661,45.787248],
-  "geometry": {"coordinates":[-111.309661,45.787248],"type":"Point"}
+  "bbox": [
+    -111.309661,
+    45.787248,
+    -111.309661,
+    45.787248
+],
+  "geometry": {"coordinates":[-111.30966100000001,45.787248],"type":"Point"}
 }

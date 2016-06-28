@@ -2,13 +2,14 @@
   "id": 185720933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.63545,48.193361,-106.63545,48.193361",
     "geom:latitude":48.193361,
     "geom:longitude":-106.63545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 4th St S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185720933,
-    "wof:lastmodified":1449006993,
+    "wof:lastmodified":1466641447,
     "wof:name":"D & G Sports & Western Wear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "western"
     ]
 },
-  "bbox": [-106.63545,48.193361,-106.63545,48.193361],
-  "geometry": {"coordinates":[-106.63545,48.193361],"type":"Point"}
+  "bbox": [
+    -106.63545,
+    48.193361,
+    -106.63545,
+    48.193361
+],
+  "geometry": {"coordinates":[-106.63545000000001,48.193361],"type":"Point"}
 }

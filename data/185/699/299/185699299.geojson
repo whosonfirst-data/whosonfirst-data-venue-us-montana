@@ -2,13 +2,14 @@
   "id": 185699299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.5753,45.752298,-108.5753,45.752298",
     "geom:latitude":45.752298,
     "geom:longitude":-108.5753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2294 Grant Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":185699299,
-    "wof:lastmodified":1449006820,
+    "wof:lastmodified":1466641420,
     "wof:name":"Philip Tallman Dermatology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-108.5753,45.752298,-108.5753,45.752298],
+  "bbox": [
+    -108.5753,
+    45.752298,
+    -108.5753,
+    45.752298
+],
   "geometry": {"coordinates":[-108.5753,45.752298],"type":"Point"}
 }

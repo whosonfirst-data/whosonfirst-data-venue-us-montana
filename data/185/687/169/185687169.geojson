@@ -2,13 +2,14 @@
   "id": 185687169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.534357,48.341515,-115.534357,48.341515",
     "geom:latitude":48.341515,
     "geom:longitude":-115.534357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"473 Woodland Heights Rd",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185687169,
-    "wof:lastmodified":1449007058,
+    "wof:lastmodified":1466641404,
     "wof:name":"C A L Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.534357,48.341515,-115.534357,48.341515],
+  "bbox": [
+    -115.534357,
+    48.341515,
+    -115.534357,
+    48.341515
+],
   "geometry": {"coordinates":[-115.534357,48.341515],"type":"Point"}
 }

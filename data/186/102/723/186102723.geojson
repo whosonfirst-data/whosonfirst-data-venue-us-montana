@@ -2,13 +2,14 @@
   "id": 186102723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.865901,47.170854,-114.865901,47.170854",
     "geom:latitude":47.170854,
     "geom:longitude":-114.865901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Diamond Rd",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186102723,
-    "wof:lastmodified":1449052827,
+    "wof:lastmodified":1466641989,
     "wof:name":"B Treble Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-114.865901,47.170854,-114.865901,47.170854],
-  "geometry": {"coordinates":[-114.865901,47.170854],"type":"Point"}
+  "bbox": [
+    -114.865901,
+    47.170854,
+    -114.865901,
+    47.170854
+],
+  "geometry": {"coordinates":[-114.86590099999999,47.170854],"type":"Point"}
 }

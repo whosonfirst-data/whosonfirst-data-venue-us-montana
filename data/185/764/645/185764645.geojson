@@ -2,13 +2,14 @@
   "id": 185764645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.941985,47.461334,-114.941985,47.461334",
     "geom:latitude":47.461334,
     "geom:longitude":-114.941985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"454 Black Jack Rd",
     "sg:city":"Plains",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185764645,
-    "wof:lastmodified":1449008117,
+    "wof:lastmodified":1466641493,
     "wof:name":"True Line Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rental"
     ]
 },
-  "bbox": [-114.941985,47.461334,-114.941985,47.461334],
+  "bbox": [
+    -114.941985,
+    47.461334,
+    -114.941985,
+    47.461334
+],
   "geometry": {"coordinates":[-114.941985,47.461334],"type":"Point"}
 }

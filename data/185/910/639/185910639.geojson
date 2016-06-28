@@ -2,13 +2,14 @@
   "id": 185910639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.3096,47.43979,-114.3096,47.43979",
     "geom:latitude":47.43979,
     "geom:longitude":-114.3096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6092 Moiese Valley Rd",
     "sg:city":"Charlo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185910639,
-    "wof:lastmodified":1449007277,
+    "wof:lastmodified":1466641656,
     "wof:name":"Dan Hartung",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-114.3096,47.43979,-114.3096,47.43979],
+  "bbox": [
+    -114.3096,
+    47.43979,
+    -114.3096,
+    47.43979
+],
   "geometry": {"coordinates":[-114.3096,47.43979],"type":"Point"}
 }

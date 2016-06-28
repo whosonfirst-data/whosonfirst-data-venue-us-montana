@@ -2,13 +2,14 @@
   "id": 185860039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.181149,47.678602,-114.181149,47.678602",
     "geom:latitude":47.678602,
     "geom:longitude":-114.181149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Lakeview Dr",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185860039,
-    "wof:lastmodified":1449007330,
+    "wof:lastmodified":1466641783,
     "wof:name":"Allwest Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-114.181149,47.678602,-114.181149,47.678602],
+  "bbox": [
+    -114.181149,
+    47.678602,
+    -114.181149,
+    47.678602
+],
   "geometry": {"coordinates":[-114.181149,47.678602],"type":"Point"}
 }

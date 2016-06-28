@@ -2,13 +2,14 @@
   "id": 185623447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.91708,48.185377,-114.91708,48.185377",
     "geom:latitude":48.185377,
     "geom:longitude":-114.91708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6295 Pleasant Valley Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185623447,
-    "wof:lastmodified":1449007728,
+    "wof:lastmodified":1466641226,
     "wof:name":"Lost Trail Nat Wildlife Refuge",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-114.91708,48.185377,-114.91708,48.185377],
+  "bbox": [
+    -114.91708,
+    48.185377,
+    -114.91708,
+    48.185377
+],
   "geometry": {"coordinates":[-114.91708,48.185377],"type":"Point"}
 }

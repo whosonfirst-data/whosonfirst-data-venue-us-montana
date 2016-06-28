@@ -2,13 +2,14 @@
   "id": 186270737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.637267,45.212528,-112.637267,45.212528",
     "geom:latitude":45.212528,
     "geom:longitude":-112.637267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 S Atlantic St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186270737,
-    "wof:lastmodified":1449050894,
+    "wof:lastmodified":1466642728,
     "wof:name":"Quixtitch Sewing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.637267,45.212528,-112.637267,45.212528],
-  "geometry": {"coordinates":[-112.637267,45.212528],"type":"Point"}
+  "bbox": [
+    -112.637267,
+    45.212528,
+    -112.637267,
+    45.212528
+],
+  "geometry": {"coordinates":[-112.63726699999999,45.212528],"type":"Point"}
 }

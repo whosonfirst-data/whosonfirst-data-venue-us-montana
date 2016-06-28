@@ -2,13 +2,14 @@
   "id": 186294401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.545381,45.796864,-108.545381,45.796864",
     "geom:latitude":45.796864,
     "geom:longitude":-108.545381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 Princeton Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186294401,
-    "wof:lastmodified":1449052271,
+    "wof:lastmodified":1466642801,
     "wof:name":"Child's Kingdom",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.545381,45.796864,-108.545381,45.796864],
-  "geometry": {"coordinates":[-108.545381,45.796864],"type":"Point"}
+  "bbox": [
+    -108.545381,
+    45.796864,
+    -108.545381,
+    45.796864
+],
+  "geometry": {"coordinates":[-108.54538100000001,45.796864],"type":"Point"}
 }

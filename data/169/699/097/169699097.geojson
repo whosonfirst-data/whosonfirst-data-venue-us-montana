@@ -2,13 +2,14 @@
   "id": 169699097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.095698,46.756718,-114.095698,46.756718",
     "geom:latitude":46.756718,
     "geom:longitude":-114.095698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7105 Lolo Creek Rd",
     "sg:city":"Lolo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169699097,
-    "wof:lastmodified":1449033137,
+    "wof:lastmodified":1466641149,
     "wof:name":"A-1 Fire Services",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fire"
     ]
 },
-  "bbox": [-114.095698,46.756718,-114.095698,46.756718],
+  "bbox": [
+    -114.095698,
+    46.756718,
+    -114.095698,
+    46.756718
+],
   "geometry": {"coordinates":[-114.095698,46.756718],"type":"Point"}
 }

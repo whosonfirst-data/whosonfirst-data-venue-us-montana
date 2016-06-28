@@ -2,13 +2,14 @@
   "id": 185923923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.290854,47.491142,-111.290854,47.491142",
     "geom:latitude":47.491142,
     "geom:longitude":-111.290854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 13th Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185923923,
-    "wof:lastmodified":1449008139,
+    "wof:lastmodified":1466641672,
     "wof:name":"Universal Athletic Services 5",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.290854,47.491142,-111.290854,47.491142],
+  "bbox": [
+    -111.290854,
+    47.491142,
+    -111.290854,
+    47.491142
+],
   "geometry": {"coordinates":[-111.290854,47.491142],"type":"Point"}
 }

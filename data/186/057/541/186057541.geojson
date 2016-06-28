@@ -2,13 +2,14 @@
   "id": 186057541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.055174,46.555285,-114.055174,46.555285",
     "geom:latitude":46.555285,
     "geom:longitude":-114.055174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 Starling Way",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186057541,
-    "wof:lastmodified":1449051701,
+    "wof:lastmodified":1466641839,
     "wof:name":"Excel Elevator Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "elevator"
     ]
 },
-  "bbox": [-114.055174,46.555285,-114.055174,46.555285],
-  "geometry": {"coordinates":[-114.055174,46.555285],"type":"Point"}
+  "bbox": [
+    -114.055174,
+    46.555285,
+    -114.055174,
+    46.555285
+],
+  "geometry": {"coordinates":[-114.05517399999999,46.555285],"type":"Point"}
 }

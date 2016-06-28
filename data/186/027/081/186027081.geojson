@@ -2,13 +2,14 @@
   "id": 186027081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.246981,45.191873,-109.246981,45.191873",
     "geom:latitude":45.191873,
     "geom:longitude":-109.246981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 N Broadway Ave",
     "sg:city":"Red Lodge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186027081,
-    "wof:lastmodified":1449050906,
+    "wof:lastmodified":1466641565,
     "wof:name":"Ski Station The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ski"
     ]
 },
-  "bbox": [-109.246981,45.191873,-109.246981,45.191873],
-  "geometry": {"coordinates":[-109.246981,45.191873],"type":"Point"}
+  "bbox": [
+    -109.246981,
+    45.191873,
+    -109.246981,
+    45.191873
+],
+  "geometry": {"coordinates":[-109.24698100000001,45.191873],"type":"Point"}
 }

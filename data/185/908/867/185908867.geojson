@@ -2,13 +2,14 @@
   "id": 185908867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.581903,45.749685,-108.581903,45.749685",
     "geom:latitude":45.749685,
     "geom:longitude":-108.581903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 Overland Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":185908867,
-    "wof:lastmodified":1449007516,
+    "wof:lastmodified":1466641659,
     "wof:name":"Allegra Print & Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-108.581903,45.749685,-108.581903,45.749685],
+  "bbox": [
+    -108.581903,
+    45.749685,
+    -108.581903,
+    45.749685
+],
   "geometry": {"coordinates":[-108.581903,45.749685],"type":"Point"}
 }

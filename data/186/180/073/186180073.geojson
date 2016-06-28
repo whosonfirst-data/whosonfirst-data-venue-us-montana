@@ -2,13 +2,14 @@
   "id": 186180073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.542168,45.768779,-108.542168,45.768779",
     "geom:latitude":45.768779,
     "geom:longitude":-108.542168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186180073,
-    "wof:lastmodified":1449050377,
+    "wof:lastmodified":1466642168,
     "wof:name":"Smittys Music",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.542168,45.768779,-108.542168,45.768779],
+  "bbox": [
+    -108.542168,
+    45.768779,
+    -108.542168,
+    45.768779
+],
   "geometry": {"coordinates":[-108.542168,45.768779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185669995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.508085,45.978324,-112.508085,45.978324",
     "geom:latitude":45.978324,
     "geom:longitude":-112.508085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3235 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185669995,
-    "wof:lastmodified":1449006789,
+    "wof:lastmodified":1466641393,
     "wof:name":"Uno's Lounge Inc",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-112.508085,45.978324,-112.508085,45.978324],
-  "geometry": {"coordinates":[-112.508085,45.978324],"type":"Point"}
+  "bbox": [
+    -112.508085,
+    45.978324,
+    -112.508085,
+    45.978324
+],
+  "geometry": {"coordinates":[-112.50808499999999,45.978324],"type":"Point"}
 }

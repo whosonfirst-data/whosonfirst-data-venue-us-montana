@@ -2,13 +2,14 @@
   "id": 186376389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.548457,45.784114,-108.548457,45.784114",
     "geom:latitude":45.784114,
     "geom:longitude":-108.548457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186376389,
-    "wof:lastmodified":1449051311,
+    "wof:lastmodified":1466642799,
     "wof:name":"Hearing Aid Institute",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "devices"
     ]
 },
-  "bbox": [-108.548457,45.784114,-108.548457,45.784114],
+  "bbox": [
+    -108.548457,
+    45.784114,
+    -108.548457,
+    45.784114
+],
   "geometry": {"coordinates":[-108.548457,45.784114],"type":"Point"}
 }

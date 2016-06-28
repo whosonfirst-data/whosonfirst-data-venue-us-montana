@@ -2,13 +2,14 @@
   "id": 185903093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.480389,48.437766,-114.480389,48.437766",
     "geom:latitude":48.437766,
     "geom:longitude":-114.480389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 US Hwy 93",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185903093,
-    "wof:lastmodified":1449006690,
+    "wof:lastmodified":1466641633,
     "wof:name":"Jmk Excavating",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.480389,48.437766,-114.480389,48.437766],
+  "bbox": [
+    -114.480389,
+    48.437766,
+    -114.480389,
+    48.437766
+],
   "geometry": {"coordinates":[-114.480389,48.437766],"type":"Point"}
 }

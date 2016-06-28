@@ -2,13 +2,14 @@
   "id": 185905829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.54336,46.012482,-112.54336,46.012482",
     "geom:latitude":46.012482,
     "geom:longitude":-112.54336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 W Park St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185905829,
-    "wof:lastmodified":1449007255,
+    "wof:lastmodified":1466641643,
     "wof:name":"Vu Villa Bar",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.54336,46.012482,-112.54336,46.012482],
-  "geometry": {"coordinates":[-112.54336,46.012482],"type":"Point"}
+  "bbox": [
+    -112.54336,
+    46.012482,
+    -112.54336,
+    46.012482
+],
+  "geometry": {"coordinates":[-112.54336000000001,46.012482],"type":"Point"}
 }

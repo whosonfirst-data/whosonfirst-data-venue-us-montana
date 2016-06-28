@@ -2,13 +2,14 @@
   "id": 186122117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.075582,46.756134,-114.075582,46.756134",
     "geom:latitude":46.756134,
     "geom:longitude":-114.075582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5657 Expedition Dr",
     "sg:city":"Lolo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186122117,
-    "wof:lastmodified":1449051902,
+    "wof:lastmodified":1466642232,
     "wof:name":"Bear Creek Candles LLC",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-114.075582,46.756134,-114.075582,46.756134],
+  "bbox": [
+    -114.075582,
+    46.756134,
+    -114.075582,
+    46.756134
+],
   "geometry": {"coordinates":[-114.075582,46.756134],"type":"Point"}
 }

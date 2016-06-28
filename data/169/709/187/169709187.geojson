@@ -2,13 +2,14 @@
   "id": 169709187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.828049,48.559575,-109.828049,48.559575",
     "geom:latitude":48.559575,
     "geom:longitude":-109.828049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 Co Rd 710 W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169709187,
-    "wof:lastmodified":1449033347,
+    "wof:lastmodified":1466641256,
     "wof:name":"Debbie Otto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-109.828049,48.559575,-109.828049,48.559575],
-  "geometry": {"coordinates":[-109.828049,48.559575],"type":"Point"}
+  "bbox": [
+    -109.828049,
+    48.559575,
+    -109.828049,
+    48.559575
+],
+  "geometry": {"coordinates":[-109.82804899999999,48.559575],"type":"Point"}
 }

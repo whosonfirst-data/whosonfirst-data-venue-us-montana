@@ -2,13 +2,14 @@
   "id": 186021445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.489044,45.988845,-112.489044,45.988845",
     "geom:latitude":45.988845,
     "geom:longitude":-112.489044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Princeton St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186021445,
-    "wof:lastmodified":1449052062,
+    "wof:lastmodified":1466641472,
     "wof:name":"Johnson Family Georgetown LLC",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.489044,45.988845,-112.489044,45.988845],
-  "geometry": {"coordinates":[-112.489044,45.988845],"type":"Point"}
+  "bbox": [
+    -112.489044,
+    45.988845,
+    -112.489044,
+    45.988845
+],
+  "geometry": {"coordinates":[-112.48904400000001,45.988845],"type":"Point"}
 }

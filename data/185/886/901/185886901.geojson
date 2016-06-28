@@ -2,13 +2,14 @@
   "id": 185886901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.62306,46.451214,-108.62306,46.451214",
     "geom:latitude":46.451214,
     "geom:longitude":-108.62306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Quail Dr",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185886901,
-    "wof:lastmodified":1449007500,
+    "wof:lastmodified":1466641628,
     "wof:name":"Drovers Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.62306,46.451214,-108.62306,46.451214],
+  "bbox": [
+    -108.62306,
+    46.451214,
+    -108.62306,
+    46.451214
+],
   "geometry": {"coordinates":[-108.62306,46.451214],"type":"Point"}
 }

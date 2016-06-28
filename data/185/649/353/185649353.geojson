@@ -2,13 +2,14 @@
   "id": 185649353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.559505,45.997787,-112.559505,45.997787",
     "geom:latitude":45.997787,
     "geom:longitude":-112.559505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Centennial Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185649353,
-    "wof:lastmodified":1449007682,
+    "wof:lastmodified":1466641365,
     "wof:name":"Ranchland Packing Co",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packing"
     ]
 },
-  "bbox": [-112.559505,45.997787,-112.559505,45.997787],
+  "bbox": [
+    -112.559505,
+    45.997787,
+    -112.559505,
+    45.997787
+],
   "geometry": {"coordinates":[-112.559505,45.997787],"type":"Point"}
 }

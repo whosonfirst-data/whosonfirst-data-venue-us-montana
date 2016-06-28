@@ -2,13 +2,14 @@
   "id": 186047499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.430342,47.066792,-109.430342,47.066792",
     "geom:latitude":47.066792,
     "geom:longitude":-109.430342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 W Montana St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186047499,
-    "wof:lastmodified":1449052102,
+    "wof:lastmodified":1466641813,
     "wof:name":"Shining Mountain Christain Ele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "religious"
     ]
 },
-  "bbox": [-109.430342,47.066792,-109.430342,47.066792],
+  "bbox": [
+    -109.430342,
+    47.066792,
+    -109.430342,
+    47.066792
+],
   "geometry": {"coordinates":[-109.430342,47.066792],"type":"Point"}
 }

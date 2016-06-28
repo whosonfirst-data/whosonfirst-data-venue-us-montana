@@ -2,13 +2,14 @@
   "id": 185825291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.355735,48.206648,-114.355735,48.206648",
     "geom:latitude":48.206648,
     "geom:longitude":-114.355735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Konley Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185825291,
-    "wof:lastmodified":1449006638,
+    "wof:lastmodified":1466641557,
     "wof:name":"Dave Merkel",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-114.355735,48.206648,-114.355735,48.206648],
+  "bbox": [
+    -114.355735,
+    48.206648,
+    -114.355735,
+    48.206648
+],
   "geometry": {"coordinates":[-114.355735,48.206648],"type":"Point"}
 }

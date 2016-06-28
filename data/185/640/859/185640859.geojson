@@ -2,13 +2,14 @@
   "id": 185640859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.740722,46.397983,-112.740722,46.397983",
     "geom:latitude":46.397983,
     "geom:longitude":-112.740722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Milwaukee Ave",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185640859,
-    "wof:lastmodified":1449007317,
+    "wof:lastmodified":1466641352,
     "wof:name":"Stryker's Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-112.740722,46.397983,-112.740722,46.397983],
-  "geometry": {"coordinates":[-112.740722,46.397983],"type":"Point"}
+  "bbox": [
+    -112.740722,
+    46.397983,
+    -112.740722,
+    46.397983
+],
+  "geometry": {"coordinates":[-112.74072200000001,46.397983],"type":"Point"}
 }

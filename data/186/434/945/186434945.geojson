@@ -2,13 +2,14 @@
   "id": 186434945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.413151,45.794376,-108.413151,45.794376",
     "geom:latitude":45.794376,
     "geom:longitude":-108.413151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3143 Prairie Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186434945,
-    "wof:lastmodified":1449050975,
+    "wof:lastmodified":1466642954,
     "wof:name":"Pavetech Asphalt Engineering",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.413151,45.794376,-108.413151,45.794376],
+  "bbox": [
+    -108.413151,
+    45.794376,
+    -108.413151,
+    45.794376
+],
   "geometry": {"coordinates":[-108.413151,45.794376],"type":"Point"}
 }

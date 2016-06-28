@@ -2,13 +2,14 @@
   "id": 185730387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.327577,48.225483,-114.327577,48.225483",
     "geom:latitude":48.225483,
     "geom:longitude":-114.327577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Harrison Blvd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185730387,
-    "wof:lastmodified":1449007979,
+    "wof:lastmodified":1466641455,
     "wof:name":"Jornic",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cotton"
     ]
 },
-  "bbox": [-114.327577,48.225483,-114.327577,48.225483],
-  "geometry": {"coordinates":[-114.327577,48.225483],"type":"Point"}
+  "bbox": [
+    -114.327577,
+    48.225483,
+    -114.327577,
+    48.225483
+],
+  "geometry": {"coordinates":[-114.32757700000001,48.225483],"type":"Point"}
 }

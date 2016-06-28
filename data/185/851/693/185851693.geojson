@@ -2,13 +2,14 @@
   "id": 185851693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.193278,48.138908,-114.193278,48.138908",
     "geom:latitude":48.138908,
     "geom:longitude":-114.193278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Lower Valley Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185851693,
-    "wof:lastmodified":1449007657,
+    "wof:lastmodified":1466641588,
     "wof:name":"Uskoski Log Hauling",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.193278,48.138908,-114.193278,48.138908],
-  "geometry": {"coordinates":[-114.193278,48.138908],"type":"Point"}
+  "bbox": [
+    -114.193278,
+    48.138908,
+    -114.193278,
+    48.138908
+],
+  "geometry": {"coordinates":[-114.19327800000001,48.138908],"type":"Point"}
 }

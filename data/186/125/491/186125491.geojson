@@ -2,13 +2,14 @@
   "id": 186125491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.878627,46.904719,-104.878627,46.904719",
     "geom:latitude":46.904719,
     "geom:longitude":-104.878627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"849 Rd 130",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186125491,
-    "wof:lastmodified":1449052942,
+    "wof:lastmodified":1466642084,
     "wof:name":"Vogele Marilyne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-104.878627,46.904719,-104.878627,46.904719],
-  "geometry": {"coordinates":[-104.878627,46.904719],"type":"Point"}
+  "bbox": [
+    -104.878627,
+    46.904719,
+    -104.878627,
+    46.904719
+],
+  "geometry": {"coordinates":[-104.87862699999999,46.904719],"type":"Point"}
 }

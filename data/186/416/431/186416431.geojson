@@ -2,13 +2,14 @@
   "id": 186416431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.125026,48.244973,-114.125026,48.244973",
     "geom:latitude":48.244973,
     "geom:longitude":-114.125026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 Blaine View Ln",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186416431,
-    "wof:lastmodified":1449051578,
+    "wof:lastmodified":1466643061,
     "wof:name":"Sneddon Legal Rsrch",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.125026,48.244973,-114.125026,48.244973],
-  "geometry": {"coordinates":[-114.125026,48.244973],"type":"Point"}
+  "bbox": [
+    -114.125026,
+    48.244973,
+    -114.125026,
+    48.244973
+],
+  "geometry": {"coordinates":[-114.12502600000001,48.244973],"type":"Point"}
 }

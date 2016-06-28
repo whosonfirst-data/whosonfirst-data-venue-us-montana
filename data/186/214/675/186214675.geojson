@@ -2,13 +2,14 @@
   "id": 186214675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.840742,46.408261,-105.840742,46.408261",
     "geom:latitude":46.408261,
     "geom:longitude":-105.840742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Main St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186214675,
-    "wof:lastmodified":1449052954,
+    "wof:lastmodified":1466642579,
     "wof:name":"Miles City Unified Schl Dst 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.840742,46.408261,-105.840742,46.408261],
-  "geometry": {"coordinates":[-105.840742,46.408261],"type":"Point"}
+  "bbox": [
+    -105.840742,
+    46.408261,
+    -105.840742,
+    46.408261
+],
+  "geometry": {"coordinates":[-105.84074200000001,46.408261],"type":"Point"}
 }

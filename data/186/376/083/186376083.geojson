@@ -2,13 +2,14 @@
   "id": 186376083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.338101,48.41154,-114.338101,48.41154",
     "geom:latitude":48.41154,
     "geom:longitude":-114.338101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Baker Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186376083,
-    "wof:lastmodified":1449051310,
+    "wof:lastmodified":1466642797,
     "wof:name":"M Sobba MD",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-114.338101,48.41154,-114.338101,48.41154],
-  "geometry": {"coordinates":[-114.338101,48.41154],"type":"Point"}
+  "bbox": [
+    -114.338101,
+    48.41154,
+    -114.338101,
+    48.41154
+],
+  "geometry": {"coordinates":[-114.33810099999999,48.41154],"type":"Point"}
 }

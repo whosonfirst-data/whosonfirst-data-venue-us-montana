@@ -2,13 +2,14 @@
   "id": 186190017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.492804,45.814816,-108.492804,45.814816",
     "geom:latitude":45.814816,
     "geom:longitude":-108.492804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"956 Dixon St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186190017,
-    "wof:lastmodified":1449052860,
+    "wof:lastmodified":1466642496,
     "wof:name":"Black Leathers Cattle Co LLC",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.492804,45.814816,-108.492804,45.814816],
-  "geometry": {"coordinates":[-108.492804,45.814816],"type":"Point"}
+  "bbox": [
+    -108.492804,
+    45.814816,
+    -108.492804,
+    45.814816
+],
+  "geometry": {"coordinates":[-108.49280400000001,45.814816],"type":"Point"}
 }

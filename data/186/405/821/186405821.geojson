@@ -2,13 +2,14 @@
   "id": 186405821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.541791,45.800135,-108.541791,45.800135",
     "geom:latitude":45.800135,
     "geom:longitude":-108.541791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 Rockrim Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186405821,
-    "wof:lastmodified":1449052798,
+    "wof:lastmodified":1466643008,
     "wof:name":"Barbara Bryan Pe Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "advertising"
     ]
 },
-  "bbox": [-108.541791,45.800135,-108.541791,45.800135],
+  "bbox": [
+    -108.541791,
+    45.800135,
+    -108.541791,
+    45.800135
+],
   "geometry": {"coordinates":[-108.541791,45.800135],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186314279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022173,46.610219,-112.022173,46.610219",
     "geom:latitude":46.610219,
     "geom:longitude":-112.022173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2531 N Dodge Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186314279,
-    "wof:lastmodified":1449052923,
+    "wof:lastmodified":1466642644,
     "wof:name":"Decorative Industrial Plating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "works"
     ]
 },
-  "bbox": [-112.022173,46.610219,-112.022173,46.610219],
+  "bbox": [
+    -112.022173,
+    46.610219,
+    -112.022173,
+    46.610219
+],
   "geometry": {"coordinates":[-112.022173,46.610219],"type":"Point"}
 }

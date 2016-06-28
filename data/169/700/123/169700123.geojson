@@ -2,13 +2,14 @@
   "id": 169700123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.106179,47.52862,-114.106179,47.52862",
     "geom:latitude":47.52862,
     "geom:longitude":-114.106179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 6th Ave SW",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169700123,
-    "wof:lastmodified":1449035668,
+    "wof:lastmodified":1466641148,
     "wof:name":"Stephen F Culp DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.106179,47.52862,-114.106179,47.52862],
+  "bbox": [
+    -114.106179,
+    47.52862,
+    -114.106179,
+    47.52862
+],
   "geometry": {"coordinates":[-114.106179,47.52862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185941195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.284253,47.553712,-111.284253,47.553712",
     "geom:latitude":47.553712,
     "geom:longitude":-111.284253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Watson Ln",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185941195,
-    "wof:lastmodified":1449007570,
+    "wof:lastmodified":1466641690,
     "wof:name":"Greg Stubbs Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.284253,47.553712,-111.284253,47.553712],
-  "geometry": {"coordinates":[-111.284253,47.553712],"type":"Point"}
+  "bbox": [
+    -111.284253,
+    47.553712,
+    -111.284253,
+    47.553712
+],
+  "geometry": {"coordinates":[-111.28425300000001,47.553712],"type":"Point"}
 }

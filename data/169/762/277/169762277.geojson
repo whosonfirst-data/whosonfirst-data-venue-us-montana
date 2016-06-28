@@ -2,13 +2,14 @@
   "id": 169762277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.848647,46.407765,-105.848647,46.407765",
     "geom:latitude":46.407765,
     "geom:longitude":-105.848647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 N 8th St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169762277,
-    "wof:lastmodified":1449035007,
+    "wof:lastmodified":1466641204,
     "wof:name":"Blimpie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-105.848647,46.407765,-105.848647,46.407765],
+  "bbox": [
+    -105.848647,
+    46.407765,
+    -105.848647,
+    46.407765
+],
   "geometry": {"coordinates":[-105.848647,46.407765],"type":"Point"}
 }

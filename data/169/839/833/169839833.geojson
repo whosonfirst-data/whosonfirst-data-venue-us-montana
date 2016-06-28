@@ -2,13 +2,14 @@
   "id": 169839833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.436905,45.534897,-109.436905,45.534897",
     "geom:latitude":45.534897,
     "geom:longitude":-109.436905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 N Stillwater Rd",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169839833,
-    "wof:lastmodified":1449034666,
+    "wof:lastmodified":1466641316,
     "wof:name":"Paint Brush Adventures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.436905,45.534897,-109.436905,45.534897],
+  "bbox": [
+    -109.436905,
+    45.534897,
+    -109.436905,
+    45.534897
+],
   "geometry": {"coordinates":[-109.436905,45.534897],"type":"Point"}
 }

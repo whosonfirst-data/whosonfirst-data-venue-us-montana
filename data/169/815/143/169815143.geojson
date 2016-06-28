@@ -2,13 +2,14 @@
   "id": 169815143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.523678,45.993345,-112.523678,45.993345",
     "geom:latitude":45.993345,
     "geom:longitude":-112.523678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Cobban St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169815143,
-    "wof:lastmodified":1449034284,
+    "wof:lastmodified":1466641281,
     "wof:name":"Pete's 4x4 Repair Shop",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-112.523678,45.993345,-112.523678,45.993345],
+  "bbox": [
+    -112.523678,
+    45.993345,
+    -112.523678,
+    45.993345
+],
   "geometry": {"coordinates":[-112.523678,45.993345],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169773843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.181826,46.024163,-114.181826,46.024163",
     "geom:latitude":46.024163,
     "geom:longitude":-114.181826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Cummins St",
     "sg:city":"Darby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169773843,
-    "wof:lastmodified":1449033101,
+    "wof:lastmodified":1466641748,
     "wof:name":"R L Custom Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [-114.181826,46.024163,-114.181826,46.024163],
+  "bbox": [
+    -114.181826,
+    46.024163,
+    -114.181826,
+    46.024163
+],
   "geometry": {"coordinates":[-114.181826,46.024163],"type":"Point"}
 }

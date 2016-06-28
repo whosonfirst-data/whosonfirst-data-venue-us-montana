@@ -2,13 +2,14 @@
   "id": 186360837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.414802,47.043337,-109.414802,47.043337",
     "geom:latitude":47.043337,
     "geom:longitude":-109.414802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Roundhouse Rd",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186360837,
-    "wof:lastmodified":1449052390,
+    "wof:lastmodified":1466642587,
     "wof:name":"Beaver Creek Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.414802,47.043337,-109.414802,47.043337],
-  "geometry": {"coordinates":[-109.414802,47.043337],"type":"Point"}
+  "bbox": [
+    -109.414802,
+    47.043337,
+    -109.414802,
+    47.043337
+],
+  "geometry": {"coordinates":[-109.41480199999999,47.043337],"type":"Point"}
 }

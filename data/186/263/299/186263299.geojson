@@ -2,13 +2,14 @@
   "id": 186263299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.905402,46.631751,-111.905402,46.631751",
     "geom:latitude":46.631751,
     "geom:longitude":-111.905402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3630 Lilly Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186263299,
-    "wof:lastmodified":1449052955,
+    "wof:lastmodified":1466642545,
     "wof:name":"All Valley Cab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-111.905402,46.631751,-111.905402,46.631751],
+  "bbox": [
+    -111.905402,
+    46.631751,
+    -111.905402,
+    46.631751
+],
   "geometry": {"coordinates":[-111.905402,46.631751],"type":"Point"}
 }

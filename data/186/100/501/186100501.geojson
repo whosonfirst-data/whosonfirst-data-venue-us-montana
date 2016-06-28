@@ -2,13 +2,14 @@
   "id": 186100501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.94862,46.128618,-112.94862,46.128618",
     "geom:latitude":46.128618,
     "geom:longitude":-112.94862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 E Park Ave",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186100501,
-    "wof:lastmodified":1449052337,
+    "wof:lastmodified":1466642106,
     "wof:name":"Babcock Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.94862,46.128618,-112.94862,46.128618],
-  "geometry": {"coordinates":[-112.94862,46.128618],"type":"Point"}
+  "bbox": [
+    -112.94862,
+    46.128618,
+    -112.94862,
+    46.128618
+],
+  "geometry": {"coordinates":[-112.94862000000001,46.128618],"type":"Point"}
 }

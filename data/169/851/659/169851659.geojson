@@ -2,13 +2,14 @@
   "id": 169851659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.583983,45.773736,-108.583983,45.773736",
     "geom:latitude":45.773736,
     "geom:longitude":-108.583983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 Howard Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169851659,
-    "wof:lastmodified":1449034860,
+    "wof:lastmodified":1466641334,
     "wof:name":"K & N Construction",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.583983,45.773736,-108.583983,45.773736],
+  "bbox": [
+    -108.583983,
+    45.773736,
+    -108.583983,
+    45.773736
+],
   "geometry": {"coordinates":[-108.583983,45.773736],"type":"Point"}
 }

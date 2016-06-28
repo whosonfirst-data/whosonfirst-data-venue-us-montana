@@ -2,13 +2,14 @@
   "id": 186315697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.957354,45.664329,-110.957354,45.664329",
     "geom:latitude":45.664329,
     "geom:longitude":-110.957354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34236 Frontage Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186315697,
-    "wof:lastmodified":1449052901,
+    "wof:lastmodified":1466642657,
     "wof:name":"Western Justice LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.957354,45.664329,-110.957354,45.664329],
+  "bbox": [
+    -110.957354,
+    45.664329,
+    -110.957354,
+    45.664329
+],
   "geometry": {"coordinates":[-110.957354,45.664329],"type":"Point"}
 }

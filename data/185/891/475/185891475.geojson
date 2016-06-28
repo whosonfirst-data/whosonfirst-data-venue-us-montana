@@ -2,13 +2,14 @@
   "id": 185891475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.952533,45.83517,-109.952533,45.83517",
     "geom:latitude":45.83517,
     "geom:longitude":-109.952533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E 2nd Ave",
     "sg:city":"Big Timber",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185891475,
-    "wof:lastmodified":1449007586,
+    "wof:lastmodified":1466641627,
     "wof:name":"Jim Dunakin Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-109.952533,45.83517,-109.952533,45.83517],
+  "bbox": [
+    -109.952533,
+    45.83517,
+    -109.952533,
+    45.83517
+],
   "geometry": {"coordinates":[-109.952533,45.83517],"type":"Point"}
 }

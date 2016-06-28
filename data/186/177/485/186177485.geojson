@@ -2,13 +2,14 @@
   "id": 186177485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.538316,46.012751,-112.538316,46.012751",
     "geom:latitude":46.012751,
     "geom:longitude":-112.538316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 W Park St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186177485,
-    "wof:lastmodified":1449053026,
+    "wof:lastmodified":1466642389,
     "wof:name":"Cavanaughs County Celtic",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "novelty"
     ]
 },
-  "bbox": [-112.538316,46.012751,-112.538316,46.012751],
-  "geometry": {"coordinates":[-112.538316,46.012751],"type":"Point"}
+  "bbox": [
+    -112.538316,
+    46.012751,
+    -112.538316,
+    46.012751
+],
+  "geometry": {"coordinates":[-112.53831599999999,46.012751],"type":"Point"}
 }

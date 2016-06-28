@@ -2,13 +2,14 @@
   "id": 186387357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.080063,46.859038,-114.080063,46.859038",
     "geom:latitude":46.859038,
     "geom:longitude":-114.080063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3840 Spurgin Rd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186387357,
-    "wof:lastmodified":1449052656,
+    "wof:lastmodified":1466642830,
     "wof:name":"J Ricci Bryan",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.080063,46.859038,-114.080063,46.859038],
+  "bbox": [
+    -114.080063,
+    46.859038,
+    -114.080063,
+    46.859038
+],
   "geometry": {"coordinates":[-114.080063,46.859038],"type":"Point"}
 }

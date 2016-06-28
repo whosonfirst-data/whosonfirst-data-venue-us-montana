@@ -2,13 +2,14 @@
   "id": 186427851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.288032,47.380343,-114.288032,47.380343",
     "geom:latitude":47.380343,
     "geom:longitude":-114.288032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10701 Wheatland Dr",
     "sg:city":"Charlo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186427851,
-    "wof:lastmodified":1449051186,
+    "wof:lastmodified":1466642926,
     "wof:name":"Martin J Hafliger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-114.288032,47.380343,-114.288032,47.380343],
+  "bbox": [
+    -114.288032,
+    47.380343,
+    -114.288032,
+    47.380343
+],
   "geometry": {"coordinates":[-114.288032,47.380343],"type":"Point"}
 }

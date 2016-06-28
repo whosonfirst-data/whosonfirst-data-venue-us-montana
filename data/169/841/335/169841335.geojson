@@ -2,13 +2,14 @@
   "id": 169841335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.018948,46.613225,-112.018948,46.613225",
     "geom:latitude":46.613225,
     "geom:longitude":-112.018948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 N Cooke St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169841335,
-    "wof:lastmodified":1449033379,
+    "wof:lastmodified":1466641317,
     "wof:name":"Allied Building Products Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-112.018948,46.613225,-112.018948,46.613225],
-  "geometry": {"coordinates":[-112.018948,46.613225],"type":"Point"}
+  "bbox": [
+    -112.018948,
+    46.613225,
+    -112.018948,
+    46.613225
+],
+  "geometry": {"coordinates":[-112.01894799999999,46.613225],"type":"Point"}
 }

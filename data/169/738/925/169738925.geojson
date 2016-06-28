@@ -2,13 +2,14 @@
   "id": 169738925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.905563,45.390691,-108.905563,45.390691",
     "geom:latitude":45.390691,
     "geom:longitude":-108.905563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 1st Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169738925,
-    "wof:lastmodified":1449035096,
+    "wof:lastmodified":1466641174,
     "wof:name":"Cowboy Connections Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-108.905563,45.390691,-108.905563,45.390691],
+  "bbox": [
+    -108.905563,
+    45.390691,
+    -108.905563,
+    45.390691
+],
   "geometry": {"coordinates":[-108.905563,45.390691],"type":"Point"}
 }

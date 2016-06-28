@@ -2,13 +2,14 @@
   "id": 186298141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.081569,46.628447,-114.081569,46.628447",
     "geom:latitude":46.628447,
     "geom:longitude":-114.081569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5339 US Hwy 93",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186298141,
-    "wof:lastmodified":1449051110,
+    "wof:lastmodified":1466642612,
     "wof:name":"Lotza Pizzazz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.081569,46.628447,-114.081569,46.628447],
+  "bbox": [
+    -114.081569,
+    46.628447,
+    -114.081569,
+    46.628447
+],
   "geometry": {"coordinates":[-114.081569,46.628447],"type":"Point"}
 }

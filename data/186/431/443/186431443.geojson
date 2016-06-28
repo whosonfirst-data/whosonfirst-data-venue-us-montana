@@ -2,13 +2,14 @@
   "id": 186431443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.816003,46.388562,-105.816003,46.388562",
     "geom:latitude":46.388562,
     "geom:longitude":-105.816003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Prospect Dr",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186431443,
-    "wof:lastmodified":1449050697,
+    "wof:lastmodified":1466642949,
     "wof:name":"Unclogger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.816003,46.388562,-105.816003,46.388562],
-  "geometry": {"coordinates":[-105.816003,46.388562],"type":"Point"}
+  "bbox": [
+    -105.816003,
+    46.388562,
+    -105.816003,
+    46.388562
+],
+  "geometry": {"coordinates":[-105.81600299999999,46.388562],"type":"Point"}
 }

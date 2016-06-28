@@ -2,13 +2,14 @@
   "id": 186297559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.561665,45.759851,-108.561665,45.759851",
     "geom:latitude":45.759851,
     "geom:longitude":-108.561665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1935 Lampman Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186297559,
-    "wof:lastmodified":1449052082,
+    "wof:lastmodified":1466642609,
     "wof:name":"Direct Mail Advertising Svcs",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "direct"
     ]
 },
-  "bbox": [-108.561665,45.759851,-108.561665,45.759851],
+  "bbox": [
+    -108.561665,
+    45.759851,
+    -108.561665,
+    45.759851
+],
   "geometry": {"coordinates":[-108.561665,45.759851],"type":"Point"}
 }

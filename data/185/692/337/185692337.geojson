@@ -2,13 +2,14 @@
   "id": 185692337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.266502,48.211247,-114.266502,48.211247",
     "geom:latitude":48.211247,
     "geom:longitude":-114.266502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Shady Ln",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185692337,
-    "wof:lastmodified":1449007040,
+    "wof:lastmodified":1466641411,
     "wof:name":"L M's Drywall",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.266502,48.211247,-114.266502,48.211247],
+  "bbox": [
+    -114.266502,
+    48.211247,
+    -114.266502,
+    48.211247
+],
   "geometry": {"coordinates":[-114.266502,48.211247],"type":"Point"}
 }

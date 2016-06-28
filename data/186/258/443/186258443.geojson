@@ -2,13 +2,14 @@
   "id": 186258443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.384516,45.83314,-108.384516,45.83314",
     "geom:latitude":45.83314,
     "geom:longitude":-108.384516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2047 Dickie Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186258443,
-    "wof:lastmodified":1449052459,
+    "wof:lastmodified":1466642539,
     "wof:name":"Gps Systems",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-108.384516,45.83314,-108.384516,45.83314],
+  "bbox": [
+    -108.384516,
+    45.83314,
+    -108.384516,
+    45.83314
+],
   "geometry": {"coordinates":[-108.384516,45.83314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186112315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.215987,48.185936,-114.215987,48.185936",
     "geom:latitude":48.185936,
     "geom:longitude":-114.215987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"995 Egan Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186112315,
-    "wof:lastmodified":1449051609,
+    "wof:lastmodified":1466641870,
     "wof:name":"Oniak Resources LLC",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineering"
     ]
 },
-  "bbox": [-114.215987,48.185936,-114.215987,48.185936],
+  "bbox": [
+    -114.215987,
+    48.185936,
+    -114.215987,
+    48.185936
+],
   "geometry": {"coordinates":[-114.215987,48.185936],"type":"Point"}
 }

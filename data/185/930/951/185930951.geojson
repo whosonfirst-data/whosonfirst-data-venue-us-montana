@@ -2,13 +2,14 @@
   "id": 185930951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.348195,47.594237,-115.348195,47.594237",
     "geom:latitude":47.594237,
     "geom:longitude":-115.348195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Fulton St",
     "sg:city":"Thompson Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185930951,
-    "wof:lastmodified":1449007115,
+    "wof:lastmodified":1466641688,
     "wof:name":"Thompson Falls City Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-115.348195,47.594237,-115.348195,47.594237],
+  "bbox": [
+    -115.348195,
+    47.594237,
+    -115.348195,
+    47.594237
+],
   "geometry": {"coordinates":[-115.348195,47.594237],"type":"Point"}
 }

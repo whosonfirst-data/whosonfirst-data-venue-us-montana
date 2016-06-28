@@ -2,13 +2,14 @@
   "id": 186237049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.314336,48.203184,-114.314336,48.203184",
     "geom:latitude":48.203184,
     "geom:longitude":-114.314336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 E Washington St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186237049,
-    "wof:lastmodified":1449050331,
+    "wof:lastmodified":1466642503,
     "wof:name":"Klassy Insurance",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.314336,48.203184,-114.314336,48.203184],
+  "bbox": [
+    -114.314336,
+    48.203184,
+    -114.314336,
+    48.203184
+],
   "geometry": {"coordinates":[-114.314336,48.203184],"type":"Point"}
 }

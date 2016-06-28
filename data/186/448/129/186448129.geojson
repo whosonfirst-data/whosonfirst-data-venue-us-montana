@@ -2,13 +2,14 @@
   "id": 186448129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.585771,45.79276,-108.585771,45.79276",
     "geom:latitude":45.79276,
     "geom:longitude":-108.585771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 Lyndale Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186448129,
-    "wof:lastmodified":1449052911,
+    "wof:lastmodified":1466643007,
     "wof:name":"G & B Drywall",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.585771,45.79276,-108.585771,45.79276],
-  "geometry": {"coordinates":[-108.585771,45.79276],"type":"Point"}
+  "bbox": [
+    -108.585771,
+    45.79276,
+    -108.585771,
+    45.79276
+],
+  "geometry": {"coordinates":[-108.58577099999999,45.79276],"type":"Point"}
 }

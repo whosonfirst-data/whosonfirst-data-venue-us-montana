@@ -2,13 +2,14 @@
   "id": 186348331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.605394,45.731305,-107.605394,45.731305",
     "geom:latitude":45.731305,
     "geom:longitude":-107.605394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 3rd St E",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186348331,
-    "wof:lastmodified":1449050393,
+    "wof:lastmodified":1466642556,
     "wof:name":"Valley Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-107.605394,45.731305,-107.605394,45.731305],
+  "bbox": [
+    -107.605394,
+    45.731305,
+    -107.605394,
+    45.731305
+],
   "geometry": {"coordinates":[-107.605394,45.731305],"type":"Point"}
 }

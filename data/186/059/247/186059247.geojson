@@ -2,13 +2,14 @@
   "id": 186059247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.730385,46.397659,-112.730385,46.397659",
     "geom:latitude":46.397659,
     "geom:longitude":-112.730385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Milwaukee Ave",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186059247,
-    "wof:lastmodified":1449051118,
+    "wof:lastmodified":1466641732,
     "wof:name":"26 Ranch Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-112.730385,46.397659,-112.730385,46.397659],
+  "bbox": [
+    -112.730385,
+    46.397659,
+    -112.730385,
+    46.397659
+],
   "geometry": {"coordinates":[-112.730385,46.397659],"type":"Point"}
 }

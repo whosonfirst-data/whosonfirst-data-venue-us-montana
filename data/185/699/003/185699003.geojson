@@ -2,13 +2,14 @@
   "id": 185699003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.963047,46.588995,-111.963047,46.588995",
     "geom:latitude":46.588995,
     "geom:longitude":-111.963047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Bumblebee Ct",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185699003,
-    "wof:lastmodified":1449006824,
+    "wof:lastmodified":1466641416,
     "wof:name":"Bumble Bee Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.963047,46.588995,-111.963047,46.588995],
+  "bbox": [
+    -111.963047,
+    46.588995,
+    -111.963047,
+    46.588995
+],
   "geometry": {"coordinates":[-111.963047,46.588995],"type":"Point"}
 }

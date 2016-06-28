@@ -2,13 +2,14 @@
   "id": 169855235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.550551,46.008554,-112.550551,46.008554",
     "geom:latitude":46.008554,
     "geom:longitude":-112.550551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 W Porphyry St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169855235,
-    "wof:lastmodified":1449035109,
+    "wof:lastmodified":1466641342,
     "wof:name":"Al & Ray's Body & Paint Shop",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-112.550551,46.008554,-112.550551,46.008554],
+  "bbox": [
+    -112.550551,
+    46.008554,
+    -112.550551,
+    46.008554
+],
   "geometry": {"coordinates":[-112.550551,46.008554],"type":"Point"}
 }

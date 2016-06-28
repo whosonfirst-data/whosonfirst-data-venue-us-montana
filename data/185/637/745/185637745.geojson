@@ -2,13 +2,14 @@
   "id": 185637745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.593358,45.795034,-108.593358,45.795034",
     "geom:latitude":45.795034,
     "geom:longitude":-108.593358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3029 Poly Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185637745,
-    "wof:lastmodified":1449006597,
+    "wof:lastmodified":1466641344,
     "wof:name":"Border Lawn Svc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-108.593358,45.795034,-108.593358,45.795034],
-  "geometry": {"coordinates":[-108.593358,45.795034],"type":"Point"}
+  "bbox": [
+    -108.593358,
+    45.795034,
+    -108.593358,
+    45.795034
+],
+  "geometry": {"coordinates":[-108.59335799999999,45.795034],"type":"Point"}
 }

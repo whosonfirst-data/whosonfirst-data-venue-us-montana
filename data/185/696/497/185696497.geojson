@@ -2,13 +2,14 @@
   "id": 185696497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.039307,46.836608,-114.039307,46.836608",
     "geom:latitude":46.836608,
     "geom:longitude":-114.039307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3628 Brooks St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185696497,
-    "wof:lastmodified":1449006729,
+    "wof:lastmodified":1466641417,
     "wof:name":"Black Horse Coffee Brewers",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.039307,46.836608,-114.039307,46.836608],
-  "geometry": {"coordinates":[-114.039307,46.836608],"type":"Point"}
+  "bbox": [
+    -114.039307,
+    46.836608,
+    -114.039307,
+    46.836608
+],
+  "geometry": {"coordinates":[-114.03930699999999,46.836608],"type":"Point"}
 }

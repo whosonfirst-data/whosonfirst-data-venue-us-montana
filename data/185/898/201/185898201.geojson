@@ -2,13 +2,14 @@
   "id": 185898201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.251495,45.637752,-109.251495,45.637752",
     "geom:latitude":45.637752,
     "geom:longitude":-109.251495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 E 1st Ave N",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185898201,
-    "wof:lastmodified":1449006570,
+    "wof:lastmodified":1466641635,
     "wof:name":"Stillwater Wood Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "molding"
     ]
 },
-  "bbox": [-109.251495,45.637752,-109.251495,45.637752],
-  "geometry": {"coordinates":[-109.251495,45.637752],"type":"Point"}
+  "bbox": [
+    -109.251495,
+    45.637752,
+    -109.251495,
+    45.637752
+],
+  "geometry": {"coordinates":[-109.25149500000001,45.637752],"type":"Point"}
 }

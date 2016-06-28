@@ -2,13 +2,14 @@
   "id": 186231457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.325219,48.191415,-114.325219,48.191415",
     "geom:latitude":48.191415,
     "geom:longitude":-114.325219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 9th Ave W",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186231457,
-    "wof:lastmodified":1449051739,
+    "wof:lastmodified":1466642490,
     "wof:name":"Gamma Trucking",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.325219,48.191415,-114.325219,48.191415],
+  "bbox": [
+    -114.325219,
+    48.191415,
+    -114.325219,
+    48.191415
+],
   "geometry": {"coordinates":[-114.325219,48.191415],"type":"Point"}
 }

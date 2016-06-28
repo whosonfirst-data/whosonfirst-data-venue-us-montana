@@ -2,13 +2,14 @@
   "id": 186141965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.196611,46.349175,-114.196611,46.349175",
     "geom:latitude":46.349175,
     "geom:longitude":-114.196611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 Flicker Ln",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186141965,
-    "wof:lastmodified":1449051333,
+    "wof:lastmodified":1466642122,
     "wof:name":"Scotti Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.196611,46.349175,-114.196611,46.349175],
+  "bbox": [
+    -114.196611,
+    46.349175,
+    -114.196611,
+    46.349175
+],
   "geometry": {"coordinates":[-114.196611,46.349175],"type":"Point"}
 }

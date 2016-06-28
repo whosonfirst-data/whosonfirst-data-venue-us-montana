@@ -2,13 +2,14 @@
   "id": 186355603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.274855,47.505223,-111.274855,47.505223",
     "geom:latitude":47.505223,
     "geom:longitude":-111.274855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Central Ave",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186355603,
-    "wof:lastmodified":1449051139,
+    "wof:lastmodified":1466642864,
     "wof:name":"Great Falls Floral Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.274855,47.505223,-111.274855,47.505223],
+  "bbox": [
+    -111.274855,
+    47.505223,
+    -111.274855,
+    47.505223
+],
   "geometry": {"coordinates":[-111.274855,47.505223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169793653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.445557,45.522801,-109.445557,45.522801",
     "geom:latitude":45.522801,
     "geom:longitude":-109.445557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Abattoir Rd",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169793653,
-    "wof:lastmodified":1449034505,
+    "wof:lastmodified":1466641259,
     "wof:name":"Corner Post Custom Fence Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.445557,45.522801,-109.445557,45.522801],
-  "geometry": {"coordinates":[-109.445557,45.522801],"type":"Point"}
+  "bbox": [
+    -109.445557,
+    45.522801,
+    -109.445557,
+    45.522801
+],
+  "geometry": {"coordinates":[-109.44555699999999,45.522801],"type":"Point"}
 }

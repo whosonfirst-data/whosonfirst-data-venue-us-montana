@@ -2,13 +2,14 @@
   "id": 185657469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023893,46.596769,-112.023893,46.596769",
     "geom:latitude":46.596769,
     "geom:longitude":-112.023893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1067 Helena Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185657469,
-    "wof:lastmodified":1449006788,
+    "wof:lastmodified":1466641376,
     "wof:name":"Raven & Rose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.023893,46.596769,-112.023893,46.596769],
+  "bbox": [
+    -112.023893,
+    46.596769,
+    -112.023893,
+    46.596769
+],
   "geometry": {"coordinates":[-112.023893,46.596769],"type":"Point"}
 }

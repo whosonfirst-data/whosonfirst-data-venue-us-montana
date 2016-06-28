@@ -2,13 +2,14 @@
   "id": 186184751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.950677,46.632054,-113.950677,46.632054",
     "geom:latitude":46.632054,
     "geom:longitude":-113.950677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5531 Sapphire Ridge Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186184751,
-    "wof:lastmodified":1449050866,
+    "wof:lastmodified":1466642199,
     "wof:name":"Missoula Paint & Wallpaper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-113.950677,46.632054,-113.950677,46.632054],
+  "bbox": [
+    -113.950677,
+    46.632054,
+    -113.950677,
+    46.632054
+],
   "geometry": {"coordinates":[-113.950677,46.632054],"type":"Point"}
 }

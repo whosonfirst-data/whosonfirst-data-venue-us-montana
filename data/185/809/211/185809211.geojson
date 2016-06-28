@@ -2,13 +2,14 @@
   "id": 185809211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.511819,45.992339,-112.511819,45.992339",
     "geom:latitude":45.992339,
     "geom:longitude":-112.511819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2071 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185809211,
-    "wof:lastmodified":1449007940,
+    "wof:lastmodified":1466641540,
     "wof:name":"Bugs and Bullets Sport Shop",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hunting"
     ]
 },
-  "bbox": [-112.511819,45.992339,-112.511819,45.992339],
+  "bbox": [
+    -112.511819,
+    45.992339,
+    -112.511819,
+    45.992339
+],
   "geometry": {"coordinates":[-112.511819,45.992339],"type":"Point"}
 }

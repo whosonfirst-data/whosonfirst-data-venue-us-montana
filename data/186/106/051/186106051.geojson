@@ -2,13 +2,14 @@
   "id": 186106051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.16107,46.254152,-114.16107,46.254152",
     "geom:latitude":46.254152,
     "geom:longitude":-114.16107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N 4th St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186106051,
-    "wof:lastmodified":1449050204,
+    "wof:lastmodified":1466641812,
     "wof:name":"Ausum Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.16107,46.254152,-114.16107,46.254152],
+  "bbox": [
+    -114.16107,
+    46.254152,
+    -114.16107,
+    46.254152
+],
   "geometry": {"coordinates":[-114.16107,46.254152],"type":"Point"}
 }

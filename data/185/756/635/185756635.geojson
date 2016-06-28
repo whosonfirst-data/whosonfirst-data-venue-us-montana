@@ -2,13 +2,14 @@
   "id": 185756635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.644731,45.714883,-108.644731,45.714883",
     "geom:latitude":45.714883,
     "geom:longitude":-108.644731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5110 Danford Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185756635,
-    "wof:lastmodified":1449007572,
+    "wof:lastmodified":1466641485,
     "wof:name":"Express Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-108.644731,45.714883,-108.644731,45.714883],
-  "geometry": {"coordinates":[-108.644731,45.714883],"type":"Point"}
+  "bbox": [
+    -108.644731,
+    45.714883,
+    -108.644731,
+    45.714883
+],
+  "geometry": {"coordinates":[-108.64473099999999,45.714883],"type":"Point"}
 }

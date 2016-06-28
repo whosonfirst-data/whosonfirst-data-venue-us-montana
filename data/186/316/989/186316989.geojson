@@ -2,13 +2,14 @@
   "id": 186316989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.66729,45.736358,-108.66729,45.736358",
     "geom:latitude":45.736358,
     "geom:longitude":-108.66729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5921 Creek Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186316989,
-    "wof:lastmodified":1449052192,
+    "wof:lastmodified":1466642813,
     "wof:name":"Encore Construction",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-108.66729,45.736358,-108.66729,45.736358],
-  "geometry": {"coordinates":[-108.66729,45.736358],"type":"Point"}
+  "bbox": [
+    -108.66729,
+    45.736358,
+    -108.66729,
+    45.736358
+],
+  "geometry": {"coordinates":[-108.66728999999999,45.736358],"type":"Point"}
 }

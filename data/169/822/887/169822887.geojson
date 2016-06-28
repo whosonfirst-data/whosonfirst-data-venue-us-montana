@@ -2,13 +2,14 @@
   "id": 169822887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.348175,47.596591,-115.348175,47.596591",
     "geom:latitude":47.596591,
     "geom:longitude":-115.348175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Ogden Ave",
     "sg:city":"Thompson Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169822887,
-    "wof:lastmodified":1449035865,
+    "wof:lastmodified":1466641296,
     "wof:name":"Our Saviour's Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.348175,47.596591,-115.348175,47.596591],
+  "bbox": [
+    -115.348175,
+    47.596591,
+    -115.348175,
+    47.596591
+],
   "geometry": {"coordinates":[-115.348175,47.596591],"type":"Point"}
 }

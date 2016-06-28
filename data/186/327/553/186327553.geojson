@@ -2,13 +2,14 @@
   "id": 186327553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.039451,46.846866,-114.039451,46.846866",
     "geom:latitude":46.846866,
     "geom:longitude":-114.039451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 Dearborn Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186327553,
-    "wof:lastmodified":1449050446,
+    "wof:lastmodified":1466642433,
     "wof:name":"Invizeon Corporation",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "alert"
     ]
 },
-  "bbox": [-114.039451,46.846866,-114.039451,46.846866],
+  "bbox": [
+    -114.039451,
+    46.846866,
+    -114.039451,
+    46.846866
+],
   "geometry": {"coordinates":[-114.039451,46.846866],"type":"Point"}
 }

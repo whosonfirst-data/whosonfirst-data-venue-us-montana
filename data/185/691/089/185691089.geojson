@@ -2,13 +2,14 @@
   "id": 185691089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.312899,46.791645,-105.312899,46.791645",
     "geom:latitude":46.791645,
     "geom:longitude":-105.312899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Logan Ave",
     "sg:city":"Terry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185691089,
-    "wof:lastmodified":1449006737,
+    "wof:lastmodified":1466641407,
     "wof:name":"Eddie's Accounting & Income Tx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-105.312899,46.791645,-105.312899,46.791645],
+  "bbox": [
+    -105.312899,
+    46.791645,
+    -105.312899,
+    46.791645
+],
   "geometry": {"coordinates":[-105.312899,46.791645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185876033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.155544,46.245824,-114.155544,46.245824",
     "geom:latitude":46.245824,
     "geom:longitude":-114.155544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 S 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185876033,
-    "wof:lastmodified":1449006938,
+    "wof:lastmodified":1466641608,
     "wof:name":"Neff Walker Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-114.155544,46.245824,-114.155544,46.245824],
-  "geometry": {"coordinates":[-114.155544,46.245824],"type":"Point"}
+  "bbox": [
+    -114.155544,
+    46.245824,
+    -114.155544,
+    46.245824
+],
+  "geometry": {"coordinates":[-114.15554400000001,46.245824],"type":"Point"}
 }

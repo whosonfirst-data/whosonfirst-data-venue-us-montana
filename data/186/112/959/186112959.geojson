@@ -2,13 +2,14 @@
   "id": 186112959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.502735,45.992608,-112.502735,45.992608",
     "geom:latitude":45.992608,
     "geom:longitude":-112.502735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Farragut Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186112959,
-    "wof:lastmodified":1449051608,
+    "wof:lastmodified":1466641878,
     "wof:name":"Diocese Of Helena Tribunal",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-112.502735,45.992608,-112.502735,45.992608],
+  "bbox": [
+    -112.502735,
+    45.992608,
+    -112.502735,
+    45.992608
+],
   "geometry": {"coordinates":[-112.502735,45.992608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186116059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.988053,46.574132,-111.988053,46.574132",
     "geom:latitude":46.574132,
     "geom:longitude":-111.988053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2622 Gold Rush Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186116059,
-    "wof:lastmodified":1449050761,
+    "wof:lastmodified":1466642046,
     "wof:name":"Mueller AIA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-111.988053,46.574132,-111.988053,46.574132],
-  "geometry": {"coordinates":[-111.988053,46.574132],"type":"Point"}
+  "bbox": [
+    -111.988053,
+    46.574132,
+    -111.988053,
+    46.574132
+],
+  "geometry": {"coordinates":[-111.98805299999999,46.574132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185992667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.545697,45.784131,-108.545697,45.784131",
     "geom:latitude":45.784131,
     "geom:longitude":-108.545697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185992667,
-    "wof:lastmodified":1449007373,
+    "wof:lastmodified":1466641709,
     "wof:name":"Ski Station",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "skiing"
     ]
 },
-  "bbox": [-108.545697,45.784131,-108.545697,45.784131],
+  "bbox": [
+    -108.545697,
+    45.784131,
+    -108.545697,
+    45.784131
+],
   "geometry": {"coordinates":[-108.545697,45.784131],"type":"Point"}
 }

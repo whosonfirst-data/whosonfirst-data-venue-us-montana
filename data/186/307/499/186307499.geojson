@@ -2,13 +2,14 @@
   "id": 186307499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.154164,47.709365,-104.154164,47.709365",
     "geom:latitude":47.709365,
     "geom:longitude":-104.154164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 5th St SE",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186307499,
-    "wof:lastmodified":1449051083,
+    "wof:lastmodified":1466642632,
     "wof:name":"B & B Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.154164,47.709365,-104.154164,47.709365],
-  "geometry": {"coordinates":[-104.154164,47.709365],"type":"Point"}
+  "bbox": [
+    -104.154164,
+    47.709365,
+    -104.154164,
+    47.709365
+],
+  "geometry": {"coordinates":[-104.15416399999999,47.709365],"type":"Point"}
 }

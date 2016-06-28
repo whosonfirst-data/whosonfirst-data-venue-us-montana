@@ -2,13 +2,14 @@
   "id": 186348921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.348428,45.943774,-108.348428,45.943774",
     "geom:latitude":45.943774,
     "geom:longitude":-108.348428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5515 Shepherd Acton Rd",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186348921,
-    "wof:lastmodified":1449050395,
+    "wof:lastmodified":1466642715,
     "wof:name":"Emmanuel Lutheran Church",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.348428,45.943774,-108.348428,45.943774],
+  "bbox": [
+    -108.348428,
+    45.943774,
+    -108.348428,
+    45.943774
+],
   "geometry": {"coordinates":[-108.348428,45.943774],"type":"Point"}
 }

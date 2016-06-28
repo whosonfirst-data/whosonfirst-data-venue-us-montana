@@ -2,13 +2,14 @@
   "id": 186370215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.018294,46.855153,-114.018294,46.855153",
     "geom:latitude":46.855153,
     "geom:longitude":-114.018294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Burlington Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186370215,
-    "wof:lastmodified":1449051847,
+    "wof:lastmodified":1466642782,
     "wof:name":"Missoula Emergency Services",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-114.018294,46.855153,-114.018294,46.855153],
+  "bbox": [
+    -114.018294,
+    46.855153,
+    -114.018294,
+    46.855153
+],
   "geometry": {"coordinates":[-114.018294,46.855153],"type":"Point"}
 }

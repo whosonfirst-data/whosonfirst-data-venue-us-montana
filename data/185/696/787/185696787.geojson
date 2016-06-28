@@ -2,13 +2,14 @@
   "id": 185696787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.021837,46.848803,-114.021837,46.848803",
     "geom:latitude":46.848803,
     "geom:longitude":-114.021837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 South Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185696787,
-    "wof:lastmodified":1449006729,
+    "wof:lastmodified":1466641419,
     "wof:name":"Missoula Blueprinting Company",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mapping"
     ]
 },
-  "bbox": [-114.021837,46.848803,-114.021837,46.848803],
+  "bbox": [
+    -114.021837,
+    46.848803,
+    -114.021837,
+    46.848803
+],
   "geometry": {"coordinates":[-114.021837,46.848803],"type":"Point"}
 }

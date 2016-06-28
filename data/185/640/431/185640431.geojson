@@ -2,13 +2,14 @@
   "id": 185640431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.676941,48.551231,-109.676941,48.551231",
     "geom:latitude":48.551231,
     "geom:longitude":-109.676941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 3rd St",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185640431,
-    "wof:lastmodified":1449007317,
+    "wof:lastmodified":1466641346,
     "wof:name":"Havre-Hill County Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.676941,48.551231,-109.676941,48.551231],
+  "bbox": [
+    -109.676941,
+    48.551231,
+    -109.676941,
+    48.551231
+],
   "geometry": {"coordinates":[-109.676941,48.551231],"type":"Point"}
 }

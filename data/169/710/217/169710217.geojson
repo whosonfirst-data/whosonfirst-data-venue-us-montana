@@ -2,13 +2,14 @@
   "id": 169710217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.516898,48.148889,-104.516898,48.148889",
     "geom:latitude":48.148889,
     "geom:longitude":-104.516898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 6th St E",
     "sg:city":"Culbertson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169710217,
-    "wof:lastmodified":1449032889,
+    "wof:lastmodified":1466641267,
     "wof:name":"ME Too Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tape"
     ]
 },
-  "bbox": [-104.516898,48.148889,-104.516898,48.148889],
+  "bbox": [
+    -104.516898,
+    48.148889,
+    -104.516898,
+    48.148889
+],
   "geometry": {"coordinates":[-104.516898,48.148889],"type":"Point"}
 }

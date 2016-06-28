@@ -2,13 +2,14 @@
   "id": 185917551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.030281,45.683401,-111.030281,45.683401",
     "geom:latitude":45.683401,
     "geom:longitude":-111.030281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 N Church Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185917551,
-    "wof:lastmodified":1449008007,
+    "wof:lastmodified":1466641658,
     "wof:name":"Nell Bob Piano Tuning",
     "wof:parent_id":85876473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.030281,45.683401,-111.030281,45.683401],
+  "bbox": [
+    -111.030281,
+    45.683401,
+    -111.030281,
+    45.683401
+],
   "geometry": {"coordinates":[-111.030281,45.683401],"type":"Point"}
 }

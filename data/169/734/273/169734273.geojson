@@ -2,13 +2,14 @@
   "id": 169734273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.620804,45.787172,-108.620804,45.787172",
     "geom:latitude":45.787172,
     "geom:longitude":-108.620804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 41st St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169734273,
-    "wof:lastmodified":1449035534,
+    "wof:lastmodified":1466641163,
     "wof:name":"Samauri Handy Work",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-108.620804,45.787172,-108.620804,45.787172],
-  "geometry": {"coordinates":[-108.620804,45.787172],"type":"Point"}
+  "bbox": [
+    -108.620804,
+    45.787172,
+    -108.620804,
+    45.787172
+],
+  "geometry": {"coordinates":[-108.62080400000001,45.787172],"type":"Point"}
 }

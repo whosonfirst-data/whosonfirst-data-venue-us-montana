@@ -2,13 +2,14 @@
   "id": 169724639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.122387,46.236938,-112.122387,46.236938",
     "geom:latitude":46.236938,
     "geom:longitude":-112.122387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Centennial Ave",
     "sg:city":"Boulder",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169724639,
-    "wof:lastmodified":1449035900,
+    "wof:lastmodified":1466641738,
     "wof:name":"Jefferson County Commissioners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.122387,46.236938,-112.122387,46.236938],
+  "bbox": [
+    -112.122387,
+    46.236938,
+    -112.122387,
+    46.236938
+],
   "geometry": {"coordinates":[-112.122387,46.236938],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186172427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.219505,47.471677,-114.219505,47.471677",
     "geom:latitude":47.471677,
     "geom:longitude":-114.219505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5266 Stipe Ln",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186172427,
-    "wof:lastmodified":1449051452,
+    "wof:lastmodified":1466642160,
     "wof:name":"Image Quest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trimming"
     ]
 },
-  "bbox": [-114.219505,47.471677,-114.219505,47.471677],
+  "bbox": [
+    -114.219505,
+    47.471677,
+    -114.219505,
+    47.471677
+],
   "geometry": {"coordinates":[-114.219505,47.471677],"type":"Point"}
 }

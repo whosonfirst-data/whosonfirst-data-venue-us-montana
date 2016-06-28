@@ -2,13 +2,14 @@
   "id": 185748179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.946246,48.170192,-111.946246,48.170192",
     "geom:latitude":48.170192,
     "geom:longitude":-111.946246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Main St",
     "sg:city":"Conrad",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185748179,
-    "wof:lastmodified":1449007817,
+    "wof:lastmodified":1466641471,
     "wof:name":"G & D Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.946246,48.170192,-111.946246,48.170192],
+  "bbox": [
+    -111.946246,
+    48.170192,
+    -111.946246,
+    48.170192
+],
   "geometry": {"coordinates":[-111.946246,48.170192],"type":"Point"}
 }

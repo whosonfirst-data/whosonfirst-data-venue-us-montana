@@ -2,13 +2,14 @@
   "id": 169705785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.556474,45.781609,-108.556474,45.781609",
     "geom:latitude":45.781609,
     "geom:longitude":-108.556474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 16th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":169705785,
-    "wof:lastmodified":1449035991,
+    "wof:lastmodified":1466641231,
     "wof:name":"Tailor Made",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-108.556474,45.781609,-108.556474,45.781609],
-  "geometry": {"coordinates":[-108.556474,45.781609],"type":"Point"}
+  "bbox": [
+    -108.556474,
+    45.781609,
+    -108.556474,
+    45.781609
+],
+  "geometry": {"coordinates":[-108.55647399999999,45.781609],"type":"Point"}
 }

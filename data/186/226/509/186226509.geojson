@@ -2,13 +2,14 @@
   "id": 186226509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.500368,45.774915,-108.500368,45.774915",
     "geom:latitude":45.774915,
     "geom:longitude":-108.500368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 S 29th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186226509,
-    "wof:lastmodified":1449052302,
+    "wof:lastmodified":1466642401,
     "wof:name":"Our Lady Of Guadalupe Church",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.500368,45.774915,-108.500368,45.774915],
-  "geometry": {"coordinates":[-108.500368,45.774915],"type":"Point"}
+  "bbox": [
+    -108.500368,
+    45.774915,
+    -108.500368,
+    45.774915
+],
+  "geometry": {"coordinates":[-108.50036799999999,45.774915],"type":"Point"}
 }

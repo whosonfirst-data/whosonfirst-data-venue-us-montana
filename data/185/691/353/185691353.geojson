@@ -2,13 +2,14 @@
   "id": 185691353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.072341,48.198367,-114.072341,48.198367",
     "geom:latitude":48.198367,
     "geom:longitude":-114.072341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2379 Foothill Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185691353,
-    "wof:lastmodified":1449006737,
+    "wof:lastmodified":1466641411,
     "wof:name":"Lakewood Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.072341,48.198367,-114.072341,48.198367],
-  "geometry": {"coordinates":[-114.072341,48.198367],"type":"Point"}
+  "bbox": [
+    -114.072341,
+    48.198367,
+    -114.072341,
+    48.198367
+],
+  "geometry": {"coordinates":[-114.07234099999999,48.198367],"type":"Point"}
 }

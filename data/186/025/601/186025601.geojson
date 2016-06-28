@@ -2,13 +2,14 @@
   "id": 186025601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.848226,46.406877,-105.848226,46.406877",
     "geom:latitude":46.406877,
     "geom:longitude":-105.848226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Main St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186025601,
-    "wof:lastmodified":1449052566,
+    "wof:lastmodified":1466641542,
     "wof:name":"Copper Thimble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-105.848226,46.406877,-105.848226,46.406877],
+  "bbox": [
+    -105.848226,
+    46.406877,
+    -105.848226,
+    46.406877
+],
   "geometry": {"coordinates":[-105.848226,46.406877],"type":"Point"}
 }

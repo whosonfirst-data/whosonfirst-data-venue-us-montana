@@ -2,13 +2,14 @@
   "id": 186322211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.038159,46.588944,-112.038159,46.588944",
     "geom:latitude":46.588944,
     "geom:longitude":-112.038159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186322211,
-    "wof:lastmodified":1449050216,
+    "wof:lastmodified":1466642647,
     "wof:name":"Bert & Ernies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "wine"
     ]
 },
-  "bbox": [-112.038159,46.588944,-112.038159,46.588944],
-  "geometry": {"coordinates":[-112.038159,46.588944],"type":"Point"}
+  "bbox": [
+    -112.038159,
+    46.588944,
+    -112.038159,
+    46.588944
+],
+  "geometry": {"coordinates":[-112.03815899999999,46.588944],"type":"Point"}
 }

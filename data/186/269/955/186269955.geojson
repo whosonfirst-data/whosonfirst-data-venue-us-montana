@@ -2,13 +2,14 @@
   "id": 186269955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.950083,45.835221,-109.950083,45.835221",
     "geom:latitude":45.835221,
     "geom:longitude":-109.950083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Bramble St",
     "sg:city":"Big Timber",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186269955,
-    "wof:lastmodified":1449052055,
+    "wof:lastmodified":1466642573,
     "wof:name":"Evangelical Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-109.950083,45.835221,-109.950083,45.835221],
-  "geometry": {"coordinates":[-109.950083,45.835221],"type":"Point"}
+  "bbox": [
+    -109.950083,
+    45.835221,
+    -109.950083,
+    45.835221
+],
+  "geometry": {"coordinates":[-109.95008300000001,45.835221],"type":"Point"}
 }

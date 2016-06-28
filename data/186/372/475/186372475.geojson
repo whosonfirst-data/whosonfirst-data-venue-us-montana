@@ -2,13 +2,14 @@
   "id": 186372475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.506529,45.782932,-108.506529,45.782932",
     "geom:latitude":45.782932,
     "geom:longitude":-108.506529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 2nd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186372475,
-    "wof:lastmodified":1449051988,
+    "wof:lastmodified":1466642789,
     "wof:name":"Rockman Gene Interiors",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "furniture"
     ]
 },
-  "bbox": [-108.506529,45.782932,-108.506529,45.782932],
+  "bbox": [
+    -108.506529,
+    45.782932,
+    -108.506529,
+    45.782932
+],
   "geometry": {"coordinates":[-108.506529,45.782932],"type":"Point"}
 }

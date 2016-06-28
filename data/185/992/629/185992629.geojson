@@ -2,13 +2,14 @@
   "id": 185992629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.688463,48.554486,-109.688463,48.554486",
     "geom:latitude":48.554486,
     "geom:longitude":-109.688463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 1st St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185992629,
-    "wof:lastmodified":1449007372,
+    "wof:lastmodified":1466641708,
     "wof:name":"Holiday Stationstores 272",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-109.688463,48.554486,-109.688463,48.554486],
+  "bbox": [
+    -109.688463,
+    48.554486,
+    -109.688463,
+    48.554486
+],
   "geometry": {"coordinates":[-109.688463,48.554486],"type":"Point"}
 }

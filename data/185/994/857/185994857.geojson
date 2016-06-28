@@ -2,13 +2,14 @@
   "id": 185994857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.645935,45.776752,-108.645935,45.776752",
     "geom:latitude":45.776752,
     "geom:longitude":-108.645935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Lavender St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185994857,
-    "wof:lastmodified":1449006659,
+    "wof:lastmodified":1466641715,
     "wof:name":"Ellison Consulting & Engrg",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-108.645935,45.776752,-108.645935,45.776752],
-  "geometry": {"coordinates":[-108.645935,45.776752],"type":"Point"}
+  "bbox": [
+    -108.645935,
+    45.776752,
+    -108.645935,
+    45.776752
+],
+  "geometry": {"coordinates":[-108.64593499999999,45.776752],"type":"Point"}
 }

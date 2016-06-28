@@ -2,13 +2,14 @@
   "id": 186085067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.042651,46.807078,-114.042651,46.807078",
     "geom:latitude":46.807078,
     "geom:longitude":-114.042651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6705 Driftwood Ln",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186085067,
-    "wof:lastmodified":1449051062,
+    "wof:lastmodified":1466641912,
     "wof:name":"Sky Dive Montana",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-114.042651,46.807078,-114.042651,46.807078],
-  "geometry": {"coordinates":[-114.042651,46.807078],"type":"Point"}
+  "bbox": [
+    -114.042651,
+    46.807078,
+    -114.042651,
+    46.807078
+],
+  "geometry": {"coordinates":[-114.04265100000001,46.807078],"type":"Point"}
 }

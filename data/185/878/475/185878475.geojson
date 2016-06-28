@@ -2,13 +2,14 @@
   "id": 185878475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.481472,45.92134,-112.481472,45.92134",
     "geom:latitude":45.92134,
     "geom:longitude":-112.481472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Vista Ct",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185878475,
-    "wof:lastmodified":1449007467,
+    "wof:lastmodified":1466641614,
     "wof:name":"Smacna of Mt",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-112.481472,45.92134,-112.481472,45.92134],
+  "bbox": [
+    -112.481472,
+    45.92134,
+    -112.481472,
+    45.92134
+],
   "geometry": {"coordinates":[-112.481472,45.92134],"type":"Point"}
 }

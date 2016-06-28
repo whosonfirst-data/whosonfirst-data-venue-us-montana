@@ -2,13 +2,14 @@
   "id": 169704845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.558727,48.771662,-104.558727,48.771662",
     "geom:latitude":48.771662,
     "geom:longitude":-104.558727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 S Dodge St",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169704845,
-    "wof:lastmodified":1449033551,
+    "wof:lastmodified":1466641162,
     "wof:name":"Constance Care Child Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-104.558727,48.771662,-104.558727,48.771662],
+  "bbox": [
+    -104.558727,
+    48.771662,
+    -104.558727,
+    48.771662
+],
   "geometry": {"coordinates":[-104.558727,48.771662],"type":"Point"}
 }

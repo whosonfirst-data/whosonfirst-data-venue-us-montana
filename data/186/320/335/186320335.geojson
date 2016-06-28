@@ -2,13 +2,14 @@
   "id": 186320335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.286859,47.506309,-111.286859,47.506309",
     "geom:latitude":47.506309,
     "geom:longitude":-111.286859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 1st Ave N",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186320335,
-    "wof:lastmodified":1449051074,
+    "wof:lastmodified":1466642653,
     "wof:name":"Donna Lynn Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-111.286859,47.506309,-111.286859,47.506309],
-  "geometry": {"coordinates":[-111.286859,47.506309],"type":"Point"}
+  "bbox": [
+    -111.286859,
+    47.506309,
+    -111.286859,
+    47.506309
+],
+  "geometry": {"coordinates":[-111.28685900000001,47.506309],"type":"Point"}
 }

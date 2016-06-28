@@ -2,13 +2,14 @@
   "id": 185732689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.822594,46.39728,-105.822594,46.39728",
     "geom:latitude":46.39728,
     "geom:longitude":-105.822594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 S Haynes Ave",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185732689,
-    "wof:lastmodified":1449008277,
+    "wof:lastmodified":1466641455,
     "wof:name":"Town Pump Inc & Affiliates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.822594,46.39728,-105.822594,46.39728],
+  "bbox": [
+    -105.822594,
+    46.39728,
+    -105.822594,
+    46.39728
+],
   "geometry": {"coordinates":[-105.822594,46.39728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185997659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.992831,46.547587,-113.992831,46.547587",
     "geom:latitude":46.547587,
     "geom:longitude":-113.992831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4077 Sunnyside Cemetery Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185997659,
-    "wof:lastmodified":1449007949,
+    "wof:lastmodified":1466641790,
     "wof:name":"Bags N Pcks Dgitizing Cstm EMB",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "labeling"
     ]
 },
-  "bbox": [-113.992831,46.547587,-113.992831,46.547587],
+  "bbox": [
+    -113.992831,
+    46.547587,
+    -113.992831,
+    46.547587
+],
   "geometry": {"coordinates":[-113.992831,46.547587],"type":"Point"}
 }

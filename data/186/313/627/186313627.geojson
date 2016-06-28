@@ -2,13 +2,14 @@
   "id": 186313627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.15539,46.244947,-114.15539,46.244947",
     "geom:latitude":46.244947,
     "geom:longitude":-114.15539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Bedford St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186313627,
-    "wof:lastmodified":1449050350,
+    "wof:lastmodified":1466642641,
     "wof:name":"Alpine Dry Clr & Shirt Ldry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-114.15539,46.244947,-114.15539,46.244947],
+  "bbox": [
+    -114.15539,
+    46.244947,
+    -114.15539,
+    46.244947
+],
   "geometry": {"coordinates":[-114.15539,46.244947],"type":"Point"}
 }

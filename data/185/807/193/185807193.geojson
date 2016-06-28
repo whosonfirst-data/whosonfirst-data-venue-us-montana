@@ -2,13 +2,14 @@
   "id": 185807193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.819503,47.465108,-114.819503,47.465108",
     "geom:latitude":47.465108,
     "geom:longitude":-114.819503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Deemer Cr Rd",
     "sg:city":"Plains",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185807193,
-    "wof:lastmodified":1449007016,
+    "wof:lastmodified":1466641538,
     "wof:name":"Spencer's Hackles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fishing"
     ]
 },
-  "bbox": [-114.819503,47.465108,-114.819503,47.465108],
+  "bbox": [
+    -114.819503,
+    47.465108,
+    -114.819503,
+    47.465108
+],
   "geometry": {"coordinates":[-114.819503,47.465108],"type":"Point"}
 }

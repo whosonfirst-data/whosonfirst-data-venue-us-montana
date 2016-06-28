@@ -2,13 +2,14 @@
   "id": 169760525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.495881,45.779326,-108.495881,45.779326",
     "geom:latitude":45.779326,
     "geom:longitude":-108.495881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S 24th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169760525,
-    "wof:lastmodified":1449035838,
+    "wof:lastmodified":1466641205,
     "wof:name":"Valley Building Products Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "representative"
     ]
 },
-  "bbox": [-108.495881,45.779326,-108.495881,45.779326],
+  "bbox": [
+    -108.495881,
+    45.779326,
+    -108.495881,
+    45.779326
+],
   "geometry": {"coordinates":[-108.495881,45.779326],"type":"Point"}
 }

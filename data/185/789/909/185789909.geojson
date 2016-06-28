@@ -2,13 +2,14 @@
   "id": 185789909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.032603,46.872734,-114.032603,46.872734",
     "geom:latitude":46.872734,
     "geom:longitude":-114.032603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2276 Westfield Ct",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185789909,
-    "wof:lastmodified":1449007343,
+    "wof:lastmodified":1466641523,
     "wof:name":"Inphaze Systems Inc",
     "wof:parent_id":85891735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-114.032603,46.872734,-114.032603,46.872734],
-  "geometry": {"coordinates":[-114.032603,46.872734],"type":"Point"}
+  "bbox": [
+    -114.032603,
+    46.872734,
+    -114.032603,
+    46.872734
+],
+  "geometry": {"coordinates":[-114.03260299999999,46.872734],"type":"Point"}
 }

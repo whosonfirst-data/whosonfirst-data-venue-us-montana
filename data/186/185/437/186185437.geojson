@@ -2,13 +2,14 @@
   "id": 186185437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576074,45.730479,-108.576074,45.730479",
     "geom:latitude":45.730479,
     "geom:longitude":-108.576074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 East Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186185437,
-    "wof:lastmodified":1449050854,
+    "wof:lastmodified":1466642032,
     "wof:name":"G&E Transportation Inc",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.576074,45.730479,-108.576074,45.730479],
-  "geometry": {"coordinates":[-108.576074,45.730479],"type":"Point"}
+  "bbox": [
+    -108.576074,
+    45.730479,
+    -108.576074,
+    45.730479
+],
+  "geometry": {"coordinates":[-108.57607400000001,45.730479],"type":"Point"}
 }

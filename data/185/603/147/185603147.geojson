@@ -2,13 +2,14 @@
   "id": 185603147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.078049,46.681329,-114.078049,46.681329",
     "geom:latitude":46.681329,
     "geom:longitude":-114.078049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19995 Old US Hwy 93",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185603147,
-    "wof:lastmodified":1449007987,
+    "wof:lastmodified":1466641171,
     "wof:name":"Russ Clark Welding & Fab",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-114.078049,46.681329,-114.078049,46.681329],
-  "geometry": {"coordinates":[-114.078049,46.681329],"type":"Point"}
+  "bbox": [
+    -114.078049,
+    46.681329,
+    -114.078049,
+    46.681329
+],
+  "geometry": {"coordinates":[-114.07804899999999,46.681329],"type":"Point"}
 }

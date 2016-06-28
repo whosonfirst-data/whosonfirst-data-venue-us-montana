@@ -2,13 +2,14 @@
   "id": 185929257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.558486,48.775263,-104.558486,48.775263",
     "geom:latitude":48.775263,
     "geom:longitude":-104.558486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 N Main St",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":185929257,
-    "wof:lastmodified":1449007228,
+    "wof:lastmodified":1466641678,
     "wof:name":"Plentywood Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "television"
     ]
 },
-  "bbox": [-104.558486,48.775263,-104.558486,48.775263],
+  "bbox": [
+    -104.558486,
+    48.775263,
+    -104.558486,
+    48.775263
+],
   "geometry": {"coordinates":[-104.558486,48.775263],"type":"Point"}
 }

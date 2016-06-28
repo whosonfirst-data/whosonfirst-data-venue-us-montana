@@ -2,13 +2,14 @@
   "id": 186349641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.529232,45.993137,-112.529232,45.993137",
     "geom:latitude":45.993137,
     "geom:longitude":-112.529232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Cobban St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186349641,
-    "wof:lastmodified":1449051400,
+    "wof:lastmodified":1466642716,
     "wof:name":"Marchies Tree Ldscpg & Gift Sp",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.529232,45.993137,-112.529232,45.993137],
-  "geometry": {"coordinates":[-112.529232,45.993137],"type":"Point"}
+  "bbox": [
+    -112.529232,
+    45.993137,
+    -112.529232,
+    45.993137
+],
+  "geometry": {"coordinates":[-112.52923199999999,45.993137],"type":"Point"}
 }

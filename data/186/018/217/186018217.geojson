@@ -2,13 +2,14 @@
   "id": 186018217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.245125,47.13256,-112.245125,47.13256",
     "geom:latitude":47.13256,
     "geom:longitude":-112.245125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4440 S Fork Trl",
     "sg:city":"Wolf Creek",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186018217,
-    "wof:lastmodified":1449051715,
+    "wof:lastmodified":1466641425,
     "wof:name":"Blacktill Ranch The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-112.245125,47.13256,-112.245125,47.13256],
+  "bbox": [
+    -112.245125,
+    47.13256,
+    -112.245125,
+    47.13256
+],
   "geometry": {"coordinates":[-112.245125,47.13256],"type":"Point"}
 }

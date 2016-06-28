@@ -2,13 +2,14 @@
   "id": 185744087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.421313,48.793405,-105.421313,48.793405",
     "geom:latitude":48.793405,
     "geom:longitude":-105.421313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Railroad Ave",
     "sg:city":"Westby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185744087,
-    "wof:lastmodified":1449007175,
+    "wof:lastmodified":1466641775,
     "wof:name":"Farmers Elevator Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-105.421313,48.793405,-105.421313,48.793405],
+  "bbox": [
+    -105.421313,
+    48.793405,
+    -105.421313,
+    48.793405
+],
   "geometry": {"coordinates":[-105.421313,48.793405],"type":"Point"}
 }

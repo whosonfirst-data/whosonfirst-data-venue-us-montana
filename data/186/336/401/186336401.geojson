@@ -2,13 +2,14 @@
   "id": 186336401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.342881,45.973889,-108.342881,45.973889",
     "geom:latitude":45.973889,
     "geom:longitude":-108.342881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9717 Shepherd Rd",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186336401,
-    "wof:lastmodified":1449050187,
+    "wof:lastmodified":1466642683,
     "wof:name":"Paramount Log Homes LLC",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabin"
     ]
 },
-  "bbox": [-108.342881,45.973889,-108.342881,45.973889],
-  "geometry": {"coordinates":[-108.342881,45.973889],"type":"Point"}
+  "bbox": [
+    -108.342881,
+    45.973889,
+    -108.342881,
+    45.973889
+],
+  "geometry": {"coordinates":[-108.34288100000001,45.973889],"type":"Point"}
 }

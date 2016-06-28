@@ -2,13 +2,14 @@
   "id": 186215403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.540583,46.012486,-112.540583,46.012486",
     "geom:latitude":46.012486,
     "geom:longitude":-112.540583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 S Idaho St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186215403,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466642373,
     "wof:name":"Butte Central High School",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "high"
     ]
 },
-  "bbox": [-112.540583,46.012486,-112.540583,46.012486],
+  "bbox": [
+    -112.540583,
+    46.012486,
+    -112.540583,
+    46.012486
+],
   "geometry": {"coordinates":[-112.540583,46.012486],"type":"Point"}
 }

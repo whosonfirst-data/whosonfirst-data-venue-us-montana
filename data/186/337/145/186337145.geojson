@@ -2,13 +2,14 @@
   "id": 186337145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.519725,45.78216,-108.519725,45.78216",
     "geom:latitude":45.78216,
     "geom:longitude":-108.519725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Burlington Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186337145,
-    "wof:lastmodified":1449051640,
+    "wof:lastmodified":1466642688,
     "wof:name":"Classic Vendors Inc",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repair"
     ]
 },
-  "bbox": [-108.519725,45.78216,-108.519725,45.78216],
-  "geometry": {"coordinates":[-108.519725,45.78216],"type":"Point"}
+  "bbox": [
+    -108.519725,
+    45.78216,
+    -108.519725,
+    45.78216
+],
+  "geometry": {"coordinates":[-108.51972499999999,45.78216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186348705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.336502,48.370859,-114.336502,48.370859",
     "geom:latitude":48.370859,
     "geom:longitude":-114.336502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Blanchard Lake Rd",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186348705,
-    "wof:lastmodified":1449050395,
+    "wof:lastmodified":1466642715,
     "wof:name":"Bohemian Grange Hall",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-114.336502,48.370859,-114.336502,48.370859],
+  "bbox": [
+    -114.336502,
+    48.370859,
+    -114.336502,
+    48.370859
+],
   "geometry": {"coordinates":[-114.336502,48.370859],"type":"Point"}
 }

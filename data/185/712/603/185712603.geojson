@@ -2,13 +2,14 @@
   "id": 185712603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.035782,45.684012,-111.035782,45.684012",
     "geom:latitude":45.684012,
     "geom:longitude":-111.035782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 N Black Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185712603,
-    "wof:lastmodified":1449007300,
+    "wof:lastmodified":1466641436,
     "wof:name":"Edge Construction LLC",
     "wof:parent_id":85876471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-111.035782,45.684012,-111.035782,45.684012],
+  "bbox": [
+    -111.035782,
+    45.684012,
+    -111.035782,
+    45.684012
+],
   "geometry": {"coordinates":[-111.035782,45.684012],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186127339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.335181,48.409181,-114.335181,48.409181",
     "geom:latitude":48.409181,
     "geom:longitude":-114.335181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Spokane Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186127339,
-    "wof:lastmodified":1449052806,
+    "wof:lastmodified":1466642081,
     "wof:name":"Whitefish Foursquare Church",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.335181,48.409181,-114.335181,48.409181],
-  "geometry": {"coordinates":[-114.335181,48.409181],"type":"Point"}
+  "bbox": [
+    -114.335181,
+    48.409181,
+    -114.335181,
+    48.409181
+],
+  "geometry": {"coordinates":[-114.33518100000001,48.409181],"type":"Point"}
 }

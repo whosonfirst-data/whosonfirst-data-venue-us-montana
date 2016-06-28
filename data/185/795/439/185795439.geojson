@@ -2,13 +2,14 @@
   "id": 185795439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.326004,47.524453,-111.326004,47.524453",
     "geom:latitude":47.524453,
     "geom:longitude":-111.326004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Smelter Ave NW",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185795439,
-    "wof:lastmodified":1449007565,
+    "wof:lastmodified":1466641523,
     "wof:name":"Longhorn Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-111.326004,47.524453,-111.326004,47.524453],
+  "bbox": [
+    -111.326004,
+    47.524453,
+    -111.326004,
+    47.524453
+],
   "geometry": {"coordinates":[-111.326004,47.524453],"type":"Point"}
 }

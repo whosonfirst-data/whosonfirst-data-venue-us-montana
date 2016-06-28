@@ -2,13 +2,14 @@
   "id": 185900653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.437653,47.062068,-109.437653,47.062068",
     "geom:latitude":47.062068,
     "geom:longitude":-109.437653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 W Montana St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185900653,
-    "wof:lastmodified":1449007302,
+    "wof:lastmodified":1466641640,
     "wof:name":"Montana Farm Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.437653,47.062068,-109.437653,47.062068],
+  "bbox": [
+    -109.437653,
+    47.062068,
+    -109.437653,
+    47.062068
+],
   "geometry": {"coordinates":[-109.437653,47.062068],"type":"Point"}
 }

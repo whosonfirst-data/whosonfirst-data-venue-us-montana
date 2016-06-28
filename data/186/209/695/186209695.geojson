@@ -2,13 +2,14 @@
   "id": 186209695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.646734,48.087025,-105.646734,48.087025",
     "geom:latitude":48.087025,
     "geom:longitude":-105.646734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 6th Ave S",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186209695,
-    "wof:lastmodified":1449052733,
+    "wof:lastmodified":1466642289,
     "wof:name":"US Indian Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-105.646734,48.087025,-105.646734,48.087025],
+  "bbox": [
+    -105.646734,
+    48.087025,
+    -105.646734,
+    48.087025
+],
   "geometry": {"coordinates":[-105.646734,48.087025],"type":"Point"}
 }

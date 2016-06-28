@@ -2,13 +2,14 @@
   "id": 186034475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.702693,47.105339,-104.702693,47.105339",
     "geom:latitude":47.105339,
     "geom:longitude":-104.702693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 E Dodge St",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186034475,
-    "wof:lastmodified":1449050545,
+    "wof:lastmodified":1466641686,
     "wof:name":"Bruces Cpr & First Aid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.702693,47.105339,-104.702693,47.105339],
+  "bbox": [
+    -104.702693,
+    47.105339,
+    -104.702693,
+    47.105339
+],
   "geometry": {"coordinates":[-104.702693,47.105339],"type":"Point"}
 }

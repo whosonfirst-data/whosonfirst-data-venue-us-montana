@@ -2,13 +2,14 @@
   "id": 186313247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.44031,45.854538,-108.44031,45.854538",
     "geom:latitude":45.854538,
     "geom:longitude":-108.44031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1651 Oklahoma Star Trl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186313247,
-    "wof:lastmodified":1449050344,
+    "wof:lastmodified":1466642633,
     "wof:name":"Specialized Construction Inc",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-108.44031,45.854538,-108.44031,45.854538],
+  "bbox": [
+    -108.44031,
+    45.854538,
+    -108.44031,
+    45.854538
+],
   "geometry": {"coordinates":[-108.44031,45.854538],"type":"Point"}
 }

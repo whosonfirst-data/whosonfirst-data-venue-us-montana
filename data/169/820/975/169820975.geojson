@@ -2,13 +2,14 @@
   "id": 169820975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.314252,48.439879,-114.314252,48.439879",
     "geom:latitude":48.439879,
     "geom:longitude":-114.314252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Latigo Ln",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169820975,
-    "wof:lastmodified":1449034388,
+    "wof:lastmodified":1466641297,
     "wof:name":"Latigo Creek Construction",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "construction"
     ]
 },
-  "bbox": [-114.314252,48.439879,-114.314252,48.439879],
+  "bbox": [
+    -114.314252,
+    48.439879,
+    -114.314252,
+    48.439879
+],
   "geometry": {"coordinates":[-114.314252,48.439879],"type":"Point"}
 }

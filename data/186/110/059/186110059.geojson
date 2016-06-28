@@ -2,13 +2,14 @@
   "id": 186110059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.037417,46.632678,-114.037417,46.632678",
     "geom:latitude":46.632678,
     "geom:longitude":-114.037417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Antrim Way",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186110059,
-    "wof:lastmodified":1449051274,
+    "wof:lastmodified":1466642007,
     "wof:name":"Glasshouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.037417,46.632678,-114.037417,46.632678],
+  "bbox": [
+    -114.037417,
+    46.632678,
+    -114.037417,
+    46.632678
+],
   "geometry": {"coordinates":[-114.037417,46.632678],"type":"Point"}
 }

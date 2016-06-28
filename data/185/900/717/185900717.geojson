@@ -2,13 +2,14 @@
   "id": 185900717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.505984,45.788268,-108.505984,45.788268",
     "geom:latitude":45.788268,
     "geom:longitude":-108.505984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 6th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185900717,
-    "wof:lastmodified":1449007302,
+    "wof:lastmodified":1466641641,
     "wof:name":"Metric Wrench",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-108.505984,45.788268,-108.505984,45.788268],
+  "bbox": [
+    -108.505984,
+    45.788268,
+    -108.505984,
+    45.788268
+],
   "geometry": {"coordinates":[-108.505984,45.788268],"type":"Point"}
 }

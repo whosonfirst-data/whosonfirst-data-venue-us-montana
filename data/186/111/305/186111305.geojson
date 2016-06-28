@@ -2,13 +2,14 @@
   "id": 186111305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.422987,47.06612,-109.422987,47.06612",
     "geom:latitude":47.06612,
     "geom:longitude":-109.422987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 1st Ave S",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186111305,
-    "wof:lastmodified":1449053104,
+    "wof:lastmodified":1466641855,
     "wof:name":"Lewistown Job Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "job"
     ]
 },
-  "bbox": [-109.422987,47.06612,-109.422987,47.06612],
-  "geometry": {"coordinates":[-109.422987,47.06612],"type":"Point"}
+  "bbox": [
+    -109.422987,
+    47.06612,
+    -109.422987,
+    47.06612
+],
+  "geometry": {"coordinates":[-109.42298700000001,47.06612],"type":"Point"}
 }

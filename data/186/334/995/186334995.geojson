@@ -2,13 +2,14 @@
   "id": 186334995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.044681,46.849337,-114.044681,46.849337",
     "geom:latitude":46.849337,
     "geom:longitude":-114.044681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2230 27th Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186334995,
-    "wof:lastmodified":1449051162,
+    "wof:lastmodified":1466642520,
     "wof:name":"Montana Medical Research LLC",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-114.044681,46.849337,-114.044681,46.849337],
+  "bbox": [
+    -114.044681,
+    46.849337,
+    -114.044681,
+    46.849337
+],
   "geometry": {"coordinates":[-114.044681,46.849337],"type":"Point"}
 }

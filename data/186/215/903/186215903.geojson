@@ -2,13 +2,14 @@
   "id": 186215903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.017042,46.609735,-112.017042,46.609735",
     "geom:latitude":46.609735,
     "geom:longitude":-112.017042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Cherry Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186215903,
-    "wof:lastmodified":1449052539,
+    "wof:lastmodified":1466642376,
     "wof:name":"Alliance Neon Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "awning"
     ]
 },
-  "bbox": [-112.017042,46.609735,-112.017042,46.609735],
+  "bbox": [
+    -112.017042,
+    46.609735,
+    -112.017042,
+    46.609735
+],
   "geometry": {"coordinates":[-112.017042,46.609735],"type":"Point"}
 }

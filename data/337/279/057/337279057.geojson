@@ -2,13 +2,14 @@
   "id": 337279057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.558849,45.668725,-110.558849,45.668725",
     "geom:latitude":45.668725,
     "geom:longitude":-110.558849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 N F St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337279057,
-    "wof:lastmodified":1449027319,
+    "wof:lastmodified":1466641218,
     "wof:name":"Shenandoah Rock Products",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-110.558849,45.668725,-110.558849,45.668725],
+  "bbox": [
+    -110.558849,
+    45.668725,
+    -110.558849,
+    45.668725
+],
   "geometry": {"coordinates":[-110.558849,45.668725],"type":"Point"}
 }

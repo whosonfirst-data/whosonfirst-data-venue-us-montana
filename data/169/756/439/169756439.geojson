@@ -2,13 +2,14 @@
   "id": 169756439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.091827,47.528609,-114.091827,47.528609",
     "geom:latitude":47.528609,
     "geom:longitude":-114.091827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 4th Ave SE",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169756439,
-    "wof:lastmodified":1449034661,
+    "wof:lastmodified":1466641198,
     "wof:name":"Blue Smoke Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-114.091827,47.528609,-114.091827,47.528609],
-  "geometry": {"coordinates":[-114.091827,47.528609],"type":"Point"}
+  "bbox": [
+    -114.091827,
+    47.528609,
+    -114.091827,
+    47.528609
+],
+  "geometry": {"coordinates":[-114.09182699999999,47.528609],"type":"Point"}
 }

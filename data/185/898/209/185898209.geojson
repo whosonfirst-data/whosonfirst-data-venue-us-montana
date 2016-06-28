@@ -2,13 +2,14 @@
   "id": 185898209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.920237,45.630469,-108.920237,45.630469",
     "geom:latitude":45.630469,
     "geom:longitude":-108.920237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 1st Ave SW",
     "sg:city":"Park City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185898209,
-    "wof:lastmodified":1449006572,
+    "wof:lastmodified":1466641637,
     "wof:name":"Park City Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.920237,45.630469,-108.920237,45.630469],
+  "bbox": [
+    -108.920237,
+    45.630469,
+    -108.920237,
+    45.630469
+],
   "geometry": {"coordinates":[-108.920237,45.630469],"type":"Point"}
 }

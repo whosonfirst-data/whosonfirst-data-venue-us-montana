@@ -2,13 +2,14 @@
   "id": 186333791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.541778,46.006239,-112.541778,46.006239",
     "geom:latitude":46.006239,
     "geom:longitude":-112.541778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 S Washington St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186333791,
-    "wof:lastmodified":1449052845,
+    "wof:lastmodified":1466642825,
     "wof:name":"D & D Enterprises",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "appliance"
     ]
 },
-  "bbox": [-112.541778,46.006239,-112.541778,46.006239],
-  "geometry": {"coordinates":[-112.541778,46.006239],"type":"Point"}
+  "bbox": [
+    -112.541778,
+    46.006239,
+    -112.541778,
+    46.006239
+],
+  "geometry": {"coordinates":[-112.54177799999999,46.006239],"type":"Point"}
 }

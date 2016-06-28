@@ -2,13 +2,14 @@
   "id": 169772815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.526041,45.983315,-112.526041,45.983315",
     "geom:latitude":45.983315,
     "geom:longitude":-112.526041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Dewey Blvd",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169772815,
-    "wof:lastmodified":1449034151,
+    "wof:lastmodified":1466641226,
     "wof:name":"KTVM",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "co"
     ]
 },
-  "bbox": [-112.526041,45.983315,-112.526041,45.983315],
-  "geometry": {"coordinates":[-112.526041,45.983315],"type":"Point"}
+  "bbox": [
+    -112.526041,
+    45.983315,
+    -112.526041,
+    45.983315
+],
+  "geometry": {"coordinates":[-112.52604100000001,45.983315],"type":"Point"}
 }

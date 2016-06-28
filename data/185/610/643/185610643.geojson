@@ -2,13 +2,14 @@
   "id": 185610643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.025873,46.627716,-112.025873,46.627716",
     "geom:latitude":46.627716,
     "geom:longitude":-112.025873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3780 Traufer Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185610643,
-    "wof:lastmodified":1449008168,
+    "wof:lastmodified":1466641192,
     "wof:name":"Jwd Lawn Care and Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-112.025873,46.627716,-112.025873,46.627716],
+  "bbox": [
+    -112.025873,
+    46.627716,
+    -112.025873,
+    46.627716
+],
   "geometry": {"coordinates":[-112.025873,46.627716],"type":"Point"}
 }

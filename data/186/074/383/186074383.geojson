@@ -2,13 +2,14 @@
   "id": 186074383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.012735,46.835581,-114.012735,46.835581",
     "geom:latitude":46.835581,
     "geom:longitude":-114.012735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 SW Higgins Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186074383,
-    "wof:lastmodified":1449051828,
+    "wof:lastmodified":1466641880,
     "wof:name":"Silvertip Casino Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "ho"
     ]
 },
-  "bbox": [-114.012735,46.835581,-114.012735,46.835581],
-  "geometry": {"coordinates":[-114.012735,46.835581],"type":"Point"}
+  "bbox": [
+    -114.012735,
+    46.835581,
+    -114.012735,
+    46.835581
+],
+  "geometry": {"coordinates":[-114.01273500000001,46.835581],"type":"Point"}
 }

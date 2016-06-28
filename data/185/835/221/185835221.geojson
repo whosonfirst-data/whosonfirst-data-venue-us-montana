@@ -2,13 +2,14 @@
   "id": 185835221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.118462,47.504145,-114.118462,47.504145",
     "geom:latitude":47.504145,
     "geom:longitude":-114.118462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Mink Ln",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185835221,
-    "wof:lastmodified":1449006841,
+    "wof:lastmodified":1466641781,
     "wof:name":"Majesty In Motion Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equine"
     ]
 },
-  "bbox": [-114.118462,47.504145,-114.118462,47.504145],
-  "geometry": {"coordinates":[-114.118462,47.504145],"type":"Point"}
+  "bbox": [
+    -114.118462,
+    47.504145,
+    -114.118462,
+    47.504145
+],
+  "geometry": {"coordinates":[-114.11846199999999,47.504145],"type":"Point"}
 }

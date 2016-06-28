@@ -2,13 +2,14 @@
   "id": 186295867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.447753,45.514792,-109.447753,45.514792",
     "geom:latitude":45.514792,
     "geom:longitude":-109.447753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 S Woodard Ave",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186295867,
-    "wof:lastmodified":1449051460,
+    "wof:lastmodified":1466642606,
     "wof:name":"G & L Towing & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-109.447753,45.514792,-109.447753,45.514792],
-  "geometry": {"coordinates":[-109.447753,45.514792],"type":"Point"}
+  "bbox": [
+    -109.447753,
+    45.514792,
+    -109.447753,
+    45.514792
+],
+  "geometry": {"coordinates":[-109.44775300000001,45.514792],"type":"Point"}
 }

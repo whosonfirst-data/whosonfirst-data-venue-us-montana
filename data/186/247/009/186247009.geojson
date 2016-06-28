@@ -2,13 +2,14 @@
   "id": 186247009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.522216,46.002566,-112.522216,46.002566",
     "geom:latitude":46.002566,
     "geom:longitude":-112.522216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186247009,
-    "wof:lastmodified":1449051944,
+    "wof:lastmodified":1466642678,
     "wof:name":"Copier Doctors",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "facsimile"
     ]
 },
-  "bbox": [-112.522216,46.002566,-112.522216,46.002566],
+  "bbox": [
+    -112.522216,
+    46.002566,
+    -112.522216,
+    46.002566
+],
   "geometry": {"coordinates":[-112.522216,46.002566],"type":"Point"}
 }

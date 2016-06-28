@@ -2,13 +2,14 @@
   "id": 185688907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.553491,46.010823,-112.553491,46.010823",
     "geom:latitude":46.010823,
     "geom:longitude":-112.553491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 W Mercury St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185688907,
-    "wof:lastmodified":1449007211,
+    "wof:lastmodified":1466641415,
     "wof:name":"Winninghoff PHI & Peg",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.553491,46.010823,-112.553491,46.010823],
-  "geometry": {"coordinates":[-112.553491,46.010823],"type":"Point"}
+  "bbox": [
+    -112.553491,
+    46.010823,
+    -112.553491,
+    46.010823
+],
+  "geometry": {"coordinates":[-112.55349099999999,46.010823],"type":"Point"}
 }

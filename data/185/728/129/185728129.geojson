@@ -2,13 +2,14 @@
   "id": 185728129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.255429,45.636512,-109.255429,45.636512",
     "geom:latitude":45.636512,
     "geom:longitude":-109.255429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Clough Ave S",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185728129,
-    "wof:lastmodified":1449006989,
+    "wof:lastmodified":1466641449,
     "wof:name":"C H S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "elevator"
     ]
 },
-  "bbox": [-109.255429,45.636512,-109.255429,45.636512],
-  "geometry": {"coordinates":[-109.255429,45.636512],"type":"Point"}
+  "bbox": [
+    -109.255429,
+    45.636512,
+    -109.255429,
+    45.636512
+],
+  "geometry": {"coordinates":[-109.25542900000001,45.636512],"type":"Point"}
 }

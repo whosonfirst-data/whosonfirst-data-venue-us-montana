@@ -2,13 +2,14 @@
   "id": 186404763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.54803,46.015306,-112.54803,46.015306",
     "geom:latitude":46.015306,
     "geom:longitude":-112.54803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 W Copper St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186404763,
-    "wof:lastmodified":1449052148,
+    "wof:lastmodified":1466642870,
     "wof:name":"Steven Stoner",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-112.54803,46.015306,-112.54803,46.015306],
+  "bbox": [
+    -112.54803,
+    46.015306,
+    -112.54803,
+    46.015306
+],
   "geometry": {"coordinates":[-112.54803,46.015306],"type":"Point"}
 }

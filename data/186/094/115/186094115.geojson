@@ -2,13 +2,14 @@
   "id": 186094115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.51073,45.783452,-108.51073,45.783452",
     "geom:latitude":45.783452,
     "geom:longitude":-108.51073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 4th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186094115,
-    "wof:lastmodified":1449052047,
+    "wof:lastmodified":1466641947,
     "wof:name":"Us Hearings & Appeals Ofc",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.51073,45.783452,-108.51073,45.783452],
+  "bbox": [
+    -108.51073,
+    45.783452,
+    -108.51073,
+    45.783452
+],
   "geometry": {"coordinates":[-108.51073,45.783452],"type":"Point"}
 }

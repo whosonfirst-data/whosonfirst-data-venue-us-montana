@@ -2,13 +2,14 @@
   "id": 186056531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.311397,48.196633,-114.311397,48.196633",
     "geom:latitude":48.196633,
     "geom:longitude":-114.311397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"247 1st Ave E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186056531,
-    "wof:lastmodified":1449051140,
+    "wof:lastmodified":1466641832,
     "wof:name":"Kalispell Library",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.311397,48.196633,-114.311397,48.196633],
+  "bbox": [
+    -114.311397,
+    48.196633,
+    -114.311397,
+    48.196633
+],
   "geometry": {"coordinates":[-114.311397,48.196633],"type":"Point"}
 }

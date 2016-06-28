@@ -2,13 +2,14 @@
   "id": 186190379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.323147,46.005044,-108.323147,46.005044",
     "geom:latitude":46.005044,
     "geom:longitude":-108.323147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6348 Pleasant Hollow Trl",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186190379,
-    "wof:lastmodified":1449052861,
+    "wof:lastmodified":1466642235,
     "wof:name":"L S Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-108.323147,46.005044,-108.323147,46.005044],
-  "geometry": {"coordinates":[-108.323147,46.005044],"type":"Point"}
+  "bbox": [
+    -108.323147,
+    46.005044,
+    -108.323147,
+    46.005044
+],
+  "geometry": {"coordinates":[-108.32314700000001,46.005044],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186349371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.175344,47.696562,-114.175344,47.696562",
     "geom:latitude":47.696562,
     "geom:longitude":-114.175344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Regatta Rd",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186349371,
-    "wof:lastmodified":1449051401,
+    "wof:lastmodified":1466642558,
     "wof:name":"Largey Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.175344,47.696562,-114.175344,47.696562],
+  "bbox": [
+    -114.175344,
+    47.696562,
+    -114.175344,
+    47.696562
+],
   "geometry": {"coordinates":[-114.175344,47.696562],"type":"Point"}
 }

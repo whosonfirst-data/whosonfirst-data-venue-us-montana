@@ -2,13 +2,14 @@
   "id": 186017783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.033329,46.596333,-112.033329,46.596333",
     "geom:latitude":46.596333,
     "geom:longitude":-112.033329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186017783,
-    "wof:lastmodified":1449051797,
+    "wof:lastmodified":1466641417,
     "wof:name":"Main Connection Travel Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-112.033329,46.596333,-112.033329,46.596333],
-  "geometry": {"coordinates":[-112.033329,46.596333],"type":"Point"}
+  "bbox": [
+    -112.033329,
+    46.596333,
+    -112.033329,
+    46.596333
+],
+  "geometry": {"coordinates":[-112.03332899999999,46.596333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186031369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.429979,48.062767,-106.429979,48.062767",
     "geom:latitude":48.062767,
     "geom:longitude":-106.429979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Mdu Rd",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186031369,
-    "wof:lastmodified":1449051379,
+    "wof:lastmodified":1466641636,
     "wof:name":"Williston Basin Interstt Pipln",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-106.429979,48.062767,-106.429979,48.062767],
+  "bbox": [
+    -106.429979,
+    48.062767,
+    -106.429979,
+    48.062767
+],
   "geometry": {"coordinates":[-106.429979,48.062767],"type":"Point"}
 }

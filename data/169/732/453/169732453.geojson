@@ -2,13 +2,14 @@
   "id": 169732453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.153931,46.370835,-114.153931,46.370835",
     "geom:latitude":46.370835,
     "geom:longitude":-114.153931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Bear Creek Rd",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169732453,
-    "wof:lastmodified":1449036071,
+    "wof:lastmodified":1466641164,
     "wof:name":"Flower Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.153931,46.370835,-114.153931,46.370835],
+  "bbox": [
+    -114.153931,
+    46.370835,
+    -114.153931,
+    46.370835
+],
   "geometry": {"coordinates":[-114.153931,46.370835],"type":"Point"}
 }

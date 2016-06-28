@@ -2,13 +2,14 @@
   "id": 186062339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.289714,47.52869,-111.289714,47.52869",
     "geom:latitude":47.52869,
     "geom:longitude":-111.289714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 25th Ave NE",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186062339,
-    "wof:lastmodified":1449052836,
+    "wof:lastmodified":1466641843,
     "wof:name":"Humane Society of Cascade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.289714,47.52869,-111.289714,47.52869],
+  "bbox": [
+    -111.289714,
+    47.52869,
+    -111.289714,
+    47.52869
+],
   "geometry": {"coordinates":[-111.289714,47.52869],"type":"Point"}
 }

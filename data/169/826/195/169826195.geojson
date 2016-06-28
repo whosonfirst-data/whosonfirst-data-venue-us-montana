@@ -2,13 +2,14 @@
   "id": 169826195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.035221,46.833343,-114.035221,46.833343",
     "geom:latitude":46.833343,
     "geom:longitude":-114.035221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4104 23rd Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169826195,
-    "wof:lastmodified":1449035072,
+    "wof:lastmodified":1466641294,
     "wof:name":"Computer Software Development",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-114.035221,46.833343,-114.035221,46.833343],
-  "geometry": {"coordinates":[-114.035221,46.833343],"type":"Point"}
+  "bbox": [
+    -114.035221,
+    46.833343,
+    -114.035221,
+    46.833343
+],
+  "geometry": {"coordinates":[-114.03522100000001,46.833343],"type":"Point"}
 }

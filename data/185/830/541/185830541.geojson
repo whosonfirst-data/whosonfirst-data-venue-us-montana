@@ -2,13 +2,14 @@
   "id": 185830541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.625524,48.949183,-115.625524,48.949183",
     "geom:latitude":48.949183,
     "geom:longitude":-115.625524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Upper Ford Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185830541,
-    "wof:lastmodified":1449006954,
+    "wof:lastmodified":1466641565,
     "wof:name":"Mike Sear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.625524,48.949183,-115.625524,48.949183],
+  "bbox": [
+    -115.625524,
+    48.949183,
+    -115.625524,
+    48.949183
+],
   "geometry": {"coordinates":[-115.625524,48.949183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186035311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.99959,46.472464,-113.99959,46.472464",
     "geom:latitude":46.472464,
     "geom:longitude":-113.99959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 N Sunset Bench Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186035311,
-    "wof:lastmodified":1449052493,
+    "wof:lastmodified":1466641702,
     "wof:name":"Diversified Products Inds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "business"
     ]
 },
-  "bbox": [-113.99959,46.472464,-113.99959,46.472464],
+  "bbox": [
+    -113.99959,
+    46.472464,
+    -113.99959,
+    46.472464
+],
   "geometry": {"coordinates":[-113.99959,46.472464],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185735707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.584583,45.740746,-108.584583,45.740746",
     "geom:latitude":45.740746,
     "geom:longitude":-108.584583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6543 Elysian Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":185735707,
-    "wof:lastmodified":1449008152,
+    "wof:lastmodified":1466641458,
     "wof:name":"Sun Room Designs By W W Cnstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-108.584583,45.740746,-108.584583,45.740746],
-  "geometry": {"coordinates":[-108.584583,45.740746],"type":"Point"}
+  "bbox": [
+    -108.584583,
+    45.740746,
+    -108.584583,
+    45.740746
+],
+  "geometry": {"coordinates":[-108.58458299999999,45.740746],"type":"Point"}
 }

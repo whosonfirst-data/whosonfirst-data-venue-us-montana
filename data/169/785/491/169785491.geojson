@@ -2,13 +2,14 @@
   "id": 169785491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.074384,46.637349,-114.074384,46.637349",
     "geom:latitude":46.637349,
     "geom:longitude":-114.074384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 US Hwy 93",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169785491,
-    "wof:lastmodified":1449035396,
+    "wof:lastmodified":1466641245,
     "wof:name":"Slender Lady Florence Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "physical"
     ]
 },
-  "bbox": [-114.074384,46.637349,-114.074384,46.637349],
-  "geometry": {"coordinates":[-114.074384,46.637349],"type":"Point"}
+  "bbox": [
+    -114.074384,
+    46.637349,
+    -114.074384,
+    46.637349
+],
+  "geometry": {"coordinates":[-114.07438399999999,46.637349],"type":"Point"}
 }

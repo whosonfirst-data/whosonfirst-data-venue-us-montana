@@ -2,13 +2,14 @@
   "id": 186282939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.973351,48.04411,-113.973351,48.04411",
     "geom:latitude":48.04411,
     "geom:longitude":-113.973351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Halverson Rd",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186282939,
-    "wof:lastmodified":1449052045,
+    "wof:lastmodified":1466642377,
     "wof:name":"Donald Acupuncturist Beans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.973351,48.04411,-113.973351,48.04411],
-  "geometry": {"coordinates":[-113.973351,48.04411],"type":"Point"}
+  "bbox": [
+    -113.973351,
+    48.04411,
+    -113.973351,
+    48.04411
+],
+  "geometry": {"coordinates":[-113.97335099999999,48.04411],"type":"Point"}
 }

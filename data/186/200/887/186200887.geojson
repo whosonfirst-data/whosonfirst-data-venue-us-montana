@@ -2,13 +2,14 @@
   "id": 186200887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013347,46.637975,-112.013347,46.637975",
     "geom:latitude":46.637975,
     "geom:longitude":-112.013347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4433 Red Fox Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186200887,
-    "wof:lastmodified":1449051443,
+    "wof:lastmodified":1466642553,
     "wof:name":"Front Range Auctioneers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-112.013347,46.637975,-112.013347,46.637975],
+  "bbox": [
+    -112.013347,
+    46.637975,
+    -112.013347,
+    46.637975
+],
   "geometry": {"coordinates":[-112.013347,46.637975],"type":"Point"}
 }

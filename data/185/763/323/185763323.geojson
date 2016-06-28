@@ -2,13 +2,14 @@
   "id": 185763323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.967773,46.906635,-113.967773,46.906635",
     "geom:latitude":46.906635,
     "geom:longitude":-113.967773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 Timberlane",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185763323,
-    "wof:lastmodified":1449008198,
+    "wof:lastmodified":1466641490,
     "wof:name":"Connole Morton Real Estate SC",
     "wof:parent_id":85891733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.967773,46.906635,-113.967773,46.906635],
-  "geometry": {"coordinates":[-113.967773,46.906635],"type":"Point"}
+  "bbox": [
+    -113.967773,
+    46.906635,
+    -113.967773,
+    46.906635
+],
+  "geometry": {"coordinates":[-113.96777299999999,46.906635],"type":"Point"}
 }

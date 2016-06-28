@@ -2,13 +2,14 @@
   "id": 169707211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023965,46.616386,-112.023965,46.616386",
     "geom:latitude":46.616386,
     "geom:longitude":-112.023965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 W Custer Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169707211,
-    "wof:lastmodified":1449035440,
+    "wof:lastmodified":1466641241,
     "wof:name":"Performance Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "replacement"
     ]
 },
-  "bbox": [-112.023965,46.616386,-112.023965,46.616386],
+  "bbox": [
+    -112.023965,
+    46.616386,
+    -112.023965,
+    46.616386
+],
   "geometry": {"coordinates":[-112.023965,46.616386],"type":"Point"}
 }

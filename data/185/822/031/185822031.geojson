@@ -2,13 +2,14 @@
   "id": 185822031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.32498,48.221514,-114.32498,48.221514",
     "geom:latitude":48.221514,
     "geom:longitude":-114.32498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Commons Way",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185822031,
-    "wof:lastmodified":1449008140,
+    "wof:lastmodified":1466641552,
     "wof:name":"Doug Servo Construction",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-114.32498,48.221514,-114.32498,48.221514],
+  "bbox": [
+    -114.32498,
+    48.221514,
+    -114.32498,
+    48.221514
+],
   "geometry": {"coordinates":[-114.32498,48.221514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186154665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.679497,45.764844,-108.679497,45.764844",
     "geom:latitude":45.764844,
     "geom:longitude":-108.679497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 S 64th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186154665,
-    "wof:lastmodified":1449053060,
+    "wof:lastmodified":1466642130,
     "wof:name":"George Amen",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.679497,45.764844,-108.679497,45.764844],
+  "bbox": [
+    -108.679497,
+    45.764844,
+    -108.679497,
+    45.764844
+],
   "geometry": {"coordinates":[-108.679497,45.764844],"type":"Point"}
 }

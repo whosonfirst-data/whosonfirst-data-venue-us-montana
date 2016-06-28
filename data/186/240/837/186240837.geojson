@@ -2,13 +2,14 @@
   "id": 186240837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.10193,47.528659,-114.10193,47.528659",
     "geom:latitude":47.528659,
     "geom:longitude":-114.10193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Main St SW",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186240837,
-    "wof:lastmodified":1449050520,
+    "wof:lastmodified":1466642679,
     "wof:name":"Williards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-114.10193,47.528659,-114.10193,47.528659],
+  "bbox": [
+    -114.10193,
+    47.528659,
+    -114.10193,
+    47.528659
+],
   "geometry": {"coordinates":[-114.10193,47.528659],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186139619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.701694,48.542711,-109.701694,48.542711",
     "geom:latitude":48.542711,
     "geom:longitude":-109.701694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Lincoln Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186139619,
-    "wof:lastmodified":1449050491,
+    "wof:lastmodified":1466642109,
     "wof:name":"Communications Workers of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.701694,48.542711,-109.701694,48.542711],
+  "bbox": [
+    -109.701694,
+    48.542711,
+    -109.701694,
+    48.542711
+],
   "geometry": {"coordinates":[-109.701694,48.542711],"type":"Point"}
 }

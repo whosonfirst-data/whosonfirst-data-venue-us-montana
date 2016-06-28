@@ -2,13 +2,14 @@
   "id": 185906219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.526623,45.769584,-108.526623,45.769584",
     "geom:latitude":45.769584,
     "geom:longitude":-108.526623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4562 State Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185906219,
-    "wof:lastmodified":1449007220,
+    "wof:lastmodified":1466641639,
     "wof:name":"Used Car Factory Inc",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-108.526623,45.769584,-108.526623,45.769584],
+  "bbox": [
+    -108.526623,
+    45.769584,
+    -108.526623,
+    45.769584
+],
   "geometry": {"coordinates":[-108.526623,45.769584],"type":"Point"}
 }

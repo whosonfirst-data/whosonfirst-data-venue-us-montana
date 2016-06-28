@@ -2,13 +2,14 @@
   "id": 186363571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.663186,48.541236,-109.663186,48.541236",
     "geom:latitude":48.541236,
     "geom:longitude":-109.663186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Glo Dr",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186363571,
-    "wof:lastmodified":1449052692,
+    "wof:lastmodified":1466642767,
     "wof:name":"Production Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "field"
     ]
 },
-  "bbox": [-109.663186,48.541236,-109.663186,48.541236],
+  "bbox": [
+    -109.663186,
+    48.541236,
+    -109.663186,
+    48.541236
+],
   "geometry": {"coordinates":[-109.663186,48.541236],"type":"Point"}
 }

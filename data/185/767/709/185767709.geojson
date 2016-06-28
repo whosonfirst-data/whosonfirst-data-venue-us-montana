@@ -2,13 +2,14 @@
   "id": 185767709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.530422,45.75657,-108.530422,45.75657",
     "geom:latitude":45.75657,
     "geom:longitude":-108.530422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"743 Calhoun Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185767709,
-    "wof:lastmodified":1449007076,
+    "wof:lastmodified":1466641499,
     "wof:name":"Standard Porcelain Refinishing",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-108.530422,45.75657,-108.530422,45.75657],
+  "bbox": [
+    -108.530422,
+    45.75657,
+    -108.530422,
+    45.75657
+],
   "geometry": {"coordinates":[-108.530422,45.75657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186049943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.336758,48.410666,-114.336758,48.410666",
     "geom:latitude":48.410666,
     "geom:longitude":-114.336758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Central Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186049943,
-    "wof:lastmodified":1449051706,
+    "wof:lastmodified":1466641832,
     "wof:name":"Village Sp The/Indigo Creek CL",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-114.336758,48.410666,-114.336758,48.410666],
+  "bbox": [
+    -114.336758,
+    48.410666,
+    -114.336758,
+    48.410666
+],
   "geometry": {"coordinates":[-114.336758,48.410666],"type":"Point"}
 }

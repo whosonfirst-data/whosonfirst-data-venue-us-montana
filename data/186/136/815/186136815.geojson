@@ -2,13 +2,14 @@
   "id": 186136815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.641675,48.091065,-105.641675,48.091065",
     "geom:latitude":48.091065,
     "geom:longitude":-105.641675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Front St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186136815,
-    "wof:lastmodified":1449052994,
+    "wof:lastmodified":1466641964,
     "wof:name":"High Plains Motors GM Dealers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.641675,48.091065,-105.641675,48.091065],
-  "geometry": {"coordinates":[-105.641675,48.091065],"type":"Point"}
+  "bbox": [
+    -105.641675,
+    48.091065,
+    -105.641675,
+    48.091065
+],
+  "geometry": {"coordinates":[-105.64167500000001,48.091065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186233345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.848627,46.407723,-105.848627,46.407723",
     "geom:latitude":46.407723,
     "geom:longitude":-105.848627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 N 8th St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186233345,
-    "wof:lastmodified":1449053070,
+    "wof:lastmodified":1466642495,
     "wof:name":"Erlenbusch Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.848627,46.407723,-105.848627,46.407723],
-  "geometry": {"coordinates":[-105.848627,46.407723],"type":"Point"}
+  "bbox": [
+    -105.848627,
+    46.407723,
+    -105.848627,
+    46.407723
+],
+  "geometry": {"coordinates":[-105.84862699999999,46.407723],"type":"Point"}
 }

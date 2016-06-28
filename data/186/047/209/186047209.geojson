@@ -2,13 +2,14 @@
   "id": 186047209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.967791,47.434874,-110.967791,47.434874",
     "geom:latitude":47.434874,
     "geom:longitude":-110.967791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Enger Cutoff Rd",
     "sg:city":"Belt",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186047209,
-    "wof:lastmodified":1449052106,
+    "wof:lastmodified":1466641812,
     "wof:name":"Nathan J Horst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.967791,47.434874,-110.967791,47.434874],
-  "geometry": {"coordinates":[-110.967791,47.434874],"type":"Point"}
+  "bbox": [
+    -110.967791,
+    47.434874,
+    -110.967791,
+    47.434874
+],
+  "geometry": {"coordinates":[-110.96779100000001,47.434874],"type":"Point"}
 }

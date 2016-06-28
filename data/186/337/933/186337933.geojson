@@ -2,13 +2,14 @@
   "id": 186337933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.169339,47.713952,-104.169339,47.713952",
     "geom:latitude":47.713952,
     "geom:longitude":-104.169339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 4th St SW",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186337933,
-    "wof:lastmodified":1449051641,
+    "wof:lastmodified":1466642695,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-104.169339,47.713952,-104.169339,47.713952],
-  "geometry": {"coordinates":[-104.169339,47.713952],"type":"Point"}
+  "bbox": [
+    -104.169339,
+    47.713952,
+    -104.169339,
+    47.713952
+],
+  "geometry": {"coordinates":[-104.16933899999999,47.713952],"type":"Point"}
 }

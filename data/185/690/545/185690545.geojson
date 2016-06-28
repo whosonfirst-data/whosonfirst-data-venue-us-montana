@@ -2,13 +2,14 @@
   "id": 185690545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.17741,45.767803,-111.17741,45.767803",
     "geom:latitude":45.767803,
     "geom:longitude":-111.17741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Shirley Pl",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185690545,
-    "wof:lastmodified":1449007475,
+    "wof:lastmodified":1466641412,
     "wof:name":"Mountain Movers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.17741,45.767803,-111.17741,45.767803],
-  "geometry": {"coordinates":[-111.17741,45.767803],"type":"Point"}
+  "bbox": [
+    -111.17741,
+    45.767803,
+    -111.17741,
+    45.767803
+],
+  "geometry": {"coordinates":[-111.17740999999999,45.767803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186021139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.656793,48.559227,-109.656793,48.559227",
     "geom:latitude":48.559227,
     "geom:longitude":-109.656793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"559 15th Ave N",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186021139,
-    "wof:lastmodified":1449052061,
+    "wof:lastmodified":1466641469,
     "wof:name":"Junkit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.656793,48.559227,-109.656793,48.559227],
-  "geometry": {"coordinates":[-109.656793,48.559227],"type":"Point"}
+  "bbox": [
+    -109.656793,
+    48.559227,
+    -109.656793,
+    48.559227
+],
+  "geometry": {"coordinates":[-109.65679299999999,48.559227],"type":"Point"}
 }

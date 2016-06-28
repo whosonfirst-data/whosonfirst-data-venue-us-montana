@@ -2,13 +2,14 @@
   "id": 186304325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.054411,46.284011,-114.054411,46.284011",
     "geom:latitude":46.284011,
     "geom:longitude":-114.054411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 Maki Ln",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186304325,
-    "wof:lastmodified":1449052345,
+    "wof:lastmodified":1466642622,
     "wof:name":"Corvallis Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.054411,46.284011,-114.054411,46.284011],
+  "bbox": [
+    -114.054411,
+    46.284011,
+    -114.054411,
+    46.284011
+],
   "geometry": {"coordinates":[-114.054411,46.284011],"type":"Point"}
 }

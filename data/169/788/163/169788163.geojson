@@ -2,13 +2,14 @@
   "id": 169788163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.558572,45.75978,-108.558572,45.75978",
     "geom:latitude":45.75978,
     "geom:longitude":-108.558572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Lampman Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169788163,
-    "wof:lastmodified":1449034385,
+    "wof:lastmodified":1466641247,
     "wof:name":"Diversified Transfer & Storage",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "skid"
     ]
 },
-  "bbox": [-108.558572,45.75978,-108.558572,45.75978],
+  "bbox": [
+    -108.558572,
+    45.75978,
+    -108.558572,
+    45.75978
+],
   "geometry": {"coordinates":[-108.558572,45.75978],"type":"Point"}
 }

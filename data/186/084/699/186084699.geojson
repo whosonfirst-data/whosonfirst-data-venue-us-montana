@@ -2,13 +2,14 @@
   "id": 186084699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.097252,46.272783,-114.097252,46.272783",
     "geom:latitude":46.272783,
     "geom:longitude":-114.097252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Wagon Wheel Way",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186084699,
-    "wof:lastmodified":1449050535,
+    "wof:lastmodified":1466642069,
     "wof:name":"Sign Guys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "specialty"
     ]
 },
-  "bbox": [-114.097252,46.272783,-114.097252,46.272783],
+  "bbox": [
+    -114.097252,
+    46.272783,
+    -114.097252,
+    46.272783
+],
   "geometry": {"coordinates":[-114.097252,46.272783],"type":"Point"}
 }

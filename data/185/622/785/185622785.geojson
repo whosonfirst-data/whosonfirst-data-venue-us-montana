@@ -2,13 +2,14 @@
   "id": 185622785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.228655,47.49725,-111.228655,47.49725",
     "geom:latitude":47.49725,
     "geom:longitude":-111.228655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 46th St S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185622785,
-    "wof:lastmodified":1449007937,
+    "wof:lastmodified":1466641227,
     "wof:name":"Gandalfs Gourmet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "catering"
     ]
 },
-  "bbox": [-111.228655,47.49725,-111.228655,47.49725],
+  "bbox": [
+    -111.228655,
+    47.49725,
+    -111.228655,
+    47.49725
+],
   "geometry": {"coordinates":[-111.228655,47.49725],"type":"Point"}
 }

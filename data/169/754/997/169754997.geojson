@@ -2,13 +2,14 @@
   "id": 169754997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.566293,45.798119,-108.566293,45.798119",
     "geom:latitude":45.798119,
     "geom:longitude":-108.566293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2861 Silverwood St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169754997,
-    "wof:lastmodified":1449034850,
+    "wof:lastmodified":1466641201,
     "wof:name":"Interior Secrets",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "covering"
     ]
 },
-  "bbox": [-108.566293,45.798119,-108.566293,45.798119],
+  "bbox": [
+    -108.566293,
+    45.798119,
+    -108.566293,
+    45.798119
+],
   "geometry": {"coordinates":[-108.566293,45.798119],"type":"Point"}
 }

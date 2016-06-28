@@ -2,13 +2,14 @@
   "id": 186259823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.758591,47.103812,-104.758591,47.103812",
     "geom:latitude":47.103812,
     "geom:longitude":-104.758591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Hemlock Ave",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186259823,
-    "wof:lastmodified":1449051018,
+    "wof:lastmodified":1466642546,
     "wof:name":"JC Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.758591,47.103812,-104.758591,47.103812],
+  "bbox": [
+    -104.758591,
+    47.103812,
+    -104.758591,
+    47.103812
+],
   "geometry": {"coordinates":[-104.758591,47.103812],"type":"Point"}
 }

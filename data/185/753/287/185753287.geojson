@@ -2,13 +2,14 @@
   "id": 185753287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.303786,46.792844,-105.303786,46.792844",
     "geom:latitude":46.792844,
     "geom:longitude":-105.303786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Spring St",
     "sg:city":"Terry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185753287,
-    "wof:lastmodified":1449006792,
+    "wof:lastmodified":1466641476,
     "wof:name":"USDA Terry Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.303786,46.792844,-105.303786,46.792844],
+  "bbox": [
+    -105.303786,
+    46.792844,
+    -105.303786,
+    46.792844
+],
   "geometry": {"coordinates":[-105.303786,46.792844],"type":"Point"}
 }

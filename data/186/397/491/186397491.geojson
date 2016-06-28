@@ -2,13 +2,14 @@
   "id": 186397491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.158933,46.249908,-114.158933,46.249908",
     "geom:latitude":46.249908,
     "geom:longitude":-114.158933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N 3rd St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186397491,
-    "wof:lastmodified":1449051437,
+    "wof:lastmodified":1466642855,
     "wof:name":"Home Care Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-114.158933,46.249908,-114.158933,46.249908],
+  "bbox": [
+    -114.158933,
+    46.249908,
+    -114.158933,
+    46.249908
+],
   "geometry": {"coordinates":[-114.158933,46.249908],"type":"Point"}
 }

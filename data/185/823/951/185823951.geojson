@@ -2,13 +2,14 @@
   "id": 185823951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.506487,45.782926,-108.506487,45.782926",
     "geom:latitude":45.782926,
     "geom:longitude":-108.506487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N 28th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185823951,
-    "wof:lastmodified":1449008177,
+    "wof:lastmodified":1466641566,
     "wof:name":"Barley's",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-108.506487,45.782926,-108.506487,45.782926],
-  "geometry": {"coordinates":[-108.506487,45.782926],"type":"Point"}
+  "bbox": [
+    -108.506487,
+    45.782926,
+    -108.506487,
+    45.782926
+],
+  "geometry": {"coordinates":[-108.50648700000001,45.782926],"type":"Point"}
 }

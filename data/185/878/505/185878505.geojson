@@ -2,13 +2,14 @@
   "id": 185878505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.356641,47.597474,-115.356641,47.597474",
     "geom:latitude":47.597474,
     "geom:longitude":-115.356641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Pond St",
     "sg:city":"Thompson Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185878505,
-    "wof:lastmodified":1449007470,
+    "wof:lastmodified":1466641615,
     "wof:name":"Thompson Falls Physical Thrpy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.356641,47.597474,-115.356641,47.597474],
+  "bbox": [
+    -115.356641,
+    47.597474,
+    -115.356641,
+    47.597474
+],
   "geometry": {"coordinates":[-115.356641,47.597474],"type":"Point"}
 }

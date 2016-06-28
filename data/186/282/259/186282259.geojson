@@ -2,13 +2,14 @@
   "id": 186282259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.021317,46.153486,-113.021317,46.153486",
     "geom:latitude":46.153486,
     "geom:longitude":-113.021317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Warren St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186282259,
-    "wof:lastmodified":1449052046,
+    "wof:lastmodified":1466642578,
     "wof:name":"Loehr Old English Sheepdogs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.021317,46.153486,-113.021317,46.153486],
+  "bbox": [
+    -113.021317,
+    46.153486,
+    -113.021317,
+    46.153486
+],
   "geometry": {"coordinates":[-113.021317,46.153486],"type":"Point"}
 }

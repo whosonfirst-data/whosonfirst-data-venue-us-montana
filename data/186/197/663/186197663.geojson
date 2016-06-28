@@ -2,13 +2,14 @@
   "id": 186197663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.089849,45.818856,-109.089849,45.818856",
     "geom:latitude":45.818856,
     "geom:longitude":-109.089849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Columbus Molt Rd",
     "sg:city":"Molt",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186197663,
-    "wof:lastmodified":1449052677,
+    "wof:lastmodified":1466642261,
     "wof:name":"Ten Springs Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-109.089849,45.818856,-109.089849,45.818856],
+  "bbox": [
+    -109.089849,
+    45.818856,
+    -109.089849,
+    45.818856
+],
   "geometry": {"coordinates":[-109.089849,45.818856],"type":"Point"}
 }

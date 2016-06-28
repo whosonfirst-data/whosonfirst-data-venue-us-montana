@@ -2,13 +2,14 @@
   "id": 169867843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.5349,45.774027,-108.5349,45.774027",
     "geom:latitude":45.774027,
     "geom:longitude":-108.5349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Miles Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169867843,
-    "wof:lastmodified":1449034094,
+    "wof:lastmodified":1466641362,
     "wof:name":"JWS Lawn & Landscape",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-108.5349,45.774027,-108.5349,45.774027],
-  "geometry": {"coordinates":[-108.5349,45.774027],"type":"Point"}
+  "bbox": [
+    -108.5349,
+    45.774027,
+    -108.5349,
+    45.774027
+],
+  "geometry": {"coordinates":[-108.53489999999999,45.774027],"type":"Point"}
 }

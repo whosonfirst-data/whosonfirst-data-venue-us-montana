@@ -2,13 +2,14 @@
   "id": 169821827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.611569,45.756476,-108.611569,45.756476",
     "geom:latitude":45.756476,
     "geom:longitude":-108.611569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3604 Decathlon Pkwy",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169821827,
-    "wof:lastmodified":1449034489,
+    "wof:lastmodified":1466641294,
     "wof:name":"Billings Office Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "court"
     ]
 },
-  "bbox": [-108.611569,45.756476,-108.611569,45.756476],
+  "bbox": [
+    -108.611569,
+    45.756476,
+    -108.611569,
+    45.756476
+],
   "geometry": {"coordinates":[-108.611569,45.756476],"type":"Point"}
 }

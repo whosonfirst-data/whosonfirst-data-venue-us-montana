@@ -2,13 +2,14 @@
   "id": 169769211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.536507,46.014542,-112.536507,46.014542",
     "geom:latitude":46.014542,
     "geom:longitude":-112.536507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 W Granite St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169769211,
-    "wof:lastmodified":1449033783,
+    "wof:lastmodified":1466641211,
     "wof:name":"Montana Standard",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-112.536507,46.014542,-112.536507,46.014542],
+  "bbox": [
+    -112.536507,
+    46.014542,
+    -112.536507,
+    46.014542
+],
   "geometry": {"coordinates":[-112.536507,46.014542],"type":"Point"}
 }

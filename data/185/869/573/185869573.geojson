@@ -2,13 +2,14 @@
   "id": 185869573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.167557,46.411162,-114.167557,46.411162",
     "geom:latitude":46.411162,
     "geom:longitude":-114.167557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2437 Pleasant View Dr",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185869573,
-    "wof:lastmodified":1449008092,
+    "wof:lastmodified":1466641608,
     "wof:name":"Jack Wemple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.167557,46.411162,-114.167557,46.411162],
+  "bbox": [
+    -114.167557,
+    46.411162,
+    -114.167557,
+    46.411162
+],
   "geometry": {"coordinates":[-114.167557,46.411162],"type":"Point"}
 }

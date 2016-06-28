@@ -2,13 +2,14 @@
   "id": 185994893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.330221,48.204722,-114.330221,48.204722",
     "geom:latitude":48.204722,
     "geom:longitude":-114.330221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Meridian Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185994893,
-    "wof:lastmodified":1449006659,
+    "wof:lastmodified":1466641715,
     "wof:name":"Juice N Java Junction",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-114.330221,48.204722,-114.330221,48.204722],
-  "geometry": {"coordinates":[-114.330221,48.204722],"type":"Point"}
+  "bbox": [
+    -114.330221,
+    48.204722,
+    -114.330221,
+    48.204722
+],
+  "geometry": {"coordinates":[-114.33022099999999,48.204722],"type":"Point"}
 }

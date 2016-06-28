@@ -2,13 +2,14 @@
   "id": 186343343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.553317,48.391641,-115.553317,48.391641",
     "geom:latitude":48.391641,
     "geom:longitude":-115.553317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 California Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186343343,
-    "wof:lastmodified":1449052263,
+    "wof:lastmodified":1466642700,
     "wof:name":"Lawrence H Sverdrup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.553317,48.391641,-115.553317,48.391641],
-  "geometry": {"coordinates":[-115.553317,48.391641],"type":"Point"}
+  "bbox": [
+    -115.553317,
+    48.391641,
+    -115.553317,
+    48.391641
+],
+  "geometry": {"coordinates":[-115.55331700000001,48.391641],"type":"Point"}
 }

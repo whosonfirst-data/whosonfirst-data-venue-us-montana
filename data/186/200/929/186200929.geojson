@@ -2,13 +2,14 @@
   "id": 186200929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.011288,46.853411,-114.011288,46.853411",
     "geom:latitude":46.853411,
     "geom:longitude":-114.011288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Brooks St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186200929,
-    "wof:lastmodified":1449051442,
+    "wof:lastmodified":1466642553,
     "wof:name":"Kiddie Connection The",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-114.011288,46.853411,-114.011288,46.853411],
-  "geometry": {"coordinates":[-114.011288,46.853411],"type":"Point"}
+  "bbox": [
+    -114.011288,
+    46.853411,
+    -114.011288,
+    46.853411
+],
+  "geometry": {"coordinates":[-114.01128799999999,46.853411],"type":"Point"}
 }

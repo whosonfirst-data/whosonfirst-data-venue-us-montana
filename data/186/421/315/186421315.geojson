@@ -2,13 +2,14 @@
   "id": 186421315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.330619,45.569715,-109.330619,45.569715",
     "geom:latitude":45.569715,
     "geom:longitude":-109.330619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Whitebird Creek Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186421315,
-    "wof:lastmodified":1449052081,
+    "wof:lastmodified":1466643079,
     "wof:name":"Swanson Home Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rent"
     ]
 },
-  "bbox": [-109.330619,45.569715,-109.330619,45.569715],
+  "bbox": [
+    -109.330619,
+    45.569715,
+    -109.330619,
+    45.569715
+],
   "geometry": {"coordinates":[-109.330619,45.569715],"type":"Point"}
 }

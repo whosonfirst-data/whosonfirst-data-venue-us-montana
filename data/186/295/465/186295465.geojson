@@ -2,13 +2,14 @@
   "id": 186295465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.849216,46.40649,-105.849216,46.40649",
     "geom:latitude":46.40649,
     "geom:longitude":-105.849216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Main St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186295465,
-    "wof:lastmodified":1449051460,
+    "wof:lastmodified":1466642605,
     "wof:name":"Hole In The Wall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "hot"
     ]
 },
-  "bbox": [-105.849216,46.40649,-105.849216,46.40649],
+  "bbox": [
+    -105.849216,
+    46.40649,
+    -105.849216,
+    46.40649
+],
   "geometry": {"coordinates":[-105.849216,46.40649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169771937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.41135,46.075086,-112.41135,46.075086",
     "geom:latitude":46.075086,
     "geom:longitude":-112.41135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Lumberjack Rd",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169771937,
-    "wof:lastmodified":1449034485,
+    "wof:lastmodified":1466641227,
     "wof:name":"Zemljak Excavating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.41135,46.075086,-112.41135,46.075086],
+  "bbox": [
+    -112.41135,
+    46.075086,
+    -112.41135,
+    46.075086
+],
   "geometry": {"coordinates":[-112.41135,46.075086],"type":"Point"}
 }

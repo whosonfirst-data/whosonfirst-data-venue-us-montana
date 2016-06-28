@@ -2,13 +2,14 @@
   "id": 337278615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.011322,46.849771,-114.011322,46.849771",
     "geom:latitude":46.849771,
     "geom:longitude":-114.011322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Holborn St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337278615,
-    "wof:lastmodified":1449027388,
+    "wof:lastmodified":1466641897,
     "wof:name":"Missoula Parent Coop",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-114.011322,46.849771,-114.011322,46.849771],
-  "geometry": {"coordinates":[-114.011322,46.849771],"type":"Point"}
+  "bbox": [
+    -114.011322,
+    46.849771,
+    -114.011322,
+    46.849771
+],
+  "geometry": {"coordinates":[-114.01132200000001,46.849771],"type":"Point"}
 }

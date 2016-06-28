@@ -2,13 +2,14 @@
   "id": 186321613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.299436,47.505339,-111.299436,47.505339",
     "geom:latitude":47.505339,
     "geom:longitude":-111.299436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Central Ave",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186321613,
-    "wof:lastmodified":1449050329,
+    "wof:lastmodified":1466642658,
     "wof:name":"Walker Design Group LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-111.299436,47.505339,-111.299436,47.505339],
+  "bbox": [
+    -111.299436,
+    47.505339,
+    -111.299436,
+    47.505339
+],
   "geometry": {"coordinates":[-111.299436,47.505339],"type":"Point"}
 }

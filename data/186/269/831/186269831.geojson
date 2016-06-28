@@ -2,13 +2,14 @@
   "id": 186269831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.530945,45.766889,-108.530945,45.766889",
     "geom:latitude":45.766889,
     "geom:longitude":-108.530945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4808 Underpass Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186269831,
-    "wof:lastmodified":1449052055,
+    "wof:lastmodified":1466642727,
     "wof:name":"Parkway Motel",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-108.530945,45.766889,-108.530945,45.766889],
+  "bbox": [
+    -108.530945,
+    45.766889,
+    -108.530945,
+    45.766889
+],
   "geometry": {"coordinates":[-108.530945,45.766889],"type":"Point"}
 }

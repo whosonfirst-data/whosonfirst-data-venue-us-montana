@@ -2,13 +2,14 @@
   "id": 186442001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.735296,46.397894,-112.735296,46.397894",
     "geom:latitude":46.397894,
     "geom:longitude":-112.735296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Milwaukee Ave",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186442001,
-    "wof:lastmodified":1449051549,
+    "wof:lastmodified":1466643100,
     "wof:name":"Powell County Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-112.735296,46.397894,-112.735296,46.397894],
-  "geometry": {"coordinates":[-112.735296,46.397894],"type":"Point"}
+  "bbox": [
+    -112.735296,
+    46.397894,
+    -112.735296,
+    46.397894
+],
+  "geometry": {"coordinates":[-112.73529600000001,46.397894],"type":"Point"}
 }

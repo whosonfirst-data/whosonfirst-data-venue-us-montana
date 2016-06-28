@@ -2,13 +2,14 @@
   "id": 169833193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.195822,48.970937,-115.195822,48.970937",
     "geom:latitude":48.970937,
     "geom:longitude":-115.195822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4141 W Kootenai Rd",
     "sg:city":"Rexford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169833193,
-    "wof:lastmodified":1449033105,
+    "wof:lastmodified":1466641302,
     "wof:name":"Yutzy Roofing & Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.195822,48.970937,-115.195822,48.970937],
-  "geometry": {"coordinates":[-115.195822,48.970937],"type":"Point"}
+  "bbox": [
+    -115.195822,
+    48.970937,
+    -115.195822,
+    48.970937
+],
+  "geometry": {"coordinates":[-115.19582200000001,48.970937],"type":"Point"}
 }

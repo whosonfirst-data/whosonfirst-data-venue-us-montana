@@ -2,13 +2,14 @@
   "id": 169777093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.40008,45.826054,-108.40008,45.826054",
     "geom:latitude":45.826054,
     "geom:longitude":-108.40008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 N Frontage Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169777093,
-    "wof:lastmodified":1449034425,
+    "wof:lastmodified":1466641231,
     "wof:name":"Winkler Trucking Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.40008,45.826054,-108.40008,45.826054],
+  "bbox": [
+    -108.40008,
+    45.826054,
+    -108.40008,
+    45.826054
+],
   "geometry": {"coordinates":[-108.40008,45.826054],"type":"Point"}
 }

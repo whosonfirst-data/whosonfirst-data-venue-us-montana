@@ -2,13 +2,14 @@
   "id": 185785833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.106983,47.522634,-114.106983,47.522634",
     "geom:latitude":47.522634,
     "geom:longitude":-114.106983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 7th Ave SW",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185785833,
-    "wof:lastmodified":1449007954,
+    "wof:lastmodified":1466641518,
     "wof:name":"Rhineos Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.106983,47.522634,-114.106983,47.522634],
+  "bbox": [
+    -114.106983,
+    47.522634,
+    -114.106983,
+    47.522634
+],
   "geometry": {"coordinates":[-114.106983,47.522634],"type":"Point"}
 }

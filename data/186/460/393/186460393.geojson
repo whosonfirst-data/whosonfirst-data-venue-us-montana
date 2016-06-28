@@ -2,13 +2,14 @@
   "id": 186460393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.608231,45.794113,-108.608231,45.794113",
     "geom:latitude":45.794113,
     "geom:longitude":-108.608231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3736 Hayden Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186460393,
-    "wof:lastmodified":1449052882,
+    "wof:lastmodified":1466643040,
     "wof:name":"Path Light Properties LLC",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-108.608231,45.794113,-108.608231,45.794113],
+  "bbox": [
+    -108.608231,
+    45.794113,
+    -108.608231,
+    45.794113
+],
   "geometry": {"coordinates":[-108.608231,45.794113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185823473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.3169,45.955931,-108.3169,45.955931",
     "geom:latitude":45.955931,
     "geom:longitude":-108.3169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8703 Clark Rd",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185823473,
-    "wof:lastmodified":1449008179,
+    "wof:lastmodified":1466641560,
     "wof:name":"Rope Investments LLC",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-108.3169,45.955931,-108.3169,45.955931],
+  "bbox": [
+    -108.3169,
+    45.955931,
+    -108.3169,
+    45.955931
+],
   "geometry": {"coordinates":[-108.3169,45.955931],"type":"Point"}
 }

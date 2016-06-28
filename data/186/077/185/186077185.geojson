@@ -2,13 +2,14 @@
   "id": 186077185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.162701,47.692244,-114.162701,47.692244",
     "geom:latitude":47.692244,
     "geom:longitude":-114.162701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 4th Ave E",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186077185,
-    "wof:lastmodified":1449050827,
+    "wof:lastmodified":1466641879,
     "wof:name":"Independent Order-Odd Fellows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-114.162701,47.692244,-114.162701,47.692244],
+  "bbox": [
+    -114.162701,
+    47.692244,
+    -114.162701,
+    47.692244
+],
   "geometry": {"coordinates":[-114.162701,47.692244],"type":"Point"}
 }

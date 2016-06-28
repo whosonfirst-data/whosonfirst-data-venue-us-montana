@@ -2,13 +2,14 @@
   "id": 186122895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.433669,47.064736,-109.433669,47.064736",
     "geom:latitude":47.064736,
     "geom:longitude":-109.433669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 W Montana St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186122895,
-    "wof:lastmodified":1449051902,
+    "wof:lastmodified":1466642236,
     "wof:name":"Mc Coy's Septic Tank Maint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-109.433669,47.064736,-109.433669,47.064736],
-  "geometry": {"coordinates":[-109.433669,47.064736],"type":"Point"}
+  "bbox": [
+    -109.433669,
+    47.064736,
+    -109.433669,
+    47.064736
+],
+  "geometry": {"coordinates":[-109.43366899999999,47.064736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185644097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.25223,45.17986,-109.25223,45.17986",
     "geom:latitude":45.17986,
     "geom:longitude":-109.25223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 S Grant",
     "sg:city":"Red Lodge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185644097,
-    "wof:lastmodified":1449007523,
+    "wof:lastmodified":1466641360,
     "wof:name":"L B Bruning Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-109.25223,45.17986,-109.25223,45.17986],
+  "bbox": [
+    -109.25223,
+    45.17986,
+    -109.25223,
+    45.17986
+],
   "geometry": {"coordinates":[-109.25223,45.17986],"type":"Point"}
 }

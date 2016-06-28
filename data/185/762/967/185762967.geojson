@@ -2,13 +2,14 @@
   "id": 185762967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.057601,46.77028,-114.057601,46.77028",
     "geom:latitude":46.77028,
     "geom:longitude":-114.057601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10580 Oral Zumwalt Way",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185762967,
-    "wof:lastmodified":1449007742,
+    "wof:lastmodified":1466641495,
     "wof:name":"Johnson Seamless Raingutters",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-114.057601,46.77028,-114.057601,46.77028],
-  "geometry": {"coordinates":[-114.057601,46.77028],"type":"Point"}
+  "bbox": [
+    -114.057601,
+    46.77028,
+    -114.057601,
+    46.77028
+],
+  "geometry": {"coordinates":[-114.05760100000001,46.77028],"type":"Point"}
 }

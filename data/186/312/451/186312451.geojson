@@ -2,13 +2,14 @@
   "id": 186312451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.447005,45.832449,-108.447005,45.832449",
     "geom:latitude":45.832449,
     "geom:longitude":-108.447005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1923 Bannack Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186312451,
-    "wof:lastmodified":1449051725,
+    "wof:lastmodified":1466642635,
     "wof:name":"Botanical Designs & Services",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.447005,45.832449,-108.447005,45.832449],
+  "bbox": [
+    -108.447005,
+    45.832449,
+    -108.447005,
+    45.832449
+],
   "geometry": {"coordinates":[-108.447005,45.832449],"type":"Point"}
 }

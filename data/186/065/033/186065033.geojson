@@ -2,13 +2,14 @@
   "id": 186065033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.491901,45.825961,-108.491901,45.825961",
     "geom:latitude":45.825961,
     "geom:longitude":-108.491901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"266 Westchester Sq N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186065033,
-    "wof:lastmodified":1449053005,
+    "wof:lastmodified":1466641856,
     "wof:name":"D W Construction",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.491901,45.825961,-108.491901,45.825961],
+  "bbox": [
+    -108.491901,
+    45.825961,
+    -108.491901,
+    45.825961
+],
   "geometry": {"coordinates":[-108.491901,45.825961],"type":"Point"}
 }

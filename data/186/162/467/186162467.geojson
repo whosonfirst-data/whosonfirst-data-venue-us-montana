@@ -2,13 +2,14 @@
   "id": 186162467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.504827,45.796018,-108.504827,45.796018",
     "geom:latitude":45.796018,
     "geom:longitude":-108.504827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 11th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186162467,
-    "wof:lastmodified":1449052624,
+    "wof:lastmodified":1466642142,
     "wof:name":"Boucher Enterprises",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "machinery"
     ]
 },
-  "bbox": [-108.504827,45.796018,-108.504827,45.796018],
-  "geometry": {"coordinates":[-108.504827,45.796018],"type":"Point"}
+  "bbox": [
+    -108.504827,
+    45.796018,
+    -108.504827,
+    45.796018
+],
+  "geometry": {"coordinates":[-108.50482700000001,45.796018],"type":"Point"}
 }

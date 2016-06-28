@@ -2,13 +2,14 @@
   "id": 186055123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.021317,46.153486,-113.021317,46.153486",
     "geom:latitude":46.153486,
     "geom:longitude":-113.021317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Warren St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186055123,
-    "wof:lastmodified":1449050998,
+    "wof:lastmodified":1466641826,
     "wof:name":"Crowded Arces Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-113.021317,46.153486,-113.021317,46.153486],
+  "bbox": [
+    -113.021317,
+    46.153486,
+    -113.021317,
+    46.153486
+],
   "geometry": {"coordinates":[-113.021317,46.153486],"type":"Point"}
 }

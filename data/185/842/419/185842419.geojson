@@ -2,13 +2,14 @@
   "id": 185842419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.075391,45.687714,-111.075391,45.687714",
     "geom:latitude":45.687714,
     "geom:longitude":-111.075391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Hunters Way",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185842419,
-    "wof:lastmodified":1449006727,
+    "wof:lastmodified":1466641576,
     "wof:name":"Williams Christopher Law Off",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.075391,45.687714,-111.075391,45.687714],
+  "bbox": [
+    -111.075391,
+    45.687714,
+    -111.075391,
+    45.687714
+],
   "geometry": {"coordinates":[-111.075391,45.687714],"type":"Point"}
 }

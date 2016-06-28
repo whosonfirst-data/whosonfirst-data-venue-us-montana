@@ -2,13 +2,14 @@
   "id": 185672873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.159364,47.6933,-114.159364,47.6933",
     "geom:latitude":47.6933,
     "geom:longitude":-114.159364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 3rd Ave E",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185672873,
-    "wof:lastmodified":1449006702,
+    "wof:lastmodified":1466641391,
     "wof:name":"Hawthorne Hse Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-114.159364,47.6933,-114.159364,47.6933],
+  "bbox": [
+    -114.159364,
+    47.6933,
+    -114.159364,
+    47.6933
+],
   "geometry": {"coordinates":[-114.159364,47.6933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185996531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.548329,45.78686,-108.548329,45.78686",
     "geom:latitude":45.78686,
     "geom:longitude":-108.548329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 Ave D",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185996531,
-    "wof:lastmodified":1449007042,
+    "wof:lastmodified":1466641717,
     "wof:name":"Allco Plumbing & Heating",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-108.548329,45.78686,-108.548329,45.78686],
+  "bbox": [
+    -108.548329,
+    45.78686,
+    -108.548329,
+    45.78686
+],
   "geometry": {"coordinates":[-108.548329,45.78686],"type":"Point"}
 }

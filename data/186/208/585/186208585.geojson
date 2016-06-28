@@ -2,13 +2,14 @@
   "id": 186208585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.586057,45.631625,-110.586057,45.631625",
     "geom:latitude":45.631625,
     "geom:longitude":-110.586057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Paradise Dr",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186208585,
-    "wof:lastmodified":1449050565,
+    "wof:lastmodified":1466642284,
     "wof:name":"Nelson Engineering & Assoc",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.586057,45.631625,-110.586057,45.631625],
+  "bbox": [
+    -110.586057,
+    45.631625,
+    -110.586057,
+    45.631625
+],
   "geometry": {"coordinates":[-110.586057,45.631625],"type":"Point"}
 }

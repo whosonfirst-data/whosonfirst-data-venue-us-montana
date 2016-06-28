@@ -2,13 +2,14 @@
   "id": 185721655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01998,46.718515,-112.01998,46.718515",
     "geom:latitude":46.718515,
     "geom:longitude":-112.01998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 Lariat Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185721655,
-    "wof:lastmodified":1449008205,
+    "wof:lastmodified":1466641446,
     "wof:name":"Rta Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.01998,46.718515,-112.01998,46.718515],
+  "bbox": [
+    -112.01998,
+    46.718515,
+    -112.01998,
+    46.718515
+],
   "geometry": {"coordinates":[-112.01998,46.718515],"type":"Point"}
 }

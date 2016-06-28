@@ -2,13 +2,14 @@
   "id": 169785147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.561635,45.736641,-108.561635,45.736641",
     "geom:latitude":45.736641,
     "geom:longitude":-108.561635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5756 Stearns Cir",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169785147,
-    "wof:lastmodified":1449035398,
+    "wof:lastmodified":1466641752,
     "wof:name":"Shamrock Plastering Inc",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.561635,45.736641,-108.561635,45.736641],
+  "bbox": [
+    -108.561635,
+    45.736641,
+    -108.561635,
+    45.736641
+],
   "geometry": {"coordinates":[-108.561635,45.736641],"type":"Point"}
 }

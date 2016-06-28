@@ -2,13 +2,14 @@
   "id": 185788043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022887,46.605694,-112.022887,46.605694",
     "geom:latitude":46.605694,
     "geom:longitude":-112.022887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185788043,
-    "wof:lastmodified":1449007459,
+    "wof:lastmodified":1466641778,
     "wof:name":"KGR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-112.022887,46.605694,-112.022887,46.605694],
+  "bbox": [
+    -112.022887,
+    46.605694,
+    -112.022887,
+    46.605694
+],
   "geometry": {"coordinates":[-112.022887,46.605694],"type":"Point"}
 }

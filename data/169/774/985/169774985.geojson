@@ -2,13 +2,14 @@
   "id": 169774985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.038527,45.679338,-111.038527,45.679338",
     "geom:latitude":45.679338,
     "geom:longitude":-111.038527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 W Main St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169774985,
-    "wof:lastmodified":1449033963,
+    "wof:lastmodified":1466641230,
     "wof:name":"Grey Fox Gallery",
     "wof:parent_id":85876469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gallery"
     ]
 },
-  "bbox": [-111.038527,45.679338,-111.038527,45.679338],
+  "bbox": [
+    -111.038527,
+    45.679338,
+    -111.038527,
+    45.679338
+],
   "geometry": {"coordinates":[-111.038527,45.679338],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185835815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.949009,46.127491,-112.949009,46.127491",
     "geom:latitude":46.127491,
     "geom:longitude":-112.949009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 E 3rd St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185835815,
-    "wof:lastmodified":1449006841,
+    "wof:lastmodified":1466641577,
     "wof:name":"LDH Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.949009,46.127491,-112.949009,46.127491],
+  "bbox": [
+    -112.949009,
+    46.127491,
+    -112.949009,
+    46.127491
+],
   "geometry": {"coordinates":[-112.949009,46.127491],"type":"Point"}
 }

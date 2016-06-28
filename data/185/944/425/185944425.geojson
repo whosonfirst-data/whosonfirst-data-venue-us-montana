@@ -2,13 +2,14 @@
   "id": 185944425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.30627,48.213731,-114.30627,48.213731",
     "geom:latitude":48.213731,
     "geom:longitude":-114.30627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Park St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185944425,
-    "wof:lastmodified":1449007433,
+    "wof:lastmodified":1466641695,
     "wof:name":"Kalispell Area Chmber Commerce",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-114.30627,48.213731,-114.30627,48.213731],
+  "bbox": [
+    -114.30627,
+    48.213731,
+    -114.30627,
+    48.213731
+],
   "geometry": {"coordinates":[-114.30627,48.213731],"type":"Point"}
 }

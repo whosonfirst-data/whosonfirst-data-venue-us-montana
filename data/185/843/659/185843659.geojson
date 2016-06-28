@@ -2,13 +2,14 @@
   "id": 185843659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.031636,45.679394,-111.031636,45.679394",
     "geom:latitude":45.679394,
     "geom:longitude":-111.031636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 E Main St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185843659,
-    "wof:lastmodified":1449006744,
+    "wof:lastmodified":1466641585,
     "wof:name":"Mc Phie Cabinetry",
     "wof:parent_id":85876467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-111.031636,45.679394,-111.031636,45.679394],
-  "geometry": {"coordinates":[-111.031636,45.679394],"type":"Point"}
+  "bbox": [
+    -111.031636,
+    45.679394,
+    -111.031636,
+    45.679394
+],
+  "geometry": {"coordinates":[-111.03163600000001,45.679394],"type":"Point"}
 }

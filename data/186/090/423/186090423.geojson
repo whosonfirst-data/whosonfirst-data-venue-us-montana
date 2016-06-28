@@ -2,13 +2,14 @@
   "id": 186090423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.51454,45.781739,-108.51454,45.781739",
     "geom:latitude":45.781739,
     "geom:longitude":-108.51454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 N 33rd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186090423,
-    "wof:lastmodified":1449052464,
+    "wof:lastmodified":1466641934,
     "wof:name":"Americana Bokcraft Bookbinders",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "design"
     ]
 },
-  "bbox": [-108.51454,45.781739,-108.51454,45.781739],
+  "bbox": [
+    -108.51454,
+    45.781739,
+    -108.51454,
+    45.781739
+],
   "geometry": {"coordinates":[-108.51454,45.781739],"type":"Point"}
 }

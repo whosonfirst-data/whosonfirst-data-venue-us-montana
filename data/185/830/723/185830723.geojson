@@ -2,13 +2,14 @@
   "id": 185830723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.933548,46.125967,-112.933548,46.125967",
     "geom:latitude":46.125967,
     "geom:longitude":-112.933548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 E Park Ave",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185830723,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466641567,
     "wof:name":"Vagabond Lodge Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.933548,46.125967,-112.933548,46.125967],
+  "bbox": [
+    -112.933548,
+    46.125967,
+    -112.933548,
+    46.125967
+],
   "geometry": {"coordinates":[-112.933548,46.125967],"type":"Point"}
 }

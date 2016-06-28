@@ -2,13 +2,14 @@
   "id": 186140127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.508258,45.807187,-108.508258,45.807187",
     "geom:latitude":45.807187,
     "geom:longitude":-108.508258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Pinon Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186140127,
-    "wof:lastmodified":1449050758,
+    "wof:lastmodified":1466642269,
     "wof:name":"Arrow Drywall",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-108.508258,45.807187,-108.508258,45.807187],
+  "bbox": [
+    -108.508258,
+    45.807187,
+    -108.508258,
+    45.807187
+],
   "geometry": {"coordinates":[-108.508258,45.807187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186193109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.414955,48.793354,-105.414955,48.793354",
     "geom:latitude":48.793354,
     "geom:longitude":-105.414955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 A St",
     "sg:city":"Scobey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186193109,
-    "wof:lastmodified":1449050846,
+    "wof:lastmodified":1466642244,
     "wof:name":"Meadow Gold Dairy Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-105.414955,48.793354,-105.414955,48.793354],
-  "geometry": {"coordinates":[-105.414955,48.793354],"type":"Point"}
+  "bbox": [
+    -105.414955,
+    48.793354,
+    -105.414955,
+    48.793354
+],
+  "geometry": {"coordinates":[-105.41495500000001,48.793354],"type":"Point"}
 }

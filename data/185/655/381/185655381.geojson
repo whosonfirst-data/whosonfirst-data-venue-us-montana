@@ -2,13 +2,14 @@
   "id": 185655381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.042615,46.813397,-114.042615,46.813397",
     "geom:latitude":46.813397,
     "geom:longitude":-114.042615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5620 Pinewood Ln",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185655381,
-    "wof:lastmodified":1449007526,
+    "wof:lastmodified":1466641374,
     "wof:name":"Overland Mail Corporation",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.042615,46.813397,-114.042615,46.813397],
+  "bbox": [
+    -114.042615,
+    46.813397,
+    -114.042615,
+    46.813397
+],
   "geometry": {"coordinates":[-114.042615,46.813397],"type":"Point"}
 }

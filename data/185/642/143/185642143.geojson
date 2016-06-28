@@ -2,13 +2,14 @@
   "id": 185642143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.182683,47.810267,-112.182683,47.810267",
     "geom:latitude":47.810267,
     "geom:longitude":-112.182683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Main Ave S",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185642143,
-    "wof:lastmodified":1449006689,
+    "wof:lastmodified":1466641351,
     "wof:name":"Roxy Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.182683,47.810267,-112.182683,47.810267],
+  "bbox": [
+    -112.182683,
+    47.810267,
+    -112.182683,
+    47.810267
+],
   "geometry": {"coordinates":[-112.182683,47.810267],"type":"Point"}
 }

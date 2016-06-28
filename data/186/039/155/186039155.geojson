@@ -2,13 +2,14 @@
   "id": 186039155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.005072,46.856007,-114.005072,46.856007",
     "geom:latitude":46.856007,
     "geom:longitude":-114.005072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Mount Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186039155,
-    "wof:lastmodified":1449052683,
+    "wof:lastmodified":1466641799,
     "wof:name":"Jf Tech Support LLC",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "information"
     ]
 },
-  "bbox": [-114.005072,46.856007,-114.005072,46.856007],
+  "bbox": [
+    -114.005072,
+    46.856007,
+    -114.005072,
+    46.856007
+],
   "geometry": {"coordinates":[-114.005072,46.856007],"type":"Point"}
 }

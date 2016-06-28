@@ -2,13 +2,14 @@
   "id": 185737297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.50815,45.988763,-112.50815,45.988763",
     "geom:latitude":45.988763,
     "geom:longitude":-112.50815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Massachusetts Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185737297,
-    "wof:lastmodified":1449006979,
+    "wof:lastmodified":1466641458,
     "wof:name":"Timothy C Ballweber DDS",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-112.50815,45.988763,-112.50815,45.988763],
+  "bbox": [
+    -112.50815,
+    45.988763,
+    -112.50815,
+    45.988763
+],
   "geometry": {"coordinates":[-112.50815,45.988763],"type":"Point"}
 }

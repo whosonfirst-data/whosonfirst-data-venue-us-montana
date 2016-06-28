@@ -2,13 +2,14 @@
   "id": 185867331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.614064,45.758844,-108.614064,45.758844",
     "geom:latitude":45.758844,
     "geom:longitude":-108.614064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 S 38th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185867331,
-    "wof:lastmodified":1449007309,
+    "wof:lastmodified":1466641602,
     "wof:name":"Montana Candle Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-108.614064,45.758844,-108.614064,45.758844],
+  "bbox": [
+    -108.614064,
+    45.758844,
+    -108.614064,
+    45.758844
+],
   "geometry": {"coordinates":[-108.614064,45.758844],"type":"Point"}
 }

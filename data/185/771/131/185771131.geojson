@@ -2,13 +2,14 @@
   "id": 185771131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.63109,45.214775,-112.63109,45.214775",
     "geom:latitude":45.214775,
     "geom:longitude":-112.63109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 E Center St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185771131,
-    "wof:lastmodified":1449007484,
+    "wof:lastmodified":1466641496,
     "wof:name":"A Clear Trail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clearing"
     ]
 },
-  "bbox": [-112.63109,45.214775,-112.63109,45.214775],
+  "bbox": [
+    -112.63109,
+    45.214775,
+    -112.63109,
+    45.214775
+],
   "geometry": {"coordinates":[-112.63109,45.214775],"type":"Point"}
 }

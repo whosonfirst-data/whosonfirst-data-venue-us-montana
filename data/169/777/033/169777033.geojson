@@ -2,13 +2,14 @@
   "id": 169777033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.425093,47.065109,-109.425093,47.065109",
     "geom:latitude":47.065109,
     "geom:longitude":-109.425093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 W Janeaux St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169777033,
-    "wof:lastmodified":1449034427,
+    "wof:lastmodified":1466641749,
     "wof:name":"Mid Rivers Telephone Coop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-109.425093,47.065109,-109.425093,47.065109],
+  "bbox": [
+    -109.425093,
+    47.065109,
+    -109.425093,
+    47.065109
+],
   "geometry": {"coordinates":[-109.425093,47.065109],"type":"Point"}
 }

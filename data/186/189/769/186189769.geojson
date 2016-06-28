@@ -2,13 +2,14 @@
   "id": 186189769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.251752,45.638139,-109.251752,45.638139",
     "geom:latitude":45.638139,
     "geom:longitude":-109.251752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Pratten St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186189769,
-    "wof:lastmodified":1449052249,
+    "wof:lastmodified":1466642232,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.251752,45.638139,-109.251752,45.638139],
+  "bbox": [
+    -109.251752,
+    45.638139,
+    -109.251752,
+    45.638139
+],
   "geometry": {"coordinates":[-109.251752,45.638139],"type":"Point"}
 }

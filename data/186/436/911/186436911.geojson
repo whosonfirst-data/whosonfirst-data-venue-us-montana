@@ -2,13 +2,14 @@
   "id": 186436911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.450952,45.794758,-108.450952,45.794758",
     "geom:latitude":45.794758,
     "geom:longitude":-108.450952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 Rosebud Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186436911,
-    "wof:lastmodified":1449052766,
+    "wof:lastmodified":1466642852,
     "wof:name":"Hot Rod Garage",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-108.450952,45.794758,-108.450952,45.794758],
+  "bbox": [
+    -108.450952,
+    45.794758,
+    -108.450952,
+    45.794758
+],
   "geometry": {"coordinates":[-108.450952,45.794758],"type":"Point"}
 }

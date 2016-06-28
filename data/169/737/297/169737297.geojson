@@ -2,13 +2,14 @@
   "id": 169737297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.053939,45.663051,-111.053939,45.663051",
     "geom:latitude":45.663051,
     "geom:longitude":-111.053939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Tai Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169737297,
-    "wof:lastmodified":1449033422,
+    "wof:lastmodified":1466641168,
     "wof:name":"Spectators Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-111.053939,45.663051,-111.053939,45.663051],
+  "bbox": [
+    -111.053939,
+    45.663051,
+    -111.053939,
+    45.663051
+],
   "geometry": {"coordinates":[-111.053939,45.663051],"type":"Point"}
 }

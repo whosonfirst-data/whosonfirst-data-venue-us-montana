@@ -2,13 +2,14 @@
   "id": 186413605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.528428,46.005998,-112.528428,46.005998",
     "geom:latitude":46.005998,
     "geom:longitude":-112.528428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 S Arizona St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186413605,
-    "wof:lastmodified":1449050811,
+    "wof:lastmodified":1466642887,
     "wof:name":"Emerald Bioagriculture Corp",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "allied"
     ]
 },
-  "bbox": [-112.528428,46.005998,-112.528428,46.005998],
-  "geometry": {"coordinates":[-112.528428,46.005998],"type":"Point"}
+  "bbox": [
+    -112.528428,
+    46.005998,
+    -112.528428,
+    46.005998
+],
+  "geometry": {"coordinates":[-112.52842800000001,46.005998],"type":"Point"}
 }

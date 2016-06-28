@@ -2,13 +2,14 @@
   "id": 186321495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.522888,45.995524,-112.522888,45.995524",
     "geom:latitude":45.995524,
     "geom:longitude":-112.522888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1834 Utah Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186321495,
-    "wof:lastmodified":1449050328,
+    "wof:lastmodified":1466642657,
     "wof:name":"Dales Radiator Service",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-112.522888,45.995524,-112.522888,45.995524],
-  "geometry": {"coordinates":[-112.522888,45.995524],"type":"Point"}
+  "bbox": [
+    -112.522888,
+    45.995524,
+    -112.522888,
+    45.995524
+],
+  "geometry": {"coordinates":[-112.52288799999999,45.995524],"type":"Point"}
 }

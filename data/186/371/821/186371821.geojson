@@ -2,13 +2,14 @@
   "id": 186371821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.040119,45.681921,-111.040119,45.681921",
     "geom:latitude":45.681921,
     "geom:longitude":-111.040119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Grand Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186371821,
-    "wof:lastmodified":1449052404,
+    "wof:lastmodified":1466642791,
     "wof:name":"Digital Mapping Group",
     "wof:parent_id":85876469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.040119,45.681921,-111.040119,45.681921],
+  "bbox": [
+    -111.040119,
+    45.681921,
+    -111.040119,
+    45.681921
+],
   "geometry": {"coordinates":[-111.040119,45.681921],"type":"Point"}
 }

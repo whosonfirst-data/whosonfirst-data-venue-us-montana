@@ -2,13 +2,14 @@
   "id": 186339547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.336593,48.409727,-114.336593,48.409727",
     "geom:latitude":48.409727,
     "geom:longitude":-114.336593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 3rd St",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186339547,
-    "wof:lastmodified":1449051569,
+    "wof:lastmodified":1466642832,
     "wof:name":"Buffalo Cafe Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-114.336593,48.409727,-114.336593,48.409727],
-  "geometry": {"coordinates":[-114.336593,48.409727],"type":"Point"}
+  "bbox": [
+    -114.336593,
+    48.409727,
+    -114.336593,
+    48.409727
+],
+  "geometry": {"coordinates":[-114.33659299999999,48.409727],"type":"Point"}
 }

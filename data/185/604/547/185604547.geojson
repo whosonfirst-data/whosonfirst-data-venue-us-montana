@@ -2,13 +2,14 @@
   "id": 185604547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.033961,46.848706,-114.033961,46.848706",
     "geom:latitude":46.848706,
     "geom:longitude":-114.033961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 South Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185604547,
-    "wof:lastmodified":1449008034,
+    "wof:lastmodified":1466641176,
     "wof:name":"Viva Mexico",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-114.033961,46.848706,-114.033961,46.848706],
-  "geometry": {"coordinates":[-114.033961,46.848706],"type":"Point"}
+  "bbox": [
+    -114.033961,
+    46.848706,
+    -114.033961,
+    46.848706
+],
+  "geometry": {"coordinates":[-114.03396100000001,46.848706],"type":"Point"}
 }

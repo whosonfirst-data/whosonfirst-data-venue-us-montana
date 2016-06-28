@@ -2,13 +2,14 @@
   "id": 185656283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.160307,47.710448,-104.160307,47.710448",
     "geom:latitude":47.710448,
     "geom:longitude":-104.160307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 S Central Ave",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185656283,
-    "wof:lastmodified":1449007643,
+    "wof:lastmodified":1466641375,
     "wof:name":"Big Sky Siding & Windows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.160307,47.710448,-104.160307,47.710448],
+  "bbox": [
+    -104.160307,
+    47.710448,
+    -104.160307,
+    47.710448
+],
   "geometry": {"coordinates":[-104.160307,47.710448],"type":"Point"}
 }

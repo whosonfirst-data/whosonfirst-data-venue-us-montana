@@ -2,13 +2,14 @@
   "id": 185627967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.286666,48.147234,-114.286666,48.147234",
     "geom:latitude":48.147234,
     "geom:longitude":-114.286666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3454 US Hwy 93 S",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185627967,
-    "wof:lastmodified":1449008254,
+    "wof:lastmodified":1466641319,
     "wof:name":"Powder Coating",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "powder"
     ]
 },
-  "bbox": [-114.286666,48.147234,-114.286666,48.147234],
+  "bbox": [
+    -114.286666,
+    48.147234,
+    -114.286666,
+    48.147234
+],
   "geometry": {"coordinates":[-114.286666,48.147234],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186068651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.067355,48.013772,-114.067355,48.013772",
     "geom:latitude":48.013772,
     "geom:longitude":-114.067355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Hilltop Ter",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186068651,
-    "wof:lastmodified":1449051752,
+    "wof:lastmodified":1466641863,
     "wof:name":"Pro Tow Tool Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-114.067355,48.013772,-114.067355,48.013772],
-  "geometry": {"coordinates":[-114.067355,48.013772],"type":"Point"}
+  "bbox": [
+    -114.067355,
+    48.013772,
+    -114.067355,
+    48.013772
+],
+  "geometry": {"coordinates":[-114.06735500000001,48.013772],"type":"Point"}
 }

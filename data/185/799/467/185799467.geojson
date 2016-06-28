@@ -2,13 +2,14 @@
   "id": 185799467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.495382,45.97795,-112.495382,45.97795",
     "geom:latitude":45.97795,
     "geom:longitude":-112.495382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2830 Hannibal St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185799467,
-    "wof:lastmodified":1449008216,
+    "wof:lastmodified":1466641530,
     "wof:name":"Monarch Dental Arts",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-112.495382,45.97795,-112.495382,45.97795],
-  "geometry": {"coordinates":[-112.495382,45.97795],"type":"Point"}
+  "bbox": [
+    -112.495382,
+    45.97795,
+    -112.495382,
+    45.97795
+],
+  "geometry": {"coordinates":[-112.49538200000001,45.97795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185680225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.565199,45.797735,-108.565199,45.797735",
     "geom:latitude":45.797735,
     "geom:longitude":-108.565199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 Vigilante Trl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185680225,
-    "wof:lastmodified":1449007724,
+    "wof:lastmodified":1466641395,
     "wof:name":"N Focus Digital Video Prdctns",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-108.565199,45.797735,-108.565199,45.797735],
-  "geometry": {"coordinates":[-108.565199,45.797735],"type":"Point"}
+  "bbox": [
+    -108.565199,
+    45.797735,
+    -108.565199,
+    45.797735
+],
+  "geometry": {"coordinates":[-108.56519900000001,45.797735],"type":"Point"}
 }

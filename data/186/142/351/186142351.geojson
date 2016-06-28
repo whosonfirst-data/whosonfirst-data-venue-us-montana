@@ -2,13 +2,14 @@
   "id": 186142351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.506457,45.782982,-108.506457,45.782982",
     "geom:latitude":45.782982,
     "geom:longitude":-108.506457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2712 2nd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186142351,
-    "wof:lastmodified":1449052476,
+    "wof:lastmodified":1466642113,
     "wof:name":"Paula S Edibles",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-108.506457,45.782982,-108.506457,45.782982],
+  "bbox": [
+    -108.506457,
+    45.782982,
+    -108.506457,
+    45.782982
+],
   "geometry": {"coordinates":[-108.506457,45.782982],"type":"Point"}
 }

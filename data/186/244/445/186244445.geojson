@@ -2,13 +2,14 @@
   "id": 186244445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.636794,45.761634,-108.636794,45.761634",
     "geom:latitude":45.761634,
     "geom:longitude":-108.636794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 Georgina Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186244445,
-    "wof:lastmodified":1449051433,
+    "wof:lastmodified":1466642520,
     "wof:name":"Dyk Construction",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-108.636794,45.761634,-108.636794,45.761634],
-  "geometry": {"coordinates":[-108.636794,45.761634],"type":"Point"}
+  "bbox": [
+    -108.636794,
+    45.761634,
+    -108.636794,
+    45.761634
+],
+  "geometry": {"coordinates":[-108.63679399999999,45.761634],"type":"Point"}
 }

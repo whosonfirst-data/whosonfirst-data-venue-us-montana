@@ -2,13 +2,14 @@
   "id": 185716563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.51244,45.993491,-112.51244,45.993491",
     "geom:latitude":45.993491,
     "geom:longitude":-112.51244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185716563,
-    "wof:lastmodified":1449006833,
+    "wof:lastmodified":1466641437,
     "wof:name":"K R Office Interiors Inc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.51244,45.993491,-112.51244,45.993491],
+  "bbox": [
+    -112.51244,
+    45.993491,
+    -112.51244,
+    45.993491
+],
   "geometry": {"coordinates":[-112.51244,45.993491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185598637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.687915,48.554502,-109.687915,48.554502",
     "geom:latitude":48.554502,
     "geom:longitude":-109.687915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 1st St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185598637,
-    "wof:lastmodified":1449006663,
+    "wof:lastmodified":1466641148,
     "wof:name":"Havre Recycling Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mentally"
     ]
 },
-  "bbox": [-109.687915,48.554502,-109.687915,48.554502],
+  "bbox": [
+    -109.687915,
+    48.554502,
+    -109.687915,
+    48.554502
+],
   "geometry": {"coordinates":[-109.687915,48.554502],"type":"Point"}
 }

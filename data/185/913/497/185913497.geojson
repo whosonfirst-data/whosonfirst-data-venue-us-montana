@@ -2,13 +2,14 @@
   "id": 185913497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.763137,45.671224,-108.763137,45.671224",
     "geom:latitude":45.671224,
     "geom:longitude":-108.763137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 E Main St",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185913497,
-    "wof:lastmodified":1449007237,
+    "wof:lastmodified":1466641653,
     "wof:name":"Mel's Auto Clinic",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-108.763137,45.671224,-108.763137,45.671224],
+  "bbox": [
+    -108.763137,
+    45.671224,
+    -108.763137,
+    45.671224
+],
   "geometry": {"coordinates":[-108.763137,45.671224],"type":"Point"}
 }

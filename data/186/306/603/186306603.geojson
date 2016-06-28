@@ -2,13 +2,14 @@
   "id": 186306603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020657,46.595892,-112.020657,46.595892",
     "geom:latitude":46.595892,
     "geom:longitude":-112.020657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 N Montana Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186306603,
-    "wof:lastmodified":1449052916,
+    "wof:lastmodified":1466642633,
     "wof:name":"Hutchison Mary PNP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-112.020657,46.595892,-112.020657,46.595892],
+  "bbox": [
+    -112.020657,
+    46.595892,
+    -112.020657,
+    46.595892
+],
   "geometry": {"coordinates":[-112.020657,46.595892],"type":"Point"}
 }

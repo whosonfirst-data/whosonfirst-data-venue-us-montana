@@ -2,13 +2,14 @@
   "id": 186395235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.527491,45.938281,-110.527491,45.938281",
     "geom:latitude":45.938281,
     "geom:longitude":-110.527491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Lower Cottonwood Rd",
     "sg:city":"Clyde Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186395235,
-    "wof:lastmodified":1449052616,
+    "wof:lastmodified":1466642850,
     "wof:name":"Logan's Guest Ranch",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "guest"
     ]
 },
-  "bbox": [-110.527491,45.938281,-110.527491,45.938281],
+  "bbox": [
+    -110.527491,
+    45.938281,
+    -110.527491,
+    45.938281
+],
   "geometry": {"coordinates":[-110.527491,45.938281],"type":"Point"}
 }

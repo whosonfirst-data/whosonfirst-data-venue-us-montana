@@ -2,13 +2,14 @@
   "id": 185629661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.486826,45.811055,-108.486826,45.811055",
     "geom:latitude":45.811055,
     "geom:longitude":-108.486826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 Topaz Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185629661,
-    "wof:lastmodified":1449007856,
+    "wof:lastmodified":1466641327,
     "wof:name":"Ron Dague Insurance",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.486826,45.811055,-108.486826,45.811055],
-  "geometry": {"coordinates":[-108.486826,45.811055],"type":"Point"}
+  "bbox": [
+    -108.486826,
+    45.811055,
+    -108.486826,
+    45.811055
+],
+  "geometry": {"coordinates":[-108.48682599999999,45.811055],"type":"Point"}
 }

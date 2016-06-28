@@ -2,13 +2,14 @@
   "id": 185936817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.174118,47.715583,-104.174118,47.715583",
     "geom:latitude":47.715583,
     "geom:longitude":-104.174118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 14th Ave SW",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185936817,
-    "wof:lastmodified":1449007134,
+    "wof:lastmodified":1466641693,
     "wof:name":"Sydney Health Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-104.174118,47.715583,-104.174118,47.715583],
-  "geometry": {"coordinates":[-104.174118,47.715583],"type":"Point"}
+  "bbox": [
+    -104.174118,
+    47.715583,
+    -104.174118,
+    47.715583
+],
+  "geometry": {"coordinates":[-104.17411800000001,47.715583],"type":"Point"}
 }

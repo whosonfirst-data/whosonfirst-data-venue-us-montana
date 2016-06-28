@@ -2,13 +2,14 @@
   "id": 186155521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.098203,44.66055,-111.098203,44.66055",
     "geom:latitude":44.66055,
     "geom:longitude":-111.098203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Madison Ave",
     "sg:city":"West Yellowstone",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186155521,
-    "wof:lastmodified":1449052538,
+    "wof:lastmodified":1466642134,
     "wof:name":"Go Activewear Outlet",
     "wof:parent_id":85891741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.098203,44.66055,-111.098203,44.66055],
+  "bbox": [
+    -111.098203,
+    44.66055,
+    -111.098203,
+    44.66055
+],
   "geometry": {"coordinates":[-111.098203,44.66055],"type":"Point"}
 }

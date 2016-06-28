@@ -2,13 +2,14 @@
   "id": 185788805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.565792,45.658341,-110.565792,45.658341",
     "geom:latitude":45.658341,
     "geom:longitude":-110.565792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 W Callender St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185788805,
-    "wof:lastmodified":1449007458,
+    "wof:lastmodified":1466641523,
     "wof:name":"Adams & Assoc",
     "wof:parent_id":85867995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.565792,45.658341,-110.565792,45.658341],
+  "bbox": [
+    -110.565792,
+    45.658341,
+    -110.565792,
+    45.658341
+],
   "geometry": {"coordinates":[-110.565792,45.658341],"type":"Point"}
 }

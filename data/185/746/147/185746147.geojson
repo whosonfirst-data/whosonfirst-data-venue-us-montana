@@ -2,13 +2,14 @@
   "id": 185746147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.084961,46.636274,-114.084961,46.636274",
     "geom:latitude":46.636274,
     "geom:longitude":-114.084961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5484 Florence Carlton Loop",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185746147,
-    "wof:lastmodified":1449006585,
+    "wof:lastmodified":1466641467,
     "wof:name":"Midwest Assistance Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "org"
     ]
 },
-  "bbox": [-114.084961,46.636274,-114.084961,46.636274],
-  "geometry": {"coordinates":[-114.084961,46.636274],"type":"Point"}
+  "bbox": [
+    -114.084961,
+    46.636274,
+    -114.084961,
+    46.636274
+],
+  "geometry": {"coordinates":[-114.08496100000001,46.636274],"type":"Point"}
 }

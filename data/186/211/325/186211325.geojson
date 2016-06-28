@@ -2,13 +2,14 @@
   "id": 186211325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.489906,45.457487,-109.489906,45.457487",
     "geom:latitude":45.457487,
     "geom:longitude":-109.489906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 E Main",
     "sg:city":"Fishtail",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186211325,
-    "wof:lastmodified":1449051054,
+    "wof:lastmodified":1466642364,
     "wof:name":"Granite Peak Rental Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"
     ]
 },
-  "bbox": [-109.489906,45.457487,-109.489906,45.457487],
+  "bbox": [
+    -109.489906,
+    45.457487,
+    -109.489906,
+    45.457487
+],
   "geometry": {"coordinates":[-109.489906,45.457487],"type":"Point"}
 }

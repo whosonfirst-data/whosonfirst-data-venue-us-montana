@@ -2,13 +2,14 @@
   "id": 186275647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.449979,45.794795,-108.449979,45.794795",
     "geom:latitude":45.794795,
     "geom:longitude":-108.449979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1341 Rosebud Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186275647,
-    "wof:lastmodified":1449051247,
+    "wof:lastmodified":1466642572,
     "wof:name":"Evergreen Billings Health",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-108.449979,45.794795,-108.449979,45.794795],
+  "bbox": [
+    -108.449979,
+    45.794795,
+    -108.449979,
+    45.794795
+],
   "geometry": {"coordinates":[-108.449979,45.794795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186436013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.522796,46.013163,-112.522796,46.013163",
     "geom:latitude":46.013163,
     "geom:longitude":-112.522796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Shields Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186436013,
-    "wof:lastmodified":1449052765,
+    "wof:lastmodified":1466642843,
     "wof:name":"Montana Resources LLP",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "interest"
     ]
 },
-  "bbox": [-112.522796,46.013163,-112.522796,46.013163],
+  "bbox": [
+    -112.522796,
+    46.013163,
+    -112.522796,
+    46.013163
+],
   "geometry": {"coordinates":[-112.522796,46.013163],"type":"Point"}
 }

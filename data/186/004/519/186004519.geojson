@@ -2,13 +2,14 @@
   "id": 186004519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.085841,46.681312,-114.085841,46.681312",
     "geom:latitude":46.681312,
     "geom:longitude":-114.085841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19900 Molly Ln",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186004519,
-    "wof:lastmodified":1449051367,
+    "wof:lastmodified":1466641250,
     "wof:name":"Vivid Design LLC",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.085841,46.681312,-114.085841,46.681312],
+  "bbox": [
+    -114.085841,
+    46.681312,
+    -114.085841,
+    46.681312
+],
   "geometry": {"coordinates":[-114.085841,46.681312],"type":"Point"}
 }

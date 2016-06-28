@@ -2,13 +2,14 @@
   "id": 185811225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.559921,45.661374,-110.559921,45.661374",
     "geom:latitude":45.661374,
     "geom:longitude":-110.559921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 S Main St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185811225,
-    "wof:lastmodified":1449007397,
+    "wof:lastmodified":1466641538,
     "wof:name":"Pinkys Cafe",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-110.559921,45.661374,-110.559921,45.661374],
+  "bbox": [
+    -110.559921,
+    45.661374,
+    -110.559921,
+    45.661374
+],
   "geometry": {"coordinates":[-110.559921,45.661374],"type":"Point"}
 }

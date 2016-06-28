@@ -2,13 +2,14 @@
   "id": 186145993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.07354,47.67303,-114.07354,47.67303",
     "geom:latitude":47.67303,
     "geom:longitude":-114.07354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Whitetail St",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186145993,
-    "wof:lastmodified":1449051193,
+    "wof:lastmodified":1466642277,
     "wof:name":"Mission Valley Church Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.07354,47.67303,-114.07354,47.67303],
-  "geometry": {"coordinates":[-114.07354,47.67303],"type":"Point"}
+  "bbox": [
+    -114.07354,
+    47.67303,
+    -114.07354,
+    47.67303
+],
+  "geometry": {"coordinates":[-114.07353999999999,47.67303],"type":"Point"}
 }

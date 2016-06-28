@@ -2,13 +2,14 @@
   "id": 185802065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.53554,46.011941,-112.53554,46.011941",
     "geom:latitude":46.011941,
     "geom:longitude":-112.53554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Main St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185802065,
-    "wof:lastmodified":1449007930,
+    "wof:lastmodified":1466641528,
     "wof:name":"Pekin Noodle Parlor",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.53554,46.011941,-112.53554,46.011941],
+  "bbox": [
+    -112.53554,
+    46.011941,
+    -112.53554,
+    46.011941
+],
   "geometry": {"coordinates":[-112.53554,46.011941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186456691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.535063,45.783906,-108.535063,45.783906",
     "geom:latitude":45.783906,
     "geom:longitude":-108.535063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186456691,
-    "wof:lastmodified":1449051171,
+    "wof:lastmodified":1466643031,
     "wof:name":"CBM Carpet Cleaning",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-108.535063,45.783906,-108.535063,45.783906],
-  "geometry": {"coordinates":[-108.535063,45.783906],"type":"Point"}
+  "bbox": [
+    -108.535063,
+    45.783906,
+    -108.535063,
+    45.783906
+],
+  "geometry": {"coordinates":[-108.53506299999999,45.783906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169825259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.890662,47.197863,-114.890662,47.197863",
     "geom:latitude":47.197863,
     "geom:longitude":-114.890662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Mullan Rd W",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169825259,
-    "wof:lastmodified":1449032816,
+    "wof:lastmodified":1466641294,
     "wof:name":"Lineral County Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-114.890662,47.197863,-114.890662,47.197863],
-  "geometry": {"coordinates":[-114.890662,47.197863],"type":"Point"}
+  "bbox": [
+    -114.890662,
+    47.197863,
+    -114.890662,
+    47.197863
+],
+  "geometry": {"coordinates":[-114.89066200000001,47.197863],"type":"Point"}
 }

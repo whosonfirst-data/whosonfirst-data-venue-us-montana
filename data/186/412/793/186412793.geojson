@@ -2,13 +2,14 @@
   "id": 186412793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.391036,45.816151,-108.391036,45.816151",
     "geom:latitude":45.816151,
     "geom:longitude":-108.391036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3704 Spotted Jack Loop S",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186412793,
-    "wof:lastmodified":1449050953,
+    "wof:lastmodified":1466642800,
     "wof:name":"A To Z Home Repair Plus",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-108.391036,45.816151,-108.391036,45.816151],
+  "bbox": [
+    -108.391036,
+    45.816151,
+    -108.391036,
+    45.816151
+],
   "geometry": {"coordinates":[-108.391036,45.816151],"type":"Point"}
 }

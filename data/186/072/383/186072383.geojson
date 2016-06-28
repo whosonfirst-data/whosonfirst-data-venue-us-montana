@@ -2,13 +2,14 @@
   "id": 186072383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638145,48.194378,-106.638145,48.194378",
     "geom:latitude":48.194378,
     "geom:longitude":-106.638145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 2nd Ave S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186072383,
-    "wof:lastmodified":1449051790,
+    "wof:lastmodified":1466641872,
     "wof:name":"Fashionette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.638145,48.194378,-106.638145,48.194378],
-  "geometry": {"coordinates":[-106.638145,48.194378],"type":"Point"}
+  "bbox": [
+    -106.638145,
+    48.194378,
+    -106.638145,
+    48.194378
+],
+  "geometry": {"coordinates":[-106.63814499999999,48.194378],"type":"Point"}
 }

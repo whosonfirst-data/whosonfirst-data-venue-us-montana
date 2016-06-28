@@ -2,13 +2,14 @@
   "id": 185646939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.155762,46.248191,-114.155762,46.248191",
     "geom:latitude":46.248191,
     "geom:longitude":-114.155762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Pinckney St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185646939,
-    "wof:lastmodified":1449006560,
+    "wof:lastmodified":1466641371,
     "wof:name":"Grenfell Insurance & Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.155762,46.248191,-114.155762,46.248191],
+  "bbox": [
+    -114.155762,
+    46.248191,
+    -114.155762,
+    46.248191
+],
   "geometry": {"coordinates":[-114.155762,46.248191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185802403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.044687,46.589537,-112.044687,46.589537",
     "geom:latitude":46.589537,
     "geom:longitude":-112.044687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Clarke St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185802403,
-    "wof:lastmodified":1449007930,
+    "wof:lastmodified":1466641532,
     "wof:name":"Kunsman Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-112.044687,46.589537,-112.044687,46.589537],
+  "bbox": [
+    -112.044687,
+    46.589537,
+    -112.044687,
+    46.589537
+],
   "geometry": {"coordinates":[-112.044687,46.589537],"type":"Point"}
 }

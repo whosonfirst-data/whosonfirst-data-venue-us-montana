@@ -2,13 +2,14 @@
   "id": 185924153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.420569,45.495928,-112.420569,45.495928",
     "geom:latitude":45.495928,
     "geom:longitude":-112.420569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Pennington Rd",
     "sg:city":"Twin Bridges",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185924153,
-    "wof:lastmodified":1449007052,
+    "wof:lastmodified":1466641663,
     "wof:name":"Keith Rash",
     "wof:parent_id":85851385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-112.420569,45.495928,-112.420569,45.495928],
+  "bbox": [
+    -112.420569,
+    45.495928,
+    -112.420569,
+    45.495928
+],
   "geometry": {"coordinates":[-112.420569,45.495928],"type":"Point"}
 }

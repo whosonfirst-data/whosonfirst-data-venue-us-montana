@@ -2,13 +2,14 @@
   "id": 186308549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.536107,45.785975,-108.536107,45.785975",
     "geom:latitude":45.785975,
     "geom:longitude":-108.536107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"744 Ave C",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186308549,
-    "wof:lastmodified":1449053089,
+    "wof:lastmodified":1466642637,
     "wof:name":"Attorney's Video & Audio Svc",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-108.536107,45.785975,-108.536107,45.785975],
+  "bbox": [
+    -108.536107,
+    45.785975,
+    -108.536107,
+    45.785975
+],
   "geometry": {"coordinates":[-108.536107,45.785975],"type":"Point"}
 }

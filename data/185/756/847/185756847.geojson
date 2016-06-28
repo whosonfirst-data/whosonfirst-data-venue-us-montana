@@ -2,13 +2,14 @@
   "id": 185756847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.546688,46.007805,-112.546688,46.007805",
     "geom:latitude":46.007805,
     "geom:longitude":-112.546688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"775 W Gold St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185756847,
-    "wof:lastmodified":1449007572,
+    "wof:lastmodified":1466641487,
     "wof:name":"Goldstreet Clinic",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-112.546688,46.007805,-112.546688,46.007805],
+  "bbox": [
+    -112.546688,
+    46.007805,
+    -112.546688,
+    46.007805
+],
   "geometry": {"coordinates":[-112.546688,46.007805],"type":"Point"}
 }

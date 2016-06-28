@@ -2,13 +2,14 @@
   "id": 169764259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.945075,46.125812,-112.945075,46.125812",
     "geom:latitude":46.125812,
     "geom:longitude":-112.945075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Alder St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169764259,
-    "wof:lastmodified":1449035803,
+    "wof:lastmodified":1466641206,
     "wof:name":"St Peter Worship Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.945075,46.125812,-112.945075,46.125812],
+  "bbox": [
+    -112.945075,
+    46.125812,
+    -112.945075,
+    46.125812
+],
   "geometry": {"coordinates":[-112.945075,46.125812],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185673657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.831676,46.404386,-105.831676,46.404386",
     "geom:latitude":46.404386,
     "geom:longitude":-105.831676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 S Stacy Ave",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185673657,
-    "wof:lastmodified":1449007238,
+    "wof:lastmodified":1466641393,
     "wof:name":"Lynelle's Poodle Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-105.831676,46.404386,-105.831676,46.404386],
+  "bbox": [
+    -105.831676,
+    46.404386,
+    -105.831676,
+    46.404386
+],
   "geometry": {"coordinates":[-105.831676,46.404386],"type":"Point"}
 }

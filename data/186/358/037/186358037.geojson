@@ -2,13 +2,14 @@
   "id": 186358037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.679132,48.539308,-109.679132,48.539308",
     "geom:latitude":48.539308,
     "geom:longitude":-109.679132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Knob Rd",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186358037,
-    "wof:lastmodified":1449051505,
+    "wof:lastmodified":1466642867,
     "wof:name":"Country Merc & Consignment Flo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-109.679132,48.539308,-109.679132,48.539308],
+  "bbox": [
+    -109.679132,
+    48.539308,
+    -109.679132,
+    48.539308
+],
   "geometry": {"coordinates":[-109.679132,48.539308],"type":"Point"}
 }

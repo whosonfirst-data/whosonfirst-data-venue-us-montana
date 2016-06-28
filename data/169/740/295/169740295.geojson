@@ -2,13 +2,14 @@
   "id": 169740295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.87642,47.713561,-105.87642,47.713561",
     "geom:latitude":47.713561,
     "geom:longitude":-105.87642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"877 Prairie Elk Rd",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169740295,
-    "wof:lastmodified":1449034167,
+    "wof:lastmodified":1466641168,
     "wof:name":"Taylor Ranching",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-105.87642,47.713561,-105.87642,47.713561],
+  "bbox": [
+    -105.87642,
+    47.713561,
+    -105.87642,
+    47.713561
+],
   "geometry": {"coordinates":[-105.87642,47.713561],"type":"Point"}
 }

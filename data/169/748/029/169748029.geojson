@@ -2,13 +2,14 @@
   "id": 169748029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020902,46.618168,-112.020902,46.618168",
     "geom:latitude":46.618168,
     "geom:longitude":-112.020902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 N Montana Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169748029,
-    "wof:lastmodified":1449035146,
+    "wof:lastmodified":1466641183,
     "wof:name":"C H S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bean"
     ]
 },
-  "bbox": [-112.020902,46.618168,-112.020902,46.618168],
-  "geometry": {"coordinates":[-112.020902,46.618168],"type":"Point"}
+  "bbox": [
+    -112.020902,
+    46.618168,
+    -112.020902,
+    46.618168
+],
+  "geometry": {"coordinates":[-112.02090200000001,46.618168],"type":"Point"}
 }

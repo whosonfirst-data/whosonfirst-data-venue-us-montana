@@ -2,13 +2,14 @@
   "id": 186152201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.765622,45.665381,-108.765622,45.665381",
     "geom:latitude":45.665381,
     "geom:longitude":-108.765622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 SE 4th St",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186152201,
-    "wof:lastmodified":1449052389,
+    "wof:lastmodified":1466642122,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.765622,45.665381,-108.765622,45.665381],
-  "geometry": {"coordinates":[-108.765622,45.665381],"type":"Point"}
+  "bbox": [
+    -108.765622,
+    45.665381,
+    -108.765622,
+    45.665381
+],
+  "geometry": {"coordinates":[-108.76562199999999,45.665381],"type":"Point"}
 }

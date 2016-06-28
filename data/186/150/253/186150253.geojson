@@ -2,13 +2,14 @@
   "id": 186150253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.51747,45.771538,-108.51747,45.771538",
     "geom:latitude":45.771538,
     "geom:longitude":-108.51747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3923 2nd Ave S",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186150253,
-    "wof:lastmodified":1449050292,
+    "wof:lastmodified":1466642121,
     "wof:name":"Patrick M Kittson",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.51747,45.771538,-108.51747,45.771538],
+  "bbox": [
+    -108.51747,
+    45.771538,
+    -108.51747,
+    45.771538
+],
   "geometry": {"coordinates":[-108.51747,45.771538],"type":"Point"}
 }

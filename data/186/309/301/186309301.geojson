@@ -2,13 +2,14 @@
   "id": 186309301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.406858,45.444677,-105.406858,45.444677",
     "geom:latitude":45.444677,
     "geom:longitude":-105.406858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Wilson St",
     "sg:city":"Broadus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186309301,
-    "wof:lastmodified":1449050991,
+    "wof:lastmodified":1466642631,
     "wof:name":"Valley Motor Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-105.406858,45.444677,-105.406858,45.444677],
+  "bbox": [
+    -105.406858,
+    45.444677,
+    -105.406858,
+    45.444677
+],
   "geometry": {"coordinates":[-105.406858,45.444677],"type":"Point"}
 }

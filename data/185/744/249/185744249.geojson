@@ -2,13 +2,14 @@
   "id": 185744249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.490974,45.979248,-112.490974,45.979248",
     "geom:latitude":45.979248,
     "geom:longitude":-112.490974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 Gladstone Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185744249,
-    "wof:lastmodified":1449007173,
+    "wof:lastmodified":1466641464,
     "wof:name":"Dan's Delivery Svc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-112.490974,45.979248,-112.490974,45.979248],
-  "geometry": {"coordinates":[-112.490974,45.979248],"type":"Point"}
+  "bbox": [
+    -112.490974,
+    45.979248,
+    -112.490974,
+    45.979248
+],
+  "geometry": {"coordinates":[-112.49097399999999,45.979248],"type":"Point"}
 }

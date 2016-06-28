@@ -2,13 +2,14 @@
   "id": 186405251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.500886,45.784391,-108.500886,45.784391",
     "geom:latitude":45.784391,
     "geom:longitude":-108.500886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 N 24th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186405251,
-    "wof:lastmodified":1449052796,
+    "wof:lastmodified":1466643006,
     "wof:name":"Michael Sample Photographer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-108.500886,45.784391,-108.500886,45.784391],
-  "geometry": {"coordinates":[-108.500886,45.784391],"type":"Point"}
+  "bbox": [
+    -108.500886,
+    45.784391,
+    -108.500886,
+    45.784391
+],
+  "geometry": {"coordinates":[-108.50088599999999,45.784391],"type":"Point"}
 }

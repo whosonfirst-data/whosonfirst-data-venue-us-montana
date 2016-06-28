@@ -2,13 +2,14 @@
   "id": 186453341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022956,46.605737,-112.022956,46.605737",
     "geom:latitude":46.605737,
     "geom:longitude":-112.022956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186453341,
-    "wof:lastmodified":1449052354,
+    "wof:lastmodified":1466643020,
     "wof:name":"Nickels Gaming Parlour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-112.022956,46.605737,-112.022956,46.605737],
-  "geometry": {"coordinates":[-112.022956,46.605737],"type":"Point"}
+  "bbox": [
+    -112.022956,
+    46.605737,
+    -112.022956,
+    46.605737
+],
+  "geometry": {"coordinates":[-112.02295599999999,46.605737],"type":"Point"}
 }

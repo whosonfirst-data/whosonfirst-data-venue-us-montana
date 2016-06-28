@@ -2,13 +2,14 @@
   "id": 186357983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.083957,46.826238,-114.083957,46.826238",
     "geom:latitude":46.826238,
     "geom:longitude":-114.083957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 Wornath Rd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186357983,
-    "wof:lastmodified":1449052690,
+    "wof:lastmodified":1466642871,
     "wof:name":"Larson Forest Management Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-114.083957,46.826238,-114.083957,46.826238],
+  "bbox": [
+    -114.083957,
+    46.826238,
+    -114.083957,
+    46.826238
+],
   "geometry": {"coordinates":[-114.083957,46.826238],"type":"Point"}
 }

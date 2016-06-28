@@ -2,13 +2,14 @@
   "id": 169752095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.183719,47.812251,-112.183719,47.812251",
     "geom:latitude":47.812251,
     "geom:longitude":-112.183719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 1st St NW",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169752095,
-    "wof:lastmodified":1449033250,
+    "wof:lastmodified":1466641188,
     "wof:name":"R & R Real Estate",
     "wof:parent_id":85810939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.183719,47.812251,-112.183719,47.812251],
+  "bbox": [
+    -112.183719,
+    47.812251,
+    -112.183719,
+    47.812251
+],
   "geometry": {"coordinates":[-112.183719,47.812251],"type":"Point"}
 }

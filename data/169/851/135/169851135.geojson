@@ -2,13 +2,14 @@
   "id": 169851135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.47074,45.803972,-108.47074,45.803972",
     "geom:latitude":45.803972,
     "geom:longitude":-108.47074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Bench Blvd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169851135,
-    "wof:lastmodified":1449034861,
+    "wof:lastmodified":1466641328,
     "wof:name":"Big Idea Company The",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-108.47074,45.803972,-108.47074,45.803972],
-  "geometry": {"coordinates":[-108.47074,45.803972],"type":"Point"}
+  "bbox": [
+    -108.47074,
+    45.803972,
+    -108.47074,
+    45.803972
+],
+  "geometry": {"coordinates":[-108.47074000000001,45.803972],"type":"Point"}
 }

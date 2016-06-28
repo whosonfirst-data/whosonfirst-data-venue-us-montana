@@ -2,13 +2,14 @@
   "id": 169728683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.493643,45.795104,-108.493643,45.795104",
     "geom:latitude":45.795104,
     "geom:longitude":-108.493643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N 14th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169728683,
-    "wof:lastmodified":1449033460,
+    "wof:lastmodified":1466641741,
     "wof:name":"Modern Maintenance",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.493643,45.795104,-108.493643,45.795104],
-  "geometry": {"coordinates":[-108.493643,45.795104],"type":"Point"}
+  "bbox": [
+    -108.493643,
+    45.795104,
+    -108.493643,
+    45.795104
+],
+  "geometry": {"coordinates":[-108.49364300000001,45.795104],"type":"Point"}
 }

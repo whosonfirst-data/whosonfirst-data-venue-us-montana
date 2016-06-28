@@ -2,13 +2,14 @@
   "id": 185678121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.837302,47.704877,-111.837302,47.704877",
     "geom:latitude":47.704877,
     "geom:longitude":-111.837302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 7th Ln NE",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185678121,
-    "wof:lastmodified":1449007403,
+    "wof:lastmodified":1466641394,
     "wof:name":"Carls Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-111.837302,47.704877,-111.837302,47.704877],
-  "geometry": {"coordinates":[-111.837302,47.704877],"type":"Point"}
+  "bbox": [
+    -111.837302,
+    47.704877,
+    -111.837302,
+    47.704877
+],
+  "geometry": {"coordinates":[-111.83730199999999,47.704877],"type":"Point"}
 }

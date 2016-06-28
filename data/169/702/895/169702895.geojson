@@ -2,13 +2,14 @@
   "id": 169702895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.586474,45.762457,-108.586474,45.762457",
     "geom:latitude":45.762457,
     "geom:longitude":-108.586474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Monad Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169702895,
-    "wof:lastmodified":1449034337,
+    "wof:lastmodified":1466641158,
     "wof:name":"Mountain Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-108.586474,45.762457,-108.586474,45.762457],
+  "bbox": [
+    -108.586474,
+    45.762457,
+    -108.586474,
+    45.762457
+],
   "geometry": {"coordinates":[-108.586474,45.762457],"type":"Point"}
 }

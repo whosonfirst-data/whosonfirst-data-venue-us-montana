@@ -2,13 +2,14 @@
   "id": 169752477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.416165,45.815451,-108.416165,45.815451",
     "geom:latitude":45.815451,
     "geom:longitude":-108.416165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2443 N Frontage Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169752477,
-    "wof:lastmodified":1449033248,
+    "wof:lastmodified":1466641192,
     "wof:name":"Vermilion Enterprises",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "animal"
     ]
 },
-  "bbox": [-108.416165,45.815451,-108.416165,45.815451],
-  "geometry": {"coordinates":[-108.416165,45.815451],"type":"Point"}
+  "bbox": [
+    -108.416165,
+    45.815451,
+    -108.416165,
+    45.815451
+],
+  "geometry": {"coordinates":[-108.41616500000001,45.815451],"type":"Point"}
 }

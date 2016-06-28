@@ -2,13 +2,14 @@
   "id": 186218795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.508065,45.973959,-112.508065,45.973959",
     "geom:latitude":45.973959,
     "geom:longitude":-112.508065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3541 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186218795,
-    "wof:lastmodified":1449052075,
+    "wof:lastmodified":1466642383,
     "wof:name":"Snookums",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-112.508065,45.973959,-112.508065,45.973959],
+  "bbox": [
+    -112.508065,
+    45.973959,
+    -112.508065,
+    45.973959
+],
   "geometry": {"coordinates":[-112.508065,45.973959],"type":"Point"}
 }

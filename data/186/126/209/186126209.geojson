@@ -2,13 +2,14 @@
   "id": 186126209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.623395,45.802503,-108.623395,45.802503",
     "geom:latitude":45.802503,
     "geom:longitude":-108.623395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4580 Laredo Pl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186126209,
-    "wof:lastmodified":1449051374,
+    "wof:lastmodified":1466642081,
     "wof:name":"Loren Janssen Trust",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-108.623395,45.802503,-108.623395,45.802503],
+  "bbox": [
+    -108.623395,
+    45.802503,
+    -108.623395,
+    45.802503
+],
   "geometry": {"coordinates":[-108.623395,45.802503],"type":"Point"}
 }

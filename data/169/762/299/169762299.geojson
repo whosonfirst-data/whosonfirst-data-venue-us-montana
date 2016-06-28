@@ -2,13 +2,14 @@
   "id": 169762299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.001313,46.589807,-112.001313,46.589807",
     "geom:latitude":46.589807,
     "geom:longitude":-112.001313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 11th Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169762299,
-    "wof:lastmodified":1449035006,
+    "wof:lastmodified":1466641205,
     "wof:name":"Patrick Quinn DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.001313,46.589807,-112.001313,46.589807],
+  "bbox": [
+    -112.001313,
+    46.589807,
+    -112.001313,
+    46.589807
+],
   "geometry": {"coordinates":[-112.001313,46.589807],"type":"Point"}
 }

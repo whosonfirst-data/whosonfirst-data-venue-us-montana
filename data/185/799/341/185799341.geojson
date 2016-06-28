@@ -2,13 +2,14 @@
   "id": 185799341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036499,46.592828,-112.036499,46.592828",
     "geom:latitude":46.592828,
     "geom:longitude":-112.036499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 N Main St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185799341,
-    "wof:lastmodified":1449008216,
+    "wof:lastmodified":1466641528,
     "wof:name":"Downtown Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [-112.036499,46.592828,-112.036499,46.592828],
-  "geometry": {"coordinates":[-112.036499,46.592828],"type":"Point"}
+  "bbox": [
+    -112.036499,
+    46.592828,
+    -112.036499,
+    46.592828
+],
+  "geometry": {"coordinates":[-112.03649900000001,46.592828],"type":"Point"}
 }

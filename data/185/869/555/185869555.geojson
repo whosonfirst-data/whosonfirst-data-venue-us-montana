@@ -2,13 +2,14 @@
   "id": 185869555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.128452,47.384704,-114.128452,47.384704",
     "geom:latitude":47.384704,
     "geom:longitude":-114.128452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 Dublin Gulch Rd",
     "sg:city":"Saint Ignatius",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185869555,
-    "wof:lastmodified":1449008092,
+    "wof:lastmodified":1466641607,
     "wof:name":"Stone Mountain Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-114.128452,47.384704,-114.128452,47.384704],
+  "bbox": [
+    -114.128452,
+    47.384704,
+    -114.128452,
+    47.384704
+],
   "geometry": {"coordinates":[-114.128452,47.384704],"type":"Point"}
 }

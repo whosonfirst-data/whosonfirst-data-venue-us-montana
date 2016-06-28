@@ -2,13 +2,14 @@
   "id": 169837649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.077225,46.501194,-114.077225,46.501194",
     "geom:latitude":46.501194,
     "geom:longitude":-114.077225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Middle Burnt Fork Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169837649,
-    "wof:lastmodified":1449033205,
+    "wof:lastmodified":1466641312,
     "wof:name":"Stevensville Alternative Learn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.077225,46.501194,-114.077225,46.501194],
+  "bbox": [
+    -114.077225,
+    46.501194,
+    -114.077225,
+    46.501194
+],
   "geometry": {"coordinates":[-114.077225,46.501194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186388287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.558317,45.787206,-108.558317,45.787206",
     "geom:latitude":45.787206,
     "geom:longitude":-108.558317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1537 Ave D",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186388287,
-    "wof:lastmodified":1449050374,
+    "wof:lastmodified":1466642834,
     "wof:name":"Div of Montana Retail Assn",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trade"
     ]
 },
-  "bbox": [-108.558317,45.787206,-108.558317,45.787206],
+  "bbox": [
+    -108.558317,
+    45.787206,
+    -108.558317,
+    45.787206
+],
   "geometry": {"coordinates":[-108.558317,45.787206],"type":"Point"}
 }

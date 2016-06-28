@@ -2,13 +2,14 @@
   "id": 185665079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.305959,48.194735,-114.305959,48.194735",
     "geom:latitude":48.194735,
     "geom:longitude":-114.305959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 4th Ave E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185665079,
-    "wof:lastmodified":1449007100,
+    "wof:lastmodified":1466641769,
     "wof:name":"Dollar Store",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-114.305959,48.194735,-114.305959,48.194735],
+  "bbox": [
+    -114.305959,
+    48.194735,
+    -114.305959,
+    48.194735
+],
   "geometry": {"coordinates":[-114.305959,48.194735],"type":"Point"}
 }

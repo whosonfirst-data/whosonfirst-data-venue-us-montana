@@ -2,13 +2,14 @@
   "id": 186129705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.243526,47.487993,-111.243526,47.487993",
     "geom:latitude":47.487993,
     "geom:longitude":-111.243526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 15th Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186129705,
-    "wof:lastmodified":1449052492,
+    "wof:lastmodified":1466642238,
     "wof:name":"Mountain View Elem School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-111.243526,47.487993,-111.243526,47.487993],
+  "bbox": [
+    -111.243526,
+    47.487993,
+    -111.243526,
+    47.487993
+],
   "geometry": {"coordinates":[-111.243526,47.487993],"type":"Point"}
 }

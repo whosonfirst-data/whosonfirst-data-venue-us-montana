@@ -2,13 +2,14 @@
   "id": 186123343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.639282,48.090633,-105.639282,48.090633",
     "geom:latitude":48.090633,
     "geom:longitude":-105.639282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Main St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186123343,
-    "wof:lastmodified":1449051182,
+    "wof:lastmodified":1466642074,
     "wof:name":"Treasure Chest Gift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-105.639282,48.090633,-105.639282,48.090633],
-  "geometry": {"coordinates":[-105.639282,48.090633],"type":"Point"}
+  "bbox": [
+    -105.639282,
+    48.090633,
+    -105.639282,
+    48.090633
+],
+  "geometry": {"coordinates":[-105.63928199999999,48.090633],"type":"Point"}
 }

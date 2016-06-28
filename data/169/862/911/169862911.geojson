@@ -2,13 +2,14 @@
   "id": 169862911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.040697,47.413551,-114.040697,47.413551",
     "geom:latitude":47.413551,
     "geom:longitude":-114.040697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2616 McDonald Lake Rd",
     "sg:city":"Saint Ignatius",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169862911,
-    "wof:lastmodified":1449036045,
+    "wof:lastmodified":1466641357,
     "wof:name":"Twin Willows Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.040697,47.413551,-114.040697,47.413551],
-  "geometry": {"coordinates":[-114.040697,47.413551],"type":"Point"}
+  "bbox": [
+    -114.040697,
+    47.413551,
+    -114.040697,
+    47.413551
+],
+  "geometry": {"coordinates":[-114.04069699999999,47.413551],"type":"Point"}
 }

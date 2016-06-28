@@ -2,13 +2,14 @@
   "id": 185715619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.587669,45.775387,-108.587669,45.775387",
     "geom:latitude":45.775387,
     "geom:longitude":-108.587669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 29th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185715619,
-    "wof:lastmodified":1449007894,
+    "wof:lastmodified":1466641440,
     "wof:name":"Meisenheimer Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-108.587669,45.775387,-108.587669,45.775387],
-  "geometry": {"coordinates":[-108.587669,45.775387],"type":"Point"}
+  "bbox": [
+    -108.587669,
+    45.775387,
+    -108.587669,
+    45.775387
+],
+  "geometry": {"coordinates":[-108.58766900000001,45.775387],"type":"Point"}
 }

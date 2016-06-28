@@ -2,13 +2,14 @@
   "id": 186128759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.541852,46.444854,-108.541852,46.444854",
     "geom:latitude":46.444854,
     "geom:longitude":-108.541852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Main St",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186128759,
-    "wof:lastmodified":1449051410,
+    "wof:lastmodified":1466642089,
     "wof:name":"Liquour Agency Store 44",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.541852,46.444854,-108.541852,46.444854],
-  "geometry": {"coordinates":[-108.541852,46.444854],"type":"Point"}
+  "bbox": [
+    -108.541852,
+    46.444854,
+    -108.541852,
+    46.444854
+],
+  "geometry": {"coordinates":[-108.54185200000001,46.444854],"type":"Point"}
 }

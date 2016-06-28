@@ -2,13 +2,14 @@
   "id": 186078221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.036016,46.519263,-114.036016,46.519263",
     "geom:latitude":46.519263,
     "geom:longitude":-114.036016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"696 Hollibaugh Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186078221,
-    "wof:lastmodified":1449052587,
+    "wof:lastmodified":1466641878,
     "wof:name":"West Wind Wdwkg & Cabinetry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.036016,46.519263,-114.036016,46.519263],
+  "bbox": [
+    -114.036016,
+    46.519263,
+    -114.036016,
+    46.519263
+],
   "geometry": {"coordinates":[-114.036016,46.519263],"type":"Point"}
 }

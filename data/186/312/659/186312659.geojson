@@ -2,13 +2,14 @@
   "id": 186312659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.038105,47.543316,-114.038105,47.543316",
     "geom:latitude":47.543316,
     "geom:longitude":-114.038105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"371 Michel Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186312659,
-    "wof:lastmodified":1449051726,
+    "wof:lastmodified":1466642640,
     "wof:name":"Robert J Erwel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.038105,47.543316,-114.038105,47.543316],
+  "bbox": [
+    -114.038105,
+    47.543316,
+    -114.038105,
+    47.543316
+],
   "geometry": {"coordinates":[-114.038105,47.543316],"type":"Point"}
 }

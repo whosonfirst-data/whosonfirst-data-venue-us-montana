@@ -2,13 +2,14 @@
   "id": 169760789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.09967,45.729226,-111.09967,45.729226",
     "geom:latitude":45.729226,
     "geom:longitude":-111.09967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4161 E Valley Center Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169760789,
-    "wof:lastmodified":1449035838,
+    "wof:lastmodified":1466641208,
     "wof:name":"Mikes Carpet & Vinyl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "covering"
     ]
 },
-  "bbox": [-111.09967,45.729226,-111.09967,45.729226],
+  "bbox": [
+    -111.09967,
+    45.729226,
+    -111.09967,
+    45.729226
+],
   "geometry": {"coordinates":[-111.09967,45.729226],"type":"Point"}
 }

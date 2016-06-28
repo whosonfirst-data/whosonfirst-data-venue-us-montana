@@ -2,13 +2,14 @@
   "id": 186291039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.555054,45.798628,-108.555054,45.798628",
     "geom:latitude":45.798628,
     "geom:longitude":-108.555054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 Harrow Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186291039,
-    "wof:lastmodified":1449051203,
+    "wof:lastmodified":1466642397,
     "wof:name":"E Commerce Exchange",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "credit"
     ]
 },
-  "bbox": [-108.555054,45.798628,-108.555054,45.798628],
+  "bbox": [
+    -108.555054,
+    45.798628,
+    -108.555054,
+    45.798628
+],
   "geometry": {"coordinates":[-108.555054,45.798628],"type":"Point"}
 }

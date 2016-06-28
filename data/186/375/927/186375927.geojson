@@ -2,13 +2,14 @@
   "id": 186375927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.98634,46.457847,-113.98634,46.457847",
     "geom:latitude":46.457847,
     "geom:longitude":-113.98634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 S Sunset Bench Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186375927,
-    "wof:lastmodified":1449050365,
+    "wof:lastmodified":1466642805,
     "wof:name":"Mullan Tool Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-113.98634,46.457847,-113.98634,46.457847],
+  "bbox": [
+    -113.98634,
+    46.457847,
+    -113.98634,
+    46.457847
+],
   "geometry": {"coordinates":[-113.98634,46.457847],"type":"Point"}
 }

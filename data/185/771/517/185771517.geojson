@@ -2,13 +2,14 @@
   "id": 185771517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.554105,48.394004,-115.554105,48.394004",
     "geom:latitude":48.394004,
     "geom:longitude":-115.554105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 W 3rd St",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185771517,
-    "wof:lastmodified":1449007484,
+    "wof:lastmodified":1466641500,
     "wof:name":"Park Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-115.554105,48.394004,-115.554105,48.394004],
-  "geometry": {"coordinates":[-115.554105,48.394004],"type":"Point"}
+  "bbox": [
+    -115.554105,
+    48.394004,
+    -115.554105,
+    48.394004
+],
+  "geometry": {"coordinates":[-115.55410500000001,48.394004],"type":"Point"}
 }

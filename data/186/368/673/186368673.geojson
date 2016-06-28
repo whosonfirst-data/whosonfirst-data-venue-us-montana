@@ -2,13 +2,14 @@
   "id": 186368673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.208692,47.662185,-114.208692,47.662185",
     "geom:latitude":47.662185,
     "geom:longitude":-114.208692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Kerr Dam Rd",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186368673,
-    "wof:lastmodified":1449051018,
+    "wof:lastmodified":1466642782,
     "wof:name":"Lake County Landfill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.208692,47.662185,-114.208692,47.662185],
+  "bbox": [
+    -114.208692,
+    47.662185,
+    -114.208692,
+    47.662185
+],
   "geometry": {"coordinates":[-114.208692,47.662185],"type":"Point"}
 }

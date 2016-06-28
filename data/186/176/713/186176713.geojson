@@ -2,13 +2,14 @@
   "id": 186176713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.157042,46.246997,-114.157042,46.246997",
     "geom:latitude":46.246997,
     "geom:longitude":-114.157042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S 2nd St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186176713,
-    "wof:lastmodified":1449052124,
+    "wof:lastmodified":1466642174,
     "wof:name":"Blondie's Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-114.157042,46.246997,-114.157042,46.246997],
+  "bbox": [
+    -114.157042,
+    46.246997,
+    -114.157042,
+    46.246997
+],
   "geometry": {"coordinates":[-114.157042,46.246997],"type":"Point"}
 }

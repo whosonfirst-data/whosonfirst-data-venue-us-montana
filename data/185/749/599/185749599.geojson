@@ -2,13 +2,14 @@
   "id": 185749599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.276947,48.290977,-114.276947,48.290977",
     "geom:latitude":48.290977,
     "geom:longitude":-114.276947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Birch Grove Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185749599,
-    "wof:lastmodified":1449007074,
+    "wof:lastmodified":1466641479,
     "wof:name":"R and B Interpise",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-114.276947,48.290977,-114.276947,48.290977],
-  "geometry": {"coordinates":[-114.276947,48.290977],"type":"Point"}
+  "bbox": [
+    -114.276947,
+    48.290977,
+    -114.276947,
+    48.290977
+],
+  "geometry": {"coordinates":[-114.27694700000001,48.290977],"type":"Point"}
 }

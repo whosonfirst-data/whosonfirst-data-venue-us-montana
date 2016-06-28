@@ -2,13 +2,14 @@
   "id": 186120077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.311124,48.202733,-114.311124,48.202733",
     "geom:latitude":48.202733,
     "geom:longitude":-114.311124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 E Idaho St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186120077,
-    "wof:lastmodified":1449052628,
+    "wof:lastmodified":1466642059,
     "wof:name":"Hot Spot Hair & Tanning Salon",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.311124,48.202733,-114.311124,48.202733],
-  "geometry": {"coordinates":[-114.311124,48.202733],"type":"Point"}
+  "bbox": [
+    -114.311124,
+    48.202733,
+    -114.311124,
+    48.202733
+],
+  "geometry": {"coordinates":[-114.31112400000001,48.202733],"type":"Point"}
 }

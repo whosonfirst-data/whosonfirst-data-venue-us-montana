@@ -2,13 +2,14 @@
   "id": 186174661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.883327,47.458561,-114.883327,47.458561",
     "geom:latitude":47.458561,
     "geom:longitude":-114.883327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Lynch St",
     "sg:city":"Plains",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186174661,
-    "wof:lastmodified":1449050718,
+    "wof:lastmodified":1466642161,
     "wof:name":"Clark Fork Valley Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-114.883327,47.458561,-114.883327,47.458561],
-  "geometry": {"coordinates":[-114.883327,47.458561],"type":"Point"}
+  "bbox": [
+    -114.883327,
+    47.458561,
+    -114.883327,
+    47.458561
+],
+  "geometry": {"coordinates":[-114.88332699999999,47.458561],"type":"Point"}
 }

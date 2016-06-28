@@ -2,13 +2,14 @@
   "id": 169728605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.545163,45.772129,-108.545163,45.772129",
     "geom:latitude":45.772129,
     "geom:longitude":-108.545163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 Cook Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169728605,
-    "wof:lastmodified":1449033460,
+    "wof:lastmodified":1466641741,
     "wof:name":"EASYSTOPGIFTSHOP.COM",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-108.545163,45.772129,-108.545163,45.772129],
+  "bbox": [
+    -108.545163,
+    45.772129,
+    -108.545163,
+    45.772129
+],
   "geometry": {"coordinates":[-108.545163,45.772129],"type":"Point"}
 }

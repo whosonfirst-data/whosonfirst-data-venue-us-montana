@@ -2,13 +2,14 @@
   "id": 169831777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.03171,46.856476,-114.03171,46.856476",
     "geom:latitude":46.856476,
     "geom:longitude":-114.03171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 S 14th St W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169831777,
-    "wof:lastmodified":1449034626,
+    "wof:lastmodified":1466641305,
     "wof:name":"Lances Upholstery",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-114.03171,46.856476,-114.03171,46.856476],
+  "bbox": [
+    -114.03171,
+    46.856476,
+    -114.03171,
+    46.856476
+],
   "geometry": {"coordinates":[-114.03171,46.856476],"type":"Point"}
 }

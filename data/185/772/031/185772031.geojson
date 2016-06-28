@@ -2,13 +2,14 @@
   "id": 185772031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.568529,45.756971,-108.568529,45.756971",
     "geom:latitude":45.756971,
     "geom:longitude":-108.568529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 King Park Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185772031,
-    "wof:lastmodified":1449007337,
+    "wof:lastmodified":1466641777,
     "wof:name":"Wiley Bryce Pt",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.568529,45.756971,-108.568529,45.756971],
+  "bbox": [
+    -108.568529,
+    45.756971,
+    -108.568529,
+    45.756971
+],
   "geometry": {"coordinates":[-108.568529,45.756971],"type":"Point"}
 }

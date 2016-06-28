@@ -2,13 +2,14 @@
   "id": 169790249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.062877,45.665092,-111.062877,45.665092",
     "geom:latitude":45.665092,
     "geom:longitude":-111.062877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 S 19th Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169790249,
-    "wof:lastmodified":1449035187,
+    "wof:lastmodified":1466641250,
     "wof:name":"Evangelical Free Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.062877,45.665092,-111.062877,45.665092],
+  "bbox": [
+    -111.062877,
+    45.665092,
+    -111.062877,
+    45.665092
+],
   "geometry": {"coordinates":[-111.062877,45.665092],"type":"Point"}
 }

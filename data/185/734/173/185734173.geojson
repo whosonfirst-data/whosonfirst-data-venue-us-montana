@@ -2,13 +2,14 @@
   "id": 185734173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.450938,45.794315,-108.450938,45.794315",
     "geom:latitude":45.794315,
     "geom:longitude":-108.450938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 Lockview Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185734173,
-    "wof:lastmodified":1449008016,
+    "wof:lastmodified":1466641456,
     "wof:name":"Dennys Computer Consulting",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-108.450938,45.794315,-108.450938,45.794315],
-  "geometry": {"coordinates":[-108.450938,45.794315],"type":"Point"}
+  "bbox": [
+    -108.450938,
+    45.794315,
+    -108.450938,
+    45.794315
+],
+  "geometry": {"coordinates":[-108.45093799999999,45.794315],"type":"Point"}
 }

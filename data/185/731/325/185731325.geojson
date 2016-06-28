@@ -2,13 +2,14 @@
   "id": 185731325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.691581,45.726053,-108.691581,45.726053",
     "geom:latitude":45.726053,
     "geom:longitude":-108.691581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6444 Neibauer Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185731325,
-    "wof:lastmodified":1449008040,
+    "wof:lastmodified":1466641452,
     "wof:name":"James E Kamminga",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guard"
     ]
 },
-  "bbox": [-108.691581,45.726053,-108.691581,45.726053],
+  "bbox": [
+    -108.691581,
+    45.726053,
+    -108.691581,
+    45.726053
+],
   "geometry": {"coordinates":[-108.691581,45.726053],"type":"Point"}
 }

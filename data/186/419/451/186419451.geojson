@@ -2,13 +2,14 @@
   "id": 186419451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.552656,45.749783,-108.552656,45.749783",
     "geom:latitude":45.749783,
     "geom:longitude":-108.552656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5425 Midland Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186419451,
-    "wof:lastmodified":1449052985,
+    "wof:lastmodified":1466642820,
     "wof:name":"Best Western",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-108.552656,45.749783,-108.552656,45.749783],
+  "bbox": [
+    -108.552656,
+    45.749783,
+    -108.552656,
+    45.749783
+],
   "geometry": {"coordinates":[-108.552656,45.749783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186110405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.588026,45.731925,-108.588026,45.731925",
     "geom:latitude":45.731925,
     "geom:longitude":-108.588026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6837 Commercial Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186110405,
-    "wof:lastmodified":1449051277,
+    "wof:lastmodified":1466641843,
     "wof:name":"Montana Seals & Packing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "gasket"
     ]
 },
-  "bbox": [-108.588026,45.731925,-108.588026,45.731925],
+  "bbox": [
+    -108.588026,
+    45.731925,
+    -108.588026,
+    45.731925
+],
   "geometry": {"coordinates":[-108.588026,45.731925],"type":"Point"}
 }

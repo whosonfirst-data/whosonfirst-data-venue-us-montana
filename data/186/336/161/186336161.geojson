@@ -2,13 +2,14 @@
   "id": 186336161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.2834,48.211609,-114.2834,48.211609",
     "geom:latitude":48.211609,
     "geom:longitude":-114.2834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 US Hwy 2 E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186336161,
-    "wof:lastmodified":1449050183,
+    "wof:lastmodified":1466642682,
     "wof:name":"Hilton",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-114.2834,48.211609,-114.2834,48.211609],
+  "bbox": [
+    -114.2834,
+    48.211609,
+    -114.2834,
+    48.211609
+],
   "geometry": {"coordinates":[-114.2834,48.211609],"type":"Point"}
 }

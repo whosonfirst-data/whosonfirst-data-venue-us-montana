@@ -2,13 +2,14 @@
   "id": 185628719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.565601,45.794786,-108.565601,45.794786",
     "geom:latitude":45.794786,
     "geom:longitude":-108.565601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 Dahlia Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185628719,
-    "wof:lastmodified":1449007918,
+    "wof:lastmodified":1466641321,
     "wof:name":"Toby S Painting",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.565601,45.794786,-108.565601,45.794786],
+  "bbox": [
+    -108.565601,
+    45.794786,
+    -108.565601,
+    45.794786
+],
   "geometry": {"coordinates":[-108.565601,45.794786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185814703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.51185,45.992776,-112.51185,45.992776",
     "geom:latitude":45.992776,
     "geom:longitude":-112.51185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185814703,
-    "wof:lastmodified":1449006911,
+    "wof:lastmodified":1466641550,
     "wof:name":"Redline Sports",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "snowmobile"
     ]
 },
-  "bbox": [-112.51185,45.992776,-112.51185,45.992776],
+  "bbox": [
+    -112.51185,
+    45.992776,
+    -112.51185,
+    45.992776
+],
   "geometry": {"coordinates":[-112.51185,45.992776],"type":"Point"}
 }

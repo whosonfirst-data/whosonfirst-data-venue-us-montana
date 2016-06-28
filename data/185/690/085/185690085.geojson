@@ -2,13 +2,14 @@
   "id": 185690085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679665,46.266198,-106.679665,46.266198",
     "geom:latitude":46.266198,
     "geom:longitude":-106.679665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"188 N 9th Ave",
     "sg:city":"Forsyth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185690085,
-    "wof:lastmodified":1449007474,
+    "wof:lastmodified":1466641407,
     "wof:name":"Valley Auto Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-106.679665,46.266198,-106.679665,46.266198],
+  "bbox": [
+    -106.679665,
+    46.266198,
+    -106.679665,
+    46.266198
+],
   "geometry": {"coordinates":[-106.679665,46.266198],"type":"Point"}
 }

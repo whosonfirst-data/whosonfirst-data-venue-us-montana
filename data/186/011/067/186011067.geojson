@@ -2,13 +2,14 @@
   "id": 186011067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.361551,48.732067,-104.361551,48.732067",
     "geom:latitude":48.732067,
     "geom:longitude":-104.361551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Antelope Cr Rd",
     "sg:city":"Antelope",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186011067,
-    "wof:lastmodified":1449052520,
+    "wof:lastmodified":1466641316,
     "wof:name":"Hovet Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-104.361551,48.732067,-104.361551,48.732067],
-  "geometry": {"coordinates":[-104.361551,48.732067],"type":"Point"}
+  "bbox": [
+    -104.361551,
+    48.732067,
+    -104.361551,
+    48.732067
+],
+  "geometry": {"coordinates":[-104.36155100000001,48.732067],"type":"Point"}
 }

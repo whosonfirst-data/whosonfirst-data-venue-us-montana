@@ -2,13 +2,14 @@
   "id": 186348113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.508464,45.783088,-108.508464,45.783088",
     "geom:latitude":45.783088,
     "geom:longitude":-108.508464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 N 29th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186348113,
-    "wof:lastmodified":1449050393,
+    "wof:lastmodified":1466642712,
     "wof:name":"Silver Hill",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-108.508464,45.783088,-108.508464,45.783088],
+  "bbox": [
+    -108.508464,
+    45.783088,
+    -108.508464,
+    45.783088
+],
   "geometry": {"coordinates":[-108.508464,45.783088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185943595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.491581,48.336497,-104.491581,48.336497",
     "geom:latitude":48.336497,
     "geom:longitude":-104.491581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 3rd Ave N",
     "sg:city":"Froid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185943595,
-    "wof:lastmodified":1449007037,
+    "wof:lastmodified":1466641698,
     "wof:name":"Froid Water Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-104.491581,48.336497,-104.491581,48.336497],
+  "bbox": [
+    -104.491581,
+    48.336497,
+    -104.491581,
+    48.336497
+],
   "geometry": {"coordinates":[-104.491581,48.336497],"type":"Point"}
 }

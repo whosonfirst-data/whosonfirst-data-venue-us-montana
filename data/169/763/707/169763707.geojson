@@ -2,13 +2,14 @@
   "id": 169763707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.533499,45.797942,-108.533499,45.797942",
     "geom:latitude":45.797942,
     "geom:longitude":-108.533499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Park Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169763707,
-    "wof:lastmodified":1449035957,
+    "wof:lastmodified":1466641211,
     "wof:name":"Badley & Assoc Inc",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.533499,45.797942,-108.533499,45.797942],
-  "geometry": {"coordinates":[-108.533499,45.797942],"type":"Point"}
+  "bbox": [
+    -108.533499,
+    45.797942,
+    -108.533499,
+    45.797942
+],
+  "geometry": {"coordinates":[-108.53349900000001,45.797942],"type":"Point"}
 }

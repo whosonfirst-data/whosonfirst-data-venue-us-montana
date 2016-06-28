@@ -2,13 +2,14 @@
   "id": 186383021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.442551,45.520418,-109.442551,45.520418",
     "geom:latitude":45.520418,
     "geom:longitude":-109.442551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Grove St",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186383021,
-    "wof:lastmodified":1449051512,
+    "wof:lastmodified":1466642817,
     "wof:name":"Absaroka River Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rafts"
     ]
 },
-  "bbox": [-109.442551,45.520418,-109.442551,45.520418],
-  "geometry": {"coordinates":[-109.442551,45.520418],"type":"Point"}
+  "bbox": [
+    -109.442551,
+    45.520418,
+    -109.442551,
+    45.520418
+],
+  "geometry": {"coordinates":[-109.44255099999999,45.520418],"type":"Point"}
 }

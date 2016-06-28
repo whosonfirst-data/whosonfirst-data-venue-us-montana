@@ -2,13 +2,14 @@
   "id": 185796115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.566627,45.758745,-108.566627,45.758745",
     "geom:latitude":45.758745,
     "geom:longitude":-108.566627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Rosebud Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185796115,
-    "wof:lastmodified":1449007373,
+    "wof:lastmodified":1466641523,
     "wof:name":"TLC Laser Eye Centers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "eye"
     ]
 },
-  "bbox": [-108.566627,45.758745,-108.566627,45.758745],
+  "bbox": [
+    -108.566627,
+    45.758745,
+    -108.566627,
+    45.758745
+],
   "geometry": {"coordinates":[-108.566627,45.758745],"type":"Point"}
 }

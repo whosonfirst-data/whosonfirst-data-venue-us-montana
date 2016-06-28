@@ -2,13 +2,14 @@
   "id": 186368953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.566834,45.652602,-110.566834,45.652602",
     "geom:latitude":45.652602,
     "geom:longitude":-110.566834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 S 10th St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186368953,
-    "wof:lastmodified":1449051020,
+    "wof:lastmodified":1466642784,
     "wof:name":"Quality Construction",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-110.566834,45.652602,-110.566834,45.652602],
+  "bbox": [
+    -110.566834,
+    45.652602,
+    -110.566834,
+    45.652602
+],
   "geometry": {"coordinates":[-110.566834,45.652602],"type":"Point"}
 }

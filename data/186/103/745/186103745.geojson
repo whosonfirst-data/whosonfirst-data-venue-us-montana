@@ -2,13 +2,14 @@
   "id": 186103745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.156498,47.716219,-104.156498,47.716219",
     "geom:latitude":47.716219,
     "geom:longitude":-104.156498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 State Hwy 16",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186103745,
-    "wof:lastmodified":1449052045,
+    "wof:lastmodified":1466641800,
     "wof:name":"Tescher Pipe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipe"
     ]
 },
-  "bbox": [-104.156498,47.716219,-104.156498,47.716219],
+  "bbox": [
+    -104.156498,
+    47.716219,
+    -104.156498,
+    47.716219
+],
   "geometry": {"coordinates":[-104.156498,47.716219],"type":"Point"}
 }

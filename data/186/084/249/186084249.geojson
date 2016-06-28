@@ -2,13 +2,14 @@
   "id": 186084249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.629038,45.247204,-112.629038,45.247204",
     "geom:latitude":45.247204,
     "geom:longitude":-112.629038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 Schuler Ln",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186084249,
-    "wof:lastmodified":1449050535,
+    "wof:lastmodified":1466642067,
     "wof:name":"Rouse Masonry Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "block"
     ]
 },
-  "bbox": [-112.629038,45.247204,-112.629038,45.247204],
-  "geometry": {"coordinates":[-112.629038,45.247204],"type":"Point"}
+  "bbox": [
+    -112.629038,
+    45.247204,
+    -112.629038,
+    45.247204
+],
+  "geometry": {"coordinates":[-112.62903799999999,45.247204],"type":"Point"}
 }

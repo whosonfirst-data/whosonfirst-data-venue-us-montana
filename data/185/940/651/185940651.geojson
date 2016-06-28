@@ -2,13 +2,14 @@
   "id": 185940651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.552637,45.765989,-108.552637,45.765989",
     "geom:latitude":45.765989,
     "geom:longitude":-108.552637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Industrial Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185940651,
-    "wof:lastmodified":1449007009,
+    "wof:lastmodified":1466641696,
     "wof:name":"Ferguson",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.552637,45.765989,-108.552637,45.765989],
+  "bbox": [
+    -108.552637,
+    45.765989,
+    -108.552637,
+    45.765989
+],
   "geometry": {"coordinates":[-108.552637,45.765989],"type":"Point"}
 }

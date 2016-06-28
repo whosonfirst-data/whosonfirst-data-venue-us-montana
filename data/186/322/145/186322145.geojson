@@ -2,13 +2,14 @@
   "id": 186322145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.535665,45.776991,-108.535665,45.776991",
     "geom:latitude":45.776991,
     "geom:longitude":-108.535665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Broadwater Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186322145,
-    "wof:lastmodified":1449050214,
+    "wof:lastmodified":1466642813,
     "wof:name":"Nu2u Consignment Outlet",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-108.535665,45.776991,-108.535665,45.776991],
-  "geometry": {"coordinates":[-108.535665,45.776991],"type":"Point"}
+  "bbox": [
+    -108.535665,
+    45.776991,
+    -108.535665,
+    45.776991
+],
+  "geometry": {"coordinates":[-108.53566499999999,45.776991],"type":"Point"}
 }

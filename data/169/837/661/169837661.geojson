@@ -2,13 +2,14 @@
   "id": 169837661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.026904,45.955949,-108.026904,45.955949",
     "geom:latitude":45.955949,
     "geom:longitude":-108.026904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2296 S 28th Rd",
     "sg:city":"Ballantine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169837661,
-    "wof:lastmodified":1449033209,
+    "wof:lastmodified":1466641313,
     "wof:name":"Dave's Exteriors & Welding",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.026904,45.955949,-108.026904,45.955949],
+  "bbox": [
+    -108.026904,
+    45.955949,
+    -108.026904,
+    45.955949
+],
   "geometry": {"coordinates":[-108.026904,45.955949],"type":"Point"}
 }

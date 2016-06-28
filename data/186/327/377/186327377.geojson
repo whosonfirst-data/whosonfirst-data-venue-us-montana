@@ -2,13 +2,14 @@
   "id": 186327377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.073849,46.856665,-114.073849,46.856665",
     "geom:latitude":46.856665,
     "geom:longitude":-114.073849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3746 Rosecrest Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186327377,
-    "wof:lastmodified":1449050449,
+    "wof:lastmodified":1466642432,
     "wof:name":"Sherri Wagner Interior Design",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.073849,46.856665,-114.073849,46.856665],
+  "bbox": [
+    -114.073849,
+    46.856665,
+    -114.073849,
+    46.856665
+],
   "geometry": {"coordinates":[-114.073849,46.856665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185798903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.477132,48.132906,-114.477132,48.132906",
     "geom:latitude":48.132906,
     "geom:longitude":-114.477132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 Hoffman Draw",
     "sg:city":"Kila",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185798903,
-    "wof:lastmodified":1449006917,
+    "wof:lastmodified":1466641533,
     "wof:name":"Sudan Drilling",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-114.477132,48.132906,-114.477132,48.132906],
+  "bbox": [
+    -114.477132,
+    48.132906,
+    -114.477132,
+    48.132906
+],
   "geometry": {"coordinates":[-114.477132,48.132906],"type":"Point"}
 }

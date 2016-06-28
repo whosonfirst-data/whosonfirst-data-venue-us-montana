@@ -2,13 +2,14 @@
   "id": 185730737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.019259,46.584218,-112.019259,46.584218",
     "geom:latitude":46.584218,
     "geom:longitude":-112.019259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 E Broadway St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185730737,
-    "wof:lastmodified":1449007976,
+    "wof:lastmodified":1466641459,
     "wof:name":"Karma's Vintage Clothing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "period"
     ]
 },
-  "bbox": [-112.019259,46.584218,-112.019259,46.584218],
-  "geometry": {"coordinates":[-112.019259,46.584218],"type":"Point"}
+  "bbox": [
+    -112.019259,
+    46.584218,
+    -112.019259,
+    46.584218
+],
+  "geometry": {"coordinates":[-112.01925900000001,46.584218],"type":"Point"}
 }

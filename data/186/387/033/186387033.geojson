@@ -2,13 +2,14 @@
   "id": 186387033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.442806,45.863658,-108.442806,45.863658",
     "geom:latitude":45.863658,
     "geom:longitude":-108.442806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 Wagon Wheel Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186387033,
-    "wof:lastmodified":1449052653,
+    "wof:lastmodified":1466642685,
     "wof:name":"Papersmiths",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-108.442806,45.863658,-108.442806,45.863658],
+  "bbox": [
+    -108.442806,
+    45.863658,
+    -108.442806,
+    45.863658
+],
   "geometry": {"coordinates":[-108.442806,45.863658],"type":"Point"}
 }

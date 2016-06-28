@@ -2,13 +2,14 @@
   "id": 186109859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.292251,47.492308,-111.292251,47.492308",
     "geom:latitude":47.492308,
     "geom:longitude":-111.292251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 9th St S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186109859,
-    "wof:lastmodified":1449051327,
+    "wof:lastmodified":1466641838,
     "wof:name":"Hudson Lee S DC Dabco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-111.292251,47.492308,-111.292251,47.492308],
-  "geometry": {"coordinates":[-111.292251,47.492308],"type":"Point"}
+  "bbox": [
+    -111.292251,
+    47.492308,
+    -111.292251,
+    47.492308
+],
+  "geometry": {"coordinates":[-111.29225099999999,47.492308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169731889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.829067,46.409257,-105.829067,46.409257",
     "geom:latitude":46.409257,
     "geom:longitude":-105.829067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 N Earling Ave",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169731889,
-    "wof:lastmodified":1449035584,
+    "wof:lastmodified":1466641171,
     "wof:name":"Barneys Blocks & Heads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-105.829067,46.409257,-105.829067,46.409257],
-  "geometry": {"coordinates":[-105.829067,46.409257],"type":"Point"}
+  "bbox": [
+    -105.829067,
+    46.409257,
+    -105.829067,
+    46.409257
+],
+  "geometry": {"coordinates":[-105.82906699999999,46.409257],"type":"Point"}
 }

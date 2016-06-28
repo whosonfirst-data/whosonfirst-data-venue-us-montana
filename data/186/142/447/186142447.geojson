@@ -2,13 +2,14 @@
   "id": 186142447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.472452,45.815052,-108.472452,45.815052",
     "geom:latitude":45.815052,
     "geom:longitude":-108.472452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Milton Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186142447,
-    "wof:lastmodified":1449052474,
+    "wof:lastmodified":1466642114,
     "wof:name":"Bench Elementary School",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.472452,45.815052,-108.472452,45.815052],
+  "bbox": [
+    -108.472452,
+    45.815052,
+    -108.472452,
+    45.815052
+],
   "geometry": {"coordinates":[-108.472452,45.815052],"type":"Point"}
 }

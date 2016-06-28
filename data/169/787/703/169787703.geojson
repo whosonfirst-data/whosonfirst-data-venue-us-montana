@@ -2,13 +2,14 @@
   "id": 169787703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.439728,46.131732,-109.439728,46.131732",
     "geom:latitude":46.131732,
     "geom:longitude":-109.439728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Hiller Rd",
     "sg:city":"Ryegate",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169787703,
-    "wof:lastmodified":1449034162,
+    "wof:lastmodified":1466641251,
     "wof:name":"Nelson and Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-109.439728,46.131732,-109.439728,46.131732],
+  "bbox": [
+    -109.439728,
+    46.131732,
+    -109.439728,
+    46.131732
+],
   "geometry": {"coordinates":[-109.439728,46.131732],"type":"Point"}
 }

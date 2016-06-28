@@ -2,13 +2,14 @@
   "id": 169723911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.305229,47.533221,-111.305229,47.533221",
     "geom:latitude":47.533221,
     "geom:longitude":-111.305229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 30th Ave NE",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169723911,
-    "wof:lastmodified":1449034618,
+    "wof:lastmodified":1466641735,
     "wof:name":"Underdal Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.305229,47.533221,-111.305229,47.533221],
+  "bbox": [
+    -111.305229,
+    47.533221,
+    -111.305229,
+    47.533221
+],
   "geometry": {"coordinates":[-111.305229,47.533221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169808777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.028123,46.872907,-114.028123,46.872907",
     "geom:latitude":46.872907,
     "geom:longitude":-114.028123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Johnson St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169808777,
-    "wof:lastmodified":1449032847,
+    "wof:lastmodified":1466641278,
     "wof:name":"Maxwell's Silver Hammer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-114.028123,46.872907,-114.028123,46.872907],
-  "geometry": {"coordinates":[-114.028123,46.872907],"type":"Point"}
+  "bbox": [
+    -114.028123,
+    46.872907,
+    -114.028123,
+    46.872907
+],
+  "geometry": {"coordinates":[-114.02812299999999,46.872907],"type":"Point"}
 }

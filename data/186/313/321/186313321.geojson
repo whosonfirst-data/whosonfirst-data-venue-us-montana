@@ -2,13 +2,14 @@
   "id": 186313321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.50482,45.820912,-108.50482,45.820912",
     "geom:latitude":45.820912,
     "geom:longitude":-108.50482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1196 Patriot St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186313321,
-    "wof:lastmodified":1449050343,
+    "wof:lastmodified":1466642635,
     "wof:name":"Belden Consulting Pllc",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-108.50482,45.820912,-108.50482,45.820912],
+  "bbox": [
+    -108.50482,
+    45.820912,
+    -108.50482,
+    45.820912
+],
   "geometry": {"coordinates":[-108.50482,45.820912],"type":"Point"}
 }

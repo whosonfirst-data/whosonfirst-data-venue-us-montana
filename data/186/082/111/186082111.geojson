@@ -2,13 +2,14 @@
   "id": 186082111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.154875,46.240752,-114.154875,46.240752",
     "geom:latitude":46.240752,
     "geom:longitude":-114.154875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 S 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186082111,
-    "wof:lastmodified":1449050339,
+    "wof:lastmodified":1466641750,
     "wof:name":"Sterling Savings Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-114.154875,46.240752,-114.154875,46.240752],
+  "bbox": [
+    -114.154875,
+    46.240752,
+    -114.154875,
+    46.240752
+],
   "geometry": {"coordinates":[-114.154875,46.240752],"type":"Point"}
 }

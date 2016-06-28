@@ -2,13 +2,14 @@
   "id": 186351279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.539276,45.682769,-110.539276,45.682769",
     "geom:latitude":45.682769,
     "geom:longitude":-110.539276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Arbor Dr",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186351279,
-    "wof:lastmodified":1449052610,
+    "wof:lastmodified":1466642720,
     "wof:name":"Pynn S L & Son Mech Contrs",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-110.539276,45.682769,-110.539276,45.682769],
+  "bbox": [
+    -110.539276,
+    45.682769,
+    -110.539276,
+    45.682769
+],
   "geometry": {"coordinates":[-110.539276,45.682769],"type":"Point"}
 }

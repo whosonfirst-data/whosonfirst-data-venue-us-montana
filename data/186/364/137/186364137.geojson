@@ -2,13 +2,14 @@
   "id": 186364137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.282379,48.212244,-114.282379,48.212244",
     "geom:latitude":48.212244,
     "geom:longitude":-114.282379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 US Hwy 2 E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186364137,
-    "wof:lastmodified":1449051890,
+    "wof:lastmodified":1466642759,
     "wof:name":"Fatt Boys Bar & Grille",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-114.282379,48.212244,-114.282379,48.212244],
-  "geometry": {"coordinates":[-114.282379,48.212244],"type":"Point"}
+  "bbox": [
+    -114.282379,
+    48.212244,
+    -114.282379,
+    48.212244
+],
+  "geometry": {"coordinates":[-114.28237900000001,48.212244],"type":"Point"}
 }

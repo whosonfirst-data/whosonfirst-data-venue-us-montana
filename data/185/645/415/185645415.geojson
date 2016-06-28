@@ -2,13 +2,14 @@
   "id": 185645415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.147217,47.689116,-114.147217,47.689116",
     "geom:latitude":47.689116,
     "geom:longitude":-114.147217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Hillcrest Dr",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185645415,
-    "wof:lastmodified":1449006776,
+    "wof:lastmodified":1466641361,
     "wof:name":"Native Travels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "inventory"
     ]
 },
-  "bbox": [-114.147217,47.689116,-114.147217,47.689116],
+  "bbox": [
+    -114.147217,
+    47.689116,
+    -114.147217,
+    47.689116
+],
   "geometry": {"coordinates":[-114.147217,47.689116],"type":"Point"}
 }

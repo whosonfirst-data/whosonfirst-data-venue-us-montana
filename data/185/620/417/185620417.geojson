@@ -2,13 +2,14 @@
   "id": 185620417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.316954,48.629401,-112.316954,48.629401",
     "geom:latitude":48.629401,
     "geom:longitude":-112.316954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 E Main St",
     "sg:city":"Cut Bank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185620417,
-    "wof:lastmodified":1449008080,
+    "wof:lastmodified":1466641216,
     "wof:name":"Golden Trangle Mental Hlth Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "psychiatric"
     ]
 },
-  "bbox": [-112.316954,48.629401,-112.316954,48.629401],
+  "bbox": [
+    -112.316954,
+    48.629401,
+    -112.316954,
+    48.629401
+],
   "geometry": {"coordinates":[-112.316954,48.629401],"type":"Point"}
 }

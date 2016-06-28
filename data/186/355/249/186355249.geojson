@@ -2,13 +2,14 @@
   "id": 186355249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.669998,46.269306,-106.669998,46.269306",
     "geom:latitude":46.269306,
     "geom:longitude":-106.669998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Main St",
     "sg:city":"Forsyth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186355249,
-    "wof:lastmodified":1449051133,
+    "wof:lastmodified":1466642863,
     "wof:name":"Youngbauer & Youngbauer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-106.669998,46.269306,-106.669998,46.269306],
-  "geometry": {"coordinates":[-106.669998,46.269306],"type":"Point"}
+  "bbox": [
+    -106.669998,
+    46.269306,
+    -106.669998,
+    46.269306
+],
+  "geometry": {"coordinates":[-106.66999800000001,46.269306],"type":"Point"}
 }

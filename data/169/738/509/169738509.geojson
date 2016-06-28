@@ -2,13 +2,14 @@
   "id": 169738509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.282233,47.494171,-111.282233,47.494171",
     "geom:latitude":47.494171,
     "geom:longitude":-111.282233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 10th Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169738509,
-    "wof:lastmodified":1449035096,
+    "wof:lastmodified":1466641168,
     "wof:name":"Kims Oriental Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-111.282233,47.494171,-111.282233,47.494171],
-  "geometry": {"coordinates":[-111.282233,47.494171],"type":"Point"}
+  "bbox": [
+    -111.282233,
+    47.494171,
+    -111.282233,
+    47.494171
+],
+  "geometry": {"coordinates":[-111.28223300000001,47.494171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169741177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.629509,45.250755,-112.629509,45.250755",
     "geom:latitude":45.250755,
     "geom:longitude":-112.629509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 North Ln",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169741177,
-    "wof:lastmodified":1449032865,
+    "wof:lastmodified":1466641173,
     "wof:name":"Mc Laren Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.629509,45.250755,-112.629509,45.250755],
+  "bbox": [
+    -112.629509,
+    45.250755,
+    -112.629509,
+    45.250755
+],
   "geometry": {"coordinates":[-112.629509,45.250755],"type":"Point"}
 }

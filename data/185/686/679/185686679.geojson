@@ -2,13 +2,14 @@
   "id": 185686679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.785331,45.681955,-108.785331,45.681955",
     "geom:latitude":45.681955,
     "geom:longitude":-108.785331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 11th Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185686679,
-    "wof:lastmodified":1449007835,
+    "wof:lastmodified":1466641409,
     "wof:name":"Your Plans Residential Design",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [-108.785331,45.681955,-108.785331,45.681955],
+  "bbox": [
+    -108.785331,
+    45.681955,
+    -108.785331,
+    45.681955
+],
   "geometry": {"coordinates":[-108.785331,45.681955],"type":"Point"}
 }

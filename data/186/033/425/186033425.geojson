@@ -2,13 +2,14 @@
   "id": 186033425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.294724,47.48899,-111.294724,47.48899",
     "geom:latitude":47.48899,
     "geom:longitude":-111.294724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 7th St S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186033425,
-    "wof:lastmodified":1449050957,
+    "wof:lastmodified":1466641672,
     "wof:name":"Sons Nrway Lodsen Lodge No 138",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "civic"
     ]
 },
-  "bbox": [-111.294724,47.48899,-111.294724,47.48899],
+  "bbox": [
+    -111.294724,
+    47.48899,
+    -111.294724,
+    47.48899
+],
   "geometry": {"coordinates":[-111.294724,47.48899],"type":"Point"}
 }

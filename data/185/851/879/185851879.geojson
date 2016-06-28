@@ -2,13 +2,14 @@
   "id": 185851879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.563159,45.791093,-108.563159,45.791093",
     "geom:latitude":45.791093,
     "geom:longitude":-108.563159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2026 Kober Pl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185851879,
-    "wof:lastmodified":1449007656,
+    "wof:lastmodified":1466641591,
     "wof:name":"Big Sky Baseball & Softball",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-108.563159,45.791093,-108.563159,45.791093],
+  "bbox": [
+    -108.563159,
+    45.791093,
+    -108.563159,
+    45.791093
+],
   "geometry": {"coordinates":[-108.563159,45.791093],"type":"Point"}
 }

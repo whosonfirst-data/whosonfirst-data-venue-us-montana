@@ -2,13 +2,14 @@
   "id": 186142503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036989,46.621401,-112.036989,46.621401",
     "geom:latitude":46.621401,
     "geom:longitude":-112.036989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3203 Cooney Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186142503,
-    "wof:lastmodified":1449052478,
+    "wof:lastmodified":1466642115,
     "wof:name":"Kalamity Crash Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "paint"
     ]
 },
-  "bbox": [-112.036989,46.621401,-112.036989,46.621401],
-  "geometry": {"coordinates":[-112.036989,46.621401],"type":"Point"}
+  "bbox": [
+    -112.036989,
+    46.621401,
+    -112.036989,
+    46.621401
+],
+  "geometry": {"coordinates":[-112.03698900000001,46.621401],"type":"Point"}
 }

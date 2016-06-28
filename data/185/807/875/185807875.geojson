@@ -2,13 +2,14 @@
   "id": 185807875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.039538,46.850763,-114.039538,46.850763",
     "geom:latitude":46.850763,
     "geom:longitude":-114.039538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 S Reserve St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185807875,
-    "wof:lastmodified":1449007018,
+    "wof:lastmodified":1466641545,
     "wof:name":"Securitos",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-114.039538,46.850763,-114.039538,46.850763],
-  "geometry": {"coordinates":[-114.039538,46.850763],"type":"Point"}
+  "bbox": [
+    -114.039538,
+    46.850763,
+    -114.039538,
+    46.850763
+],
+  "geometry": {"coordinates":[-114.03953799999999,46.850763],"type":"Point"}
 }

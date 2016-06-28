@@ -2,13 +2,14 @@
   "id": 185648077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.254607,48.258923,-114.254607,48.258923",
     "geom:latitude":48.258923,
     "geom:longitude":-114.254607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Helena Flats Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185648077,
-    "wof:lastmodified":1449007048,
+    "wof:lastmodified":1466641362,
     "wof:name":"Rockin R Equine Center",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.254607,48.258923,-114.254607,48.258923],
-  "geometry": {"coordinates":[-114.254607,48.258923],"type":"Point"}
+  "bbox": [
+    -114.254607,
+    48.258923,
+    -114.254607,
+    48.258923
+],
+  "geometry": {"coordinates":[-114.25460699999999,48.258923],"type":"Point"}
 }

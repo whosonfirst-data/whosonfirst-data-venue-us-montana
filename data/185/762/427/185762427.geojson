@@ -2,13 +2,14 @@
   "id": 185762427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040705,46.587351,-112.040705,46.587351",
     "geom:latitude":46.587351,
     "geom:longitude":-112.040705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 S Park Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185762427,
-    "wof:lastmodified":1449007738,
+    "wof:lastmodified":1466641489,
     "wof:name":"Birds & Beasleys LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-112.040705,46.587351,-112.040705,46.587351],
+  "bbox": [
+    -112.040705,
+    46.587351,
+    -112.040705,
+    46.587351
+],
   "geometry": {"coordinates":[-112.040705,46.587351],"type":"Point"}
 }

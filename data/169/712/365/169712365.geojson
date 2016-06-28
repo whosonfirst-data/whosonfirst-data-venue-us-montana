@@ -2,13 +2,14 @@
   "id": 169712365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.146511,46.668371,-113.146511,46.668371",
     "geom:latitude":46.668371,
     "geom:longitude":-113.146511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 E Broad St",
     "sg:city":"Drummond",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169712365,
-    "wof:lastmodified":1449034085,
+    "wof:lastmodified":1466641719,
     "wof:name":"Senior Citizens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.146511,46.668371,-113.146511,46.668371],
+  "bbox": [
+    -113.146511,
+    46.668371,
+    -113.146511,
+    46.668371
+],
   "geometry": {"coordinates":[-113.146511,46.668371],"type":"Point"}
 }

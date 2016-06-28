@@ -2,13 +2,14 @@
   "id": 186439551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.545849,45.781931,-108.545849,45.781931",
     "geom:latitude":45.781931,
     "geom:longitude":-108.545849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Burlington Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186439551,
-    "wof:lastmodified":1449051126,
+    "wof:lastmodified":1466642981,
     "wof:name":"Charter Nilson Cattle",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-108.545849,45.781931,-108.545849,45.781931],
+  "bbox": [
+    -108.545849,
+    45.781931,
+    -108.545849,
+    45.781931
+],
   "geometry": {"coordinates":[-108.545849,45.781931],"type":"Point"}
 }

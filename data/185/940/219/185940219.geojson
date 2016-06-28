@@ -2,13 +2,14 @@
   "id": 185940219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.038765,46.274957,-114.038765,46.274957",
     "geom:latitude":46.274957,
     "geom:longitude":-114.038765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 Weber Hts",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185940219,
-    "wof:lastmodified":1449007011,
+    "wof:lastmodified":1466641690,
     "wof:name":"Peter Reynolds Therapeutic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "massage"
     ]
 },
-  "bbox": [-114.038765,46.274957,-114.038765,46.274957],
+  "bbox": [
+    -114.038765,
+    46.274957,
+    -114.038765,
+    46.274957
+],
   "geometry": {"coordinates":[-114.038765,46.274957],"type":"Point"}
 }

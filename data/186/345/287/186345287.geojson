@@ -2,13 +2,14 @@
   "id": 186345287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.905778,47.484064,-114.905778,47.484064",
     "geom:latitude":47.484064,
     "geom:longitude":-114.905778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Burnham Ln",
     "sg:city":"Plains",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186345287,
-    "wof:lastmodified":1449052813,
+    "wof:lastmodified":1466642543,
     "wof:name":"Burnham Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-114.905778,47.484064,-114.905778,47.484064],
+  "bbox": [
+    -114.905778,
+    47.484064,
+    -114.905778,
+    47.484064
+],
   "geometry": {"coordinates":[-114.905778,47.484064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169745365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.572269,45.76078,-108.572269,45.76078",
     "geom:latitude":45.76078,
     "geom:longitude":-108.572269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 Canyon Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169745365,
-    "wof:lastmodified":1449035810,
+    "wof:lastmodified":1466641177,
     "wof:name":"Canyon Ridge",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-108.572269,45.76078,-108.572269,45.76078],
-  "geometry": {"coordinates":[-108.572269,45.76078],"type":"Point"}
+  "bbox": [
+    -108.572269,
+    45.76078,
+    -108.572269,
+    45.76078
+],
+  "geometry": {"coordinates":[-108.57226900000001,45.76078],"type":"Point"}
 }

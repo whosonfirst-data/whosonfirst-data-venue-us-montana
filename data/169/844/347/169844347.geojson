@@ -2,13 +2,14 @@
   "id": 169844347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.093062,46.499757,-114.093062,46.499757",
     "geom:latitude":46.499757,
     "geom:longitude":-114.093062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3802 Eastside Hwy",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169844347,
-    "wof:lastmodified":1449034077,
+    "wof:lastmodified":1466641316,
     "wof:name":"Valley Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.093062,46.499757,-114.093062,46.499757],
+  "bbox": [
+    -114.093062,
+    46.499757,
+    -114.093062,
+    46.499757
+],
   "geometry": {"coordinates":[-114.093062,46.499757],"type":"Point"}
 }

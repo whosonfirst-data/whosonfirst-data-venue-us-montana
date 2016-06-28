@@ -2,13 +2,14 @@
   "id": 169842005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.679506,45.766065,-108.679506,45.766065",
     "geom:latitude":45.766065,
     "geom:longitude":-108.679506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 S 64th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169842005,
-    "wof:lastmodified":1449032923,
+    "wof:lastmodified":1466641764,
     "wof:name":"Renovative Arts",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "frame"
     ]
 },
-  "bbox": [-108.679506,45.766065,-108.679506,45.766065],
+  "bbox": [
+    -108.679506,
+    45.766065,
+    -108.679506,
+    45.766065
+],
   "geometry": {"coordinates":[-108.679506,45.766065],"type":"Point"}
 }

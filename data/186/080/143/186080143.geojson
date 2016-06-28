@@ -2,13 +2,14 @@
   "id": 186080143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.54204,46.441994,-108.54204,46.441994",
     "geom:latitude":46.441994,
     "geom:longitude":-108.54204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Main St",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186080143,
-    "wof:lastmodified":1449052965,
+    "wof:lastmodified":1466641879,
     "wof:name":"Morning Grind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-108.54204,46.441994,-108.54204,46.441994],
+  "bbox": [
+    -108.54204,
+    46.441994,
+    -108.54204,
+    46.441994
+],
   "geometry": {"coordinates":[-108.54204,46.441994],"type":"Point"}
 }

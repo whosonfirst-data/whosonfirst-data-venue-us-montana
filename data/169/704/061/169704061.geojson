@@ -2,13 +2,14 @@
   "id": 169704061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.247,45.186902,-109.247,45.186902",
     "geom:latitude":45.186902,
     "geom:longitude":-109.247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Broadway Ave",
     "sg:city":"Red Lodge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169704061,
-    "wof:lastmodified":1449033553,
+    "wof:lastmodified":1466641161,
     "wof:name":"Local Rag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-109.247,45.186902,-109.247,45.186902],
+  "bbox": [
+    -109.247,
+    45.186902,
+    -109.247,
+    45.186902
+],
   "geometry": {"coordinates":[-109.247,45.186902],"type":"Point"}
 }

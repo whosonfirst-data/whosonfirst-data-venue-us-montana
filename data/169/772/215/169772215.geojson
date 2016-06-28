@@ -2,13 +2,14 @@
   "id": 169772215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.509566,45.797066,-108.509566,45.797066",
     "geom:latitude":45.797066,
     "geom:longitude":-108.509566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 N 22nd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169772215,
-    "wof:lastmodified":1449034152,
+    "wof:lastmodified":1466641220,
     "wof:name":"Highland Apartments",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-108.509566,45.797066,-108.509566,45.797066],
-  "geometry": {"coordinates":[-108.509566,45.797066],"type":"Point"}
+  "bbox": [
+    -108.509566,
+    45.797066,
+    -108.509566,
+    45.797066
+],
+  "geometry": {"coordinates":[-108.50956600000001,45.797066],"type":"Point"}
 }

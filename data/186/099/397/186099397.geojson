@@ -2,13 +2,14 @@
   "id": 186099397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.638363,45.76239,-108.638363,45.76239",
     "geom:latitude":45.76239,
     "geom:longitude":-108.638363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 S 48th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186099397,
-    "wof:lastmodified":1449052119,
+    "wof:lastmodified":1466641783,
     "wof:name":"Prairie View Bible Church",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.638363,45.76239,-108.638363,45.76239],
+  "bbox": [
+    -108.638363,
+    45.76239,
+    -108.638363,
+    45.76239
+],
   "geometry": {"coordinates":[-108.638363,45.76239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186321385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.622086,45.729529,-107.622086,45.729529",
     "geom:latitude":45.729529,
     "geom:longitude":-107.622086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Mitchell Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186321385,
-    "wof:lastmodified":1449050329,
+    "wof:lastmodified":1466642653,
     "wof:name":"Parks Martial Arts Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.622086,45.729529,-107.622086,45.729529],
+  "bbox": [
+    -107.622086,
+    45.729529,
+    -107.622086,
+    45.729529
+],
   "geometry": {"coordinates":[-107.622086,45.729529],"type":"Point"}
 }

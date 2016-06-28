@@ -2,13 +2,14 @@
   "id": 186175711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.333688,48.211917,-114.333688,48.211917",
     "geom:latitude":48.211917,
     "geom:longitude":-114.333688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Northwest Ln",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186175711,
-    "wof:lastmodified":1449052230,
+    "wof:lastmodified":1466642174,
     "wof:name":"Kalispell Junior High School",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.333688,48.211917,-114.333688,48.211917],
+  "bbox": [
+    -114.333688,
+    48.211917,
+    -114.333688,
+    48.211917
+],
   "geometry": {"coordinates":[-114.333688,48.211917],"type":"Point"}
 }

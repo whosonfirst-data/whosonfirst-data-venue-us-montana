@@ -2,13 +2,14 @@
   "id": 185871641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.84338,46.411832,-105.84338,46.411832",
     "geom:latitude":46.411832,
     "geom:longitude":-105.84338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 Leighton Blvd",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185871641,
-    "wof:lastmodified":1449007122,
+    "wof:lastmodified":1466641609,
     "wof:name":"Convent Keepers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.84338,46.411832,-105.84338,46.411832],
+  "bbox": [
+    -105.84338,
+    46.411832,
+    -105.84338,
+    46.411832
+],
   "geometry": {"coordinates":[-105.84338,46.411832],"type":"Point"}
 }

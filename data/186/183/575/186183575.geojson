@@ -2,13 +2,14 @@
   "id": 186183575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.816012,45.854942,-110.816012,45.854942",
     "geom:latitude":45.854942,
     "geom:longitude":-110.816012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13160 Skunk Creek Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186183575,
-    "wof:lastmodified":1449051819,
+    "wof:lastmodified":1466642191,
     "wof:name":"Black Dog Ranch Training Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.816012,45.854942,-110.816012,45.854942],
+  "bbox": [
+    -110.816012,
+    45.854942,
+    -110.816012,
+    45.854942
+],
   "geometry": {"coordinates":[-110.816012,45.854942],"type":"Point"}
 }

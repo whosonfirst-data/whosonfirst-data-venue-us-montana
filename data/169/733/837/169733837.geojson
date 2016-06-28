@@ -2,13 +2,14 @@
   "id": 169733837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.040076,45.679341,-111.040076,45.679341",
     "geom:latitude":45.679341,
     "geom:longitude":-111.040076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Main St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169733837,
-    "wof:lastmodified":1449033148,
+    "wof:lastmodified":1466641171,
     "wof:name":"Cellar 105 Antiques & Gifts",
     "wof:parent_id":85876469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.040076,45.679341,-111.040076,45.679341],
+  "bbox": [
+    -111.040076,
+    45.679341,
+    -111.040076,
+    45.679341
+],
   "geometry": {"coordinates":[-111.040076,45.679341],"type":"Point"}
 }

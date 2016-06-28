@@ -2,13 +2,14 @@
   "id": 169741919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.056439,48.005887,-114.056439,48.005887",
     "geom:latitude":48.005887,
     "geom:longitude":-114.056439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 Sylvan Dr",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169741919,
-    "wof:lastmodified":1449032863,
+    "wof:lastmodified":1466641183,
     "wof:name":"Jest Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-114.056439,48.005887,-114.056439,48.005887],
+  "bbox": [
+    -114.056439,
+    48.005887,
+    -114.056439,
+    48.005887
+],
   "geometry": {"coordinates":[-114.056439,48.005887],"type":"Point"}
 }

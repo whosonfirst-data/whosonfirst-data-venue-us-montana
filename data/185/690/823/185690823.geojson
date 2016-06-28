@@ -2,13 +2,14 @@
   "id": 185690823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.344269,47.503656,-111.344269,47.503656",
     "geom:latitude":47.503656,
     "geom:longitude":-111.344269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 18th St SW",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185690823,
-    "wof:lastmodified":1449007479,
+    "wof:lastmodified":1466641415,
     "wof:name":"Almond Patty Mary Kay Conslt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-111.344269,47.503656,-111.344269,47.503656],
+  "bbox": [
+    -111.344269,
+    47.503656,
+    -111.344269,
+    47.503656
+],
   "geometry": {"coordinates":[-111.344269,47.503656],"type":"Point"}
 }

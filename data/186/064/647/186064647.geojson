@@ -2,13 +2,14 @@
   "id": 186064647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.539183,46.001472,-112.539183,46.001472",
     "geom:latitude":46.001472,
     "geom:longitude":-112.539183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"935 S Montana St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186064647,
-    "wof:lastmodified":1449051337,
+    "wof:lastmodified":1466641854,
     "wof:name":"Nitro Green Professional Lawn",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-112.539183,46.001472,-112.539183,46.001472],
-  "geometry": {"coordinates":[-112.539183,46.001472],"type":"Point"}
+  "bbox": [
+    -112.539183,
+    46.001472,
+    -112.539183,
+    46.001472
+],
+  "geometry": {"coordinates":[-112.53918299999999,46.001472],"type":"Point"}
 }

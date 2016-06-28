@@ -2,13 +2,14 @@
   "id": 185740217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.780308,48.553831,-109.780308,48.553831",
     "geom:latitude":48.553831,
     "geom:longitude":-109.780308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6710 1st St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185740217,
-    "wof:lastmodified":1449007353,
+    "wof:lastmodified":1466641463,
     "wof:name":"Doug Olmstead Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-109.780308,48.553831,-109.780308,48.553831],
-  "geometry": {"coordinates":[-109.780308,48.553831],"type":"Point"}
+  "bbox": [
+    -109.780308,
+    48.553831,
+    -109.780308,
+    48.553831
+],
+  "geometry": {"coordinates":[-109.78030800000001,48.553831],"type":"Point"}
 }

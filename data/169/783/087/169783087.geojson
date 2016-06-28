@@ -2,13 +2,14 @@
   "id": 169783087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.584482,45.741164,-108.584482,45.741164",
     "geom:latitude":45.741164,
     "geom:longitude":-108.584482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6540 S Frontage Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169783087,
-    "wof:lastmodified":1449032794,
+    "wof:lastmodified":1466641241,
     "wof:name":"Hi-Tech Motor Sports Yamaha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "terrain"
     ]
 },
-  "bbox": [-108.584482,45.741164,-108.584482,45.741164],
-  "geometry": {"coordinates":[-108.584482,45.741164],"type":"Point"}
+  "bbox": [
+    -108.584482,
+    45.741164,
+    -108.584482,
+    45.741164
+],
+  "geometry": {"coordinates":[-108.58448199999999,45.741164],"type":"Point"}
 }

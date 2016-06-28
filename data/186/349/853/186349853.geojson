@@ -2,13 +2,14 @@
   "id": 186349853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.994777,45.67174,-110.994777,45.67174",
     "geom:latitude":45.67174,
     "geom:longitude":-110.994777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Shawnee Way",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186349853,
-    "wof:lastmodified":1449051396,
+    "wof:lastmodified":1466642717,
     "wof:name":"Big Sky Racks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gun"
     ]
 },
-  "bbox": [-110.994777,45.67174,-110.994777,45.67174],
+  "bbox": [
+    -110.994777,
+    45.67174,
+    -110.994777,
+    45.67174
+],
   "geometry": {"coordinates":[-110.994777,45.67174],"type":"Point"}
 }

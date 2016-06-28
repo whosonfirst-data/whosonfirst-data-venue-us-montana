@@ -2,13 +2,14 @@
   "id": 186208139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.312176,48.194454,-114.312176,48.194454",
     "geom:latitude":48.194454,
     "geom:longitude":-114.312176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Main St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186208139,
-    "wof:lastmodified":1449050560,
+    "wof:lastmodified":1466642283,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.312176,48.194454,-114.312176,48.194454],
-  "geometry": {"coordinates":[-114.312176,48.194454],"type":"Point"}
+  "bbox": [
+    -114.312176,
+    48.194454,
+    -114.312176,
+    48.194454
+],
+  "geometry": {"coordinates":[-114.31217599999999,48.194454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186455703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.549765,45.668544,-110.549765,45.668544",
     "geom:latitude":45.668544,
     "geom:longitude":-110.549765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E Park St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186455703,
-    "wof:lastmodified":1449052573,
+    "wof:lastmodified":1466643029,
     "wof:name":"K-Park Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-110.549765,45.668544,-110.549765,45.668544],
-  "geometry": {"coordinates":[-110.549765,45.668544],"type":"Point"}
+  "bbox": [
+    -110.549765,
+    45.668544,
+    -110.549765,
+    45.668544
+],
+  "geometry": {"coordinates":[-110.54976499999999,45.668544],"type":"Point"}
 }

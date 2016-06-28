@@ -2,13 +2,14 @@
   "id": 186299029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.545918,45.776926,-108.545918,45.776926",
     "geom:latitude":45.776926,
     "geom:longitude":-108.545918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Broadwater Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186299029,
-    "wof:lastmodified":1449051077,
+    "wof:lastmodified":1466642611,
     "wof:name":"Suds Hut Of Billings",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.545918,45.776926,-108.545918,45.776926],
+  "bbox": [
+    -108.545918,
+    45.776926,
+    -108.545918,
+    45.776926
+],
   "geometry": {"coordinates":[-108.545918,45.776926],"type":"Point"}
 }

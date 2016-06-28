@@ -2,13 +2,14 @@
   "id": 185643011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.551229,46.016826,-112.551229,46.016826",
     "geom:latitude":46.016826,
     "geom:longitude":-112.551229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 W Woolman St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185643011,
-    "wof:lastmodified":1449008004,
+    "wof:lastmodified":1466641767,
     "wof:name":"Butala Construction",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.551229,46.016826,-112.551229,46.016826],
-  "geometry": {"coordinates":[-112.551229,46.016826],"type":"Point"}
+  "bbox": [
+    -112.551229,
+    46.016826,
+    -112.551229,
+    46.016826
+],
+  "geometry": {"coordinates":[-112.55122900000001,46.016826],"type":"Point"}
 }

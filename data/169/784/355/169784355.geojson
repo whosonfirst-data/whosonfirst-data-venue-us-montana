@@ -2,13 +2,14 @@
   "id": 169784355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.159081,48.104381,-114.159081,48.104381",
     "geom:latitude":48.104381,
     "geom:longitude":-114.159081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3802 Lower Valley Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169784355,
-    "wof:lastmodified":1449034894,
+    "wof:lastmodified":1466641242,
     "wof:name":"Cedar Valley Construction",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-114.159081,48.104381,-114.159081,48.104381],
+  "bbox": [
+    -114.159081,
+    48.104381,
+    -114.159081,
+    48.104381
+],
   "geometry": {"coordinates":[-114.159081,48.104381],"type":"Point"}
 }

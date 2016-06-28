@@ -2,13 +2,14 @@
   "id": 185674983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.070472,47.650965,-114.070472,47.650965",
     "geom:latitude":47.650965,
     "geom:longitude":-114.070472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8228 Dubay Rd",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185674983,
-    "wof:lastmodified":1449007806,
+    "wof:lastmodified":1466641400,
     "wof:name":"Larry J Keithcart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "for"
     ]
 },
-  "bbox": [-114.070472,47.650965,-114.070472,47.650965],
+  "bbox": [
+    -114.070472,
+    47.650965,
+    -114.070472,
+    47.650965
+],
   "geometry": {"coordinates":[-114.070472,47.650965],"type":"Point"}
 }

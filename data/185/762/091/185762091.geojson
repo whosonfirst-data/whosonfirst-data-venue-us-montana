@@ -2,13 +2,14 @@
   "id": 185762091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576222,45.783879,-108.576222,45.783879",
     "geom:latitude":45.783879,
     "geom:longitude":-108.576222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185762091,
-    "wof:lastmodified":1449007736,
+    "wof:lastmodified":1466641485,
     "wof:name":"Wardell Michael Dr",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.576222,45.783879,-108.576222,45.783879],
+  "bbox": [
+    -108.576222,
+    45.783879,
+    -108.576222,
+    45.783879
+],
   "geometry": {"coordinates":[-108.576222,45.783879],"type":"Point"}
 }

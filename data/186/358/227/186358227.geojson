@@ -2,13 +2,14 @@
   "id": 186358227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.542553,45.763119,-108.542553,45.763119",
     "geom:latitude":45.763119,
     "geom:longitude":-108.542553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Monad Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186358227,
-    "wof:lastmodified":1449051502,
+    "wof:lastmodified":1466642733,
     "wof:name":"Billings Automotive Center",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "automobile"
     ]
 },
-  "bbox": [-108.542553,45.763119,-108.542553,45.763119],
+  "bbox": [
+    -108.542553,
+    45.763119,
+    -108.542553,
+    45.763119
+],
   "geometry": {"coordinates":[-108.542553,45.763119],"type":"Point"}
 }

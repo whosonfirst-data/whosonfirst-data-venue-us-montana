@@ -2,13 +2,14 @@
   "id": 186214839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.313689,48.198707,-114.313689,48.198707",
     "geom:latitude":48.198707,
     "geom:longitude":-114.313689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Main St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186214839,
-    "wof:lastmodified":1449052952,
+    "wof:lastmodified":1466642376,
     "wof:name":"Kelly Main Street Furniture Co",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [-114.313689,48.198707,-114.313689,48.198707],
+  "bbox": [
+    -114.313689,
+    48.198707,
+    -114.313689,
+    48.198707
+],
   "geometry": {"coordinates":[-114.313689,48.198707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186419095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.289928,47.544235,-114.289928,47.544235",
     "geom:latitude":47.544235,
     "geom:longitude":-114.289928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8110 Horte Ln",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186419095,
-    "wof:lastmodified":1449052985,
+    "wof:lastmodified":1466642818,
     "wof:name":"Jim Hoyt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "truck"
     ]
 },
-  "bbox": [-114.289928,47.544235,-114.289928,47.544235],
+  "bbox": [
+    -114.289928,
+    47.544235,
+    -114.289928,
+    47.544235
+],
   "geometry": {"coordinates":[-114.289928,47.544235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186392309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.703035,48.535729,-109.703035,48.535729",
     "geom:latitude":48.535729,
     "geom:longitude":-109.703035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1437 Wilson Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186392309,
-    "wof:lastmodified":1449052478,
+    "wof:lastmodified":1466642844,
     "wof:name":"Jim Vaughn Salvage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.703035,48.535729,-109.703035,48.535729],
+  "bbox": [
+    -109.703035,
+    48.535729,
+    -109.703035,
+    48.535729
+],
   "geometry": {"coordinates":[-109.703035,48.535729],"type":"Point"}
 }

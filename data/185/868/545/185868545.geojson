@@ -2,13 +2,14 @@
   "id": 185868545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.517916,45.784044,-108.517916,45.784044",
     "geom:latitude":45.784044,
     "geom:longitude":-108.517916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185868545,
-    "wof:lastmodified":1449006646,
+    "wof:lastmodified":1466641605,
     "wof:name":"Frank B Taggart Welding Inc",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-108.517916,45.784044,-108.517916,45.784044],
+  "bbox": [
+    -108.517916,
+    45.784044,
+    -108.517916,
+    45.784044
+],
   "geometry": {"coordinates":[-108.517916,45.784044],"type":"Point"}
 }

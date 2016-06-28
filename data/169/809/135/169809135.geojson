@@ -2,13 +2,14 @@
   "id": 169809135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.195556,48.108276,-105.195556,48.108276",
     "geom:latitude":48.108276,
     "geom:longitude":-105.195556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 1st Ave W",
     "sg:city":"Poplar",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169809135,
-    "wof:lastmodified":1449035370,
+    "wof:lastmodified":1466641272,
     "wof:name":"Focus Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-105.195556,48.108276,-105.195556,48.108276],
+  "bbox": [
+    -105.195556,
+    48.108276,
+    -105.195556,
+    48.108276
+],
   "geometry": {"coordinates":[-105.195556,48.108276],"type":"Point"}
 }

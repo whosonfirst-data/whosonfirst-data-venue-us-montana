@@ -2,13 +2,14 @@
   "id": 185924685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.568083,45.658276,-110.568083,45.658276",
     "geom:latitude":45.658276,
     "geom:longitude":-110.568083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"748 US Hwy 89",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185924685,
-    "wof:lastmodified":1449007054,
+    "wof:lastmodified":1466641672,
     "wof:name":"District 2",
     "wof:parent_id":85867995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transportation"
     ]
 },
-  "bbox": [-110.568083,45.658276,-110.568083,45.658276],
+  "bbox": [
+    -110.568083,
+    45.658276,
+    -110.568083,
+    45.658276
+],
   "geometry": {"coordinates":[-110.568083,45.658276],"type":"Point"}
 }

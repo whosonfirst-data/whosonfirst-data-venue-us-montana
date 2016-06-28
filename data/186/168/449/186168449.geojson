@@ -2,13 +2,14 @@
   "id": 186168449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.52929,46.006944,-112.52929,46.006944",
     "geom:latitude":46.006944,
     "geom:longitude":-112.52929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 S Arizona St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186168449,
-    "wof:lastmodified":1449051775,
+    "wof:lastmodified":1466642151,
     "wof:name":"Quilici Glass",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-112.52929,46.006944,-112.52929,46.006944],
+  "bbox": [
+    -112.52929,
+    46.006944,
+    -112.52929,
+    46.006944
+],
   "geometry": {"coordinates":[-112.52929,46.006944],"type":"Point"}
 }

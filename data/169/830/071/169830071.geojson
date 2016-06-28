@@ -2,13 +2,14 @@
   "id": 169830071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.073962,46.272584,-114.073962,46.272584",
     "geom:latitude":46.272584,
     "geom:longitude":-114.073962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Diamond 3 Rd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169830071,
-    "wof:lastmodified":1449033387,
+    "wof:lastmodified":1466641296,
     "wof:name":"Nationl Assoc Retired Fed Emp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.073962,46.272584,-114.073962,46.272584],
-  "geometry": {"coordinates":[-114.073962,46.272584],"type":"Point"}
+  "bbox": [
+    -114.073962,
+    46.272584,
+    -114.073962,
+    46.272584
+],
+  "geometry": {"coordinates":[-114.07396199999999,46.272584],"type":"Point"}
 }

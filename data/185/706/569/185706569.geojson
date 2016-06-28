@@ -2,13 +2,14 @@
   "id": 185706569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.640814,48.09275,-105.640814,48.09275",
     "geom:latitude":48.09275,
     "geom:longitude":-105.640814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Blaine St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185706569,
-    "wof:lastmodified":1449006719,
+    "wof:lastmodified":1466641432,
     "wof:name":"Pauls Glass & Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-105.640814,48.09275,-105.640814,48.09275],
-  "geometry": {"coordinates":[-105.640814,48.09275],"type":"Point"}
+  "bbox": [
+    -105.640814,
+    48.09275,
+    -105.640814,
+    48.09275
+],
+  "geometry": {"coordinates":[-105.64081400000001,48.09275],"type":"Point"}
 }

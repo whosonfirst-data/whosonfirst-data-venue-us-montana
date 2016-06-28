@@ -2,13 +2,14 @@
   "id": 169746223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.161016,46.253061,-114.161016,46.253061",
     "geom:latitude":46.253061,
     "geom:longitude":-114.161016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 N 4th St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169746223,
-    "wof:lastmodified":1449032653,
+    "wof:lastmodified":1466641178,
     "wof:name":"Rall Upholstery & Trim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vinyl"
     ]
 },
-  "bbox": [-114.161016,46.253061,-114.161016,46.253061],
+  "bbox": [
+    -114.161016,
+    46.253061,
+    -114.161016,
+    46.253061
+],
   "geometry": {"coordinates":[-114.161016,46.253061],"type":"Point"}
 }

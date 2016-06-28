@@ -2,13 +2,14 @@
   "id": 186356285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.615226,48.203901,-106.615226,48.203901",
     "geom:latitude":48.203901,
     "geom:longitude":-106.615226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Aberdeen St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186356285,
-    "wof:lastmodified":1449052530,
+    "wof:lastmodified":1466642565,
     "wof:name":"Glasgow High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.615226,48.203901,-106.615226,48.203901],
-  "geometry": {"coordinates":[-106.615226,48.203901],"type":"Point"}
+  "bbox": [
+    -106.615226,
+    48.203901,
+    -106.615226,
+    48.203901
+],
+  "geometry": {"coordinates":[-106.61522600000001,48.203901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169782681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.049568,48.870409,-104.049568,48.870409",
     "geom:latitude":48.870409,
     "geom:longitude":-104.049568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 2nd Ave E",
     "sg:city":"Westby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169782681,
-    "wof:lastmodified":1449032671,
+    "wof:lastmodified":1466641247,
     "wof:name":"Hilltop House Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-104.049568,48.870409,-104.049568,48.870409],
-  "geometry": {"coordinates":[-104.049568,48.870409],"type":"Point"}
+  "bbox": [
+    -104.049568,
+    48.870409,
+    -104.049568,
+    48.870409
+],
+  "geometry": {"coordinates":[-104.04956799999999,48.870409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185730303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.609314,45.734402,-107.609314,45.734402",
     "geom:latitude":45.734402,
     "geom:longitude":-107.609314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 6th St W",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185730303,
-    "wof:lastmodified":1449007978,
+    "wof:lastmodified":1466641453,
     "wof:name":"Shamrock Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-107.609314,45.734402,-107.609314,45.734402],
+  "bbox": [
+    -107.609314,
+    45.734402,
+    -107.609314,
+    45.734402
+],
   "geometry": {"coordinates":[-107.609314,45.734402],"type":"Point"}
 }

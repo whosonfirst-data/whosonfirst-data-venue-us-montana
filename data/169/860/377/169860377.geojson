@@ -2,13 +2,14 @@
   "id": 169860377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.191383,46.989343,-104.191383,46.989343",
     "geom:latitude":46.989343,
     "geom:longitude":-104.191383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 C St N",
     "sg:city":"Baker",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169860377,
-    "wof:lastmodified":1449034139,
+    "wof:lastmodified":1466641348,
     "wof:name":"Blackfoot Cattle Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-104.191383,46.989343,-104.191383,46.989343],
+  "bbox": [
+    -104.191383,
+    46.989343,
+    -104.191383,
+    46.989343
+],
   "geometry": {"coordinates":[-104.191383,46.989343],"type":"Point"}
 }

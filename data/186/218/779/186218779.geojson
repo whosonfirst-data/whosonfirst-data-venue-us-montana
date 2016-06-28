@@ -2,13 +2,14 @@
   "id": 186218779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01273,46.640367,-112.01273,46.640367",
     "geom:latitude":46.640367,
     "geom:longitude":-112.01273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Williamsburg Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186218779,
-    "wof:lastmodified":1449052074,
+    "wof:lastmodified":1466642382,
     "wof:name":"Jim Schultz Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.01273,46.640367,-112.01273,46.640367],
+  "bbox": [
+    -112.01273,
+    46.640367,
+    -112.01273,
+    46.640367
+],
   "geometry": {"coordinates":[-112.01273,46.640367],"type":"Point"}
 }

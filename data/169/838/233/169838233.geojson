@@ -2,13 +2,14 @@
   "id": 169838233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.520304,45.778059,-108.520304,45.778059",
     "geom:latitude":45.778059,
     "geom:longitude":-108.520304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Wyoming Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169838233,
-    "wof:lastmodified":1449033084,
+    "wof:lastmodified":1466641307,
     "wof:name":"Specialized Carpet Cleaning",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-108.520304,45.778059,-108.520304,45.778059],
+  "bbox": [
+    -108.520304,
+    45.778059,
+    -108.520304,
+    45.778059
+],
   "geometry": {"coordinates":[-108.520304,45.778059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186349241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.711456,47.108481,-104.711456,47.108481",
     "geom:latitude":47.108481,
     "geom:longitude":-104.711456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Kendrick Ave",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186349241,
-    "wof:lastmodified":1449051401,
+    "wof:lastmodified":1466642716,
     "wof:name":"Hedahls Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-104.711456,47.108481,-104.711456,47.108481],
+  "bbox": [
+    -104.711456,
+    47.108481,
+    -104.711456,
+    47.108481
+],
   "geometry": {"coordinates":[-104.711456,47.108481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185910377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.15038,46.244476,-114.15038,46.244476",
     "geom:latitude":46.244476,
     "geom:longitude":-114.15038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Daly Ave",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185910377,
-    "wof:lastmodified":1449007271,
+    "wof:lastmodified":1466641650,
     "wof:name":"John's TV & Electronic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "radio"
     ]
 },
-  "bbox": [-114.15038,46.244476,-114.15038,46.244476],
+  "bbox": [
+    -114.15038,
+    46.244476,
+    -114.15038,
+    46.244476
+],
   "geometry": {"coordinates":[-114.15038,46.244476],"type":"Point"}
 }

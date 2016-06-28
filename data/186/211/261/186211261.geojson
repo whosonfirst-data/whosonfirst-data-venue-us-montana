@@ -2,13 +2,14 @@
   "id": 186211261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.878209,47.456141,-114.878209,47.456141",
     "geom:latitude":47.456141,
     "geom:longitude":-114.878209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 E Railroad Ave",
     "sg:city":"Plains",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186211261,
-    "wof:lastmodified":1449051050,
+    "wof:lastmodified":1466642364,
     "wof:name":"Plains Auto Parts Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-114.878209,47.456141,-114.878209,47.456141],
+  "bbox": [
+    -114.878209,
+    47.456141,
+    -114.878209,
+    47.456141
+],
   "geometry": {"coordinates":[-114.878209,47.456141],"type":"Point"}
 }

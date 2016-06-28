@@ -2,13 +2,14 @@
   "id": 186427559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.662839,45.305574,-112.662839,45.305574",
     "geom:latitude":45.305574,
     "geom:longitude":-112.662839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2135 Bond Rd",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186427559,
-    "wof:lastmodified":1449051186,
+    "wof:lastmodified":1466642922,
     "wof:name":"Prairie Home Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.662839,45.305574,-112.662839,45.305574],
-  "geometry": {"coordinates":[-112.662839,45.305574],"type":"Point"}
+  "bbox": [
+    -112.662839,
+    45.305574,
+    -112.662839,
+    45.305574
+],
+  "geometry": {"coordinates":[-112.66283900000001,45.305574],"type":"Point"}
 }

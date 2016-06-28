@@ -2,13 +2,14 @@
   "id": 186430425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.502753,45.998484,-112.502753,45.998484",
     "geom:latitude":45.998484,
     "geom:longitude":-112.502753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Farragut Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186430425,
-    "wof:lastmodified":1449052089,
+    "wof:lastmodified":1466642942,
     "wof:name":"Healthy Times Licensed Day",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.502753,45.998484,-112.502753,45.998484],
+  "bbox": [
+    -112.502753,
+    45.998484,
+    -112.502753,
+    45.998484
+],
   "geometry": {"coordinates":[-112.502753,45.998484],"type":"Point"}
 }

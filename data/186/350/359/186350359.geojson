@@ -2,13 +2,14 @@
   "id": 186350359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.539119,45.996229,-112.539119,45.996229",
     "geom:latitude":45.996229,
     "geom:longitude":-112.539119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 S Montana St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186350359,
-    "wof:lastmodified":1449051732,
+    "wof:lastmodified":1466642717,
     "wof:name":"Winter Garden Bowling Ctr",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-112.539119,45.996229,-112.539119,45.996229],
+  "bbox": [
+    -112.539119,
+    45.996229,
+    -112.539119,
+    45.996229
+],
   "geometry": {"coordinates":[-112.539119,45.996229],"type":"Point"}
 }

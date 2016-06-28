@@ -2,13 +2,14 @@
   "id": 186018437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.514357,45.925328,-112.514357,45.925328",
     "geom:latitude":45.925328,
     "geom:longitude":-112.514357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Parkmont",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186018437,
-    "wof:lastmodified":1449051715,
+    "wof:lastmodified":1466641428,
     "wof:name":"Montana Tech Research Dept",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.514357,45.925328,-112.514357,45.925328],
+  "bbox": [
+    -112.514357,
+    45.925328,
+    -112.514357,
+    45.925328
+],
   "geometry": {"coordinates":[-112.514357,45.925328],"type":"Point"}
 }

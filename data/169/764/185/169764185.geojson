@@ -2,13 +2,14 @@
   "id": 169764185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.07233,48.199937,-114.07233,48.199937",
     "geom:latitude":48.199937,
     "geom:longitude":-114.07233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 Foothill Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169764185,
-    "wof:lastmodified":1449035803,
+    "wof:lastmodified":1466641203,
     "wof:name":"Many Stars Collectibles",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "collectible"
     ]
 },
-  "bbox": [-114.07233,48.199937,-114.07233,48.199937],
-  "geometry": {"coordinates":[-114.07233,48.199937],"type":"Point"}
+  "bbox": [
+    -114.07233,
+    48.199937,
+    -114.07233,
+    48.199937
+],
+  "geometry": {"coordinates":[-114.07232999999999,48.199937],"type":"Point"}
 }

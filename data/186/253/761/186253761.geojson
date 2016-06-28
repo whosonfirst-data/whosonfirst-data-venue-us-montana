@@ -2,13 +2,14 @@
   "id": 186253761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.1033,48.070028,-114.1033,48.070028",
     "geom:latitude":48.070028,
     "geom:longitude":-114.1033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Bartlett Ln",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186253761,
-    "wof:lastmodified":1449052683,
+    "wof:lastmodified":1466642537,
     "wof:name":"Keller Ray J Ltd Family Partnr",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-114.1033,48.070028,-114.1033,48.070028],
+  "bbox": [
+    -114.1033,
+    48.070028,
+    -114.1033,
+    48.070028
+],
   "geometry": {"coordinates":[-114.1033,48.070028],"type":"Point"}
 }

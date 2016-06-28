@@ -2,13 +2,14 @@
   "id": 185626849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.214909,45.478566,-112.214909,45.478566",
     "geom:latitude":45.478566,
     "geom:longitude":-112.214909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3476 State Hwy 287",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185626849,
-    "wof:lastmodified":1449008208,
+    "wof:lastmodified":1466641313,
     "wof:name":"John A Knadler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-112.214909,45.478566,-112.214909,45.478566],
-  "geometry": {"coordinates":[-112.214909,45.478566],"type":"Point"}
+  "bbox": [
+    -112.214909,
+    45.478566,
+    -112.214909,
+    45.478566
+],
+  "geometry": {"coordinates":[-112.21490900000001,45.478566],"type":"Point"}
 }

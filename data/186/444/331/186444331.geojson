@@ -2,13 +2,14 @@
   "id": 186444331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.605866,45.732441,-107.605866,45.732441",
     "geom:latitude":45.732441,
     "geom:longitude":-107.605866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 N Center Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186444331,
-    "wof:lastmodified":1449052652,
+    "wof:lastmodified":1466642865,
     "wof:name":"Shear Happenings Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-107.605866,45.732441,-107.605866,45.732441],
-  "geometry": {"coordinates":[-107.605866,45.732441],"type":"Point"}
+  "bbox": [
+    -107.605866,
+    45.732441,
+    -107.605866,
+    45.732441
+],
+  "geometry": {"coordinates":[-107.60586600000001,45.732441],"type":"Point"}
 }

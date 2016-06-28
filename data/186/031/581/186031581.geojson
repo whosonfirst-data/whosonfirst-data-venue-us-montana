@@ -2,13 +2,14 @@
   "id": 186031581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.547805,48.356435,-115.547805,48.356435",
     "geom:latitude":48.356435,
     "geom:longitude":-115.547805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Hogan Dr",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186031581,
-    "wof:lastmodified":1449051376,
+    "wof:lastmodified":1466641639,
     "wof:name":"Igniters Car Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-115.547805,48.356435,-115.547805,48.356435],
+  "bbox": [
+    -115.547805,
+    48.356435,
+    -115.547805,
+    48.356435
+],
   "geometry": {"coordinates":[-115.547805,48.356435],"type":"Point"}
 }

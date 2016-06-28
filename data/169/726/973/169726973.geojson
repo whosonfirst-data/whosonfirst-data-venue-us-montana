@@ -2,13 +2,14 @@
   "id": 169726973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.269546,47.496352,-111.269546,47.496352",
     "geom:latitude":47.496352,
     "geom:longitude":-111.269546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 22nd St S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169726973,
-    "wof:lastmodified":1449034955,
+    "wof:lastmodified":1466641161,
     "wof:name":"Leonard Betts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-111.269546,47.496352,-111.269546,47.496352],
-  "geometry": {"coordinates":[-111.269546,47.496352],"type":"Point"}
+  "bbox": [
+    -111.269546,
+    47.496352,
+    -111.269546,
+    47.496352
+],
+  "geometry": {"coordinates":[-111.26954600000001,47.496352],"type":"Point"}
 }

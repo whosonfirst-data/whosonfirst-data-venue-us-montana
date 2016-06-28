@@ -2,13 +2,14 @@
   "id": 185740077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.504639,45.781252,-108.504639,45.781252",
     "geom:latitude":45.781252,
     "geom:longitude":-108.504639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2718 Montana Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185740077,
-    "wof:lastmodified":1449007350,
+    "wof:lastmodified":1466641461,
     "wof:name":"Continental Information Prcsrs",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-108.504639,45.781252,-108.504639,45.781252],
+  "bbox": [
+    -108.504639,
+    45.781252,
+    -108.504639,
+    45.781252
+],
   "geometry": {"coordinates":[-108.504639,45.781252],"type":"Point"}
 }

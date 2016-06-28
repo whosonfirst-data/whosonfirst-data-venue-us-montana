@@ -2,13 +2,14 @@
   "id": 185939639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.0402,46.589343,-112.0402,46.589343",
     "geom:latitude":46.589343,
     "geom:longitude":-112.0402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Park Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185939639,
-    "wof:lastmodified":1449007088,
+    "wof:lastmodified":1466641694,
     "wof:name":"Maximus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-112.0402,46.589343,-112.0402,46.589343],
+  "bbox": [
+    -112.0402,
+    46.589343,
+    -112.0402,
+    46.589343
+],
   "geometry": {"coordinates":[-112.0402,46.589343],"type":"Point"}
 }

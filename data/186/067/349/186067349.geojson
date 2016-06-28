@@ -2,13 +2,14 @@
   "id": 186067349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.136585,47.692861,-114.136585,47.692861",
     "geom:latitude":47.692861,
     "geom:longitude":-114.136585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 US Hwy 93",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186067349,
-    "wof:lastmodified":1449050429,
+    "wof:lastmodified":1466641859,
     "wof:name":"Mitchell House Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-114.136585,47.692861,-114.136585,47.692861],
+  "bbox": [
+    -114.136585,
+    47.692861,
+    -114.136585,
+    47.692861
+],
   "geometry": {"coordinates":[-114.136585,47.692861],"type":"Point"}
 }

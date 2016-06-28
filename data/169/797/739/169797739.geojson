@@ -2,13 +2,14 @@
   "id": 169797739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.910382,46.622006,-111.910382,46.622006",
     "geom:latitude":46.622006,
     "geom:longitude":-111.910382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3390 Whiterock Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169797739,
-    "wof:lastmodified":1449035629,
+    "wof:lastmodified":1466641263,
     "wof:name":"Conroy TV & Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.910382,46.622006,-111.910382,46.622006],
+  "bbox": [
+    -111.910382,
+    46.622006,
+    -111.910382,
+    46.622006
+],
   "geometry": {"coordinates":[-111.910382,46.622006],"type":"Point"}
 }

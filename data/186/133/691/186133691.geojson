@@ -2,13 +2,14 @@
   "id": 186133691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.583088,45.741898,-108.583088,45.741898",
     "geom:latitude":45.741898,
     "geom:longitude":-108.583088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6602 S Frontage Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":186133691,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466642246,
     "wof:name":"Jerrie Lynn Nelson Rd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.583088,45.741898,-108.583088,45.741898],
+  "bbox": [
+    -108.583088,
+    45.741898,
+    -108.583088,
+    45.741898
+],
   "geometry": {"coordinates":[-108.583088,45.741898],"type":"Point"}
 }

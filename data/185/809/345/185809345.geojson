@@ -2,13 +2,14 @@
   "id": 185809345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.498403,45.794411,-108.498403,45.794411",
     "geom:latitude":45.794411,
     "geom:longitude":-108.498403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 8th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185809345,
-    "wof:lastmodified":1449007941,
+    "wof:lastmodified":1466641542,
     "wof:name":"Kreisers Inc",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-108.498403,45.794411,-108.498403,45.794411],
+  "bbox": [
+    -108.498403,
+    45.794411,
+    -108.498403,
+    45.794411
+],
   "geometry": {"coordinates":[-108.498403,45.794411],"type":"Point"}
 }

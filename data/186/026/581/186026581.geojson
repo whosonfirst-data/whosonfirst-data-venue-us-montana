@@ -2,13 +2,14 @@
   "id": 186026581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.192268,45.648607,-111.192268,45.648607",
     "geom:latitude":45.648607,
     "geom:longitude":-111.192268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80085 Gallatin Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186026581,
-    "wof:lastmodified":1449051950,
+    "wof:lastmodified":1466641559,
     "wof:name":"Huft Custom Leather",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.192268,45.648607,-111.192268,45.648607],
+  "bbox": [
+    -111.192268,
+    45.648607,
+    -111.192268,
+    45.648607
+],
   "geometry": {"coordinates":[-111.192268,45.648607],"type":"Point"}
 }

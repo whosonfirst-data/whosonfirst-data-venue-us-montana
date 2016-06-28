@@ -2,13 +2,14 @@
   "id": 186081061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.993671,46.575587,-111.993671,46.575587",
     "geom:latitude":46.575587,
     "geom:longitude":-111.993671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Tower St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186081061,
-    "wof:lastmodified":1449051214,
+    "wof:lastmodified":1466641891,
     "wof:name":"Montana Auto Restaurant Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-111.993671,46.575587,-111.993671,46.575587],
-  "geometry": {"coordinates":[-111.993671,46.575587],"type":"Point"}
+  "bbox": [
+    -111.993671,
+    46.575587,
+    -111.993671,
+    46.575587
+],
+  "geometry": {"coordinates":[-111.99367100000001,46.575587],"type":"Point"}
 }

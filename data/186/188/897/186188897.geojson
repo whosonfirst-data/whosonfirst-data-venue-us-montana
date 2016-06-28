@@ -2,13 +2,14 @@
   "id": 186188897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.332525,48.636022,-112.332525,48.636022",
     "geom:latitude":48.636022,
     "geom:longitude":-112.332525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 S Central Ave",
     "sg:city":"Cut Bank",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186188897,
-    "wof:lastmodified":1449051711,
+    "wof:lastmodified":1466642062,
     "wof:name":"Mark Olson Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.332525,48.636022,-112.332525,48.636022],
+  "bbox": [
+    -112.332525,
+    48.636022,
+    -112.332525,
+    48.636022
+],
   "geometry": {"coordinates":[-112.332525,48.636022],"type":"Point"}
 }

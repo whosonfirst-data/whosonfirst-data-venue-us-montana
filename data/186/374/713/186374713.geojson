@@ -2,13 +2,14 @@
   "id": 186374713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.433431,47.067948,-109.433431,47.067948",
     "geom:latitude":47.067948,
     "geom:longitude":-109.433431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 5th Ave N",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186374713,
-    "wof:lastmodified":1449051538,
+    "wof:lastmodified":1466642599,
     "wof:name":"Elton E Owens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-109.433431,47.067948,-109.433431,47.067948],
+  "bbox": [
+    -109.433431,
+    47.067948,
+    -109.433431,
+    47.067948
+],
   "geometry": {"coordinates":[-109.433431,47.067948],"type":"Point"}
 }

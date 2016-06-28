@@ -2,13 +2,14 @@
   "id": 186410275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.597575,45.758474,-108.597575,45.758474",
     "geom:latitude":45.758474,
     "geom:longitude":-108.597575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Chokecherry Pl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":186410275,
-    "wof:lastmodified":1449050293,
+    "wof:lastmodified":1466642777,
     "wof:name":"Localfund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "software"
     ]
 },
-  "bbox": [-108.597575,45.758474,-108.597575,45.758474],
-  "geometry": {"coordinates":[-108.597575,45.758474],"type":"Point"}
+  "bbox": [
+    -108.597575,
+    45.758474,
+    -108.597575,
+    45.758474
+],
+  "geometry": {"coordinates":[-108.59757500000001,45.758474],"type":"Point"}
 }

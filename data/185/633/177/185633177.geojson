@@ -2,13 +2,14 @@
   "id": 185633177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.155904,47.536345,-114.155904,47.536345",
     "geom:latitude":47.536345,
     "geom:longitude":-114.155904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Leighton Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185633177,
-    "wof:lastmodified":1449008187,
+    "wof:lastmodified":1466641329,
     "wof:name":"Fred Weible Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.155904,47.536345,-114.155904,47.536345],
-  "geometry": {"coordinates":[-114.155904,47.536345],"type":"Point"}
+  "bbox": [
+    -114.155904,
+    47.536345,
+    -114.155904,
+    47.536345
+],
+  "geometry": {"coordinates":[-114.15590400000001,47.536345],"type":"Point"}
 }

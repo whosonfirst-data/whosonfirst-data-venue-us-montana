@@ -2,13 +2,14 @@
   "id": 169699579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.023233,46.848937,-114.023233,46.848937",
     "geom:latitude":46.848937,
     "geom:longitude":-114.023233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1748 South Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169699579,
-    "wof:lastmodified":1449033138,
+    "wof:lastmodified":1466641150,
     "wof:name":"Stafford Home Fitness",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [-114.023233,46.848937,-114.023233,46.848937],
+  "bbox": [
+    -114.023233,
+    46.848937,
+    -114.023233,
+    46.848937
+],
   "geometry": {"coordinates":[-114.023233,46.848937],"type":"Point"}
 }

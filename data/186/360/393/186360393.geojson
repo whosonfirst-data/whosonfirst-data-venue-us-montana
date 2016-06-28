@@ -2,13 +2,14 @@
   "id": 186360393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.782011,45.669153,-108.782011,45.669153",
     "geom:latitude":45.669153,
     "geom:longitude":-108.782011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 8th Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186360393,
-    "wof:lastmodified":1449052389,
+    "wof:lastmodified":1466642585,
     "wof:name":"Starlite Roller Rink",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-108.782011,45.669153,-108.782011,45.669153],
+  "bbox": [
+    -108.782011,
+    45.669153,
+    -108.782011,
+    45.669153
+],
   "geometry": {"coordinates":[-108.782011,45.669153],"type":"Point"}
 }

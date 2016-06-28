@@ -2,13 +2,14 @@
   "id": 169773825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.198052,46.24879,-114.198052,46.24879",
     "geom:latitude":46.24879,
     "geom:longitude":-114.198052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Canyon Creek Dr",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169773825,
-    "wof:lastmodified":1449033101,
+    "wof:lastmodified":1466641229,
     "wof:name":"Access Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.198052,46.24879,-114.198052,46.24879],
+  "bbox": [
+    -114.198052,
+    46.24879,
+    -114.198052,
+    46.24879
+],
   "geometry": {"coordinates":[-114.198052,46.24879],"type":"Point"}
 }

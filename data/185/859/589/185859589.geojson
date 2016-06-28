@@ -2,13 +2,14 @@
   "id": 185859589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.50841,45.806948,-108.50841,45.806948",
     "geom:latitude":45.806948,
     "geom:longitude":-108.50841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Pinon Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185859589,
-    "wof:lastmodified":1449007745,
+    "wof:lastmodified":1466641595,
     "wof:name":"Mc Devitt Associates Inc",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-108.50841,45.806948,-108.50841,45.806948],
+  "bbox": [
+    -108.50841,
+    45.806948,
+    -108.50841,
+    45.806948
+],
   "geometry": {"coordinates":[-108.50841,45.806948],"type":"Point"}
 }

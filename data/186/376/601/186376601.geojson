@@ -2,13 +2,14 @@
   "id": 186376601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.811048,47.505331,-111.811048,47.505331",
     "geom:latitude":47.505331,
     "geom:longitude":-111.811048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 3a St NE",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186376601,
-    "wof:lastmodified":1449051308,
+    "wof:lastmodified":1466642885,
     "wof:name":"Human Growth Center The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-111.811048,47.505331,-111.811048,47.505331],
+  "bbox": [
+    -111.811048,
+    47.505331,
+    -111.811048,
+    47.505331
+],
   "geometry": {"coordinates":[-111.811048,47.505331],"type":"Point"}
 }

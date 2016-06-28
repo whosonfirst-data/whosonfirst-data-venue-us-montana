@@ -2,13 +2,14 @@
   "id": 185693083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.038891,45.699996,-111.038891,45.699996",
     "geom:latitude":45.699996,
     "geom:longitude":-111.038891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Evergreen Dr",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185693083,
-    "wof:lastmodified":1449006683,
+    "wof:lastmodified":1466641771,
     "wof:name":"S G M Biotech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-111.038891,45.699996,-111.038891,45.699996],
-  "geometry": {"coordinates":[-111.038891,45.699996],"type":"Point"}
+  "bbox": [
+    -111.038891,
+    45.699996,
+    -111.038891,
+    45.699996
+],
+  "geometry": {"coordinates":[-111.03889100000001,45.699996],"type":"Point"}
 }

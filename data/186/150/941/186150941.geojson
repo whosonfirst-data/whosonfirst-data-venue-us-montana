@@ -2,13 +2,14 @@
   "id": 186150941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.434764,45.803777,-108.434764,45.803777",
     "geom:latitude":45.803777,
     "geom:longitude":-108.434764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Old Hardin Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186150941,
-    "wof:lastmodified":1449050291,
+    "wof:lastmodified":1466642280,
     "wof:name":"Steiner Leasing",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-108.434764,45.803777,-108.434764,45.803777],
+  "bbox": [
+    -108.434764,
+    45.803777,
+    -108.434764,
+    45.803777
+],
   "geometry": {"coordinates":[-108.434764,45.803777],"type":"Point"}
 }

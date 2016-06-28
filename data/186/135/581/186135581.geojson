@@ -2,13 +2,14 @@
   "id": 186135581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.239142,48.163396,-114.239142,48.163396",
     "geom:latitude":48.163396,
     "geom:longitude":-114.239142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1851 Steel Bridge Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186135581,
-    "wof:lastmodified":1449051404,
+    "wof:lastmodified":1466641940,
     "wof:name":"Tom Saubert Studio",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.239142,48.163396,-114.239142,48.163396],
+  "bbox": [
+    -114.239142,
+    48.163396,
+    -114.239142,
+    48.163396
+],
   "geometry": {"coordinates":[-114.239142,48.163396],"type":"Point"}
 }

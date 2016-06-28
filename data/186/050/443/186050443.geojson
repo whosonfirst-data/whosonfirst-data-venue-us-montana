@@ -2,13 +2,14 @@
   "id": 186050443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.525338,45.768687,-108.525338,45.768687",
     "geom:latitude":45.768687,
     "geom:longitude":-108.525338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Orchard Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186050443,
-    "wof:lastmodified":1449051859,
+    "wof:lastmodified":1466641827,
     "wof:name":"Fisher Auto Body",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-108.525338,45.768687,-108.525338,45.768687],
+  "bbox": [
+    -108.525338,
+    45.768687,
+    -108.525338,
+    45.768687
+],
   "geometry": {"coordinates":[-108.525338,45.768687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186105059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.02703,46.609654,-112.02703,46.609654",
     "geom:latitude":46.609654,
     "geom:longitude":-112.02703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 Cherry Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186105059,
-    "wof:lastmodified":1449051402,
+    "wof:lastmodified":1466641999,
     "wof:name":"Magill & Son Excavating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.02703,46.609654,-112.02703,46.609654],
+  "bbox": [
+    -112.02703,
+    46.609654,
+    -112.02703,
+    46.609654
+],
   "geometry": {"coordinates":[-112.02703,46.609654],"type":"Point"}
 }

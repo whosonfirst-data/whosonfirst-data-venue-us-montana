@@ -2,13 +2,14 @@
   "id": 169822937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.037282,46.894044,-114.037282,46.894044",
     "geom:latitude":46.894044,
     "geom:longitude":-114.037282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 Northern Pacific St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169822937,
-    "wof:lastmodified":1449035863,
+    "wof:lastmodified":1466641297,
     "wof:name":"Costo Optical",
     "wof:parent_id":85891735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.037282,46.894044,-114.037282,46.894044],
+  "bbox": [
+    -114.037282,
+    46.894044,
+    -114.037282,
+    46.894044
+],
   "geometry": {"coordinates":[-114.037282,46.894044],"type":"Point"}
 }

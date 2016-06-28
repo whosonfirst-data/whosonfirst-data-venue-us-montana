@@ -2,13 +2,14 @@
   "id": 186095609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.300155,48.214803,-114.300155,48.214803",
     "geom:latitude":48.214803,
     "geom:longitude":-114.300155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Riverside Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186095609,
-    "wof:lastmodified":1449051730,
+    "wof:lastmodified":1466641955,
     "wof:name":"Lower Valley Mini Storage",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-114.300155,48.214803,-114.300155,48.214803],
+  "bbox": [
+    -114.300155,
+    48.214803,
+    -114.300155,
+    48.214803
+],
   "geometry": {"coordinates":[-114.300155,48.214803],"type":"Point"}
 }

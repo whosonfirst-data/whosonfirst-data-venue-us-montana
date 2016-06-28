@@ -2,13 +2,14 @@
   "id": 169702733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.518955,45.758459,-108.518955,45.758459",
     "geom:latitude":45.758459,
     "geom:longitude":-108.518955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4138 Phillip St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169702733,
-    "wof:lastmodified":1449034338,
+    "wof:lastmodified":1466641157,
     "wof:name":"American Fmly Calition Mont In",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.518955,45.758459,-108.518955,45.758459],
-  "geometry": {"coordinates":[-108.518955,45.758459],"type":"Point"}
+  "bbox": [
+    -108.518955,
+    45.758459,
+    -108.518955,
+    45.758459
+],
+  "geometry": {"coordinates":[-108.51895500000001,45.758459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185705557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.109673,48.077351,-114.109673,48.077351",
     "geom:latitude":48.077351,
     "geom:longitude":-114.109673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"836 Holt Dr",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185705557,
-    "wof:lastmodified":1449008220,
+    "wof:lastmodified":1466641424,
     "wof:name":"Business Advisors Corp",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-114.109673,48.077351,-114.109673,48.077351],
+  "bbox": [
+    -114.109673,
+    48.077351,
+    -114.109673,
+    48.077351
+],
   "geometry": {"coordinates":[-114.109673,48.077351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169822725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.110277,47.544304,-114.110277,47.544304",
     "geom:latitude":47.544304,
     "geom:longitude":-114.110277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Spring Creek Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169822725,
-    "wof:lastmodified":1449035864,
+    "wof:lastmodified":1466641294,
     "wof:name":"Lakes Glacier View Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "certified"
     ]
 },
-  "bbox": [-114.110277,47.544304,-114.110277,47.544304],
+  "bbox": [
+    -114.110277,
+    47.544304,
+    -114.110277,
+    47.544304
+],
   "geometry": {"coordinates":[-114.110277,47.544304],"type":"Point"}
 }

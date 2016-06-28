@@ -2,13 +2,14 @@
   "id": 186156493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.970507,45.669847,-110.970507,45.669847",
     "geom:latitude":45.669847,
     "geom:longitude":-110.970507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10573 Kelly Canyon Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186156493,
-    "wof:lastmodified":1449050942,
+    "wof:lastmodified":1466642282,
     "wof:name":"Alcorn Custom Marble & Granite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-110.970507,45.669847,-110.970507,45.669847],
+  "bbox": [
+    -110.970507,
+    45.669847,
+    -110.970507,
+    45.669847
+],
   "geometry": {"coordinates":[-110.970507,45.669847],"type":"Point"}
 }

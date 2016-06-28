@@ -2,13 +2,14 @@
   "id": 185658807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.508062,45.973818,-112.508062,45.973818",
     "geom:latitude":45.973818,
     "geom:longitude":-112.508062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3547 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185658807,
-    "wof:lastmodified":1449006565,
+    "wof:lastmodified":1466641379,
     "wof:name":"Brooks Hanna Ford",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-112.508062,45.973818,-112.508062,45.973818],
+  "bbox": [
+    -112.508062,
+    45.973818,
+    -112.508062,
+    45.973818
+],
   "geometry": {"coordinates":[-112.508062,45.973818],"type":"Point"}
 }

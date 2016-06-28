@@ -2,13 +2,14 @@
   "id": 186431239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.136626,47.692707,-114.136626,47.692707",
     "geom:latitude":47.692707,
     "geom:longitude":-114.136626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 US Hwy 93",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186431239,
-    "wof:lastmodified":1449050692,
+    "wof:lastmodified":1466642945,
     "wof:name":"Richwines Burgerville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "eating"
     ]
 },
-  "bbox": [-114.136626,47.692707,-114.136626,47.692707],
-  "geometry": {"coordinates":[-114.136626,47.692707],"type":"Point"}
+  "bbox": [
+    -114.136626,
+    47.692707,
+    -114.136626,
+    47.692707
+],
+  "geometry": {"coordinates":[-114.13662600000001,47.692707],"type":"Point"}
 }

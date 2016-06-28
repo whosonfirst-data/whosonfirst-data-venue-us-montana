@@ -2,13 +2,14 @@
   "id": 169798915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.551855,45.665587,-110.551855,45.665587",
     "geom:latitude":45.665587,
     "geom:longitude":-110.551855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S H St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169798915,
-    "wof:lastmodified":1449033303,
+    "wof:lastmodified":1466641266,
     "wof:name":"Coleman Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-110.551855,45.665587,-110.551855,45.665587],
+  "bbox": [
+    -110.551855,
+    45.665587,
+    -110.551855,
+    45.665587
+],
   "geometry": {"coordinates":[-110.551855,45.665587],"type":"Point"}
 }

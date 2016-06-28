@@ -2,13 +2,14 @@
   "id": 185901861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.649663,48.099824,-114.649663,48.099824",
     "geom:latitude":48.099824,
     "geom:longitude":-114.649663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Pleasant Valley Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185901861,
-    "wof:lastmodified":1449007280,
+    "wof:lastmodified":1466641646,
     "wof:name":"Baptist Church First Garbc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.649663,48.099824,-114.649663,48.099824],
+  "bbox": [
+    -114.649663,
+    48.099824,
+    -114.649663,
+    48.099824
+],
   "geometry": {"coordinates":[-114.649663,48.099824],"type":"Point"}
 }

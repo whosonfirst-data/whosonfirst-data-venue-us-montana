@@ -2,13 +2,14 @@
   "id": 169739803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.077153,46.635193,-114.077153,46.635193",
     "geom:latitude":46.635193,
     "geom:longitude":-114.077153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5504 Old US Hwy 93",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169739803,
-    "wof:lastmodified":1449034066,
+    "wof:lastmodified":1466641170,
     "wof:name":"Royal Mountain Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-114.077153,46.635193,-114.077153,46.635193],
+  "bbox": [
+    -114.077153,
+    46.635193,
+    -114.077153,
+    46.635193
+],
   "geometry": {"coordinates":[-114.077153,46.635193],"type":"Point"}
 }

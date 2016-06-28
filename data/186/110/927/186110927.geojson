@@ -2,13 +2,14 @@
   "id": 186110927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.613383,45.73909,-107.613383,45.73909",
     "geom:latitude":45.73909,
     "geom:longitude":-107.613383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 N Mitchell Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186110927,
-    "wof:lastmodified":1449051276,
+    "wof:lastmodified":1466641850,
     "wof:name":"Grandview & Arrowhead MBL Vlg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trailer"
     ]
 },
-  "bbox": [-107.613383,45.73909,-107.613383,45.73909],
+  "bbox": [
+    -107.613383,
+    45.73909,
+    -107.613383,
+    45.73909
+],
   "geometry": {"coordinates":[-107.613383,45.73909],"type":"Point"}
 }

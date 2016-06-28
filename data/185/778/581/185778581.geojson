@@ -2,13 +2,14 @@
   "id": 185778581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.448164,47.514305,-111.448164,47.514305",
     "geom:latitude":47.514305,
     "geom:longitude":-111.448164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"592 McIver Rd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185778581,
-    "wof:lastmodified":1449006615,
+    "wof:lastmodified":1466641506,
     "wof:name":"Wright Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-111.448164,47.514305,-111.448164,47.514305],
-  "geometry": {"coordinates":[-111.448164,47.514305],"type":"Point"}
+  "bbox": [
+    -111.448164,
+    47.514305,
+    -111.448164,
+    47.514305
+],
+  "geometry": {"coordinates":[-111.44816400000001,47.514305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186157481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.03245,46.616479,-112.03245,46.616479",
     "geom:latitude":46.616479,
     "geom:longitude":-112.03245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 W Custer Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186157481,
-    "wof:lastmodified":1449052638,
+    "wof:lastmodified":1466641994,
     "wof:name":"Playtime Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-112.03245,46.616479,-112.03245,46.616479],
+  "bbox": [
+    -112.03245,
+    46.616479,
+    -112.03245,
+    46.616479
+],
   "geometry": {"coordinates":[-112.03245,46.616479],"type":"Point"}
 }

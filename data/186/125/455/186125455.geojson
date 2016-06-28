@@ -2,13 +2,14 @@
   "id": 186125455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.5778,45.712067,-108.5778,45.712067",
     "geom:latitude":45.712067,
     "geom:longitude":-108.5778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6815 Jellison Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186125455,
-    "wof:lastmodified":1449052946,
+    "wof:lastmodified":1466642084,
     "wof:name":"Dolph Co LLC",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.5778,45.712067,-108.5778,45.712067],
+  "bbox": [
+    -108.5778,
+    45.712067,
+    -108.5778,
+    45.712067
+],
   "geometry": {"coordinates":[-108.5778,45.712067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186018523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.513785,45.779437,-108.513785,45.779437",
     "geom:latitude":45.779437,
     "geom:longitude":-108.513785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3316 2nd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186018523,
-    "wof:lastmodified":1449051714,
+    "wof:lastmodified":1466641430,
     "wof:name":"Professnal Nrsing Prsnnel Pool",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.513785,45.779437,-108.513785,45.779437],
+  "bbox": [
+    -108.513785,
+    45.779437,
+    -108.513785,
+    45.779437
+],
   "geometry": {"coordinates":[-108.513785,45.779437],"type":"Point"}
 }

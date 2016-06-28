@@ -2,13 +2,14 @@
   "id": 169796651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.629238,45.78763,-108.629238,45.78763",
     "geom:latitude":45.78763,
     "geom:longitude":-108.629238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1727 Lenhardt Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169796651,
-    "wof:lastmodified":1449034234,
+    "wof:lastmodified":1466641263,
     "wof:name":"Ardyce M Swain",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "out"
     ]
 },
-  "bbox": [-108.629238,45.78763,-108.629238,45.78763],
+  "bbox": [
+    -108.629238,
+    45.78763,
+    -108.629238,
+    45.78763
+],
   "geometry": {"coordinates":[-108.629238,45.78763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186446607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.335178,48.40508,-114.335178,48.40508",
     "geom:latitude":48.40508,
     "geom:longitude":-114.335178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Spokane Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186446607,
-    "wof:lastmodified":1449052790,
+    "wof:lastmodified":1466643001,
     "wof:name":"Gesek Electric Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.335178,48.40508,-114.335178,48.40508],
+  "bbox": [
+    -114.335178,
+    48.40508,
+    -114.335178,
+    48.40508
+],
   "geometry": {"coordinates":[-114.335178,48.40508],"type":"Point"}
 }

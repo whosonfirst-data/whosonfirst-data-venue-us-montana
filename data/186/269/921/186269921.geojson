@@ -2,13 +2,14 @@
   "id": 186269921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.035423,46.595547,-112.035423,46.595547",
     "geom:latitude":46.595547,
     "geom:longitude":-112.035423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 W 14th St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186269921,
-    "wof:lastmodified":1449052054,
+    "wof:lastmodified":1466642727,
     "wof:name":"Ahmann Rick Broker/Owner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.035423,46.595547,-112.035423,46.595547],
-  "geometry": {"coordinates":[-112.035423,46.595547],"type":"Point"}
+  "bbox": [
+    -112.035423,
+    46.595547,
+    -112.035423,
+    46.595547
+],
+  "geometry": {"coordinates":[-112.03542299999999,46.595547],"type":"Point"}
 }

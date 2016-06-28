@@ -2,13 +2,14 @@
   "id": 186364895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.513825,45.779324,-108.513825,45.779324",
     "geom:latitude":45.779324,
     "geom:longitude":-108.513825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 N 34th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186364895,
-    "wof:lastmodified":1449051888,
+    "wof:lastmodified":1466642777,
     "wof:name":"Omega Painting",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wallpaper"
     ]
 },
-  "bbox": [-108.513825,45.779324,-108.513825,45.779324],
+  "bbox": [
+    -108.513825,
+    45.779324,
+    -108.513825,
+    45.779324
+],
   "geometry": {"coordinates":[-108.513825,45.779324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185680383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.419418,45.804477,-108.419418,45.804477",
     "geom:latitude":45.804477,
     "geom:longitude":-108.419418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 Sterling St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185680383,
-    "wof:lastmodified":1449007723,
+    "wof:lastmodified":1466641398,
     "wof:name":"Oncology Nursing Society",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-108.419418,45.804477,-108.419418,45.804477],
-  "geometry": {"coordinates":[-108.419418,45.804477],"type":"Point"}
+  "bbox": [
+    -108.419418,
+    45.804477,
+    -108.419418,
+    45.804477
+],
+  "geometry": {"coordinates":[-108.41941799999999,45.804477],"type":"Point"}
 }

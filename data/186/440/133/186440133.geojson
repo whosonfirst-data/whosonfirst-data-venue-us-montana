@@ -2,13 +2,14 @@
   "id": 186440133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.305983,48.183233,-114.305983,48.183233",
     "geom:latitude":48.183233,
     "geom:longitude":-114.305983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 US Hwy 93 S",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186440133,
-    "wof:lastmodified":1449051347,
+    "wof:lastmodified":1466642863,
     "wof:name":"Blimpie",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-114.305983,48.183233,-114.305983,48.183233],
+  "bbox": [
+    -114.305983,
+    48.183233,
+    -114.305983,
+    48.183233
+],
   "geometry": {"coordinates":[-114.305983,48.183233],"type":"Point"}
 }

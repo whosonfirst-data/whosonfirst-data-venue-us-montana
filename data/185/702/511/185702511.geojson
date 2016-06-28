@@ -2,13 +2,14 @@
   "id": 185702511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.474897,45.827396,-108.474897,45.827396",
     "geom:latitude":45.827396,
     "geom:longitude":-108.474897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Wicks Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185702511,
-    "wof:lastmodified":1449007430,
+    "wof:lastmodified":1466641424,
     "wof:name":"Tom Crawford Insurance",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.474897,45.827396,-108.474897,45.827396],
+  "bbox": [
+    -108.474897,
+    45.827396,
+    -108.474897,
+    45.827396
+],
   "geometry": {"coordinates":[-108.474897,45.827396],"type":"Point"}
 }

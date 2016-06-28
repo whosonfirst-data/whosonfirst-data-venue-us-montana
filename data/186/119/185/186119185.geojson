@@ -2,13 +2,14 @@
   "id": 186119185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.3316,48.637001,-112.3316,48.637001",
     "geom:latitude":48.637001,
     "geom:longitude":-112.3316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 W Railroad St",
     "sg:city":"Cut Bank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186119185,
-    "wof:lastmodified":1449052276,
+    "wof:lastmodified":1466642059,
     "wof:name":"Northern Chrysler Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-112.3316,48.637001,-112.3316,48.637001],
-  "geometry": {"coordinates":[-112.3316,48.637001],"type":"Point"}
+  "bbox": [
+    -112.3316,
+    48.637001,
+    -112.3316,
+    48.637001
+],
+  "geometry": {"coordinates":[-112.33159999999999,48.637001],"type":"Point"}
 }

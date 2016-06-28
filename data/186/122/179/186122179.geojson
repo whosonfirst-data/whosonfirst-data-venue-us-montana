@@ -2,13 +2,14 @@
   "id": 186122179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.879866,45.615118,-108.879866,45.615118",
     "geom:latitude":45.615118,
     "geom:longitude":-108.879866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 River Rock Dr",
     "sg:city":"Park City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186122179,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466642072,
     "wof:name":"Robbie Cattle Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.879866,45.615118,-108.879866,45.615118],
-  "geometry": {"coordinates":[-108.879866,45.615118],"type":"Point"}
+  "bbox": [
+    -108.879866,
+    45.615118,
+    -108.879866,
+    45.615118
+],
+  "geometry": {"coordinates":[-108.87986600000001,45.615118],"type":"Point"}
 }

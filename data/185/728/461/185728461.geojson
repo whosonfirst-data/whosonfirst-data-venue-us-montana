@@ -2,13 +2,14 @@
   "id": 185728461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.546437,46.446924,-108.546437,46.446924",
     "geom:latitude":46.446924,
     "geom:longitude":-108.546437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 3rd St W",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185728461,
-    "wof:lastmodified":1449006986,
+    "wof:lastmodified":1466641452,
     "wof:name":"Fine Line Pest Weed Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painting"
     ]
 },
-  "bbox": [-108.546437,46.446924,-108.546437,46.446924],
+  "bbox": [
+    -108.546437,
+    46.446924,
+    -108.546437,
+    46.446924
+],
   "geometry": {"coordinates":[-108.546437,46.446924],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169736887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.960326,46.136045,-112.960326,46.136045",
     "geom:latitude":46.136045,
     "geom:longitude":-112.960326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Washoe Park Rd",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169736887,
-    "wof:lastmodified":1449035932,
+    "wof:lastmodified":1466641171,
     "wof:name":"Angs Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-112.960326,46.136045,-112.960326,46.136045],
-  "geometry": {"coordinates":[-112.960326,46.136045],"type":"Point"}
+  "bbox": [
+    -112.960326,
+    46.136045,
+    -112.960326,
+    46.136045
+],
+  "geometry": {"coordinates":[-112.96032599999999,46.136045],"type":"Point"}
 }

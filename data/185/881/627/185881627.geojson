@@ -2,13 +2,14 @@
   "id": 185881627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.286869,47.505226,-111.286869,47.505226",
     "geom:latitude":47.505226,
     "geom:longitude":-111.286869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Central Ave",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185881627,
-    "wof:lastmodified":1449007546,
+    "wof:lastmodified":1466641617,
     "wof:name":"Ice Cream Factory & Good Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-111.286869,47.505226,-111.286869,47.505226],
+  "bbox": [
+    -111.286869,
+    47.505226,
+    -111.286869,
+    47.505226
+],
   "geometry": {"coordinates":[-111.286869,47.505226],"type":"Point"}
 }

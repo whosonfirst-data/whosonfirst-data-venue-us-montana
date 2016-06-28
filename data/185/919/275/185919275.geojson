@@ -2,13 +2,14 @@
   "id": 185919275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.910941,46.622079,-111.910941,46.622079",
     "geom:latitude":46.622079,
     "geom:longitude":-111.910941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3380 Whiterock Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185919275,
-    "wof:lastmodified":1449007831,
+    "wof:lastmodified":1466641663,
     "wof:name":"Helena Appliance Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-111.910941,46.622079,-111.910941,46.622079],
-  "geometry": {"coordinates":[-111.910941,46.622079],"type":"Point"}
+  "bbox": [
+    -111.910941,
+    46.622079,
+    -111.910941,
+    46.622079
+],
+  "geometry": {"coordinates":[-111.91094099999999,46.622079],"type":"Point"}
 }

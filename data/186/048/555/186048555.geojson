@@ -2,13 +2,14 @@
   "id": 186048555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.551136,45.673917,-110.551136,45.673917",
     "geom:latitude":45.673917,
     "geom:longitude":-110.551136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 E Montana St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186048555,
-    "wof:lastmodified":1449051332,
+    "wof:lastmodified":1466641817,
     "wof:name":"Bosley Apartments",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-110.551136,45.673917,-110.551136,45.673917],
+  "bbox": [
+    -110.551136,
+    45.673917,
+    -110.551136,
+    45.673917
+],
   "geometry": {"coordinates":[-110.551136,45.673917],"type":"Point"}
 }

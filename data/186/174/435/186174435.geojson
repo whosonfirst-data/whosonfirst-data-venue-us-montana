@@ -2,13 +2,14 @@
   "id": 186174435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.091181,47.304482,-115.091181,47.304482",
     "geom:latitude":47.304482,
     "geom:longitude":-115.091181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 State Hwy 135",
     "sg:city":"Saint Regis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186174435,
-    "wof:lastmodified":1449050719,
+    "wof:lastmodified":1466642010,
     "wof:name":"St Regis Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-115.091181,47.304482,-115.091181,47.304482],
-  "geometry": {"coordinates":[-115.091181,47.304482],"type":"Point"}
+  "bbox": [
+    -115.091181,
+    47.304482,
+    -115.091181,
+    47.304482
+],
+  "geometry": {"coordinates":[-115.09118100000001,47.304482],"type":"Point"}
 }

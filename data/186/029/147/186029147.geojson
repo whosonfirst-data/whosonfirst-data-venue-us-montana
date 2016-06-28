@@ -2,13 +2,14 @@
   "id": 186029147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.038722,46.588162,-112.038722,46.588162",
     "geom:latitude":46.588162,
     "geom:longitude":-112.038722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186029147,
-    "wof:lastmodified":1449051509,
+    "wof:lastmodified":1466641601,
     "wof:name":"Tc Morrisson Law Firm Pllc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.038722,46.588162,-112.038722,46.588162],
-  "geometry": {"coordinates":[-112.038722,46.588162],"type":"Point"}
+  "bbox": [
+    -112.038722,
+    46.588162,
+    -112.038722,
+    46.588162
+],
+  "geometry": {"coordinates":[-112.03872200000001,46.588162],"type":"Point"}
 }

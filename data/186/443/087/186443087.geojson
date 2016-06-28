@@ -2,13 +2,14 @@
   "id": 186443087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.560554,45.661911,-110.560554,45.661911",
     "geom:latitude":45.661911,
     "geom:longitude":-110.560554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Main St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186443087,
-    "wof:lastmodified":1449052516,
+    "wof:lastmodified":1466642984,
     "wof:name":"Ana Lee Valentine",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-110.560554,45.661911,-110.560554,45.661911],
+  "bbox": [
+    -110.560554,
+    45.661911,
+    -110.560554,
+    45.661911
+],
   "geometry": {"coordinates":[-110.560554,45.661911],"type":"Point"}
 }

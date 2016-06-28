@@ -2,13 +2,14 @@
   "id": 186211169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.454168,45.767392,-108.454168,45.767392",
     "geom:latitude":45.767392,
     "geom:longitude":-108.454168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Black Eagle Trl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186211169,
-    "wof:lastmodified":1449051053,
+    "wof:lastmodified":1466642361,
     "wof:name":"A-1 Pest & Termite Control",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.454168,45.767392,-108.454168,45.767392],
+  "bbox": [
+    -108.454168,
+    45.767392,
+    -108.454168,
+    45.767392
+],
   "geometry": {"coordinates":[-108.454168,45.767392],"type":"Point"}
 }

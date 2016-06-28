@@ -2,13 +2,14 @@
   "id": 186205091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.998872,46.865014,-113.998872,46.865014",
     "geom:latitude":46.865014,
     "geom:longitude":-113.998872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Myrtle St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186205091,
-    "wof:lastmodified":1449051980,
+    "wof:lastmodified":1466642121,
     "wof:name":"Kettlehouse Brewing Co",
     "wof:parent_id":85891729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brewer"
     ]
 },
-  "bbox": [-113.998872,46.865014,-113.998872,46.865014],
-  "geometry": {"coordinates":[-113.998872,46.865014],"type":"Point"}
+  "bbox": [
+    -113.998872,
+    46.865014,
+    -113.998872,
+    46.865014
+],
+  "geometry": {"coordinates":[-113.99887200000001,46.865014],"type":"Point"}
 }

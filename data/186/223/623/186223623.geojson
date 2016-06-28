@@ -2,13 +2,14 @@
   "id": 186223623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576201,45.781885,-108.576201,45.781885",
     "geom:latitude":45.781885,
     "geom:longitude":-108.576201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186223623,
-    "wof:lastmodified":1449050440,
+    "wof:lastmodified":1466642596,
     "wof:name":"Yellowstone Teachers CU",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.576201,45.781885,-108.576201,45.781885],
+  "bbox": [
+    -108.576201,
+    45.781885,
+    -108.576201,
+    45.781885
+],
   "geometry": {"coordinates":[-108.576201,45.781885],"type":"Point"}
 }

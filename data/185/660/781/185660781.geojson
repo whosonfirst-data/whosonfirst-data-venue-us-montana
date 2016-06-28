@@ -2,13 +2,14 @@
   "id": 185660781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.063456,46.809047,-114.063456,46.809047",
     "geom:latitude":46.809047,
     "geom:longitude":-114.063456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4965 Jaiden Ln",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185660781,
-    "wof:lastmodified":1449008055,
+    "wof:lastmodified":1466641381,
     "wof:name":"Lambert Hotel Management Corp",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-114.063456,46.809047,-114.063456,46.809047],
+  "bbox": [
+    -114.063456,
+    46.809047,
+    -114.063456,
+    46.809047
+],
   "geometry": {"coordinates":[-114.063456,46.809047],"type":"Point"}
 }

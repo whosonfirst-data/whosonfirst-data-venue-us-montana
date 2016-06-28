@@ -2,13 +2,14 @@
   "id": 169812281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.511016,45.786003,-108.511016,45.786003",
     "geom:latitude":45.786003,
     "geom:longitude":-108.511016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2823 6th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169812281,
-    "wof:lastmodified":1449032779,
+    "wof:lastmodified":1466641275,
     "wof:name":"Streeter Brothers Insurance",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-108.511016,45.786003,-108.511016,45.786003],
+  "bbox": [
+    -108.511016,
+    45.786003,
+    -108.511016,
+    45.786003
+],
   "geometry": {"coordinates":[-108.511016,45.786003],"type":"Point"}
 }

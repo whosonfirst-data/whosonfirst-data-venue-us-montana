@@ -2,13 +2,14 @@
   "id": 169712581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.145043,46.242839,-114.145043,46.242839",
     "geom:latitude":46.242839,
     "geom:longitude":-114.145043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Kurtz Ln",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169712581,
-    "wof:lastmodified":1449034087,
+    "wof:lastmodified":1466641719,
     "wof:name":"Stevens Concrete Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.145043,46.242839,-114.145043,46.242839],
+  "bbox": [
+    -114.145043,
+    46.242839,
+    -114.145043,
+    46.242839
+],
   "geometry": {"coordinates":[-114.145043,46.242839],"type":"Point"}
 }

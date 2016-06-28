@@ -2,13 +2,14 @@
   "id": 169749493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.658086,45.809691,-108.658086,45.809691",
     "geom:latitude":45.809691,
     "geom:longitude":-108.658086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5629 Billy Casper Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169749493,
-    "wof:lastmodified":1449033618,
+    "wof:lastmodified":1466641190,
     "wof:name":"J & K Ventures Inc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-108.658086,45.809691,-108.658086,45.809691],
+  "bbox": [
+    -108.658086,
+    45.809691,
+    -108.658086,
+    45.809691
+],
   "geometry": {"coordinates":[-108.658086,45.809691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185763273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.945479,46.128912,-112.945479,46.128912",
     "geom:latitude":46.128912,
     "geom:longitude":-112.945479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Birch St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185763273,
-    "wof:lastmodified":1449008200,
+    "wof:lastmodified":1466641490,
     "wof:name":"Hollywood Hits Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-112.945479,46.128912,-112.945479,46.128912],
-  "geometry": {"coordinates":[-112.945479,46.128912],"type":"Point"}
+  "bbox": [
+    -112.945479,
+    46.128912,
+    -112.945479,
+    46.128912
+],
+  "geometry": {"coordinates":[-112.94547900000001,46.128912],"type":"Point"}
 }

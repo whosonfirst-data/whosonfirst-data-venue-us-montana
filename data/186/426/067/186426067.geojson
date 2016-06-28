@@ -2,13 +2,14 @@
   "id": 186426067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.042782,45.680377,-111.042782,45.680377",
     "geom:latitude":45.680377,
     "geom:longitude":-111.042782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 W Mendenhall St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186426067,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466643081,
     "wof:name":"Farmers Insurance",
     "wof:parent_id":85891685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.042782,45.680377,-111.042782,45.680377],
+  "bbox": [
+    -111.042782,
+    45.680377,
+    -111.042782,
+    45.680377
+],
   "geometry": {"coordinates":[-111.042782,45.680377],"type":"Point"}
 }

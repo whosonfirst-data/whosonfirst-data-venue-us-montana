@@ -2,13 +2,14 @@
   "id": 186184799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.006558,46.574453,-112.006558,46.574453",
     "geom:latitude":46.574453,
     "geom:longitude":-112.006558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Virginia Dale St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186184799,
-    "wof:lastmodified":1449050868,
+    "wof:lastmodified":1466642201,
     "wof:name":"Infinite Vision Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-112.006558,46.574453,-112.006558,46.574453],
+  "bbox": [
+    -112.006558,
+    46.574453,
+    -112.006558,
+    46.574453
+],
   "geometry": {"coordinates":[-112.006558,46.574453],"type":"Point"}
 }

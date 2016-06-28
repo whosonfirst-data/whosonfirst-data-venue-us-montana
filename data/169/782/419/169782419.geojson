@@ -2,13 +2,14 @@
   "id": 169782419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.014438,46.867906,-114.014438,46.867906",
     "geom:latitude":46.867906,
     "geom:longitude":-114.014438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1237 S 2nd St W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169782419,
-    "wof:lastmodified":1449032672,
+    "wof:lastmodified":1466641241,
     "wof:name":"Rubens Photographers",
     "wof:parent_id":85891731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "portrait"
     ]
 },
-  "bbox": [-114.014438,46.867906,-114.014438,46.867906],
+  "bbox": [
+    -114.014438,
+    46.867906,
+    -114.014438,
+    46.867906
+],
   "geometry": {"coordinates":[-114.014438,46.867906],"type":"Point"}
 }

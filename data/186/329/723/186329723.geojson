@@ -2,13 +2,14 @@
   "id": 186329723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.255158,45.63751,-109.255158,45.63751",
     "geom:latitude":45.63751,
     "geom:longitude":-109.255158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 E Pike Ave",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186329723,
-    "wof:lastmodified":1449051132,
+    "wof:lastmodified":1466642468,
     "wof:name":"Accounting & Tax By Stecher Ea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-109.255158,45.63751,-109.255158,45.63751],
-  "geometry": {"coordinates":[-109.255158,45.63751],"type":"Point"}
+  "bbox": [
+    -109.255158,
+    45.63751,
+    -109.255158,
+    45.63751
+],
+  "geometry": {"coordinates":[-109.25515799999999,45.63751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185618859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.03945,45.723219,-111.03945,45.723219",
     "geom:latitude":45.723219,
     "geom:longitude":-111.03945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3073 McIlhattan Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185618859,
-    "wof:lastmodified":1449007608,
+    "wof:lastmodified":1466641212,
     "wof:name":"James F Smith Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-111.03945,45.723219,-111.03945,45.723219],
+  "bbox": [
+    -111.03945,
+    45.723219,
+    -111.03945,
+    45.723219
+],
   "geometry": {"coordinates":[-111.03945,45.723219],"type":"Point"}
 }

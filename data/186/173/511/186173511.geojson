@@ -2,13 +2,14 @@
   "id": 186173511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.156086,46.251233,-114.156086,46.251233",
     "geom:latitude":46.251233,
     "geom:longitude":-114.156086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 N 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186173511,
-    "wof:lastmodified":1449050923,
+    "wof:lastmodified":1466642386,
     "wof:name":"Wireless Connection Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cellular"
     ]
 },
-  "bbox": [-114.156086,46.251233,-114.156086,46.251233],
+  "bbox": [
+    -114.156086,
+    46.251233,
+    -114.156086,
+    46.251233
+],
   "geometry": {"coordinates":[-114.156086,46.251233],"type":"Point"}
 }

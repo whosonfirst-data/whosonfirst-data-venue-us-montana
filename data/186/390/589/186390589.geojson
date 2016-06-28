@@ -2,13 +2,14 @@
   "id": 186390589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.177806,45.500921,-112.177806,45.500921",
     "geom:latitude":45.500921,
     "geom:longitude":-112.177806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Sunnyside Ln",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186390589,
-    "wof:lastmodified":1449053053,
+    "wof:lastmodified":1466642846,
     "wof:name":"Graham Drilling Inc",
     "wof:parent_id":85851385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "install"
     ]
 },
-  "bbox": [-112.177806,45.500921,-112.177806,45.500921],
+  "bbox": [
+    -112.177806,
+    45.500921,
+    -112.177806,
+    45.500921
+],
   "geometry": {"coordinates":[-112.177806,45.500921],"type":"Point"}
 }

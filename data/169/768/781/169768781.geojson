@@ -2,13 +2,14 @@
   "id": 169768781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.44857,45.827502,-108.44857,45.827502",
     "geom:latitude":45.827502,
     "geom:longitude":-108.44857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 Wicks Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169768781,
-    "wof:lastmodified":1449033951,
+    "wof:lastmodified":1466641220,
     "wof:name":"Harvest Evangelical Churc",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.44857,45.827502,-108.44857,45.827502],
+  "bbox": [
+    -108.44857,
+    45.827502,
+    -108.44857,
+    45.827502
+],
   "geometry": {"coordinates":[-108.44857,45.827502],"type":"Point"}
 }

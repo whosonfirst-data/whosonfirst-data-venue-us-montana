@@ -2,13 +2,14 @@
   "id": 169796229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.408009,45.813138,-108.408009,45.813138",
     "geom:latitude":45.813138,
     "geom:longitude":-108.408009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Starlight Cir",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169796229,
-    "wof:lastmodified":1449034238,
+    "wof:lastmodified":1466641257,
     "wof:name":"Weyercomm Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.408009,45.813138,-108.408009,45.813138],
-  "geometry": {"coordinates":[-108.408009,45.813138],"type":"Point"}
+  "bbox": [
+    -108.408009,
+    45.813138,
+    -108.408009,
+    45.813138
+],
+  "geometry": {"coordinates":[-108.40800900000001,45.813138],"type":"Point"}
 }

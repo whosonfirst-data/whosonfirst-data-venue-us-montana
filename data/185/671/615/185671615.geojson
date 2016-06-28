@@ -2,13 +2,14 @@
   "id": 185671615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.559898,48.775742,-104.559898,48.775742",
     "geom:latitude":48.775742,
     "geom:longitude":-104.559898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Jefferson St",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185671615,
-    "wof:lastmodified":1449006982,
+    "wof:lastmodified":1466641390,
     "wof:name":"Lagerquist Professional Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-104.559898,48.775742,-104.559898,48.775742],
+  "bbox": [
+    -104.559898,
+    48.775742,
+    -104.559898,
+    48.775742
+],
   "geometry": {"coordinates":[-104.559898,48.775742],"type":"Point"}
 }

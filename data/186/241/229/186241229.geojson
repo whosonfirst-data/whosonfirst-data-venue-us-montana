@@ -2,13 +2,14 @@
   "id": 186241229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.147668,46.25178,-114.147668,46.25178",
     "geom:latitude":46.25178,
     "geom:longitude":-114.147668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Alice Ave",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186241229,
-    "wof:lastmodified":1449052969,
+    "wof:lastmodified":1466642508,
     "wof:name":"Rocky Mountain Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.147668,46.25178,-114.147668,46.25178],
+  "bbox": [
+    -114.147668,
+    46.25178,
+    -114.147668,
+    46.25178
+],
   "geometry": {"coordinates":[-114.147668,46.25178],"type":"Point"}
 }

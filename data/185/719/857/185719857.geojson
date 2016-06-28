@@ -2,13 +2,14 @@
   "id": 185719857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.684236,48.182848,-106.684236,48.182848",
     "geom:latitude":48.182848,
     "geom:longitude":-106.684236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Brazil Creek Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185719857,
-    "wof:lastmodified":1449006812,
+    "wof:lastmodified":1466641447,
     "wof:name":"Bill's Custom Leather",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.684236,48.182848,-106.684236,48.182848],
+  "bbox": [
+    -106.684236,
+    48.182848,
+    -106.684236,
+    48.182848
+],
   "geometry": {"coordinates":[-106.684236,48.182848],"type":"Point"}
 }

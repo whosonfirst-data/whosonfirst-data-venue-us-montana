@@ -2,13 +2,14 @@
   "id": 169748139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.276199,48.23477,-114.276199,48.23477",
     "geom:latitude":48.23477,
     "geom:longitude":-114.276199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2416 US Hwy 2 E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169748139,
-    "wof:lastmodified":1449035143,
+    "wof:lastmodified":1466641183,
     "wof:name":"Midway Rental & Power Equip",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"
     ]
 },
-  "bbox": [-114.276199,48.23477,-114.276199,48.23477],
-  "geometry": {"coordinates":[-114.276199,48.23477],"type":"Point"}
+  "bbox": [
+    -114.276199,
+    48.23477,
+    -114.276199,
+    48.23477
+],
+  "geometry": {"coordinates":[-114.27619900000001,48.23477],"type":"Point"}
 }

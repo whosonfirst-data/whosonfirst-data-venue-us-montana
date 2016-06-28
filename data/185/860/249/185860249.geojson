@@ -2,13 +2,14 @@
   "id": 185860249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.012819,48.559916,-113.012819,48.559916",
     "geom:latitude":48.559916,
     "geom:longitude":-113.012819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N Public Sq",
     "sg:city":"Browning",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185860249,
-    "wof:lastmodified":1449007328,
+    "wof:lastmodified":1466641595,
     "wof:name":"Colleens Computer Corner LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-113.012819,48.559916,-113.012819,48.559916],
-  "geometry": {"coordinates":[-113.012819,48.559916],"type":"Point"}
+  "bbox": [
+    -113.012819,
+    48.559916,
+    -113.012819,
+    48.559916
+],
+  "geometry": {"coordinates":[-113.01281899999999,48.559916],"type":"Point"}
 }

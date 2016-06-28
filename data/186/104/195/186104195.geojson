@@ -2,13 +2,14 @@
   "id": 186104195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.157162,46.266651,-114.157162,46.266651",
     "geom:latitude":46.266651,
     "geom:longitude":-114.157162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1782 N 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186104195,
-    "wof:lastmodified":1449051483,
+    "wof:lastmodified":1466641806,
     "wof:name":"Cabinet Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-114.157162,46.266651,-114.157162,46.266651],
+  "bbox": [
+    -114.157162,
+    46.266651,
+    -114.157162,
+    46.266651
+],
   "geometry": {"coordinates":[-114.157162,46.266651],"type":"Point"}
 }

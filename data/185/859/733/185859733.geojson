@@ -2,13 +2,14 @@
   "id": 185859733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.771824,45.670204,-108.771824,45.670204",
     "geom:latitude":45.670204,
     "geom:longitude":-108.771824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 1st Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185859733,
-    "wof:lastmodified":1449007743,
+    "wof:lastmodified":1466641596,
     "wof:name":"Yellowstone Holding Co",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "holding"
     ]
 },
-  "bbox": [-108.771824,45.670204,-108.771824,45.670204],
+  "bbox": [
+    -108.771824,
+    45.670204,
+    -108.771824,
+    45.670204
+],
   "geometry": {"coordinates":[-108.771824,45.670204],"type":"Point"}
 }

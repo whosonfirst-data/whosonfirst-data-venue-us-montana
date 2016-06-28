@@ -2,13 +2,14 @@
   "id": 186072335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.029924,46.646315,-114.029924,46.646315",
     "geom:latitude":46.646315,
     "geom:longitude":-114.029924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5665 Meadowview Dr N",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186072335,
-    "wof:lastmodified":1449051791,
+    "wof:lastmodified":1466641871,
     "wof:name":"Ram Enterprises Of Montana Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-114.029924,46.646315,-114.029924,46.646315],
-  "geometry": {"coordinates":[-114.029924,46.646315],"type":"Point"}
+  "bbox": [
+    -114.029924,
+    46.646315,
+    -114.029924,
+    46.646315
+],
+  "geometry": {"coordinates":[-114.02992399999999,46.646315],"type":"Point"}
 }

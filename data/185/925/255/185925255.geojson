@@ -2,13 +2,14 @@
   "id": 185925255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.930727,46.12668,-112.930727,46.12668",
     "geom:latitude":46.12668,
     "geom:longitude":-112.930727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 E Commercial Ave",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185925255,
-    "wof:lastmodified":1449006609,
+    "wof:lastmodified":1466641671,
     "wof:name":"Trade Wind Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "beauty"
     ]
 },
-  "bbox": [-112.930727,46.12668,-112.930727,46.12668],
+  "bbox": [
+    -112.930727,
+    46.12668,
+    -112.930727,
+    46.12668
+],
   "geometry": {"coordinates":[-112.930727,46.12668],"type":"Point"}
 }

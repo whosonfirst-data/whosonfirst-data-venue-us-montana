@@ -2,13 +2,14 @@
   "id": 185643449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.884362,48.354255,-107.884362,48.354255",
     "geom:latitude":48.354255,
     "geom:longitude":-107.884362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 S 6th St W",
     "sg:city":"Malta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185643449,
-    "wof:lastmodified":1449008004,
+    "wof:lastmodified":1466641359,
     "wof:name":"Malta Opportunities Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-107.884362,48.354255,-107.884362,48.354255],
+  "bbox": [
+    -107.884362,
+    48.354255,
+    -107.884362,
+    48.354255
+],
   "geometry": {"coordinates":[-107.884362,48.354255],"type":"Point"}
 }

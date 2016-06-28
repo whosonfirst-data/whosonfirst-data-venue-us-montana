@@ -2,13 +2,14 @@
   "id": 185897505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.488001,45.831143,-108.488001,45.831143",
     "geom:latitude":45.831143,
     "geom:longitude":-108.488001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1726 Sylvan Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":185897505,
-    "wof:lastmodified":1449007973,
+    "wof:lastmodified":1466641629,
     "wof:name":"Conditioned Air Systems Inc",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "refrigerating"
     ]
 },
-  "bbox": [-108.488001,45.831143,-108.488001,45.831143],
+  "bbox": [
+    -108.488001,
+    45.831143,
+    -108.488001,
+    45.831143
+],
   "geometry": {"coordinates":[-108.488001,45.831143],"type":"Point"}
 }

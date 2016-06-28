@@ -2,13 +2,14 @@
   "id": 186212627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.581114,45.744977,-108.581114,45.744977",
     "geom:latitude":45.744977,
     "geom:longitude":-108.581114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 Gabel Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186212627,
-    "wof:lastmodified":1449052112,
+    "wof:lastmodified":1466642369,
     "wof:name":"Kadrmas Lee & Jackson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-108.581114,45.744977,-108.581114,45.744977],
+  "bbox": [
+    -108.581114,
+    45.744977,
+    -108.581114,
+    45.744977
+],
   "geometry": {"coordinates":[-108.581114,45.744977],"type":"Point"}
 }

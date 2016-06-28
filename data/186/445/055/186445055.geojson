@@ -2,13 +2,14 @@
   "id": 186445055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.509304,45.780231,-108.509304,45.780231",
     "geom:latitude":45.780231,
     "geom:longitude":-108.509304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 N 31st St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186445055,
-    "wof:lastmodified":1449050666,
+    "wof:lastmodified":1466643102,
     "wof:name":"Misdemeanor Probation",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-108.509304,45.780231,-108.509304,45.780231],
+  "bbox": [
+    -108.509304,
+    45.780231,
+    -108.509304,
+    45.780231
+],
   "geometry": {"coordinates":[-108.509304,45.780231],"type":"Point"}
 }

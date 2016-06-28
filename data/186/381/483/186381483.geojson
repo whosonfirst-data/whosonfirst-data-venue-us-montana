@@ -2,13 +2,14 @@
   "id": 186381483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.007141,46.583197,-112.007141,46.583197",
     "geom:latitude":46.583197,
     "geom:longitude":-112.007141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Highland St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186381483,
-    "wof:lastmodified":1449050468,
+    "wof:lastmodified":1466642650,
     "wof:name":"Sunrise Weight Loss Club LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.007141,46.583197,-112.007141,46.583197],
+  "bbox": [
+    -112.007141,
+    46.583197,
+    -112.007141,
+    46.583197
+],
   "geometry": {"coordinates":[-112.007141,46.583197],"type":"Point"}
 }

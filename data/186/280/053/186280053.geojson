@@ -2,13 +2,14 @@
   "id": 186280053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.30707,48.184195,-114.30707,48.184195",
     "geom:latitude":48.184195,
     "geom:longitude":-114.30707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 US Hwy 93 S",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186280053,
-    "wof:lastmodified":1449051697,
+    "wof:lastmodified":1466642336,
     "wof:name":"Los Caporales",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.30707,48.184195,-114.30707,48.184195],
+  "bbox": [
+    -114.30707,
+    48.184195,
+    -114.30707,
+    48.184195
+],
   "geometry": {"coordinates":[-114.30707,48.184195],"type":"Point"}
 }

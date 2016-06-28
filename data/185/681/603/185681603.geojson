@@ -2,13 +2,14 @@
   "id": 185681603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.11322,47.614478,-114.11322,47.614478",
     "geom:latitude":47.614478,
     "geom:longitude":-114.11322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52873 US Hwy 93",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185681603,
-    "wof:lastmodified":1449007602,
+    "wof:lastmodified":1466641398,
     "wof:name":"Lower Flathead Valley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-114.11322,47.614478,-114.11322,47.614478],
+  "bbox": [
+    -114.11322,
+    47.614478,
+    -114.11322,
+    47.614478
+],
   "geometry": {"coordinates":[-114.11322,47.614478],"type":"Point"}
 }

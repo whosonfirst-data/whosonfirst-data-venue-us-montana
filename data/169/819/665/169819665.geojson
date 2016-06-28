@@ -2,13 +2,14 @@
   "id": 169819665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.117269,47.529836,-114.117269,47.529836",
     "geom:latitude":47.529836,
     "geom:longitude":-114.117269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Round Butte Rd W",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169819665,
-    "wof:lastmodified":1449033478,
+    "wof:lastmodified":1466641292,
     "wof:name":"Westland Seed Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agricultural"
     ]
 },
-  "bbox": [-114.117269,47.529836,-114.117269,47.529836],
-  "geometry": {"coordinates":[-114.117269,47.529836],"type":"Point"}
+  "bbox": [
+    -114.117269,
+    47.529836,
+    -114.117269,
+    47.529836
+],
+  "geometry": {"coordinates":[-114.11726899999999,47.529836],"type":"Point"}
 }

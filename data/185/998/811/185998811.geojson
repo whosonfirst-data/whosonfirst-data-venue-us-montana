@@ -2,13 +2,14 @@
   "id": 185998811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.333953,48.402954,-114.333953,48.402954",
     "geom:latitude":48.402954,
     "geom:longitude":-114.333953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 Kalispell Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185998811,
-    "wof:lastmodified":1449007124,
+    "wof:lastmodified":1466641720,
     "wof:name":"Waggoner & Sons LLC",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-114.333953,48.402954,-114.333953,48.402954],
-  "geometry": {"coordinates":[-114.333953,48.402954],"type":"Point"}
+  "bbox": [
+    -114.333953,
+    48.402954,
+    -114.333953,
+    48.402954
+],
+  "geometry": {"coordinates":[-114.33395299999999,48.402954],"type":"Point"}
 }

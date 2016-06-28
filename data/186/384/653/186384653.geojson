@@ -2,13 +2,14 @@
   "id": 186384653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.572434,45.648904,-110.572434,45.648904",
     "geom:latitude":45.648904,
     "geom:longitude":-110.572434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 W Park St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186384653,
-    "wof:lastmodified":1449050624,
+    "wof:lastmodified":1466642910,
     "wof:name":"Yellowstone Inn Conference Ctr",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-110.572434,45.648904,-110.572434,45.648904],
+  "bbox": [
+    -110.572434,
+    45.648904,
+    -110.572434,
+    45.648904
+],
   "geometry": {"coordinates":[-110.572434,45.648904],"type":"Point"}
 }

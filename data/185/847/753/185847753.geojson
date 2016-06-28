@@ -2,13 +2,14 @@
   "id": 185847753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.227865,48.008628,-115.227865,48.008628",
     "geom:latitude":48.008628,
     "geom:longitude":-115.227865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Mc Ginnis Meadows Rd",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185847753,
-    "wof:lastmodified":1449007179,
+    "wof:lastmodified":1466641583,
     "wof:name":"Mc Ginnis Meadows Cattle Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "guest"
     ]
 },
-  "bbox": [-115.227865,48.008628,-115.227865,48.008628],
-  "geometry": {"coordinates":[-115.227865,48.008628],"type":"Point"}
+  "bbox": [
+    -115.227865,
+    48.008628,
+    -115.227865,
+    48.008628
+],
+  "geometry": {"coordinates":[-115.22786499999999,48.008628],"type":"Point"}
 }

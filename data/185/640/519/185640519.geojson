@@ -2,13 +2,14 @@
   "id": 185640519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.188606,46.988992,-104.188606,46.988992",
     "geom:latitude":46.988992,
     "geom:longitude":-104.188606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 E St N",
     "sg:city":"Wibaux",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185640519,
-    "wof:lastmodified":1449007320,
+    "wof:lastmodified":1466641349,
     "wof:name":"Just Your Era Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-104.188606,46.988992,-104.188606,46.988992],
-  "geometry": {"coordinates":[-104.188606,46.988992],"type":"Point"}
+  "bbox": [
+    -104.188606,
+    46.988992,
+    -104.188606,
+    46.988992
+],
+  "geometry": {"coordinates":[-104.18860599999999,46.988992],"type":"Point"}
 }

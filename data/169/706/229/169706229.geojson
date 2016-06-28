@@ -2,13 +2,14 @@
   "id": 169706229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.4708,45.824234,-108.4708,45.824234",
     "geom:latitude":45.824234,
     "geom:longitude":-108.4708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1327 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169706229,
-    "wof:lastmodified":1449032916,
+    "wof:lastmodified":1466641237,
     "wof:name":"Discovery Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-108.4708,45.824234,-108.4708,45.824234],
+  "bbox": [
+    -108.4708,
+    45.824234,
+    -108.4708,
+    45.824234
+],
   "geometry": {"coordinates":[-108.4708,45.824234],"type":"Point"}
 }

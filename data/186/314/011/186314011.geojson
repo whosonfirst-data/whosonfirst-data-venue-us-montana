@@ -2,13 +2,14 @@
   "id": 186314011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.531888,45.976549,-112.531888,45.976549",
     "geom:latitude":45.976549,
     "geom:longitude":-112.531888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Wathena Dr",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186314011,
-    "wof:lastmodified":1449052926,
+    "wof:lastmodified":1466642409,
     "wof:name":"Absolute Investigations",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-112.531888,45.976549,-112.531888,45.976549],
+  "bbox": [
+    -112.531888,
+    45.976549,
+    -112.531888,
+    45.976549
+],
   "geometry": {"coordinates":[-112.531888,45.976549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185931149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.155309,46.233612,-114.155309,46.233612",
     "geom:latitude":46.233612,
     "geom:longitude":-114.155309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1091 S 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185931149,
-    "wof:lastmodified":1449008072,
+    "wof:lastmodified":1466641677,
     "wof:name":"Michael Berard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.155309,46.233612,-114.155309,46.233612],
+  "bbox": [
+    -114.155309,
+    46.233612,
+    -114.155309,
+    46.233612
+],
   "geometry": {"coordinates":[-114.155309,46.233612],"type":"Point"}
 }

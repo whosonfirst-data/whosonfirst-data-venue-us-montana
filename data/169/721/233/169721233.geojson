@@ -2,13 +2,14 @@
   "id": 169721233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.018694,46.858066,-114.018694,46.858066",
     "geom:latitude":46.858066,
     "geom:longitude":-114.018694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 S Russell St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169721233,
-    "wof:lastmodified":1449035962,
+    "wof:lastmodified":1466641731,
     "wof:name":"Intouch Solutions",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-114.018694,46.858066,-114.018694,46.858066],
+  "bbox": [
+    -114.018694,
+    46.858066,
+    -114.018694,
+    46.858066
+],
   "geometry": {"coordinates":[-114.018694,46.858066],"type":"Point"}
 }

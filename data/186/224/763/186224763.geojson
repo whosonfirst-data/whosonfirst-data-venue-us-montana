@@ -2,13 +2,14 @@
   "id": 186224763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.537291,46.013662,-112.537291,46.013662",
     "geom:latitude":46.013662,
     "geom:longitude":-112.537291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 W Broadway St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186224763,
-    "wof:lastmodified":1449052321,
+    "wof:lastmodified":1466642395,
     "wof:name":"Body Grafix",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-112.537291,46.013662,-112.537291,46.013662],
+  "bbox": [
+    -112.537291,
+    46.013662,
+    -112.537291,
+    46.013662
+],
   "geometry": {"coordinates":[-112.537291,46.013662],"type":"Point"}
 }

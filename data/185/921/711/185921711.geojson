@@ -2,13 +2,14 @@
   "id": 185921711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.565572,45.764635,-108.565572,45.764635",
     "geom:latitude":45.764635,
     "geom:longitude":-108.565572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Birchwood Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185921711,
-    "wof:lastmodified":1449007631,
+    "wof:lastmodified":1466641673,
     "wof:name":"Right Decision Electrolysis",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrolysis"
     ]
 },
-  "bbox": [-108.565572,45.764635,-108.565572,45.764635],
+  "bbox": [
+    -108.565572,
+    45.764635,
+    -108.565572,
+    45.764635
+],
   "geometry": {"coordinates":[-108.565572,45.764635],"type":"Point"}
 }

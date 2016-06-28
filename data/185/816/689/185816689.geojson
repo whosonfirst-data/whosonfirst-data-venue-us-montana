@@ -2,13 +2,14 @@
   "id": 185816689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.560489,45.66183,-110.560489,45.66183",
     "geom:latitude":45.66183,
     "geom:longitude":-110.560489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N Main St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185816689,
-    "wof:lastmodified":1449007549,
+    "wof:lastmodified":1466641551,
     "wof:name":"Montana Watch Co",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "jew"
     ]
 },
-  "bbox": [-110.560489,45.66183,-110.560489,45.66183],
+  "bbox": [
+    -110.560489,
+    45.66183,
+    -110.560489,
+    45.66183
+],
   "geometry": {"coordinates":[-110.560489,45.66183],"type":"Point"}
 }

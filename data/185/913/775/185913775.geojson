@@ -2,13 +2,14 @@
   "id": 185913775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.258271,48.225768,-114.258271,48.225768",
     "geom:latitude":48.225768,
     "geom:longitude":-114.258271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"552 E Evergreen Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185913775,
-    "wof:lastmodified":1449007237,
+    "wof:lastmodified":1466641657,
     "wof:name":"Charles Snider Builder Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dwelling"
     ]
 },
-  "bbox": [-114.258271,48.225768,-114.258271,48.225768],
-  "geometry": {"coordinates":[-114.258271,48.225768],"type":"Point"}
+  "bbox": [
+    -114.258271,
+    48.225768,
+    -114.258271,
+    48.225768
+],
+  "geometry": {"coordinates":[-114.25827099999999,48.225768],"type":"Point"}
 }

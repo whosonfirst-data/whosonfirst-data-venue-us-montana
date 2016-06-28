@@ -2,13 +2,14 @@
   "id": 186318511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.073225,48.062484,-114.073225,48.062484",
     "geom:latitude":48.062484,
     "geom:longitude":-114.073225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"549 Electric Ave",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186318511,
-    "wof:lastmodified":1449050985,
+    "wof:lastmodified":1466642651,
     "wof:name":"S M Bradford Co",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-114.073225,48.062484,-114.073225,48.062484],
-  "geometry": {"coordinates":[-114.073225,48.062484],"type":"Point"}
+  "bbox": [
+    -114.073225,
+    48.062484,
+    -114.073225,
+    48.062484
+],
+  "geometry": {"coordinates":[-114.07322499999999,48.062484],"type":"Point"}
 }

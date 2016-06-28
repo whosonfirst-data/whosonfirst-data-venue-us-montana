@@ -2,13 +2,14 @@
   "id": 185671241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.794965,47.696179,-111.794965,47.696179",
     "geom:latitude":47.696179,
     "geom:longitude":-111.794965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"582 9th Ln NE",
     "sg:city":"Power",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185671241,
-    "wof:lastmodified":1449006984,
+    "wof:lastmodified":1466641385,
     "wof:name":"Ostberg Fire Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "water"
     ]
 },
-  "bbox": [-111.794965,47.696179,-111.794965,47.696179],
+  "bbox": [
+    -111.794965,
+    47.696179,
+    -111.794965,
+    47.696179
+],
   "geometry": {"coordinates":[-111.794965,47.696179],"type":"Point"}
 }

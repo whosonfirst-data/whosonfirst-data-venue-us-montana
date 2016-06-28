@@ -2,13 +2,14 @@
   "id": 186379097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.187483,46.987163,-104.187483,46.987163",
     "geom:latitude":46.987163,
     "geom:longitude":-104.187483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Orgain Ave E",
     "sg:city":"Wibaux",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186379097,
-    "wof:lastmodified":1449051933,
+    "wof:lastmodified":1466642627,
     "wof:name":"Pierre Wibaux Museum Complex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.187483,46.987163,-104.187483,46.987163],
+  "bbox": [
+    -104.187483,
+    46.987163,
+    -104.187483,
+    46.987163
+],
   "geometry": {"coordinates":[-104.187483,46.987163],"type":"Point"}
 }

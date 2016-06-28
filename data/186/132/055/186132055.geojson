@@ -2,13 +2,14 @@
   "id": 186132055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.667625,47.817303,-110.667625,47.817303",
     "geom:latitude":47.817303,
     "geom:longitude":-110.667625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Front St",
     "sg:city":"Fort Benton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186132055,
-    "wof:lastmodified":1449051684,
+    "wof:lastmodified":1466642242,
     "wof:name":"Lehmans True Value",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.667625,47.817303,-110.667625,47.817303],
+  "bbox": [
+    -110.667625,
+    47.817303,
+    -110.667625,
+    47.817303
+],
   "geometry": {"coordinates":[-110.667625,47.817303],"type":"Point"}
 }

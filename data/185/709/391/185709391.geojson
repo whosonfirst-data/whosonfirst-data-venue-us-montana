@@ -2,13 +2,14 @@
   "id": 185709391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.332904,45.835959,-112.332904,45.835959",
     "geom:latitude":45.835959,
     "geom:longitude":-112.332904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Mount Highway 2 W",
     "sg:city":"Whitehall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185709391,
-    "wof:lastmodified":1449006936,
+    "wof:lastmodified":1466641431,
     "wof:name":"Sheepskin Headquarters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "material"
     ]
 },
-  "bbox": [-112.332904,45.835959,-112.332904,45.835959],
+  "bbox": [
+    -112.332904,
+    45.835959,
+    -112.332904,
+    45.835959
+],
   "geometry": {"coordinates":[-112.332904,45.835959],"type":"Point"}
 }

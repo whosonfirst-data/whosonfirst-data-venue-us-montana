@@ -2,13 +2,14 @@
   "id": 186384245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.968487,45.861033,-111.968487,45.861033",
     "geom:latitude":45.861033,
     "geom:longitude":-111.968487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 McKeown Ln",
     "sg:city":"Cardwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186384245,
-    "wof:lastmodified":1449050630,
+    "wof:lastmodified":1466642906,
     "wof:name":"Cardwell Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.968487,45.861033,-111.968487,45.861033],
+  "bbox": [
+    -111.968487,
+    45.861033,
+    -111.968487,
+    45.861033
+],
   "geometry": {"coordinates":[-111.968487,45.861033],"type":"Point"}
 }

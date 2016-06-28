@@ -2,13 +2,14 @@
   "id": 169805443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.761029,45.660106,-108.761029,45.660106",
     "geom:latitude":45.660106,
     "geom:longitude":-108.761029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"753 Bernhardt Rd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169805443,
-    "wof:lastmodified":1449033789,
+    "wof:lastmodified":1466641761,
     "wof:name":"Cenex Pipeline",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pipeline"
     ]
 },
-  "bbox": [-108.761029,45.660106,-108.761029,45.660106],
-  "geometry": {"coordinates":[-108.761029,45.660106],"type":"Point"}
+  "bbox": [
+    -108.761029,
+    45.660106,
+    -108.761029,
+    45.660106
+],
+  "geometry": {"coordinates":[-108.76102899999999,45.660106],"type":"Point"}
 }

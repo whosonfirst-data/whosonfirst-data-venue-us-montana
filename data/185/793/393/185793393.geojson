@@ -2,13 +2,14 @@
   "id": 185793393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.778936,45.673432,-108.778936,45.673432",
     "geom:latitude":45.673432,
     "geom:longitude":-108.778936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 6th Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185793393,
-    "wof:lastmodified":1449007497,
+    "wof:lastmodified":1466641522,
     "wof:name":"Cotter's Sewer Svc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-108.778936,45.673432,-108.778936,45.673432],
+  "bbox": [
+    -108.778936,
+    45.673432,
+    -108.778936,
+    45.673432
+],
   "geometry": {"coordinates":[-108.778936,45.673432],"type":"Point"}
 }

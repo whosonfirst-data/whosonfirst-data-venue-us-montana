@@ -2,13 +2,14 @@
   "id": 169779445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.047446,48.879717,-115.047446,48.879717",
     "geom:latitude":48.879717,
     "geom:longitude":-115.047446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 3rd Ave E",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169779445,
-    "wof:lastmodified":1449033195,
+    "wof:lastmodified":1466641234,
     "wof:name":"Marti Richter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "music"
     ]
 },
-  "bbox": [-115.047446,48.879717,-115.047446,48.879717],
-  "geometry": {"coordinates":[-115.047446,48.879717],"type":"Point"}
+  "bbox": [
+    -115.047446,
+    48.879717,
+    -115.047446,
+    48.879717
+],
+  "geometry": {"coordinates":[-115.04744599999999,48.879717],"type":"Point"}
 }

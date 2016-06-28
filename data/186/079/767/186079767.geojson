@@ -2,13 +2,14 @@
   "id": 186079767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.330411,47.986238,-112.330411,47.986238",
     "geom:latitude":47.986238,
     "geom:longitude":-112.330411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Blackleaf Rd",
     "sg:city":"Bynum",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186079767,
-    "wof:lastmodified":1449052556,
+    "wof:lastmodified":1466641890,
     "wof:name":"Boneyard Coulee Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hauling"
     ]
 },
-  "bbox": [-112.330411,47.986238,-112.330411,47.986238],
+  "bbox": [
+    -112.330411,
+    47.986238,
+    -112.330411,
+    47.986238
+],
   "geometry": {"coordinates":[-112.330411,47.986238],"type":"Point"}
 }

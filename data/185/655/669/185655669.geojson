@@ -2,13 +2,14 @@
   "id": 185655669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.777472,45.676675,-108.777472,45.676675",
     "geom:latitude":45.676675,
     "geom:longitude":-108.777472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 W 8th St",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185655669,
-    "wof:lastmodified":1449007525,
+    "wof:lastmodified":1466641376,
     "wof:name":"Glen Cooper Construction",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-108.777472,45.676675,-108.777472,45.676675],
+  "bbox": [
+    -108.777472,
+    45.676675,
+    -108.777472,
+    45.676675
+],
   "geometry": {"coordinates":[-108.777472,45.676675],"type":"Point"}
 }

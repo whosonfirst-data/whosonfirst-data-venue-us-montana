@@ -2,13 +2,14 @@
   "id": 185614087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.636919,48.095886,-105.636919,48.095886",
     "geom:latitude":48.095886,
     "geom:longitude":-105.636919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Hwy 2",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185614087,
-    "wof:lastmodified":1449008269,
+    "wof:lastmodified":1466641195,
     "wof:name":"FPCC Wolf Point Wellness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-105.636919,48.095886,-105.636919,48.095886],
-  "geometry": {"coordinates":[-105.636919,48.095886],"type":"Point"}
+  "bbox": [
+    -105.636919,
+    48.095886,
+    -105.636919,
+    48.095886
+],
+  "geometry": {"coordinates":[-105.63691900000001,48.095886],"type":"Point"}
 }

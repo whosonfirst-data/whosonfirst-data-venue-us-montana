@@ -2,13 +2,14 @@
   "id": 186198787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.735229,46.399867,-112.735229,46.399867",
     "geom:latitude":46.399867,
     "geom:longitude":-112.735229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Main St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186198787,
-    "wof:lastmodified":1449051360,
+    "wof:lastmodified":1466642273,
     "wof:name":"Smith Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-112.735229,46.399867,-112.735229,46.399867],
+  "bbox": [
+    -112.735229,
+    46.399867,
+    -112.735229,
+    46.399867
+],
   "geometry": {"coordinates":[-112.735229,46.399867],"type":"Point"}
 }

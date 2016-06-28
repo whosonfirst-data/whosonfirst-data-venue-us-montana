@@ -2,13 +2,14 @@
   "id": 186180445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.041057,45.688516,-111.041057,45.688516",
     "geom:latitude":45.688516,
     "geom:longitude":-111.041057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Tamarack St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186180445,
-    "wof:lastmodified":1449050377,
+    "wof:lastmodified":1466642173,
     "wof:name":"Road and Bridge Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-111.041057,45.688516,-111.041057,45.688516],
+  "bbox": [
+    -111.041057,
+    45.688516,
+    -111.041057,
+    45.688516
+],
   "geometry": {"coordinates":[-111.041057,45.688516],"type":"Point"}
 }

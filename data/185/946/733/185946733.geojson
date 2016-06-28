@@ -2,13 +2,14 @@
   "id": 185946733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.498624,45.990418,-112.498624,45.990418",
     "geom:latitude":45.990418,
     "geom:longitude":-112.498624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2655 Nettie St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185946733,
-    "wof:lastmodified":1449008024,
+    "wof:lastmodified":1466641705,
     "wof:name":"Baker Commodities Inc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "company"
     ]
 },
-  "bbox": [-112.498624,45.990418,-112.498624,45.990418],
-  "geometry": {"coordinates":[-112.498624,45.990418],"type":"Point"}
+  "bbox": [
+    -112.498624,
+    45.990418,
+    -112.498624,
+    45.990418
+],
+  "geometry": {"coordinates":[-112.49862400000001,45.990418],"type":"Point"}
 }

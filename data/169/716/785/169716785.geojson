@@ -2,13 +2,14 @@
   "id": 169716785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.23213,45.94333,-108.23213,45.94333",
     "geom:latitude":45.94333,
     "geom:longitude":-108.23213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"837 W G Rd",
     "sg:city":"Huntley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169716785,
-    "wof:lastmodified":1449033157,
+    "wof:lastmodified":1466641725,
     "wof:name":"Huntley Auto",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-108.23213,45.94333,-108.23213,45.94333],
+  "bbox": [
+    -108.23213,
+    45.94333,
+    -108.23213,
+    45.94333
+],
   "geometry": {"coordinates":[-108.23213,45.94333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186121897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.53482,46.007641,-112.53482,46.007641",
     "geom:latitude":46.007641,
     "geom:longitude":-112.53482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 S Main St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186121897,
-    "wof:lastmodified":1449052413,
+    "wof:lastmodified":1466641912,
     "wof:name":"Interstate Bdy Sp 24 Hr Towing",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-112.53482,46.007641,-112.53482,46.007641],
+  "bbox": [
+    -112.53482,
+    46.007641,
+    -112.53482,
+    46.007641
+],
   "geometry": {"coordinates":[-112.53482,46.007641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186110535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.633577,45.116079,-112.633577,45.116079",
     "geom:latitude":45.116079,
     "geom:longitude":-112.633577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2785 Flynn Ln",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186110535,
-    "wof:lastmodified":1449051273,
+    "wof:lastmodified":1466642011,
     "wof:name":"Blacktail Aircraft Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.633577,45.116079,-112.633577,45.116079],
+  "bbox": [
+    -112.633577,
+    45.116079,
+    -112.633577,
+    45.116079
+],
   "geometry": {"coordinates":[-112.633577,45.116079],"type":"Point"}
 }

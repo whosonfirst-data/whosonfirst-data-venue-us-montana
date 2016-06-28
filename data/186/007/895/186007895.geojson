@@ -2,13 +2,14 @@
   "id": 186007895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.52783,46.003894,-112.52783,46.003894",
     "geom:latitude":46.003894,
     "geom:longitude":-112.52783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Utah Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186007895,
-    "wof:lastmodified":1449052549,
+    "wof:lastmodified":1466641268,
     "wof:name":"Voss Machine & Welding",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welding"
     ]
 },
-  "bbox": [-112.52783,46.003894,-112.52783,46.003894],
-  "geometry": {"coordinates":[-112.52783,46.003894],"type":"Point"}
+  "bbox": [
+    -112.52783,
+    46.003894,
+    -112.52783,
+    46.003894
+],
+  "geometry": {"coordinates":[-112.52782999999999,46.003894],"type":"Point"}
 }

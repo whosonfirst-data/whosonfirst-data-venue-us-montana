@@ -2,13 +2,14 @@
   "id": 185859599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.349302,47.722232,-114.349302,47.722232",
     "geom:latitude":47.722232,
     "geom:longitude":-114.349302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1897 Buffalo Bridge Rd N",
     "sg:city":"Big Arm",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185859599,
-    "wof:lastmodified":1449007744,
+    "wof:lastmodified":1466641596,
     "wof:name":"Loon Lake Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-114.349302,47.722232,-114.349302,47.722232],
-  "geometry": {"coordinates":[-114.349302,47.722232],"type":"Point"}
+  "bbox": [
+    -114.349302,
+    47.722232,
+    -114.349302,
+    47.722232
+],
+  "geometry": {"coordinates":[-114.34930199999999,47.722232],"type":"Point"}
 }

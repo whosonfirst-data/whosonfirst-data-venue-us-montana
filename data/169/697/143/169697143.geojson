@@ -2,13 +2,14 @@
   "id": 169697143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.060674,45.675372,-111.060674,45.675372",
     "geom:latitude":45.675372,
     "geom:longitude":-111.060674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 W Koch St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169697143,
-    "wof:lastmodified":1449034768,
+    "wof:lastmodified":1466641160,
     "wof:name":"Michael ND Lang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.060674,45.675372,-111.060674,45.675372],
-  "geometry": {"coordinates":[-111.060674,45.675372],"type":"Point"}
+  "bbox": [
+    -111.060674,
+    45.675372,
+    -111.060674,
+    45.675372
+],
+  "geometry": {"coordinates":[-111.06067400000001,45.675372],"type":"Point"}
 }

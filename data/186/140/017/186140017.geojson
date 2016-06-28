@@ -2,13 +2,14 @@
   "id": 186140017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.085786,45.592711,-111.085786,45.592711",
     "geom:latitude":45.592711,
     "geom:longitude":-111.085786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8491 Lupine Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186140017,
-    "wof:lastmodified":1449050757,
+    "wof:lastmodified":1466642268,
     "wof:name":"Rz Electric",
     "wof:parent_id":85891701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-111.085786,45.592711,-111.085786,45.592711],
+  "bbox": [
+    -111.085786,
+    45.592711,
+    -111.085786,
+    45.592711
+],
   "geometry": {"coordinates":[-111.085786,45.592711],"type":"Point"}
 }

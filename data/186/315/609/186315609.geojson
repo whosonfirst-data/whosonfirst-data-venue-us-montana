@@ -2,13 +2,14 @@
   "id": 186315609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.767245,45.684899,-108.767245,45.684899",
     "geom:latitude":45.684899,
     "geom:longitude":-108.767245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 E 13th St",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186315609,
-    "wof:lastmodified":1449052897,
+    "wof:lastmodified":1466642652,
     "wof:name":"R N Appliance Co",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-108.767245,45.684899,-108.767245,45.684899],
+  "bbox": [
+    -108.767245,
+    45.684899,
+    -108.767245,
+    45.684899
+],
   "geometry": {"coordinates":[-108.767245,45.684899],"type":"Point"}
 }

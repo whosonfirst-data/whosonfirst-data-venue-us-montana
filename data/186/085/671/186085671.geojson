@@ -2,13 +2,14 @@
   "id": 186085671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.979602,48.056725,-113.979602,48.056725",
     "geom:latitude":48.056725,
     "geom:longitude":-113.979602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Shady Ln",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186085671,
-    "wof:lastmodified":1449051065,
+    "wof:lastmodified":1466641918,
     "wof:name":"Gill Mechanical",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-113.979602,48.056725,-113.979602,48.056725],
+  "bbox": [
+    -113.979602,
+    48.056725,
+    -113.979602,
+    48.056725
+],
   "geometry": {"coordinates":[-113.979602,48.056725],"type":"Point"}
 }

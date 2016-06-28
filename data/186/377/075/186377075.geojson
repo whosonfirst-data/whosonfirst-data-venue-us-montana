@@ -2,13 +2,14 @@
   "id": 186377075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.718211,48.542791,-109.718211,48.542791",
     "geom:latitude":48.542791,
     "geom:longitude":-109.718211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1877 11th St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186377075,
-    "wof:lastmodified":1449051390,
+    "wof:lastmodified":1466642797,
     "wof:name":"Hitchn Rail Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-109.718211,48.542791,-109.718211,48.542791],
+  "bbox": [
+    -109.718211,
+    48.542791,
+    -109.718211,
+    48.542791
+],
   "geometry": {"coordinates":[-109.718211,48.542791],"type":"Point"}
 }

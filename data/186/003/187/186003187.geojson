@@ -2,13 +2,14 @@
   "id": 186003187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.02144,46.643352,-112.02144,46.643352",
     "geom:latitude":46.643352,
     "geom:longitude":-112.02144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 N Montana Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186003187,
-    "wof:lastmodified":1449052816,
+    "wof:lastmodified":1466641900,
     "wof:name":"Rk Excavating and Rock Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heavy"
     ]
 },
-  "bbox": [-112.02144,46.643352,-112.02144,46.643352],
+  "bbox": [
+    -112.02144,
+    46.643352,
+    -112.02144,
+    46.643352
+],
   "geometry": {"coordinates":[-112.02144,46.643352],"type":"Point"}
 }

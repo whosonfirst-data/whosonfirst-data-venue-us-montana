@@ -2,13 +2,14 @@
   "id": 169763737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.943209,46.12665,-112.943209,46.12665",
     "geom:latitude":46.12665,
     "geom:longitude":-112.943209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 E 3rd St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169763737,
-    "wof:lastmodified":1449035956,
+    "wof:lastmodified":1466641212,
     "wof:name":"Croation Fraternal Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.943209,46.12665,-112.943209,46.12665],
+  "bbox": [
+    -112.943209,
+    46.12665,
+    -112.943209,
+    46.12665
+],
   "geometry": {"coordinates":[-112.943209,46.12665],"type":"Point"}
 }

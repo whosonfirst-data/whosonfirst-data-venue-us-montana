@@ -2,13 +2,14 @@
   "id": 186151605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.518627,46.007771,-112.518627,46.007771",
     "geom:latitude":46.007771,
     "geom:longitude":-112.518627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Warren Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186151605,
-    "wof:lastmodified":1449050280,
+    "wof:lastmodified":1466642125,
     "wof:name":"General Distributing Co Inc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welding"
     ]
 },
-  "bbox": [-112.518627,46.007771,-112.518627,46.007771],
+  "bbox": [
+    -112.518627,
+    46.007771,
+    -112.518627,
+    46.007771
+],
   "geometry": {"coordinates":[-112.518627,46.007771],"type":"Point"}
 }

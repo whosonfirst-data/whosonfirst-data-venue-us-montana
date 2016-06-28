@@ -2,13 +2,14 @@
   "id": 186337069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.015253,46.599731,-112.015253,46.599731",
     "geom:latitude":46.599731,
     "geom:longitude":-112.015253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Helena Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186337069,
-    "wof:lastmodified":1449051640,
+    "wof:lastmodified":1466642686,
     "wof:name":"NCR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.015253,46.599731,-112.015253,46.599731],
+  "bbox": [
+    -112.015253,
+    46.599731,
+    -112.015253,
+    46.599731
+],
   "geometry": {"coordinates":[-112.015253,46.599731],"type":"Point"}
 }

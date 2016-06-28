@@ -2,13 +2,14 @@
   "id": 186455171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.336679,48.409236,-114.336679,48.409236",
     "geom:latitude":48.409236,
     "geom:longitude":-114.336679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Central Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186455171,
-    "wof:lastmodified":1449052577,
+    "wof:lastmodified":1466643024,
     "wof:name":"Mackenzie Ragen Investment Svc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-114.336679,48.409236,-114.336679,48.409236],
+  "bbox": [
+    -114.336679,
+    48.409236,
+    -114.336679,
+    48.409236
+],
   "geometry": {"coordinates":[-114.336679,48.409236],"type":"Point"}
 }

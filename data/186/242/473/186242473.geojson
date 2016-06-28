@@ -2,13 +2,14 @@
   "id": 186242473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.583537,45.750294,-108.583537,45.750294",
     "geom:latitude":45.750294,
     "geom:longitude":-108.583537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 Enterprise Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":186242473,
-    "wof:lastmodified":1449052699,
+    "wof:lastmodified":1466642509,
     "wof:name":"AME Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.583537,45.750294,-108.583537,45.750294],
-  "geometry": {"coordinates":[-108.583537,45.750294],"type":"Point"}
+  "bbox": [
+    -108.583537,
+    45.750294,
+    -108.583537,
+    45.750294
+],
+  "geometry": {"coordinates":[-108.58353700000001,45.750294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186397049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.046592,46.85308,-114.046592,46.85308",
     "geom:latitude":46.85308,
     "geom:longitude":-114.046592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 Mulberry Ln",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186397049,
-    "wof:lastmodified":1449051439,
+    "wof:lastmodified":1466642848,
     "wof:name":"Montana Critical Incident",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.046592,46.85308,-114.046592,46.85308],
+  "bbox": [
+    -114.046592,
+    46.85308,
+    -114.046592,
+    46.85308
+],
   "geometry": {"coordinates":[-114.046592,46.85308],"type":"Point"}
 }

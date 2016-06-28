@@ -2,13 +2,14 @@
   "id": 185648959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.387656,47.932277,-114.387656,47.932277",
     "geom:latitude":47.932277,
     "geom:longitude":-114.387656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Sahinen Ln",
     "sg:city":"Proctor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185648959,
-    "wof:lastmodified":1449007050,
+    "wof:lastmodified":1466641371,
     "wof:name":"Mission Mountain Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-114.387656,47.932277,-114.387656,47.932277],
-  "geometry": {"coordinates":[-114.387656,47.932277],"type":"Point"}
+  "bbox": [
+    -114.387656,
+    47.932277,
+    -114.387656,
+    47.932277
+],
+  "geometry": {"coordinates":[-114.38765600000001,47.932277],"type":"Point"}
 }

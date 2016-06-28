@@ -2,13 +2,14 @@
   "id": 169856813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.504148,45.791572,-108.504148,45.791572",
     "geom:latitude":45.791572,
     "geom:longitude":-108.504148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 N 22nd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169856813,
-    "wof:lastmodified":1449033616,
+    "wof:lastmodified":1466641347,
     "wof:name":"US Naval Reserve Training Ctr",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-108.504148,45.791572,-108.504148,45.791572],
+  "bbox": [
+    -108.504148,
+    45.791572,
+    -108.504148,
+    45.791572
+],
   "geometry": {"coordinates":[-108.504148,45.791572],"type":"Point"}
 }

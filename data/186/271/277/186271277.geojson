@@ -2,13 +2,14 @@
   "id": 186271277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965673,48.509506,-110.965673,48.509506",
     "geom:latitude":48.509506,
     "geom:longitude":-110.965673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Main St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186271277,
-    "wof:lastmodified":1449051774,
+    "wof:lastmodified":1466642569,
     "wof:name":"Liberty Vlg Arts Ctr & Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-110.965673,48.509506,-110.965673,48.509506],
+  "bbox": [
+    -110.965673,
+    48.509506,
+    -110.965673,
+    48.509506
+],
   "geometry": {"coordinates":[-110.965673,48.509506],"type":"Point"}
 }

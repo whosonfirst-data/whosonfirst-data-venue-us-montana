@@ -2,13 +2,14 @@
   "id": 185729289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.174566,47.696597,-114.174566,47.696597",
     "geom:latitude":47.696597,
     "geom:longitude":-114.174566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61521 US Hwy 93",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185729289,
-    "wof:lastmodified":1449007443,
+    "wof:lastmodified":1466641452,
     "wof:name":"Maren's Rare Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-114.174566,47.696597,-114.174566,47.696597],
+  "bbox": [
+    -114.174566,
+    47.696597,
+    -114.174566,
+    47.696597
+],
   "geometry": {"coordinates":[-114.174566,47.696597],"type":"Point"}
 }

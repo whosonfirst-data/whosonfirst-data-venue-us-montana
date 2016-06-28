@@ -2,13 +2,14 @@
   "id": 186052703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.306694,48.183895,-114.306694,48.183895",
     "geom:latitude":48.183895,
     "geom:longitude":-114.306694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 US Hwy 93 S",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186052703,
-    "wof:lastmodified":1449051584,
+    "wof:lastmodified":1466641827,
     "wof:name":"T & M Investments",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-114.306694,48.183895,-114.306694,48.183895],
-  "geometry": {"coordinates":[-114.306694,48.183895],"type":"Point"}
+  "bbox": [
+    -114.306694,
+    48.183895,
+    -114.306694,
+    48.183895
+],
+  "geometry": {"coordinates":[-114.30669399999999,48.183895],"type":"Point"}
 }

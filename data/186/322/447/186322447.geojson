@@ -2,13 +2,14 @@
   "id": 186322447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.397367,47.945555,-114.397367,47.945555",
     "geom:latitude":47.945555,
     "geom:longitude":-114.397367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Guinn Ln",
     "sg:city":"Proctor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186322447,
-    "wof:lastmodified":1449050217,
+    "wof:lastmodified":1466642653,
     "wof:name":"Guinn Family Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-114.397367,47.945555,-114.397367,47.945555],
+  "bbox": [
+    -114.397367,
+    47.945555,
+    -114.397367,
+    47.945555
+],
   "geometry": {"coordinates":[-114.397367,47.945555],"type":"Point"}
 }

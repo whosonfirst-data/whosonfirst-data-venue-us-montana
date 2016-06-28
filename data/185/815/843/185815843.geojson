@@ -2,13 +2,14 @@
   "id": 185815843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.980023,48.013433,-113.980023,48.013433",
     "geom:latitude":48.013433,
     "geom:longitude":-113.980023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 Rainbow Dr",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185815843,
-    "wof:lastmodified":1449007404,
+    "wof:lastmodified":1466641549,
     "wof:name":"Gary L Cuthbertson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.980023,48.013433,-113.980023,48.013433],
+  "bbox": [
+    -113.980023,
+    48.013433,
+    -113.980023,
+    48.013433
+],
   "geometry": {"coordinates":[-113.980023,48.013433],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186010337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.626975,48.94867,-115.626975,48.94867",
     "geom:latitude":48.94867,
     "geom:longitude":-115.626975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"472 Upper Ford Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186010337,
-    "wof:lastmodified":1449052037,
+    "wof:lastmodified":1466641305,
     "wof:name":"Linehan Outfitting Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fishing"
     ]
 },
-  "bbox": [-115.626975,48.94867,-115.626975,48.94867],
+  "bbox": [
+    -115.626975,
+    48.94867,
+    -115.626975,
+    48.94867
+],
   "geometry": {"coordinates":[-115.626975,48.94867],"type":"Point"}
 }

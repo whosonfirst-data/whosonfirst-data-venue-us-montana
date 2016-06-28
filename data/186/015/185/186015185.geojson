@@ -2,13 +2,14 @@
   "id": 186015185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.49336,45.791794,-108.49336,45.791794",
     "geom:latitude":45.791794,
     "geom:longitude":-108.49336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 4th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186015185,
-    "wof:lastmodified":1449051008,
+    "wof:lastmodified":1466641380,
     "wof:name":"Southfork Casino",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-108.49336,45.791794,-108.49336,45.791794],
+  "bbox": [
+    -108.49336,
+    45.791794,
+    -108.49336,
+    45.791794
+],
   "geometry": {"coordinates":[-108.49336,45.791794],"type":"Point"}
 }

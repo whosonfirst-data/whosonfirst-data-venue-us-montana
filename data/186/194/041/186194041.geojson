@@ -2,13 +2,14 @@
   "id": 186194041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.134814,48.189365,-114.134814,48.189365",
     "geom:latitude":48.189365,
     "geom:longitude":-114.134814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4570 State Hwy 35",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186194041,
-    "wof:lastmodified":1449052625,
+    "wof:lastmodified":1466642098,
     "wof:name":"Montana University Systems",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "experiment"
     ]
 },
-  "bbox": [-114.134814,48.189365,-114.134814,48.189365],
-  "geometry": {"coordinates":[-114.134814,48.189365],"type":"Point"}
+  "bbox": [
+    -114.134814,
+    48.189365,
+    -114.134814,
+    48.189365
+],
+  "geometry": {"coordinates":[-114.13481400000001,48.189365],"type":"Point"}
 }

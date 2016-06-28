@@ -2,13 +2,14 @@
   "id": 186312379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.626002,47.86449,-115.626002,47.86449",
     "geom:latitude":47.86449,
     "geom:longitude":-115.626002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2952 State Hwy 200",
     "sg:city":"Trout Creek",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186312379,
-    "wof:lastmodified":1449051726,
+    "wof:lastmodified":1466642634,
     "wof:name":"Sanders County Conservation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-115.626002,47.86449,-115.626002,47.86449],
+  "bbox": [
+    -115.626002,
+    47.86449,
+    -115.626002,
+    47.86449
+],
   "geometry": {"coordinates":[-115.626002,47.86449],"type":"Point"}
 }

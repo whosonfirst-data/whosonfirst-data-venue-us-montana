@@ -2,13 +2,14 @@
   "id": 186165475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.851421,48.507435,-111.851421,48.507435",
     "geom:latitude":48.507435,
     "geom:longitude":-111.851421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E Granite Ave",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186165475,
-    "wof:lastmodified":1449053034,
+    "wof:lastmodified":1466642143,
     "wof:name":"Storage Senter Of Shelby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-111.851421,48.507435,-111.851421,48.507435],
+  "bbox": [
+    -111.851421,
+    48.507435,
+    -111.851421,
+    48.507435
+],
   "geometry": {"coordinates":[-111.851421,48.507435],"type":"Point"}
 }

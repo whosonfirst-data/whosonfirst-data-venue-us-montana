@@ -2,13 +2,14 @@
   "id": 186419797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.176719,46.404659,-114.176719,46.404659",
     "geom:latitude":46.404659,
     "geom:longitude":-114.176719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2377 Middle Bear Creek Rd",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186419797,
-    "wof:lastmodified":1449052984,
+    "wof:lastmodified":1466642822,
     "wof:name":"Robinson's Asphalt Mntnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-114.176719,46.404659,-114.176719,46.404659],
-  "geometry": {"coordinates":[-114.176719,46.404659],"type":"Point"}
+  "bbox": [
+    -114.176719,
+    46.404659,
+    -114.176719,
+    46.404659
+],
+  "geometry": {"coordinates":[-114.17671900000001,46.404659],"type":"Point"}
 }

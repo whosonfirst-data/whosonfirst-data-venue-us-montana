@@ -2,13 +2,14 @@
   "id": 186134799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.445622,45.525044,-109.445622,45.525044",
     "geom:latitude":45.525044,
     "geom:longitude":-109.445622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Yerger Rd",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186134799,
-    "wof:lastmodified":1449052889,
+    "wof:lastmodified":1466642249,
     "wof:name":"St Michael's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-109.445622,45.525044,-109.445622,45.525044],
+  "bbox": [
+    -109.445622,
+    45.525044,
+    -109.445622,
+    45.525044
+],
   "geometry": {"coordinates":[-109.445622,45.525044],"type":"Point"}
 }

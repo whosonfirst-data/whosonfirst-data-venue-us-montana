@@ -2,13 +2,14 @@
   "id": 169831745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.004241,46.578975,-114.004241,46.578975",
     "geom:latitude":46.578975,
     "geom:longitude":-114.004241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"588 Wandler Ln",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169831745,
-    "wof:lastmodified":1449034627,
+    "wof:lastmodified":1466641305,
     "wof:name":"Wandler Louis Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.004241,46.578975,-114.004241,46.578975],
-  "geometry": {"coordinates":[-114.004241,46.578975],"type":"Point"}
+  "bbox": [
+    -114.004241,
+    46.578975,
+    -114.004241,
+    46.578975
+],
+  "geometry": {"coordinates":[-114.00424099999999,46.578975],"type":"Point"}
 }

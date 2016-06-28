@@ -2,13 +2,14 @@
   "id": 185661381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.726378,45.68487,-108.726378,45.68487",
     "geom:latitude":45.68487,
     "geom:longitude":-108.726378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2618 S Ramshorn Dr",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185661381,
-    "wof:lastmodified":1449008046,
+    "wof:lastmodified":1466641377,
     "wof:name":"Ramshorn Welding",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-108.726378,45.68487,-108.726378,45.68487],
+  "bbox": [
+    -108.726378,
+    45.68487,
+    -108.726378,
+    45.68487
+],
   "geometry": {"coordinates":[-108.726378,45.68487],"type":"Point"}
 }

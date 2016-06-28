@@ -2,13 +2,14 @@
   "id": 185794269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.496663,45.760661,-108.496663,45.760661",
     "geom:latitude":45.760661,
     "geom:longitude":-108.496663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Hannon Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185794269,
-    "wof:lastmodified":1449007393,
+    "wof:lastmodified":1466641522,
     "wof:name":"Landmark Distributing",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.496663,45.760661,-108.496663,45.760661],
+  "bbox": [
+    -108.496663,
+    45.760661,
+    -108.496663,
+    45.760661
+],
   "geometry": {"coordinates":[-108.496663,45.760661],"type":"Point"}
 }

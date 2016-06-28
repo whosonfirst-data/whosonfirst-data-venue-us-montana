@@ -2,13 +2,14 @@
   "id": 185883009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010809,46.588884,-112.010809,46.588884",
     "geom:latitude":46.588884,
     "geom:longitude":-112.010809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 9th Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185883009,
-    "wof:lastmodified":1449007851,
+    "wof:lastmodified":1466641784,
     "wof:name":"Med Assests",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.010809,46.588884,-112.010809,46.588884],
-  "geometry": {"coordinates":[-112.010809,46.588884],"type":"Point"}
+  "bbox": [
+    -112.010809,
+    46.588884,
+    -112.010809,
+    46.588884
+],
+  "geometry": {"coordinates":[-112.01080899999999,46.588884],"type":"Point"}
 }

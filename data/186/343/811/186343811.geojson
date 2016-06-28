@@ -2,13 +2,14 @@
   "id": 186343811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.17788,46.024461,-114.17788,46.024461",
     "geom:latitude":46.024461,
     "geom:longitude":-114.17788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 N Main St",
     "sg:city":"Darby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186343811,
-    "wof:lastmodified":1449052260,
+    "wof:lastmodified":1466642838,
     "wof:name":"Big Bear Rug Svc & Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-114.17788,46.024461,-114.17788,46.024461],
+  "bbox": [
+    -114.17788,
+    46.024461,
+    -114.17788,
+    46.024461
+],
   "geometry": {"coordinates":[-114.17788,46.024461],"type":"Point"}
 }

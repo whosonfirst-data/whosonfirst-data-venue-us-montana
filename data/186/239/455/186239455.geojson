@@ -2,13 +2,14 @@
   "id": 186239455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.02296,46.845294,-114.02296,46.845294",
     "geom:latitude":46.845294,
     "geom:longitude":-114.02296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 Brooks St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186239455,
-    "wof:lastmodified":1449050500,
+    "wof:lastmodified":1466642509,
     "wof:name":"Curves For Women Missoula",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [-114.02296,46.845294,-114.02296,46.845294],
+  "bbox": [
+    -114.02296,
+    46.845294,
+    -114.02296,
+    46.845294
+],
   "geometry": {"coordinates":[-114.02296,46.845294],"type":"Point"}
 }

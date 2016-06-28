@@ -2,13 +2,14 @@
   "id": 185803333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.007354,46.58991,-112.007354,46.58991",
     "geom:latitude":46.58991,
     "geom:longitude":-112.007354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 11th Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185803333,
-    "wof:lastmodified":1449008228,
+    "wof:lastmodified":1466641531,
     "wof:name":"G & M Dental Ceramics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.007354,46.58991,-112.007354,46.58991],
-  "geometry": {"coordinates":[-112.007354,46.58991],"type":"Point"}
+  "bbox": [
+    -112.007354,
+    46.58991,
+    -112.007354,
+    46.58991
+],
+  "geometry": {"coordinates":[-112.00735400000001,46.58991],"type":"Point"}
 }

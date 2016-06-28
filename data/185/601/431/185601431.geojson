@@ -2,13 +2,14 @@
   "id": 185601431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.196919,45.61636,-111.196919,45.61636",
     "geom:latitude":45.61636,
     "geom:longitude":-111.196919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77799 Gallatin Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185601431,
-    "wof:lastmodified":1449007333,
+    "wof:lastmodified":1466641167,
     "wof:name":"Wingfoot Lc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heavy"
     ]
 },
-  "bbox": [-111.196919,45.61636,-111.196919,45.61636],
-  "geometry": {"coordinates":[-111.196919,45.61636],"type":"Point"}
+  "bbox": [
+    -111.196919,
+    45.61636,
+    -111.196919,
+    45.61636
+],
+  "geometry": {"coordinates":[-111.19691899999999,45.61636],"type":"Point"}
 }

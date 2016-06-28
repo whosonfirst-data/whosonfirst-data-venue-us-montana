@@ -2,13 +2,14 @@
   "id": 186258761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.314915,48.19745,-114.314915,48.19745",
     "geom:latitude":48.19745,
     "geom:longitude":-114.314915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 1st Ave W",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186258761,
-    "wof:lastmodified":1449052458,
+    "wof:lastmodified":1466642540,
     "wof:name":"KONE Elevator Co",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-114.314915,48.19745,-114.314915,48.19745],
+  "bbox": [
+    -114.314915,
+    48.19745,
+    -114.314915,
+    48.19745
+],
   "geometry": {"coordinates":[-114.314915,48.19745],"type":"Point"}
 }

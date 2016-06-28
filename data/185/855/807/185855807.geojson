@@ -2,13 +2,14 @@
   "id": 185855807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.681529,46.955049,-112.681529,46.955049",
     "geom:latitude":46.955049,
     "geom:longitude":-112.681529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Stemple Pass Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185855807,
-    "wof:lastmodified":1449007782,
+    "wof:lastmodified":1466641598,
     "wof:name":"Lincoln Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-112.681529,46.955049,-112.681529,46.955049],
+  "bbox": [
+    -112.681529,
+    46.955049,
+    -112.681529,
+    46.955049
+],
   "geometry": {"coordinates":[-112.681529,46.955049],"type":"Point"}
 }

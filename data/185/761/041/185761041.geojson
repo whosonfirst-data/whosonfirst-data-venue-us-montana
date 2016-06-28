@@ -2,13 +2,14 @@
   "id": 185761041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040588,46.593787,-112.040588,46.593787",
     "geom:latitude":46.593787,
     "geom:longitude":-112.040588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 N Park Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185761041,
-    "wof:lastmodified":1449007845,
+    "wof:lastmodified":1466641484,
     "wof:name":"St Peters Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.040588,46.593787,-112.040588,46.593787],
+  "bbox": [
+    -112.040588,
+    46.593787,
+    -112.040588,
+    46.593787
+],
   "geometry": {"coordinates":[-112.040588,46.593787],"type":"Point"}
 }

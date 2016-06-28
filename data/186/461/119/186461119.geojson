@@ -2,13 +2,14 @@
   "id": 186461119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.574932,45.781536,-108.574932,45.781536",
     "geom:latitude":45.781536,
     "geom:longitude":-108.574932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 Dennis Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186461119,
-    "wof:lastmodified":1449051395,
+    "wof:lastmodified":1466643042,
     "wof:name":"General Building Services Inc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.574932,45.781536,-108.574932,45.781536],
+  "bbox": [
+    -108.574932,
+    45.781536,
+    -108.574932,
+    45.781536
+],
   "geometry": {"coordinates":[-108.574932,45.781536],"type":"Point"}
 }

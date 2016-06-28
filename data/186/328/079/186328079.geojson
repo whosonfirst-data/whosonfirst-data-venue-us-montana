@@ -2,13 +2,14 @@
   "id": 186328079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.606011,45.731565,-107.606011,45.731565",
     "geom:latitude":45.731565,
     "geom:longitude":-107.606011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 N Center Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186328079,
-    "wof:lastmodified":1449051949,
+    "wof:lastmodified":1466642444,
     "wof:name":"Centre Cinema & Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "picture"
     ]
 },
-  "bbox": [-107.606011,45.731565,-107.606011,45.731565],
+  "bbox": [
+    -107.606011,
+    45.731565,
+    -107.606011,
+    45.731565
+],
   "geometry": {"coordinates":[-107.606011,45.731565],"type":"Point"}
 }

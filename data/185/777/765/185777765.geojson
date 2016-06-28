@@ -2,13 +2,14 @@
   "id": 185777765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.500447,45.8228,-108.500447,45.8228",
     "geom:latitude":45.8228,
     "geom:longitude":-108.500447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Constitution Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185777765,
-    "wof:lastmodified":1449007472,
+    "wof:lastmodified":1466641510,
     "wof:name":"Drywall & Painting",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.500447,45.8228,-108.500447,45.8228],
-  "geometry": {"coordinates":[-108.500447,45.8228],"type":"Point"}
+  "bbox": [
+    -108.500447,
+    45.8228,
+    -108.500447,
+    45.8228
+],
+  "geometry": {"coordinates":[-108.50044699999999,45.8228],"type":"Point"}
 }

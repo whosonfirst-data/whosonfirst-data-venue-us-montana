@@ -2,13 +2,14 @@
   "id": 169748027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.198586,46.160729,-109.198586,46.160729",
     "geom:latitude":46.160729,
     "geom:longitude":-109.198586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Sherod Rd",
     "sg:city":"Ryegate",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169748027,
-    "wof:lastmodified":1449035144,
+    "wof:lastmodified":1466641744,
     "wof:name":"Y7 Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.198586,46.160729,-109.198586,46.160729],
-  "geometry": {"coordinates":[-109.198586,46.160729],"type":"Point"}
+  "bbox": [
+    -109.198586,
+    46.160729,
+    -109.198586,
+    46.160729
+],
+  "geometry": {"coordinates":[-109.19858600000001,46.160729],"type":"Point"}
 }

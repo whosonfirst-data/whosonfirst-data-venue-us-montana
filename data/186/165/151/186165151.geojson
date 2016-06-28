@@ -2,13 +2,14 @@
   "id": 186165151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.093716,45.672345,-111.093716,45.672345",
     "geom:latitude":45.672345,
     "geom:longitude":-111.093716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 S Ferguson Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186165151,
-    "wof:lastmodified":1449053032,
+    "wof:lastmodified":1466642139,
     "wof:name":"Nicklin Earth & Water Inc",
     "wof:parent_id":85891697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineering"
     ]
 },
-  "bbox": [-111.093716,45.672345,-111.093716,45.672345],
+  "bbox": [
+    -111.093716,
+    45.672345,
+    -111.093716,
+    45.672345
+],
   "geometry": {"coordinates":[-111.093716,45.672345],"type":"Point"}
 }

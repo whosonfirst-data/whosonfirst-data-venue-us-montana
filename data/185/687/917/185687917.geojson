@@ -2,13 +2,14 @@
   "id": 185687917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.425761,47.065506,-109.425761,47.065506",
     "geom:latitude":47.065506,
     "geom:longitude":-109.425761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 W Main St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185687917,
-    "wof:lastmodified":1449007058,
+    "wof:lastmodified":1466641411,
     "wof:name":"Judith Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drive"
     ]
 },
-  "bbox": [-109.425761,47.065506,-109.425761,47.065506],
-  "geometry": {"coordinates":[-109.425761,47.065506],"type":"Point"}
+  "bbox": [
+    -109.425761,
+    47.065506,
+    -109.425761,
+    47.065506
+],
+  "geometry": {"coordinates":[-109.42576099999999,47.065506],"type":"Point"}
 }

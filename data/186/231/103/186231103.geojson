@@ -2,13 +2,14 @@
   "id": 186231103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.326455,48.109136,-114.326455,48.109136",
     "geom:latitude":48.109136,
     "geom:longitude":-114.326455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Patrick Creek Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186231103,
-    "wof:lastmodified":1449051739,
+    "wof:lastmodified":1466642484,
     "wof:name":"Lion Creek Outfitters Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-114.326455,48.109136,-114.326455,48.109136],
+  "bbox": [
+    -114.326455,
+    48.109136,
+    -114.326455,
+    48.109136
+],
   "geometry": {"coordinates":[-114.326455,48.109136],"type":"Point"}
 }

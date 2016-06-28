@@ -2,13 +2,14 @@
   "id": 185653875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.007913,46.853735,-114.007913,46.853735",
     "geom:latitude":46.853735,
     "geom:longitude":-114.007913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 Bancroft St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185653875,
-    "wof:lastmodified":1449006721,
+    "wof:lastmodified":1466641377,
     "wof:name":"Ogilvie Steven L Podiatrist",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-114.007913,46.853735,-114.007913,46.853735],
+  "bbox": [
+    -114.007913,
+    46.853735,
+    -114.007913,
+    46.853735
+],
   "geometry": {"coordinates":[-114.007913,46.853735],"type":"Point"}
 }

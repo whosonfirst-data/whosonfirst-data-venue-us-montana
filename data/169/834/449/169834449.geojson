@@ -2,13 +2,14 @@
   "id": 169834449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.018368,46.839837,-114.018368,46.839837",
     "geom:latitude":46.839837,
     "geom:longitude":-114.018368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 S Russell St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169834449,
-    "wof:lastmodified":1449032975,
+    "wof:lastmodified":1466641306,
     "wof:name":"Kathy L Markette MD",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "phys"
     ]
 },
-  "bbox": [-114.018368,46.839837,-114.018368,46.839837],
+  "bbox": [
+    -114.018368,
+    46.839837,
+    -114.018368,
+    46.839837
+],
   "geometry": {"coordinates":[-114.018368,46.839837],"type":"Point"}
 }

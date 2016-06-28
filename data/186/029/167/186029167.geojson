@@ -2,13 +2,14 @@
   "id": 186029167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.611452,45.795744,-108.611452,45.795744",
     "geom:latitude":45.795744,
     "geom:longitude":-108.611452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 38th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186029167,
-    "wof:lastmodified":1449051508,
+    "wof:lastmodified":1466641602,
     "wof:name":"Arrowhead Elementary School",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-108.611452,45.795744,-108.611452,45.795744],
+  "bbox": [
+    -108.611452,
+    45.795744,
+    -108.611452,
+    45.795744
+],
   "geometry": {"coordinates":[-108.611452,45.795744],"type":"Point"}
 }

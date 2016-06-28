@@ -2,13 +2,14 @@
   "id": 185735875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.158987,46.171904,-114.158987,46.171904",
     "geom:latitude":46.171904,
     "geom:longitude":-114.158987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 Sleeping Child Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185735875,
-    "wof:lastmodified":1449008150,
+    "wof:lastmodified":1466641461,
     "wof:name":"Valley Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "install"
     ]
 },
-  "bbox": [-114.158987,46.171904,-114.158987,46.171904],
+  "bbox": [
+    -114.158987,
+    46.171904,
+    -114.158987,
+    46.171904
+],
   "geometry": {"coordinates":[-114.158987,46.171904],"type":"Point"}
 }

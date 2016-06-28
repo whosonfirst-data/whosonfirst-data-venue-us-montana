@@ -2,13 +2,14 @@
   "id": 186324389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.038728,46.58864,-112.038728,46.58864",
     "geom:latitude":46.58864,
     "geom:longitude":-112.038728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186324389,
-    "wof:lastmodified":1449051939,
+    "wof:lastmodified":1466642816,
     "wof:name":"Office On Aging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "aging"
     ]
 },
-  "bbox": [-112.038728,46.58864,-112.038728,46.58864],
-  "geometry": {"coordinates":[-112.038728,46.58864],"type":"Point"}
+  "bbox": [
+    -112.038728,
+    46.58864,
+    -112.038728,
+    46.58864
+],
+  "geometry": {"coordinates":[-112.03872800000001,46.58864],"type":"Point"}
 }

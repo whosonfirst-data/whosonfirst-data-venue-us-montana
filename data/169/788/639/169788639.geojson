@@ -2,13 +2,14 @@
   "id": 169788639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.257441,45.639033,-109.257441,45.639033",
     "geom:latitude":45.639033,
     "geom:longitude":-109.257441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 E 1st Ave N",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169788639,
-    "wof:lastmodified":1449034384,
+    "wof:lastmodified":1466641756,
     "wof:name":"Sunshine Apiary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "natural"
     ]
 },
-  "bbox": [-109.257441,45.639033,-109.257441,45.639033],
+  "bbox": [
+    -109.257441,
+    45.639033,
+    -109.257441,
+    45.639033
+],
   "geometry": {"coordinates":[-109.257441,45.639033],"type":"Point"}
 }

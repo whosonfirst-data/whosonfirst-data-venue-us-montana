@@ -2,13 +2,14 @@
   "id": 186022213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.521409,46.002225,-112.521409,46.002225",
     "geom:latitude":46.002225,
     "geom:longitude":-112.521409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186022213,
-    "wof:lastmodified":1449051281,
+    "wof:lastmodified":1466641485,
     "wof:name":"Advance Cash America",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-112.521409,46.002225,-112.521409,46.002225],
-  "geometry": {"coordinates":[-112.521409,46.002225],"type":"Point"}
+  "bbox": [
+    -112.521409,
+    46.002225,
+    -112.521409,
+    46.002225
+],
+  "geometry": {"coordinates":[-112.52140900000001,46.002225],"type":"Point"}
 }

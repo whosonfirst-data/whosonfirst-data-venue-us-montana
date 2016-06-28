@@ -2,13 +2,14 @@
   "id": 169826307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.498216,46.000146,-112.498216,46.000146",
     "geom:latitude":46.000146,
     "geom:longitude":-112.498216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2623 Grand Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169826307,
-    "wof:lastmodified":1449035069,
+    "wof:lastmodified":1466641297,
     "wof:name":"Duffys Beauty Shop",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.498216,46.000146,-112.498216,46.000146],
+  "bbox": [
+    -112.498216,
+    46.000146,
+    -112.498216,
+    46.000146
+],
   "geometry": {"coordinates":[-112.498216,46.000146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186050067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.023787,45.630176,-111.023787,45.630176",
     "geom:latitude":45.630176,
     "geom:longitude":-111.023787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Lariat Loop",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186050067,
-    "wof:lastmodified":1449051856,
+    "wof:lastmodified":1466641818,
     "wof:name":"J D Management LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.023787,45.630176,-111.023787,45.630176],
+  "bbox": [
+    -111.023787,
+    45.630176,
+    -111.023787,
+    45.630176
+],
   "geometry": {"coordinates":[-111.023787,45.630176],"type":"Point"}
 }

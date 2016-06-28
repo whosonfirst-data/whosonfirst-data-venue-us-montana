@@ -2,13 +2,14 @@
   "id": 169727447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.609546,45.76709,-108.609546,45.76709",
     "geom:latitude":45.76709,
     "geom:longitude":-108.609546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3723 Glantz Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169727447,
-    "wof:lastmodified":1449033191,
+    "wof:lastmodified":1466641740,
     "wof:name":"Bill W Mahaffie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.609546,45.76709,-108.609546,45.76709],
-  "geometry": {"coordinates":[-108.609546,45.76709],"type":"Point"}
+  "bbox": [
+    -108.609546,
+    45.76709,
+    -108.609546,
+    45.76709
+],
+  "geometry": {"coordinates":[-108.60954599999999,45.76709],"type":"Point"}
 }

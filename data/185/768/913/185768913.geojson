@@ -2,13 +2,14 @@
   "id": 185768913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.695466,48.555205,-109.695466,48.555205",
     "geom:latitude":48.555205,
     "geom:longitude":-109.695466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 1st St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185768913,
-    "wof:lastmodified":1449007230,
+    "wof:lastmodified":1466641499,
     "wof:name":"Lucky Lils Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.695466,48.555205,-109.695466,48.555205],
+  "bbox": [
+    -109.695466,
+    48.555205,
+    -109.695466,
+    48.555205
+],
   "geometry": {"coordinates":[-109.695466,48.555205],"type":"Point"}
 }

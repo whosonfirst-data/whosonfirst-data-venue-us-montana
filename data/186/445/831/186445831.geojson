@@ -2,13 +2,14 @@
   "id": 186445831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.539163,46.000693,-112.539163,46.000693",
     "geom:latitude":46.000693,
     "geom:longitude":-112.539163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 S Montana St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186445831,
-    "wof:lastmodified":1449050689,
+    "wof:lastmodified":1466643105,
     "wof:name":"H B Brinck Inc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.539163,46.000693,-112.539163,46.000693],
+  "bbox": [
+    -112.539163,
+    46.000693,
+    -112.539163,
+    46.000693
+],
   "geometry": {"coordinates":[-112.539163,46.000693],"type":"Point"}
 }

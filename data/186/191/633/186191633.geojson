@@ -2,13 +2,14 @@
   "id": 186191633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.514614,45.790223,-108.514614,45.790223",
     "geom:latitude":45.790223,
     "geom:longitude":-108.514614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 10th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186191633,
-    "wof:lastmodified":1449051987,
+    "wof:lastmodified":1466642235,
     "wof:name":"Sleep Disorders Ctr",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-108.514614,45.790223,-108.514614,45.790223],
-  "geometry": {"coordinates":[-108.514614,45.790223],"type":"Point"}
+  "bbox": [
+    -108.514614,
+    45.790223,
+    -108.514614,
+    45.790223
+],
+  "geometry": {"coordinates":[-108.51461399999999,45.790223],"type":"Point"}
 }

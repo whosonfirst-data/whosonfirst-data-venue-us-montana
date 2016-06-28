@@ -2,13 +2,14 @@
   "id": 186002411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.538297,46.012752,-112.538297,46.012752",
     "geom:latitude":46.012752,
     "geom:longitude":-112.538297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 W Park St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186002411,
-    "wof:lastmodified":1449052523,
+    "wof:lastmodified":1466641235,
     "wof:name":"AIG Royal Alliance",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-112.538297,46.012752,-112.538297,46.012752],
+  "bbox": [
+    -112.538297,
+    46.012752,
+    -112.538297,
+    46.012752
+],
   "geometry": {"coordinates":[-112.538297,46.012752],"type":"Point"}
 }

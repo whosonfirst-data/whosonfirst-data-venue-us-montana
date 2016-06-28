@@ -2,13 +2,14 @@
   "id": 186312947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.424272,46.076917,-112.424272,46.076917",
     "geom:latitude":46.076917,
     "geom:longitude":-112.424272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Sawmill Gulch Rd",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186312947,
-    "wof:lastmodified":1449051728,
+    "wof:lastmodified":1466642643,
     "wof:name":"Jerrys Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.424272,46.076917,-112.424272,46.076917],
+  "bbox": [
+    -112.424272,
+    46.076917,
+    -112.424272,
+    46.076917
+],
   "geometry": {"coordinates":[-112.424272,46.076917],"type":"Point"}
 }

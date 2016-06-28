@@ -2,13 +2,14 @@
   "id": 169804997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.445437,45.829177,-108.445437,45.829177",
     "geom:latitude":45.829177,
     "geom:longitude":-108.445437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Janie St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169804997,
-    "wof:lastmodified":1449034986,
+    "wof:lastmodified":1466641280,
     "wof:name":"Romantique",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-108.445437,45.829177,-108.445437,45.829177],
+  "bbox": [
+    -108.445437,
+    45.829177,
+    -108.445437,
+    45.829177
+],
   "geometry": {"coordinates":[-108.445437,45.829177],"type":"Point"}
 }

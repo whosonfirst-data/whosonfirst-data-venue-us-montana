@@ -2,13 +2,14 @@
   "id": 186455471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.413198,45.812857,-108.413198,45.812857",
     "geom:latitude":45.812857,
     "geom:longitude":-108.413198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2845 Old Hardin Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186455471,
-    "wof:lastmodified":1449052572,
+    "wof:lastmodified":1466643112,
     "wof:name":"Western Security Bank",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.413198,45.812857,-108.413198,45.812857],
-  "geometry": {"coordinates":[-108.413198,45.812857],"type":"Point"}
+  "bbox": [
+    -108.413198,
+    45.812857,
+    -108.413198,
+    45.812857
+],
+  "geometry": {"coordinates":[-108.41319799999999,45.812857],"type":"Point"}
 }

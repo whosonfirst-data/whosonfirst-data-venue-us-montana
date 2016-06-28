@@ -2,13 +2,14 @@
   "id": 185613069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.838234,46.406237,-105.838234,46.406237",
     "geom:latitude":46.406237,
     "geom:longitude":-105.838234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S Lake Ave",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185613069,
-    "wof:lastmodified":1449007364,
+    "wof:lastmodified":1466641745,
     "wof:name":"Lincoln Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.838234,46.406237,-105.838234,46.406237],
+  "bbox": [
+    -105.838234,
+    46.406237,
+    -105.838234,
+    46.406237
+],
   "geometry": {"coordinates":[-105.838234,46.406237],"type":"Point"}
 }

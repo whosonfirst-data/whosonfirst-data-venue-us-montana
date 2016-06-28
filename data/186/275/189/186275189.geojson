@@ -2,13 +2,14 @@
   "id": 186275189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.437196,47.737183,-115.437196,47.737183",
     "geom:latitude":47.737183,
     "geom:longitude":-115.437196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1091 Blue Slide Rd",
     "sg:city":"Thompson Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186275189,
-    "wof:lastmodified":1449051251,
+    "wof:lastmodified":1466642566,
     "wof:name":"Dark Timber Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "printed"
     ]
 },
-  "bbox": [-115.437196,47.737183,-115.437196,47.737183],
+  "bbox": [
+    -115.437196,
+    47.737183,
+    -115.437196,
+    47.737183
+],
   "geometry": {"coordinates":[-115.437196,47.737183],"type":"Point"}
 }

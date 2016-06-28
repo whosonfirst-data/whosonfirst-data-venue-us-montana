@@ -2,13 +2,14 @@
   "id": 185921119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.49802,45.983154,-112.49802,45.983154",
     "geom:latitude":45.983154,
     "geom:longitude":-112.49802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2624 Edwards St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185921119,
-    "wof:lastmodified":1449007630,
+    "wof:lastmodified":1466641662,
     "wof:name":"Tallon Construction Inc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-112.49802,45.983154,-112.49802,45.983154],
+  "bbox": [
+    -112.49802,
+    45.983154,
+    -112.49802,
+    45.983154
+],
   "geometry": {"coordinates":[-112.49802,45.983154],"type":"Point"}
 }

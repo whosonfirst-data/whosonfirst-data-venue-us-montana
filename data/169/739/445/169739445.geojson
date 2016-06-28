@@ -2,13 +2,14 @@
   "id": 169739445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.057573,48.899599,-115.057573,48.899599",
     "geom:latitude":48.899599,
     "geom:longitude":-115.057573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 US Hwy 93 N",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169739445,
-    "wof:lastmodified":1449034060,
+    "wof:lastmodified":1466641166,
     "wof:name":"Howdee Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "drinking"
     ]
 },
-  "bbox": [-115.057573,48.899599,-115.057573,48.899599],
+  "bbox": [
+    -115.057573,
+    48.899599,
+    -115.057573,
+    48.899599
+],
   "geometry": {"coordinates":[-115.057573,48.899599],"type":"Point"}
 }

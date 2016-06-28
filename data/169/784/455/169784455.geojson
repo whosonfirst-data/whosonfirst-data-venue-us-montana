@@ -2,13 +2,14 @@
   "id": 169784455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.508992,45.789506,-108.508992,45.789506",
     "geom:latitude":45.789506,
     "geom:longitude":-108.508992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 8th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169784455,
-    "wof:lastmodified":1449034896,
+    "wof:lastmodified":1466641243,
     "wof:name":"Phillip J Key MD",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-108.508992,45.789506,-108.508992,45.789506],
-  "geometry": {"coordinates":[-108.508992,45.789506],"type":"Point"}
+  "bbox": [
+    -108.508992,
+    45.789506,
+    -108.508992,
+    45.789506
+],
+  "geometry": {"coordinates":[-108.50899200000001,45.789506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186058081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.335191,48.410579,-114.335191,48.410579",
     "geom:latitude":48.410579,
     "geom:longitude":-114.335191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Spokane Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186058081,
-    "wof:lastmodified":1449050783,
+    "wof:lastmodified":1466642004,
     "wof:name":"Mums Flowers LLC",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.335191,48.410579,-114.335191,48.410579],
-  "geometry": {"coordinates":[-114.335191,48.410579],"type":"Point"}
+  "bbox": [
+    -114.335191,
+    48.410579,
+    -114.335191,
+    48.410579
+],
+  "geometry": {"coordinates":[-114.33519099999999,48.410579],"type":"Point"}
 }

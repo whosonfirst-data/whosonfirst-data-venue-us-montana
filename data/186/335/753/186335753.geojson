@@ -2,13 +2,14 @@
   "id": 186335753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.034086,46.828986,-114.034086,46.828986",
     "geom:latitude":46.828986,
     "geom:longitude":-114.034086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2243 42nd St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186335753,
-    "wof:lastmodified":1449052136,
+    "wof:lastmodified":1466642830,
     "wof:name":"Shadow Asphalt Maintenance",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.034086,46.828986,-114.034086,46.828986],
+  "bbox": [
+    -114.034086,
+    46.828986,
+    -114.034086,
+    46.828986
+],
   "geometry": {"coordinates":[-114.034086,46.828986],"type":"Point"}
 }

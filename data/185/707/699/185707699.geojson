@@ -2,13 +2,14 @@
   "id": 185707699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.158984,47.712202,-104.158984,47.712202",
     "geom:latitude":47.712202,
     "geom:longitude":-104.158984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 S Central Ave",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185707699,
-    "wof:lastmodified":1449007981,
+    "wof:lastmodified":1466641427,
     "wof:name":"Savage Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-104.158984,47.712202,-104.158984,47.712202],
+  "bbox": [
+    -104.158984,
+    47.712202,
+    -104.158984,
+    47.712202
+],
   "geometry": {"coordinates":[-104.158984,47.712202],"type":"Point"}
 }

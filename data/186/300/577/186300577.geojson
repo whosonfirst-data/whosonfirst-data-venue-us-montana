@@ -2,13 +2,14 @@
   "id": 186300577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040867,46.749593,-112.040867,46.749593",
     "geom:latitude":46.749593,
     "geom:longitude":-112.040867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8695 Applegate Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186300577,
-    "wof:lastmodified":1449051894,
+    "wof:lastmodified":1466642622,
     "wof:name":"Montana Systems Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-112.040867,46.749593,-112.040867,46.749593],
-  "geometry": {"coordinates":[-112.040867,46.749593],"type":"Point"}
+  "bbox": [
+    -112.040867,
+    46.749593,
+    -112.040867,
+    46.749593
+],
+  "geometry": {"coordinates":[-112.04086700000001,46.749593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185899791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.72855,45.683415,-108.72855,45.683415",
     "geom:latitude":45.683415,
     "geom:longitude":-108.72855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Elkhorn Dr",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185899791,
-    "wof:lastmodified":1449008117,
+    "wof:lastmodified":1466641646,
     "wof:name":"Boesh Engineering & Testing",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-108.72855,45.683415,-108.72855,45.683415],
+  "bbox": [
+    -108.72855,
+    45.683415,
+    -108.72855,
+    45.683415
+],
   "geometry": {"coordinates":[-108.72855,45.683415],"type":"Point"}
 }

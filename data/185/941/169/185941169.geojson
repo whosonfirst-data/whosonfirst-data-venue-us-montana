@@ -2,13 +2,14 @@
   "id": 185941169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.65192,47.929624,-105.65192,47.929624",
     "geom:latitude":47.929624,
     "geom:longitude":-105.65192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1723 N Sand Creek Rd",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185941169,
-    "wof:lastmodified":1449007570,
+    "wof:lastmodified":1466641690,
     "wof:name":"M P V Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bean"
     ]
 },
-  "bbox": [-105.65192,47.929624,-105.65192,47.929624],
+  "bbox": [
+    -105.65192,
+    47.929624,
+    -105.65192,
+    47.929624
+],
   "geometry": {"coordinates":[-105.65192,47.929624],"type":"Point"}
 }

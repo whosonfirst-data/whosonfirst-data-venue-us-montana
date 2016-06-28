@@ -2,13 +2,14 @@
   "id": 186106423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.470737,45.826175,-108.470737,45.826175",
     "geom:latitude":45.826175,
     "geom:longitude":-108.470737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186106423,
-    "wof:lastmodified":1449050204,
+    "wof:lastmodified":1466641815,
     "wof:name":"Laurel Ridge Motel",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.470737,45.826175,-108.470737,45.826175],
+  "bbox": [
+    -108.470737,
+    45.826175,
+    -108.470737,
+    45.826175
+],
   "geometry": {"coordinates":[-108.470737,45.826175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186055925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.315929,47.531105,-111.315929,47.531105",
     "geom:latitude":47.531105,
     "geom:longitude":-111.315929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Riverview Dr W",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186055925,
-    "wof:lastmodified":1449050998,
+    "wof:lastmodified":1466641837,
     "wof:name":"Double A Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-111.315929,47.531105,-111.315929,47.531105],
+  "bbox": [
+    -111.315929,
+    47.531105,
+    -111.315929,
+    47.531105
+],
   "geometry": {"coordinates":[-111.315929,47.531105],"type":"Point"}
 }

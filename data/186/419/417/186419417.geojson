@@ -2,13 +2,14 @@
   "id": 186419417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.527498,45.81795,-108.527498,45.81795",
     "geom:latitude":45.81795,
     "geom:longitude":-108.527498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Foothill Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186419417,
-    "wof:lastmodified":1449052984,
+    "wof:lastmodified":1466642903,
     "wof:name":"David Schreder Imprvmnts By",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-108.527498,45.81795,-108.527498,45.81795],
-  "geometry": {"coordinates":[-108.527498,45.81795],"type":"Point"}
+  "bbox": [
+    -108.527498,
+    45.81795,
+    -108.527498,
+    45.81795
+],
+  "geometry": {"coordinates":[-108.52749799999999,45.81795],"type":"Point"}
 }

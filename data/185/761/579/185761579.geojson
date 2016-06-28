@@ -2,13 +2,14 @@
   "id": 185761579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.646856,48.095389,-105.646856,48.095389",
     "geom:latitude":48.095389,
     "geom:longitude":-105.646856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 6th Ave N",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185761579,
-    "wof:lastmodified":1449007844,
+    "wof:lastmodified":1466641492,
     "wof:name":"US For Peck Land Operations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.646856,48.095389,-105.646856,48.095389],
+  "bbox": [
+    -105.646856,
+    48.095389,
+    -105.646856,
+    48.095389
+],
   "geometry": {"coordinates":[-105.646856,48.095389],"type":"Point"}
 }

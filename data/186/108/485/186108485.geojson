@@ -2,13 +2,14 @@
   "id": 186108485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.715004,48.557038,-109.715004,48.557038",
     "geom:latitude":48.557038,
     "geom:longitude":-109.715004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1927 US Hwy 2 NW",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186108485,
-    "wof:lastmodified":1449050310,
+    "wof:lastmodified":1466642005,
     "wof:name":"Mountain Springs Spas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "facility"
     ]
 },
-  "bbox": [-109.715004,48.557038,-109.715004,48.557038],
-  "geometry": {"coordinates":[-109.715004,48.557038],"type":"Point"}
+  "bbox": [
+    -109.715004,
+    48.557038,
+    -109.715004,
+    48.557038
+],
+  "geometry": {"coordinates":[-109.71500399999999,48.557038],"type":"Point"}
 }

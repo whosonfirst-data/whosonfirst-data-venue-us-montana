@@ -2,13 +2,14 @@
   "id": 186096787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.63027,48.195857,-106.63027,48.195857",
     "geom:latitude":48.195857,
     "geom:longitude":-106.63027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 2nd St N",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186096787,
-    "wof:lastmodified":1449051257,
+    "wof:lastmodified":1466641960,
     "wof:name":"Johnnie Cafe Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "family"
     ]
 },
-  "bbox": [-106.63027,48.195857,-106.63027,48.195857],
+  "bbox": [
+    -106.63027,
+    48.195857,
+    -106.63027,
+    48.195857
+],
   "geometry": {"coordinates":[-106.63027,48.195857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185995023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.257169,48.254786,-114.257169,48.254786",
     "geom:latitude":48.254786,
     "geom:longitude":-114.257169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Rose Xing",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185995023,
-    "wof:lastmodified":1449008047,
+    "wof:lastmodified":1466641705,
     "wof:name":"Bruce Keller",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-114.257169,48.254786,-114.257169,48.254786],
+  "bbox": [
+    -114.257169,
+    48.254786,
+    -114.257169,
+    48.254786
+],
   "geometry": {"coordinates":[-114.257169,48.254786],"type":"Point"}
 }

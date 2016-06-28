@@ -2,13 +2,14 @@
   "id": 185943785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.511501,45.780598,-108.511501,45.780598",
     "geom:latitude":45.780598,
     "geom:longitude":-108.511501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 2nd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185943785,
-    "wof:lastmodified":1449007036,
+    "wof:lastmodified":1466641703,
     "wof:name":"Billings Health Affiliated CU",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.511501,45.780598,-108.511501,45.780598],
+  "bbox": [
+    -108.511501,
+    45.780598,
+    -108.511501,
+    45.780598
+],
   "geometry": {"coordinates":[-108.511501,45.780598],"type":"Point"}
 }

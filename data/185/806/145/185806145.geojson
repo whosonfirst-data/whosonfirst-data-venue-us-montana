@@ -2,13 +2,14 @@
   "id": 185806145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.57805,48.400387,-115.57805,48.400387",
     "geom:latitude":48.400387,
     "geom:longitude":-115.57805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 US Hwy 2 W",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185806145,
-    "wof:lastmodified":1449006591,
+    "wof:lastmodified":1466641534,
     "wof:name":"Kootenai National Forest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "forest"
     ]
 },
-  "bbox": [-115.57805,48.400387,-115.57805,48.400387],
+  "bbox": [
+    -115.57805,
+    48.400387,
+    -115.57805,
+    48.400387
+],
   "geometry": {"coordinates":[-115.57805,48.400387],"type":"Point"}
 }

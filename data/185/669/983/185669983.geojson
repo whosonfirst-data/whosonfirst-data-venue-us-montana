@@ -2,13 +2,14 @@
   "id": 185669983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.733553,46.398791,-112.733553,46.398791",
     "geom:latitude":46.398791,
     "geom:longitude":-112.733553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 4th St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185669983,
-    "wof:lastmodified":1449006789,
+    "wof:lastmodified":1466641393,
     "wof:name":"Prosthetics Assoc Dntl Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [-112.733553,46.398791,-112.733553,46.398791],
+  "bbox": [
+    -112.733553,
+    46.398791,
+    -112.733553,
+    46.398791
+],
   "geometry": {"coordinates":[-112.733553,46.398791],"type":"Point"}
 }

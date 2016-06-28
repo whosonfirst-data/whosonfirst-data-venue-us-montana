@@ -2,13 +2,14 @@
   "id": 185716795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.161899,47.695401,-114.161899,47.695401",
     "geom:latitude":47.695401,
     "geom:longitude":-114.161899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 1st St E",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185716795,
-    "wof:lastmodified":1449006834,
+    "wof:lastmodified":1466641440,
     "wof:name":"Northwest Mont Humn Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.161899,47.695401,-114.161899,47.695401],
-  "geometry": {"coordinates":[-114.161899,47.695401],"type":"Point"}
+  "bbox": [
+    -114.161899,
+    47.695401,
+    -114.161899,
+    47.695401
+],
+  "geometry": {"coordinates":[-114.16189900000001,47.695401],"type":"Point"}
 }

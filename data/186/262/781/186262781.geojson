@@ -2,13 +2,14 @@
   "id": 186262781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.304302,47.48983,-111.304302,47.48983",
     "geom:latitude":47.48983,
     "geom:longitude":-111.304302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 2nd St S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186262781,
-    "wof:lastmodified":1449052026,
+    "wof:lastmodified":1466642550,
     "wof:name":"Front Line Chemical Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.304302,47.48983,-111.304302,47.48983],
-  "geometry": {"coordinates":[-111.304302,47.48983],"type":"Point"}
+  "bbox": [
+    -111.304302,
+    47.48983,
+    -111.304302,
+    47.48983
+],
+  "geometry": {"coordinates":[-111.30430200000001,47.48983],"type":"Point"}
 }

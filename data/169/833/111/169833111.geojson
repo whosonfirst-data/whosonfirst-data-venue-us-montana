@@ -2,13 +2,14 @@
   "id": 169833111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.155931,46.250155,-114.155931,46.250155",
     "geom:latitude":46.250155,
     "geom:longitude":-114.155931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169833111,
-    "wof:lastmodified":1449033107,
+    "wof:lastmodified":1466641300,
     "wof:name":"Gregg Reinke Petro Land Man",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.155931,46.250155,-114.155931,46.250155],
+  "bbox": [
+    -114.155931,
+    46.250155,
+    -114.155931,
+    46.250155
+],
   "geometry": {"coordinates":[-114.155931,46.250155],"type":"Point"}
 }

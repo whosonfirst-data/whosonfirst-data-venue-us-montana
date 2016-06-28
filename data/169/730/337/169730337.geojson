@@ -2,13 +2,14 @@
   "id": 169730337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.000207,46.669263,-112.000207,46.669263",
     "geom:latitude":46.669263,
     "geom:longitude":-112.000207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4565 Glass Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":169730337,
-    "wof:lastmodified":1449035430,
+    "wof:lastmodified":1466641742,
     "wof:name":"Daisy Lazy Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-112.000207,46.669263,-112.000207,46.669263],
+  "bbox": [
+    -112.000207,
+    46.669263,
+    -112.000207,
+    46.669263
+],
   "geometry": {"coordinates":[-112.000207,46.669263],"type":"Point"}
 }

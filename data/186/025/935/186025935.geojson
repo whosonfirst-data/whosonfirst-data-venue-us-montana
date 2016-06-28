@@ -2,13 +2,14 @@
   "id": 186025935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.884419,45.623104,-108.884419,45.623104",
     "geom:latitude":45.623104,
     "geom:longitude":-108.884419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Schreiner Rd",
     "sg:city":"Park City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186025935,
-    "wof:lastmodified":1449052569,
+    "wof:lastmodified":1466641548,
     "wof:name":"Montana Boulder Mtn Side Cnstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.884419,45.623104,-108.884419,45.623104],
-  "geometry": {"coordinates":[-108.884419,45.623104],"type":"Point"}
+  "bbox": [
+    -108.884419,
+    45.623104,
+    -108.884419,
+    45.623104
+],
+  "geometry": {"coordinates":[-108.88441899999999,45.623104],"type":"Point"}
 }

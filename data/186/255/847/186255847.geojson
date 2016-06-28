@@ -2,13 +2,14 @@
   "id": 186255847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.481255,45.970051,-112.481255,45.970051",
     "geom:latitude":45.970051,
     "geom:longitude":-112.481255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Rocky Mountain Ln",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186255847,
-    "wof:lastmodified":1449051587,
+    "wof:lastmodified":1466642534,
     "wof:name":"Performance Auto LLC",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-112.481255,45.970051,-112.481255,45.970051],
+  "bbox": [
+    -112.481255,
+    45.970051,
+    -112.481255,
+    45.970051
+],
   "geometry": {"coordinates":[-112.481255,45.970051],"type":"Point"}
 }

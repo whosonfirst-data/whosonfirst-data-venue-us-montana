@@ -2,13 +2,14 @@
   "id": 185744369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.933541,46.127047,-112.933541,46.127047",
     "geom:latitude":46.127047,
     "geom:longitude":-112.933541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 E Commercial Ave",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185744369,
-    "wof:lastmodified":1449007176,
+    "wof:lastmodified":1466641467,
     "wof:name":"Anaconda Automotive Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-112.933541,46.127047,-112.933541,46.127047],
-  "geometry": {"coordinates":[-112.933541,46.127047],"type":"Point"}
+  "bbox": [
+    -112.933541,
+    46.127047,
+    -112.933541,
+    46.127047
+],
+  "geometry": {"coordinates":[-112.93354100000001,46.127047],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185905155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.179441,46.152034,-114.179441,46.152034",
     "geom:latitude":46.152034,
     "geom:longitude":-114.179441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1477 US Hwy 93 S",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185905155,
-    "wof:lastmodified":1449007253,
+    "wof:lastmodified":1466641634,
     "wof:name":"Huggans Rocky Mountain Fur Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ranch"
     ]
 },
-  "bbox": [-114.179441,46.152034,-114.179441,46.152034],
+  "bbox": [
+    -114.179441,
+    46.152034,
+    -114.179441,
+    46.152034
+],
   "geometry": {"coordinates":[-114.179441,46.152034],"type":"Point"}
 }

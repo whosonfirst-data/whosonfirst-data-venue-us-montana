@@ -2,13 +2,14 @@
   "id": 185947813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.636196,45.213356,-112.636196,45.213356",
     "geom:latitude":45.213356,
     "geom:longitude":-112.636196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Atlantic St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185947813,
-    "wof:lastmodified":1449007758,
+    "wof:lastmodified":1466641706,
     "wof:name":"Brundage Funeral Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortuary"
     ]
 },
-  "bbox": [-112.636196,45.213356,-112.636196,45.213356],
+  "bbox": [
+    -112.636196,
+    45.213356,
+    -112.636196,
+    45.213356
+],
   "geometry": {"coordinates":[-112.636196,45.213356],"type":"Point"}
 }

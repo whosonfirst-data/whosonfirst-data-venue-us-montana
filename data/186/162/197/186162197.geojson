@@ -2,13 +2,14 @@
   "id": 186162197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.3582,47.925524,-114.3582,47.925524",
     "geom:latitude":47.925524,
     "geom:longitude":-114.3582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Golden Pine Ln",
     "sg:city":"Proctor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186162197,
-    "wof:lastmodified":1449052624,
+    "wof:lastmodified":1466642137,
     "wof:name":"Breckenridge Land Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.3582,47.925524,-114.3582,47.925524],
+  "bbox": [
+    -114.3582,
+    47.925524,
+    -114.3582,
+    47.925524
+],
   "geometry": {"coordinates":[-114.3582,47.925524],"type":"Point"}
 }

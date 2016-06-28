@@ -2,13 +2,14 @@
   "id": 186347701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.635638,45.805096,-108.635638,45.805096",
     "geom:latitude":45.805096,
     "geom:longitude":-108.635638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4611 Cheyenne Trl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186347701,
-    "wof:lastmodified":1449051674,
+    "wof:lastmodified":1466642845,
     "wof:name":"Bison Better Buildt",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-108.635638,45.805096,-108.635638,45.805096],
+  "bbox": [
+    -108.635638,
+    45.805096,
+    -108.635638,
+    45.805096
+],
   "geometry": {"coordinates":[-108.635638,45.805096],"type":"Point"}
 }

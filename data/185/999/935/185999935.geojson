@@ -2,13 +2,14 @@
   "id": 185999935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.545432,45.786858,-108.545432,45.786858",
     "geom:latitude":45.786858,
     "geom:longitude":-108.545432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Ave D",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185999935,
-    "wof:lastmodified":1449008026,
+    "wof:lastmodified":1466641793,
     "wof:name":"Znory Zone Of Montana",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.545432,45.786858,-108.545432,45.786858],
-  "geometry": {"coordinates":[-108.545432,45.786858],"type":"Point"}
+  "bbox": [
+    -108.545432,
+    45.786858,
+    -108.545432,
+    45.786858
+],
+  "geometry": {"coordinates":[-108.54543200000001,45.786858],"type":"Point"}
 }

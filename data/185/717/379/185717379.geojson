@@ -2,13 +2,14 @@
   "id": 185717379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.537475,45.754689,-108.537475,45.754689",
     "geom:latitude":45.754689,
     "geom:longitude":-108.537475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4950 Southgate Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185717379,
-    "wof:lastmodified":1449006621,
+    "wof:lastmodified":1466641438,
     "wof:name":"Extended Stay America",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.537475,45.754689,-108.537475,45.754689],
+  "bbox": [
+    -108.537475,
+    45.754689,
+    -108.537475,
+    45.754689
+],
   "geometry": {"coordinates":[-108.537475,45.754689],"type":"Point"}
 }

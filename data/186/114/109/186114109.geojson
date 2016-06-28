@@ -2,13 +2,14 @@
   "id": 186114109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.509788,45.782629,-108.509788,45.782629",
     "geom:latitude":45.782629,
     "geom:longitude":-108.509788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 3rd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186114109,
-    "wof:lastmodified":1449051495,
+    "wof:lastmodified":1466642025,
     "wof:name":"Montana Safety Svc Council",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "safety"
     ]
 },
-  "bbox": [-108.509788,45.782629,-108.509788,45.782629],
+  "bbox": [
+    -108.509788,
+    45.782629,
+    -108.509788,
+    45.782629
+],
   "geometry": {"coordinates":[-108.509788,45.782629],"type":"Point"}
 }

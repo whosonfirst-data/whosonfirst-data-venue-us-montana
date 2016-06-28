@@ -2,13 +2,14 @@
   "id": 186275157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.016443,45.677662,-111.016443,45.677662",
     "geom:latitude":45.677662,
     "geom:longitude":-111.016443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Haggerty Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186275157,
-    "wof:lastmodified":1449051251,
+    "wof:lastmodified":1466642565,
     "wof:name":"Scott Lake Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.016443,45.677662,-111.016443,45.677662],
+  "bbox": [
+    -111.016443,
+    45.677662,
+    -111.016443,
+    45.677662
+],
   "geometry": {"coordinates":[-111.016443,45.677662],"type":"Point"}
 }

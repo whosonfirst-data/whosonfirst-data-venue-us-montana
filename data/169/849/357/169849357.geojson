@@ -2,13 +2,14 @@
   "id": 169849357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.802477,45.676091,-108.802477,45.676091",
     "geom:latitude":45.676091,
     "geom:longitude":-108.802477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Golf Course Rd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169849357,
-    "wof:lastmodified":1449033299,
+    "wof:lastmodified":1466641330,
     "wof:name":"Gloria Allwin",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-108.802477,45.676091,-108.802477,45.676091],
+  "bbox": [
+    -108.802477,
+    45.676091,
+    -108.802477,
+    45.676091
+],
   "geometry": {"coordinates":[-108.802477,45.676091],"type":"Point"}
 }

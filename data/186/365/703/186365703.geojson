@@ -2,13 +2,14 @@
   "id": 186365703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.007611,46.591102,-112.007611,46.591102",
     "geom:latitude":46.591102,
     "geom:longitude":-112.007611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1827 Prospect Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186365703,
-    "wof:lastmodified":1449050842,
+    "wof:lastmodified":1466642768,
     "wof:name":"Melaque Mexican Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.007611,46.591102,-112.007611,46.591102],
+  "bbox": [
+    -112.007611,
+    46.591102,
+    -112.007611,
+    46.591102
+],
   "geometry": {"coordinates":[-112.007611,46.591102],"type":"Point"}
 }

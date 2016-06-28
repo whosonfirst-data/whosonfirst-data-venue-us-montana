@@ -2,13 +2,14 @@
   "id": 169773233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.255655,45.921234,-108.255655,45.921234",
     "geom:latitude":45.921234,
     "geom:longitude":-108.255655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 Stanhope Rd",
     "sg:city":"Huntley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169773233,
-    "wof:lastmodified":1449033106,
+    "wof:lastmodified":1466641222,
     "wof:name":"A G Feed & Hatchery",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.255655,45.921234,-108.255655,45.921234],
+  "bbox": [
+    -108.255655,
+    45.921234,
+    -108.255655,
+    45.921234
+],
   "geometry": {"coordinates":[-108.255655,45.921234],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186100519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.509749,48.312671,-115.509749,48.312671",
     "geom:latitude":48.312671,
     "geom:longitude":-115.509749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Autumn Rd",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186100519,
-    "wof:lastmodified":1449052337,
+    "wof:lastmodified":1466641981,
     "wof:name":"T & B Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.509749,48.312671,-115.509749,48.312671],
+  "bbox": [
+    -115.509749,
+    48.312671,
+    -115.509749,
+    48.312671
+],
   "geometry": {"coordinates":[-115.509749,48.312671],"type":"Point"}
 }

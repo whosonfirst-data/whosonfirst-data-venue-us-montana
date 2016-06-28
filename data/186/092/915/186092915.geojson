@@ -2,13 +2,14 @@
   "id": 186092915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.447087,45.528435,-109.447087,45.528435",
     "geom:latitude":45.528435,
     "geom:longitude":-109.447087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Rosebud Rd",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186092915,
-    "wof:lastmodified":1449052511,
+    "wof:lastmodified":1466641959,
     "wof:name":"T-Bone RE & Consulting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.447087,45.528435,-109.447087,45.528435],
+  "bbox": [
+    -109.447087,
+    45.528435,
+    -109.447087,
+    45.528435
+],
   "geometry": {"coordinates":[-109.447087,45.528435],"type":"Point"}
 }

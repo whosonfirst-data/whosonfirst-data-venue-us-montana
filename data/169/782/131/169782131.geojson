@@ -2,13 +2,14 @@
   "id": 169782131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.845546,46.69753,-111.845546,46.69753",
     "geom:latitude":46.69753,
     "geom:longitude":-111.845546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5250 Husky Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169782131,
-    "wof:lastmodified":1449032671,
+    "wof:lastmodified":1466641238,
     "wof:name":"Mike Trevor Fish Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.845546,46.69753,-111.845546,46.69753],
+  "bbox": [
+    -111.845546,
+    46.69753,
+    -111.845546,
+    46.69753
+],
   "geometry": {"coordinates":[-111.845546,46.69753],"type":"Point"}
 }

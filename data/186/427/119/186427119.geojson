@@ -2,13 +2,14 @@
   "id": 186427119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.634053,45.217897,-112.634053,45.217897",
     "geom:latitude":45.217897,
     "geom:longitude":-112.634053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Helena St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186427119,
-    "wof:lastmodified":1449051187,
+    "wof:lastmodified":1466642916,
     "wof:name":"Adventure Cycle & Sled Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.634053,45.217897,-112.634053,45.217897],
-  "geometry": {"coordinates":[-112.634053,45.217897],"type":"Point"}
+  "bbox": [
+    -112.634053,
+    45.217897,
+    -112.634053,
+    45.217897
+],
+  "geometry": {"coordinates":[-112.63405299999999,45.217897],"type":"Point"}
 }

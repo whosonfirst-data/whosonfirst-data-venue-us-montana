@@ -2,13 +2,14 @@
   "id": 185659753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.109213,46.534752,-114.109213,46.534752",
     "geom:latitude":46.534752,
     "geom:longitude":-114.109213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4054 US Hwy 93",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185659753,
-    "wof:lastmodified":1449006778,
+    "wof:lastmodified":1466641381,
     "wof:name":"Bitterroot Pet Palace Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "washing"
     ]
 },
-  "bbox": [-114.109213,46.534752,-114.109213,46.534752],
+  "bbox": [
+    -114.109213,
+    46.534752,
+    -114.109213,
+    46.534752
+],
   "geometry": {"coordinates":[-114.109213,46.534752],"type":"Point"}
 }

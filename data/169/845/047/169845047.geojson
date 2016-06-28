@@ -2,13 +2,14 @@
   "id": 169845047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.711373,48.542861,-109.711373,48.542861",
     "geom:latitude":48.542861,
     "geom:longitude":-109.711373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 11th St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169845047,
-    "wof:lastmodified":1449033236,
+    "wof:lastmodified":1466641316,
     "wof:name":"Dick Nault Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.711373,48.542861,-109.711373,48.542861],
-  "geometry": {"coordinates":[-109.711373,48.542861],"type":"Point"}
+  "bbox": [
+    -109.711373,
+    48.542861,
+    -109.711373,
+    48.542861
+],
+  "geometry": {"coordinates":[-109.71137299999999,48.542861],"type":"Point"}
 }

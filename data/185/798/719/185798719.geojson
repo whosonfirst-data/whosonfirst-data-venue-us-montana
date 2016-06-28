@@ -2,13 +2,14 @@
   "id": 185798719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.345202,45.90868,-108.345202,45.90868",
     "geom:latitude":45.90868,
     "geom:longitude":-108.345202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6133 Severence Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185798719,
-    "wof:lastmodified":1449006916,
+    "wof:lastmodified":1466641531,
     "wof:name":"Twenty X Panels",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-108.345202,45.90868,-108.345202,45.90868],
+  "bbox": [
+    -108.345202,
+    45.90868,
+    -108.345202,
+    45.90868
+],
   "geometry": {"coordinates":[-108.345202,45.90868],"type":"Point"}
 }

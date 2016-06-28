@@ -2,13 +2,14 @@
   "id": 186386577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.031762,46.628508,-112.031762,46.628508",
     "geom:latitude":46.628508,
     "geom:longitude":-112.031762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3915 McHugh Ln",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186386577,
-    "wof:lastmodified":1449051783,
+    "wof:lastmodified":1466642678,
     "wof:name":"Country Barn LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-112.031762,46.628508,-112.031762,46.628508],
+  "bbox": [
+    -112.031762,
+    46.628508,
+    -112.031762,
+    46.628508
+],
   "geometry": {"coordinates":[-112.031762,46.628508],"type":"Point"}
 }

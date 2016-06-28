@@ -2,13 +2,14 @@
   "id": 186336019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.769148,45.670827,-108.769148,45.670827",
     "geom:latitude":45.670827,
     "geom:longitude":-108.769148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 E 1st St",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186336019,
-    "wof:lastmodified":1449050183,
+    "wof:lastmodified":1466642521,
     "wof:name":"Fastcow Technologies",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-108.769148,45.670827,-108.769148,45.670827],
+  "bbox": [
+    -108.769148,
+    45.670827,
+    -108.769148,
+    45.670827
+],
   "geometry": {"coordinates":[-108.769148,45.670827],"type":"Point"}
 }

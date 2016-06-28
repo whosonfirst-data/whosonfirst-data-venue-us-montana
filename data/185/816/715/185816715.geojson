@@ -2,13 +2,14 @@
   "id": 185816715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.557819,45.280274,-112.557819,45.280274",
     "geom:latitude":45.280274,
     "geom:longitude":-112.557819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Stone Creek Rd",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185816715,
-    "wof:lastmodified":1449007547,
+    "wof:lastmodified":1466641552,
     "wof:name":"Rebish & Helle Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.557819,45.280274,-112.557819,45.280274],
-  "geometry": {"coordinates":[-112.557819,45.280274],"type":"Point"}
+  "bbox": [
+    -112.557819,
+    45.280274,
+    -112.557819,
+    45.280274
+],
+  "geometry": {"coordinates":[-112.55781899999999,45.280274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185947343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.342799,45.945285,-108.342799,45.945285",
     "geom:latitude":45.945285,
     "geom:longitude":-108.342799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 Shepherd Rd",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185947343,
-    "wof:lastmodified":1449007758,
+    "wof:lastmodified":1466641699,
     "wof:name":"Jim Rooney",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "gravel"
     ]
 },
-  "bbox": [-108.342799,45.945285,-108.342799,45.945285],
+  "bbox": [
+    -108.342799,
+    45.945285,
+    -108.342799,
+    45.945285
+],
   "geometry": {"coordinates":[-108.342799,45.945285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186281803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.745064,48.546692,-109.745064,48.546692",
     "geom:latitude":48.546692,
     "geom:longitude":-109.745064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4115 9th St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186281803,
-    "wof:lastmodified":1449052601,
+    "wof:lastmodified":1466642365,
     "wof:name":"Havre Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.745064,48.546692,-109.745064,48.546692],
+  "bbox": [
+    -109.745064,
+    48.546692,
+    -109.745064,
+    48.546692
+],
   "geometry": {"coordinates":[-109.745064,48.546692],"type":"Point"}
 }

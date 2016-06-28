@@ -2,13 +2,14 @@
   "id": 185999059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.49713,45.757241,-108.49713,45.757241",
     "geom:latitude":45.757241,
     "geom:longitude":-108.49713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 Haugen St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185999059,
-    "wof:lastmodified":1449008023,
+    "wof:lastmodified":1466641711,
     "wof:name":"KMZK",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-108.49713,45.757241,-108.49713,45.757241],
+  "bbox": [
+    -108.49713,
+    45.757241,
+    -108.49713,
+    45.757241
+],
   "geometry": {"coordinates":[-108.49713,45.757241],"type":"Point"}
 }

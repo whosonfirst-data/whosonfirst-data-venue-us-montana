@@ -2,13 +2,14 @@
   "id": 185684127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.505599,45.782003,-108.505599,45.782003",
     "geom:latitude":45.782003,
     "geom:longitude":-108.505599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 N Broadway",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185684127,
-    "wof:lastmodified":1449007016,
+    "wof:lastmodified":1466641399,
     "wof:name":"Fun Adventures",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "promoter"
     ]
 },
-  "bbox": [-108.505599,45.782003,-108.505599,45.782003],
+  "bbox": [
+    -108.505599,
+    45.782003,
+    -108.505599,
+    45.782003
+],
   "geometry": {"coordinates":[-108.505599,45.782003],"type":"Point"}
 }

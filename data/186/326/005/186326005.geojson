@@ -2,13 +2,14 @@
   "id": 186326005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.609408,45.761254,-108.609408,45.761254",
     "geom:latitude":45.761254,
     "geom:longitude":-108.609408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3749 Marathon Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186326005,
-    "wof:lastmodified":1449051519,
+    "wof:lastmodified":1466642413,
     "wof:name":"Advanced Home Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.609408,45.761254,-108.609408,45.761254],
+  "bbox": [
+    -108.609408,
+    45.761254,
+    -108.609408,
+    45.761254
+],
   "geometry": {"coordinates":[-108.609408,45.761254],"type":"Point"}
 }

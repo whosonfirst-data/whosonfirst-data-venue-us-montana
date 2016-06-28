@@ -2,13 +2,14 @@
   "id": 186381329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.191543,48.114954,-105.191543,48.114954",
     "geom:latitude":48.114954,
     "geom:longitude":-105.191543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Court Ave",
     "sg:city":"Poplar",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186381329,
-    "wof:lastmodified":1449050467,
+    "wof:lastmodified":1466642649,
     "wof:name":"US Indian Affairs Facility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.191543,48.114954,-105.191543,48.114954],
+  "bbox": [
+    -105.191543,
+    48.114954,
+    -105.191543,
+    48.114954
+],
   "geometry": {"coordinates":[-105.191543,48.114954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186436245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.314723,48.20126,-114.314723,48.20126",
     "geom:latitude":48.20126,
     "geom:longitude":-114.314723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 N Main St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186436245,
-    "wof:lastmodified":1449052766,
+    "wof:lastmodified":1466642844,
     "wof:name":"Bianchi Catering",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "catering"
     ]
 },
-  "bbox": [-114.314723,48.20126,-114.314723,48.20126],
+  "bbox": [
+    -114.314723,
+    48.20126,
+    -114.314723,
+    48.20126
+],
   "geometry": {"coordinates":[-114.314723,48.20126],"type":"Point"}
 }

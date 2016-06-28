@@ -2,13 +2,14 @@
   "id": 169726151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.70603,45.685601,-108.70603,45.685601",
     "geom:latitude":45.685601,
     "geom:longitude":-108.70603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7215 Mossmain Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169726151,
-    "wof:lastmodified":1449034953,
+    "wof:lastmodified":1466641738,
     "wof:name":"Horse Palace",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-108.70603,45.685601,-108.70603,45.685601],
+  "bbox": [
+    -108.70603,
+    45.685601,
+    -108.70603,
+    45.685601
+],
   "geometry": {"coordinates":[-108.70603,45.685601],"type":"Point"}
 }

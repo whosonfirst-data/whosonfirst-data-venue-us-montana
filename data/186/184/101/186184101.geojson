@@ -2,13 +2,14 @@
   "id": 186184101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.535327,45.78391,-108.535327,45.78391",
     "geom:latitude":45.78391,
     "geom:longitude":-108.535327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186184101,
-    "wof:lastmodified":1449050868,
+    "wof:lastmodified":1466642191,
     "wof:name":"Imaging Resorces Inc",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.535327,45.78391,-108.535327,45.78391],
+  "bbox": [
+    -108.535327,
+    45.78391,
+    -108.535327,
+    45.78391
+],
   "geometry": {"coordinates":[-108.535327,45.78391],"type":"Point"}
 }

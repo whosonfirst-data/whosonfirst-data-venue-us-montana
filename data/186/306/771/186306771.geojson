@@ -2,13 +2,14 @@
   "id": 186306771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.162748,46.28118,-114.162748,46.28118",
     "geom:latitude":46.28118,
     "geom:longitude":-114.162748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Bowman Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186306771,
-    "wof:lastmodified":1449052916,
+    "wof:lastmodified":1466642637,
     "wof:name":"Big Sky Christian Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-114.162748,46.28118,-114.162748,46.28118],
-  "geometry": {"coordinates":[-114.162748,46.28118],"type":"Point"}
+  "bbox": [
+    -114.162748,
+    46.28118,
+    -114.162748,
+    46.28118
+],
+  "geometry": {"coordinates":[-114.16274799999999,46.28118],"type":"Point"}
 }

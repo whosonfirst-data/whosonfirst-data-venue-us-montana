@@ -2,13 +2,14 @@
   "id": 186230423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.654063,45.806861,-108.654063,45.806861",
     "geom:latitude":45.806861,
     "geom:longitude":-108.654063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5422 Walter Hagen Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186230423,
-    "wof:lastmodified":1449052340,
+    "wof:lastmodified":1466642485,
     "wof:name":"Romain Land Cattle Ltd Partnr",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "investor"
     ]
 },
-  "bbox": [-108.654063,45.806861,-108.654063,45.806861],
-  "geometry": {"coordinates":[-108.654063,45.806861],"type":"Point"}
+  "bbox": [
+    -108.654063,
+    45.806861,
+    -108.654063,
+    45.806861
+],
+  "geometry": {"coordinates":[-108.65406299999999,45.806861],"type":"Point"}
 }

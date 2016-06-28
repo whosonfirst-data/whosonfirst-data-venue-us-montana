@@ -2,13 +2,14 @@
   "id": 169722139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.575377,45.778942,-108.575377,45.778942",
     "geom:latitude":45.778942,
     "geom:longitude":-108.575377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 Yellowstone Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169722139,
-    "wof:lastmodified":1449033844,
+    "wof:lastmodified":1466641733,
     "wof:name":"Caryl & Company",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-108.575377,45.778942,-108.575377,45.778942],
+  "bbox": [
+    -108.575377,
+    45.778942,
+    -108.575377,
+    45.778942
+],
   "geometry": {"coordinates":[-108.575377,45.778942],"type":"Point"}
 }

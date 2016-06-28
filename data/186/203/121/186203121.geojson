@@ -2,13 +2,14 @@
   "id": 186203121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.154824,47.692296,-114.154824,47.692296",
     "geom:latitude":47.692296,
     "geom:longitude":-114.154824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 4th Ave E",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186203121,
-    "wof:lastmodified":1449051567,
+    "wof:lastmodified":1466642265,
     "wof:name":"Kelly Ware Deep Tissue Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-114.154824,47.692296,-114.154824,47.692296],
+  "bbox": [
+    -114.154824,
+    47.692296,
+    -114.154824,
+    47.692296
+],
   "geometry": {"coordinates":[-114.154824,47.692296],"type":"Point"}
 }

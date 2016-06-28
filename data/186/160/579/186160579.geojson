@@ -2,13 +2,14 @@
   "id": 186160579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.046623,46.656375,-112.046623,46.656375",
     "geom:latitude":46.656375,
     "geom:longitude":-112.046623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5625 Quartz Ct",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186160579,
-    "wof:lastmodified":1449052578,
+    "wof:lastmodified":1466642141,
     "wof:name":"Mykells Specialty Auto LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-112.046623,46.656375,-112.046623,46.656375],
+  "bbox": [
+    -112.046623,
+    46.656375,
+    -112.046623,
+    46.656375
+],
   "geometry": {"coordinates":[-112.046623,46.656375],"type":"Point"}
 }

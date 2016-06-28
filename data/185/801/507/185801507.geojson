@@ -2,13 +2,14 @@
   "id": 185801507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.767195,45.672362,-108.767195,45.672362",
     "geom:latitude":45.672362,
     "geom:longitude":-108.767195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 E 4th St",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185801507,
-    "wof:lastmodified":1449007952,
+    "wof:lastmodified":1466641531,
     "wof:name":"Crazy Mountain Oil & Gas Svc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oil"
     ]
 },
-  "bbox": [-108.767195,45.672362,-108.767195,45.672362],
+  "bbox": [
+    -108.767195,
+    45.672362,
+    -108.767195,
+    45.672362
+],
   "geometry": {"coordinates":[-108.767195,45.672362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186192823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.520614,48.323813,-115.520614,48.323813",
     "geom:latitude":48.323813,
     "geom:longitude":-115.520614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5284 US Hwy 2 S",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186192823,
-    "wof:lastmodified":1449052255,
+    "wof:lastmodified":1466642242,
     "wof:name":"M & M Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hauling"
     ]
 },
-  "bbox": [-115.520614,48.323813,-115.520614,48.323813],
-  "geometry": {"coordinates":[-115.520614,48.323813],"type":"Point"}
+  "bbox": [
+    -115.520614,
+    48.323813,
+    -115.520614,
+    48.323813
+],
+  "geometry": {"coordinates":[-115.52061399999999,48.323813],"type":"Point"}
 }

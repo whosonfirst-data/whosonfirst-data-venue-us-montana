@@ -2,13 +2,14 @@
   "id": 186425443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.590935,45.784113,-108.590935,45.784113",
     "geom:latitude":45.784113,
     "geom:longitude":-108.590935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3039 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186425443,
-    "wof:lastmodified":1449051341,
+    "wof:lastmodified":1466642923,
     "wof:name":"Ultratan",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-108.590935,45.784113,-108.590935,45.784113],
+  "bbox": [
+    -108.590935,
+    45.784113,
+    -108.590935,
+    45.784113
+],
   "geometry": {"coordinates":[-108.590935,45.784113],"type":"Point"}
 }

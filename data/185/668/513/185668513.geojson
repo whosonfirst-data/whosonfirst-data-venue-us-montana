@@ -2,13 +2,14 @@
   "id": 185668513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.834208,47.305322,-110.834208,47.305322",
     "geom:latitude":47.305322,
     "geom:longitude":-110.834208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 US Hwy 87",
     "sg:city":"Belt",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185668513,
-    "wof:lastmodified":1449007715,
+    "wof:lastmodified":1466641389,
     "wof:name":"Henry Maki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-110.834208,47.305322,-110.834208,47.305322],
+  "bbox": [
+    -110.834208,
+    47.305322,
+    -110.834208,
+    47.305322
+],
   "geometry": {"coordinates":[-110.834208,47.305322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185770115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.015219,46.611394,-112.015219,46.611394",
     "geom:latitude":46.611394,
     "geom:longitude":-112.015219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Birch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185770115,
-    "wof:lastmodified":1449008247,
+    "wof:lastmodified":1466641493,
     "wof:name":"C E D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-112.015219,46.611394,-112.015219,46.611394],
+  "bbox": [
+    -112.015219,
+    46.611394,
+    -112.015219,
+    46.611394
+],
   "geometry": {"coordinates":[-112.015219,46.611394],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186067627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.506534,45.782994,-108.506534,45.782994",
     "geom:latitude":45.782994,
     "geom:longitude":-108.506534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N 28th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":186067627,
-    "wof:lastmodified":1449050434,
+    "wof:lastmodified":1466641865,
     "wof:name":"Kitchen Gallery",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "bath"
     ]
 },
-  "bbox": [-108.506534,45.782994,-108.506534,45.782994],
+  "bbox": [
+    -108.506534,
+    45.782994,
+    -108.506534,
+    45.782994
+],
   "geometry": {"coordinates":[-108.506534,45.782994],"type":"Point"}
 }

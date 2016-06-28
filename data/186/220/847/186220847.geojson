@@ -2,13 +2,14 @@
   "id": 186220847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.188829,47.818264,-112.188829,47.818264",
     "geom:latitude":47.818264,
     "geom:longitude":-112.188829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 7th Ave NW",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186220847,
-    "wof:lastmodified":1449052940,
+    "wof:lastmodified":1466642390,
     "wof:name":"Outpost Deli",
     "wof:parent_id":85810939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-112.188829,47.818264,-112.188829,47.818264],
+  "bbox": [
+    -112.188829,
+    47.818264,
+    -112.188829,
+    47.818264
+],
   "geometry": {"coordinates":[-112.188829,47.818264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186181279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.165562,46.294635,-114.165562,46.294635",
     "geom:latitude":46.294635,
     "geom:longitude":-114.165562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 Orchard Dr",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186181279,
-    "wof:lastmodified":1449052005,
+    "wof:lastmodified":1466642389,
     "wof:name":"Andrew Roche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.165562,46.294635,-114.165562,46.294635],
-  "geometry": {"coordinates":[-114.165562,46.294635],"type":"Point"}
+  "bbox": [
+    -114.165562,
+    46.294635,
+    -114.165562,
+    46.294635
+],
+  "geometry": {"coordinates":[-114.16556199999999,46.294635],"type":"Point"}
 }

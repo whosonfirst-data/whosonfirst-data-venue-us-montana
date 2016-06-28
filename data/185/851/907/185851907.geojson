@@ -2,13 +2,14 @@
   "id": 185851907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.741307,47.105524,-104.741307,47.105524",
     "geom:latitude":47.105524,
     "geom:longitude":-104.741307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Crisafulli Dr",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185851907,
-    "wof:lastmodified":1449007661,
+    "wof:lastmodified":1466641591,
     "wof:name":"Frostys In & Out",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-104.741307,47.105524,-104.741307,47.105524],
-  "geometry": {"coordinates":[-104.741307,47.105524],"type":"Point"}
+  "bbox": [
+    -104.741307,
+    47.105524,
+    -104.741307,
+    47.105524
+],
+  "geometry": {"coordinates":[-104.74130700000001,47.105524],"type":"Point"}
 }

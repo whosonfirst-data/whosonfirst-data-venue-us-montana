@@ -2,13 +2,14 @@
   "id": 186316095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.517465,45.999757,-112.517465,45.999757",
     "geom:latitude":45.999757,
     "geom:longitude":-112.517465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186316095,
-    "wof:lastmodified":1449052189,
+    "wof:lastmodified":1466642649,
     "wof:name":"Edtech Federal Credit Union",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.517465,45.999757,-112.517465,45.999757],
+  "bbox": [
+    -112.517465,
+    45.999757,
+    -112.517465,
+    45.999757
+],
   "geometry": {"coordinates":[-112.517465,45.999757],"type":"Point"}
 }

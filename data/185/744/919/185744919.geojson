@@ -2,13 +2,14 @@
   "id": 185744919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.021806,46.616464,-112.021806,46.616464",
     "geom:latitude":46.616464,
     "geom:longitude":-112.021806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W Custer Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185744919,
-    "wof:lastmodified":1449007175,
+    "wof:lastmodified":1466641474,
     "wof:name":"Express Personnel Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.021806,46.616464,-112.021806,46.616464],
+  "bbox": [
+    -112.021806,
+    46.616464,
+    -112.021806,
+    46.616464
+],
   "geometry": {"coordinates":[-112.021806,46.616464],"type":"Point"}
 }

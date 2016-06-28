@@ -2,13 +2,14 @@
   "id": 185611287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.786174,45.622064,-108.786174,45.622064",
     "geom:latitude":45.622064,
     "geom:longitude":-108.786174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3075 Vista Ln",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185611287,
-    "wof:lastmodified":1449007883,
+    "wof:lastmodified":1466641187,
     "wof:name":"Larned Tree Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "shrub"
     ]
 },
-  "bbox": [-108.786174,45.622064,-108.786174,45.622064],
+  "bbox": [
+    -108.786174,
+    45.622064,
+    -108.786174,
+    45.622064
+],
   "geometry": {"coordinates":[-108.786174,45.622064],"type":"Point"}
 }

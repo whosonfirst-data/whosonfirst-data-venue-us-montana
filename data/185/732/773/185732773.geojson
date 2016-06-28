@@ -2,13 +2,14 @@
   "id": 185732773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.487391,45.79111,-108.487391,45.79111",
     "geom:latitude":45.79111,
     "geom:longitude":-108.487391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 1st Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185732773,
-    "wof:lastmodified":1449008275,
+    "wof:lastmodified":1466641458,
     "wof:name":"Big Sky Books",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "picture"
     ]
 },
-  "bbox": [-108.487391,45.79111,-108.487391,45.79111],
+  "bbox": [
+    -108.487391,
+    45.79111,
+    -108.487391,
+    45.79111
+],
   "geometry": {"coordinates":[-108.487391,45.79111],"type":"Point"}
 }

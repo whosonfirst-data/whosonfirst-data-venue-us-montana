@@ -2,13 +2,14 @@
   "id": 185632455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.612211,45.74267,-107.612211,45.74267",
     "geom:latitude":45.74267,
     "geom:longitude":-107.612211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 N Crawford Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185632455,
-    "wof:lastmodified":1449007623,
+    "wof:lastmodified":1466641332,
     "wof:name":"Far West Casino & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-107.612211,45.74267,-107.612211,45.74267],
+  "bbox": [
+    -107.612211,
+    45.74267,
+    -107.612211,
+    45.74267
+],
   "geometry": {"coordinates":[-107.612211,45.74267],"type":"Point"}
 }

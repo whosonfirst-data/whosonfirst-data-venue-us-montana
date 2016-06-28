@@ -2,13 +2,14 @@
   "id": 186276021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.722836,45.678097,-108.722836,45.678097",
     "geom:latitude":45.678097,
     "geom:longitude":-108.722836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Shannon Rd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186276021,
-    "wof:lastmodified":1449050372,
+    "wof:lastmodified":1466642725,
     "wof:name":"Chemetron Railway Products",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-108.722836,45.678097,-108.722836,45.678097],
+  "bbox": [
+    -108.722836,
+    45.678097,
+    -108.722836,
+    45.678097
+],
   "geometry": {"coordinates":[-108.722836,45.678097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185606859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.156309,47.687307,-114.156309,47.687307",
     "geom:latitude":47.687307,
     "geom:longitude":-114.156309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 5th St E",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185606859,
-    "wof:lastmodified":1449006862,
+    "wof:lastmodified":1466641183,
     "wof:name":"Mercer Welding LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-114.156309,47.687307,-114.156309,47.687307],
-  "geometry": {"coordinates":[-114.156309,47.687307],"type":"Point"}
+  "bbox": [
+    -114.156309,
+    47.687307,
+    -114.156309,
+    47.687307
+],
+  "geometry": {"coordinates":[-114.15630899999999,47.687307],"type":"Point"}
 }

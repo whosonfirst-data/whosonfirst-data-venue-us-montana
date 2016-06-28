@@ -2,13 +2,14 @@
   "id": 186183655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.096094,45.869521,-112.096094,45.869521",
     "geom:latitude":45.869521,
     "geom:longitude":-112.096094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Legion Ave",
     "sg:city":"Whitehall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186183655,
-    "wof:lastmodified":1449051821,
+    "wof:lastmodified":1466642193,
     "wof:name":"Jefferson River Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-112.096094,45.869521,-112.096094,45.869521],
-  "geometry": {"coordinates":[-112.096094,45.869521],"type":"Point"}
+  "bbox": [
+    -112.096094,
+    45.869521,
+    -112.096094,
+    45.869521
+],
+  "geometry": {"coordinates":[-112.09609399999999,45.869521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169723151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.286099,48.214655,-114.286099,48.214655",
     "geom:latitude":48.214655,
     "geom:longitude":-114.286099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 River Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169723151,
-    "wof:lastmodified":1449034616,
+    "wof:lastmodified":1466641734,
     "wof:name":"J C's Kalispell",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.286099,48.214655,-114.286099,48.214655],
-  "geometry": {"coordinates":[-114.286099,48.214655],"type":"Point"}
+  "bbox": [
+    -114.286099,
+    48.214655,
+    -114.286099,
+    48.214655
+],
+  "geometry": {"coordinates":[-114.28609899999999,48.214655],"type":"Point"}
 }

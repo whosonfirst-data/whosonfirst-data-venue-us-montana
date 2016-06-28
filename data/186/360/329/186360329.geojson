@@ -2,13 +2,14 @@
   "id": 186360329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.831256,46.434729,-109.831256,46.434729",
     "geom:latitude":46.434729,
     "geom:longitude":-109.831256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Central Ave S",
     "sg:city":"Harlowton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186360329,
-    "wof:lastmodified":1449052389,
+    "wof:lastmodified":1466642584,
     "wof:name":"Robert Snively",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-109.831256,46.434729,-109.831256,46.434729],
+  "bbox": [
+    -109.831256,
+    46.434729,
+    -109.831256,
+    46.434729
+],
   "geometry": {"coordinates":[-109.831256,46.434729],"type":"Point"}
 }

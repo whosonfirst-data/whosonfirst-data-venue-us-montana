@@ -2,13 +2,14 @@
   "id": 186150745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.344418,48.365925,-114.344418,48.365925",
     "geom:latitude":48.365925,
     "geom:longitude":-114.344418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Wilderness Ln",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186150745,
-    "wof:lastmodified":1449050291,
+    "wof:lastmodified":1466642127,
     "wof:name":"Dancing Tree Massage",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.344418,48.365925,-114.344418,48.365925],
+  "bbox": [
+    -114.344418,
+    48.365925,
+    -114.344418,
+    48.365925
+],
   "geometry": {"coordinates":[-114.344418,48.365925],"type":"Point"}
 }

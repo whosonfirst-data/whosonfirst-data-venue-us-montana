@@ -2,13 +2,14 @@
   "id": 186092745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.735255,46.397816,-112.735255,46.397816",
     "geom:latitude":46.397816,
     "geom:longitude":-112.735255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Milwaukee Ave",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186092745,
-    "wof:lastmodified":1449052511,
+    "wof:lastmodified":1466641955,
     "wof:name":"Western Montana Addiction Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-112.735255,46.397816,-112.735255,46.397816],
+  "bbox": [
+    -112.735255,
+    46.397816,
+    -112.735255,
+    46.397816
+],
   "geometry": {"coordinates":[-112.735255,46.397816],"type":"Point"}
 }

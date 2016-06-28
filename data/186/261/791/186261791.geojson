@@ -2,13 +2,14 @@
   "id": 186261791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.512719,45.783235,-108.512719,45.783235",
     "geom:latitude":45.783235,
     "geom:longitude":-108.512719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 N 31st St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186261791,
-    "wof:lastmodified":1449050303,
+    "wof:lastmodified":1466642707,
     "wof:name":"Anderson & Heard",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-108.512719,45.783235,-108.512719,45.783235],
+  "bbox": [
+    -108.512719,
+    45.783235,
+    -108.512719,
+    45.783235
+],
   "geometry": {"coordinates":[-108.512719,45.783235],"type":"Point"}
 }

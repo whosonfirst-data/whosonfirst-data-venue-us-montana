@@ -2,13 +2,14 @@
   "id": 186072477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.633806,48.200534,-106.633806,48.200534",
     "geom:latitude":48.200534,
     "geom:longitude":-106.633806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 6th St N",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186072477,
-    "wof:lastmodified":1449051786,
+    "wof:lastmodified":1466642021,
     "wof:name":"American Assn Univ Women",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.633806,48.200534,-106.633806,48.200534],
-  "geometry": {"coordinates":[-106.633806,48.200534],"type":"Point"}
+  "bbox": [
+    -106.633806,
+    48.200534,
+    -106.633806,
+    48.200534
+],
+  "geometry": {"coordinates":[-106.63380600000001,48.200534],"type":"Point"}
 }

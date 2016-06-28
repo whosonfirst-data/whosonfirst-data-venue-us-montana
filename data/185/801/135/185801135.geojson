@@ -2,13 +2,14 @@
   "id": 185801135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.084339,46.684978,-114.084339,46.684978",
     "geom:latitude":46.684978,
     "geom:longitude":-114.084339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19155 Maple Ln",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185801135,
-    "wof:lastmodified":1449007952,
+    "wof:lastmodified":1466641527,
     "wof:name":"Great White North Trading Co",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-114.084339,46.684978,-114.084339,46.684978],
+  "bbox": [
+    -114.084339,
+    46.684978,
+    -114.084339,
+    46.684978
+],
   "geometry": {"coordinates":[-114.084339,46.684978],"type":"Point"}
 }

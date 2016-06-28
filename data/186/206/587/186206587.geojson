@@ -2,13 +2,14 @@
   "id": 186206587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.881144,46.000424,-108.881144,46.000424",
     "geom:latitude":46.000424,
     "geom:longitude":-108.881144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10721 Buffalo Trail Rd",
     "sg:city":"Broadview",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186206587,
-    "wof:lastmodified":1449052198,
+    "wof:lastmodified":1466642285,
     "wof:name":"Buffalo Trail Beef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.881144,46.000424,-108.881144,46.000424],
-  "geometry": {"coordinates":[-108.881144,46.000424],"type":"Point"}
+  "bbox": [
+    -108.881144,
+    46.000424,
+    -108.881144,
+    46.000424
+],
+  "geometry": {"coordinates":[-108.88114400000001,46.000424],"type":"Point"}
 }

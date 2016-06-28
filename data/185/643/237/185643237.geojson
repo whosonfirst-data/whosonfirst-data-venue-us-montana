@@ -2,13 +2,14 @@
   "id": 185643237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.899635,45.946337,-109.899635,45.946337",
     "geom:latitude":45.946337,
     "geom:longitude":-109.899635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Otter Creek Rd",
     "sg:city":"Big Timber",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185643237,
-    "wof:lastmodified":1449008000,
+    "wof:lastmodified":1466641358,
     "wof:name":"Blake Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "ranching"
     ]
 },
-  "bbox": [-109.899635,45.946337,-109.899635,45.946337],
+  "bbox": [
+    -109.899635,
+    45.946337,
+    -109.899635,
+    45.946337
+],
   "geometry": {"coordinates":[-109.899635,45.946337],"type":"Point"}
 }

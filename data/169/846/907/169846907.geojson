@@ -2,13 +2,14 @@
   "id": 169846907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.555995,45.657762,-110.555995,45.657762",
     "geom:latitude":45.657762,
     "geom:longitude":-110.555995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 S Main St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169846907,
-    "wof:lastmodified":1449035218,
+    "wof:lastmodified":1466641326,
     "wof:name":"Medical Eye Specialists P C",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-110.555995,45.657762,-110.555995,45.657762],
+  "bbox": [
+    -110.555995,
+    45.657762,
+    -110.555995,
+    45.657762
+],
   "geometry": {"coordinates":[-110.555995,45.657762],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169739773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.181922,45.770235,-111.181922,45.770235",
     "geom:latitude":45.770235,
     "geom:longitude":-111.181922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Nevada St",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169739773,
-    "wof:lastmodified":1449034062,
+    "wof:lastmodified":1466641169,
     "wof:name":"Duane Durham Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-111.181922,45.770235,-111.181922,45.770235],
+  "bbox": [
+    -111.181922,
+    45.770235,
+    -111.181922,
+    45.770235
+],
   "geometry": {"coordinates":[-111.181922,45.770235],"type":"Point"}
 }

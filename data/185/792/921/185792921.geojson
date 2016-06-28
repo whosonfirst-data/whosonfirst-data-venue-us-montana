@@ -2,13 +2,14 @@
   "id": 185792921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.953687,46.127318,-112.953687,46.127318",
     "geom:latitude":46.127318,
     "geom:longitude":-112.953687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Main St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185792921,
-    "wof:lastmodified":1449006961,
+    "wof:lastmodified":1466641526,
     "wof:name":"Hearst Free Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.953687,46.127318,-112.953687,46.127318],
+  "bbox": [
+    -112.953687,
+    46.127318,
+    -112.953687,
+    46.127318
+],
   "geometry": {"coordinates":[-112.953687,46.127318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169778141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.502524,45.986344,-112.502524,45.986344",
     "geom:latitude":45.986344,
     "geom:longitude":-112.502524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 Amherst Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169778141,
-    "wof:lastmodified":1449032751,
+    "wof:lastmodified":1466641232,
     "wof:name":"Professional Assoc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.502524,45.986344,-112.502524,45.986344],
-  "geometry": {"coordinates":[-112.502524,45.986344],"type":"Point"}
+  "bbox": [
+    -112.502524,
+    45.986344,
+    -112.502524,
+    45.986344
+],
+  "geometry": {"coordinates":[-112.50252399999999,45.986344],"type":"Point"}
 }

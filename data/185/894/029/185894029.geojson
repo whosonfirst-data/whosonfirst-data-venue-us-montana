@@ -2,13 +2,14 @@
   "id": 185894029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.041797,46.628807,-114.041797,46.628807",
     "geom:latitude":46.628807,
     "geom:longitude":-114.041797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Apple Valley Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185894029,
-    "wof:lastmodified":1449007266,
+    "wof:lastmodified":1466641785,
     "wof:name":"Design Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stops"
     ]
 },
-  "bbox": [-114.041797,46.628807,-114.041797,46.628807],
+  "bbox": [
+    -114.041797,
+    46.628807,
+    -114.041797,
+    46.628807
+],
   "geometry": {"coordinates":[-114.041797,46.628807],"type":"Point"}
 }

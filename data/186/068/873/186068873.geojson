@@ -2,13 +2,14 @@
   "id": 186068873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.107551,47.398819,-114.107551,47.398819",
     "geom:latitude":47.398819,
     "geom:longitude":-114.107551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9018 Fish Hatchery Rd",
     "sg:city":"Saint Ignatius",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186068873,
-    "wof:lastmodified":1449051752,
+    "wof:lastmodified":1466641866,
     "wof:name":"Joe Mathes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.107551,47.398819,-114.107551,47.398819],
+  "bbox": [
+    -114.107551,
+    47.398819,
+    -114.107551,
+    47.398819
+],
   "geometry": {"coordinates":[-114.107551,47.398819],"type":"Point"}
 }

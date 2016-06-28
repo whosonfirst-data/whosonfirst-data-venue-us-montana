@@ -2,13 +2,14 @@
   "id": 186118959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.075309,46.935539,-113.075309,46.935539",
     "geom:latitude":46.935539,
     "geom:longitude":-113.075309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 Ovando Helmville Rd",
     "sg:city":"Helmville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186118959,
-    "wof:lastmodified":1449052502,
+    "wof:lastmodified":1466641906,
     "wof:name":"Monture Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dude"
     ]
 },
-  "bbox": [-113.075309,46.935539,-113.075309,46.935539],
+  "bbox": [
+    -113.075309,
+    46.935539,
+    -113.075309,
+    46.935539
+],
   "geometry": {"coordinates":[-113.075309,46.935539],"type":"Point"}
 }

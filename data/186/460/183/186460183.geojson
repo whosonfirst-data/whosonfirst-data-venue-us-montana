@@ -2,13 +2,14 @@
   "id": 186460183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.500474,46.327743,-108.500474,46.327743",
     "geom:latitude":46.327743,
     "geom:longitude":-108.500474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Canyon Rd",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186460183,
-    "wof:lastmodified":1449052881,
+    "wof:lastmodified":1466643039,
     "wof:name":"Bull Mountain Brokerage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.500474,46.327743,-108.500474,46.327743],
+  "bbox": [
+    -108.500474,
+    46.327743,
+    -108.500474,
+    46.327743
+],
   "geometry": {"coordinates":[-108.500474,46.327743],"type":"Point"}
 }

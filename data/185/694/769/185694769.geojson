@@ -2,13 +2,14 @@
   "id": 185694769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.504463,45.771535,-108.504463,45.771535",
     "geom:latitude":45.771535,
     "geom:longitude":-108.504463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 S 33rd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185694769,
-    "wof:lastmodified":1449007059,
+    "wof:lastmodified":1466641417,
     "wof:name":"Carl Riviera",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-108.504463,45.771535,-108.504463,45.771535],
+  "bbox": [
+    -108.504463,
+    45.771535,
+    -108.504463,
+    45.771535
+],
   "geometry": {"coordinates":[-108.504463,45.771535],"type":"Point"}
 }

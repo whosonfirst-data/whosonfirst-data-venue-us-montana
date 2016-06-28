@@ -2,13 +2,14 @@
   "id": 186432775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.962966,48.511461,-110.962966,48.511461",
     "geom:latitude":48.511461,
     "geom:longitude":-110.962966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 2nd St E",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186432775,
-    "wof:lastmodified":1449050188,
+    "wof:lastmodified":1466643091,
     "wof:name":"Liberty County Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.962966,48.511461,-110.962966,48.511461],
-  "geometry": {"coordinates":[-110.962966,48.511461],"type":"Point"}
+  "bbox": [
+    -110.962966,
+    48.511461,
+    -110.962966,
+    48.511461
+],
+  "geometry": {"coordinates":[-110.96296599999999,48.511461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186121505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.490948,45.986554,-112.490948,45.986554",
     "geom:latitude":45.986554,
     "geom:longitude":-112.490948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 Gladstone Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186121505,
-    "wof:lastmodified":1449052413,
+    "wof:lastmodified":1466641910,
     "wof:name":"B J Brenner LLC",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-112.490948,45.986554,-112.490948,45.986554],
+  "bbox": [
+    -112.490948,
+    45.986554,
+    -112.490948,
+    45.986554
+],
   "geometry": {"coordinates":[-112.490948,45.986554],"type":"Point"}
 }

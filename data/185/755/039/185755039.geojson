@@ -2,13 +2,14 @@
   "id": 185755039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.445151,45.827935,-108.445151,45.827935",
     "geom:latitude":45.827935,
     "geom:longitude":-108.445151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Bitterroot Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185755039,
-    "wof:lastmodified":1449007066,
+    "wof:lastmodified":1466641478,
     "wof:name":"D & L Lock & Welding",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-108.445151,45.827935,-108.445151,45.827935],
+  "bbox": [
+    -108.445151,
+    45.827935,
+    -108.445151,
+    45.827935
+],
   "geometry": {"coordinates":[-108.445151,45.827935],"type":"Point"}
 }

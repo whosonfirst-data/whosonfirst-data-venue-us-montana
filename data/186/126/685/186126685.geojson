@@ -2,13 +2,14 @@
   "id": 186126685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.953906,46.918907,-112.953906,46.918907",
     "geom:latitude":46.918907,
     "geom:longitude":-112.953906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Cut Off Rd",
     "sg:city":"Helmville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186126685,
-    "wof:lastmodified":1449051374,
+    "wof:lastmodified":1466642238,
     "wof:name":"Mc Cormick's Sunset Guest Rnch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-112.953906,46.918907,-112.953906,46.918907],
+  "bbox": [
+    -112.953906,
+    46.918907,
+    -112.953906,
+    46.918907
+],
   "geometry": {"coordinates":[-112.953906,46.918907],"type":"Point"}
 }

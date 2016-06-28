@@ -2,13 +2,14 @@
   "id": 185723981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.014738,46.589757,-112.014738,46.589757",
     "geom:latitude":46.589757,
     "geom:longitude":-112.014738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 11th Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185723981,
-    "wof:lastmodified":1449007555,
+    "wof:lastmodified":1466641450,
     "wof:name":"Ebi Companies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-112.014738,46.589757,-112.014738,46.589757],
-  "geometry": {"coordinates":[-112.014738,46.589757],"type":"Point"}
+  "bbox": [
+    -112.014738,
+    46.589757,
+    -112.014738,
+    46.589757
+],
+  "geometry": {"coordinates":[-112.01473799999999,46.589757],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186460891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036627,46.591149,-112.036627,46.591149",
     "geom:latitude":46.591149,
     "geom:longitude":-112.036627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 N Jackson St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186460891,
-    "wof:lastmodified":1449052882,
+    "wof:lastmodified":1466643042,
     "wof:name":"Leo Pocha Health Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-112.036627,46.591149,-112.036627,46.591149],
+  "bbox": [
+    -112.036627,
+    46.591149,
+    -112.036627,
+    46.591149
+],
   "geometry": {"coordinates":[-112.036627,46.591149],"type":"Point"}
 }

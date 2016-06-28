@@ -2,13 +2,14 @@
   "id": 186203279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.053389,46.60216,-112.053389,46.60216",
     "geom:latitude":46.60216,
     "geom:longitude":-112.053389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Euclid Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186203279,
-    "wof:lastmodified":1449051566,
+    "wof:lastmodified":1466642268,
     "wof:name":"Home Beautifiers Wallpaper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "furniture"
     ]
 },
-  "bbox": [-112.053389,46.60216,-112.053389,46.60216],
+  "bbox": [
+    -112.053389,
+    46.60216,
+    -112.053389,
+    46.60216
+],
   "geometry": {"coordinates":[-112.053389,46.60216],"type":"Point"}
 }

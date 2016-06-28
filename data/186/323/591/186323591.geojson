@@ -2,13 +2,14 @@
   "id": 186323591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.569549,46.442584,-108.569549,46.442584",
     "geom:latitude":46.442584,
     "geom:longitude":-108.569549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Camp Three Rd",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186323591,
-    "wof:lastmodified":1449050477,
+    "wof:lastmodified":1466642662,
     "wof:name":"Eliason Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.569549,46.442584,-108.569549,46.442584],
-  "geometry": {"coordinates":[-108.569549,46.442584],"type":"Point"}
+  "bbox": [
+    -108.569549,
+    46.442584,
+    -108.569549,
+    46.442584
+],
+  "geometry": {"coordinates":[-108.56954899999999,46.442584],"type":"Point"}
 }

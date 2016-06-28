@@ -2,13 +2,14 @@
   "id": 186228605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022993,46.59718,-112.022993,46.59718",
     "geom:latitude":46.59718,
     "geom:longitude":-112.022993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1085 Helena Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186228605,
-    "wof:lastmodified":1449051219,
+    "wof:lastmodified":1466642408,
     "wof:name":"Richard Briski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.022993,46.59718,-112.022993,46.59718],
+  "bbox": [
+    -112.022993,
+    46.59718,
+    -112.022993,
+    46.59718
+],
   "geometry": {"coordinates":[-112.022993,46.59718],"type":"Point"}
 }

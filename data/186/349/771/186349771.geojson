@@ -2,13 +2,14 @@
   "id": 186349771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.043089,46.599801,-112.043089,46.599801",
     "geom:latitude":46.599801,
     "geom:longitude":-112.043089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Wilder Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186349771,
-    "wof:lastmodified":1449051397,
+    "wof:lastmodified":1466642717,
     "wof:name":"Mari Williams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-112.043089,46.599801,-112.043089,46.599801],
-  "geometry": {"coordinates":[-112.043089,46.599801],"type":"Point"}
+  "bbox": [
+    -112.043089,
+    46.599801,
+    -112.043089,
+    46.599801
+],
+  "geometry": {"coordinates":[-112.04308899999999,46.599801],"type":"Point"}
 }

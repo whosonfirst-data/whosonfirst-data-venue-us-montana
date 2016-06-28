@@ -2,13 +2,14 @@
   "id": 186103859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.558681,48.774223,-104.558681,48.774223",
     "geom:latitude":48.774223,
     "geom:longitude":-104.558681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 E 1st Ave",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186103859,
-    "wof:lastmodified":1449052044,
+    "wof:lastmodified":1466641995,
     "wof:name":"Prairie Automotive Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-104.558681,48.774223,-104.558681,48.774223],
-  "geometry": {"coordinates":[-104.558681,48.774223],"type":"Point"}
+  "bbox": [
+    -104.558681,
+    48.774223,
+    -104.558681,
+    48.774223
+],
+  "geometry": {"coordinates":[-104.55868100000001,48.774223],"type":"Point"}
 }

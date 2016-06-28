@@ -2,13 +2,14 @@
   "id": 185719595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.050615,46.827567,-114.050615,46.827567",
     "geom:latitude":46.827567,
     "geom:longitude":-114.050615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4795 Miller Creek Rd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185719595,
-    "wof:lastmodified":1449006810,
+    "wof:lastmodified":1466641442,
     "wof:name":"Dogstar Telephone Co",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-114.050615,46.827567,-114.050615,46.827567],
-  "geometry": {"coordinates":[-114.050615,46.827567],"type":"Point"}
+  "bbox": [
+    -114.050615,
+    46.827567,
+    -114.050615,
+    46.827567
+],
+  "geometry": {"coordinates":[-114.05061499999999,46.827567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185642663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.52711,46.013213,-112.52711,46.013213",
     "geom:latitude":46.013213,
     "geom:longitude":-112.52711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 E Park St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185642663,
-    "wof:lastmodified":1449006688,
+    "wof:lastmodified":1466641355,
     "wof:name":"Brad L Belke",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-112.52711,46.013213,-112.52711,46.013213],
-  "geometry": {"coordinates":[-112.52711,46.013213],"type":"Point"}
+  "bbox": [
+    -112.52711,
+    46.013213,
+    -112.52711,
+    46.013213
+],
+  "geometry": {"coordinates":[-112.52710999999999,46.013213],"type":"Point"}
 }

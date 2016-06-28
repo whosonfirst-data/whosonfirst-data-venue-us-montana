@@ -2,13 +2,14 @@
   "id": 186118953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.535665,45.787905,-108.535665,45.787905",
     "geom:latitude":45.787905,
     "geom:longitude":-108.535665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 8th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186118953,
-    "wof:lastmodified":1449052500,
+    "wof:lastmodified":1466642057,
     "wof:name":"Superior Builders LLP",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-108.535665,45.787905,-108.535665,45.787905],
-  "geometry": {"coordinates":[-108.535665,45.787905],"type":"Point"}
+  "bbox": [
+    -108.535665,
+    45.787905,
+    -108.535665,
+    45.787905
+],
+  "geometry": {"coordinates":[-108.53566499999999,45.787905],"type":"Point"}
 }

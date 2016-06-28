@@ -2,13 +2,14 @@
   "id": 185772445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.346781,48.204181,-114.346781,48.204181",
     "geom:latitude":48.204181,
     "geom:longitude":-114.346781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"780 Two Mile Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185772445,
-    "wof:lastmodified":1449007335,
+    "wof:lastmodified":1466641498,
     "wof:name":"Larsen Engineering & Surveying",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-114.346781,48.204181,-114.346781,48.204181],
-  "geometry": {"coordinates":[-114.346781,48.204181],"type":"Point"}
+  "bbox": [
+    -114.346781,
+    48.204181,
+    -114.346781,
+    48.204181
+],
+  "geometry": {"coordinates":[-114.34678099999999,48.204181],"type":"Point"}
 }

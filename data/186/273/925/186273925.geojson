@@ -2,13 +2,14 @@
   "id": 186273925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.384045,45.885701,-108.384045,45.885701",
     "geom:latitude":45.885701,
     "geom:longitude":-108.384045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3730 Mc Girl Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186273925,
-    "wof:lastmodified":1449051758,
+    "wof:lastmodified":1466642576,
     "wof:name":"Ray Cucancic",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-108.384045,45.885701,-108.384045,45.885701],
+  "bbox": [
+    -108.384045,
+    45.885701,
+    -108.384045,
+    45.885701
+],
   "geometry": {"coordinates":[-108.384045,45.885701],"type":"Point"}
 }

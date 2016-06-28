@@ -2,13 +2,14 @@
   "id": 186276401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.01939,46.834265,-114.01939,46.834265",
     "geom:latitude":46.834265,
     "geom:longitude":-114.01939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 39th St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186276401,
-    "wof:lastmodified":1449050373,
+    "wof:lastmodified":1466642571,
     "wof:name":"Simply Herbs Wellness Center",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.01939,46.834265,-114.01939,46.834265],
+  "bbox": [
+    -114.01939,
+    46.834265,
+    -114.01939,
+    46.834265
+],
   "geometry": {"coordinates":[-114.01939,46.834265],"type":"Point"}
 }

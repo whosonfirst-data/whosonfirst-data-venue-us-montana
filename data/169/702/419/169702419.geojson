@@ -2,13 +2,14 @@
   "id": 169702419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.040721,47.094015,-114.040721,47.094015",
     "geom:latitude":47.094015,
     "geom:longitude":-114.040721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23580 US Hwy 93",
     "sg:city":"Arlee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169702419,
-    "wof:lastmodified":1449034339,
+    "wof:lastmodified":1466641156,
     "wof:name":"Creekside Bed and Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-114.040721,47.094015,-114.040721,47.094015],
+  "bbox": [
+    -114.040721,
+    47.094015,
+    -114.040721,
+    47.094015
+],
   "geometry": {"coordinates":[-114.040721,47.094015],"type":"Point"}
 }

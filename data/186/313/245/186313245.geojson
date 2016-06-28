@@ -2,13 +2,14 @@
   "id": 186313245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.535809,45.763891,-108.535809,45.763891",
     "geom:latitude":45.763891,
     "geom:longitude":-108.535809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 S Billings Blvd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186313245,
-    "wof:lastmodified":1449050350,
+    "wof:lastmodified":1466642632,
     "wof:name":"Construction Fasteners & Sup",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "staple"
     ]
 },
-  "bbox": [-108.535809,45.763891,-108.535809,45.763891],
+  "bbox": [
+    -108.535809,
+    45.763891,
+    -108.535809,
+    45.763891
+],
   "geometry": {"coordinates":[-108.535809,45.763891],"type":"Point"}
 }

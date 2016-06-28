@@ -2,13 +2,14 @@
   "id": 186050981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.585495,45.664142,-110.585495,45.664142",
     "geom:latitude":45.664142,
     "geom:longitude":-110.585495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Prairie Dr",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186050981,
-    "wof:lastmodified":1449051858,
+    "wof:lastmodified":1466642005,
     "wof:name":"Cell Management Assoc Inc",
     "wof:parent_id":85867995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.585495,45.664142,-110.585495,45.664142],
-  "geometry": {"coordinates":[-110.585495,45.664142],"type":"Point"}
+  "bbox": [
+    -110.585495,
+    45.664142,
+    -110.585495,
+    45.664142
+],
+  "geometry": {"coordinates":[-110.58549499999999,45.664142],"type":"Point"}
 }

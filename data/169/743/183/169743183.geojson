@@ -2,13 +2,14 @@
   "id": 169743183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.508089,45.978586,-112.508089,45.978586",
     "geom:latitude":45.978586,
     "geom:longitude":-112.508089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169743183,
-    "wof:lastmodified":1449035946,
+    "wof:lastmodified":1466641175,
     "wof:name":"Freedom Travel",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-112.508089,45.978586,-112.508089,45.978586],
+  "bbox": [
+    -112.508089,
+    45.978586,
+    -112.508089,
+    45.978586
+],
   "geometry": {"coordinates":[-112.508089,45.978586],"type":"Point"}
 }

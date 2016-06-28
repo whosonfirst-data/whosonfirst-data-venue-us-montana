@@ -2,13 +2,14 @@
   "id": 186220787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.012707,46.634519,-114.012707,46.634519",
     "geom:latitude":46.634519,
     "geom:longitude":-114.012707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5414 Blue Sky Ln",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186220787,
-    "wof:lastmodified":1449052940,
+    "wof:lastmodified":1466642591,
     "wof:name":"Don Ruana Const",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-114.012707,46.634519,-114.012707,46.634519],
-  "geometry": {"coordinates":[-114.012707,46.634519],"type":"Point"}
+  "bbox": [
+    -114.012707,
+    46.634519,
+    -114.012707,
+    46.634519
+],
+  "geometry": {"coordinates":[-114.01270700000001,46.634519],"type":"Point"}
 }

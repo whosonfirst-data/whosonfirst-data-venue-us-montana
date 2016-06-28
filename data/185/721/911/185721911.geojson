@@ -2,13 +2,14 @@
   "id": 185721911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.515216,45.78256,-108.515216,45.78256",
     "geom:latitude":45.78256,
     "geom:longitude":-108.515216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 N 33rd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185721911,
-    "wof:lastmodified":1449008206,
+    "wof:lastmodified":1466641451,
     "wof:name":"Kite Site",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.515216,45.78256,-108.515216,45.78256],
+  "bbox": [
+    -108.515216,
+    45.78256,
+    -108.515216,
+    45.78256
+],
   "geometry": {"coordinates":[-108.515216,45.78256],"type":"Point"}
 }

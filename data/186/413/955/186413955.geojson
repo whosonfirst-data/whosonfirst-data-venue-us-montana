@@ -2,13 +2,14 @@
   "id": 186413955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.040181,45.680383,-111.040181,45.680383",
     "geom:latitude":45.680383,
     "geom:longitude":-111.040181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W Mendenhall St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186413955,
-    "wof:lastmodified":1449050823,
+    "wof:lastmodified":1466642808,
     "wof:name":"Deborah G McAtee LLC",
     "wof:parent_id":85876469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.040181,45.680383,-111.040181,45.680383],
+  "bbox": [
+    -111.040181,
+    45.680383,
+    -111.040181,
+    45.680383
+],
   "geometry": {"coordinates":[-111.040181,45.680383],"type":"Point"}
 }

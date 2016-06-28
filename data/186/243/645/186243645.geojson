@@ -2,13 +2,14 @@
   "id": 186243645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.285293,47.495509,-111.285293,47.495509",
     "geom:latitude":47.495509,
     "geom:longitude":-111.285293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 13th St S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186243645,
-    "wof:lastmodified":1449051261,
+    "wof:lastmodified":1466642680,
     "wof:name":"House Of Bargains",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.285293,47.495509,-111.285293,47.495509],
+  "bbox": [
+    -111.285293,
+    47.495509,
+    -111.285293,
+    47.495509
+],
   "geometry": {"coordinates":[-111.285293,47.495509],"type":"Point"}
 }

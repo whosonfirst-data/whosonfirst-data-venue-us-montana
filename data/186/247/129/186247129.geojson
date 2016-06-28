@@ -2,13 +2,14 @@
   "id": 186247129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.557808,45.659361,-110.557808,45.659361",
     "geom:latitude":45.659361,
     "geom:longitude":-110.557808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Main St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186247129,
-    "wof:lastmodified":1449051944,
+    "wof:lastmodified":1466642514,
     "wof:name":"Loaves & Fishes of Livingston",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "social"
     ]
 },
-  "bbox": [-110.557808,45.659361,-110.557808,45.659361],
-  "geometry": {"coordinates":[-110.557808,45.659361],"type":"Point"}
+  "bbox": [
+    -110.557808,
+    45.659361,
+    -110.557808,
+    45.659361
+],
+  "geometry": {"coordinates":[-110.55780799999999,45.659361],"type":"Point"}
 }

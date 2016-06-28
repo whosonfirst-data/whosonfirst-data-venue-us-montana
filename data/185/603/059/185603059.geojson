@@ -2,13 +2,14 @@
   "id": 185603059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.686019,48.554182,-109.686019,48.554182",
     "geom:latitude":48.554182,
     "geom:longitude":-109.686019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 1st St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185603059,
-    "wof:lastmodified":1449007985,
+    "wof:lastmodified":1466641744,
     "wof:name":"Lucky Lil's Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-109.686019,48.554182,-109.686019,48.554182],
+  "bbox": [
+    -109.686019,
+    48.554182,
+    -109.686019,
+    48.554182
+],
   "geometry": {"coordinates":[-109.686019,48.554182],"type":"Point"}
 }

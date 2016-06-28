@@ -2,13 +2,14 @@
   "id": 186199401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.034224,46.843332,-114.034224,46.843332",
     "geom:latitude":46.843332,
     "geom:longitude":-114.034224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Eaton St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186199401,
-    "wof:lastmodified":1449050521,
+    "wof:lastmodified":1466642271,
     "wof:name":"Iddy Biddies",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-114.034224,46.843332,-114.034224,46.843332],
-  "geometry": {"coordinates":[-114.034224,46.843332],"type":"Point"}
+  "bbox": [
+    -114.034224,
+    46.843332,
+    -114.034224,
+    46.843332
+],
+  "geometry": {"coordinates":[-114.03422399999999,46.843332],"type":"Point"}
 }

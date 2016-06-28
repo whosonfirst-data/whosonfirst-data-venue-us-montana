@@ -2,13 +2,14 @@
   "id": 169752071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.099472,46.765293,-114.099472,46.765293",
     "geom:latitude":46.765293,
     "geom:longitude":-114.099472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7445 Cherokee Ct",
     "sg:city":"Lolo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169752071,
-    "wof:lastmodified":1449033251,
+    "wof:lastmodified":1466641187,
     "wof:name":"Accurate Editing",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-114.099472,46.765293,-114.099472,46.765293],
-  "geometry": {"coordinates":[-114.099472,46.765293],"type":"Point"}
+  "bbox": [
+    -114.099472,
+    46.765293,
+    -114.099472,
+    46.765293
+],
+  "geometry": {"coordinates":[-114.09947200000001,46.765293],"type":"Point"}
 }

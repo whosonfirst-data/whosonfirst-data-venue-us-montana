@@ -2,13 +2,14 @@
   "id": 186296125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.532425,46.005618,-112.532425,46.005618",
     "geom:latitude":46.005618,
     "geom:longitude":-112.532425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 Nevada Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186296125,
-    "wof:lastmodified":1449052514,
+    "wof:lastmodified":1466642802,
     "wof:name":"Calco Construction Inc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.532425,46.005618,-112.532425,46.005618],
+  "bbox": [
+    -112.532425,
+    46.005618,
+    -112.532425,
+    46.005618
+],
   "geometry": {"coordinates":[-112.532425,46.005618],"type":"Point"}
 }

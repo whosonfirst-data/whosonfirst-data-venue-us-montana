@@ -2,13 +2,14 @@
   "id": 169697351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.031435,45.679396,-111.031435,45.679396",
     "geom:latitude":45.679396,
     "geom:longitude":-111.031435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 E Main St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169697351,
-    "wof:lastmodified":1449034769,
+    "wof:lastmodified":1466641160,
     "wof:name":"Garage Soup Shack Msqite Grill",
     "wof:parent_id":85876467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-111.031435,45.679396,-111.031435,45.679396],
+  "bbox": [
+    -111.031435,
+    45.679396,
+    -111.031435,
+    45.679396
+],
   "geometry": {"coordinates":[-111.031435,45.679396],"type":"Point"}
 }

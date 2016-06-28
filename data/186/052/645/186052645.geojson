@@ -2,13 +2,14 @@
   "id": 186052645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.107418,46.196661,-114.107418,46.196661",
     "geom:latitude":46.196661,
     "geom:longitude":-114.107418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"667 Skalkaho Hwy",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186052645,
-    "wof:lastmodified":1449051584,
+    "wof:lastmodified":1466641825,
     "wof:name":"Griffin Skip Fisk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.107418,46.196661,-114.107418,46.196661],
+  "bbox": [
+    -114.107418,
+    46.196661,
+    -114.107418,
+    46.196661
+],
   "geometry": {"coordinates":[-114.107418,46.196661],"type":"Point"}
 }

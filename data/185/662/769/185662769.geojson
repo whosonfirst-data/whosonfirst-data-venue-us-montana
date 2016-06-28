@@ -2,13 +2,14 @@
   "id": 185662769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.958722,48.166183,-111.958722,48.166183",
     "geom:latitude":48.166183,
     "geom:longitude":-111.958722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 S Michigan St",
     "sg:city":"Conrad",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185662769,
-    "wof:lastmodified":1449007674,
+    "wof:lastmodified":1466641382,
     "wof:name":"Clark Fork Mdows Hmowners Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.958722,48.166183,-111.958722,48.166183],
-  "geometry": {"coordinates":[-111.958722,48.166183],"type":"Point"}
+  "bbox": [
+    -111.958722,
+    48.166183,
+    -111.958722,
+    48.166183
+],
+  "geometry": {"coordinates":[-111.95872199999999,48.166183],"type":"Point"}
 }

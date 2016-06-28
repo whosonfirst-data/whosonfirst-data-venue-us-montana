@@ -2,13 +2,14 @@
   "id": 185676271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.850619,46.408557,-105.850619,46.408557",
     "geom:latitude":46.408557,
     "geom:longitude":-105.850619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Palmer St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185676271,
-    "wof:lastmodified":1449007625,
+    "wof:lastmodified":1466641395,
     "wof:name":"Howe Appraisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-105.850619,46.408557,-105.850619,46.408557],
-  "geometry": {"coordinates":[-105.850619,46.408557],"type":"Point"}
+  "bbox": [
+    -105.850619,
+    46.408557,
+    -105.850619,
+    46.408557
+],
+  "geometry": {"coordinates":[-105.85061899999999,46.408557],"type":"Point"}
 }

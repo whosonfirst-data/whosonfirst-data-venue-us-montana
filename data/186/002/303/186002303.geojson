@@ -2,13 +2,14 @@
   "id": 186002303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.149195,46.202752,-114.149195,46.202752",
     "geom:latitude":46.202752,
     "geom:longitude":-114.149195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 Curdys Cove Loop",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186002303,
-    "wof:lastmodified":1449052522,
+    "wof:lastmodified":1466641232,
     "wof:name":"Mike Madden's Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.149195,46.202752,-114.149195,46.202752],
-  "geometry": {"coordinates":[-114.149195,46.202752],"type":"Point"}
+  "bbox": [
+    -114.149195,
+    46.202752,
+    -114.149195,
+    46.202752
+],
+  "geometry": {"coordinates":[-114.14919500000001,46.202752],"type":"Point"}
 }

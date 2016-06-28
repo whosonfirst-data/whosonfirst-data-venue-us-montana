@@ -2,13 +2,14 @@
   "id": 186307187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.51782,46.323315,-111.51782,46.323315",
     "geom:latitude":46.323315,
     "geom:longitude":-111.51782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"497 3rd St",
     "sg:city":"Marysville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186307187,
-    "wof:lastmodified":1449051084,
+    "wof:lastmodified":1466642630,
     "wof:name":"Knucklehead Land Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.51782,46.323315,-111.51782,46.323315],
+  "bbox": [
+    -111.51782,
+    46.323315,
+    -111.51782,
+    46.323315
+],
   "geometry": {"coordinates":[-111.51782,46.323315],"type":"Point"}
 }

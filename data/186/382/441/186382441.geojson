@@ -2,13 +2,14 @@
   "id": 186382441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.06084,46.262425,-114.06084,46.262425",
     "geom:latitude":46.262425,
     "geom:longitude":-114.06084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"298 Wilcox Ln",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186382441,
-    "wof:lastmodified":1449051096,
+    "wof:lastmodified":1466642815,
     "wof:name":"Bugless Fly & Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.06084,46.262425,-114.06084,46.262425],
+  "bbox": [
+    -114.06084,
+    46.262425,
+    -114.06084,
+    46.262425
+],
   "geometry": {"coordinates":[-114.06084,46.262425],"type":"Point"}
 }

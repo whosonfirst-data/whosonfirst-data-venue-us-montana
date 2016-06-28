@@ -2,13 +2,14 @@
   "id": 185676181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.287812,48.15714,-114.287812,48.15714",
     "geom:latitude":48.15714,
     "geom:longitude":-114.287812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 US Hwy 93 S",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185676181,
-    "wof:lastmodified":1449007624,
+    "wof:lastmodified":1466641393,
     "wof:name":"Gardner R V & Trailer Center",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.287812,48.15714,-114.287812,48.15714],
+  "bbox": [
+    -114.287812,
+    48.15714,
+    -114.287812,
+    48.15714
+],
   "geometry": {"coordinates":[-114.287812,48.15714],"type":"Point"}
 }

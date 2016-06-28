@@ -2,13 +2,14 @@
   "id": 185656663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.012792,46.576019,-112.012792,46.576019",
     "geom:latitude":46.576019,
     "geom:longitude":-112.012792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Harris Ct",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185656663,
-    "wof:lastmodified":1449007647,
+    "wof:lastmodified":1466641380,
     "wof:name":"Sexton Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "family"
     ]
 },
-  "bbox": [-112.012792,46.576019,-112.012792,46.576019],
+  "bbox": [
+    -112.012792,
+    46.576019,
+    -112.012792,
+    46.576019
+],
   "geometry": {"coordinates":[-112.012792,46.576019],"type":"Point"}
 }

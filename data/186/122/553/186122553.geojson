@@ -2,13 +2,14 @@
   "id": 186122553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.537746,45.800295,-108.537746,45.800295",
     "geom:latitude":45.800295,
     "geom:longitude":-108.537746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3029 Glenwood Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186122553,
-    "wof:lastmodified":1449051898,
+    "wof:lastmodified":1466642075,
     "wof:name":"Ronald Olsen",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "patrol"
     ]
 },
-  "bbox": [-108.537746,45.800295,-108.537746,45.800295],
+  "bbox": [
+    -108.537746,
+    45.800295,
+    -108.537746,
+    45.800295
+],
   "geometry": {"coordinates":[-108.537746,45.800295],"type":"Point"}
 }

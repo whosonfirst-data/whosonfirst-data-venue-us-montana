@@ -2,13 +2,14 @@
   "id": 169749069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.690429,47.575487,-110.690429,47.575487",
     "geom:latitude":47.575487,
     "geom:longitude":-110.690429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1458 Swan Ranch Ln",
     "sg:city":"Highwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169749069,
-    "wof:lastmodified":1449033622,
+    "wof:lastmodified":1466641184,
     "wof:name":"Swan Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cattle"
     ]
 },
-  "bbox": [-110.690429,47.575487,-110.690429,47.575487],
-  "geometry": {"coordinates":[-110.690429,47.575487],"type":"Point"}
+  "bbox": [
+    -110.690429,
+    47.575487,
+    -110.690429,
+    47.575487
+],
+  "geometry": {"coordinates":[-110.69042899999999,47.575487],"type":"Point"}
 }

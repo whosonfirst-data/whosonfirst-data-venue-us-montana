@@ -2,13 +2,14 @@
   "id": 186285931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.154553,46.239475,-114.154553,46.239475",
     "geom:latitude":46.239475,
     "geom:longitude":-114.154553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 S 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186285931,
-    "wof:lastmodified":1449050344,
+    "wof:lastmodified":1466642753,
     "wof:name":"Wind Related Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windsock"
     ]
 },
-  "bbox": [-114.154553,46.239475,-114.154553,46.239475],
-  "geometry": {"coordinates":[-114.154553,46.239475],"type":"Point"}
+  "bbox": [
+    -114.154553,
+    46.239475,
+    -114.154553,
+    46.239475
+],
+  "geometry": {"coordinates":[-114.15455300000001,46.239475],"type":"Point"}
 }

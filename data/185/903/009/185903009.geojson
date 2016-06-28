@@ -2,13 +2,14 @@
   "id": 185903009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.883043,47.461487,-114.883043,47.461487",
     "geom:latitude":47.461487,
     "geom:longitude":-114.883043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Mc Gowan St",
     "sg:city":"Plains",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185903009,
-    "wof:lastmodified":1449006692,
+    "wof:lastmodified":1466641632,
     "wof:name":"Plains Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.883043,47.461487,-114.883043,47.461487],
+  "bbox": [
+    -114.883043,
+    47.461487,
+    -114.883043,
+    47.461487
+],
   "geometry": {"coordinates":[-114.883043,47.461487],"type":"Point"}
 }

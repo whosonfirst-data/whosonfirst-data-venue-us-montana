@@ -2,13 +2,14 @@
   "id": 185645113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.339534,48.418538,-114.339534,48.418538",
     "geom:latitude":48.418538,
     "geom:longitude":-114.339534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 Woodside Ln",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185645113,
-    "wof:lastmodified":1449006777,
+    "wof:lastmodified":1466641359,
     "wof:name":"Flathead Gateway Partners Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.339534,48.418538,-114.339534,48.418538],
+  "bbox": [
+    -114.339534,
+    48.418538,
+    -114.339534,
+    48.418538
+],
   "geometry": {"coordinates":[-114.339534,48.418538],"type":"Point"}
 }

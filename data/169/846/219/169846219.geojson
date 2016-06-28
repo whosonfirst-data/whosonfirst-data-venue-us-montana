@@ -2,13 +2,14 @@
   "id": 169846219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.280447,47.485563,-111.280447,47.485563",
     "geom:latitude":47.485563,
     "geom:longitude":-111.280447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 18th Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169846219,
-    "wof:lastmodified":1449035218,
+    "wof:lastmodified":1466641319,
     "wof:name":"Prociv Drywall Texturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.280447,47.485563,-111.280447,47.485563],
+  "bbox": [
+    -111.280447,
+    47.485563,
+    -111.280447,
+    47.485563
+],
   "geometry": {"coordinates":[-111.280447,47.485563],"type":"Point"}
 }

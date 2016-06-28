@@ -2,13 +2,14 @@
   "id": 186079109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.444188,45.518411,-109.444188,45.518411",
     "geom:latitude":45.518411,
     "geom:longitude":-109.444188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 S Woodard Ave",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186079109,
-    "wof:lastmodified":1449052556,
+    "wof:lastmodified":1466641879,
     "wof:name":"J C Tire & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "john"
     ]
 },
-  "bbox": [-109.444188,45.518411,-109.444188,45.518411],
+  "bbox": [
+    -109.444188,
+    45.518411,
+    -109.444188,
+    45.518411
+],
   "geometry": {"coordinates":[-109.444188,45.518411],"type":"Point"}
 }

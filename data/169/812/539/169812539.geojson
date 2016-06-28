@@ -2,13 +2,14 @@
   "id": 169812539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.514626,45.79465,-108.514626,45.79465",
     "geom:latitude":45.79465,
     "geom:longitude":-108.514626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 N 26th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169812539,
-    "wof:lastmodified":1449032781,
+    "wof:lastmodified":1466641279,
     "wof:name":"A Plus Cleaning",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.514626,45.79465,-108.514626,45.79465],
-  "geometry": {"coordinates":[-108.514626,45.79465],"type":"Point"}
+  "bbox": [
+    -108.514626,
+    45.79465,
+    -108.514626,
+    45.79465
+],
+  "geometry": {"coordinates":[-108.51462600000001,45.79465],"type":"Point"}
 }

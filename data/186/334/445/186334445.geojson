@@ -2,13 +2,14 @@
   "id": 186334445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.695097,47.113802,-104.695097,47.113802",
     "geom:latitude":47.113802,
     "geom:longitude":-104.695097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Sunset Ave",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186334445,
-    "wof:lastmodified":1449051160,
+    "wof:lastmodified":1466642513,
     "wof:name":"Wayne Heimbuch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-104.695097,47.113802,-104.695097,47.113802],
+  "bbox": [
+    -104.695097,
+    47.113802,
+    -104.695097,
+    47.113802
+],
   "geometry": {"coordinates":[-104.695097,47.113802],"type":"Point"}
 }

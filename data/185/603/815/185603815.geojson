@@ -2,13 +2,14 @@
   "id": 185603815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.060823,45.66321,-111.060823,45.66321",
     "geom:latitude":45.66321,
     "geom:longitude":-111.060823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Maple Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185603815,
-    "wof:lastmodified":1449007984,
+    "wof:lastmodified":1466641180,
     "wof:name":"Big Horn Roofing",
     "wof:parent_id":85891683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "family"
     ]
 },
-  "bbox": [-111.060823,45.66321,-111.060823,45.66321],
+  "bbox": [
+    -111.060823,
+    45.66321,
+    -111.060823,
+    45.66321
+],
   "geometry": {"coordinates":[-111.060823,45.66321],"type":"Point"}
 }

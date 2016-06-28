@@ -2,13 +2,14 @@
   "id": 169800817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.637651,48.189951,-106.637651,48.189951",
     "geom:latitude":48.189951,
     "geom:longitude":-106.637651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Francis St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169800817,
-    "wof:lastmodified":1449032940,
+    "wof:lastmodified":1466641267,
     "wof:name":"Francis House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "homeless"
     ]
 },
-  "bbox": [-106.637651,48.189951,-106.637651,48.189951],
-  "geometry": {"coordinates":[-106.637651,48.189951],"type":"Point"}
+  "bbox": [
+    -106.637651,
+    48.189951,
+    -106.637651,
+    48.189951
+],
+  "geometry": {"coordinates":[-106.63765100000001,48.189951],"type":"Point"}
 }

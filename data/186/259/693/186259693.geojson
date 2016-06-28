@@ -2,13 +2,14 @@
   "id": 186259693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.218589,46.386284,-114.218589,46.386284",
     "geom:latitude":46.386284,
     "geom:longitude":-114.218589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1851 Mountain Meadow Ln",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186259693,
-    "wof:lastmodified":1449051013,
+    "wof:lastmodified":1466642545,
     "wof:name":"Bear Creek Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-114.218589,46.386284,-114.218589,46.386284],
-  "geometry": {"coordinates":[-114.218589,46.386284],"type":"Point"}
+  "bbox": [
+    -114.218589,
+    46.386284,
+    -114.218589,
+    46.386284
+],
+  "geometry": {"coordinates":[-114.21858899999999,46.386284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186287515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.188661,47.724048,-114.188661,47.724048",
     "geom:latitude":47.724048,
     "geom:longitude":-114.188661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1291 Rocky Point Rd",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186287515,
-    "wof:lastmodified":1449050425,
+    "wof:lastmodified":1466642388,
     "wof:name":"Glacier Cone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.188661,47.724048,-114.188661,47.724048],
+  "bbox": [
+    -114.188661,
+    47.724048,
+    -114.188661,
+    47.724048
+],
   "geometry": {"coordinates":[-114.188661,47.724048],"type":"Point"}
 }

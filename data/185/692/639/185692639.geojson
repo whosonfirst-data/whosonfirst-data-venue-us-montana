@@ -2,13 +2,14 @@
   "id": 185692639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.411594,47.07165,-109.411594,47.07165",
     "geom:latitude":47.07165,
     "geom:longitude":-109.411594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 NE Broadway St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185692639,
-    "wof:lastmodified":1449007041,
+    "wof:lastmodified":1466641415,
     "wof:name":"Barrick Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.411594,47.07165,-109.411594,47.07165],
-  "geometry": {"coordinates":[-109.411594,47.07165],"type":"Point"}
+  "bbox": [
+    -109.411594,
+    47.07165,
+    -109.411594,
+    47.07165
+],
+  "geometry": {"coordinates":[-109.41159399999999,47.07165],"type":"Point"}
 }

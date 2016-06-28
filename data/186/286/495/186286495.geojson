@@ -2,13 +2,14 @@
   "id": 186286495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.557245,48.390739,-115.557245,48.390739",
     "geom:latitude":48.390739,
     "geom:longitude":-115.557245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Idaho Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186286495,
-    "wof:lastmodified":1449051092,
+    "wof:lastmodified":1466642754,
     "wof:name":"Asa Wood Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.557245,48.390739,-115.557245,48.390739],
-  "geometry": {"coordinates":[-115.557245,48.390739],"type":"Point"}
+  "bbox": [
+    -115.557245,
+    48.390739,
+    -115.557245,
+    48.390739
+],
+  "geometry": {"coordinates":[-115.55724499999999,48.390739],"type":"Point"}
 }

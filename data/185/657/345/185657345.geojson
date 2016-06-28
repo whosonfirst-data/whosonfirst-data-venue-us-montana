@@ -2,13 +2,14 @@
   "id": 185657345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.830566,46.433621,-109.830566,46.433621",
     "geom:latitude":46.433621,
     "geom:longitude":-109.830566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Central Ave S",
     "sg:city":"Harlowton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185657345,
-    "wof:lastmodified":1449006786,
+    "wof:lastmodified":1466641374,
     "wof:name":"Painters Ace Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.830566,46.433621,-109.830566,46.433621],
+  "bbox": [
+    -109.830566,
+    46.433621,
+    -109.830566,
+    46.433621
+],
   "geometry": {"coordinates":[-109.830566,46.433621],"type":"Point"}
 }

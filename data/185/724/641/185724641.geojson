@@ -2,13 +2,14 @@
   "id": 185724641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.492351,45.818031,-108.492351,45.818031",
     "geom:latitude":45.818031,
     "geom:longitude":-108.492351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Aronson Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185724641,
-    "wof:lastmodified":1449008157,
+    "wof:lastmodified":1466641447,
     "wof:name":"Montana Mobile Document Shred",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.492351,45.818031,-108.492351,45.818031],
+  "bbox": [
+    -108.492351,
+    45.818031,
+    -108.492351,
+    45.818031
+],
   "geometry": {"coordinates":[-108.492351,45.818031],"type":"Point"}
 }

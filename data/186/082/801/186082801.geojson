@@ -2,13 +2,14 @@
   "id": 186082801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.159201,47.695359,-114.159201,47.695359",
     "geom:latitude":47.695359,
     "geom:longitude":-114.159201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 1st Ave E",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186082801,
-    "wof:lastmodified":1449050340,
+    "wof:lastmodified":1466641755,
     "wof:name":"Salmon Pat Photo Retouching",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-114.159201,47.695359,-114.159201,47.695359],
+  "bbox": [
+    -114.159201,
+    47.695359,
+    -114.159201,
+    47.695359
+],
   "geometry": {"coordinates":[-114.159201,47.695359],"type":"Point"}
 }

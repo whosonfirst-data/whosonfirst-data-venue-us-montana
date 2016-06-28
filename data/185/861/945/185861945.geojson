@@ -2,13 +2,14 @@
   "id": 185861945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.44149,45.519688,-109.44149,45.519688",
     "geom:latitude":45.519688,
     "geom:longitude":-109.44149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Grove St",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185861945,
-    "wof:lastmodified":1449008188,
+    "wof:lastmodified":1466641602,
     "wof:name":"Linda E Harris CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-109.44149,45.519688,-109.44149,45.519688],
+  "bbox": [
+    -109.44149,
+    45.519688,
+    -109.44149,
+    45.519688
+],
   "geometry": {"coordinates":[-109.44149,45.519688],"type":"Point"}
 }

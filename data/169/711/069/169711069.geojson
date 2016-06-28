@@ -2,13 +2,14 @@
   "id": 169711069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.497827,45.77968,-108.497827,45.77968",
     "geom:latitude":45.77968,
     "geom:longitude":-108.497827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S 25th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169711069,
-    "wof:lastmodified":1449035354,
+    "wof:lastmodified":1466641714,
     "wof:name":"7k Fabrication & Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-108.497827,45.77968,-108.497827,45.77968],
+  "bbox": [
+    -108.497827,
+    45.77968,
+    -108.497827,
+    45.77968
+],
   "geometry": {"coordinates":[-108.497827,45.77968],"type":"Point"}
 }

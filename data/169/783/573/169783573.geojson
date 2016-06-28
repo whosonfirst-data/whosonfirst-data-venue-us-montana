@@ -2,13 +2,14 @@
   "id": 169783573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.558877,45.660432,-110.558877,45.660432",
     "geom:latitude":45.660432,
     "geom:longitude":-110.558877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S Main St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169783573,
-    "wof:lastmodified":1449032794,
+    "wof:lastmodified":1466641246,
     "wof:name":"Little Buckaroos",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-110.558877,45.660432,-110.558877,45.660432],
+  "bbox": [
+    -110.558877,
+    45.660432,
+    -110.558877,
+    45.660432
+],
   "geometry": {"coordinates":[-110.558877,45.660432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186238489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.439927,45.829355,-108.439927,45.829355",
     "geom:latitude":45.829355,
     "geom:longitude":-108.439927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Janie St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186238489,
-    "wof:lastmodified":1449051385,
+    "wof:lastmodified":1466642506,
     "wof:name":"Grain Thumb Woodworking",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.439927,45.829355,-108.439927,45.829355],
+  "bbox": [
+    -108.439927,
+    45.829355,
+    -108.439927,
+    45.829355
+],
   "geometry": {"coordinates":[-108.439927,45.829355],"type":"Point"}
 }

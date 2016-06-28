@@ -2,13 +2,14 @@
   "id": 169711465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.519245,46.000895,-112.519245,46.000895",
     "geom:latitude":46.000895,
     "geom:longitude":-112.519245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1369 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169711465,
-    "wof:lastmodified":1449035354,
+    "wof:lastmodified":1466641717,
     "wof:name":"Highlands Hearing Ctr",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audiologists"
     ]
 },
-  "bbox": [-112.519245,46.000895,-112.519245,46.000895],
+  "bbox": [
+    -112.519245,
+    46.000895,
+    -112.519245,
+    46.000895
+],
   "geometry": {"coordinates":[-112.519245,46.000895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185740869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.646846,45.809302,-108.646846,45.809302",
     "geom:latitude":45.809302,
     "geom:longitude":-108.646846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5315 Cheyenne Trl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185740869,
-    "wof:lastmodified":1449007353,
+    "wof:lastmodified":1466641470,
     "wof:name":"RR Lodders & Assoc Inc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.646846,45.809302,-108.646846,45.809302],
+  "bbox": [
+    -108.646846,
+    45.809302,
+    -108.646846,
+    45.809302
+],
   "geometry": {"coordinates":[-108.646846,45.809302],"type":"Point"}
 }

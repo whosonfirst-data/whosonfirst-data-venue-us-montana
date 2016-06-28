@@ -2,13 +2,14 @@
   "id": 186281605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.63595,45.217486,-112.63595,45.217486",
     "geom:latitude":45.217486,
     "geom:longitude":-112.63595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 N Idaho St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186281605,
-    "wof:lastmodified":1449052599,
+    "wof:lastmodified":1466642362,
     "wof:name":"Bookstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.63595,45.217486,-112.63595,45.217486],
-  "geometry": {"coordinates":[-112.63595,45.217486],"type":"Point"}
+  "bbox": [
+    -112.63595,
+    45.217486,
+    -112.63595,
+    45.217486
+],
+  "geometry": {"coordinates":[-112.63594999999999,45.217486],"type":"Point"}
 }

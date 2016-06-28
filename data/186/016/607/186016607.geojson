@@ -2,13 +2,14 @@
   "id": 186016607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.54228,45.763922,-108.54228,45.763922",
     "geom:latitude":45.763922,
     "geom:longitude":-108.54228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186016607,
-    "wof:lastmodified":1449050878,
+    "wof:lastmodified":1466641402,
     "wof:name":"Hulteng Ccm Inc",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-108.54228,45.763922,-108.54228,45.763922],
-  "geometry": {"coordinates":[-108.54228,45.763922],"type":"Point"}
+  "bbox": [
+    -108.54228,
+    45.763922,
+    -108.54228,
+    45.763922
+],
+  "geometry": {"coordinates":[-108.54228000000001,45.763922],"type":"Point"}
 }

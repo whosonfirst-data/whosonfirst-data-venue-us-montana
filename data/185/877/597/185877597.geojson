@@ -2,13 +2,14 @@
   "id": 185877597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.252479,47.499627,-111.252479,47.499627",
     "geom:latitude":47.499627,
     "geom:longitude":-111.252479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3125 5th Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185877597,
-    "wof:lastmodified":1449007733,
+    "wof:lastmodified":1466641614,
     "wof:name":"Faith Lutheran Church E L C A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.252479,47.499627,-111.252479,47.499627],
-  "geometry": {"coordinates":[-111.252479,47.499627],"type":"Point"}
+  "bbox": [
+    -111.252479,
+    47.499627,
+    -111.252479,
+    47.499627
+],
+  "geometry": {"coordinates":[-111.25247899999999,47.499627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185691311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638606,48.192319,-106.638606,48.192319",
     "geom:latitude":48.192319,
     "geom:longitude":-106.638606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 4th Ave S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185691311,
-    "wof:lastmodified":1449006737,
+    "wof:lastmodified":1466641409,
     "wof:name":"Prairie Ridge Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-106.638606,48.192319,-106.638606,48.192319],
+  "bbox": [
+    -106.638606,
+    48.192319,
+    -106.638606,
+    48.192319
+],
   "geometry": {"coordinates":[-106.638606,48.192319],"type":"Point"}
 }

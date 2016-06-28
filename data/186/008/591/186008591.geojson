@@ -2,13 +2,14 @@
   "id": 186008591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.684425,48.535187,-109.684425,48.535187",
     "geom:latitude":48.535187,
     "geom:longitude":-109.684425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Ridge Rd",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186008591,
-    "wof:lastmodified":1449051225,
+    "wof:lastmodified":1466641280,
     "wof:name":"Tyrrell Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.684425,48.535187,-109.684425,48.535187],
+  "bbox": [
+    -109.684425,
+    48.535187,
+    -109.684425,
+    48.535187
+],
   "geometry": {"coordinates":[-109.684425,48.535187],"type":"Point"}
 }

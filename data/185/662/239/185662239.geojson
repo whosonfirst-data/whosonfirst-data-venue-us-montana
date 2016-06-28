@@ -2,13 +2,14 @@
   "id": 185662239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.039308,46.840506,-114.039308,46.840506",
     "geom:latitude":46.840506,
     "geom:longitude":-114.039308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 Dixon Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185662239,
-    "wof:lastmodified":1449007675,
+    "wof:lastmodified":1466641377,
     "wof:name":"Gates Construction",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-114.039308,46.840506,-114.039308,46.840506],
-  "geometry": {"coordinates":[-114.039308,46.840506],"type":"Point"}
+  "bbox": [
+    -114.039308,
+    46.840506,
+    -114.039308,
+    46.840506
+],
+  "geometry": {"coordinates":[-114.03930800000001,46.840506],"type":"Point"}
 }

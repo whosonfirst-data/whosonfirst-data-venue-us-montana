@@ -2,13 +2,14 @@
   "id": 169752761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.825599,46.409415,-105.825599,46.409415",
     "geom:latitude":46.409415,
     "geom:longitude":-105.825599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Pleasant St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169752761,
-    "wof:lastmodified":1449033250,
+    "wof:lastmodified":1466641193,
     "wof:name":"Nolleys Welding & Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "site"
     ]
 },
-  "bbox": [-105.825599,46.409415,-105.825599,46.409415],
+  "bbox": [
+    -105.825599,
+    46.409415,
+    -105.825599,
+    46.409415
+],
   "geometry": {"coordinates":[-105.825599,46.409415],"type":"Point"}
 }

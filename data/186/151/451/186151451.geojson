@@ -2,13 +2,14 @@
   "id": 186151451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.092709,46.456575,-114.092709,46.456575",
     "geom:latitude":46.456575,
     "geom:longitude":-114.092709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3129 Eastside Hwy",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186151451,
-    "wof:lastmodified":1449050282,
+    "wof:lastmodified":1466642124,
     "wof:name":"Advanced Well Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-114.092709,46.456575,-114.092709,46.456575],
+  "bbox": [
+    -114.092709,
+    46.456575,
+    -114.092709,
+    46.456575
+],
   "geometry": {"coordinates":[-114.092709,46.456575],"type":"Point"}
 }

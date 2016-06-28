@@ -2,13 +2,14 @@
   "id": 186030403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.323384,47.454662,-111.323384,47.454662",
     "geom:latitude":47.454662,
     "geom:longitude":-111.323384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Comanche Trl",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186030403,
-    "wof:lastmodified":1449051368,
+    "wof:lastmodified":1466641621,
     "wof:name":"Keller's Mobile Veterinary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-111.323384,47.454662,-111.323384,47.454662],
+  "bbox": [
+    -111.323384,
+    47.454662,
+    -111.323384,
+    47.454662
+],
   "geometry": {"coordinates":[-111.323384,47.454662],"type":"Point"}
 }

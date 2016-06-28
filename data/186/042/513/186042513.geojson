@@ -2,13 +2,14 @@
   "id": 186042513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.517144,45.772886,-108.517144,45.772886",
     "geom:latitude":45.772886,
     "geom:longitude":-108.517144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3921 1st Ave S",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186042513,
-    "wof:lastmodified":1449052361,
+    "wof:lastmodified":1466641804,
     "wof:name":"Windmill Club",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bar"
     ]
 },
-  "bbox": [-108.517144,45.772886,-108.517144,45.772886],
+  "bbox": [
+    -108.517144,
+    45.772886,
+    -108.517144,
+    45.772886
+],
   "geometry": {"coordinates":[-108.517144,45.772886],"type":"Point"}
 }

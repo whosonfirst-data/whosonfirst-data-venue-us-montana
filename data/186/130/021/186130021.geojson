@@ -2,13 +2,14 @@
   "id": 186130021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.957154,46.904888,-104.957154,46.904888",
     "geom:latitude":46.904888,
     "geom:longitude":-104.957154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Rd 245",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186130021,
-    "wof:lastmodified":1449051317,
+    "wof:lastmodified":1466642236,
     "wof:name":"Lassle Simmental Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-104.957154,46.904888,-104.957154,46.904888],
+  "bbox": [
+    -104.957154,
+    46.904888,
+    -104.957154,
+    46.904888
+],
   "geometry": {"coordinates":[-104.957154,46.904888],"type":"Point"}
 }

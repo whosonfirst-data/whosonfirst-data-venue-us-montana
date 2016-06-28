@@ -2,13 +2,14 @@
   "id": 186088961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.255851,48.115722,-114.255851,48.115722",
     "geom:latitude":48.115722,
     "geom:longitude":-114.255851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Forest Hill Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186088961,
-    "wof:lastmodified":1449052410,
+    "wof:lastmodified":1466641772,
     "wof:name":"Valley Drywall",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.255851,48.115722,-114.255851,48.115722],
-  "geometry": {"coordinates":[-114.255851,48.115722],"type":"Point"}
+  "bbox": [
+    -114.255851,
+    48.115722,
+    -114.255851,
+    48.115722
+],
+  "geometry": {"coordinates":[-114.25585100000001,48.115722],"type":"Point"}
 }

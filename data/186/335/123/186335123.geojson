@@ -2,13 +2,14 @@
   "id": 186335123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.541861,46.442938,-108.541861,46.442938",
     "geom:latitude":46.442938,
     "geom:longitude":-108.541861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Main St",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186335123,
-    "wof:lastmodified":1449052136,
+    "wof:lastmodified":1466642681,
     "wof:name":"Tongue River Electric Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-108.541861,46.442938,-108.541861,46.442938],
+  "bbox": [
+    -108.541861,
+    46.442938,
+    -108.541861,
+    46.442938
+],
   "geometry": {"coordinates":[-108.541861,46.442938],"type":"Point"}
 }

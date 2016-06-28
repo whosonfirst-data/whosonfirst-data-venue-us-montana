@@ -2,13 +2,14 @@
   "id": 169697355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.007055,48.050078,-114.007055,48.050078",
     "geom:latitude":48.050078,
     "geom:longitude":-114.007055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 S Ferndale Dr",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169697355,
-    "wof:lastmodified":1449034769,
+    "wof:lastmodified":1466641160,
     "wof:name":"Bigfork Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.007055,48.050078,-114.007055,48.050078],
-  "geometry": {"coordinates":[-114.007055,48.050078],"type":"Point"}
+  "bbox": [
+    -114.007055,
+    48.050078,
+    -114.007055,
+    48.050078
+],
+  "geometry": {"coordinates":[-114.00705499999999,48.050078],"type":"Point"}
 }

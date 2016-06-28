@@ -2,13 +2,14 @@
   "id": 186425491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.561346,45.761616,-108.561346,45.761616",
     "geom:latitude":45.761616,
     "geom:longitude":-108.561346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 S 18th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":186425491,
-    "wof:lastmodified":1449051338,
+    "wof:lastmodified":1466642924,
     "wof:name":"Montana Radiator Works",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "radiator"
     ]
 },
-  "bbox": [-108.561346,45.761616,-108.561346,45.761616],
+  "bbox": [
+    -108.561346,
+    45.761616,
+    -108.561346,
+    45.761616
+],
   "geometry": {"coordinates":[-108.561346,45.761616],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186423695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.03881,45.678041,-111.03881,45.678041",
     "geom:latitude":45.678041,
     "geom:longitude":-111.03881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Willson Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186423695,
-    "wof:lastmodified":1449050855,
+    "wof:lastmodified":1466642922,
     "wof:name":"Methodist Pre-School",
     "wof:parent_id":85876469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-111.03881,45.678041,-111.03881,45.678041],
+  "bbox": [
+    -111.03881,
+    45.678041,
+    -111.03881,
+    45.678041
+],
   "geometry": {"coordinates":[-111.03881,45.678041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185714705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.678936,48.53765,-109.678936,48.53765",
     "geom:latitude":48.53765,
     "geom:longitude":-109.678936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Curve Dr",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185714705,
-    "wof:lastmodified":1449007421,
+    "wof:lastmodified":1466641439,
     "wof:name":"Optimist International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.678936,48.53765,-109.678936,48.53765],
-  "geometry": {"coordinates":[-109.678936,48.53765],"type":"Point"}
+  "bbox": [
+    -109.678936,
+    48.53765,
+    -109.678936,
+    48.53765
+],
+  "geometry": {"coordinates":[-109.67893599999999,48.53765],"type":"Point"}
 }

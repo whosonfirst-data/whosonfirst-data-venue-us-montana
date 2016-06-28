@@ -2,13 +2,14 @@
   "id": 186075035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638603,45.88327,-106.638603,45.88327",
     "geom:latitude":45.88327,
     "geom:longitude":-106.638603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6623 Browning Dr",
     "sg:city":"Colstrip",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186075035,
-    "wof:lastmodified":1449051840,
+    "wof:lastmodified":1466642023,
     "wof:name":"Chuck Klimper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.638603,45.88327,-106.638603,45.88327],
+  "bbox": [
+    -106.638603,
+    45.88327,
+    -106.638603,
+    45.88327
+],
   "geometry": {"coordinates":[-106.638603,45.88327],"type":"Point"}
 }

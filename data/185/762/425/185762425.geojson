@@ -2,13 +2,14 @@
   "id": 185762425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.767035,45.673269,-108.767035,45.673269",
     "geom:latitude":45.673269,
     "geom:longitude":-108.767035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Pennsylvania Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185762425,
-    "wof:lastmodified":1449007739,
+    "wof:lastmodified":1466641488,
     "wof:name":"River Of Life Lutheran Fllwsp",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.767035,45.673269,-108.767035,45.673269],
-  "geometry": {"coordinates":[-108.767035,45.673269],"type":"Point"}
+  "bbox": [
+    -108.767035,
+    45.673269,
+    -108.767035,
+    45.673269
+],
+  "geometry": {"coordinates":[-108.76703500000001,45.673269],"type":"Point"}
 }

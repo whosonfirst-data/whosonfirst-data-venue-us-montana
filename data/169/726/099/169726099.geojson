@@ -2,13 +2,14 @@
   "id": 169726099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.567784,45.758524,-108.567784,45.758524",
     "geom:latitude":45.758524,
     "geom:longitude":-108.567784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 Rosebud Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169726099,
-    "wof:lastmodified":1449034955,
+    "wof:lastmodified":1466641738,
     "wof:name":"Gentry Finance Corp",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-108.567784,45.758524,-108.567784,45.758524],
+  "bbox": [
+    -108.567784,
+    45.758524,
+    -108.567784,
+    45.758524
+],
   "geometry": {"coordinates":[-108.567784,45.758524],"type":"Point"}
 }

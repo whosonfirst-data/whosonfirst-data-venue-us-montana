@@ -2,13 +2,14 @@
   "id": 186145181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.324957,47.477074,-111.324957,47.477074",
     "geom:latitude":47.477074,
     "geom:longitude":-111.324957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Coyote Ct",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186145181,
-    "wof:lastmodified":1449051193,
+    "wof:lastmodified":1466642111,
     "wof:name":"Firassco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-111.324957,47.477074,-111.324957,47.477074],
+  "bbox": [
+    -111.324957,
+    47.477074,
+    -111.324957,
+    47.477074
+],
   "geometry": {"coordinates":[-111.324957,47.477074],"type":"Point"}
 }

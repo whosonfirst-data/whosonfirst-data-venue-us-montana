@@ -2,13 +2,14 @@
   "id": 185696005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.784014,48.529972,-108.784014,48.529972",
     "geom:latitude":48.529972,
     "geom:longitude":-108.784014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 3rd Ave SE",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185696005,
-    "wof:lastmodified":1449006730,
+    "wof:lastmodified":1466641771,
     "wof:name":"Vocational Rehabilitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vocational"
     ]
 },
-  "bbox": [-108.784014,48.529972,-108.784014,48.529972],
+  "bbox": [
+    -108.784014,
+    48.529972,
+    -108.784014,
+    48.529972
+],
   "geometry": {"coordinates":[-108.784014,48.529972],"type":"Point"}
 }

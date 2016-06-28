@@ -2,13 +2,14 @@
   "id": 186115783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.56218,45.668145,-110.56218,45.668145",
     "geom:latitude":45.668145,
     "geom:longitude":-110.56218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Montana St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186115783,
-    "wof:lastmodified":1449050228,
+    "wof:lastmodified":1466642043,
     "wof:name":"John E Mathias",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.56218,45.668145,-110.56218,45.668145],
+  "bbox": [
+    -110.56218,
+    45.668145,
+    -110.56218,
+    45.668145
+],
   "geometry": {"coordinates":[-110.56218,45.668145],"type":"Point"}
 }

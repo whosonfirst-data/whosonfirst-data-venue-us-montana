@@ -2,13 +2,14 @@
   "id": 186325493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.035071,46.589323,-112.035071,46.589323",
     "geom:latitude":46.589323,
     "geom:longitude":-112.035071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 8th Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186325493,
-    "wof:lastmodified":1449051414,
+    "wof:lastmodified":1466642669,
     "wof:name":"First Baptist Church of Mont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.035071,46.589323,-112.035071,46.589323],
+  "bbox": [
+    -112.035071,
+    46.589323,
+    -112.035071,
+    46.589323
+],
   "geometry": {"coordinates":[-112.035071,46.589323],"type":"Point"}
 }

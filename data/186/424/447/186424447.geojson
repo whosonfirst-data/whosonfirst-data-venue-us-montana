@@ -2,13 +2,14 @@
   "id": 186424447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.647472,45.773363,-108.647472,45.773363",
     "geom:latitude":45.773363,
     "geom:longitude":-108.647472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"647 Calypso St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186424447,
-    "wof:lastmodified":1449052865,
+    "wof:lastmodified":1466642923,
     "wof:name":"B W Nickel Inc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-108.647472,45.773363,-108.647472,45.773363],
-  "geometry": {"coordinates":[-108.647472,45.773363],"type":"Point"}
+  "bbox": [
+    -108.647472,
+    45.773363,
+    -108.647472,
+    45.773363
+],
+  "geometry": {"coordinates":[-108.64747199999999,45.773363],"type":"Point"}
 }

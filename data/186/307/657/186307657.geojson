@@ -2,13 +2,14 @@
   "id": 186307657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.300351,48.191657,-114.300351,48.191657",
     "geom:latitude":48.191657,
     "geom:longitude":-114.300351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 7th Ave E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186307657,
-    "wof:lastmodified":1449051084,
+    "wof:lastmodified":1466642636,
     "wof:name":"Woolen Things",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-114.300351,48.191657,-114.300351,48.191657],
-  "geometry": {"coordinates":[-114.300351,48.191657],"type":"Point"}
+  "bbox": [
+    -114.300351,
+    48.191657,
+    -114.300351,
+    48.191657
+],
+  "geometry": {"coordinates":[-114.30035100000001,48.191657],"type":"Point"}
 }

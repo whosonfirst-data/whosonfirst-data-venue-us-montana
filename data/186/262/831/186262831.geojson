@@ -2,13 +2,14 @@
   "id": 186262831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.290733,47.504102,-111.290733,47.504102",
     "geom:latitude":47.504102,
     "geom:longitude":-111.290733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 1st Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186262831,
-    "wof:lastmodified":1449052026,
+    "wof:lastmodified":1466642708,
     "wof:name":"Mountain Peaks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.290733,47.504102,-111.290733,47.504102],
+  "bbox": [
+    -111.290733,
+    47.504102,
+    -111.290733,
+    47.504102
+],
   "geometry": {"coordinates":[-111.290733,47.504102],"type":"Point"}
 }

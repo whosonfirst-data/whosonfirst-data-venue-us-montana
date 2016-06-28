@@ -2,13 +2,14 @@
   "id": 186190759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.510881,45.789283,-108.510881,45.789283",
     "geom:latitude":45.789283,
     "geom:longitude":-108.510881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 N 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186190759,
-    "wof:lastmodified":1449052863,
+    "wof:lastmodified":1466642502,
     "wof:name":"Black Frog Bayou Productions",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-108.510881,45.789283,-108.510881,45.789283],
+  "bbox": [
+    -108.510881,
+    45.789283,
+    -108.510881,
+    45.789283
+],
   "geometry": {"coordinates":[-108.510881,45.789283],"type":"Point"}
 }

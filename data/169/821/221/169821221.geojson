@@ -2,13 +2,14 @@
   "id": 169821221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.771347,45.665874,-108.771347,45.665874",
     "geom:latitude":45.665874,
     "geom:longitude":-108.771347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 S 1st Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169821221,
-    "wof:lastmodified":1449034489,
+    "wof:lastmodified":1466641287,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.771347,45.665874,-108.771347,45.665874],
-  "geometry": {"coordinates":[-108.771347,45.665874],"type":"Point"}
+  "bbox": [
+    -108.771347,
+    45.665874,
+    -108.771347,
+    45.665874
+],
+  "geometry": {"coordinates":[-108.77134700000001,45.665874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186105185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.51937,45.784101,-108.51937,45.784101",
     "geom:latitude":45.784101,
     "geom:longitude":-108.51937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186105185,
-    "wof:lastmodified":1449051401,
+    "wof:lastmodified":1466642147,
     "wof:name":"Caudel & Associates",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-108.51937,45.784101,-108.51937,45.784101],
+  "bbox": [
+    -108.51937,
+    45.784101,
+    -108.51937,
+    45.784101
+],
   "geometry": {"coordinates":[-108.51937,45.784101],"type":"Point"}
 }

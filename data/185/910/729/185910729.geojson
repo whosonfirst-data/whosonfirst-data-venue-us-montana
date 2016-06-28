@@ -2,13 +2,14 @@
   "id": 185910729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.04874,46.600386,-112.04874,46.600386",
     "geom:latitude":46.600386,
     "geom:longitude":-112.04874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Euclid Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185910729,
-    "wof:lastmodified":1449007271,
+    "wof:lastmodified":1466641657,
     "wof:name":"R & R Pump Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-112.04874,46.600386,-112.04874,46.600386],
+  "bbox": [
+    -112.04874,
+    46.600386,
+    -112.04874,
+    46.600386
+],
   "geometry": {"coordinates":[-112.04874,46.600386],"type":"Point"}
 }

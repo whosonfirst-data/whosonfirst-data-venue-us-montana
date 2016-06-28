@@ -2,13 +2,14 @@
   "id": 186396767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.304348,47.501701,-111.304348,47.501701",
     "geom:latitude":47.501701,
     "geom:longitude":-111.304348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 3rd Ave S",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186396767,
-    "wof:lastmodified":1449052127,
+    "wof:lastmodified":1466642859,
     "wof:name":"Stewart Title of Great Falls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-111.304348,47.501701,-111.304348,47.501701],
+  "bbox": [
+    -111.304348,
+    47.501701,
+    -111.304348,
+    47.501701
+],
   "geometry": {"coordinates":[-111.304348,47.501701],"type":"Point"}
 }

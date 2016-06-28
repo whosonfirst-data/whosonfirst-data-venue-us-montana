@@ -2,13 +2,14 @@
   "id": 186105079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.134668,45.67106,-111.134668,45.67106",
     "geom:latitude":45.67106,
     "geom:longitude":-111.134668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8440 Huffine Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186105079,
-    "wof:lastmodified":1449051401,
+    "wof:lastmodified":1466642146,
     "wof:name":"Slumberland Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.134668,45.67106,-111.134668,45.67106],
+  "bbox": [
+    -111.134668,
+    45.67106,
+    -111.134668,
+    45.67106
+],
   "geometry": {"coordinates":[-111.134668,45.67106],"type":"Point"}
 }

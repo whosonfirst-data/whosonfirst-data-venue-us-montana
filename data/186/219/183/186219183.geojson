@@ -2,13 +2,14 @@
   "id": 186219183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.77047,45.66945,-108.77047,45.66945",
     "geom:latitude":45.66945,
     "geom:longitude":-108.77047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 E Main St",
     "sg:city":"Huntley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186219183,
-    "wof:lastmodified":1449052927,
+    "wof:lastmodified":1466642378,
     "wof:name":"Bluecat Inn",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.77047,45.66945,-108.77047,45.66945],
+  "bbox": [
+    -108.77047,
+    45.66945,
+    -108.77047,
+    45.66945
+],
   "geometry": {"coordinates":[-108.77047,45.66945],"type":"Point"}
 }

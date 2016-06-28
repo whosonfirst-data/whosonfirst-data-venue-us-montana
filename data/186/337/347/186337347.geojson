@@ -2,13 +2,14 @@
   "id": 186337347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.273865,46.367826,-104.273865,46.367826",
     "geom:latitude":46.367826,
     "geom:longitude":-104.273865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Montana Ave E",
     "sg:city":"Baker",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186337347,
-    "wof:lastmodified":1449051641,
+    "wof:lastmodified":1466642691,
     "wof:name":"J & A Mini Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.273865,46.367826,-104.273865,46.367826],
+  "bbox": [
+    -104.273865,
+    46.367826,
+    -104.273865,
+    46.367826
+],
   "geometry": {"coordinates":[-104.273865,46.367826],"type":"Point"}
 }

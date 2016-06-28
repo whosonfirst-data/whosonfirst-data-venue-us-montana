@@ -2,13 +2,14 @@
   "id": 186185143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.634615,45.727123,-108.634615,45.727123",
     "geom:latitude":45.727123,
     "geom:longitude":-108.634615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4670 Harvest Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":186185143,
-    "wof:lastmodified":1449050853,
+    "wof:lastmodified":1466642026,
     "wof:name":"Maint In Lawn Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.634615,45.727123,-108.634615,45.727123],
+  "bbox": [
+    -108.634615,
+    45.727123,
+    -108.634615,
+    45.727123
+],
   "geometry": {"coordinates":[-108.634615,45.727123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185651301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.716708,46.077953,-108.716708,46.077953",
     "geom:latitude":46.077953,
     "geom:longitude":-108.716708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15632 Oswald Rd",
     "sg:city":"Broadview",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185651301,
-    "wof:lastmodified":1449006931,
+    "wof:lastmodified":1466641365,
     "wof:name":"Glenn Beckett",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.716708,46.077953,-108.716708,46.077953],
+  "bbox": [
+    -108.716708,
+    46.077953,
+    -108.716708,
+    46.077953
+],
   "geometry": {"coordinates":[-108.716708,46.077953],"type":"Point"}
 }

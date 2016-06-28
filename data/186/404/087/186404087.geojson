@@ -2,13 +2,14 @@
   "id": 186404087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.027373,46.856478,-114.027373,46.856478",
     "geom:latitude":46.856478,
     "geom:longitude":-114.027373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1963 S 14th St W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186404087,
-    "wof:lastmodified":1449052148,
+    "wof:lastmodified":1466642868,
     "wof:name":"Merry Mart & Laundromat",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.027373,46.856478,-114.027373,46.856478],
+  "bbox": [
+    -114.027373,
+    46.856478,
+    -114.027373,
+    46.856478
+],
   "geometry": {"coordinates":[-114.027373,46.856478],"type":"Point"}
 }

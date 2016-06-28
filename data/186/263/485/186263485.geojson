@@ -2,13 +2,14 @@
   "id": 186263485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.736783,45.679368,-108.736783,45.679368",
     "geom:latitude":45.679368,
     "geom:longitude":-108.736783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 E Maryland Ln",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186263485,
-    "wof:lastmodified":1449052955,
+    "wof:lastmodified":1466642706,
     "wof:name":"Gts-Glynn's Tree Svc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-108.736783,45.679368,-108.736783,45.679368],
+  "bbox": [
+    -108.736783,
+    45.679368,
+    -108.736783,
+    45.679368
+],
   "geometry": {"coordinates":[-108.736783,45.679368],"type":"Point"}
 }

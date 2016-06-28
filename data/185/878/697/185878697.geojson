@@ -2,13 +2,14 @@
   "id": 185878697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.115858,46.243989,-114.115858,46.243989",
     "geom:latitude":46.243989,
     "geom:longitude":-114.115858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 Tammany Ln",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185878697,
-    "wof:lastmodified":1449007468,
+    "wof:lastmodified":1466641617,
     "wof:name":"Daly Ditches Irrigation Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-114.115858,46.243989,-114.115858,46.243989],
+  "bbox": [
+    -114.115858,
+    46.243989,
+    -114.115858,
+    46.243989
+],
   "geometry": {"coordinates":[-114.115858,46.243989],"type":"Point"}
 }

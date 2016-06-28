@@ -2,13 +2,14 @@
   "id": 185712429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.130613,46.533739,-114.130613,46.533739",
     "geom:latitude":46.533739,
     "geom:longitude":-114.130613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 Wakantanka Way",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185712429,
-    "wof:lastmodified":1449007300,
+    "wof:lastmodified":1466641432,
     "wof:name":"Eds Wholesale Tires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.130613,46.533739,-114.130613,46.533739],
+  "bbox": [
+    -114.130613,
+    46.533739,
+    -114.130613,
+    46.533739
+],
   "geometry": {"coordinates":[-114.130613,46.533739],"type":"Point"}
 }

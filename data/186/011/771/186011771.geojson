@@ -2,13 +2,14 @@
   "id": 186011771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.506477,45.782721,-108.506477,45.782721",
     "geom:latitude":45.782721,
     "geom:longitude":-108.506477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N 28th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186011771,
-    "wof:lastmodified":1449052521,
+    "wof:lastmodified":1466641329,
     "wof:name":"Rock Creek Coffee Roasters",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-108.506477,45.782721,-108.506477,45.782721],
+  "bbox": [
+    -108.506477,
+    45.782721,
+    -108.506477,
+    45.782721
+],
   "geometry": {"coordinates":[-108.506477,45.782721],"type":"Point"}
 }

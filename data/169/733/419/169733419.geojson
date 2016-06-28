@@ -2,13 +2,14 @@
   "id": 169733419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.713244,48.553995,-109.713244,48.553995",
     "geom:latitude":48.553995,
     "geom:longitude":-109.713244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1728 2nd St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169733419,
-    "wof:lastmodified":1449033151,
+    "wof:lastmodified":1466641166,
     "wof:name":"Consumer Credit Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.713244,48.553995,-109.713244,48.553995],
+  "bbox": [
+    -109.713244,
+    48.553995,
+    -109.713244,
+    48.553995
+],
   "geometry": {"coordinates":[-109.713244,48.553995],"type":"Point"}
 }

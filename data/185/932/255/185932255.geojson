@@ -2,13 +2,14 @@
   "id": 185932255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.533988,45.731352,-108.533988,45.731352",
     "geom:latitude":45.731352,
     "geom:longitude":-108.533988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 Quanta Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185932255,
-    "wof:lastmodified":1449007201,
+    "wof:lastmodified":1466641679,
     "wof:name":"Allen's Plumbing Heating & Rpr",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.533988,45.731352,-108.533988,45.731352],
-  "geometry": {"coordinates":[-108.533988,45.731352],"type":"Point"}
+  "bbox": [
+    -108.533988,
+    45.731352,
+    -108.533988,
+    45.731352
+],
+  "geometry": {"coordinates":[-108.53398799999999,45.731352],"type":"Point"}
 }

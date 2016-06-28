@@ -2,13 +2,14 @@
   "id": 169728815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.42678,47.066118,-109.42678,47.066118",
     "geom:latitude":47.066118,
     "geom:longitude":-109.42678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 3rd Ave N",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169728815,
-    "wof:lastmodified":1449033460,
+    "wof:lastmodified":1466641161,
     "wof:name":"Post Office Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-109.42678,47.066118,-109.42678,47.066118],
-  "geometry": {"coordinates":[-109.42678,47.066118],"type":"Point"}
+  "bbox": [
+    -109.42678,
+    47.066118,
+    -109.42678,
+    47.066118
+],
+  "geometry": {"coordinates":[-109.42677999999999,47.066118],"type":"Point"}
 }

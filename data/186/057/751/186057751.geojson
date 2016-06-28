@@ -2,13 +2,14 @@
   "id": 186057751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.691973,46.97728,-109.691973,46.97728",
     "geom:latitude":46.97728,
     "geom:longitude":-109.691973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Highland",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186057751,
-    "wof:lastmodified":1449051700,
+    "wof:lastmodified":1466641842,
     "wof:name":"Tews Service and Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-109.691973,46.97728,-109.691973,46.97728],
+  "bbox": [
+    -109.691973,
+    46.97728,
+    -109.691973,
+    46.97728
+],
   "geometry": {"coordinates":[-109.691973,46.97728],"type":"Point"}
 }

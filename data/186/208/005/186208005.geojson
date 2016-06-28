@@ -2,13 +2,14 @@
   "id": 186208005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.448651,45.832158,-108.448651,45.832158",
     "geom:latitude":45.832158,
     "geom:longitude":-108.448651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1938 Dogwood Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186208005,
-    "wof:lastmodified":1449050570,
+    "wof:lastmodified":1466642134,
     "wof:name":"Sound Connection Inc",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"
     ]
 },
-  "bbox": [-108.448651,45.832158,-108.448651,45.832158],
+  "bbox": [
+    -108.448651,
+    45.832158,
+    -108.448651,
+    45.832158
+],
   "geometry": {"coordinates":[-108.448651,45.832158],"type":"Point"}
 }

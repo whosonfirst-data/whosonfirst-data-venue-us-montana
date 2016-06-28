@@ -2,13 +2,14 @@
   "id": 169836419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.637085,48.09101,-105.637085,48.09101",
     "geom:latitude":48.09101,
     "geom:longitude":-105.637085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Main St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169836419,
-    "wof:lastmodified":1449034870,
+    "wof:lastmodified":1466641308,
     "wof:name":"Hofman Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-105.637085,48.09101,-105.637085,48.09101],
+  "bbox": [
+    -105.637085,
+    48.09101,
+    -105.637085,
+    48.09101
+],
   "geometry": {"coordinates":[-105.637085,48.09101],"type":"Point"}
 }

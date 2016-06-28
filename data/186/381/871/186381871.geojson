@@ -2,13 +2,14 @@
   "id": 186381871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.186522,46.990379,-104.186522,46.990379",
     "geom:latitude":46.990379,
     "geom:longitude":-104.186522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 2nd Ave NE",
     "sg:city":"Wibaux",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186381871,
-    "wof:lastmodified":1449050468,
+    "wof:lastmodified":1466642658,
     "wof:name":"Amsler Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.186522,46.990379,-104.186522,46.990379],
+  "bbox": [
+    -104.186522,
+    46.990379,
+    -104.186522,
+    46.990379
+],
   "geometry": {"coordinates":[-104.186522,46.990379],"type":"Point"}
 }

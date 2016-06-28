@@ -2,13 +2,14 @@
   "id": 185911457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.149608,46.245905,-114.149608,46.245905",
     "geom:latitude":46.245905,
     "geom:longitude":-114.149608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Van Blaricom St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185911457,
-    "wof:lastmodified":1449007970,
+    "wof:lastmodified":1466641652,
     "wof:name":"Birthright Of The Bitterroot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welfare"
     ]
 },
-  "bbox": [-114.149608,46.245905,-114.149608,46.245905],
+  "bbox": [
+    -114.149608,
+    46.245905,
+    -114.149608,
+    46.245905
+],
   "geometry": {"coordinates":[-114.149608,46.245905],"type":"Point"}
 }

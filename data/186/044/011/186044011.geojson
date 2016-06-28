@@ -2,13 +2,14 @@
   "id": 186044011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.29474,47.529479,-111.29474,47.529479",
     "geom:latitude":47.529479,
     "geom:longitude":-111.29474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 26th Ave NE",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186044011,
-    "wof:lastmodified":1449051771,
+    "wof:lastmodified":1466641998,
     "wof:name":"Robin J Brandee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "education"
     ]
 },
-  "bbox": [-111.29474,47.529479,-111.29474,47.529479],
+  "bbox": [
+    -111.29474,
+    47.529479,
+    -111.29474,
+    47.529479
+],
   "geometry": {"coordinates":[-111.29474,47.529479],"type":"Point"}
 }

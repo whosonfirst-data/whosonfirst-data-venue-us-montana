@@ -2,13 +2,14 @@
   "id": 185846593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.689325,45.740534,-108.689325,45.740534",
     "geom:latitude":45.740534,
     "geom:longitude":-108.689325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6746 Hesper Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185846593,
-    "wof:lastmodified":1449007876,
+    "wof:lastmodified":1466641584,
     "wof:name":"Western Welding",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-108.689325,45.740534,-108.689325,45.740534],
+  "bbox": [
+    -108.689325,
+    45.740534,
+    -108.689325,
+    45.740534
+],
   "geometry": {"coordinates":[-108.689325,45.740534],"type":"Point"}
 }

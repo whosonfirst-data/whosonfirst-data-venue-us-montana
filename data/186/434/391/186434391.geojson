@@ -2,13 +2,14 @@
   "id": 186434391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.539353,46.008516,-112.539353,46.008516",
     "geom:latitude":46.008516,
     "geom:longitude":-112.539353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 S Montana St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186434391,
-    "wof:lastmodified":1449050979,
+    "wof:lastmodified":1466643091,
     "wof:name":"Montana Muffler & Tire Inc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-112.539353,46.008516,-112.539353,46.008516],
-  "geometry": {"coordinates":[-112.539353,46.008516],"type":"Point"}
+  "bbox": [
+    -112.539353,
+    46.008516,
+    -112.539353,
+    46.008516
+],
+  "geometry": {"coordinates":[-112.53935300000001,46.008516],"type":"Point"}
 }

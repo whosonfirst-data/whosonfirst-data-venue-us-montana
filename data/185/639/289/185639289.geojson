@@ -2,13 +2,14 @@
   "id": 185639289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.311355,48.196006,-114.311355,48.196006",
     "geom:latitude":48.196006,
     "geom:longitude":-114.311355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 3rd St E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185639289,
-    "wof:lastmodified":1449008198,
+    "wof:lastmodified":1466641344,
     "wof:name":"Rose Mountain Floral",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.311355,48.196006,-114.311355,48.196006],
-  "geometry": {"coordinates":[-114.311355,48.196006],"type":"Point"}
+  "bbox": [
+    -114.311355,
+    48.196006,
+    -114.311355,
+    48.196006
+],
+  "geometry": {"coordinates":[-114.31135500000001,48.196006],"type":"Point"}
 }

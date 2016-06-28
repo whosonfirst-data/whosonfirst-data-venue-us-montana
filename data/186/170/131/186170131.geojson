@@ -2,13 +2,14 @@
   "id": 186170131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.642545,48.100986,-105.642545,48.100986",
     "geom:latitude":48.100986,
     "geom:longitude":-105.642545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Knapp St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186170131,
-    "wof:lastmodified":1449050489,
+    "wof:lastmodified":1466642368,
     "wof:name":"Trinity Hospital Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "facility"
     ]
 },
-  "bbox": [-105.642545,48.100986,-105.642545,48.100986],
+  "bbox": [
+    -105.642545,
+    48.100986,
+    -105.642545,
+    48.100986
+],
   "geometry": {"coordinates":[-105.642545,48.100986],"type":"Point"}
 }

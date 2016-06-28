@@ -2,13 +2,14 @@
   "id": 185824671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.062417,45.716633,-111.062417,45.716633",
     "geom:latitude":45.716633,
     "geom:longitude":-111.062417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Campbell Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185824671,
-    "wof:lastmodified":1449007156,
+    "wof:lastmodified":1466641562,
     "wof:name":"Montana Kids",
     "wof:parent_id":85891695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-111.062417,45.716633,-111.062417,45.716633],
+  "bbox": [
+    -111.062417,
+    45.716633,
+    -111.062417,
+    45.716633
+],
   "geometry": {"coordinates":[-111.062417,45.716633],"type":"Point"}
 }

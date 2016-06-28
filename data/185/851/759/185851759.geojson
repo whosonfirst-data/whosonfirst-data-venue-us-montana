@@ -2,13 +2,14 @@
   "id": 185851759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.995734,48.140353,-113.995734,48.140353",
     "geom:latitude":48.140353,
     "geom:longitude":-113.995734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Jewell Basin Rd",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185851759,
-    "wof:lastmodified":1449007662,
+    "wof:lastmodified":1466641588,
     "wof:name":"4h Clubs & Affiliated 4h Organ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "membership"
     ]
 },
-  "bbox": [-113.995734,48.140353,-113.995734,48.140353],
+  "bbox": [
+    -113.995734,
+    48.140353,
+    -113.995734,
+    48.140353
+],
   "geometry": {"coordinates":[-113.995734,48.140353],"type":"Point"}
 }

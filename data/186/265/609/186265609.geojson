@@ -2,13 +2,14 @@
   "id": 186265609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.090196,46.624414,-114.090196,46.624414",
     "geom:latitude":46.624414,
     "geom:longitude":-114.090196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 One Horse Creek Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186265609,
-    "wof:lastmodified":1449051303,
+    "wof:lastmodified":1466642709,
     "wof:name":"SD House Logs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-114.090196,46.624414,-114.090196,46.624414],
-  "geometry": {"coordinates":[-114.090196,46.624414],"type":"Point"}
+  "bbox": [
+    -114.090196,
+    46.624414,
+    -114.090196,
+    46.624414
+],
+  "geometry": {"coordinates":[-114.09019600000001,46.624414],"type":"Point"}
 }

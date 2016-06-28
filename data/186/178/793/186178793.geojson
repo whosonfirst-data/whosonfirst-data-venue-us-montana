@@ -2,13 +2,14 @@
   "id": 186178793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.575902,45.752296,-108.575902,45.752296",
     "geom:latitude":45.752296,
     "geom:longitude":-108.575902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2280 Grant Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":186178793,
-    "wof:lastmodified":1449052285,
+    "wof:lastmodified":1466642178,
     "wof:name":"Montco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mining"
     ]
 },
-  "bbox": [-108.575902,45.752296,-108.575902,45.752296],
+  "bbox": [
+    -108.575902,
+    45.752296,
+    -108.575902,
+    45.752296
+],
   "geometry": {"coordinates":[-108.575902,45.752296],"type":"Point"}
 }

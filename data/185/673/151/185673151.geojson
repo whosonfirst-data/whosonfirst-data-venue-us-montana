@@ -2,13 +2,14 @@
   "id": 185673151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.776097,45.627414,-108.776097,45.627414",
     "geom:latitude":45.627414,
     "geom:longitude":-108.776097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2838 US Hwy 212 S",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185673151,
-    "wof:lastmodified":1449007237,
+    "wof:lastmodified":1466641387,
     "wof:name":"Hodges Welding & Supplies",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-108.776097,45.627414,-108.776097,45.627414],
-  "geometry": {"coordinates":[-108.776097,45.627414],"type":"Point"}
+  "bbox": [
+    -108.776097,
+    45.627414,
+    -108.776097,
+    45.627414
+],
+  "geometry": {"coordinates":[-108.77609699999999,45.627414],"type":"Point"}
 }

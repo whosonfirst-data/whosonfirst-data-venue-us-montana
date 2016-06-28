@@ -2,13 +2,14 @@
   "id": 186152401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.518098,45.974868,-112.518098,45.974868",
     "geom:latitude":45.974868,
     "geom:longitude":-112.518098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 Holmes Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186152401,
-    "wof:lastmodified":1449052388,
+    "wof:lastmodified":1466642125,
     "wof:name":"Math Place",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-112.518098,45.974868,-112.518098,45.974868],
-  "geometry": {"coordinates":[-112.518098,45.974868],"type":"Point"}
+  "bbox": [
+    -112.518098,
+    45.974868,
+    -112.518098,
+    45.974868
+],
+  "geometry": {"coordinates":[-112.51809799999999,45.974868],"type":"Point"}
 }

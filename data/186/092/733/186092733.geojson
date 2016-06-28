@@ -2,13 +2,14 @@
   "id": 186092733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.50506,45.985277,-112.50506,45.985277",
     "geom:latitude":45.985277,
     "geom:longitude":-112.50506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Holiday Way",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186092733,
-    "wof:lastmodified":1449052507,
+    "wof:lastmodified":1466641954,
     "wof:name":"O Connell Pub",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-112.50506,45.985277,-112.50506,45.985277],
+  "bbox": [
+    -112.50506,
+    45.985277,
+    -112.50506,
+    45.985277
+],
   "geometry": {"coordinates":[-112.50506,45.985277],"type":"Point"}
 }

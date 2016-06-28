@@ -2,13 +2,14 @@
   "id": 185644191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.714794,47.421873,-111.714794,47.421873",
     "geom:latitude":47.421873,
     "geom:longitude":-111.714794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 Sun River Cascade Rd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185644191,
-    "wof:lastmodified":1449007523,
+    "wof:lastmodified":1466641362,
     "wof:name":"Hamlett Ranch Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-111.714794,47.421873,-111.714794,47.421873],
+  "bbox": [
+    -111.714794,
+    47.421873,
+    -111.714794,
+    47.421873
+],
   "geometry": {"coordinates":[-111.714794,47.421873],"type":"Point"}
 }

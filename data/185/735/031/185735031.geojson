@@ -2,13 +2,14 @@
   "id": 185735031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.617457,45.801783,-108.617457,45.801783",
     "geom:latitude":45.801783,
     "geom:longitude":-108.617457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 40th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185735031,
-    "wof:lastmodified":1449008147,
+    "wof:lastmodified":1466641774,
     "wof:name":"Mudjacking & Construction Inc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "foundation"
     ]
 },
-  "bbox": [-108.617457,45.801783,-108.617457,45.801783],
+  "bbox": [
+    -108.617457,
+    45.801783,
+    -108.617457,
+    45.801783
+],
   "geometry": {"coordinates":[-108.617457,45.801783],"type":"Point"}
 }

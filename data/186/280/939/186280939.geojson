@@ -2,13 +2,14 @@
   "id": 186280939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.948409,46.128588,-112.948409,46.128588",
     "geom:latitude":46.128588,
     "geom:longitude":-112.948409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E Park Ave",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186280939,
-    "wof:lastmodified":1449051699,
+    "wof:lastmodified":1466642347,
     "wof:name":"Foe 18",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.948409,46.128588,-112.948409,46.128588],
+  "bbox": [
+    -112.948409,
+    46.128588,
+    -112.948409,
+    46.128588
+],
   "geometry": {"coordinates":[-112.948409,46.128588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185793229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.093047,46.511259,-114.093047,46.511259",
     "geom:latitude":46.511259,
     "geom:longitude":-114.093047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Main St",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185793229,
-    "wof:lastmodified":1449007499,
+    "wof:lastmodified":1466641520,
     "wof:name":"Stevi Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-114.093047,46.511259,-114.093047,46.511259],
+  "bbox": [
+    -114.093047,
+    46.511259,
+    -114.093047,
+    46.511259
+],
   "geometry": {"coordinates":[-114.093047,46.511259],"type":"Point"}
 }

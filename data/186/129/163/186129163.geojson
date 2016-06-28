@@ -2,13 +2,14 @@
   "id": 186129163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.051237,48.871372,-104.051237,48.871372",
     "geom:latitude":48.871372,
     "geom:longitude":-104.051237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Main St",
     "sg:city":"Westby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186129163,
-    "wof:lastmodified":1449052492,
+    "wof:lastmodified":1466642081,
     "wof:name":"Westby Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-104.051237,48.871372,-104.051237,48.871372],
+  "bbox": [
+    -104.051237,
+    48.871372,
+    -104.051237,
+    48.871372
+],
   "geometry": {"coordinates":[-104.051237,48.871372],"type":"Point"}
 }

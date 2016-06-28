@@ -2,13 +2,14 @@
   "id": 185756065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.496768,45.786395,-108.496768,45.786395",
     "geom:latitude":45.786395,
     "geom:longitude":-108.496768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 1st Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185756065,
-    "wof:lastmodified":1449007575,
+    "wof:lastmodified":1466641478,
     "wof:name":"Lincoln Signs",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-108.496768,45.786395,-108.496768,45.786395],
+  "bbox": [
+    -108.496768,
+    45.786395,
+    -108.496768,
+    45.786395
+],
   "geometry": {"coordinates":[-108.496768,45.786395],"type":"Point"}
 }

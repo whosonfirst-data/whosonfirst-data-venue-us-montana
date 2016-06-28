@@ -2,13 +2,14 @@
   "id": 185841709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.121001,47.587785,-114.121001,47.587785",
     "geom:latitude":47.587785,
     "geom:longitude":-114.121001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Carbine Rd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185841709,
-    "wof:lastmodified":1449006953,
+    "wof:lastmodified":1466641577,
     "wof:name":"American Indian Technical Assi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.121001,47.587785,-114.121001,47.587785],
-  "geometry": {"coordinates":[-114.121001,47.587785],"type":"Point"}
+  "bbox": [
+    -114.121001,
+    47.587785,
+    -114.121001,
+    47.587785
+],
+  "geometry": {"coordinates":[-114.12100100000001,47.587785],"type":"Point"}
 }

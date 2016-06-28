@@ -2,13 +2,14 @@
   "id": 185664211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.56171,45.797925,-108.56171,45.797925",
     "geom:latitude":45.797925,
     "geom:longitude":-108.56171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 Augusta Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185664211,
-    "wof:lastmodified":1449007196,
+    "wof:lastmodified":1466641380,
     "wof:name":"Saint Francis West Day Care",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-108.56171,45.797925,-108.56171,45.797925],
-  "geometry": {"coordinates":[-108.56171,45.797925],"type":"Point"}
+  "bbox": [
+    -108.56171,
+    45.797925,
+    -108.56171,
+    45.797925
+],
+  "geometry": {"coordinates":[-108.56171000000001,45.797925],"type":"Point"}
 }

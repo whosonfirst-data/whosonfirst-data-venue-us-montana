@@ -2,13 +2,14 @@
   "id": 169729653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.817925,45.669389,-108.817925,45.669389",
     "geom:latitude":45.669389,
     "geom:longitude":-108.817925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 25th Ave W",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169729653,
-    "wof:lastmodified":1449034344,
+    "wof:lastmodified":1466641166,
     "wof:name":"Shay Wood Farm Inc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-108.817925,45.669389,-108.817925,45.669389],
+  "bbox": [
+    -108.817925,
+    45.669389,
+    -108.817925,
+    45.669389
+],
   "geometry": {"coordinates":[-108.817925,45.669389],"type":"Point"}
 }

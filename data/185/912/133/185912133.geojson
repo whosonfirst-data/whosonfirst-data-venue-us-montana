@@ -2,13 +2,14 @@
   "id": 185912133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.322217,45.865804,-108.322217,45.865804",
     "geom:latitude":45.865804,
     "geom:longitude":-108.322217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4619 Yellowstone Trl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185912133,
-    "wof:lastmodified":1449007423,
+    "wof:lastmodified":1466641648,
     "wof:name":"Cheri Custom Catering Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-108.322217,45.865804,-108.322217,45.865804],
-  "geometry": {"coordinates":[-108.322217,45.865804],"type":"Point"}
+  "bbox": [
+    -108.322217,
+    45.865804,
+    -108.322217,
+    45.865804
+],
+  "geometry": {"coordinates":[-108.32221699999999,45.865804],"type":"Point"}
 }

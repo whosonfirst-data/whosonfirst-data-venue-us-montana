@@ -2,13 +2,14 @@
   "id": 185612287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.09237,47.515225,-114.09237,47.515225",
     "geom:latitude":47.515225,
     "geom:longitude":-114.09237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Timberlane Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185612287,
-    "wof:lastmodified":1449007320,
+    "wof:lastmodified":1466641192,
     "wof:name":"Jerry R Emerson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.09237,47.515225,-114.09237,47.515225],
+  "bbox": [
+    -114.09237,
+    47.515225,
+    -114.09237,
+    47.515225
+],
   "geometry": {"coordinates":[-114.09237,47.515225],"type":"Point"}
 }

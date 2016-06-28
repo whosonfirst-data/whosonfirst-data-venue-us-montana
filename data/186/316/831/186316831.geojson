@@ -2,13 +2,14 @@
   "id": 186316831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.614705,45.789523,-108.614705,45.789523",
     "geom:latitude":45.789523,
     "geom:longitude":-108.614705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 Country Manor Blvd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186316831,
-    "wof:lastmodified":1449052189,
+    "wof:lastmodified":1466642659,
     "wof:name":"Glen Pike CPA & Associates",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.614705,45.789523,-108.614705,45.789523],
+  "bbox": [
+    -108.614705,
+    45.789523,
+    -108.614705,
+    45.789523
+],
   "geometry": {"coordinates":[-108.614705,45.789523],"type":"Point"}
 }

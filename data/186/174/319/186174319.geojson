@@ -2,13 +2,14 @@
   "id": 186174319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.710069,45.755227,-108.710069,45.755227",
     "geom:latitude":45.755227,
     "geom:longitude":-108.710069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7747 King Ave W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186174319,
-    "wof:lastmodified":1449050699,
+    "wof:lastmodified":1466642160,
     "wof:name":"King Avenue Estates Comm Ctr",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-108.710069,45.755227,-108.710069,45.755227],
+  "bbox": [
+    -108.710069,
+    45.755227,
+    -108.710069,
+    45.755227
+],
   "geometry": {"coordinates":[-108.710069,45.755227],"type":"Point"}
 }

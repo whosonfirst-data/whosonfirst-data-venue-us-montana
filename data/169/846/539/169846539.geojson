@@ -2,13 +2,14 @@
   "id": 169846539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.268259,48.263435,-114.268259,48.263435",
     "geom:latitude":48.263435,
     "geom:longitude":-114.268259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3259 US Hwy 2 E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169846539,
-    "wof:lastmodified":1449035220,
+    "wof:lastmodified":1466641323,
     "wof:name":"K M Restoration & Construction",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "damage"
     ]
 },
-  "bbox": [-114.268259,48.263435,-114.268259,48.263435],
+  "bbox": [
+    -114.268259,
+    48.263435,
+    -114.268259,
+    48.263435
+],
   "geometry": {"coordinates":[-114.268259,48.263435],"type":"Point"}
 }

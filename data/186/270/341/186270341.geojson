@@ -2,13 +2,14 @@
   "id": 186270341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.618114,45.784196,-108.618114,45.784196",
     "geom:latitude":45.784196,
     "geom:longitude":-108.618114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4041 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186270341,
-    "wof:lastmodified":1449050896,
+    "wof:lastmodified":1466642570,
     "wof:name":"Holiday Station Store",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-108.618114,45.784196,-108.618114,45.784196],
-  "geometry": {"coordinates":[-108.618114,45.784196],"type":"Point"}
+  "bbox": [
+    -108.618114,
+    45.784196,
+    -108.618114,
+    45.784196
+],
+  "geometry": {"coordinates":[-108.61811400000001,45.784196],"type":"Point"}
 }

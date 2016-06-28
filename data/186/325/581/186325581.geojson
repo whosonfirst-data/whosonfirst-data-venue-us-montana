@@ -2,13 +2,14 @@
   "id": 186325581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.011652,46.574518,-112.011652,46.574518",
     "geom:latitude":46.574518,
     "geom:longitude":-112.011652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Virginia Dale St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186325581,
-    "wof:lastmodified":1449051412,
+    "wof:lastmodified":1466642671,
     "wof:name":"Ackerlund Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "representative"
     ]
 },
-  "bbox": [-112.011652,46.574518,-112.011652,46.574518],
+  "bbox": [
+    -112.011652,
+    46.574518,
+    -112.011652,
+    46.574518
+],
   "geometry": {"coordinates":[-112.011652,46.574518],"type":"Point"}
 }

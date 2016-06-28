@@ -2,13 +2,14 @@
   "id": 185614197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.55934,48.384942,-115.55934,48.384942",
     "geom:latitude":48.384942,
     "geom:longitude":-115.55934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Main Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185614197,
-    "wof:lastmodified":1449008274,
+    "wof:lastmodified":1466641195,
     "wof:name":"Libby Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.55934,48.384942,-115.55934,48.384942],
-  "geometry": {"coordinates":[-115.55934,48.384942],"type":"Point"}
+  "bbox": [
+    -115.55934,
+    48.384942,
+    -115.55934,
+    48.384942
+],
+  "geometry": {"coordinates":[-115.55934000000001,48.384942],"type":"Point"}
 }

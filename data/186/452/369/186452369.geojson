@@ -2,13 +2,14 @@
   "id": 186452369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.093723,45.672249,-111.093723,45.672249",
     "geom:latitude":45.672249,
     "geom:longitude":-111.093723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"682 S Ferguson Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186452369,
-    "wof:lastmodified":1449051036,
+    "wof:lastmodified":1466643019,
     "wof:name":"Tip Coleman DMD",
     "wof:parent_id":85891697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.093723,45.672249,-111.093723,45.672249],
+  "bbox": [
+    -111.093723,
+    45.672249,
+    -111.093723,
+    45.672249
+],
   "geometry": {"coordinates":[-111.093723,45.672249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186027789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.699405,45.998673,-112.699405,45.998673",
     "geom:latitude":45.998673,
     "geom:longitude":-112.699405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119043 Battle Ridge Rd",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186027789,
-    "wof:lastmodified":1449050907,
+    "wof:lastmodified":1466641576,
     "wof:name":"Tranmer Trucking",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.699405,45.998673,-112.699405,45.998673],
+  "bbox": [
+    -112.699405,
+    45.998673,
+    -112.699405,
+    45.998673
+],
   "geometry": {"coordinates":[-112.699405,45.998673],"type":"Point"}
 }

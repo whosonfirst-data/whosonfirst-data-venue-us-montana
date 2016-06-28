@@ -2,13 +2,14 @@
   "id": 185627453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.590481,45.79273,-108.590481,45.79273",
     "geom:latitude":45.79273,
     "geom:longitude":-108.590481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 Rehberg Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185627453,
-    "wof:lastmodified":1449008255,
+    "wof:lastmodified":1466641311,
     "wof:name":"Billings Montessori School",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "preschool"
     ]
 },
-  "bbox": [-108.590481,45.79273,-108.590481,45.79273],
+  "bbox": [
+    -108.590481,
+    45.79273,
+    -108.590481,
+    45.79273
+],
   "geometry": {"coordinates":[-108.590481,45.79273],"type":"Point"}
 }

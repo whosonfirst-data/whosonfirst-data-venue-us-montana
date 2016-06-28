@@ -2,13 +2,14 @@
   "id": 185727327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.284269,48.241813,-114.284269,48.241813",
     "geom:latitude":48.241813,
     "geom:longitude":-114.284269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Scenic Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185727327,
-    "wof:lastmodified":1449006851,
+    "wof:lastmodified":1466641448,
     "wof:name":"Steel Reality Manufacturing",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-114.284269,48.241813,-114.284269,48.241813],
-  "geometry": {"coordinates":[-114.284269,48.241813],"type":"Point"}
+  "bbox": [
+    -114.284269,
+    48.241813,
+    -114.284269,
+    48.241813
+],
+  "geometry": {"coordinates":[-114.28426899999999,48.241813],"type":"Point"}
 }

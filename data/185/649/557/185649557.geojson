@@ -2,13 +2,14 @@
   "id": 185649557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.571935,45.651142,-110.571935,45.651142",
     "geom:latitude":45.651142,
     "geom:longitude":-110.571935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 W Park St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185649557,
-    "wof:lastmodified":1449007685,
+    "wof:lastmodified":1466641369,
     "wof:name":"Key Linden Insurance",
     "wof:parent_id":85867995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.571935,45.651142,-110.571935,45.651142],
+  "bbox": [
+    -110.571935,
+    45.651142,
+    -110.571935,
+    45.651142
+],
   "geometry": {"coordinates":[-110.571935,45.651142],"type":"Point"}
 }

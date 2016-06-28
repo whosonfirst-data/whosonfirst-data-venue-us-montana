@@ -2,13 +2,14 @@
   "id": 169861939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.26251,48.332313,-114.26251,48.332313",
     "geom:latitude":48.332313,
     "geom:longitude":-114.26251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3374 Trumble Creek Rd",
     "sg:city":"Columbia Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169861939,
-    "wof:lastmodified":1449035940,
+    "wof:lastmodified":1466641358,
     "wof:name":"Hansons R V Storage",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "install"
     ]
 },
-  "bbox": [-114.26251,48.332313,-114.26251,48.332313],
-  "geometry": {"coordinates":[-114.26251,48.332313],"type":"Point"}
+  "bbox": [
+    -114.26251,
+    48.332313,
+    -114.26251,
+    48.332313
+],
+  "geometry": {"coordinates":[-114.26251000000001,48.332313],"type":"Point"}
 }

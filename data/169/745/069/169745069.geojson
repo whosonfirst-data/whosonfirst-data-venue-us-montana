@@ -2,13 +2,14 @@
   "id": 169745069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.53061,46.007422,-112.53061,46.007422",
     "geom:latitude":46.007422,
     "geom:longitude":-112.53061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"647 Utah Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169745069,
-    "wof:lastmodified":1449035813,
+    "wof:lastmodified":1466641744,
     "wof:name":"Sunrise Flooring",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-112.53061,46.007422,-112.53061,46.007422],
+  "bbox": [
+    -112.53061,
+    46.007422,
+    -112.53061,
+    46.007422
+],
   "geometry": {"coordinates":[-112.53061,46.007422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186004779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.485144,45.794571,-108.485144,45.794571",
     "geom:latitude":45.794571,
     "geom:longitude":-108.485144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 3rd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186004779,
-    "wof:lastmodified":1449051362,
+    "wof:lastmodified":1466641252,
     "wof:name":"Skate World",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rink"
     ]
 },
-  "bbox": [-108.485144,45.794571,-108.485144,45.794571],
-  "geometry": {"coordinates":[-108.485144,45.794571],"type":"Point"}
+  "bbox": [
+    -108.485144,
+    45.794571,
+    -108.485144,
+    45.794571
+],
+  "geometry": {"coordinates":[-108.48514400000001,45.794571],"type":"Point"}
 }

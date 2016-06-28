@@ -2,13 +2,14 @@
   "id": 186208941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.962192,48.996382,-111.962192,48.996382",
     "geom:latitude":48.996382,
     "geom:longitude":-111.962192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 2nd St",
     "sg:city":"Sweet Grass",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186208941,
-    "wof:lastmodified":1449050566,
+    "wof:lastmodified":1466642142,
     "wof:name":"For Beautisake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.962192,48.996382,-111.962192,48.996382],
+  "bbox": [
+    -111.962192,
+    48.996382,
+    -111.962192,
+    48.996382
+],
   "geometry": {"coordinates":[-111.962192,48.996382],"type":"Point"}
 }

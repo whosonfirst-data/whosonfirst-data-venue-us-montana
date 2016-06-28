@@ -2,13 +2,14 @@
   "id": 186034205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.181403,45.778436,-111.181403,45.778436",
     "geom:latitude":45.778436,
     "geom:longitude":-111.181403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 W Main St",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186034205,
-    "wof:lastmodified":1449050547,
+    "wof:lastmodified":1466641683,
     "wof:name":"Dan D Satchell DC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.181403,45.778436,-111.181403,45.778436],
+  "bbox": [
+    -111.181403,
+    45.778436,
+    -111.181403,
+    45.778436
+],
   "geometry": {"coordinates":[-111.181403,45.778436],"type":"Point"}
 }

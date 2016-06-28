@@ -2,13 +2,14 @@
   "id": 169866877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.641028,48.093608,-105.641028,48.093608",
     "geom:latitude":48.093608,
     "geom:longitude":-105.641028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Cascade St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169866877,
-    "wof:lastmodified":1449034249,
+    "wof:lastmodified":1466641365,
     "wof:name":"Gysler Ace Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.641028,48.093608,-105.641028,48.093608],
-  "geometry": {"coordinates":[-105.641028,48.093608],"type":"Point"}
+  "bbox": [
+    -105.641028,
+    48.093608,
+    -105.641028,
+    48.093608
+],
+  "geometry": {"coordinates":[-105.64102800000001,48.093608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169743017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.992673,46.871804,-113.992673,46.871804",
     "geom:latitude":46.871804,
     "geom:longitude":-113.992673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Broadway St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169743017,
-    "wof:lastmodified":1449035946,
+    "wof:lastmodified":1466641744,
     "wof:name":"Modwest Inc",
     "wof:parent_id":85891731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hosting"
     ]
 },
-  "bbox": [-113.992673,46.871804,-113.992673,46.871804],
+  "bbox": [
+    -113.992673,
+    46.871804,
+    -113.992673,
+    46.871804
+],
   "geometry": {"coordinates":[-113.992673,46.871804],"type":"Point"}
 }

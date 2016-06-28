@@ -2,13 +2,14 @@
   "id": 186059867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.497534,45.777351,-108.497534,45.777351",
     "geom:latitude":45.777351,
     "geom:longitude":-108.497534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 S 26th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186059867,
-    "wof:lastmodified":1449051117,
+    "wof:lastmodified":1466641842,
     "wof:name":"Ted Lechner Youth Service Ctr",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-108.497534,45.777351,-108.497534,45.777351],
+  "bbox": [
+    -108.497534,
+    45.777351,
+    -108.497534,
+    45.777351
+],
   "geometry": {"coordinates":[-108.497534,45.777351],"type":"Point"}
 }

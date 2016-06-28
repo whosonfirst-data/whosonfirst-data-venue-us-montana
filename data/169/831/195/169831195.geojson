@@ -2,13 +2,14 @@
   "id": 169831195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.071529,46.765848,-114.071529,46.765848",
     "geom:latitude":46.765848,
     "geom:longitude":-114.071529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Lakeside Dr",
     "sg:city":"Lolo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169831195,
-    "wof:lastmodified":1449034626,
+    "wof:lastmodified":1466641299,
     "wof:name":"Maxion",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.071529,46.765848,-114.071529,46.765848],
+  "bbox": [
+    -114.071529,
+    46.765848,
+    -114.071529,
+    46.765848
+],
   "geometry": {"coordinates":[-114.071529,46.765848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185930871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.584141,45.780782,-108.584141,45.780782",
     "geom:latitude":45.780782,
     "geom:longitude":-108.584141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2537 Lewis Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185930871,
-    "wof:lastmodified":1449007114,
+    "wof:lastmodified":1466641686,
     "wof:name":"Nutri System Weight Loss Ctr",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reducing"
     ]
 },
-  "bbox": [-108.584141,45.780782,-108.584141,45.780782],
+  "bbox": [
+    -108.584141,
+    45.780782,
+    -108.584141,
+    45.780782
+],
   "geometry": {"coordinates":[-108.584141,45.780782],"type":"Point"}
 }

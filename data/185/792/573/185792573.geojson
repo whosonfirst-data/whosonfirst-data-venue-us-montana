@@ -2,13 +2,14 @@
   "id": 185792573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.533736,48.064175,-105.533736,48.064175",
     "geom:latitude":48.064175,
     "geom:longitude":-105.533736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4624 State Hwy 13",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185792573,
-    "wof:lastmodified":1449006962,
+    "wof:lastmodified":1466641522,
     "wof:name":"Harry's Nite Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.533736,48.064175,-105.533736,48.064175],
+  "bbox": [
+    -105.533736,
+    48.064175,
+    -105.533736,
+    48.064175
+],
   "geometry": {"coordinates":[-105.533736,48.064175],"type":"Point"}
 }

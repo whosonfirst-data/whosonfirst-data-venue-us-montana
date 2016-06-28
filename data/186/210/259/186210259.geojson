@@ -2,13 +2,14 @@
   "id": 186210259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.511321,45.780632,-108.511321,45.780632",
     "geom:latitude":45.780632,
     "geom:longitude":-108.511321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 2nd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186210259,
-    "wof:lastmodified":1449051300,
+    "wof:lastmodified":1466642352,
     "wof:name":"Mountain Peaks Inc",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-108.511321,45.780632,-108.511321,45.780632],
+  "bbox": [
+    -108.511321,
+    45.780632,
+    -108.511321,
+    45.780632
+],
   "geometry": {"coordinates":[-108.511321,45.780632],"type":"Point"}
 }

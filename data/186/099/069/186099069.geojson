@@ -2,13 +2,14 @@
   "id": 186099069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.033001,45.680468,-111.033001,45.680468",
     "geom:latitude":45.680468,
     "geom:longitude":-111.033001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E Mendenhall St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186099069,
-    "wof:lastmodified":1449052120,
+    "wof:lastmodified":1466641966,
     "wof:name":"Michael A Horton",
     "wof:parent_id":85876469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-111.033001,45.680468,-111.033001,45.680468],
+  "bbox": [
+    -111.033001,
+    45.680468,
+    -111.033001,
+    45.680468
+],
   "geometry": {"coordinates":[-111.033001,45.680468],"type":"Point"}
 }

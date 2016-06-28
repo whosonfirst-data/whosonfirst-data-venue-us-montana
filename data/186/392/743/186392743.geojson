@@ -2,13 +2,14 @@
   "id": 186392743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.563819,48.3943,-115.563819,48.3943",
     "geom:latitude":48.3943,
     "geom:longitude":-115.563819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Commerce Way",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186392743,
-    "wof:lastmodified":1449052483,
+    "wof:lastmodified":1466642847,
     "wof:name":"Libby Plaza II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.563819,48.3943,-115.563819,48.3943],
+  "bbox": [
+    -115.563819,
+    48.3943,
+    -115.563819,
+    48.3943
+],
   "geometry": {"coordinates":[-115.563819,48.3943],"type":"Point"}
 }

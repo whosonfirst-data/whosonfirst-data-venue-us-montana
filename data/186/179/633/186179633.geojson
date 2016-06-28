@@ -2,13 +2,14 @@
   "id": 186179633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.850461,46.406011,-105.850461,46.406011",
     "geom:latitude":46.406011,
     "geom:longitude":-105.850461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Main St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186179633,
-    "wof:lastmodified":1449052746,
+    "wof:lastmodified":1466642174,
     "wof:name":"KKRY 92.3 FM & KMTA 1050 AM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-105.850461,46.406011,-105.850461,46.406011],
+  "bbox": [
+    -105.850461,
+    46.406011,
+    -105.850461,
+    46.406011
+],
   "geometry": {"coordinates":[-105.850461,46.406011],"type":"Point"}
 }

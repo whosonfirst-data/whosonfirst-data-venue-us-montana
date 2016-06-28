@@ -2,13 +2,14 @@
   "id": 185704143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.155368,46.244949,-114.155368,46.244949",
     "geom:latitude":46.244949,
     "geom:longitude":-114.155368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Bedford St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185704143,
-    "wof:lastmodified":1449007028,
+    "wof:lastmodified":1466641421,
     "wof:name":"Smith Real Estate Appraising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-114.155368,46.244949,-114.155368,46.244949],
+  "bbox": [
+    -114.155368,
+    46.244949,
+    -114.155368,
+    46.244949
+],
   "geometry": {"coordinates":[-114.155368,46.244949],"type":"Point"}
 }

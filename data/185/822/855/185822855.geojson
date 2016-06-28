@@ -2,13 +2,14 @@
   "id": 185822855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.513091,45.783771,-108.513091,45.783771",
     "geom:latitude":45.783771,
     "geom:longitude":-108.513091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 N 31st St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185822855,
-    "wof:lastmodified":1449008140,
+    "wof:lastmodified":1466641558,
     "wof:name":"Langdon G Williams Petroleum",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "geological"
     ]
 },
-  "bbox": [-108.513091,45.783771,-108.513091,45.783771],
+  "bbox": [
+    -108.513091,
+    45.783771,
+    -108.513091,
+    45.783771
+],
   "geometry": {"coordinates":[-108.513091,45.783771],"type":"Point"}
 }

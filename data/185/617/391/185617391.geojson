@@ -2,13 +2,14 @@
   "id": 185617391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.545213,45.669337,-110.545213,45.669337",
     "geom:latitude":45.669337,
     "geom:longitude":-110.545213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S O St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185617391,
-    "wof:lastmodified":1449006635,
+    "wof:lastmodified":1466641203,
     "wof:name":"New Beginning Church of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.545213,45.669337,-110.545213,45.669337],
+  "bbox": [
+    -110.545213,
+    45.669337,
+    -110.545213,
+    45.669337
+],
   "geometry": {"coordinates":[-110.545213,45.669337],"type":"Point"}
 }

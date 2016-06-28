@@ -2,13 +2,14 @@
   "id": 169721011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.309243,45.895349,-108.309243,45.895349",
     "geom:latitude":45.895349,
     "geom:longitude":-108.309243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Northern Ave",
     "sg:city":"Huntley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169721011,
-    "wof:lastmodified":1449035959,
+    "wof:lastmodified":1466641731,
     "wof:name":"Uncle Jacque's Antiques",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-108.309243,45.895349,-108.309243,45.895349],
+  "bbox": [
+    -108.309243,
+    45.895349,
+    -108.309243,
+    45.895349
+],
   "geometry": {"coordinates":[-108.309243,45.895349],"type":"Point"}
 }

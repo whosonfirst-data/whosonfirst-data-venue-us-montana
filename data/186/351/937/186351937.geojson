@@ -2,13 +2,14 @@
   "id": 186351937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.71706,47.101673,-104.71706,47.101673",
     "geom:latitude":47.101673,
     "geom:longitude":-104.71706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Mann St",
     "sg:city":"Biddle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186351937,
-    "wof:lastmodified":1449052607,
+    "wof:lastmodified":1466642864,
     "wof:name":"Biddle Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-104.71706,47.101673,-104.71706,47.101673],
+  "bbox": [
+    -104.71706,
+    47.101673,
+    -104.71706,
+    47.101673
+],
   "geometry": {"coordinates":[-104.71706,47.101673],"type":"Point"}
 }

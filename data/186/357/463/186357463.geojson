@@ -2,13 +2,14 @@
   "id": 186357463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.280361,45.946456,-108.280361,45.946456",
     "geom:latitude":45.946456,
     "geom:longitude":-108.280361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2245 N 4th Rd",
     "sg:city":"Huntley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186357463,
-    "wof:lastmodified":1449052689,
+    "wof:lastmodified":1466642737,
     "wof:name":"Adam Berger",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-108.280361,45.946456,-108.280361,45.946456],
+  "bbox": [
+    -108.280361,
+    45.946456,
+    -108.280361,
+    45.946456
+],
   "geometry": {"coordinates":[-108.280361,45.946456],"type":"Point"}
 }

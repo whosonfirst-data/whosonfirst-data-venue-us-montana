@@ -2,13 +2,14 @@
   "id": 169841741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.605897,45.734388,-107.605897,45.734388",
     "geom:latitude":45.734388,
     "geom:longitude":-107.605897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 N Center Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169841741,
-    "wof:lastmodified":1449033375,
+    "wof:lastmodified":1466641323,
     "wof:name":"Little Big Men Of Hardin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.605897,45.734388,-107.605897,45.734388],
+  "bbox": [
+    -107.605897,
+    45.734388,
+    -107.605897,
+    45.734388
+],
   "geometry": {"coordinates":[-107.605897,45.734388],"type":"Point"}
 }

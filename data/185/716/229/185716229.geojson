@@ -2,13 +2,14 @@
   "id": 185716229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.34239,45.972621,-108.34239,45.972621",
     "geom:latitude":45.972621,
     "geom:longitude":-108.34239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5625 Scandia Rd",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185716229,
-    "wof:lastmodified":1449006835,
+    "wof:lastmodified":1466641434,
     "wof:name":"Feedlot Steakhouse",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-108.34239,45.972621,-108.34239,45.972621],
-  "geometry": {"coordinates":[-108.34239,45.972621],"type":"Point"}
+  "bbox": [
+    -108.34239,
+    45.972621,
+    -108.34239,
+    45.972621
+],
+  "geometry": {"coordinates":[-108.34238999999999,45.972621],"type":"Point"}
 }

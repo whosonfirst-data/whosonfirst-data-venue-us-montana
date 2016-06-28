@@ -2,13 +2,14 @@
   "id": 169704719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.327341,48.633605,-112.327341,48.633605",
     "geom:latitude":48.633605,
     "geom:longitude":-112.327341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 E Main St",
     "sg:city":"Cut Bank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169704719,
-    "wof:lastmodified":1449033551,
+    "wof:lastmodified":1466641162,
     "wof:name":"B & B Auto & Equipment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "retail"
     ]
 },
-  "bbox": [-112.327341,48.633605,-112.327341,48.633605],
+  "bbox": [
+    -112.327341,
+    48.633605,
+    -112.327341,
+    48.633605
+],
   "geometry": {"coordinates":[-112.327341,48.633605],"type":"Point"}
 }

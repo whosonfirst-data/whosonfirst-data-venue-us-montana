@@ -2,13 +2,14 @@
   "id": 186173453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.005074,46.584209,-112.005074,46.584209",
     "geom:latitude":46.584209,
     "geom:longitude":-112.005074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 E Broadway St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186173453,
-    "wof:lastmodified":1449050923,
+    "wof:lastmodified":1466642163,
     "wof:name":"Dorothy Pancheau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.005074,46.584209,-112.005074,46.584209],
-  "geometry": {"coordinates":[-112.005074,46.584209],"type":"Point"}
+  "bbox": [
+    -112.005074,
+    46.584209,
+    -112.005074,
+    46.584209
+],
+  "geometry": {"coordinates":[-112.00507399999999,46.584209],"type":"Point"}
 }

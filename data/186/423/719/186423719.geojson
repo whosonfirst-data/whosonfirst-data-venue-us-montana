@@ -2,13 +2,14 @@
   "id": 186423719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.335784,48.389728,-114.335784,48.389728",
     "geom:latitude":48.389728,
     "geom:longitude":-114.335784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6336 US Hwy 93",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186423719,
-    "wof:lastmodified":1449050854,
+    "wof:lastmodified":1466642924,
     "wof:name":"Randy K Schwickert",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.335784,48.389728,-114.335784,48.389728],
+  "bbox": [
+    -114.335784,
+    48.389728,
+    -114.335784,
+    48.389728
+],
   "geometry": {"coordinates":[-114.335784,48.389728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186396155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.463155,45.798494,-108.463155,45.798494",
     "geom:latitude":45.798494,
     "geom:longitude":-108.463155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 Cerise Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186396155,
-    "wof:lastmodified":1449052129,
+    "wof:lastmodified":1466642849,
     "wof:name":"Griffin Automotive Enterprises",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-108.463155,45.798494,-108.463155,45.798494],
+  "bbox": [
+    -108.463155,
+    45.798494,
+    -108.463155,
+    45.798494
+],
   "geometry": {"coordinates":[-108.463155,45.798494],"type":"Point"}
 }

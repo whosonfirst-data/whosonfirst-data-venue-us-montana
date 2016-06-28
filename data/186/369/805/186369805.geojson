@@ -2,13 +2,14 @@
   "id": 186369805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.55692,46.369989,-111.55692,46.369989",
     "geom:latitude":46.369989,
     "geom:longitude":-111.55692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7687 US Hwy 287",
     "sg:city":"Townsend",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186369805,
-    "wof:lastmodified":1449052902,
+    "wof:lastmodified":1466642780,
     "wof:name":"Elkhorn Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.55692,46.369989,-111.55692,46.369989],
-  "geometry": {"coordinates":[-111.55692,46.369989],"type":"Point"}
+  "bbox": [
+    -111.55692,
+    46.369989,
+    -111.55692,
+    46.369989
+],
+  "geometry": {"coordinates":[-111.55692000000001,46.369989],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186445063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.539335,46.012552,-112.539335,46.012552",
     "geom:latitude":46.012552,
     "geom:longitude":-112.539335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 S Montana St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186445063,
-    "wof:lastmodified":1449050667,
+    "wof:lastmodified":1466642997,
     "wof:name":"Acupuncture Health Clinic",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-112.539335,46.012552,-112.539335,46.012552],
-  "geometry": {"coordinates":[-112.539335,46.012552],"type":"Point"}
+  "bbox": [
+    -112.539335,
+    46.012552,
+    -112.539335,
+    46.012552
+],
+  "geometry": {"coordinates":[-112.53933499999999,46.012552],"type":"Point"}
 }

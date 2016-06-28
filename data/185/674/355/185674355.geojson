@@ -2,13 +2,14 @@
   "id": 185674355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.775979,45.674216,-108.775979,45.674216",
     "geom:latitude":45.674216,
     "geom:longitude":-108.775979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 4th Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185674355,
-    "wof:lastmodified":1449007804,
+    "wof:lastmodified":1466641393,
     "wof:name":"Pro Dj Audio Works",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "jockey"
     ]
 },
-  "bbox": [-108.775979,45.674216,-108.775979,45.674216],
-  "geometry": {"coordinates":[-108.775979,45.674216],"type":"Point"}
+  "bbox": [
+    -108.775979,
+    45.674216,
+    -108.775979,
+    45.674216
+],
+  "geometry": {"coordinates":[-108.77597900000001,45.674216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186141423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.134731,46.31163,-114.134731,46.31163",
     "geom:latitude":46.31163,
     "geom:longitude":-114.134731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Old Corvallis Rd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186141423,
-    "wof:lastmodified":1449051331,
+    "wof:lastmodified":1466642275,
     "wof:name":"Joanna Barker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "appliance"
     ]
 },
-  "bbox": [-114.134731,46.31163,-114.134731,46.31163],
+  "bbox": [
+    -114.134731,
+    46.31163,
+    -114.134731,
+    46.31163
+],
   "geometry": {"coordinates":[-114.134731,46.31163],"type":"Point"}
 }

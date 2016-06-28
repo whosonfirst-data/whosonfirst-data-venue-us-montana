@@ -2,13 +2,14 @@
   "id": 185921257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.159204,47.714632,-104.159204,47.714632",
     "geom:latitude":47.714632,
     "geom:longitude":-104.159204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 2nd St SW",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185921257,
-    "wof:lastmodified":1449007628,
+    "wof:lastmodified":1466641665,
     "wof:name":"B & B Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-104.159204,47.714632,-104.159204,47.714632],
+  "bbox": [
+    -104.159204,
+    47.714632,
+    -104.159204,
+    47.714632
+],
   "geometry": {"coordinates":[-104.159204,47.714632],"type":"Point"}
 }

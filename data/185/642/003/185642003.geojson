@@ -2,13 +2,14 @@
   "id": 185642003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.727603,47.107929,-104.727603,47.107929",
     "geom:latitude":47.107929,
     "geom:longitude":-104.727603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Harmon St",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185642003,
-    "wof:lastmodified":1449006689,
+    "wof:lastmodified":1466641767,
     "wof:name":"Albertsons 2023",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.727603,47.107929,-104.727603,47.107929],
+  "bbox": [
+    -104.727603,
+    47.107929,
+    -104.727603,
+    47.107929
+],
   "geometry": {"coordinates":[-104.727603,47.107929],"type":"Point"}
 }

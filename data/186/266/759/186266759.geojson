@@ -2,13 +2,14 @@
   "id": 186266759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.033516,48.655106,-116.033516,48.655106",
     "geom:latitude":48.655106,
     "geom:longitude":-116.033516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4340 Old US Hwy 2 N",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186266759,
-    "wof:lastmodified":1449050353,
+    "wof:lastmodified":1466642553,
     "wof:name":"Harrell & Son Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.033516,48.655106,-116.033516,48.655106],
-  "geometry": {"coordinates":[-116.033516,48.655106],"type":"Point"}
+  "bbox": [
+    -116.033516,
+    48.655106,
+    -116.033516,
+    48.655106
+],
+  "geometry": {"coordinates":[-116.03351600000001,48.655106],"type":"Point"}
 }

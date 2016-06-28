@@ -2,13 +2,14 @@
   "id": 186203033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.5094,45.817442,-108.5094,45.817442",
     "geom:latitude":45.817442,
     "geom:longitude":-108.5094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"947 Senora Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186203033,
-    "wof:lastmodified":1449051565,
+    "wof:lastmodified":1466642264,
     "wof:name":"Expedite Cartage Inc",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.5094,45.817442,-108.5094,45.817442],
+  "bbox": [
+    -108.5094,
+    45.817442,
+    -108.5094,
+    45.817442
+],
   "geometry": {"coordinates":[-108.5094,45.817442],"type":"Point"}
 }

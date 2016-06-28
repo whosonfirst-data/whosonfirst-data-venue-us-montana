@@ -2,13 +2,14 @@
   "id": 169755677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.497029,45.778621,-110.497029,45.778621",
     "geom:latitude":45.778621,
     "geom:longitude":-110.497029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Shields River Rd E",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169755677,
-    "wof:lastmodified":1449033614,
+    "wof:lastmodified":1466641196,
     "wof:name":"Executive Management Solutions",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.497029,45.778621,-110.497029,45.778621],
+  "bbox": [
+    -110.497029,
+    45.778621,
+    -110.497029,
+    45.778621
+],
   "geometry": {"coordinates":[-110.497029,45.778621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185908597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.603084,47.399388,-105.603084,47.399388",
     "geom:latitude":47.399388,
     "geom:longitude":-105.603084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 State Hwy 200",
     "sg:city":"Circle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185908597,
-    "wof:lastmodified":1449007519,
+    "wof:lastmodified":1466641653,
     "wof:name":"Mc Cone County Extension",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.603084,47.399388,-105.603084,47.399388],
+  "bbox": [
+    -105.603084,
+    47.399388,
+    -105.603084,
+    47.399388
+],
   "geometry": {"coordinates":[-105.603084,47.399388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185903101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.009043,46.853415,-114.009043,46.853415",
     "geom:latitude":46.853415,
     "geom:longitude":-114.009043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"742 Kensington Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185903101,
-    "wof:lastmodified":1449006691,
+    "wof:lastmodified":1466641634,
     "wof:name":"By Owner Realty Network",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.009043,46.853415,-114.009043,46.853415],
-  "geometry": {"coordinates":[-114.009043,46.853415],"type":"Point"}
+  "bbox": [
+    -114.009043,
+    46.853415,
+    -114.009043,
+    46.853415
+],
+  "geometry": {"coordinates":[-114.00904300000001,46.853415],"type":"Point"}
 }

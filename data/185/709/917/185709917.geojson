@@ -2,13 +2,14 @@
   "id": 185709917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.530224,45.776996,-108.530224,45.776996",
     "geom:latitude":45.776996,
     "geom:longitude":-108.530224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Broadwater Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":185709917,
-    "wof:lastmodified":1449006938,
+    "wof:lastmodified":1466641439,
     "wof:name":"Messmer & Associates",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "a"
     ]
 },
-  "bbox": [-108.530224,45.776996,-108.530224,45.776996],
+  "bbox": [
+    -108.530224,
+    45.776996,
+    -108.530224,
+    45.776996
+],
   "geometry": {"coordinates":[-108.530224,45.776996],"type":"Point"}
 }

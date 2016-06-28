@@ -2,13 +2,14 @@
   "id": 185924731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.450929,45.821535,-108.450929,45.821535",
     "geom:latitude":45.821535,
     "geom:longitude":-108.450929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1239 Reece Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185924731,
-    "wof:lastmodified":1449007055,
+    "wof:lastmodified":1466641673,
     "wof:name":"Coffee Club LLC",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-108.450929,45.821535,-108.450929,45.821535],
+  "bbox": [
+    -108.450929,
+    45.821535,
+    -108.450929,
+    45.821535
+],
   "geometry": {"coordinates":[-108.450929,45.821535],"type":"Point"}
 }

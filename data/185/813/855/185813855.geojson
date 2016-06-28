@@ -2,13 +2,14 @@
   "id": 185813855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.553731,45.777196,-108.553731,45.777196",
     "geom:latitude":45.777196,
     "geom:longitude":-108.553731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 15th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185813855,
-    "wof:lastmodified":1449007023,
+    "wof:lastmodified":1466641553,
     "wof:name":"Skillen Tanna Massage Therapy",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.553731,45.777196,-108.553731,45.777196],
+  "bbox": [
+    -108.553731,
+    45.777196,
+    -108.553731,
+    45.777196
+],
   "geometry": {"coordinates":[-108.553731,45.777196],"type":"Point"}
 }

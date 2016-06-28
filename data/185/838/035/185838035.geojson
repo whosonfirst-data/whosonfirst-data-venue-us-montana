@@ -2,13 +2,14 @@
   "id": 185838035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.636521,48.1938,-106.636521,48.1938",
     "geom:latitude":48.1938,
     "geom:longitude":-106.636521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 2nd Ave S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185838035,
-    "wof:lastmodified":1449006797,
+    "wof:lastmodified":1466641781,
     "wof:name":"Glasgow Flower & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.636521,48.1938,-106.636521,48.1938],
+  "bbox": [
+    -106.636521,
+    48.1938,
+    -106.636521,
+    48.1938
+],
   "geometry": {"coordinates":[-106.636521,48.1938],"type":"Point"}
 }

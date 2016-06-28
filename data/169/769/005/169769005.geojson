@@ -2,13 +2,14 @@
   "id": 169769005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.47489,45.806356,-108.47489,45.806356",
     "geom:latitude":45.806356,
     "geom:longitude":-108.47489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169769005,
-    "wof:lastmodified":1449033786,
+    "wof:lastmodified":1466641746,
     "wof:name":"Taco John's",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.47489,45.806356,-108.47489,45.806356],
+  "bbox": [
+    -108.47489,
+    45.806356,
+    -108.47489,
+    45.806356
+],
   "geometry": {"coordinates":[-108.47489,45.806356],"type":"Point"}
 }

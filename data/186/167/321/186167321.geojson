@@ -2,13 +2,14 @@
   "id": 186167321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.446759,47.529742,-111.446759,47.529742",
     "geom:latitude":47.529742,
     "geom:longitude":-111.446759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 S Manchester Rd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186167321,
-    "wof:lastmodified":1449051764,
+    "wof:lastmodified":1466641998,
     "wof:name":"Anderson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-111.446759,47.529742,-111.446759,47.529742],
+  "bbox": [
+    -111.446759,
+    47.529742,
+    -111.446759,
+    47.529742
+],
   "geometry": {"coordinates":[-111.446759,47.529742],"type":"Point"}
 }

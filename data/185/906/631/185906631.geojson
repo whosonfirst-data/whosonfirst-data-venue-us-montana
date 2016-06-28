@@ -2,13 +2,14 @@
   "id": 185906631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.496294,45.772719,-108.496294,45.772719",
     "geom:latitude":45.772719,
     "geom:longitude":-108.496294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 9th Ave S",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185906631,
-    "wof:lastmodified":1449007218,
+    "wof:lastmodified":1466641644,
     "wof:name":"Ameriscape",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-108.496294,45.772719,-108.496294,45.772719],
-  "geometry": {"coordinates":[-108.496294,45.772719],"type":"Point"}
+  "bbox": [
+    -108.496294,
+    45.772719,
+    -108.496294,
+    45.772719
+],
+  "geometry": {"coordinates":[-108.49629400000001,45.772719],"type":"Point"}
 }

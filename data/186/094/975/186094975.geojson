@@ -2,13 +2,14 @@
   "id": 186094975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.718602,46.397612,-112.718602,46.397612",
     "geom:latitude":46.397612,
     "geom:longitude":-112.718602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Stark St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186094975,
-    "wof:lastmodified":1449052053,
+    "wof:lastmodified":1466641962,
     "wof:name":"B & B Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.718602,46.397612,-112.718602,46.397612],
+  "bbox": [
+    -112.718602,
+    46.397612,
+    -112.718602,
+    46.397612
+],
   "geometry": {"coordinates":[-112.718602,46.397612],"type":"Point"}
 }

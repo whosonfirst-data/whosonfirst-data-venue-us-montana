@@ -2,13 +2,14 @@
   "id": 185733691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.469026,45.80652,-108.469026,45.80652",
     "geom:latitude":45.80652,
     "geom:longitude":-108.469026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Griffing Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185733691,
-    "wof:lastmodified":1449006825,
+    "wof:lastmodified":1466641459,
     "wof:name":"Mike Mahoney Trophy Portraits",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "artist"
     ]
 },
-  "bbox": [-108.469026,45.80652,-108.469026,45.80652],
+  "bbox": [
+    -108.469026,
+    45.80652,
+    -108.469026,
+    45.80652
+],
   "geometry": {"coordinates":[-108.469026,45.80652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185922419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.318242,48.216507,-114.318242,48.216507",
     "geom:latitude":48.216507,
     "geom:longitude":-114.318242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 Juniper Bend Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185922419,
-    "wof:lastmodified":1449006757,
+    "wof:lastmodified":1466641667,
     "wof:name":"Mac Millan John",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.318242,48.216507,-114.318242,48.216507],
+  "bbox": [
+    -114.318242,
+    48.216507,
+    -114.318242,
+    48.216507
+],
   "geometry": {"coordinates":[-114.318242,48.216507],"type":"Point"}
 }

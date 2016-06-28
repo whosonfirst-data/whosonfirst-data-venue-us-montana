@@ -2,13 +2,14 @@
   "id": 185601421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.332305,48.636164,-112.332305,48.636164",
     "geom:latitude":48.636164,
     "geom:longitude":-112.332305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 S Central Ave",
     "sg:city":"Cut Bank",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185601421,
-    "wof:lastmodified":1449007333,
+    "wof:lastmodified":1466641166,
     "wof:name":"Elks B P O Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.332305,48.636164,-112.332305,48.636164],
-  "geometry": {"coordinates":[-112.332305,48.636164],"type":"Point"}
+  "bbox": [
+    -112.332305,
+    48.636164,
+    -112.332305,
+    48.636164
+],
+  "geometry": {"coordinates":[-112.33230500000001,48.636164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186150489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.340826,45.813798,-108.340826,45.813798",
     "geom:latitude":45.813798,
     "geom:longitude":-108.340826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Petrified Tree Pass",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186150489,
-    "wof:lastmodified":1449050290,
+    "wof:lastmodified":1466642126,
     "wof:name":"Wells Fargo Education Fncl Svc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-108.340826,45.813798,-108.340826,45.813798],
-  "geometry": {"coordinates":[-108.340826,45.813798],"type":"Point"}
+  "bbox": [
+    -108.340826,
+    45.813798,
+    -108.340826,
+    45.813798
+],
+  "geometry": {"coordinates":[-108.34082600000001,45.813798],"type":"Point"}
 }

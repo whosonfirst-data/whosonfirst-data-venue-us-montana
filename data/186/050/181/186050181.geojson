@@ -2,13 +2,14 @@
   "id": 186050181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679836,46.265219,-106.679836,46.265219",
     "geom:latitude":46.265219,
     "geom:longitude":-106.679836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"869 Main St",
     "sg:city":"Forsyth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186050181,
-    "wof:lastmodified":1449051858,
+    "wof:lastmodified":1466641820,
     "wof:name":"V Store Trading Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.679836,46.265219,-106.679836,46.265219],
-  "geometry": {"coordinates":[-106.679836,46.265219],"type":"Point"}
+  "bbox": [
+    -106.679836,
+    46.265219,
+    -106.679836,
+    46.265219
+],
+  "geometry": {"coordinates":[-106.67983599999999,46.265219],"type":"Point"}
 }

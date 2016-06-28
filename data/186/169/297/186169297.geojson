@@ -2,13 +2,14 @@
   "id": 186169297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641424,48.196574,-106.641424,48.196574",
     "geom:latitude":48.196574,
     "geom:longitude":-106.641424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"839 1st Ave S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186169297,
-    "wof:lastmodified":1449052019,
+    "wof:lastmodified":1466642368,
     "wof:name":"Motor Vehicle Div-Driver Exam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-106.641424,48.196574,-106.641424,48.196574],
+  "bbox": [
+    -106.641424,
+    48.196574,
+    -106.641424,
+    48.196574
+],
   "geometry": {"coordinates":[-106.641424,48.196574],"type":"Point"}
 }

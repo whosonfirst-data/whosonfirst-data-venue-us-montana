@@ -2,13 +2,14 @@
   "id": 185672635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576171,45.776896,-108.576171,45.776896",
     "geom:latitude":45.776896,
     "geom:longitude":-108.576171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185672635,
-    "wof:lastmodified":1449006703,
+    "wof:lastmodified":1466641388,
     "wof:name":"Slumberland",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.576171,45.776896,-108.576171,45.776896],
+  "bbox": [
+    -108.576171,
+    45.776896,
+    -108.576171,
+    45.776896
+],
   "geometry": {"coordinates":[-108.576171,45.776896],"type":"Point"}
 }

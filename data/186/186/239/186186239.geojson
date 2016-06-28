@@ -2,13 +2,14 @@
   "id": 186186239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.559413,48.773366,-104.559413,48.773366",
     "geom:latitude":48.773366,
     "geom:longitude":-104.559413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E Railroad Ave",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186186239,
-    "wof:lastmodified":1449052418,
+    "wof:lastmodified":1466642402,
     "wof:name":"Gary D Erickson Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-104.559413,48.773366,-104.559413,48.773366],
-  "geometry": {"coordinates":[-104.559413,48.773366],"type":"Point"}
+  "bbox": [
+    -104.559413,
+    48.773366,
+    -104.559413,
+    48.773366
+],
+  "geometry": {"coordinates":[-104.55941300000001,48.773366],"type":"Point"}
 }

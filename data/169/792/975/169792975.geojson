@@ -2,13 +2,14 @@
   "id": 169792975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.508512,45.783256,-108.508512,45.783256",
     "geom:latitude":45.783256,
     "geom:longitude":-108.508512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2816 3rd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169792975,
-    "wof:lastmodified":1449033396,
+    "wof:lastmodified":1466641261,
     "wof:name":"Photo Creations Photography",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-108.508512,45.783256,-108.508512,45.783256],
+  "bbox": [
+    -108.508512,
+    45.783256,
+    -108.508512,
+    45.783256
+],
   "geometry": {"coordinates":[-108.508512,45.783256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186019329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.542158,45.768035,-108.542158,45.768035",
     "geom:latitude":45.768035,
     "geom:longitude":-108.542158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186019329,
-    "wof:lastmodified":1449051922,
+    "wof:lastmodified":1466641441,
     "wof:name":"Cyber Listers",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-108.542158,45.768035,-108.542158,45.768035],
+  "bbox": [
+    -108.542158,
+    45.768035,
+    -108.542158,
+    45.768035
+],
   "geometry": {"coordinates":[-108.542158,45.768035],"type":"Point"}
 }

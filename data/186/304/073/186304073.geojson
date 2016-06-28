@@ -2,13 +2,14 @@
   "id": 186304073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.533181,46.000011,-112.533181,46.000011",
     "geom:latitude":46.000011,
     "geom:longitude":-112.533181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 1st St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186304073,
-    "wof:lastmodified":1449052343,
+    "wof:lastmodified":1466642807,
     "wof:name":"Saint Francis LLC",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "bed"
     ]
 },
-  "bbox": [-112.533181,46.000011,-112.533181,46.000011],
+  "bbox": [
+    -112.533181,
+    46.000011,
+    -112.533181,
+    46.000011
+],
   "geometry": {"coordinates":[-112.533181,46.000011],"type":"Point"}
 }

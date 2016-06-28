@@ -2,13 +2,14 @@
   "id": 185776501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.08967,47.070206,-114.08967,47.070206",
     "geom:latitude":47.070206,
     "geom:longitude":-114.08967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Grizzly Mountain Rd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185776501,
-    "wof:lastmodified":1449006971,
+    "wof:lastmodified":1466641503,
     "wof:name":"Montana Back Roads 4x4 Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "membership"
     ]
 },
-  "bbox": [-114.08967,47.070206,-114.08967,47.070206],
+  "bbox": [
+    -114.08967,
+    47.070206,
+    -114.08967,
+    47.070206
+],
   "geometry": {"coordinates":[-114.08967,47.070206],"type":"Point"}
 }

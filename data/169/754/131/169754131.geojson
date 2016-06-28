@@ -2,13 +2,14 @@
   "id": 169754131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.508711,45.783109,-108.508711,45.783109",
     "geom:latitude":45.783109,
     "geom:longitude":-108.508711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N 29th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169754131,
-    "wof:lastmodified":1449034846,
+    "wof:lastmodified":1466641189,
     "wof:name":"A & J Counseling",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-108.508711,45.783109,-108.508711,45.783109],
-  "geometry": {"coordinates":[-108.508711,45.783109],"type":"Point"}
+  "bbox": [
+    -108.508711,
+    45.783109,
+    -108.508711,
+    45.783109
+],
+  "geometry": {"coordinates":[-108.50871100000001,45.783109],"type":"Point"}
 }

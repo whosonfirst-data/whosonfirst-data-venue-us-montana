@@ -2,13 +2,14 @@
   "id": 186112613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.498816,45.78427,-108.498816,45.78427",
     "geom:latitude":45.78427,
     "geom:longitude":-108.498816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 Montana Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186112613,
-    "wof:lastmodified":1449051608,
+    "wof:lastmodified":1466641874,
     "wof:name":"United Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-108.498816,45.78427,-108.498816,45.78427],
-  "geometry": {"coordinates":[-108.498816,45.78427],"type":"Point"}
+  "bbox": [
+    -108.498816,
+    45.78427,
+    -108.498816,
+    45.78427
+],
+  "geometry": {"coordinates":[-108.49881600000001,45.78427],"type":"Point"}
 }

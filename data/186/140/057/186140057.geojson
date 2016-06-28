@@ -2,13 +2,14 @@
   "id": 186140057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.830327,46.409403,-105.830327,46.409403",
     "geom:latitude":46.409403,
     "geom:longitude":-105.830327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2419 Pleasant St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186140057,
-    "wof:lastmodified":1449050757,
+    "wof:lastmodified":1466642269,
     "wof:name":"D & D Contruction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-105.830327,46.409403,-105.830327,46.409403],
+  "bbox": [
+    -105.830327,
+    46.409403,
+    -105.830327,
+    46.409403
+],
   "geometry": {"coordinates":[-105.830327,46.409403],"type":"Point"}
 }

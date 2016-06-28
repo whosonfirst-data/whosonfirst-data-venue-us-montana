@@ -2,13 +2,14 @@
   "id": 186431341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.003523,46.618509,-114.003523,46.618509",
     "geom:latitude":46.618509,
     "geom:longitude":-114.003523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Stargazer Way",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186431341,
-    "wof:lastmodified":1449050697,
+    "wof:lastmodified":1466642947,
     "wof:name":"Rags To Stitches Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-114.003523,46.618509,-114.003523,46.618509],
+  "bbox": [
+    -114.003523,
+    46.618509,
+    -114.003523,
+    46.618509
+],
   "geometry": {"coordinates":[-114.003523,46.618509],"type":"Point"}
 }

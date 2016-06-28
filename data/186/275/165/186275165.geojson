@@ -2,13 +2,14 @@
   "id": 186275165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.538363,46.013417,-112.538363,46.013417",
     "geom:latitude":46.013417,
     "geom:longitude":-112.538363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 W Broadway St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186275165,
-    "wof:lastmodified":1449051252,
+    "wof:lastmodified":1466642725,
     "wof:name":"Herb Shannon Appliances",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [-112.538363,46.013417,-112.538363,46.013417],
+  "bbox": [
+    -112.538363,
+    46.013417,
+    -112.538363,
+    46.013417
+],
   "geometry": {"coordinates":[-112.538363,46.013417],"type":"Point"}
 }

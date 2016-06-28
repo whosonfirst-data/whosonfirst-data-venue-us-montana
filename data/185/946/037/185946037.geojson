@@ -2,13 +2,14 @@
   "id": 185946037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.087567,46.312708,-114.087567,46.312708",
     "geom:latitude":46.312708,
     "geom:longitude":-114.087567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"656 Willow Creek Rd",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185946037,
-    "wof:lastmodified":1449008030,
+    "wof:lastmodified":1466641696,
     "wof:name":"Reed Cliff Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.087567,46.312708,-114.087567,46.312708],
-  "geometry": {"coordinates":[-114.087567,46.312708],"type":"Point"}
+  "bbox": [
+    -114.087567,
+    46.312708,
+    -114.087567,
+    46.312708
+],
+  "geometry": {"coordinates":[-114.08756700000001,46.312708],"type":"Point"}
 }

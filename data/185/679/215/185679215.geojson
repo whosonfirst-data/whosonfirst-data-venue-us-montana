@@ -2,13 +2,14 @@
   "id": 185679215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.178064,45.776709,-111.178064,45.776709",
     "geom:latitude":45.776709,
     "geom:longitude":-111.178064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 W Main St",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185679215,
-    "wof:lastmodified":1449007635,
+    "wof:lastmodified":1466641394,
     "wof:name":"Lucky Cuss Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.178064,45.776709,-111.178064,45.776709],
-  "geometry": {"coordinates":[-111.178064,45.776709],"type":"Point"}
+  "bbox": [
+    -111.178064,
+    45.776709,
+    -111.178064,
+    45.776709
+],
+  "geometry": {"coordinates":[-111.17806400000001,45.776709],"type":"Point"}
 }

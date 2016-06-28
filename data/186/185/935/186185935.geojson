@@ -2,13 +2,14 @@
   "id": 186185935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.014544,47.138265,-114.014544,47.138265",
     "geom:latitude":47.138265,
     "geom:longitude":-114.014544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Hi Frances Rd",
     "sg:city":"Arlee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186185935,
-    "wof:lastmodified":1449050855,
+    "wof:lastmodified":1466642036,
     "wof:name":"Sacred Heart Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.014544,47.138265,-114.014544,47.138265],
+  "bbox": [
+    -114.014544,
+    47.138265,
+    -114.014544,
+    47.138265
+],
   "geometry": {"coordinates":[-114.014544,47.138265],"type":"Point"}
 }

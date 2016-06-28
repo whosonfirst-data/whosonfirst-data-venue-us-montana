@@ -2,13 +2,14 @@
   "id": 185766569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.34919,47.501199,-111.34919,47.501199",
     "geom:latitude":47.501199,
     "geom:longitude":-111.34919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 5th Ave SW",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185766569,
-    "wof:lastmodified":1449006579,
+    "wof:lastmodified":1466641497,
     "wof:name":"Fairfield Boots & Leather",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shoe"
     ]
 },
-  "bbox": [-111.34919,47.501199,-111.34919,47.501199],
-  "geometry": {"coordinates":[-111.34919,47.501199],"type":"Point"}
+  "bbox": [
+    -111.34919,
+    47.501199,
+    -111.34919,
+    47.501199
+],
+  "geometry": {"coordinates":[-111.34918999999999,47.501199],"type":"Point"}
 }

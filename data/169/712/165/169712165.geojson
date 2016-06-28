@@ -2,13 +2,14 @@
   "id": 169712165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.387783,45.815297,-108.387783,45.815297",
     "geom:latitude":45.815297,
     "geom:longitude":-108.387783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Westgate Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169712165,
-    "wof:lastmodified":1449034089,
+    "wof:lastmodified":1466641718,
     "wof:name":"Northern Rockies Cpe Ctr Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-108.387783,45.815297,-108.387783,45.815297],
+  "bbox": [
+    -108.387783,
+    45.815297,
+    -108.387783,
+    45.815297
+],
   "geometry": {"coordinates":[-108.387783,45.815297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186016119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.321041,45.549091,-109.321041,45.549091",
     "geom:latitude":45.549091,
     "geom:longitude":-109.321041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Whitebird Creek Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186016119,
-    "wof:lastmodified":1449050880,
+    "wof:lastmodified":1466641394,
     "wof:name":"Sunlite Tree Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.321041,45.549091,-109.321041,45.549091],
-  "geometry": {"coordinates":[-109.321041,45.549091],"type":"Point"}
+  "bbox": [
+    -109.321041,
+    45.549091,
+    -109.321041,
+    45.549091
+],
+  "geometry": {"coordinates":[-109.32104099999999,45.549091],"type":"Point"}
 }

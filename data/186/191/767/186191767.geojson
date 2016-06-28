@@ -2,13 +2,14 @@
   "id": 186191767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.483764,45.971064,-112.483764,45.971064",
     "geom:latitude":45.971064,
     "geom:longitude":-112.483764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 Elizabeth Warren Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186191767,
-    "wof:lastmodified":1449051982,
+    "wof:lastmodified":1466642081,
     "wof:name":"New Reflections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.483764,45.971064,-112.483764,45.971064],
-  "geometry": {"coordinates":[-112.483764,45.971064],"type":"Point"}
+  "bbox": [
+    -112.483764,
+    45.971064,
+    -112.483764,
+    45.971064
+],
+  "geometry": {"coordinates":[-112.48376399999999,45.971064],"type":"Point"}
 }

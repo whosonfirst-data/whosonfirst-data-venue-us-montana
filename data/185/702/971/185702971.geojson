@@ -2,13 +2,14 @@
   "id": 185702971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.066295,45.667488,-111.066295,45.667488",
     "geom:latitude":45.667488,
     "geom:longitude":-111.066295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Research Dr",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185702971,
-    "wof:lastmodified":1449007429,
+    "wof:lastmodified":1466641430,
     "wof:name":"Kmg Bozeman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "award"
     ]
 },
-  "bbox": [-111.066295,45.667488,-111.066295,45.667488],
+  "bbox": [
+    -111.066295,
+    45.667488,
+    -111.066295,
+    45.667488
+],
   "geometry": {"coordinates":[-111.066295,45.667488],"type":"Point"}
 }

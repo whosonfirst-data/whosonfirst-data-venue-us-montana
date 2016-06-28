@@ -2,13 +2,14 @@
   "id": 185738533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.159565,47.71695,-104.159565,47.71695",
     "geom:latitude":47.71695,
     "geom:longitude":-104.159565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 3rd Ave NW",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185738533,
-    "wof:lastmodified":1449007764,
+    "wof:lastmodified":1466641462,
     "wof:name":"Mc Cartney Petroleum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.159565,47.71695,-104.159565,47.71695],
+  "bbox": [
+    -104.159565,
+    47.71695,
+    -104.159565,
+    47.71695
+],
   "geometry": {"coordinates":[-104.159565,47.71695],"type":"Point"}
 }

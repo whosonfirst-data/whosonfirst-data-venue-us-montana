@@ -2,13 +2,14 @@
   "id": 169727333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.021836,46.840294,-114.021836,46.840294",
     "geom:latitude":46.840294,
     "geom:longitude":-114.021836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rosebud Ln",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169727333,
-    "wof:lastmodified":1449033192,
+    "wof:lastmodified":1466641739,
     "wof:name":"Clothes For You",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [-114.021836,46.840294,-114.021836,46.840294],
-  "geometry": {"coordinates":[-114.021836,46.840294],"type":"Point"}
+  "bbox": [
+    -114.021836,
+    46.840294,
+    -114.021836,
+    46.840294
+],
+  "geometry": {"coordinates":[-114.02183599999999,46.840294],"type":"Point"}
 }

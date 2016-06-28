@@ -2,13 +2,14 @@
   "id": 186447061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004657,46.604701,-112.004657,46.604701",
     "geom:latitude":46.604701,
     "geom:longitude":-112.004657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Poplar St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186447061,
-    "wof:lastmodified":1449052246,
+    "wof:lastmodified":1466643005,
     "wof:name":"Helena Ranger District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-112.004657,46.604701,-112.004657,46.604701],
-  "geometry": {"coordinates":[-112.004657,46.604701],"type":"Point"}
+  "bbox": [
+    -112.004657,
+    46.604701,
+    -112.004657,
+    46.604701
+],
+  "geometry": {"coordinates":[-112.00465699999999,46.604701],"type":"Point"}
 }

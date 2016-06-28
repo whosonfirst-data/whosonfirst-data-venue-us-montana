@@ -2,13 +2,14 @@
   "id": 185769683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.585791,45.800203,-108.585791,45.800203",
     "geom:latitude":45.800203,
     "geom:longitude":-108.585791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2816 Palm Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185769683,
-    "wof:lastmodified":1449007129,
+    "wof:lastmodified":1466641502,
     "wof:name":"Thomas Minckler Fine Arts",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-108.585791,45.800203,-108.585791,45.800203],
+  "bbox": [
+    -108.585791,
+    45.800203,
+    -108.585791,
+    45.800203
+],
   "geometry": {"coordinates":[-108.585791,45.800203],"type":"Point"}
 }

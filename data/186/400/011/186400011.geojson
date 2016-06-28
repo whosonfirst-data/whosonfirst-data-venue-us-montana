@@ -2,13 +2,14 @@
   "id": 186400011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.071944,46.34542,-114.071944,46.34542",
     "geom:latitude":46.34542,
     "geom:longitude":-114.071944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"599 Popham Ln",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186400011,
-    "wof:lastmodified":1449050505,
+    "wof:lastmodified":1466642852,
     "wof:name":"Bronze Horse Foundry & Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.071944,46.34542,-114.071944,46.34542],
+  "bbox": [
+    -114.071944,
+    46.34542,
+    -114.071944,
+    46.34542
+],
   "geometry": {"coordinates":[-114.071944,46.34542],"type":"Point"}
 }

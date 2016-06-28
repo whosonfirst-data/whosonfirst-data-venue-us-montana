@@ -2,13 +2,14 @@
   "id": 186361653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.476071,45.805826,-108.476071,45.805826",
     "geom:latitude":45.805826,
     "geom:longitude":-108.476071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Lake Elmo Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186361653,
-    "wof:lastmodified":1449052309,
+    "wof:lastmodified":1466642593,
     "wof:name":"Gigglin' Grizzly",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-108.476071,45.805826,-108.476071,45.805826],
+  "bbox": [
+    -108.476071,
+    45.805826,
+    -108.476071,
+    45.805826
+],
   "geometry": {"coordinates":[-108.476071,45.805826],"type":"Point"}
 }

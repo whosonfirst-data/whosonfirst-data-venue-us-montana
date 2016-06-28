@@ -2,13 +2,14 @@
   "id": 186461929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.630383,45.800457,-108.630383,45.800457",
     "geom:latitude":45.800457,
     "geom:longitude":-108.630383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4519 Toyon Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186461929,
-    "wof:lastmodified":1449051393,
+    "wof:lastmodified":1466643117,
     "wof:name":"Les Mattern Construction",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-108.630383,45.800457,-108.630383,45.800457],
-  "geometry": {"coordinates":[-108.630383,45.800457],"type":"Point"}
+  "bbox": [
+    -108.630383,
+    45.800457,
+    -108.630383,
+    45.800457
+],
+  "geometry": {"coordinates":[-108.63038299999999,45.800457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186258729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.922991,45.629783,-108.922991,45.629783",
     "geom:latitude":45.629783,
     "geom:longitude":-108.922991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 1st Ave SW",
     "sg:city":"Park City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186258729,
-    "wof:lastmodified":1449052457,
+    "wof:lastmodified":1466642541,
     "wof:name":"Dollies Grocery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.922991,45.629783,-108.922991,45.629783],
+  "bbox": [
+    -108.922991,
+    45.629783,
+    -108.922991,
+    45.629783
+],
   "geometry": {"coordinates":[-108.922991,45.629783],"type":"Point"}
 }

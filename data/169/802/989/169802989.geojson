@@ -2,13 +2,14 @@
   "id": 169802989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.851006,46.40708,-105.851006,46.40708",
     "geom:latitude":46.40708,
     "geom:longitude":-105.851006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 N 6th St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169802989,
-    "wof:lastmodified":1449035343,
+    "wof:lastmodified":1466641272,
     "wof:name":"Indian Development & Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-105.851006,46.40708,-105.851006,46.40708],
+  "bbox": [
+    -105.851006,
+    46.40708,
+    -105.851006,
+    46.40708
+],
   "geometry": {"coordinates":[-105.851006,46.40708],"type":"Point"}
 }

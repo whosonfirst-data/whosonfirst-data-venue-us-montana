@@ -2,13 +2,14 @@
   "id": 185649747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.952479,45.832596,-109.952479,45.832596",
     "geom:latitude":45.832596,
     "geom:longitude":-109.952479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Mc Leod St",
     "sg:city":"Big Timber",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185649747,
-    "wof:lastmodified":1449007682,
+    "wof:lastmodified":1466641370,
     "wof:name":"Stetson Ford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-109.952479,45.832596,-109.952479,45.832596],
+  "bbox": [
+    -109.952479,
+    45.832596,
+    -109.952479,
+    45.832596
+],
   "geometry": {"coordinates":[-109.952479,45.832596],"type":"Point"}
 }

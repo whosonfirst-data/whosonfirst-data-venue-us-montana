@@ -2,13 +2,14 @@
   "id": 186211457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.495207,45.995266,-112.495207,45.995266",
     "geom:latitude":45.995266,
     "geom:longitude":-112.495207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 Garfield St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186211457,
-    "wof:lastmodified":1449051053,
+    "wof:lastmodified":1466642367,
     "wof:name":"Atcheson Law Office",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-112.495207,45.995266,-112.495207,45.995266],
-  "geometry": {"coordinates":[-112.495207,45.995266],"type":"Point"}
+  "bbox": [
+    -112.495207,
+    45.995266,
+    -112.495207,
+    45.995266
+],
+  "geometry": {"coordinates":[-112.49520699999999,45.995266],"type":"Point"}
 }

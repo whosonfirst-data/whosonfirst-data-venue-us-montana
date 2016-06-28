@@ -2,13 +2,14 @@
   "id": 186358801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.548316,45.792137,-108.548316,45.792137",
     "geom:latitude":45.792137,
     "geom:longitude":-108.548316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 Crawford Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186358801,
-    "wof:lastmodified":1449051505,
+    "wof:lastmodified":1466642737,
     "wof:name":"Gary Harmala Masonry",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.548316,45.792137,-108.548316,45.792137],
+  "bbox": [
+    -108.548316,
+    45.792137,
+    -108.548316,
+    45.792137
+],
   "geometry": {"coordinates":[-108.548316,45.792137],"type":"Point"}
 }

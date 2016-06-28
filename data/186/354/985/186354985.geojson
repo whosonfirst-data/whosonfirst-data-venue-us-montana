@@ -2,13 +2,14 @@
   "id": 186354985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.518752,46.302637,-108.518752,46.302637",
     "geom:latitude":46.302637,
     "geom:longitude":-108.518752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Shortcut Rd",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186354985,
-    "wof:lastmodified":1449052722,
+    "wof:lastmodified":1466642721,
     "wof:name":"Triangle G Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-108.518752,46.302637,-108.518752,46.302637],
-  "geometry": {"coordinates":[-108.518752,46.302637],"type":"Point"}
+  "bbox": [
+    -108.518752,
+    46.302637,
+    -108.518752,
+    46.302637
+],
+  "geometry": {"coordinates":[-108.51875200000001,46.302637],"type":"Point"}
 }

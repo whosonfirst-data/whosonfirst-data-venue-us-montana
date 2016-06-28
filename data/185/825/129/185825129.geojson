@@ -2,13 +2,14 @@
   "id": 185825129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.5077,45.782268,-108.5077,45.782268",
     "geom:latitude":45.782268,
     "geom:longitude":-108.5077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N 29th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185825129,
-    "wof:lastmodified":1449006640,
+    "wof:lastmodified":1466641554,
     "wof:name":"Brockel's Chocolates",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-108.5077,45.782268,-108.5077,45.782268],
+  "bbox": [
+    -108.5077,
+    45.782268,
+    -108.5077,
+    45.782268
+],
   "geometry": {"coordinates":[-108.5077,45.782268],"type":"Point"}
 }

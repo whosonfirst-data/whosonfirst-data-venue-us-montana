@@ -2,13 +2,14 @@
   "id": 186110453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.474502,45.83576,-108.474502,45.83576",
     "geom:latitude":45.83576,
     "geom:longitude":-108.474502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"552 Roxy Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186110453,
-    "wof:lastmodified":1449051275,
+    "wof:lastmodified":1466642010,
     "wof:name":"Total Corrosion Solutions Inc",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "corrosion"
     ]
 },
-  "bbox": [-108.474502,45.83576,-108.474502,45.83576],
+  "bbox": [
+    -108.474502,
+    45.83576,
+    -108.474502,
+    45.83576
+],
   "geometry": {"coordinates":[-108.474502,45.83576],"type":"Point"}
 }

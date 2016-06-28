@@ -2,13 +2,14 @@
   "id": 169810571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.144072,47.214824,-114.144072,47.214824",
     "geom:latitude":47.214824,
     "geom:longitude":-114.144072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 S Valley Creek Rd",
     "sg:city":"Arlee",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169810571,
-    "wof:lastmodified":1449033645,
+    "wof:lastmodified":1466641277,
     "wof:name":"Ron Printz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.144072,47.214824,-114.144072,47.214824],
-  "geometry": {"coordinates":[-114.144072,47.214824],"type":"Point"}
+  "bbox": [
+    -114.144072,
+    47.214824,
+    -114.144072,
+    47.214824
+],
+  "geometry": {"coordinates":[-114.14407199999999,47.214824],"type":"Point"}
 }

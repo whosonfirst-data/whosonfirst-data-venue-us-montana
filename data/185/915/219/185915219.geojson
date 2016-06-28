@@ -2,13 +2,14 @@
   "id": 185915219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.49699,45.778841,-108.49699,45.778841",
     "geom:latitude":45.778841,
     "geom:longitude":-108.49699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S 25th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185915219,
-    "wof:lastmodified":1449008176,
+    "wof:lastmodified":1466641655,
     "wof:name":"ACT Heating & Cooling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.49699,45.778841,-108.49699,45.778841],
+  "bbox": [
+    -108.49699,
+    45.778841,
+    -108.49699,
+    45.778841
+],
   "geometry": {"coordinates":[-108.49699,45.778841],"type":"Point"}
 }

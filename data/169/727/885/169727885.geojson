@@ -2,13 +2,14 @@
   "id": 169727885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.472274,45.822608,-108.472274,45.822608",
     "geom:latitude":45.822608,
     "geom:longitude":-108.472274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Judith Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169727885,
-    "wof:lastmodified":1449033191,
+    "wof:lastmodified":1466641740,
     "wof:name":"Jule's Body Shop",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-108.472274,45.822608,-108.472274,45.822608],
+  "bbox": [
+    -108.472274,
+    45.822608,
+    -108.472274,
+    45.822608
+],
   "geometry": {"coordinates":[-108.472274,45.822608],"type":"Point"}
 }

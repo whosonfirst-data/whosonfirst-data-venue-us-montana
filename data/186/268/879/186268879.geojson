@@ -2,13 +2,14 @@
   "id": 186268879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.238513,48.250842,-114.238513,48.250842",
     "geom:latitude":48.250842,
     "geom:longitude":-114.238513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Addison Sq",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186268879,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466642563,
     "wof:name":"Haugenoe Plumbing Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.238513,48.250842,-114.238513,48.250842],
+  "bbox": [
+    -114.238513,
+    48.250842,
+    -114.238513,
+    48.250842
+],
   "geometry": {"coordinates":[-114.238513,48.250842],"type":"Point"}
 }

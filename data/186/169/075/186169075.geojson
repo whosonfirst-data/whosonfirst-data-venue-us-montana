@@ -2,13 +2,14 @@
   "id": 186169075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.507963,45.985894,-112.507963,45.985894",
     "geom:latitude":45.985894,
     "geom:longitude":-112.507963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186169075,
-    "wof:lastmodified":1449052019,
+    "wof:lastmodified":1466642344,
     "wof:name":"Farmers Insurance",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-112.507963,45.985894,-112.507963,45.985894],
+  "bbox": [
+    -112.507963,
+    45.985894,
+    -112.507963,
+    45.985894
+],
   "geometry": {"coordinates":[-112.507963,45.985894],"type":"Point"}
 }

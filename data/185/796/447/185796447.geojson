@@ -2,13 +2,14 @@
   "id": 185796447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.529848,45.757665,-108.529848,45.757665",
     "geom:latitude":45.757665,
     "geom:longitude":-108.529848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4436 Stone St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185796447,
-    "wof:lastmodified":1449007376,
+    "wof:lastmodified":1466641526,
     "wof:name":"Ballard Unloading Services",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.529848,45.757665,-108.529848,45.757665],
+  "bbox": [
+    -108.529848,
+    45.757665,
+    -108.529848,
+    45.757665
+],
   "geometry": {"coordinates":[-108.529848,45.757665],"type":"Point"}
 }

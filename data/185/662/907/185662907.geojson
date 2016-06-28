@@ -2,13 +2,14 @@
   "id": 185662907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.072869,46.760474,-114.072869,46.760474",
     "geom:latitude":46.760474,
     "geom:longitude":-114.072869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Lakeside Dr",
     "sg:city":"Ovando",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185662907,
-    "wof:lastmodified":1449007677,
+    "wof:lastmodified":1466641384,
     "wof:name":"Upsata Lake Guest Ranch",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.072869,46.760474,-114.072869,46.760474],
+  "bbox": [
+    -114.072869,
+    46.760474,
+    -114.072869,
+    46.760474
+],
   "geometry": {"coordinates":[-114.072869,46.760474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186117713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.725508,46.408422,-112.725508,46.408422",
     "geom:latitude":46.408422,
     "geom:longitude":-112.725508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Maverick Ln",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186117713,
-    "wof:lastmodified":1449052196,
+    "wof:lastmodified":1466642220,
     "wof:name":"Chevron Oil Bulk Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "g"
     ]
 },
-  "bbox": [-112.725508,46.408422,-112.725508,46.408422],
+  "bbox": [
+    -112.725508,
+    46.408422,
+    -112.725508,
+    46.408422
+],
   "geometry": {"coordinates":[-112.725508,46.408422],"type":"Point"}
 }

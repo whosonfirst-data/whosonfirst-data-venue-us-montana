@@ -2,13 +2,14 @@
   "id": 186125199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.907302,46.543356,-110.907302,46.543356",
     "geom:latitude":46.543356,
     "geom:longitude":-110.907302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 4th Ave SW",
     "sg:city":"White Slphr Spgs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186125199,
-    "wof:lastmodified":1449052942,
+    "wof:lastmodified":1466642237,
     "wof:name":"Meagher County Emergency Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "order"
     ]
 },
-  "bbox": [-110.907302,46.543356,-110.907302,46.543356],
+  "bbox": [
+    -110.907302,
+    46.543356,
+    -110.907302,
+    46.543356
+],
   "geometry": {"coordinates":[-110.907302,46.543356],"type":"Point"}
 }

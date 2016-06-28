@@ -2,13 +2,14 @@
   "id": 186039023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.176421,45.776756,-111.176421,45.776756",
     "geom:latitude":45.776756,
     "geom:longitude":-111.176421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 N Broadway",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186039023,
-    "wof:lastmodified":1449052682,
+    "wof:lastmodified":1466641798,
     "wof:name":"Bridger Tax & Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-111.176421,45.776756,-111.176421,45.776756],
+  "bbox": [
+    -111.176421,
+    45.776756,
+    -111.176421,
+    45.776756
+],
   "geometry": {"coordinates":[-111.176421,45.776756],"type":"Point"}
 }

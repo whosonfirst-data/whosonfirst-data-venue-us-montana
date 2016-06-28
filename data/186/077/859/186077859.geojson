@@ -2,13 +2,14 @@
   "id": 186077859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.866936,47.182377,-114.866936,47.182377",
     "geom:latitude":47.182377,
     "geom:longitude":-114.866936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Wadsworth Ln",
     "sg:city":"Superior",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186077859,
-    "wof:lastmodified":1449050829,
+    "wof:lastmodified":1466641889,
     "wof:name":"Superior Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.866936,47.182377,-114.866936,47.182377],
+  "bbox": [
+    -114.866936,
+    47.182377,
+    -114.866936,
+    47.182377
+],
   "geometry": {"coordinates":[-114.866936,47.182377],"type":"Point"}
 }

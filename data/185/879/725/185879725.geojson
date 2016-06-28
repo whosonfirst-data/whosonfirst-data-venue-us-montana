@@ -2,13 +2,14 @@
   "id": 185879725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.70167,48.538253,-109.70167,48.538253",
     "geom:latitude":48.538253,
     "geom:longitude":-109.70167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1360 Lincoln Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185879725,
-    "wof:lastmodified":1449006611,
+    "wof:lastmodified":1466641618,
     "wof:name":"Nothern Montana Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-109.70167,48.538253,-109.70167,48.538253],
-  "geometry": {"coordinates":[-109.70167,48.538253],"type":"Point"}
+  "bbox": [
+    -109.70167,
+    48.538253,
+    -109.70167,
+    48.538253
+],
+  "geometry": {"coordinates":[-109.70166999999999,48.538253],"type":"Point"}
 }

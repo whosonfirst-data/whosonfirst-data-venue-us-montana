@@ -2,13 +2,14 @@
   "id": 186275479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.597314,45.784171,-108.597314,45.784171",
     "geom:latitude":45.784171,
     "geom:longitude":-108.597314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186275479,
-    "wof:lastmodified":1449051251,
+    "wof:lastmodified":1466642726,
     "wof:name":"Grand Lumber",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-108.597314,45.784171,-108.597314,45.784171],
+  "bbox": [
+    -108.597314,
+    45.784171,
+    -108.597314,
+    45.784171
+],
   "geometry": {"coordinates":[-108.597314,45.784171],"type":"Point"}
 }

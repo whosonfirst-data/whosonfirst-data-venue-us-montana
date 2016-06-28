@@ -2,13 +2,14 @@
   "id": 186128439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576208,45.762419,-108.576208,45.762419",
     "geom:latitude":45.762419,
     "geom:longitude":-108.576208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"446 S 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186128439,
-    "wof:lastmodified":1449051409,
+    "wof:lastmodified":1466642085,
     "wof:name":"Paddle Wheel Casino",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-108.576208,45.762419,-108.576208,45.762419],
-  "geometry": {"coordinates":[-108.576208,45.762419],"type":"Point"}
+  "bbox": [
+    -108.576208,
+    45.762419,
+    -108.576208,
+    45.762419
+],
+  "geometry": {"coordinates":[-108.57620799999999,45.762419],"type":"Point"}
 }

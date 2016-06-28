@@ -2,13 +2,14 @@
   "id": 186112309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.916069,46.590747,-111.916069,46.590747",
     "geom:latitude":46.590747,
     "geom:longitude":-111.916069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Helena Ave",
     "sg:city":"East Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186112309,
-    "wof:lastmodified":1449051606,
+    "wof:lastmodified":1466641869,
     "wof:name":"Town Pump Inc & Affiliates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.916069,46.590747,-111.916069,46.590747],
-  "geometry": {"coordinates":[-111.916069,46.590747],"type":"Point"}
+  "bbox": [
+    -111.916069,
+    46.590747,
+    -111.916069,
+    46.590747
+],
+  "geometry": {"coordinates":[-111.91606899999999,46.590747],"type":"Point"}
 }

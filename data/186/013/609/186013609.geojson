@@ -2,13 +2,14 @@
   "id": 186013609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.560673,48.384794,-115.560673,48.384794",
     "geom:latitude":48.384794,
     "geom:longitude":-115.560673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Idaho Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186013609,
-    "wof:lastmodified":1449052183,
+    "wof:lastmodified":1466641359,
     "wof:name":"Annies Professional Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.560673,48.384794,-115.560673,48.384794],
-  "geometry": {"coordinates":[-115.560673,48.384794],"type":"Point"}
+  "bbox": [
+    -115.560673,
+    48.384794,
+    -115.560673,
+    48.384794
+],
+  "geometry": {"coordinates":[-115.56067299999999,48.384794],"type":"Point"}
 }

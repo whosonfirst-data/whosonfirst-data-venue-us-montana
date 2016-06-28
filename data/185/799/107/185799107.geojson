@@ -2,13 +2,14 @@
   "id": 185799107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.320123,47.836738,-114.320123,47.836738",
     "geom:latitude":47.836738,
     "geom:longitude":-114.320123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79312 Old US Hwy 93",
     "sg:city":"Elmo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185799107,
-    "wof:lastmodified":1449008212,
+    "wof:lastmodified":1466641526,
     "wof:name":"Creative Sales Company LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.320123,47.836738,-114.320123,47.836738],
+  "bbox": [
+    -114.320123,
+    47.836738,
+    -114.320123,
+    47.836738
+],
   "geometry": {"coordinates":[-114.320123,47.836738],"type":"Point"}
 }

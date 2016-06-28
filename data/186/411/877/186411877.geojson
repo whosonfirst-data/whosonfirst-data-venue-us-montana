@@ -2,13 +2,14 @@
   "id": 186411877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.87649,46.01871,-107.87649,46.01871",
     "geom:latitude":46.01871,
     "geom:longitude":-107.87649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Custer Frontage Rd",
     "sg:city":"Pompeys Pillar",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186411877,
-    "wof:lastmodified":1449050398,
+    "wof:lastmodified":1466642794,
     "wof:name":"Pine Ridge Enterprises",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-107.87649,46.01871,-107.87649,46.01871],
+  "bbox": [
+    -107.87649,
+    46.01871,
+    -107.87649,
+    46.01871
+],
   "geometry": {"coordinates":[-107.87649,46.01871],"type":"Point"}
 }

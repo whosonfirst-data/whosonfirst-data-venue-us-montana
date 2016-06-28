@@ -2,13 +2,14 @@
   "id": 186187187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.555547,45.783975,-108.555547,45.783975",
     "geom:latitude":45.783975,
     "geom:longitude":-108.555547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1532 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186187187,
-    "wof:lastmodified":1449050789,
+    "wof:lastmodified":1466642041,
     "wof:name":"Prestige Toyota",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "car"
     ]
 },
-  "bbox": [-108.555547,45.783975,-108.555547,45.783975],
+  "bbox": [
+    -108.555547,
+    45.783975,
+    -108.555547,
+    45.783975
+],
   "geometry": {"coordinates":[-108.555547,45.783975],"type":"Point"}
 }

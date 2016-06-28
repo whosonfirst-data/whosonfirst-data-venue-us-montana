@@ -2,13 +2,14 @@
   "id": 186012785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.695144,48.55502,-109.695144,48.55502",
     "geom:latitude":48.55502,
     "geom:longitude":-109.695144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"648 1st St W",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186012785,
-    "wof:lastmodified":1449052754,
+    "wof:lastmodified":1466641345,
     "wof:name":"Priority Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wireless"
     ]
 },
-  "bbox": [-109.695144,48.55502,-109.695144,48.55502],
+  "bbox": [
+    -109.695144,
+    48.55502,
+    -109.695144,
+    48.55502
+],
   "geometry": {"coordinates":[-109.695144,48.55502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186321199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.339779,45.953594,-108.339779,45.953594",
     "geom:latitude":45.953594,
     "geom:longitude":-108.339779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5704 Meadowmist Dr",
     "sg:city":"Shepherd",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186321199,
-    "wof:lastmodified":1449050325,
+    "wof:lastmodified":1466642648,
     "wof:name":"Diamond Directional Services",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.339779,45.953594,-108.339779,45.953594],
-  "geometry": {"coordinates":[-108.339779,45.953594],"type":"Point"}
+  "bbox": [
+    -108.339779,
+    45.953594,
+    -108.339779,
+    45.953594
+],
+  "geometry": {"coordinates":[-108.33977899999999,45.953594],"type":"Point"}
 }

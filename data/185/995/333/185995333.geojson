@@ -2,13 +2,14 @@
   "id": 185995333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.679058,46.265605,-106.679058,46.265605",
     "geom:latitude":46.265605,
     "geom:longitude":-106.679058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"993 Main St",
     "sg:city":"Forsyth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185995333,
-    "wof:lastmodified":1449008045,
+    "wof:lastmodified":1466641711,
     "wof:name":"Flower Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.679058,46.265605,-106.679058,46.265605],
+  "bbox": [
+    -106.679058,
+    46.265605,
+    -106.679058,
+    46.265605
+],
   "geometry": {"coordinates":[-106.679058,46.265605],"type":"Point"}
 }

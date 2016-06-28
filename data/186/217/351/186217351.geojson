@@ -2,13 +2,14 @@
   "id": 186217351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.48976,45.789972,-108.48976,45.789972",
     "geom:latitude":45.789972,
     "geom:longitude":-108.48976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 1st Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186217351,
-    "wof:lastmodified":1449052873,
+    "wof:lastmodified":1466642380,
     "wof:name":"Showroom Auto Body & Detail",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-108.48976,45.789972,-108.48976,45.789972],
+  "bbox": [
+    -108.48976,
+    45.789972,
+    -108.48976,
+    45.789972
+],
   "geometry": {"coordinates":[-108.48976,45.789972],"type":"Point"}
 }

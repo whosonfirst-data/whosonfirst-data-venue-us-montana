@@ -2,13 +2,14 @@
   "id": 186363733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.547718,45.661882,-110.547718,45.661882",
     "geom:latitude":45.661882,
     "geom:longitude":-110.547718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 S H St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186363733,
-    "wof:lastmodified":1449052691,
+    "wof:lastmodified":1466642773,
     "wof:name":"Charles Defandorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-110.547718,45.661882,-110.547718,45.661882],
+  "bbox": [
+    -110.547718,
+    45.661882,
+    -110.547718,
+    45.661882
+],
   "geometry": {"coordinates":[-110.547718,45.661882],"type":"Point"}
 }

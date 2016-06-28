@@ -2,13 +2,14 @@
   "id": 186066271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.260913,47.516957,-111.260913,47.516957",
     "geom:latitude":47.516957,
     "geom:longitude":-111.260913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Pasta Pl",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186066271,
-    "wof:lastmodified":1449051156,
+    "wof:lastmodified":1466641862,
     "wof:name":"Pasta Montana LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-111.260913,47.516957,-111.260913,47.516957],
+  "bbox": [
+    -111.260913,
+    47.516957,
+    -111.260913,
+    47.516957
+],
   "geometry": {"coordinates":[-111.260913,47.516957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169702043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.605907,45.735395,-107.605907,45.735395",
     "geom:latitude":45.735395,
     "geom:longitude":-107.605907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 N Center Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169702043,
-    "wof:lastmodified":1449034340,
+    "wof:lastmodified":1466641154,
     "wof:name":"Lariat Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "agency"
     ]
 },
-  "bbox": [-107.605907,45.735395,-107.605907,45.735395],
+  "bbox": [
+    -107.605907,
+    45.735395,
+    -107.605907,
+    45.735395
+],
   "geometry": {"coordinates":[-107.605907,45.735395],"type":"Point"}
 }

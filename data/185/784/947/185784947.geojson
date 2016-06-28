@@ -2,13 +2,14 @@
   "id": 185784947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.259804,45.642896,-109.259804,45.642896",
     "geom:latitude":45.642896,
     "geom:longitude":-109.259804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 A St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185784947,
-    "wof:lastmodified":1449007668,
+    "wof:lastmodified":1466641521,
     "wof:name":"Kid's Club Child Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.259804,45.642896,-109.259804,45.642896],
+  "bbox": [
+    -109.259804,
+    45.642896,
+    -109.259804,
+    45.642896
+],
   "geometry": {"coordinates":[-109.259804,45.642896],"type":"Point"}
 }

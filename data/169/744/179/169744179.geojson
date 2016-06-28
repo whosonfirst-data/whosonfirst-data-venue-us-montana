@@ -2,13 +2,14 @@
   "id": 169744179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.347598,48.423659,-114.347598,48.423659",
     "geom:latitude":48.423659,
     "geom:longitude":-114.347598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Bearberry Ln",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169744179,
-    "wof:lastmodified":1449033881,
+    "wof:lastmodified":1466641175,
     "wof:name":"Vision Dental Arts",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-114.347598,48.423659,-114.347598,48.423659],
+  "bbox": [
+    -114.347598,
+    48.423659,
+    -114.347598,
+    48.423659
+],
   "geometry": {"coordinates":[-114.347598,48.423659],"type":"Point"}
 }

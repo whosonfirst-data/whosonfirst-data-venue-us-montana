@@ -2,13 +2,14 @@
   "id": 186178341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.006434,46.644018,-112.006434,46.644018",
     "geom:latitude":46.644018,
     "geom:longitude":-112.006434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3845 Kismet Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186178341,
-    "wof:lastmodified":1449052288,
+    "wof:lastmodified":1466642389,
     "wof:name":"JC Lord Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-112.006434,46.644018,-112.006434,46.644018],
+  "bbox": [
+    -112.006434,
+    46.644018,
+    -112.006434,
+    46.644018
+],
   "geometry": {"coordinates":[-112.006434,46.644018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185746215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.160303,46.247731,-114.160303,46.247731",
     "geom:latitude":46.247731,
     "geom:longitude":-114.160303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N 4th St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185746215,
-    "wof:lastmodified":1449006584,
+    "wof:lastmodified":1466641468,
     "wof:name":"Allegra Print & Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "designer"
     ]
 },
-  "bbox": [-114.160303,46.247731,-114.160303,46.247731],
+  "bbox": [
+    -114.160303,
+    46.247731,
+    -114.160303,
+    46.247731
+],
   "geometry": {"coordinates":[-114.160303,46.247731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186013093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.636477,48.207842,-106.636477,48.207842",
     "geom:latitude":48.207842,
     "geom:longitude":-106.636477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Perry Ln",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186013093,
-    "wof:lastmodified":1449052184,
+    "wof:lastmodified":1466641349,
     "wof:name":"Valley View Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-106.636477,48.207842,-106.636477,48.207842],
+  "bbox": [
+    -106.636477,
+    48.207842,
+    -106.636477,
+    48.207842
+],
   "geometry": {"coordinates":[-106.636477,48.207842],"type":"Point"}
 }

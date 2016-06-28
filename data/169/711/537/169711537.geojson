@@ -2,13 +2,14 @@
   "id": 169711537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.153986,46.247667,-114.153986,46.247667",
     "geom:latitude":46.247667,
     "geom:longitude":-114.153986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Main St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169711537,
-    "wof:lastmodified":1449035353,
+    "wof:lastmodified":1466641717,
     "wof:name":"Rceda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "general"
     ]
 },
-  "bbox": [-114.153986,46.247667,-114.153986,46.247667],
+  "bbox": [
+    -114.153986,
+    46.247667,
+    -114.153986,
+    46.247667
+],
   "geometry": {"coordinates":[-114.153986,46.247667],"type":"Point"}
 }

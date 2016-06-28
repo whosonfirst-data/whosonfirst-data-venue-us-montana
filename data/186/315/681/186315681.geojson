@@ -2,13 +2,14 @@
   "id": 186315681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.025066,46.831324,-114.025066,46.831324",
     "geom:latitude":46.831324,
     "geom:longitude":-114.025066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Saranac Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186315681,
-    "wof:lastmodified":1449052901,
+    "wof:lastmodified":1466642655,
     "wof:name":"Dunkleburg Creek Holdings LLC",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-114.025066,46.831324,-114.025066,46.831324],
+  "bbox": [
+    -114.025066,
+    46.831324,
+    -114.025066,
+    46.831324
+],
   "geometry": {"coordinates":[-114.025066,46.831324],"type":"Point"}
 }

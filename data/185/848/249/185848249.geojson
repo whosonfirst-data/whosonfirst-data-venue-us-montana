@@ -2,13 +2,14 @@
   "id": 185848249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.535476,46.01119,-112.535476,46.01119",
     "geom:latitude":46.01119,
     "geom:longitude":-112.535476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 W Mercury St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185848249,
-    "wof:lastmodified":1449006831,
+    "wof:lastmodified":1466641583,
     "wof:name":"Johns",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-112.535476,46.01119,-112.535476,46.01119],
+  "bbox": [
+    -112.535476,
+    46.01119,
+    -112.535476,
+    46.01119
+],
   "geometry": {"coordinates":[-112.535476,46.01119],"type":"Point"}
 }

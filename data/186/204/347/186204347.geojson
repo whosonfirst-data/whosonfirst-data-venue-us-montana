@@ -2,13 +2,14 @@
   "id": 186204347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.039887,46.814224,-114.039887,46.814224",
     "geom:latitude":46.814224,
     "geom:longitude":-114.039887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 N Meadowwood Ln",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186204347,
-    "wof:lastmodified":1449053098,
+    "wof:lastmodified":1466642273,
     "wof:name":"Care Consulting",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-114.039887,46.814224,-114.039887,46.814224],
-  "geometry": {"coordinates":[-114.039887,46.814224],"type":"Point"}
+  "bbox": [
+    -114.039887,
+    46.814224,
+    -114.039887,
+    46.814224
+],
+  "geometry": {"coordinates":[-114.03988699999999,46.814224],"type":"Point"}
 }

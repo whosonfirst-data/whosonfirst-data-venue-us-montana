@@ -2,13 +2,14 @@
   "id": 169701103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.256753,48.119202,-114.256753,48.119202",
     "geom:latitude":48.119202,
     "geom:longitude":-114.256753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Industry Ct",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169701103,
-    "wof:lastmodified":1449035272,
+    "wof:lastmodified":1466641154,
     "wof:name":"Mountain Side Auto",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-114.256753,48.119202,-114.256753,48.119202],
+  "bbox": [
+    -114.256753,
+    48.119202,
+    -114.256753,
+    48.119202
+],
   "geometry": {"coordinates":[-114.256753,48.119202],"type":"Point"}
 }

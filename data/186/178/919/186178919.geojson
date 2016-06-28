@@ -2,13 +2,14 @@
   "id": 186178919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.496341,45.789279,-108.496341,45.789279",
     "geom:latitude":45.789279,
     "geom:longitude":-108.496341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 3rd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186178919,
-    "wof:lastmodified":1449052287,
+    "wof:lastmodified":1466642179,
     "wof:name":"Foreign Cars Only",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-108.496341,45.789279,-108.496341,45.789279],
+  "bbox": [
+    -108.496341,
+    45.789279,
+    -108.496341,
+    45.789279
+],
   "geometry": {"coordinates":[-108.496341,45.789279],"type":"Point"}
 }

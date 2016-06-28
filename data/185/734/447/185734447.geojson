@@ -2,13 +2,14 @@
   "id": 185734447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.45758,45.823277,-108.45758,45.823277",
     "geom:latitude":45.823277,
     "geom:longitude":-108.45758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Anchor St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185734447,
-    "wof:lastmodified":1449008019,
+    "wof:lastmodified":1466641460,
     "wof:name":"Star Traders Inc",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-108.45758,45.823277,-108.45758,45.823277],
-  "geometry": {"coordinates":[-108.45758,45.823277],"type":"Point"}
+  "bbox": [
+    -108.45758,
+    45.823277,
+    -108.45758,
+    45.823277
+],
+  "geometry": {"coordinates":[-108.45757999999999,45.823277],"type":"Point"}
 }

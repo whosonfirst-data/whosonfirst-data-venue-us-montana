@@ -2,13 +2,14 @@
   "id": 169811023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.773595,47.080322,-104.773595,47.080322",
     "geom:latitude":47.080322,
     "geom:longitude":-104.773595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Rd 261",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169811023,
-    "wof:lastmodified":1449034273,
+    "wof:lastmodified":1466641762,
     "wof:name":"Eastern Montana Bible Camp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-104.773595,47.080322,-104.773595,47.080322],
+  "bbox": [
+    -104.773595,
+    47.080322,
+    -104.773595,
+    47.080322
+],
   "geometry": {"coordinates":[-104.773595,47.080322],"type":"Point"}
 }

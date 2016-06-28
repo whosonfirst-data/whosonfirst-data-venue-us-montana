@@ -2,13 +2,14 @@
   "id": 185638245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.164114,47.693312,-114.164114,47.693312",
     "geom:latitude":47.693312,
     "geom:longitude":-114.164114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 3rd Ave W",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185638245,
-    "wof:lastmodified":1449006675,
+    "wof:lastmodified":1466641343,
     "wof:name":"Odessas Closet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.164114,47.693312,-114.164114,47.693312],
+  "bbox": [
+    -114.164114,
+    47.693312,
+    -114.164114,
+    47.693312
+],
   "geometry": {"coordinates":[-114.164114,47.693312],"type":"Point"}
 }

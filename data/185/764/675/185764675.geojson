@@ -2,13 +2,14 @@
   "id": 185764675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.021632,46.848805,-114.021632,46.848805",
     "geom:latitude":46.848805,
     "geom:longitude":-114.021632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1629 South Ave W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185764675,
-    "wof:lastmodified":1449008120,
+    "wof:lastmodified":1466641494,
     "wof:name":"Crystal Sportswear",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cotton"
     ]
 },
-  "bbox": [-114.021632,46.848805,-114.021632,46.848805],
+  "bbox": [
+    -114.021632,
+    46.848805,
+    -114.021632,
+    46.848805
+],
   "geometry": {"coordinates":[-114.021632,46.848805],"type":"Point"}
 }

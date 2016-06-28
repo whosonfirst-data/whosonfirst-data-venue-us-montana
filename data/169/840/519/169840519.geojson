@@ -2,13 +2,14 @@
   "id": 169840519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.132603,47.02009,-113.132603,47.02009",
     "geom:latitude":47.02009,
     "geom:longitude":-113.132603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Main St",
     "sg:city":"Ovando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169840519,
-    "wof:lastmodified":1449035215,
+    "wof:lastmodified":1466641313,
     "wof:name":"Blackfoot Challenge Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.132603,47.02009,-113.132603,47.02009],
+  "bbox": [
+    -113.132603,
+    47.02009,
+    -113.132603,
+    47.02009
+],
   "geometry": {"coordinates":[-113.132603,47.02009],"type":"Point"}
 }

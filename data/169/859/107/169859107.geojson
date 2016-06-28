@@ -2,13 +2,14 @@
   "id": 169859107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.031957,46.598081,-112.031957,46.598081",
     "geom:latitude":46.598081,
     "geom:longitude":-112.031957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169859107,
-    "wof:lastmodified":1449035041,
+    "wof:lastmodified":1466641346,
     "wof:name":"Your Adventure Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-112.031957,46.598081,-112.031957,46.598081],
-  "geometry": {"coordinates":[-112.031957,46.598081],"type":"Point"}
+  "bbox": [
+    -112.031957,
+    46.598081,
+    -112.031957,
+    46.598081
+],
+  "geometry": {"coordinates":[-112.03195700000001,46.598081],"type":"Point"}
 }

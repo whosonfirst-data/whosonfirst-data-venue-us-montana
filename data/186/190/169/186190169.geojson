@@ -2,13 +2,14 @@
   "id": 186190169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.942482,45.640173,-110.942482,45.640173",
     "geom:latitude":45.640173,
     "geom:longitude":-110.942482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Bear Canyon Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186190169,
-    "wof:lastmodified":1449052863,
+    "wof:lastmodified":1466642498,
     "wof:name":"Lamotte School District 43",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.942482,45.640173,-110.942482,45.640173],
+  "bbox": [
+    -110.942482,
+    45.640173,
+    -110.942482,
+    45.640173
+],
   "geometry": {"coordinates":[-110.942482,45.640173],"type":"Point"}
 }

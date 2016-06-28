@@ -2,13 +2,14 @@
   "id": 186010093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.827999,46.401045,-105.827999,46.401045",
     "geom:latitude":46.401045,
     "geom:longitude":-105.827999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2517 Comstock St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186010093,
-    "wof:lastmodified":1449052036,
+    "wof:lastmodified":1466641300,
     "wof:name":"Jo's Family Hair Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-105.827999,46.401045,-105.827999,46.401045],
-  "geometry": {"coordinates":[-105.827999,46.401045],"type":"Point"}
+  "bbox": [
+    -105.827999,
+    46.401045,
+    -105.827999,
+    46.401045
+],
+  "geometry": {"coordinates":[-105.82799900000001,46.401045],"type":"Point"}
 }

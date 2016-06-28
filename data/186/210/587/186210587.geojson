@@ -2,13 +2,14 @@
   "id": 186210587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.229214,46.36369,-114.229214,46.36369",
     "geom:latitude":46.36369,
     "geom:longitude":-114.229214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1895 N Burr Rd",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186210587,
-    "wof:lastmodified":1449051300,
+    "wof:lastmodified":1466642353,
     "wof:name":"Tin Bender",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.229214,46.36369,-114.229214,46.36369],
+  "bbox": [
+    -114.229214,
+    46.36369,
+    -114.229214,
+    46.36369
+],
   "geometry": {"coordinates":[-114.229214,46.36369],"type":"Point"}
 }

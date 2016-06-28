@@ -2,13 +2,14 @@
   "id": 169837247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.184533,45.784459,-108.184533,45.784459",
     "geom:latitude":45.784459,
     "geom:longitude":-108.184533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Indian Creek Rd",
     "sg:city":"Huntley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169837247,
-    "wof:lastmodified":1449033205,
+    "wof:lastmodified":1466641309,
     "wof:name":"Indian Arrow Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.184533,45.784459,-108.184533,45.784459],
+  "bbox": [
+    -108.184533,
+    45.784459,
+    -108.184533,
+    45.784459
+],
   "geometry": {"coordinates":[-108.184533,45.784459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185812327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.479784,45.812072,-108.479784,45.812072",
     "geom:latitude":45.812072,
     "geom:longitude":-108.479784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"752 Arbor Hills Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185812327,
-    "wof:lastmodified":1449006625,
+    "wof:lastmodified":1466641543,
     "wof:name":"Signature Sign Svc",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.479784,45.812072,-108.479784,45.812072],
+  "bbox": [
+    -108.479784,
+    45.812072,
+    -108.479784,
+    45.812072
+],
   "geometry": {"coordinates":[-108.479784,45.812072],"type":"Point"}
 }

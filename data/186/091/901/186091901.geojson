@@ -2,13 +2,14 @@
   "id": 186091901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.570058,45.776999,-108.570058,45.776999",
     "geom:latitude":45.776999,
     "geom:longitude":-108.570058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 Broadwater Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186091901,
-    "wof:lastmodified":1449050508,
+    "wof:lastmodified":1466641942,
     "wof:name":"Therapeutic Massage Service",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.570058,45.776999,-108.570058,45.776999],
+  "bbox": [
+    -108.570058,
+    45.776999,
+    -108.570058,
+    45.776999
+],
   "geometry": {"coordinates":[-108.570058,45.776999],"type":"Point"}
 }

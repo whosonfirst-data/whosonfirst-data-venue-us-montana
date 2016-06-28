@@ -2,13 +2,14 @@
   "id": 186295749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.683113,46.266024,-106.683113,46.266024",
     "geom:latitude":46.266024,
     "geom:longitude":-106.683113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N 7th Ave",
     "sg:city":"Forsyth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186295749,
-    "wof:lastmodified":1449051459,
+    "wof:lastmodified":1466642606,
     "wof:name":"Mickell Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-106.683113,46.266024,-106.683113,46.266024],
-  "geometry": {"coordinates":[-106.683113,46.266024],"type":"Point"}
+  "bbox": [
+    -106.683113,
+    46.266024,
+    -106.683113,
+    46.266024
+],
+  "geometry": {"coordinates":[-106.68311300000001,46.266024],"type":"Point"}
 }

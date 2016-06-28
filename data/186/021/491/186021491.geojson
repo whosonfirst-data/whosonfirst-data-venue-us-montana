@@ -2,13 +2,14 @@
   "id": 186021491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.497449,45.788588,-108.497449,45.788588",
     "geom:latitude":45.788588,
     "geom:longitude":-108.497449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 3rd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186021491,
-    "wof:lastmodified":1449052059,
+    "wof:lastmodified":1466641474,
     "wof:name":"Billings Homebrewery Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.497449,45.788588,-108.497449,45.788588],
+  "bbox": [
+    -108.497449,
+    45.788588,
+    -108.497449,
+    45.788588
+],
   "geometry": {"coordinates":[-108.497449,45.788588],"type":"Point"}
 }

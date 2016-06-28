@@ -2,13 +2,14 @@
   "id": 186212453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.583476,45.750456,-108.583476,45.750456",
     "geom:latitude":45.750456,
     "geom:longitude":-108.583476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2697 Enterprise Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":186212453,
-    "wof:lastmodified":1449052111,
+    "wof:lastmodified":1466642366,
     "wof:name":"Dan Kortan Drywall Finishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.583476,45.750456,-108.583476,45.750456],
+  "bbox": [
+    -108.583476,
+    45.750456,
+    -108.583476,
+    45.750456
+],
   "geometry": {"coordinates":[-108.583476,45.750456],"type":"Point"}
 }

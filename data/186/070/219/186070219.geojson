@@ -2,13 +2,14 @@
   "id": 186070219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.880307,47.45662,-114.880307,47.45662",
     "geom:latitude":47.45662,
     "geom:longitude":-114.880307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Hubbard St",
     "sg:city":"Plains",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186070219,
-    "wof:lastmodified":1449051683,
+    "wof:lastmodified":1466641857,
     "wof:name":"Dirty Deeds Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.880307,47.45662,-114.880307,47.45662],
+  "bbox": [
+    -114.880307,
+    47.45662,
+    -114.880307,
+    47.45662
+],
   "geometry": {"coordinates":[-114.880307,47.45662],"type":"Point"}
 }

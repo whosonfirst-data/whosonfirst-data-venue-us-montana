@@ -2,13 +2,14 @@
   "id": 185927905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.712241,47.106385,-104.712241,47.106385",
     "geom:latitude":47.106385,
     "geom:longitude":-104.712241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W Benham St",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185927905,
-    "wof:lastmodified":1449008052,
+    "wof:lastmodified":1466641678,
     "wof:name":"Road Tech Medical",
     "wof:parent_id":85802737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-104.712241,47.106385,-104.712241,47.106385],
-  "geometry": {"coordinates":[-104.712241,47.106385],"type":"Point"}
+  "bbox": [
+    -104.712241,
+    47.106385,
+    -104.712241,
+    47.106385
+],
+  "geometry": {"coordinates":[-104.71224100000001,47.106385],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185667175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.941818,47.461261,-114.941818,47.461261",
     "geom:latitude":47.461261,
     "geom:longitude":-114.941818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"452 Black Jack Rd",
     "sg:city":"Plains",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185667175,
-    "wof:lastmodified":1449007651,
+    "wof:lastmodified":1466641384,
     "wof:name":"Flying Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heavy"
     ]
 },
-  "bbox": [-114.941818,47.461261,-114.941818,47.461261],
+  "bbox": [
+    -114.941818,
+    47.461261,
+    -114.941818,
+    47.461261
+],
   "geometry": {"coordinates":[-114.941818,47.461261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185782413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.999759,45.668791,-110.999759,45.668791",
     "geom:latitude":45.668791,
     "geom:longitude":-110.999759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 James Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185782413,
-    "wof:lastmodified":1449006584,
+    "wof:lastmodified":1466641508,
     "wof:name":"Western Land Brokerage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.999759,45.668791,-110.999759,45.668791],
+  "bbox": [
+    -110.999759,
+    45.668791,
+    -110.999759,
+    45.668791
+],
   "geometry": {"coordinates":[-110.999759,45.668791],"type":"Point"}
 }

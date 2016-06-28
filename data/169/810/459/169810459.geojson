@@ -2,13 +2,14 @@
   "id": 169810459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.440918,45.521766,-109.440918,45.521766",
     "geom:latitude":45.521766,
     "geom:longitude":-109.440918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 S Woodard Ave",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169810459,
-    "wof:lastmodified":1449033644,
+    "wof:lastmodified":1466641276,
     "wof:name":"Absarokee Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.440918,45.521766,-109.440918,45.521766],
+  "bbox": [
+    -109.440918,
+    45.521766,
+    -109.440918,
+    45.521766
+],
   "geometry": {"coordinates":[-109.440918,45.521766],"type":"Point"}
 }

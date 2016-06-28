@@ -2,13 +2,14 @@
   "id": 185814115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.59514,45.7965,-108.59514,45.7965",
     "geom:latitude":45.7965,
     "geom:longitude":-108.59514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 Beartooth Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185814115,
-    "wof:lastmodified":1449006906,
+    "wof:lastmodified":1466641542,
     "wof:name":"A1 Specialties",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-108.59514,45.7965,-108.59514,45.7965],
+  "bbox": [
+    -108.59514,
+    45.7965,
+    -108.59514,
+    45.7965
+],
   "geometry": {"coordinates":[-108.59514,45.7965],"type":"Point"}
 }

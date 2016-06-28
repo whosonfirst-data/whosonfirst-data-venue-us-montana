@@ -2,13 +2,14 @@
   "id": 169856351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.638975,48.193486,-106.638975,48.193486",
     "geom:latitude":48.193486,
     "geom:longitude":-106.638975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 6th St S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169856351,
-    "wof:lastmodified":1449033617,
+    "wof:lastmodified":1466641343,
     "wof:name":"St Matthews Episcopal Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-106.638975,48.193486,-106.638975,48.193486],
+  "bbox": [
+    -106.638975,
+    48.193486,
+    -106.638975,
+    48.193486
+],
   "geometry": {"coordinates":[-106.638975,48.193486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169789093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.051237,48.87132,-104.051237,48.87132",
     "geom:latitude":48.87132,
     "geom:longitude":-104.051237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Main St",
     "sg:city":"Westby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169789093,
-    "wof:lastmodified":1449034159,
+    "wof:lastmodified":1466641246,
     "wof:name":"Westby Meat & Groceries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-104.051237,48.87132,-104.051237,48.87132],
+  "bbox": [
+    -104.051237,
+    48.87132,
+    -104.051237,
+    48.87132
+],
   "geometry": {"coordinates":[-104.051237,48.87132],"type":"Point"}
 }

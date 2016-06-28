@@ -2,13 +2,14 @@
   "id": 186177259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.52492,48.331476,-115.52492,48.331476",
     "geom:latitude":48.331476,
     "geom:longitude":-115.52492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Cherry Creek Dr",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186177259,
-    "wof:lastmodified":1449053023,
+    "wof:lastmodified":1466642170,
     "wof:name":"Cherry Creek Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "replacement"
     ]
 },
-  "bbox": [-115.52492,48.331476,-115.52492,48.331476],
-  "geometry": {"coordinates":[-115.52492,48.331476],"type":"Point"}
+  "bbox": [
+    -115.52492,
+    48.331476,
+    -115.52492,
+    48.331476
+],
+  "geometry": {"coordinates":[-115.52491999999999,48.331476],"type":"Point"}
 }

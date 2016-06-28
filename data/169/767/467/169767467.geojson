@@ -2,13 +2,14 @@
   "id": 169767467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.152749,47.720712,-104.152749,47.720712",
     "geom:latitude":47.720712,
     "geom:longitude":-104.152749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Miller St NE",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169767467,
-    "wof:lastmodified":1449033626,
+    "wof:lastmodified":1466641213,
     "wof:name":"O K Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-104.152749,47.720712,-104.152749,47.720712],
+  "bbox": [
+    -104.152749,
+    47.720712,
+    -104.152749,
+    47.720712
+],
   "geometry": {"coordinates":[-104.152749,47.720712],"type":"Point"}
 }

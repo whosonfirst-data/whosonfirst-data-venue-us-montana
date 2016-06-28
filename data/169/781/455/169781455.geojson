@@ -2,13 +2,14 @@
   "id": 169781455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.084493,46.742646,-112.084493,46.742646",
     "geom:latitude":46.742646,
     "geom:longitude":-112.084493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8690 Buffalohorn Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169781455,
-    "wof:lastmodified":1449033311,
+    "wof:lastmodified":1466641239,
     "wof:name":"Buffalo Horn Ranch Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-112.084493,46.742646,-112.084493,46.742646],
-  "geometry": {"coordinates":[-112.084493,46.742646],"type":"Point"}
+  "bbox": [
+    -112.084493,
+    46.742646,
+    -112.084493,
+    46.742646
+],
+  "geometry": {"coordinates":[-112.08449299999999,46.742646],"type":"Point"}
 }

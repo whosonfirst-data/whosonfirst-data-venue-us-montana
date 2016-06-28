@@ -2,13 +2,14 @@
   "id": 186115033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.545996,48.771148,-104.545996,48.771148",
     "geom:latitude":48.771148,
     "geom:longitude":-104.545996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Douglas Ave",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186115033,
-    "wof:lastmodified":1449050229,
+    "wof:lastmodified":1466642038,
     "wof:name":"Carl Tange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-104.545996,48.771148,-104.545996,48.771148],
+  "bbox": [
+    -104.545996,
+    48.771148,
+    -104.545996,
+    48.771148
+],
   "geometry": {"coordinates":[-104.545996,48.771148],"type":"Point"}
 }

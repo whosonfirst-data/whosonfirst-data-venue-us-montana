@@ -2,13 +2,14 @@
   "id": 169767597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.348088,47.594649,-115.348088,47.594649",
     "geom:latitude":47.594649,
     "geom:longitude":-115.348088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 W Main St",
     "sg:city":"Thompson Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169767597,
-    "wof:lastmodified":1449033627,
+    "wof:lastmodified":1466641215,
     "wof:name":"Hometown Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.348088,47.594649,-115.348088,47.594649],
+  "bbox": [
+    -115.348088,
+    47.594649,
+    -115.348088,
+    47.594649
+],
   "geometry": {"coordinates":[-115.348088,47.594649],"type":"Point"}
 }

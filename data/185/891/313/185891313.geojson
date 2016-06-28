@@ -2,13 +2,14 @@
   "id": 185891313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.582124,45.801678,-108.582124,45.801678",
     "geom:latitude":45.801678,
     "geom:longitude":-108.582124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2907 W Macdonald Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185891313,
-    "wof:lastmodified":1449007582,
+    "wof:lastmodified":1466641624,
     "wof:name":"Anderson Sales Inc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.582124,45.801678,-108.582124,45.801678],
-  "geometry": {"coordinates":[-108.582124,45.801678],"type":"Point"}
+  "bbox": [
+    -108.582124,
+    45.801678,
+    -108.582124,
+    45.801678
+],
+  "geometry": {"coordinates":[-108.58212399999999,45.801678],"type":"Point"}
 }

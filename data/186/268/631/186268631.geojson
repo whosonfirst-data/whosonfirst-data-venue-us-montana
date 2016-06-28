@@ -2,13 +2,14 @@
   "id": 186268631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.489838,45.793396,-108.489838,45.793396",
     "geom:latitude":45.793396,
     "geom:longitude":-108.489838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N 13th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186268631,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466642563,
     "wof:name":"Red Oxx Mfg Inc",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.489838,45.793396,-108.489838,45.793396],
-  "geometry": {"coordinates":[-108.489838,45.793396],"type":"Point"}
+  "bbox": [
+    -108.489838,
+    45.793396,
+    -108.489838,
+    45.793396
+],
+  "geometry": {"coordinates":[-108.48983800000001,45.793396],"type":"Point"}
 }

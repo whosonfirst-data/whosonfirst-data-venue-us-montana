@@ -2,13 +2,14 @@
   "id": 185833777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.772174,45.691822,-108.772174,45.691822",
     "geom:latitude":45.691822,
     "geom:longitude":-108.772174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1749 Groshelle Blvd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185833777,
-    "wof:lastmodified":1449006805,
+    "wof:lastmodified":1466641576,
     "wof:name":"M K M Construction Inc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.772174,45.691822,-108.772174,45.691822],
-  "geometry": {"coordinates":[-108.772174,45.691822],"type":"Point"}
+  "bbox": [
+    -108.772174,
+    45.691822,
+    -108.772174,
+    45.691822
+],
+  "geometry": {"coordinates":[-108.77217400000001,45.691822],"type":"Point"}
 }

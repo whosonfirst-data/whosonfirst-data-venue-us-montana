@@ -2,13 +2,14 @@
   "id": 186198673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.542564,45.777094,-108.542564,45.777094",
     "geom:latitude":45.777094,
     "geom:longitude":-108.542564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 Broadwater Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186198673,
-    "wof:lastmodified":1449051359,
+    "wof:lastmodified":1466642271,
     "wof:name":"Tiki Hut Title Loan",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-108.542564,45.777094,-108.542564,45.777094],
+  "bbox": [
+    -108.542564,
+    45.777094,
+    -108.542564,
+    45.777094
+],
   "geometry": {"coordinates":[-108.542564,45.777094],"type":"Point"}
 }

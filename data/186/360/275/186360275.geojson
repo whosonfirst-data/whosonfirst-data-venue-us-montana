@@ -2,13 +2,14 @@
   "id": 186360275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.579727,45.770285,-108.579727,45.770285",
     "geom:latitude":45.770285,
     "geom:longitude":-108.579727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 25th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186360275,
-    "wof:lastmodified":1449052390,
+    "wof:lastmodified":1466642582,
     "wof:name":"Brent J Reed Insurance Inc",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.579727,45.770285,-108.579727,45.770285],
-  "geometry": {"coordinates":[-108.579727,45.770285],"type":"Point"}
+  "bbox": [
+    -108.579727,
+    45.770285,
+    -108.579727,
+    45.770285
+],
+  "geometry": {"coordinates":[-108.57972700000001,45.770285],"type":"Point"}
 }

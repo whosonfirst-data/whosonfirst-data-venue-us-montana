@@ -2,13 +2,14 @@
   "id": 169768169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.156576,46.253559,-114.156576,46.253559",
     "geom:latitude":46.253559,
     "geom:longitude":-114.156576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"781 US Hwy 93 N",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169768169,
-    "wof:lastmodified":1449033953,
+    "wof:lastmodified":1466641210,
     "wof:name":"Big Sky Muffler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "exhaust"
     ]
 },
-  "bbox": [-114.156576,46.253559,-114.156576,46.253559],
+  "bbox": [
+    -114.156576,
+    46.253559,
+    -114.156576,
+    46.253559
+],
   "geometry": {"coordinates":[-114.156576,46.253559],"type":"Point"}
 }

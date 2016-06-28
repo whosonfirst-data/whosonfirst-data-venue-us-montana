@@ -2,13 +2,14 @@
   "id": 186052667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.155397,46.251811,-114.155397,46.251811",
     "geom:latitude":46.251811,
     "geom:longitude":-114.155397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Foxfield St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186052667,
-    "wof:lastmodified":1449051585,
+    "wof:lastmodified":1466641826,
     "wof:name":"Bitterroot Laundry & Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-114.155397,46.251811,-114.155397,46.251811],
-  "geometry": {"coordinates":[-114.155397,46.251811],"type":"Point"}
+  "bbox": [
+    -114.155397,
+    46.251811,
+    -114.155397,
+    46.251811
+],
+  "geometry": {"coordinates":[-114.15539699999999,46.251811],"type":"Point"}
 }

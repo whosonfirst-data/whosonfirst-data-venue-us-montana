@@ -2,13 +2,14 @@
   "id": 186133603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.540424,46.444822,-108.540424,46.444822",
     "geom:latitude":46.444822,
     "geom:longitude":-108.540424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 1st St E",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186133603,
-    "wof:lastmodified":1449052547,
+    "wof:lastmodified":1466642246,
     "wof:name":"D&K Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-108.540424,46.444822,-108.540424,46.444822],
+  "bbox": [
+    -108.540424,
+    46.444822,
+    -108.540424,
+    46.444822
+],
   "geometry": {"coordinates":[-108.540424,46.444822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185755569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.435772,45.803549,-108.435772,45.803549",
     "geom:latitude":45.803549,
     "geom:longitude":-108.435772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1955 Old Hardin Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185755569,
-    "wof:lastmodified":1449007067,
+    "wof:lastmodified":1466641487,
     "wof:name":"Dixon Brothers Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.435772,45.803549,-108.435772,45.803549],
+  "bbox": [
+    -108.435772,
+    45.803549,
+    -108.435772,
+    45.803549
+],
   "geometry": {"coordinates":[-108.435772,45.803549],"type":"Point"}
 }

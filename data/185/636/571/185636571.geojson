@@ -2,13 +2,14 @@
   "id": 185636571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.237153,46.403023,-108.237153,46.403023",
     "geom:latitude":46.403023,
     "geom:longitude":-108.237153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Tepee Coulee Rd",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185636571,
-    "wof:lastmodified":1449007259,
+    "wof:lastmodified":1466641339,
     "wof:name":"Berg Cattle Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.237153,46.403023,-108.237153,46.403023],
-  "geometry": {"coordinates":[-108.237153,46.403023],"type":"Point"}
+  "bbox": [
+    -108.237153,
+    46.403023,
+    -108.237153,
+    46.403023
+],
+  "geometry": {"coordinates":[-108.23715300000001,46.403023],"type":"Point"}
 }

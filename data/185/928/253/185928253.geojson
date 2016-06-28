@@ -2,13 +2,14 @@
   "id": 185928253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.098563,47.528734,-114.098563,47.528734",
     "geom:latitude":47.528734,
     "geom:longitude":-114.098563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Main St SW",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185928253,
-    "wof:lastmodified":1449007995,
+    "wof:lastmodified":1466641675,
     "wof:name":"Reliacom LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.098563,47.528734,-114.098563,47.528734],
+  "bbox": [
+    -114.098563,
+    47.528734,
+    -114.098563,
+    47.528734
+],
   "geometry": {"coordinates":[-114.098563,47.528734],"type":"Point"}
 }

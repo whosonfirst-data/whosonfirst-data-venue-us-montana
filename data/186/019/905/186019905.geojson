@@ -2,13 +2,14 @@
   "id": 186019905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.866247,45.624839,-108.866247,45.624839",
     "geom:latitude":45.624839,
     "geom:longitude":-108.866247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Cemetery Rd",
     "sg:city":"Park City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186019905,
-    "wof:lastmodified":1449051922,
+    "wof:lastmodified":1466641451,
     "wof:name":"Wally World Satellite Local",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-108.866247,45.624839,-108.866247,45.624839],
+  "bbox": [
+    -108.866247,
+    45.624839,
+    -108.866247,
+    45.624839
+],
   "geometry": {"coordinates":[-108.866247,45.624839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186145421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.639191,48.090502,-105.639191,48.090502",
     "geom:latitude":48.090502,
     "geom:longitude":-105.639191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Main St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186145421,
-    "wof:lastmodified":1449051194,
+    "wof:lastmodified":1466642114,
     "wof:name":"Terrance Toavs Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.639191,48.090502,-105.639191,48.090502],
+  "bbox": [
+    -105.639191,
+    48.090502,
+    -105.639191,
+    48.090502
+],
   "geometry": {"coordinates":[-105.639191,48.090502],"type":"Point"}
 }

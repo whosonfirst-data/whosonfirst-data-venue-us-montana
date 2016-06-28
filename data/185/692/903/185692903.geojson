@@ -2,13 +2,14 @@
   "id": 185692903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.5371,46.012662,-112.5371,46.012662",
     "geom:latitude":46.012662,
     "geom:longitude":-112.5371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 W Park St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185692903,
-    "wof:lastmodified":1449007039,
+    "wof:lastmodified":1466641417,
     "wof:name":"Habitat For Humanity Of Sw Mt",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-112.5371,46.012662,-112.5371,46.012662],
+  "bbox": [
+    -112.5371,
+    46.012662,
+    -112.5371,
+    46.012662
+],
   "geometry": {"coordinates":[-112.5371,46.012662],"type":"Point"}
 }

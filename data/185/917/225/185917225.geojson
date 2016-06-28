@@ -2,13 +2,14 @@
   "id": 185917225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.010668,46.47065,-114.010668,46.47065",
     "geom:latitude":46.47065,
     "geom:longitude":-114.010668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3024 Bugli Ln",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185917225,
-    "wof:lastmodified":1449008006,
+    "wof:lastmodified":1466641657,
     "wof:name":"Mark McFadgen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.010668,46.47065,-114.010668,46.47065],
+  "bbox": [
+    -114.010668,
+    46.47065,
+    -114.010668,
+    46.47065
+],
   "geometry": {"coordinates":[-114.010668,46.47065],"type":"Point"}
 }

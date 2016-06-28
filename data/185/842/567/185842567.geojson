@@ -2,13 +2,14 @@
   "id": 185842567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.109375,47.531917,-114.109375,47.531917",
     "geom:latitude":47.531917,
     "geom:longitude":-114.109375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 8th Ave NW",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185842567,
-    "wof:lastmodified":1449006727,
+    "wof:lastmodified":1466641577,
     "wof:name":"Montana Education Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.109375,47.531917,-114.109375,47.531917],
+  "bbox": [
+    -114.109375,
+    47.531917,
+    -114.109375,
+    47.531917
+],
   "geometry": {"coordinates":[-114.109375,47.531917],"type":"Point"}
 }

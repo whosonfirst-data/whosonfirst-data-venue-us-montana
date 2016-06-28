@@ -2,13 +2,14 @@
   "id": 185908827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.132053,45.73563,-111.132053,45.73563",
     "geom:latitude":45.73563,
     "geom:longitude":-111.132053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Mountain Lion Trl",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185908827,
-    "wof:lastmodified":1449007516,
+    "wof:lastmodified":1466641658,
     "wof:name":"Michael Couch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-111.132053,45.73563,-111.132053,45.73563],
+  "bbox": [
+    -111.132053,
+    45.73563,
+    -111.132053,
+    45.73563
+],
   "geometry": {"coordinates":[-111.132053,45.73563],"type":"Point"}
 }

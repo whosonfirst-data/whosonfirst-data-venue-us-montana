@@ -2,13 +2,14 @@
   "id": 186413957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.485046,45.796039,-108.485046,45.796039",
     "geom:latitude":45.796039,
     "geom:longitude":-108.485046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 4th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186413957,
-    "wof:lastmodified":1449050824,
+    "wof:lastmodified":1466642889,
     "wof:name":"A To Z Tire",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-108.485046,45.796039,-108.485046,45.796039],
+  "bbox": [
+    -108.485046,
+    45.796039,
+    -108.485046,
+    45.796039
+],
   "geometry": {"coordinates":[-108.485046,45.796039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186071201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.158375,46.274368,-114.158375,46.274368",
     "geom:latitude":46.274368,
     "geom:longitude":-114.158375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2124 N 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186071201,
-    "wof:lastmodified":1449052059,
+    "wof:lastmodified":1466641864,
     "wof:name":"Hamilton Bumper To Bumper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.158375,46.274368,-114.158375,46.274368],
-  "geometry": {"coordinates":[-114.158375,46.274368],"type":"Point"}
+  "bbox": [
+    -114.158375,
+    46.274368,
+    -114.158375,
+    46.274368
+],
+  "geometry": {"coordinates":[-114.15837500000001,46.274368],"type":"Point"}
 }

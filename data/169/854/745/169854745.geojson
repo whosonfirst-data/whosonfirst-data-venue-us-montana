@@ -2,13 +2,14 @@
   "id": 169854745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.583436,45.79692,-108.583436,45.79692",
     "geom:latitude":45.79692,
     "geom:longitude":-108.583436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2604 W Bridger Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169854745,
-    "wof:lastmodified":1449035844,
+    "wof:lastmodified":1466641343,
     "wof:name":"Hammalton Ranch Inc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wheat"
     ]
 },
-  "bbox": [-108.583436,45.79692,-108.583436,45.79692],
-  "geometry": {"coordinates":[-108.583436,45.79692],"type":"Point"}
+  "bbox": [
+    -108.583436,
+    45.79692,
+    -108.583436,
+    45.79692
+],
+  "geometry": {"coordinates":[-108.58343600000001,45.79692],"type":"Point"}
 }

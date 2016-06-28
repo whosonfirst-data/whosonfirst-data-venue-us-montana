@@ -2,13 +2,14 @@
   "id": 185648219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.552574,46.412634,-108.552574,46.412634",
     "geom:latitude":46.412634,
     "geom:longitude":-108.552574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Gibbtown Ave",
     "sg:city":"Roundup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185648219,
-    "wof:lastmodified":1449007050,
+    "wof:lastmodified":1466641362,
     "wof:name":"American Manufactured Home Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-108.552574,46.412634,-108.552574,46.412634],
-  "geometry": {"coordinates":[-108.552574,46.412634],"type":"Point"}
+  "bbox": [
+    -108.552574,
+    46.412634,
+    -108.552574,
+    46.412634
+],
+  "geometry": {"coordinates":[-108.55257400000001,46.412634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186281407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.491078,45.988832,-112.491078,45.988832",
     "geom:latitude":45.988832,
     "geom:longitude":-112.491078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Princeton St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186281407,
-    "wof:lastmodified":1449052600,
+    "wof:lastmodified":1466642358,
     "wof:name":"Whittier School",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.491078,45.988832,-112.491078,45.988832],
+  "bbox": [
+    -112.491078,
+    45.988832,
+    -112.491078,
+    45.988832
+],
   "geometry": {"coordinates":[-112.491078,45.988832],"type":"Point"}
 }

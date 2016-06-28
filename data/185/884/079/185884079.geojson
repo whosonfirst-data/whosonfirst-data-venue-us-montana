@@ -2,13 +2,14 @@
   "id": 185884079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.578434,45.640017,-110.578434,45.640017",
     "geom:latitude":45.640017,
     "geom:longitude":-110.578434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Billman Ln",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185884079,
-    "wof:lastmodified":1449007915,
+    "wof:lastmodified":1466641615,
     "wof:name":"Brown Septic Pumping",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.578434,45.640017,-110.578434,45.640017],
+  "bbox": [
+    -110.578434,
+    45.640017,
+    -110.578434,
+    45.640017
+],
   "geometry": {"coordinates":[-110.578434,45.640017],"type":"Point"}
 }

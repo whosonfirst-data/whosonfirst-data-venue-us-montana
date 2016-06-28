@@ -2,13 +2,14 @@
   "id": 186128045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.535789,46.013559,-112.535789,46.013559",
     "geom:latitude":46.013559,
     "geom:longitude":-112.535789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 N Main St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186128045,
-    "wof:lastmodified":1449051410,
+    "wof:lastmodified":1466642079,
     "wof:name":"17 North Main LLC",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.535789,46.013559,-112.535789,46.013559],
-  "geometry": {"coordinates":[-112.535789,46.013559],"type":"Point"}
+  "bbox": [
+    -112.535789,
+    46.013559,
+    -112.535789,
+    46.013559
+],
+  "geometry": {"coordinates":[-112.53578899999999,46.013559],"type":"Point"}
 }

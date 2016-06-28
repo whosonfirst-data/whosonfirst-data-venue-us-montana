@@ -2,13 +2,14 @@
   "id": 185934963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.394785,47.665833,-115.394785,47.665833",
     "geom:latitude":47.665833,
     "geom:longitude":-115.394785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 Blue Slide Rd",
     "sg:city":"Thompson Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185934963,
-    "wof:lastmodified":1449006659,
+    "wof:lastmodified":1466641689,
     "wof:name":"Leufkens Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.394785,47.665833,-115.394785,47.665833],
+  "bbox": [
+    -115.394785,
+    47.665833,
+    -115.394785,
+    47.665833
+],
   "geometry": {"coordinates":[-115.394785,47.665833],"type":"Point"}
 }

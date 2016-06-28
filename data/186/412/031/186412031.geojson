@@ -2,13 +2,14 @@
   "id": 186412031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.952848,46.129171,-112.952848,46.129171",
     "geom:latitude":46.129171,
     "geom:longitude":-112.952848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E Park Ave",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186412031,
-    "wof:lastmodified":1449050952,
+    "wof:lastmodified":1466642794,
     "wof:name":"Cosmos Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.952848,46.129171,-112.952848,46.129171],
+  "bbox": [
+    -112.952848,
+    46.129171,
+    -112.952848,
+    46.129171
+],
   "geometry": {"coordinates":[-112.952848,46.129171],"type":"Point"}
 }

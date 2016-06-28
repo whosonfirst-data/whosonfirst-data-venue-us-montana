@@ -2,13 +2,14 @@
   "id": 185942269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.514362,45.796416,-108.514362,45.796416",
     "geom:latitude":45.796416,
     "geom:longitude":-108.514362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 N 25th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185942269,
-    "wof:lastmodified":1449007356,
+    "wof:lastmodified":1466641693,
     "wof:name":"Windwood Condominium Assn",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condo"
     ]
 },
-  "bbox": [-108.514362,45.796416,-108.514362,45.796416],
-  "geometry": {"coordinates":[-108.514362,45.796416],"type":"Point"}
+  "bbox": [
+    -108.514362,
+    45.796416,
+    -108.514362,
+    45.796416
+],
+  "geometry": {"coordinates":[-108.51436200000001,45.796416],"type":"Point"}
 }

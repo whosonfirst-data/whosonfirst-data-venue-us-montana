@@ -2,13 +2,14 @@
   "id": 169826123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.327169,48.196459,-114.327169,48.196459",
     "geom:latitude":48.196459,
     "geom:longitude":-114.327169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 W Center St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169826123,
-    "wof:lastmodified":1449035071,
+    "wof:lastmodified":1466641293,
     "wof:name":"Studio 918 Hair Dsign Tan Slon",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-114.327169,48.196459,-114.327169,48.196459],
+  "bbox": [
+    -114.327169,
+    48.196459,
+    -114.327169,
+    48.196459
+],
   "geometry": {"coordinates":[-114.327169,48.196459],"type":"Point"}
 }

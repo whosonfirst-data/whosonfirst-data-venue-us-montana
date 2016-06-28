@@ -2,13 +2,14 @@
   "id": 186455895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.013184,48.076583,-114.013184,48.076583",
     "geom:latitude":48.076583,
     "geom:longitude":-114.013184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"965 Swan Horseshoe Rd",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186455895,
-    "wof:lastmodified":1449052575,
+    "wof:lastmodified":1466643031,
     "wof:name":"Neuromuscular Massage Therapy",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.013184,48.076583,-114.013184,48.076583],
+  "bbox": [
+    -114.013184,
+    48.076583,
+    -114.013184,
+    48.076583
+],
   "geometry": {"coordinates":[-114.013184,48.076583],"type":"Point"}
 }

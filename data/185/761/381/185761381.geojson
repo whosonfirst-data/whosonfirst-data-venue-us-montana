@@ -2,13 +2,14 @@
   "id": 185761381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.049867,47.697327,-114.049867,47.697327",
     "geom:latitude":47.697327,
     "geom:longitude":-114.049867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Hellroaring Rd",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185761381,
-    "wof:lastmodified":1449007844,
+    "wof:lastmodified":1466641489,
     "wof:name":"Hellroaring Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "jewelry"
     ]
 },
-  "bbox": [-114.049867,47.697327,-114.049867,47.697327],
-  "geometry": {"coordinates":[-114.049867,47.697327],"type":"Point"}
+  "bbox": [
+    -114.049867,
+    47.697327,
+    -114.049867,
+    47.697327
+],
+  "geometry": {"coordinates":[-114.04986700000001,47.697327],"type":"Point"}
 }

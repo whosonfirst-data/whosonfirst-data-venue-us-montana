@@ -2,13 +2,14 @@
   "id": 185817521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.485141,48.137918,-114.485141,48.137918",
     "geom:latitude":48.137918,
     "geom:longitude":-114.485141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Hoffman Draw",
     "sg:city":"Kila",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185817521,
-    "wof:lastmodified":1449007906,
+    "wof:lastmodified":1466641552,
     "wof:name":"Glacier Electric",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "installation"
     ]
 },
-  "bbox": [-114.485141,48.137918,-114.485141,48.137918],
+  "bbox": [
+    -114.485141,
+    48.137918,
+    -114.485141,
+    48.137918
+],
   "geometry": {"coordinates":[-114.485141,48.137918],"type":"Point"}
 }

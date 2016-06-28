@@ -2,13 +2,14 @@
   "id": 169752235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.501789,45.787056,-108.501789,45.787056",
     "geom:latitude":45.787056,
     "geom:longitude":-108.501789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 N 23rd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169752235,
-    "wof:lastmodified":1449033248,
+    "wof:lastmodified":1466641189,
     "wof:name":"Senior Citizens Center",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-108.501789,45.787056,-108.501789,45.787056],
+  "bbox": [
+    -108.501789,
+    45.787056,
+    -108.501789,
+    45.787056
+],
   "geometry": {"coordinates":[-108.501789,45.787056],"type":"Point"}
 }

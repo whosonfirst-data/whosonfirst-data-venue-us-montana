@@ -2,13 +2,14 @@
   "id": 186244753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.455631,45.805407,-108.455631,45.805407",
     "geom:latitude":45.805407,
     "geom:longitude":-108.455631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Lomond Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186244753,
-    "wof:lastmodified":1449051433,
+    "wof:lastmodified":1466642522,
     "wof:name":"Lockwood Lockits",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "special"
     ]
 },
-  "bbox": [-108.455631,45.805407,-108.455631,45.805407],
+  "bbox": [
+    -108.455631,
+    45.805407,
+    -108.455631,
+    45.805407
+],
   "geometry": {"coordinates":[-108.455631,45.805407],"type":"Point"}
 }

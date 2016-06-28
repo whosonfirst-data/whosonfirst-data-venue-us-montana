@@ -2,13 +2,14 @@
   "id": 186072659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.452725,45.859659,-108.452725,45.859659",
     "geom:latitude":45.859659,
     "geom:longitude":-108.452725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3243 Latigo St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186072659,
-    "wof:lastmodified":1449051787,
+    "wof:lastmodified":1466642022,
     "wof:name":"Bailey Masonry",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.452725,45.859659,-108.452725,45.859659],
+  "bbox": [
+    -108.452725,
+    45.859659,
+    -108.452725,
+    45.859659
+],
   "geometry": {"coordinates":[-108.452725,45.859659],"type":"Point"}
 }

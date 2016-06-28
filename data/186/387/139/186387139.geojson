@@ -2,13 +2,14 @@
   "id": 186387139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.184798,47.813623,-112.184798,47.813623",
     "geom:latitude":47.813623,
     "geom:longitude":-112.184798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 N Main Ave",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186387139,
-    "wof:lastmodified":1449052655,
+    "wof:lastmodified":1466642829,
     "wof:name":"Main Street Express",
     "wof:parent_id":85810939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-112.184798,47.813623,-112.184798,47.813623],
+  "bbox": [
+    -112.184798,
+    47.813623,
+    -112.184798,
+    47.813623
+],
   "geometry": {"coordinates":[-112.184798,47.813623],"type":"Point"}
 }

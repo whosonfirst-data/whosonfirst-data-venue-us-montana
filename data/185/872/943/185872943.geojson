@@ -2,13 +2,14 @@
   "id": 185872943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.636983,48.19389,-106.636983,48.19389",
     "geom:latitude":48.19389,
     "geom:longitude":-106.636983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 5th St S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185872943,
-    "wof:lastmodified":1449006749,
+    "wof:lastmodified":1466641611,
     "wof:name":"Headquarters A Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-106.636983,48.19389,-106.636983,48.19389],
+  "bbox": [
+    -106.636983,
+    48.19389,
+    -106.636983,
+    48.19389
+],
   "geometry": {"coordinates":[-106.636983,48.19389],"type":"Point"}
 }

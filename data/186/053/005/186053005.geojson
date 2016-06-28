@@ -2,13 +2,14 @@
   "id": 186053005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.638951,48.094139,-105.638951,48.094139",
     "geom:latitude":48.094139,
     "geom:longitude":-105.638951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Cascade St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186053005,
-    "wof:lastmodified":1449050912,
+    "wof:lastmodified":1466642003,
     "wof:name":"City Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-105.638951,48.094139,-105.638951,48.094139],
-  "geometry": {"coordinates":[-105.638951,48.094139],"type":"Point"}
+  "bbox": [
+    -105.638951,
+    48.094139,
+    -105.638951,
+    48.094139
+],
+  "geometry": {"coordinates":[-105.63895100000001,48.094139],"type":"Point"}
 }

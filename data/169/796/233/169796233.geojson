@@ -2,13 +2,14 @@
   "id": 169796233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.099854,47.528658,-114.099854,47.528658",
     "geom:latitude":47.528658,
     "geom:longitude":-114.099854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Main St SW",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169796233,
-    "wof:lastmodified":1449034238,
+    "wof:lastmodified":1466641258,
     "wof:name":"State Liquor Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-114.099854,47.528658,-114.099854,47.528658],
-  "geometry": {"coordinates":[-114.099854,47.528658],"type":"Point"}
+  "bbox": [
+    -114.099854,
+    47.528658,
+    -114.099854,
+    47.528658
+],
+  "geometry": {"coordinates":[-114.09985399999999,47.528658],"type":"Point"}
 }

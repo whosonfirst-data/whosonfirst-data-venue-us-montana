@@ -2,13 +2,14 @@
   "id": 186366815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.28146,47.517263,-111.28146,47.517263",
     "geom:latitude":47.517263,
     "geom:longitude":-111.28146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 15th St N",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186366815,
-    "wof:lastmodified":1449052315,
+    "wof:lastmodified":1466642772,
     "wof:name":"Crash Repr Collision & Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-111.28146,47.517263,-111.28146,47.517263],
+  "bbox": [
+    -111.28146,
+    47.517263,
+    -111.28146,
+    47.517263
+],
   "geometry": {"coordinates":[-111.28146,47.517263],"type":"Point"}
 }

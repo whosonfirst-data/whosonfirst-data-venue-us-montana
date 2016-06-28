@@ -2,13 +2,14 @@
   "id": 186319583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.185654,47.814865,-112.185654,47.814865",
     "geom:latitude":47.814865,
     "geom:longitude":-112.185654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N Main Ave",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186319583,
-    "wof:lastmodified":1449051470,
+    "wof:lastmodified":1466642654,
     "wof:name":"Cazbar Coffee Traders LLC",
     "wof:parent_id":85810939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-112.185654,47.814865,-112.185654,47.814865],
+  "bbox": [
+    -112.185654,
+    47.814865,
+    -112.185654,
+    47.814865
+],
   "geometry": {"coordinates":[-112.185654,47.814865],"type":"Point"}
 }

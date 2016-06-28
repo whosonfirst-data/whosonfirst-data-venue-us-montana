@@ -2,13 +2,14 @@
   "id": 185749129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.145158,45.950363,-108.145158,45.950363",
     "geom:latitude":45.950363,
     "geom:longitude":-108.145158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1659 Cane St",
     "sg:city":"Ballantine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185749129,
-    "wof:lastmodified":1449007076,
+    "wof:lastmodified":1466641472,
     "wof:name":"Great Northern Book Co Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-108.145158,45.950363,-108.145158,45.950363],
+  "bbox": [
+    -108.145158,
+    45.950363,
+    -108.145158,
+    45.950363
+],
   "geometry": {"coordinates":[-108.145158,45.950363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186268693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.853768,46.413401,-105.853768,46.413401",
     "geom:latitude":46.413401,
     "geom:longitude":-105.853768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N 7th St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186268693,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466642563,
     "wof:name":"Jack's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-105.853768,46.413401,-105.853768,46.413401],
+  "bbox": [
+    -105.853768,
+    46.413401,
+    -105.853768,
+    46.413401
+],
   "geometry": {"coordinates":[-105.853768,46.413401],"type":"Point"}
 }

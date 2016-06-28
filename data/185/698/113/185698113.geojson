@@ -2,13 +2,14 @@
   "id": 185698113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.273246,48.212079,-114.273246,48.212079",
     "geom:latitude":48.212079,
     "geom:longitude":-114.273246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 S Cedar Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185698113,
-    "wof:lastmodified":1449008113,
+    "wof:lastmodified":1466641414,
     "wof:name":"Marine Service of Kalispell",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [-114.273246,48.212079,-114.273246,48.212079],
+  "bbox": [
+    -114.273246,
+    48.212079,
+    -114.273246,
+    48.212079
+],
   "geometry": {"coordinates":[-114.273246,48.212079],"type":"Point"}
 }

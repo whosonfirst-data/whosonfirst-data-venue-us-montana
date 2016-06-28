@@ -2,13 +2,14 @@
   "id": 185600341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.091237,47.304402,-115.091237,47.304402",
     "geom:latitude":47.304402,
     "geom:longitude":-115.091237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 State Hwy 135",
     "sg:city":"Saint Regis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185600341,
-    "wof:lastmodified":1449006761,
+    "wof:lastmodified":1466641153,
     "wof:name":"Biiter Rude Valley Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-115.091237,47.304402,-115.091237,47.304402],
-  "geometry": {"coordinates":[-115.091237,47.304402],"type":"Point"}
+  "bbox": [
+    -115.091237,
+    47.304402,
+    -115.091237,
+    47.304402
+],
+  "geometry": {"coordinates":[-115.09123700000001,47.304402],"type":"Point"}
 }

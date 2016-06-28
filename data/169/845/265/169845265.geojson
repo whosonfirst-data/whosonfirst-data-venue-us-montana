@@ -2,13 +2,14 @@
   "id": 169845265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.679656,45.766058,-108.679656,45.766058",
     "geom:latitude":45.766058,
     "geom:longitude":-108.679656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 S 64th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169845265,
-    "wof:lastmodified":1449033232,
+    "wof:lastmodified":1466641320,
     "wof:name":"Cop Construction LLC",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.679656,45.766058,-108.679656,45.766058],
-  "geometry": {"coordinates":[-108.679656,45.766058],"type":"Point"}
+  "bbox": [
+    -108.679656,
+    45.766058,
+    -108.679656,
+    45.766058
+],
+  "geometry": {"coordinates":[-108.67965599999999,45.766058],"type":"Point"}
 }

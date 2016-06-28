@@ -2,13 +2,14 @@
   "id": 185745235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.510803,45.991161,-112.510803,45.991161",
     "geom:latitude":45.991161,
     "geom:longitude":-112.510803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185745235,
-    "wof:lastmodified":1449008122,
+    "wof:lastmodified":1466641468,
     "wof:name":"Blockbuster",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-112.510803,45.991161,-112.510803,45.991161],
+  "bbox": [
+    -112.510803,
+    45.991161,
+    -112.510803,
+    45.991161
+],
   "geometry": {"coordinates":[-112.510803,45.991161],"type":"Point"}
 }

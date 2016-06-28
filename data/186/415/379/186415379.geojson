@@ -2,13 +2,14 @@
   "id": 186415379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.5047,45.782963,-108.5047,45.782963",
     "geom:latitude":45.782963,
     "geom:longitude":-108.5047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 N 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186415379,
-    "wof:lastmodified":1449052290,
+    "wof:lastmodified":1466643064,
     "wof:name":"Appraisal Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-108.5047,45.782963,-108.5047,45.782963],
+  "bbox": [
+    -108.5047,
+    45.782963,
+    -108.5047,
+    45.782963
+],
   "geometry": {"coordinates":[-108.5047,45.782963],"type":"Point"}
 }

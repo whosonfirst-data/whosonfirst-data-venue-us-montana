@@ -2,13 +2,14 @@
   "id": 186037373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.13056,45.958348,-108.13056,45.958348",
     "geom:latitude":45.958348,
     "geom:longitude":-108.13056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 S 18th Rd",
     "sg:city":"Ballantine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186037373,
-    "wof:lastmodified":1449053070,
+    "wof:lastmodified":1466641723,
     "wof:name":"Cabinet Covers Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counter"
     ]
 },
-  "bbox": [-108.13056,45.958348,-108.13056,45.958348],
+  "bbox": [
+    -108.13056,
+    45.958348,
+    -108.13056,
+    45.958348
+],
   "geometry": {"coordinates":[-108.13056,45.958348],"type":"Point"}
 }

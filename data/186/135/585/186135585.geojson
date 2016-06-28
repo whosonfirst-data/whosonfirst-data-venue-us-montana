@@ -2,13 +2,14 @@
   "id": 186135585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.012578,46.852433,-114.012578,46.852433",
     "geom:latitude":46.852433,
     "geom:longitude":-114.012578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Brooks St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186135585,
-    "wof:lastmodified":1449051406,
+    "wof:lastmodified":1466642098,
     "wof:name":"Mister Cs Lounge & Liquor Str",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-114.012578,46.852433,-114.012578,46.852433],
+  "bbox": [
+    -114.012578,
+    46.852433,
+    -114.012578,
+    46.852433
+],
   "geometry": {"coordinates":[-114.012578,46.852433],"type":"Point"}
 }

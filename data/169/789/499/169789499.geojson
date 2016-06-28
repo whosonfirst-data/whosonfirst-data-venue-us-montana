@@ -2,13 +2,14 @@
   "id": 169789499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.836918,47.09825,-110.836918,47.09825",
     "geom:latitude":47.09825,
     "geom:longitude":-110.836918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Missoula Ave",
     "sg:city":"Monarch",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169789499,
-    "wof:lastmodified":1449034159,
+    "wof:lastmodified":1466641249,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.836918,47.09825,-110.836918,47.09825],
+  "bbox": [
+    -110.836918,
+    47.09825,
+    -110.836918,
+    47.09825
+],
   "geometry": {"coordinates":[-110.836918,47.09825],"type":"Point"}
 }

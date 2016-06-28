@@ -2,13 +2,14 @@
   "id": 185936525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.531814,45.997734,-112.531814,45.997734",
     "geom:latitude":45.997734,
     "geom:longitude":-112.531814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 Missouri Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185936525,
-    "wof:lastmodified":1449007136,
+    "wof:lastmodified":1466641689,
     "wof:name":"Karen & 39 S Daycare",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-112.531814,45.997734,-112.531814,45.997734],
+  "bbox": [
+    -112.531814,
+    45.997734,
+    -112.531814,
+    45.997734
+],
   "geometry": {"coordinates":[-112.531814,45.997734],"type":"Point"}
 }

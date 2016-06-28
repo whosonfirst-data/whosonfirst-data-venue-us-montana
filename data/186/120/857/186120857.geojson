@@ -2,13 +2,14 @@
   "id": 186120857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.020705,45.709438,-111.020705,45.709438",
     "geom:latitude":45.709438,
     "geom:longitude":-111.020705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Story Mill Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186120857,
-    "wof:lastmodified":1449052629,
+    "wof:lastmodified":1466642070,
     "wof:name":"Hulbert Property LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-111.020705,45.709438,-111.020705,45.709438],
-  "geometry": {"coordinates":[-111.020705,45.709438],"type":"Point"}
+  "bbox": [
+    -111.020705,
+    45.709438,
+    -111.020705,
+    45.709438
+],
+  "geometry": {"coordinates":[-111.02070500000001,45.709438],"type":"Point"}
 }

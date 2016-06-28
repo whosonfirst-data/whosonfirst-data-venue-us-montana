@@ -2,13 +2,14 @@
   "id": 185999573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.073638,46.825109,-114.073638,46.825109",
     "geom:latitude":46.825109,
     "geom:longitude":-114.073638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5055 US Hwy 93",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185999573,
-    "wof:lastmodified":1449008026,
+    "wof:lastmodified":1466641791,
     "wof:name":"My House Manufactured Homes",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.073638,46.825109,-114.073638,46.825109],
+  "bbox": [
+    -114.073638,
+    46.825109,
+    -114.073638,
+    46.825109
+],
   "geometry": {"coordinates":[-114.073638,46.825109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169717791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.735555,46.394558,-112.735555,46.394558",
     "geom:latitude":46.394558,
     "geom:longitude":-112.735555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 Main St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169717791,
-    "wof:lastmodified":1449032774,
+    "wof:lastmodified":1466641727,
     "wof:name":"R B Drive In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.735555,46.394558,-112.735555,46.394558],
-  "geometry": {"coordinates":[-112.735555,46.394558],"type":"Point"}
+  "bbox": [
+    -112.735555,
+    46.394558,
+    -112.735555,
+    46.394558
+],
+  "geometry": {"coordinates":[-112.73555500000001,46.394558],"type":"Point"}
 }

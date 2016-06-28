@@ -2,13 +2,14 @@
   "id": 185679229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.029956,46.586634,-112.029956,46.586634",
     "geom:latitude":46.586634,
     "geom:longitude":-112.029956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 E 6th Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185679229,
-    "wof:lastmodified":1449007635,
+    "wof:lastmodified":1466641395,
     "wof:name":"C M Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-112.029956,46.586634,-112.029956,46.586634],
+  "bbox": [
+    -112.029956,
+    46.586634,
+    -112.029956,
+    46.586634
+],
   "geometry": {"coordinates":[-112.029956,46.586634],"type":"Point"}
 }

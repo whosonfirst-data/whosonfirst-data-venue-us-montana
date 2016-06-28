@@ -2,13 +2,14 @@
   "id": 186142519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.090725,46.81541,-114.090725,46.81541",
     "geom:latitude":46.81541,
     "geom:longitude":-114.090725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5605 US Hwy 93",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186142519,
-    "wof:lastmodified":1449052478,
+    "wof:lastmodified":1466642115,
     "wof:name":"Shaffners Bindery",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "work"
     ]
 },
-  "bbox": [-114.090725,46.81541,-114.090725,46.81541],
-  "geometry": {"coordinates":[-114.090725,46.81541],"type":"Point"}
+  "bbox": [
+    -114.090725,
+    46.81541,
+    -114.090725,
+    46.81541
+],
+  "geometry": {"coordinates":[-114.09072500000001,46.81541],"type":"Point"}
 }

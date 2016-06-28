@@ -2,13 +2,14 @@
   "id": 186163991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.031491,45.690527,-111.031491,45.690527",
     "geom:latitude":45.690527,
     "geom:longitude":-111.031491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 N Rouse Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186163991,
-    "wof:lastmodified":1449052976,
+    "wof:lastmodified":1466642288,
     "wof:name":"Kenyon Noble Ready-Mix Co",
     "wof:parent_id":85876477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-111.031491,45.690527,-111.031491,45.690527],
+  "bbox": [
+    -111.031491,
+    45.690527,
+    -111.031491,
+    45.690527
+],
   "geometry": {"coordinates":[-111.031491,45.690527],"type":"Point"}
 }

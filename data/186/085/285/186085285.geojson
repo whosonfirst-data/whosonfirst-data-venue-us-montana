@@ -2,13 +2,14 @@
   "id": 186085285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.641256,48.205507,-106.641256,48.205507",
     "geom:latitude":48.205507,
     "geom:longitude":-106.641256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 US Hwy 2",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186085285,
-    "wof:lastmodified":1449051062,
+    "wof:lastmodified":1466642072,
     "wof:name":"Hi-Line TERRACE Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-106.641256,48.205507,-106.641256,48.205507],
+  "bbox": [
+    -106.641256,
+    48.205507,
+    -106.641256,
+    48.205507
+],
   "geometry": {"coordinates":[-106.641256,48.205507],"type":"Point"}
 }

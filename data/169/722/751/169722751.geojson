@@ -2,13 +2,14 @@
   "id": 169722751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.556603,48.389523,-115.556603,48.389523",
     "geom:latitude":48.389523,
     "geom:longitude":-115.556603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Main Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169722751,
-    "wof:lastmodified":1449033843,
+    "wof:lastmodified":1466641733,
     "wof:name":"Tom Vranizan Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "forest"
     ]
 },
-  "bbox": [-115.556603,48.389523,-115.556603,48.389523],
+  "bbox": [
+    -115.556603,
+    48.389523,
+    -115.556603,
+    48.389523
+],
   "geometry": {"coordinates":[-115.556603,48.389523],"type":"Point"}
 }

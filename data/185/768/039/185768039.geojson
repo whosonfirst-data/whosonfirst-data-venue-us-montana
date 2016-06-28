@@ -2,13 +2,14 @@
   "id": 185768039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.55904,45.663415,-110.55904,45.663415",
     "geom:latitude":45.663415,
     "geom:longitude":-110.55904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Hwy 10 W",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185768039,
-    "wof:lastmodified":1449007233,
+    "wof:lastmodified":1466641776,
     "wof:name":"Lenape Buffalo Company LLC",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-110.55904,45.663415,-110.55904,45.663415],
+  "bbox": [
+    -110.55904,
+    45.663415,
+    -110.55904,
+    45.663415
+],
   "geometry": {"coordinates":[-110.55904,45.663415],"type":"Point"}
 }

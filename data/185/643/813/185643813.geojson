@@ -2,13 +2,14 @@
   "id": 185643813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.77598,45.671309,-108.77598,45.671309",
     "geom:latitude":45.671309,
     "geom:longitude":-108.77598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 4th Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185643813,
-    "wof:lastmodified":1449008000,
+    "wof:lastmodified":1466641363,
     "wof:name":"Rick Quilling Trucking",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.77598,45.671309,-108.77598,45.671309],
+  "bbox": [
+    -108.77598,
+    45.671309,
+    -108.77598,
+    45.671309
+],
   "geometry": {"coordinates":[-108.77598,45.671309],"type":"Point"}
 }

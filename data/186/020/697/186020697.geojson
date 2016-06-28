@@ -2,13 +2,14 @@
   "id": 186020697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.503859,45.773055,-108.503859,45.773055",
     "geom:latitude":45.773055,
     "geom:longitude":-108.503859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 6th Ave S",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186020697,
-    "wof:lastmodified":1449051632,
+    "wof:lastmodified":1466641461,
     "wof:name":"Chief Cornerstone Baptist",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.503859,45.773055,-108.503859,45.773055],
-  "geometry": {"coordinates":[-108.503859,45.773055],"type":"Point"}
+  "bbox": [
+    -108.503859,
+    45.773055,
+    -108.503859,
+    45.773055
+],
+  "geometry": {"coordinates":[-108.50385900000001,45.773055],"type":"Point"}
 }

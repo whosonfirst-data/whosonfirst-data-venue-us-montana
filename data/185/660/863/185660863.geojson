@@ -2,13 +2,14 @@
   "id": 185660863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.203007,48.220201,-114.203007,48.220201",
     "geom:latitude":48.220201,
     "geom:longitude":-114.203007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2594 State Hwy 35",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185660863,
-    "wof:lastmodified":1449008058,
+    "wof:lastmodified":1466641382,
     "wof:name":"Timberline Tool",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "industry"
     ]
 },
-  "bbox": [-114.203007,48.220201,-114.203007,48.220201],
+  "bbox": [
+    -114.203007,
+    48.220201,
+    -114.203007,
+    48.220201
+],
   "geometry": {"coordinates":[-114.203007,48.220201],"type":"Point"}
 }

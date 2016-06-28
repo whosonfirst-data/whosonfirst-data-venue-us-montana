@@ -2,13 +2,14 @@
   "id": 186350879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.336686,48.411432,-114.336686,48.411432",
     "geom:latitude":48.411432,
     "geom:longitude":-114.336686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Central Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186350879,
-    "wof:lastmodified":1449051733,
+    "wof:lastmodified":1466642862,
     "wof:name":"3 JS Books",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.336686,48.411432,-114.336686,48.411432],
+  "bbox": [
+    -114.336686,
+    48.411432,
+    -114.336686,
+    48.411432
+],
   "geometry": {"coordinates":[-114.336686,48.411432],"type":"Point"}
 }

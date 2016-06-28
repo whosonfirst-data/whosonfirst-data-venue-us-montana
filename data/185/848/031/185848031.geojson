@@ -2,13 +2,14 @@
   "id": 185848031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.678708,48.550457,-109.678708,48.550457",
     "geom:latitude":48.550457,
     "geom:longitude":-109.678708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 4th St",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185848031,
-    "wof:lastmodified":1449006830,
+    "wof:lastmodified":1466641579,
     "wof:name":"County of Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-109.678708,48.550457,-109.678708,48.550457],
+  "bbox": [
+    -109.678708,
+    48.550457,
+    -109.678708,
+    48.550457
+],
   "geometry": {"coordinates":[-109.678708,48.550457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337278697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.027651,46.166098,-113.027651,46.166098",
     "geom:latitude":46.166098,
     "geom:longitude":-113.027651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 American Rd",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337278697,
-    "wof:lastmodified":1449027393,
+    "wof:lastmodified":1466641898,
     "wof:name":"Wilderness Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-113.027651,46.166098,-113.027651,46.166098],
-  "geometry": {"coordinates":[-113.027651,46.166098],"type":"Point"}
+  "bbox": [
+    -113.027651,
+    46.166098,
+    -113.027651,
+    46.166098
+],
+  "geometry": {"coordinates":[-113.02765100000001,46.166098],"type":"Point"}
 }

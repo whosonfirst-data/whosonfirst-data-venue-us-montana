@@ -2,13 +2,14 @@
   "id": 185831317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.376966,48.430327,-114.376966,48.430327",
     "geom:latitude":48.430327,
     "geom:longitude":-114.376966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1340 Lion Mountain Dr",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185831317,
-    "wof:lastmodified":1449007555,
+    "wof:lastmodified":1466641564,
     "wof:name":"Trails Unlimted",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.376966,48.430327,-114.376966,48.430327],
+  "bbox": [
+    -114.376966,
+    48.430327,
+    -114.376966,
+    48.430327
+],
   "geometry": {"coordinates":[-114.376966,48.430327],"type":"Point"}
 }

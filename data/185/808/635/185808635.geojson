@@ -2,13 +2,14 @@
   "id": 185808635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.550933,45.757304,-108.550933,45.757304",
     "geom:latitude":45.757304,
     "geom:longitude":-108.550933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Mac Arthur Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185808635,
-    "wof:lastmodified":1449006652,
+    "wof:lastmodified":1466641544,
     "wof:name":"Express Pawn",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-108.550933,45.757304,-108.550933,45.757304],
+  "bbox": [
+    -108.550933,
+    45.757304,
+    -108.550933,
+    45.757304
+],
   "geometry": {"coordinates":[-108.550933,45.757304],"type":"Point"}
 }

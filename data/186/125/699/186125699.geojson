@@ -2,13 +2,14 @@
   "id": 186125699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.513932,45.995635,-112.513932,45.995635",
     "geom:latitude":45.995635,
     "geom:longitude":-112.513932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1863 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186125699,
-    "wof:lastmodified":1449052941,
+    "wof:lastmodified":1466642239,
     "wof:name":"Angie's Beauty Salon",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.513932,45.995635,-112.513932,45.995635],
+  "bbox": [
+    -112.513932,
+    45.995635,
+    -112.513932,
+    45.995635
+],
   "geometry": {"coordinates":[-112.513932,45.995635],"type":"Point"}
 }

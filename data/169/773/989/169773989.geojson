@@ -2,13 +2,14 @@
   "id": 169773989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.547222,45.78999,-108.547222,45.78999",
     "geom:latitude":45.78999,
     "geom:longitude":-108.547222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Parkhill Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169773989,
-    "wof:lastmodified":1449033103,
+    "wof:lastmodified":1466641749,
     "wof:name":"Complete Service Co",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.547222,45.78999,-108.547222,45.78999],
+  "bbox": [
+    -108.547222,
+    45.78999,
+    -108.547222,
+    45.78999
+],
   "geometry": {"coordinates":[-108.547222,45.78999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185614455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.602832,45.733185,-107.602832,45.733185",
     "geom:latitude":45.733185,
     "geom:longitude":-107.602832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 N Crook Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185614455,
-    "wof:lastmodified":1449008274,
+    "wof:lastmodified":1466641197,
     "wof:name":"Human Resources Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-107.602832,45.733185,-107.602832,45.733185],
-  "geometry": {"coordinates":[-107.602832,45.733185],"type":"Point"}
+  "bbox": [
+    -107.602832,
+    45.733185,
+    -107.602832,
+    45.733185
+],
+  "geometry": {"coordinates":[-107.60283200000001,45.733185],"type":"Point"}
 }

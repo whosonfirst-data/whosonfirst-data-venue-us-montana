@@ -2,13 +2,14 @@
   "id": 185831315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.536554,46.01282,-112.536554,46.01282",
     "geom:latitude":46.01282,
     "geom:longitude":-112.536554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 W Park St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185831315,
-    "wof:lastmodified":1449007558,
+    "wof:lastmodified":1466641563,
     "wof:name":"Garden Of Beadin'",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beads"
     ]
 },
-  "bbox": [-112.536554,46.01282,-112.536554,46.01282],
+  "bbox": [
+    -112.536554,
+    46.01282,
+    -112.536554,
+    46.01282
+],
   "geometry": {"coordinates":[-112.536554,46.01282],"type":"Point"}
 }

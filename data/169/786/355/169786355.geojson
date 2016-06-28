@@ -2,13 +2,14 @@
   "id": 169786355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.276137,45.783148,-111.276137,45.783148",
     "geom:latitude":45.783148,
     "geom:longitude":-111.276137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3520 Heeb Rd",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169786355,
-    "wof:lastmodified":1449033114,
+    "wof:lastmodified":1466641248,
     "wof:name":"Bear Creek Angler Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-111.276137,45.783148,-111.276137,45.783148],
-  "geometry": {"coordinates":[-111.276137,45.783148],"type":"Point"}
+  "bbox": [
+    -111.276137,
+    45.783148,
+    -111.276137,
+    45.783148
+],
+  "geometry": {"coordinates":[-111.27613700000001,45.783148],"type":"Point"}
 }

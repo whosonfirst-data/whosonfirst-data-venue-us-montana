@@ -2,13 +2,14 @@
   "id": 185998267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.793884,47.340506,-104.793884,47.340506",
     "geom:latitude":47.340506,
     "geom:longitude":-104.793884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"482 Rd 521",
     "sg:city":"Bloomfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185998267,
-    "wof:lastmodified":1449007128,
+    "wof:lastmodified":1466641712,
     "wof:name":"Mary Nissley Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.793884,47.340506,-104.793884,47.340506],
-  "geometry": {"coordinates":[-104.793884,47.340506],"type":"Point"}
+  "bbox": [
+    -104.793884,
+    47.340506,
+    -104.793884,
+    47.340506
+],
+  "geometry": {"coordinates":[-104.79388400000001,47.340506],"type":"Point"}
 }

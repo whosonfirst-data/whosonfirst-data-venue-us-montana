@@ -2,13 +2,14 @@
   "id": 185947565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.648278,47.944683,-105.648278,47.944683",
     "geom:latitude":47.944683,
     "geom:longitude":-105.648278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1275 N Sand Creek Rd",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185947565,
-    "wof:lastmodified":1449007758,
+    "wof:lastmodified":1466641702,
     "wof:name":"Vine Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-105.648278,47.944683,-105.648278,47.944683],
+  "bbox": [
+    -105.648278,
+    47.944683,
+    -105.648278,
+    47.944683
+],
   "geometry": {"coordinates":[-105.648278,47.944683],"type":"Point"}
 }

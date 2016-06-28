@@ -2,13 +2,14 @@
   "id": 185720093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.346633,47.504843,-111.346633,47.504843",
     "geom:latitude":47.504843,
     "geom:longitude":-111.346633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 20th St SW",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185720093,
-    "wof:lastmodified":1449006992,
+    "wof:lastmodified":1466641773,
     "wof:name":"Hacketts Touch of Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-111.346633,47.504843,-111.346633,47.504843],
+  "bbox": [
+    -111.346633,
+    47.504843,
+    -111.346633,
+    47.504843
+],
   "geometry": {"coordinates":[-111.346633,47.504843],"type":"Point"}
 }

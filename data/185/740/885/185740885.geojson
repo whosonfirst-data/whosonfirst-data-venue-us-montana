@@ -2,13 +2,14 @@
   "id": 185740885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.673998,48.550795,-109.673998,48.550795",
     "geom:latitude":48.550795,
     "geom:longitude":-109.673998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 6th Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185740885,
-    "wof:lastmodified":1449007349,
+    "wof:lastmodified":1466641471,
     "wof:name":"P C Nursing Prn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-109.673998,48.550795,-109.673998,48.550795],
+  "bbox": [
+    -109.673998,
+    48.550795,
+    -109.673998,
+    48.550795
+],
   "geometry": {"coordinates":[-109.673998,48.550795],"type":"Point"}
 }

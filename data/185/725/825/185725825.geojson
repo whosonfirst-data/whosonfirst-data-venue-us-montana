@@ -2,13 +2,14 @@
   "id": 185725825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.441128,47.061041,-109.441128,47.061041",
     "geom:latitude":47.061041,
     "geom:longitude":-109.441128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Park St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185725825,
-    "wof:lastmodified":1449007002,
+    "wof:lastmodified":1466641451,
     "wof:name":"Gallagher Knife and Photo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-109.441128,47.061041,-109.441128,47.061041],
-  "geometry": {"coordinates":[-109.441128,47.061041],"type":"Point"}
+  "bbox": [
+    -109.441128,
+    47.061041,
+    -109.441128,
+    47.061041
+],
+  "geometry": {"coordinates":[-109.44112800000001,47.061041],"type":"Point"}
 }

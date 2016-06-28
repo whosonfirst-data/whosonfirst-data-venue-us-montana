@@ -2,13 +2,14 @@
   "id": 185665145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.541826,45.705812,-109.541826,45.705812",
     "geom:latitude":45.705812,
     "geom:longitude":-109.541826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Division St",
     "sg:city":"Reed Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185665145,
-    "wof:lastmodified":1449007099,
+    "wof:lastmodified":1466641380,
     "wof:name":"Reed Point Sinclair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-109.541826,45.705812,-109.541826,45.705812],
+  "bbox": [
+    -109.541826,
+    45.705812,
+    -109.541826,
+    45.705812
+],
   "geometry": {"coordinates":[-109.541826,45.705812],"type":"Point"}
 }

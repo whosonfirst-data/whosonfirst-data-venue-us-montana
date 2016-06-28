@@ -2,13 +2,14 @@
   "id": 169747237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.548865,45.800852,-108.548865,45.800852",
     "geom:latitude":45.800852,
     "geom:longitude":-108.548865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3114 Cactus Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169747237,
-    "wof:lastmodified":1449033288,
+    "wof:lastmodified":1466641181,
     "wof:name":"Rudy's Insulation Svc Inc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.548865,45.800852,-108.548865,45.800852],
-  "geometry": {"coordinates":[-108.548865,45.800852],"type":"Point"}
+  "bbox": [
+    -108.548865,
+    45.800852,
+    -108.548865,
+    45.800852
+],
+  "geometry": {"coordinates":[-108.54886500000001,45.800852],"type":"Point"}
 }

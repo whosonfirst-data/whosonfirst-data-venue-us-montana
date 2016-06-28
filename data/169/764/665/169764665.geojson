@@ -2,13 +2,14 @@
   "id": 169764665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.564306,45.796195,-108.564306,45.796195",
     "geom:latitude":45.796195,
     "geom:longitude":-108.564306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 Hoover Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169764665,
-    "wof:lastmodified":1449035803,
+    "wof:lastmodified":1466641212,
     "wof:name":"D R M A C",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-108.564306,45.796195,-108.564306,45.796195],
+  "bbox": [
+    -108.564306,
+    45.796195,
+    -108.564306,
+    45.796195
+],
   "geometry": {"coordinates":[-108.564306,45.796195],"type":"Point"}
 }

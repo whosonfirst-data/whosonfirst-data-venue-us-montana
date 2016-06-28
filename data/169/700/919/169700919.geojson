@@ -2,13 +2,14 @@
   "id": 169700919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.070218,47.547481,-114.070218,47.547481",
     "geom:latitude":47.547481,
     "geom:longitude":-114.070218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1192 N Foothills Dr",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169700919,
-    "wof:lastmodified":1449035670,
+    "wof:lastmodified":1466641152,
     "wof:name":"Richard Linse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.070218,47.547481,-114.070218,47.547481],
+  "bbox": [
+    -114.070218,
+    47.547481,
+    -114.070218,
+    47.547481
+],
   "geometry": {"coordinates":[-114.070218,47.547481],"type":"Point"}
 }

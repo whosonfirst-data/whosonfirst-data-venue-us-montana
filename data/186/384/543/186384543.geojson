@@ -2,13 +2,14 @@
   "id": 186384543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.178152,46.129764,-114.178152,46.129764",
     "geom:latitude":46.129764,
     "geom:longitude":-114.178152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1857 US Hwy 93 S",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186384543,
-    "wof:lastmodified":1449050625,
+    "wof:lastmodified":1466642909,
     "wof:name":"Rocky Mountain Lumber Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-114.178152,46.129764,-114.178152,46.129764],
+  "bbox": [
+    -114.178152,
+    46.129764,
+    -114.178152,
+    46.129764
+],
   "geometry": {"coordinates":[-114.178152,46.129764],"type":"Point"}
 }

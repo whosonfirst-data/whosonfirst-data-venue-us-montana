@@ -2,13 +2,14 @@
   "id": 185637459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.182921,45.672467,-111.182921,45.672467",
     "geom:latitude":45.672467,
     "geom:longitude":-111.182921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7710 Shedhorn Dr",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185637459,
-    "wof:lastmodified":1449006596,
+    "wof:lastmodified":1466641342,
     "wof:name":"Middle Creek Dental Care P C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dentist"
     ]
 },
-  "bbox": [-111.182921,45.672467,-111.182921,45.672467],
-  "geometry": {"coordinates":[-111.182921,45.672467],"type":"Point"}
+  "bbox": [
+    -111.182921,
+    45.672467,
+    -111.182921,
+    45.672467
+],
+  "geometry": {"coordinates":[-111.18292099999999,45.672467],"type":"Point"}
 }

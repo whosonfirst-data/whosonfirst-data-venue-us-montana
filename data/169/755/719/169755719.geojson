@@ -2,13 +2,14 @@
   "id": 169755719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.961784,46.910212,-104.961784,46.910212",
     "geom:latitude":46.910212,
     "geom:longitude":-104.961784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 Rd 261",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169755719,
-    "wof:lastmodified":1449033613,
+    "wof:lastmodified":1466641198,
     "wof:name":"K S Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-104.961784,46.910212,-104.961784,46.910212],
-  "geometry": {"coordinates":[-104.961784,46.910212],"type":"Point"}
+  "bbox": [
+    -104.961784,
+    46.910212,
+    -104.961784,
+    46.910212
+],
+  "geometry": {"coordinates":[-104.96178399999999,46.910212],"type":"Point"}
 }

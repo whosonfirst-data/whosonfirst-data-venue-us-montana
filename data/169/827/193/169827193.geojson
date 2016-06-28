@@ -2,13 +2,14 @@
   "id": 169827193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.943385,46.126537,-112.943385,46.126537",
     "geom:latitude":46.126537,
     "geom:longitude":-112.943385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 E 3rd St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169827193,
-    "wof:lastmodified":1449033871,
+    "wof:lastmodified":1466641293,
     "wof:name":"Center Stone Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.943385,46.126537,-112.943385,46.126537],
-  "geometry": {"coordinates":[-112.943385,46.126537],"type":"Point"}
+  "bbox": [
+    -112.943385,
+    46.126537,
+    -112.943385,
+    46.126537
+],
+  "geometry": {"coordinates":[-112.94338500000001,46.126537],"type":"Point"}
 }

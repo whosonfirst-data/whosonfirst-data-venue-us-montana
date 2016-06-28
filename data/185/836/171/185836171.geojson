@@ -2,13 +2,14 @@
   "id": 185836171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.507422,46.001787,-112.507422,46.001787",
     "geom:latitude":46.001787,
     "geom:longitude":-112.507422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Locust St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185836171,
-    "wof:lastmodified":1449007666,
+    "wof:lastmodified":1466641569,
     "wof:name":"Safe Man",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-112.507422,46.001787,-112.507422,46.001787],
-  "geometry": {"coordinates":[-112.507422,46.001787],"type":"Point"}
+  "bbox": [
+    -112.507422,
+    46.001787,
+    -112.507422,
+    46.001787
+],
+  "geometry": {"coordinates":[-112.50742200000001,46.001787],"type":"Point"}
 }

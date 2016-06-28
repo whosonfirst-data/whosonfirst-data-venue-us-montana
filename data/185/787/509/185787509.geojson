@@ -2,13 +2,14 @@
   "id": 185787509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.56062,45.661993,-110.56062,45.661993",
     "geom:latitude":45.661993,
     "geom:longitude":-110.56062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Main St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185787509,
-    "wof:lastmodified":1449007345,
+    "wof:lastmodified":1466641516,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-110.56062,45.661993,-110.56062,45.661993],
+  "bbox": [
+    -110.56062,
+    45.661993,
+    -110.56062,
+    45.661993
+],
   "geometry": {"coordinates":[-110.56062,45.661993],"type":"Point"}
 }

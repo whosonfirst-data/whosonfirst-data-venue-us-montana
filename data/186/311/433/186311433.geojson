@@ -2,13 +2,14 @@
   "id": 186311433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.081222,45.586146,-111.081222,45.586146",
     "geom:latitude":45.586146,
     "geom:longitude":-111.081222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9670 Forest Creek Dr",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186311433,
-    "wof:lastmodified":1449051025,
+    "wof:lastmodified":1466642636,
     "wof:name":"Integraseed LTD",
     "wof:parent_id":85891701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "seed"
     ]
 },
-  "bbox": [-111.081222,45.586146,-111.081222,45.586146],
+  "bbox": [
+    -111.081222,
+    45.586146,
+    -111.081222,
+    45.586146
+],
   "geometry": {"coordinates":[-111.081222,45.586146],"type":"Point"}
 }

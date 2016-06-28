@@ -2,13 +2,14 @@
   "id": 185622847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.636131,45.218701,-112.636131,45.218701",
     "geom:latitude":45.218701,
     "geom:longitude":-112.636131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 N Montana St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185622847,
-    "wof:lastmodified":1449007937,
+    "wof:lastmodified":1466641229,
     "wof:name":"Hair Care Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.636131,45.218701,-112.636131,45.218701],
-  "geometry": {"coordinates":[-112.636131,45.218701],"type":"Point"}
+  "bbox": [
+    -112.636131,
+    45.218701,
+    -112.636131,
+    45.218701
+],
+  "geometry": {"coordinates":[-112.63613100000001,45.218701],"type":"Point"}
 }

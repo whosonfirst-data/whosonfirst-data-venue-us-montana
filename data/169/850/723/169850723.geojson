@@ -2,13 +2,14 @@
   "id": 169850723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.668503,47.608889,-114.668503,47.608889",
     "geom:latitude":47.608889,
     "geom:longitude":-114.668503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E Broadway",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169850723,
-    "wof:lastmodified":1449034601,
+    "wof:lastmodified":1466641336,
     "wof:name":"Mission Valley Power",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.668503,47.608889,-114.668503,47.608889],
+  "bbox": [
+    -114.668503,
+    47.608889,
+    -114.668503,
+    47.608889
+],
   "geometry": {"coordinates":[-114.668503,47.608889],"type":"Point"}
 }

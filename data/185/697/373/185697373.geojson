@@ -2,13 +2,14 @@
   "id": 185697373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.4591,45.888167,-108.4591,45.888167",
     "geom:latitude":45.888167,
     "geom:longitude":-108.4591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4907 Country View Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185697373,
-    "wof:lastmodified":1449007616,
+    "wof:lastmodified":1466641419,
     "wof:name":"Integrity Transportation",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-108.4591,45.888167,-108.4591,45.888167],
-  "geometry": {"coordinates":[-108.4591,45.888167],"type":"Point"}
+  "bbox": [
+    -108.4591,
+    45.888167,
+    -108.4591,
+    45.888167
+],
+  "geometry": {"coordinates":[-108.45910000000001,45.888167],"type":"Point"}
 }

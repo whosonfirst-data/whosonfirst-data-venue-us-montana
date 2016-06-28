@@ -2,13 +2,14 @@
   "id": 185649491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.009797,48.548193,-113.009797,48.548193",
     "geom:latitude":48.548193,
     "geom:longitude":-113.009797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 US Hwy 89",
     "sg:city":"Browning",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185649491,
-    "wof:lastmodified":1449007682,
+    "wof:lastmodified":1466641368,
     "wof:name":"Mad Wolf LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-113.009797,48.548193,-113.009797,48.548193],
-  "geometry": {"coordinates":[-113.009797,48.548193],"type":"Point"}
+  "bbox": [
+    -113.009797,
+    48.548193,
+    -113.009797,
+    48.548193
+],
+  "geometry": {"coordinates":[-113.00979700000001,48.548193],"type":"Point"}
 }

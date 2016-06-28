@@ -2,13 +2,14 @@
   "id": 186337855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.934572,46.646084,-111.934572,46.646084",
     "geom:latitude":46.646084,
     "geom:longitude":-111.934572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3031 York Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186337855,
-    "wof:lastmodified":1449051641,
+    "wof:lastmodified":1466642694,
     "wof:name":"Quik Pik Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.934572,46.646084,-111.934572,46.646084],
+  "bbox": [
+    -111.934572,
+    46.646084,
+    -111.934572,
+    46.646084
+],
   "geometry": {"coordinates":[-111.934572,46.646084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185913439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.549463,46.017633,-112.549463,46.017633",
     "geom:latitude":46.017633,
     "geom:longitude":-112.549463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 N Excelsior Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185913439,
-    "wof:lastmodified":1449007233,
+    "wof:lastmodified":1466641652,
     "wof:name":"Jordan Contracting",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.549463,46.017633,-112.549463,46.017633],
+  "bbox": [
+    -112.549463,
+    46.017633,
+    -112.549463,
+    46.017633
+],
   "geometry": {"coordinates":[-112.549463,46.017633],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186305735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.629243,45.782753,-108.629243,45.782753",
     "geom:latitude":45.782753,
     "geom:longitude":-108.629243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1275 Cloverleaf Pl",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186305735,
-    "wof:lastmodified":1449050806,
+    "wof:lastmodified":1466642627,
     "wof:name":"Toepfer Concrete Inc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-108.629243,45.782753,-108.629243,45.782753],
+  "bbox": [
+    -108.629243,
+    45.782753,
+    -108.629243,
+    45.782753
+],
   "geometry": {"coordinates":[-108.629243,45.782753],"type":"Point"}
 }

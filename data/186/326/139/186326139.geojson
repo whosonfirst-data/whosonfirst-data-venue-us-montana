@@ -2,13 +2,14 @@
   "id": 186326139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.491762,45.829829,-108.491762,45.829829",
     "geom:latitude":45.829829,
     "geom:longitude":-108.491762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Glenhaven Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186326139,
-    "wof:lastmodified":1449051514,
+    "wof:lastmodified":1466642415,
     "wof:name":"Future Sync",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-108.491762,45.829829,-108.491762,45.829829],
-  "geometry": {"coordinates":[-108.491762,45.829829],"type":"Point"}
+  "bbox": [
+    -108.491762,
+    45.829829,
+    -108.491762,
+    45.829829
+],
+  "geometry": {"coordinates":[-108.49176199999999,45.829829],"type":"Point"}
 }

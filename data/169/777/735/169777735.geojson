@@ -2,13 +2,14 @@
   "id": 169777735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020505,46.600658,-112.020505,46.600658",
     "geom:latitude":46.600658,
     "geom:longitude":-112.020505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 N Montana Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169777735,
-    "wof:lastmodified":1449034429,
+    "wof:lastmodified":1466641751,
     "wof:name":"Value Auto Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-112.020505,46.600658,-112.020505,46.600658],
+  "bbox": [
+    -112.020505,
+    46.600658,
+    -112.020505,
+    46.600658
+],
   "geometry": {"coordinates":[-112.020505,46.600658],"type":"Point"}
 }

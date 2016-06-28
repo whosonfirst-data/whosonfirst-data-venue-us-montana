@@ -2,13 +2,14 @@
   "id": 185627729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.638992,48.090675,-105.638992,48.090675",
     "geom:latitude":48.090675,
     "geom:longitude":-105.638992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Main St",
     "sg:city":"Wolf Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185627729,
-    "wof:lastmodified":1449008253,
+    "wof:lastmodified":1466641765,
     "wof:name":"Basket Of Hope Food Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "banks"
     ]
 },
-  "bbox": [-105.638992,48.090675,-105.638992,48.090675],
+  "bbox": [
+    -105.638992,
+    48.090675,
+    -105.638992,
+    48.090675
+],
   "geometry": {"coordinates":[-105.638992,48.090675],"type":"Point"}
 }

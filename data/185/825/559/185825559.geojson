@@ -2,13 +2,14 @@
   "id": 185825559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.05394,45.663856,-111.05394,45.663856",
     "geom:latitude":45.663856,
     "geom:longitude":-111.05394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Tai Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185825559,
-    "wof:lastmodified":1449006641,
+    "wof:lastmodified":1466641560,
     "wof:name":"Grannys Gormet Donuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.05394,45.663856,-111.05394,45.663856],
+  "bbox": [
+    -111.05394,
+    45.663856,
+    -111.05394,
+    45.663856
+],
   "geometry": {"coordinates":[-111.05394,45.663856],"type":"Point"}
 }

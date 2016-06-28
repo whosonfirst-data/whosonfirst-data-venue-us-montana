@@ -2,13 +2,14 @@
   "id": 186101097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.157242,47.785203,-112.157242,47.785203",
     "geom:latitude":47.785203,
     "geom:longitude":-112.157242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Miller Ln",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186101097,
-    "wof:lastmodified":1449051785,
+    "wof:lastmodified":1466641977,
     "wof:name":"Wier Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigerating"
     ]
 },
-  "bbox": [-112.157242,47.785203,-112.157242,47.785203],
+  "bbox": [
+    -112.157242,
+    47.785203,
+    -112.157242,
+    47.785203
+],
   "geometry": {"coordinates":[-112.157242,47.785203],"type":"Point"}
 }

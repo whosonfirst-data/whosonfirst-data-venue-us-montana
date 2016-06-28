@@ -2,13 +2,14 @@
   "id": 185605109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.02906,46.598091,-112.02906,46.598091",
     "geom:latitude":46.598091,
     "geom:longitude":-112.02906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E Lyndale Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185605109,
-    "wof:lastmodified":1449007415,
+    "wof:lastmodified":1466641174,
     "wof:name":"Carriage Hse Bistro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.02906,46.598091,-112.02906,46.598091],
+  "bbox": [
+    -112.02906,
+    46.598091,
+    -112.02906,
+    46.598091
+],
   "geometry": {"coordinates":[-112.02906,46.598091],"type":"Point"}
 }

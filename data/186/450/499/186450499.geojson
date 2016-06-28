@@ -2,13 +2,14 @@
   "id": 186450499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.558426,46.006966,-112.558426,46.006966",
     "geom:latitude":46.006966,
     "geom:longitude":-112.558426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 W Platinum St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186450499,
-    "wof:lastmodified":1449052593,
+    "wof:lastmodified":1466643014,
     "wof:name":"Charlies New Deal Bar",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-112.558426,46.006966,-112.558426,46.006966],
+  "bbox": [
+    -112.558426,
+    46.006966,
+    -112.558426,
+    46.006966
+],
   "geometry": {"coordinates":[-112.558426,46.006966],"type":"Point"}
 }

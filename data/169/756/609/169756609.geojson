@@ -2,13 +2,14 @@
   "id": 169756609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.566374,45.799403,-108.566374,45.799403",
     "geom:latitude":45.799403,
     "geom:longitude":-108.566374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Silverwood St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169756609,
-    "wof:lastmodified":1449034662,
+    "wof:lastmodified":1466641200,
     "wof:name":"Abrams Rentals",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.566374,45.799403,-108.566374,45.799403],
+  "bbox": [
+    -108.566374,
+    45.799403,
+    -108.566374,
+    45.799403
+],
   "geometry": {"coordinates":[-108.566374,45.799403],"type":"Point"}
 }

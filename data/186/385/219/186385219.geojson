@@ -2,13 +2,14 @@
   "id": 186385219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.50644,45.782857,-108.50644,45.782857",
     "geom:latitude":45.782857,
     "geom:longitude":-108.50644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 N 28th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186385219,
-    "wof:lastmodified":1449051963,
+    "wof:lastmodified":1466642904,
     "wof:name":"Creoles",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.50644,45.782857,-108.50644,45.782857],
+  "bbox": [
+    -108.50644,
+    45.782857,
+    -108.50644,
+    45.782857
+],
   "geometry": {"coordinates":[-108.50644,45.782857],"type":"Point"}
 }

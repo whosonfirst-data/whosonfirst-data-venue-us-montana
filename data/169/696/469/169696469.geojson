@@ -2,13 +2,14 @@
   "id": 169696469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.560038,45.656356,-110.560038,45.656356",
     "geom:latitude":45.656356,
     "geom:longitude":-110.560038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 S Yellowstone St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169696469,
-    "wof:lastmodified":1449032923,
+    "wof:lastmodified":1466641147,
     "wof:name":"Johns Home Repair LLC",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-110.560038,45.656356,-110.560038,45.656356],
-  "geometry": {"coordinates":[-110.560038,45.656356],"type":"Point"}
+  "bbox": [
+    -110.560038,
+    45.656356,
+    -110.560038,
+    45.656356
+],
+  "geometry": {"coordinates":[-110.56003800000001,45.656356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186158935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.027605,46.443473,-114.027605,46.443473",
     "geom:latitude":46.443473,
     "geom:longitude":-114.027605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"852 Willoughby Ln",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186158935,
-    "wof:lastmodified":1449052156,
+    "wof:lastmodified":1466642136,
     "wof:name":"Country Caboose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [-114.027605,46.443473,-114.027605,46.443473],
-  "geometry": {"coordinates":[-114.027605,46.443473],"type":"Point"}
+  "bbox": [
+    -114.027605,
+    46.443473,
+    -114.027605,
+    46.443473
+],
+  "geometry": {"coordinates":[-114.02760499999999,46.443473],"type":"Point"}
 }

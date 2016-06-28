@@ -2,13 +2,14 @@
   "id": 169785341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.175471,48.299049,-114.175471,48.299049",
     "geom:latitude":48.299049,
     "geom:longitude":-114.175471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2342 Middle Rd",
     "sg:city":"Columbia Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169785341,
-    "wof:lastmodified":1449035398,
+    "wof:lastmodified":1466641243,
     "wof:name":"Majestic Mountain Gutters",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-114.175471,48.299049,-114.175471,48.299049],
+  "bbox": [
+    -114.175471,
+    48.299049,
+    -114.175471,
+    48.299049
+],
   "geometry": {"coordinates":[-114.175471,48.299049],"type":"Point"}
 }

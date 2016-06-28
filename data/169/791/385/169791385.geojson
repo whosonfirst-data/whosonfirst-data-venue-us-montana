@@ -2,13 +2,14 @@
   "id": 169791385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.615444,45.73225,-107.615444,45.73225",
     "geom:latitude":45.73225,
     "geom:longitude":-107.615444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 4th St W",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169791385,
-    "wof:lastmodified":1449035192,
+    "wof:lastmodified":1466641251,
     "wof:name":"Norby Drywall & Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-107.615444,45.73225,-107.615444,45.73225],
+  "bbox": [
+    -107.615444,
+    45.73225,
+    -107.615444,
+    45.73225
+],
   "geometry": {"coordinates":[-107.615444,45.73225],"type":"Point"}
 }

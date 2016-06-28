@@ -2,13 +2,14 @@
   "id": 186231899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.141937,46.19797,-114.141937,46.19797",
     "geom:latitude":46.19797,
     "geom:longitude":-114.141937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Grantsdale Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186231899,
-    "wof:lastmodified":1449051740,
+    "wof:lastmodified":1466642669,
     "wof:name":"Norm's Satellite & Comm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-114.141937,46.19797,-114.141937,46.19797],
+  "bbox": [
+    -114.141937,
+    46.19797,
+    -114.141937,
+    46.19797
+],
   "geometry": {"coordinates":[-114.141937,46.19797],"type":"Point"}
 }

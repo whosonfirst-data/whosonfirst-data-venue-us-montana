@@ -2,13 +2,14 @@
   "id": 186155943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.095751,48.141103,-114.095751,48.141103",
     "geom:latitude":48.141103,
     "geom:longitude":-114.095751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3122 Parkwood Ln",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186155943,
-    "wof:lastmodified":1449052535,
+    "wof:lastmodified":1466642284,
     "wof:name":"Parkwood Construction",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "septic"
     ]
 },
-  "bbox": [-114.095751,48.141103,-114.095751,48.141103],
-  "geometry": {"coordinates":[-114.095751,48.141103],"type":"Point"}
+  "bbox": [
+    -114.095751,
+    48.141103,
+    -114.095751,
+    48.141103
+],
+  "geometry": {"coordinates":[-114.09575100000001,48.141103],"type":"Point"}
 }

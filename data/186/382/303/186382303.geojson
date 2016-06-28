@@ -2,13 +2,14 @@
   "id": 186382303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.594665,45.792361,-108.594665,45.792361",
     "geom:latitude":45.792361,
     "geom:longitude":-108.594665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3125 Boulder Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186382303,
-    "wof:lastmodified":1449051094,
+    "wof:lastmodified":1466642815,
     "wof:name":"Billings Heating & Cooling",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "ref"
     ]
 },
-  "bbox": [-108.594665,45.792361,-108.594665,45.792361],
-  "geometry": {"coordinates":[-108.594665,45.792361],"type":"Point"}
+  "bbox": [
+    -108.594665,
+    45.792361,
+    -108.594665,
+    45.792361
+],
+  "geometry": {"coordinates":[-108.59466500000001,45.792361],"type":"Point"}
 }

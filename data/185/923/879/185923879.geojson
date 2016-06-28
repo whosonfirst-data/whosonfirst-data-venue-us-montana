@@ -2,13 +2,14 @@
   "id": 185923879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.500154,48.499389,-104.500154,48.499389",
     "geom:latitude":48.499389,
     "geom:longitude":-104.500154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Hammond St",
     "sg:city":"Medicine Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185923879,
-    "wof:lastmodified":1449008133,
+    "wof:lastmodified":1466641672,
     "wof:name":"Hendrickson Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-104.500154,48.499389,-104.500154,48.499389],
-  "geometry": {"coordinates":[-104.500154,48.499389],"type":"Point"}
+  "bbox": [
+    -104.500154,
+    48.499389,
+    -104.500154,
+    48.499389
+],
+  "geometry": {"coordinates":[-104.50015399999999,48.499389],"type":"Point"}
 }

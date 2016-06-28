@@ -2,13 +2,14 @@
   "id": 185949037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.159478,47.716856,-104.159478,47.716856",
     "geom:latitude":47.716856,
     "geom:longitude":-104.159478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 3rd Ave NW",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185949037,
-    "wof:lastmodified":1449007605,
+    "wof:lastmodified":1466641789,
     "wof:name":"Richland County Disaster Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "order"
     ]
 },
-  "bbox": [-104.159478,47.716856,-104.159478,47.716856],
-  "geometry": {"coordinates":[-104.159478,47.716856],"type":"Point"}
+  "bbox": [
+    -104.159478,
+    47.716856,
+    -104.159478,
+    47.716856
+],
+  "geometry": {"coordinates":[-104.15947799999999,47.716856],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186034853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.600615,45.752351,-108.600615,45.752351",
     "geom:latitude":45.752351,
     "geom:longitude":-108.600615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Plumcreek Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186034853,
-    "wof:lastmodified":1449050546,
+    "wof:lastmodified":1466641693,
     "wof:name":"D J Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-108.600615,45.752351,-108.600615,45.752351],
+  "bbox": [
+    -108.600615,
+    45.752351,
+    -108.600615,
+    45.752351
+],
   "geometry": {"coordinates":[-108.600615,45.752351],"type":"Point"}
 }

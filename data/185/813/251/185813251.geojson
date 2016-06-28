@@ -2,13 +2,14 @@
   "id": 185813251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.547627,45.746365,-108.547627,45.746365",
     "geom:latitude":45.746365,
     "geom:longitude":-108.547627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1291 Weil St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185813251,
-    "wof:lastmodified":1449007020,
+    "wof:lastmodified":1466641544,
     "wof:name":"Pape Material Handling",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "handling"
     ]
 },
-  "bbox": [-108.547627,45.746365,-108.547627,45.746365],
-  "geometry": {"coordinates":[-108.547627,45.746365],"type":"Point"}
+  "bbox": [
+    -108.547627,
+    45.746365,
+    -108.547627,
+    45.746365
+],
+  "geometry": {"coordinates":[-108.54762700000001,45.746365],"type":"Point"}
 }

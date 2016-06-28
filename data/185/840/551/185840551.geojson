@@ -2,13 +2,14 @@
   "id": 185840551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.5563,45.778785,-108.5563,45.778785",
     "geom:latitude":45.778785,
     "geom:longitude":-108.5563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 16th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185840551,
-    "wof:lastmodified":1449007871,
+    "wof:lastmodified":1466641576,
     "wof:name":"Je T'Aime Bridals & Formal",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bridal"
     ]
 },
-  "bbox": [-108.5563,45.778785,-108.5563,45.778785],
-  "geometry": {"coordinates":[-108.5563,45.778785],"type":"Point"}
+  "bbox": [
+    -108.5563,
+    45.778785,
+    -108.5563,
+    45.778785
+],
+  "geometry": {"coordinates":[-108.55629999999999,45.778785],"type":"Point"}
 }

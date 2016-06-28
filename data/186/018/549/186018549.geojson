@@ -2,13 +2,14 @@
   "id": 186018549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.066929,45.674654,-111.066929,45.674654",
     "geom:latitude":45.674654,
     "geom:longitude":-111.066929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2245 W Koch St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186018549,
-    "wof:lastmodified":1449051715,
+    "wof:lastmodified":1466641431,
     "wof:name":"Harris and Weiel Fincl Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.066929,45.674654,-111.066929,45.674654],
+  "bbox": [
+    -111.066929,
+    45.674654,
+    -111.066929,
+    45.674654
+],
   "geometry": {"coordinates":[-111.066929,45.674654],"type":"Point"}
 }

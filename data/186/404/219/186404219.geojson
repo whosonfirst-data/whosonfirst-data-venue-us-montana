@@ -2,13 +2,14 @@
   "id": 186404219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.615679,47.61606,-114.615679,47.61606",
     "geom:latitude":47.61606,
     "geom:longitude":-114.615679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Little Bitterroot Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186404219,
-    "wof:lastmodified":1449052149,
+    "wof:lastmodified":1466642735,
     "wof:name":"Sanders County Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.615679,47.61606,-114.615679,47.61606],
+  "bbox": [
+    -114.615679,
+    47.61606,
+    -114.615679,
+    47.61606
+],
   "geometry": {"coordinates":[-114.615679,47.61606],"type":"Point"}
 }

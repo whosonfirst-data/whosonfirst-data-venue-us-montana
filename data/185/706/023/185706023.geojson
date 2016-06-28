@@ -2,13 +2,14 @@
   "id": 185706023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.417553,47.207148,-111.417553,47.207148",
     "geom:latitude":47.207148,
     "geom:longitude":-111.417553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2048 Millegan Rd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185706023,
-    "wof:lastmodified":1449006718,
+    "wof:lastmodified":1466641772,
     "wof:name":"Carlile Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-111.417553,47.207148,-111.417553,47.207148],
+  "bbox": [
+    -111.417553,
+    47.207148,
+    -111.417553,
+    47.207148
+],
   "geometry": {"coordinates":[-111.417553,47.207148],"type":"Point"}
 }

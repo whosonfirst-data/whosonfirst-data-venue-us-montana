@@ -2,13 +2,14 @@
   "id": 169824425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.308855,47.544216,-114.308855,47.544216",
     "geom:latitude":47.544216,
     "geom:longitude":-114.308855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9040 Horte Ln",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169824425,
-    "wof:lastmodified":1449033865,
+    "wof:lastmodified":1466641295,
     "wof:name":"Clearwater Guest Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "camp"
     ]
 },
-  "bbox": [-114.308855,47.544216,-114.308855,47.544216],
-  "geometry": {"coordinates":[-114.308855,47.544216],"type":"Point"}
+  "bbox": [
+    -114.308855,
+    47.544216,
+    -114.308855,
+    47.544216
+],
+  "geometry": {"coordinates":[-114.30885499999999,47.544216],"type":"Point"}
 }

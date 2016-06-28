@@ -2,13 +2,14 @@
   "id": 186346375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.972899,46.56644,-113.972899,46.56644",
     "geom:latitude":46.56644,
     "geom:longitude":-113.972899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1153 Hanlan Ln",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186346375,
-    "wof:lastmodified":1449050238,
+    "wof:lastmodified":1466642552,
     "wof:name":"Matthew D Pendergast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-113.972899,46.56644,-113.972899,46.56644],
+  "bbox": [
+    -113.972899,
+    46.56644,
+    -113.972899,
+    46.56644
+],
   "geometry": {"coordinates":[-113.972899,46.56644],"type":"Point"}
 }

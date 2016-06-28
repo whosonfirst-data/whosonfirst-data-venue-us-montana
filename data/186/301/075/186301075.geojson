@@ -2,13 +2,14 @@
   "id": 186301075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.604493,45.732451,-107.604493,45.732451",
     "geom:latitude":45.732451,
     "geom:longitude":-107.604493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 N Cheyenne Ave",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186301075,
-    "wof:lastmodified":1449051080,
+    "wof:lastmodified":1466642614,
     "wof:name":"Water Accounting Ofcity Hardin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.604493,45.732451,-107.604493,45.732451],
-  "geometry": {"coordinates":[-107.604493,45.732451],"type":"Point"}
+  "bbox": [
+    -107.604493,
+    45.732451,
+    -107.604493,
+    45.732451
+],
+  "geometry": {"coordinates":[-107.60449300000001,45.732451],"type":"Point"}
 }

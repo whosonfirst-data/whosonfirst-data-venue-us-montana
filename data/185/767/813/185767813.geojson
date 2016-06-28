@@ -2,13 +2,14 @@
   "id": 185767813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.847764,46.421436,-105.847764,46.421436",
     "geom:latitude":46.421436,
     "geom:longitude":-105.847764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Alice St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185767813,
-    "wof:lastmodified":1449007077,
+    "wof:lastmodified":1466641500,
     "wof:name":"Caring Hands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.847764,46.421436,-105.847764,46.421436],
+  "bbox": [
+    -105.847764,
+    46.421436,
+    -105.847764,
+    46.421436
+],
   "geometry": {"coordinates":[-105.847764,46.421436],"type":"Point"}
 }

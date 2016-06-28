@@ -2,13 +2,14 @@
   "id": 186231549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.008398,48.123968,-114.008398,48.123968",
     "geom:latitude":48.123968,
     "geom:longitude":-114.008398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"296 Black Bear Ln",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186231549,
-    "wof:lastmodified":1449051738,
+    "wof:lastmodified":1466642492,
     "wof:name":"Carpenters Plus",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-114.008398,48.123968,-114.008398,48.123968],
+  "bbox": [
+    -114.008398,
+    48.123968,
+    -114.008398,
+    48.123968
+],
   "geometry": {"coordinates":[-114.008398,48.123968],"type":"Point"}
 }

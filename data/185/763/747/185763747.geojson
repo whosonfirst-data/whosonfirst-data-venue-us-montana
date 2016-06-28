@@ -2,13 +2,14 @@
   "id": 185763747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.664876,47.608911,-114.664876,47.608911",
     "geom:latitude":47.608911,
     "geom:longitude":-114.664876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Broadway Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185763747,
-    "wof:lastmodified":1449008199,
+    "wof:lastmodified":1466641494,
     "wof:name":"Hot Springs High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.664876,47.608911,-114.664876,47.608911],
-  "geometry": {"coordinates":[-114.664876,47.608911],"type":"Point"}
+  "bbox": [
+    -114.664876,
+    47.608911,
+    -114.664876,
+    47.608911
+],
+  "geometry": {"coordinates":[-114.66487600000001,47.608911],"type":"Point"}
 }

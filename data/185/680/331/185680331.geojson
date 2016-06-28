@@ -2,13 +2,14 @@
   "id": 185680331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.434388,47.059827,-109.434388,47.059827",
     "geom:latitude":47.059827,
     "geom:longitude":-109.434388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W Main St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185680331,
-    "wof:lastmodified":1449007724,
+    "wof:lastmodified":1466641396,
     "wof:name":"Triangle Motel & Gun Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-109.434388,47.059827,-109.434388,47.059827],
+  "bbox": [
+    -109.434388,
+    47.059827,
+    -109.434388,
+    47.059827
+],
   "geometry": {"coordinates":[-109.434388,47.059827],"type":"Point"}
 }

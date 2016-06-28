@@ -2,13 +2,14 @@
   "id": 185833551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.495964,45.790656,-108.495964,45.790656",
     "geom:latitude":45.790656,
     "geom:longitude":-108.495964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 4th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185833551,
-    "wof:lastmodified":1449006804,
+    "wof:lastmodified":1466641572,
     "wof:name":"Starter Alternator Specialists",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-108.495964,45.790656,-108.495964,45.790656],
+  "bbox": [
+    -108.495964,
+    45.790656,
+    -108.495964,
+    45.790656
+],
   "geometry": {"coordinates":[-108.495964,45.790656],"type":"Point"}
 }

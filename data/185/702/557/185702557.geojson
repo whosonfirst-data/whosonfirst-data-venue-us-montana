@@ -2,13 +2,14 @@
   "id": 185702557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.053823,45.672254,-111.053823,45.672254",
     "geom:latitude":45.672254,
     "geom:longitude":-111.053823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 W Alderson St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185702557,
-    "wof:lastmodified":1449007431,
+    "wof:lastmodified":1466641425,
     "wof:name":"Income Tax Office",
     "wof:parent_id":85876465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-111.053823,45.672254,-111.053823,45.672254],
-  "geometry": {"coordinates":[-111.053823,45.672254],"type":"Point"}
+  "bbox": [
+    -111.053823,
+    45.672254,
+    -111.053823,
+    45.672254
+],
+  "geometry": {"coordinates":[-111.05382299999999,45.672254],"type":"Point"}
 }

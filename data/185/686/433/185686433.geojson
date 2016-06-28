@@ -2,13 +2,14 @@
   "id": 185686433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.522898,45.785881,-108.522898,45.785881",
     "geom:latitude":45.785881,
     "geom:longitude":-108.522898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 3rd St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185686433,
-    "wof:lastmodified":1449007834,
+    "wof:lastmodified":1466641407,
     "wof:name":"Sonju Signing Service",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.522898,45.785881,-108.522898,45.785881],
+  "bbox": [
+    -108.522898,
+    45.785881,
+    -108.522898,
+    45.785881
+],
   "geometry": {"coordinates":[-108.522898,45.785881],"type":"Point"}
 }

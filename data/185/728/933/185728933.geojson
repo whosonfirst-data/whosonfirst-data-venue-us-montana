@@ -2,13 +2,14 @@
   "id": 185728933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.096932,48.134368,-114.096932,48.134368",
     "geom:latitude":48.134368,
     "geom:longitude":-114.096932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6460 State Hwy 35",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185728933,
-    "wof:lastmodified":1449006988,
+    "wof:lastmodified":1466641457,
     "wof:name":"R D J Brothers Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.096932,48.134368,-114.096932,48.134368],
+  "bbox": [
+    -114.096932,
+    48.134368,
+    -114.096932,
+    48.134368
+],
   "geometry": {"coordinates":[-114.096932,48.134368],"type":"Point"}
 }

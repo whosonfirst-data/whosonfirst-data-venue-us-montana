@@ -2,13 +2,14 @@
   "id": 185643031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.676888,48.841571,-115.676888,48.841571",
     "geom:latitude":48.841571,
     "geom:longitude":-115.676888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30117 Yaak River Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185643031,
-    "wof:lastmodified":1449008002,
+    "wof:lastmodified":1466641355,
     "wof:name":"Yaak Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "administrative"
     ]
 },
-  "bbox": [-115.676888,48.841571,-115.676888,48.841571],
-  "geometry": {"coordinates":[-115.676888,48.841571],"type":"Point"}
+  "bbox": [
+    -115.676888,
+    48.841571,
+    -115.676888,
+    48.841571
+],
+  "geometry": {"coordinates":[-115.67688800000001,48.841571],"type":"Point"}
 }

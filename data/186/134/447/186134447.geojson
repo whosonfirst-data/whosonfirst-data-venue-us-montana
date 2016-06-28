@@ -2,13 +2,14 @@
   "id": 186134447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.406872,45.438582,-105.406872,45.438582",
     "geom:latitude":45.438582,
     "geom:longitude":-105.406872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Lincoln Ave",
     "sg:city":"Broadus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186134447,
-    "wof:lastmodified":1449052885,
+    "wof:lastmodified":1466642095,
     "wof:name":"Trumps Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-105.406872,45.438582,-105.406872,45.438582],
-  "geometry": {"coordinates":[-105.406872,45.438582],"type":"Point"}
+  "bbox": [
+    -105.406872,
+    45.438582,
+    -105.406872,
+    45.438582
+],
+  "geometry": {"coordinates":[-105.40687200000001,45.438582],"type":"Point"}
 }

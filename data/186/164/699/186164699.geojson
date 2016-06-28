@@ -2,13 +2,14 @@
   "id": 186164699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.007995,46.855384,-114.007995,46.855384",
     "geom:latitude":46.855384,
     "geom:longitude":-114.007995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Brooks St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186164699,
-    "wof:lastmodified":1449050568,
+    "wof:lastmodified":1466642143,
     "wof:name":"Cornerstone Home Mortgage",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-114.007995,46.855384,-114.007995,46.855384],
-  "geometry": {"coordinates":[-114.007995,46.855384],"type":"Point"}
+  "bbox": [
+    -114.007995,
+    46.855384,
+    -114.007995,
+    46.855384
+],
+  "geometry": {"coordinates":[-114.00799499999999,46.855384],"type":"Point"}
 }

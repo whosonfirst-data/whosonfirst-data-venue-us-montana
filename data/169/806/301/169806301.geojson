@@ -2,13 +2,14 @@
   "id": 169806301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.511795,45.784267,-108.511795,45.784267",
     "geom:latitude":45.784267,
     "geom:longitude":-108.511795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 N 30th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169806301,
-    "wof:lastmodified":1449032675,
+    "wof:lastmodified":1466641273,
     "wof:name":"Gianan's Flowers",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.511795,45.784267,-108.511795,45.784267],
-  "geometry": {"coordinates":[-108.511795,45.784267],"type":"Point"}
+  "bbox": [
+    -108.511795,
+    45.784267,
+    -108.511795,
+    45.784267
+],
+  "geometry": {"coordinates":[-108.51179500000001,45.784267],"type":"Point"}
 }

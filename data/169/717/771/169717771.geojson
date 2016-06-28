@@ -2,13 +2,14 @@
   "id": 169717771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.699282,45.82257,-108.699282,45.82257",
     "geom:latitude":45.82257,
     "geom:longitude":-108.699282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7235 Charolais St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169717771,
-    "wof:lastmodified":1449032774,
+    "wof:lastmodified":1466641727,
     "wof:name":"FN Ramseier Consulting Inc",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "field"
     ]
 },
-  "bbox": [-108.699282,45.82257,-108.699282,45.82257],
+  "bbox": [
+    -108.699282,
+    45.82257,
+    -108.699282,
+    45.82257
+],
   "geometry": {"coordinates":[-108.699282,45.82257],"type":"Point"}
 }

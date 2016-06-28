@@ -2,13 +2,14 @@
   "id": 169794051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.63838,45.216887,-112.63838,45.216887",
     "geom:latitude":45.216887,
     "geom:longitude":-112.63838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 E Glendale St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169794051,
-    "wof:lastmodified":1449034268,
+    "wof:lastmodified":1466641757,
     "wof:name":"Allied Signal Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-112.63838,45.216887,-112.63838,45.216887],
+  "bbox": [
+    -112.63838,
+    45.216887,
+    -112.63838,
+    45.216887
+],
   "geometry": {"coordinates":[-112.63838,45.216887],"type":"Point"}
 }

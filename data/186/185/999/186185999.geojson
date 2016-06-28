@@ -2,13 +2,14 @@
   "id": 186185999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.049373,46.823164,-114.049373,46.823164",
     "geom:latitude":46.823164,
     "geom:longitude":-114.049373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Upper Miller Creek Rd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186185999,
-    "wof:lastmodified":1449050854,
+    "wof:lastmodified":1466642209,
     "wof:name":"Montana Cnsrvtion Science Inst",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-114.049373,46.823164,-114.049373,46.823164],
+  "bbox": [
+    -114.049373,
+    46.823164,
+    -114.049373,
+    46.823164
+],
   "geometry": {"coordinates":[-114.049373,46.823164],"type":"Point"}
 }

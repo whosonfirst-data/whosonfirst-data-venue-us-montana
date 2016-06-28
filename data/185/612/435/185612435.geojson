@@ -2,13 +2,14 @@
   "id": 185612435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.001061,46.84146,-114.001061,46.84146",
     "geom:latitude":46.84146,
     "geom:longitude":-114.001061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Pattee Creek Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185612435,
-    "wof:lastmodified":1449007323,
+    "wof:lastmodified":1466641194,
     "wof:name":"Datsopoulos John K",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "representative"
     ]
 },
-  "bbox": [-114.001061,46.84146,-114.001061,46.84146],
-  "geometry": {"coordinates":[-114.001061,46.84146],"type":"Point"}
+  "bbox": [
+    -114.001061,
+    46.84146,
+    -114.001061,
+    46.84146
+],
+  "geometry": {"coordinates":[-114.00106100000001,46.84146],"type":"Point"}
 }

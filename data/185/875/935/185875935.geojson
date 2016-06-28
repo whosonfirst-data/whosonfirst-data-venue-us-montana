@@ -2,13 +2,14 @@
   "id": 185875935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.093195,46.511286,-114.093195,46.511286",
     "geom:latitude":46.511286,
     "geom:longitude":-114.093195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Main St",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185875935,
-    "wof:lastmodified":1449007795,
+    "wof:lastmodified":1466641614,
     "wof:name":"Saint Stephens Episcpal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-114.093195,46.511286,-114.093195,46.511286],
-  "geometry": {"coordinates":[-114.093195,46.511286],"type":"Point"}
+  "bbox": [
+    -114.093195,
+    46.511286,
+    -114.093195,
+    46.511286
+],
+  "geometry": {"coordinates":[-114.09319499999999,46.511286],"type":"Point"}
 }

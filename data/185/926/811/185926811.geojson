@@ -2,13 +2,14 @@
   "id": 185926811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.172843,47.820568,-112.172843,47.820568",
     "geom:latitude":47.820568,
     "geom:longitude":-112.172843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 9th Ave NE",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185926811,
-    "wof:lastmodified":1449007151,
+    "wof:lastmodified":1466641681,
     "wof:name":"Schlepp's Custom Sewing & Wndw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "covering"
     ]
 },
-  "bbox": [-112.172843,47.820568,-112.172843,47.820568],
+  "bbox": [
+    -112.172843,
+    47.820568,
+    -112.172843,
+    47.820568
+],
   "geometry": {"coordinates":[-112.172843,47.820568],"type":"Point"}
 }

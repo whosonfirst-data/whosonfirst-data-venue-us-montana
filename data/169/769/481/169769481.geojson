@@ -2,13 +2,14 @@
   "id": 169769481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.331491,48.636642,-112.331491,48.636642",
     "geom:latitude":48.636642,
     "geom:longitude":-112.331491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 N Central Ave",
     "sg:city":"Cut Bank",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169769481,
-    "wof:lastmodified":1449033786,
+    "wof:lastmodified":1466641218,
     "wof:name":"Raemaeker PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "public"
     ]
 },
-  "bbox": [-112.331491,48.636642,-112.331491,48.636642],
+  "bbox": [
+    -112.331491,
+    48.636642,
+    -112.331491,
+    48.636642
+],
   "geometry": {"coordinates":[-112.331491,48.636642],"type":"Point"}
 }

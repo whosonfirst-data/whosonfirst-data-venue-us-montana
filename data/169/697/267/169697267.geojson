@@ -2,13 +2,14 @@
   "id": 169697267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.070502,47.667824,-114.070502,47.667824",
     "geom:latitude":47.667824,
     "geom:longitude":-114.070502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9566 Turtle Lake Rd",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169697267,
-    "wof:lastmodified":1449034768,
+    "wof:lastmodified":1466641160,
     "wof:name":"Dupuis Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.070502,47.667824,-114.070502,47.667824],
+  "bbox": [
+    -114.070502,
+    47.667824,
+    -114.070502,
+    47.667824
+],
   "geometry": {"coordinates":[-114.070502,47.667824],"type":"Point"}
 }

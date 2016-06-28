@@ -2,13 +2,14 @@
   "id": 186036787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.542583,45.725384,-108.542583,45.725384",
     "geom:latitude":45.725384,
     "geom:longitude":-108.542583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5105 Jellison Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186036787,
-    "wof:lastmodified":1449050995,
+    "wof:lastmodified":1466641720,
     "wof:name":"Rocky Mtn MBL Trnspt HM Svc",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-108.542583,45.725384,-108.542583,45.725384],
-  "geometry": {"coordinates":[-108.542583,45.725384],"type":"Point"}
+  "bbox": [
+    -108.542583,
+    45.725384,
+    -108.542583,
+    45.725384
+],
+  "geometry": {"coordinates":[-108.54258299999999,45.725384],"type":"Point"}
 }

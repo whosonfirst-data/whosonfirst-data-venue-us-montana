@@ -2,13 +2,14 @@
   "id": 185730845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.505214,46.000856,-112.505214,46.000856",
     "geom:latitude":46.000856,
     "geom:longitude":-112.505214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2226 Elm St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185730845,
-    "wof:lastmodified":1449007977,
+    "wof:lastmodified":1466641461,
     "wof:name":"MC Wholesale Distributing",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "residential"
     ]
 },
-  "bbox": [-112.505214,46.000856,-112.505214,46.000856],
+  "bbox": [
+    -112.505214,
+    46.000856,
+    -112.505214,
+    46.000856
+],
   "geometry": {"coordinates":[-112.505214,46.000856],"type":"Point"}
 }

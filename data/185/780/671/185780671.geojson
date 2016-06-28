@@ -2,13 +2,14 @@
   "id": 185780671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.566716,45.762439,-108.566716,45.762439",
     "geom:latitude":45.762439,
     "geom:longitude":-108.566716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 S 20th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185780671,
-    "wof:lastmodified":1449007808,
+    "wof:lastmodified":1466641512,
     "wof:name":"Homestead Mini Storage",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-108.566716,45.762439,-108.566716,45.762439],
+  "bbox": [
+    -108.566716,
+    45.762439,
+    -108.566716,
+    45.762439
+],
   "geometry": {"coordinates":[-108.566716,45.762439],"type":"Point"}
 }

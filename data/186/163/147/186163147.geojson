@@ -2,13 +2,14 @@
   "id": 186163147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.115962,46.233095,-114.115962,46.233095",
     "geom:latitude":46.233095,
     "geom:longitude":-114.115962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Golf Course Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186163147,
-    "wof:lastmodified":1449052978,
+    "wof:lastmodified":1466642137,
     "wof:name":"Hamilton Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-114.115962,46.233095,-114.115962,46.233095],
+  "bbox": [
+    -114.115962,
+    46.233095,
+    -114.115962,
+    46.233095
+],
   "geometry": {"coordinates":[-114.115962,46.233095],"type":"Point"}
 }

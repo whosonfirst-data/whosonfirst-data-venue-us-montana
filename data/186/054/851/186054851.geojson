@@ -2,13 +2,14 @@
   "id": 186054851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.485865,45.471331,-108.485865,45.471331",
     "geom:latitude":45.471331,
     "geom:longitude":-108.485865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18007 Pryor Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186054851,
-    "wof:lastmodified":1449051649,
+    "wof:lastmodified":1466641831,
     "wof:name":"Daum Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.485865,45.471331,-108.485865,45.471331],
+  "bbox": [
+    -108.485865,
+    45.471331,
+    -108.485865,
+    45.471331
+],
   "geometry": {"coordinates":[-108.485865,45.471331],"type":"Point"}
 }

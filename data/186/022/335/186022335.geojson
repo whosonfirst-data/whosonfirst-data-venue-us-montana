@@ -2,13 +2,14 @@
   "id": 186022335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.550586,46.011527,-112.550586,46.011527",
     "geom:latitude":46.011527,
     "geom:longitude":-112.550586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W Galena St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186022335,
-    "wof:lastmodified":1449051284,
+    "wof:lastmodified":1466641487,
     "wof:name":"B S W Inc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "for"
     ]
 },
-  "bbox": [-112.550586,46.011527,-112.550586,46.011527],
+  "bbox": [
+    -112.550586,
+    46.011527,
+    -112.550586,
+    46.011527
+],
   "geometry": {"coordinates":[-112.550586,46.011527],"type":"Point"}
 }

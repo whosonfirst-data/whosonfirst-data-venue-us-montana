@@ -2,13 +2,14 @@
   "id": 185896667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.547005,45.669842,-110.547005,45.669842",
     "geom:latitude":45.669842,
     "geom:longitude":-110.547005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1376 Hwy 10 W",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185896667,
-    "wof:lastmodified":1449007184,
+    "wof:lastmodified":1466641630,
     "wof:name":"Yellowstone Cntry GMC Pntc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealership"
     ]
 },
-  "bbox": [-110.547005,45.669842,-110.547005,45.669842],
+  "bbox": [
+    -110.547005,
+    45.669842,
+    -110.547005,
+    45.669842
+],
   "geometry": {"coordinates":[-110.547005,45.669842],"type":"Point"}
 }

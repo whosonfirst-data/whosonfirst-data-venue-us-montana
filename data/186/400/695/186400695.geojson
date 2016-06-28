@@ -2,13 +2,14 @@
   "id": 186400695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.475124,45.8408,-108.475124,45.8408",
     "geom:latitude":45.8408,
     "geom:longitude":-108.475124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 Pemberton Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186400695,
-    "wof:lastmodified":1449050502,
+    "wof:lastmodified":1466642970,
     "wof:name":"Andresen Homes LLC",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-108.475124,45.8408,-108.475124,45.8408],
-  "geometry": {"coordinates":[-108.475124,45.8408],"type":"Point"}
+  "bbox": [
+    -108.475124,
+    45.8408,
+    -108.475124,
+    45.8408
+],
+  "geometry": {"coordinates":[-108.47512399999999,45.8408],"type":"Point"}
 }

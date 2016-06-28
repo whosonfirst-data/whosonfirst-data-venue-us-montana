@@ -2,13 +2,14 @@
   "id": 169720365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.530117,46.007852,-112.530117,46.007852",
     "geom:latitude":46.007852,
     "geom:longitude":-112.530117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 S Arizona St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169720365,
-    "wof:lastmodified":1449033480,
+    "wof:lastmodified":1466641730,
     "wof:name":"Aware",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-112.530117,46.007852,-112.530117,46.007852],
+  "bbox": [
+    -112.530117,
+    46.007852,
+    -112.530117,
+    46.007852
+],
   "geometry": {"coordinates":[-112.530117,46.007852],"type":"Point"}
 }

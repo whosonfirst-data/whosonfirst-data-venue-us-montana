@@ -2,13 +2,14 @@
   "id": 185718901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.157069,47.71531,-104.157069,47.71531",
     "geom:latitude":47.71531,
     "geom:longitude":-104.157069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Main St",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185718901,
-    "wof:lastmodified":1449006965,
+    "wof:lastmodified":1466641448,
     "wof:name":"LA Fiesta Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-104.157069,47.71531,-104.157069,47.71531],
-  "geometry": {"coordinates":[-104.157069,47.71531],"type":"Point"}
+  "bbox": [
+    -104.157069,
+    47.71531,
+    -104.157069,
+    47.71531
+],
+  "geometry": {"coordinates":[-104.15706900000001,47.71531],"type":"Point"}
 }

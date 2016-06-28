@@ -2,13 +2,14 @@
   "id": 169836835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.06745,45.674204,-111.06745,45.674204",
     "geom:latitude":45.674204,
     "geom:longitude":-111.06745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 S 23rd Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169836835,
-    "wof:lastmodified":1449034867,
+    "wof:lastmodified":1466641313,
     "wof:name":"Farmers Union Ins Claims",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.06745,45.674204,-111.06745,45.674204],
-  "geometry": {"coordinates":[-111.06745,45.674204],"type":"Point"}
+  "bbox": [
+    -111.06745,
+    45.674204,
+    -111.06745,
+    45.674204
+],
+  "geometry": {"coordinates":[-111.06744999999999,45.674204],"type":"Point"}
 }

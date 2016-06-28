@@ -2,13 +2,14 @@
   "id": 186448573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.155306,46.256474,-114.155306,46.256474",
     "geom:latitude":46.256474,
     "geom:longitude":-114.155306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Old Corvallis Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186448573,
-    "wof:lastmodified":1449052912,
+    "wof:lastmodified":1466643009,
     "wof:name":"Keystone Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-114.155306,46.256474,-114.155306,46.256474],
+  "bbox": [
+    -114.155306,
+    46.256474,
+    -114.155306,
+    46.256474
+],
   "geometry": {"coordinates":[-114.155306,46.256474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186166121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.329078,48.633994,-112.329078,48.633994",
     "geom:latitude":48.633994,
     "geom:longitude":-112.329078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 3rd Ave SE",
     "sg:city":"Cut Bank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186166121,
-    "wof:lastmodified":1449051883,
+    "wof:lastmodified":1466642286,
     "wof:name":"Sunshine Corner Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-112.329078,48.633994,-112.329078,48.633994],
+  "bbox": [
+    -112.329078,
+    48.633994,
+    -112.329078,
+    48.633994
+],
   "geometry": {"coordinates":[-112.329078,48.633994],"type":"Point"}
 }

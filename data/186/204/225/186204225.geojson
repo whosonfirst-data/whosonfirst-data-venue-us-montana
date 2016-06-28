@@ -2,13 +2,14 @@
   "id": 186204225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.535695,45.783915,-108.535695,45.783915",
     "geom:latitude":45.783915,
     "geom:longitude":-108.535695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186204225,
-    "wof:lastmodified":1449053099,
+    "wof:lastmodified":1466642265,
     "wof:name":"Relationship Counseling Ctr",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-108.535695,45.783915,-108.535695,45.783915],
+  "bbox": [
+    -108.535695,
+    45.783915,
+    -108.535695,
+    45.783915
+],
   "geometry": {"coordinates":[-108.535695,45.783915],"type":"Point"}
 }

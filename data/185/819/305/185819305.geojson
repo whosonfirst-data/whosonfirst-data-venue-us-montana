@@ -2,13 +2,14 @@
   "id": 185819305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.595779,45.791609,-108.595779,45.791609",
     "geom:latitude":45.791609,
     "geom:longitude":-108.595779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 32nd St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185819305,
-    "wof:lastmodified":1449006988,
+    "wof:lastmodified":1466641550,
     "wof:name":"Boulder Elementary School",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-108.595779,45.791609,-108.595779,45.791609],
-  "geometry": {"coordinates":[-108.595779,45.791609],"type":"Point"}
+  "bbox": [
+    -108.595779,
+    45.791609,
+    -108.595779,
+    45.791609
+],
+  "geometry": {"coordinates":[-108.59577899999999,45.791609],"type":"Point"}
 }

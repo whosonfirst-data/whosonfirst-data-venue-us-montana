@@ -2,13 +2,14 @@
   "id": 186311653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.869167,48.511374,-111.869167,48.511374",
     "geom:latitude":48.511374,
     "geom:longitude":-111.869167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 11th Ave N",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186311653,
-    "wof:lastmodified":1449051025,
+    "wof:lastmodified":1466642640,
     "wof:name":"Pepsi-Cola Bottling Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.869167,48.511374,-111.869167,48.511374],
+  "bbox": [
+    -111.869167,
+    48.511374,
+    -111.869167,
+    48.511374
+],
   "geometry": {"coordinates":[-111.869167,48.511374],"type":"Point"}
 }

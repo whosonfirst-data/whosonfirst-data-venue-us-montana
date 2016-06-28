@@ -2,13 +2,14 @@
   "id": 186081461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.51497,45.776397,-108.51497,45.776397",
     "geom:latitude":45.776397,
     "geom:longitude":-108.51497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3635 Montana Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186081461,
-    "wof:lastmodified":1449051209,
+    "wof:lastmodified":1466641894,
     "wof:name":"Scilley Auto Sales",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-108.51497,45.776397,-108.51497,45.776397],
-  "geometry": {"coordinates":[-108.51497,45.776397],"type":"Point"}
+  "bbox": [
+    -108.51497,
+    45.776397,
+    -108.51497,
+    45.776397
+],
+  "geometry": {"coordinates":[-108.51497000000001,45.776397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185728175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.777619,45.669246,-108.777619,45.669246",
     "geom:latitude":45.669246,
     "geom:longitude":-108.777619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 5th Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185728175,
-    "wof:lastmodified":1449006989,
+    "wof:lastmodified":1466641450,
     "wof:name":"First National Pawn",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.777619,45.669246,-108.777619,45.669246],
+  "bbox": [
+    -108.777619,
+    45.669246,
+    -108.777619,
+    45.669246
+],
   "geometry": {"coordinates":[-108.777619,45.669246],"type":"Point"}
 }

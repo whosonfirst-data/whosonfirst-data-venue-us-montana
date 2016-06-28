@@ -2,13 +2,14 @@
   "id": 169705375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.027515,46.861566,-114.027515,46.861566",
     "geom:latitude":46.861566,
     "geom:longitude":-114.027515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1948 S 9th St W",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169705375,
-    "wof:lastmodified":1449035988,
+    "wof:lastmodified":1466641230,
     "wof:name":"Angels Sweet Daycare",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-114.027515,46.861566,-114.027515,46.861566],
-  "geometry": {"coordinates":[-114.027515,46.861566],"type":"Point"}
+  "bbox": [
+    -114.027515,
+    46.861566,
+    -114.027515,
+    46.861566
+],
+  "geometry": {"coordinates":[-114.02751499999999,46.861566],"type":"Point"}
 }

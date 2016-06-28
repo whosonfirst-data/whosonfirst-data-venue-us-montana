@@ -2,13 +2,14 @@
   "id": 186116743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.441331,45.521394,-109.441331,45.521394",
     "geom:latitude":45.521394,
     "geom:longitude":-109.441331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 S Woodard Ave",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186116743,
-    "wof:lastmodified":1449050764,
+    "wof:lastmodified":1466642053,
     "wof:name":"Lynda Heimer Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.441331,45.521394,-109.441331,45.521394],
-  "geometry": {"coordinates":[-109.441331,45.521394],"type":"Point"}
+  "bbox": [
+    -109.441331,
+    45.521394,
+    -109.441331,
+    45.521394
+],
+  "geometry": {"coordinates":[-109.44133100000001,45.521394],"type":"Point"}
 }

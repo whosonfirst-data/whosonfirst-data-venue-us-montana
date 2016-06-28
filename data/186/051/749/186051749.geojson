@@ -2,13 +2,14 @@
   "id": 186051749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.979692,46.133667,-112.979692,46.133667",
     "geom:latitude":46.133667,
     "geom:longitude":-112.979692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Haggin Ave",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186051749,
-    "wof:lastmodified":1449052020,
+    "wof:lastmodified":1466641830,
     "wof:name":"Kathy Parks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.979692,46.133667,-112.979692,46.133667],
+  "bbox": [
+    -112.979692,
+    46.133667,
+    -112.979692,
+    46.133667
+],
   "geometry": {"coordinates":[-112.979692,46.133667],"type":"Point"}
 }

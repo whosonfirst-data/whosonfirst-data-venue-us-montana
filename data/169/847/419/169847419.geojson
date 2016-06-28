@@ -2,13 +2,14 @@
   "id": 169847419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.252174,45.632765,-109.252174,45.632765",
     "geom:latitude":45.632765,
     "geom:longitude":-109.252174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 E 3rd Ave S",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169847419,
-    "wof:lastmodified":1449033892,
+    "wof:lastmodified":1466641324,
     "wof:name":"Alpine Images Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-109.252174,45.632765,-109.252174,45.632765],
+  "bbox": [
+    -109.252174,
+    45.632765,
+    -109.252174,
+    45.632765
+],
   "geometry": {"coordinates":[-109.252174,45.632765],"type":"Point"}
 }

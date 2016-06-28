@@ -2,13 +2,14 @@
   "id": 185926143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.180099,46.028299,-114.180099,46.028299",
     "geom:latitude":46.028299,
     "geom:longitude":-114.180099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 School Dr",
     "sg:city":"Darby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185926143,
-    "wof:lastmodified":1449007151,
+    "wof:lastmodified":1466641667,
     "wof:name":"Darby Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.180099,46.028299,-114.180099,46.028299],
+  "bbox": [
+    -114.180099,
+    46.028299,
+    -114.180099,
+    46.028299
+],
   "geometry": {"coordinates":[-114.180099,46.028299],"type":"Point"}
 }

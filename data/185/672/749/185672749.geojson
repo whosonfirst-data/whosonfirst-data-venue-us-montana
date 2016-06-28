@@ -2,13 +2,14 @@
   "id": 185672749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.80013,47.093384,-104.80013,47.093384",
     "geom:latitude":47.093384,
     "geom:longitude":-104.80013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Schmidt Ln",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185672749,
-    "wof:lastmodified":1449006703,
+    "wof:lastmodified":1466641389,
     "wof:name":"Carols Kennels & Dog Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.80013,47.093384,-104.80013,47.093384],
+  "bbox": [
+    -104.80013,
+    47.093384,
+    -104.80013,
+    47.093384
+],
   "geometry": {"coordinates":[-104.80013,47.093384],"type":"Point"}
 }

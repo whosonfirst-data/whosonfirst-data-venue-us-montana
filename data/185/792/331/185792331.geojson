@@ -2,13 +2,14 @@
   "id": 185792331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.680701,46.265364,-106.680701,46.265364",
     "geom:latitude":46.265364,
     "geom:longitude":-106.680701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 N 8th Ave",
     "sg:city":"Forsyth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185792331,
-    "wof:lastmodified":1449006962,
+    "wof:lastmodified":1466641519,
     "wof:name":"Forsyth Second Hand Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hand"
     ]
 },
-  "bbox": [-106.680701,46.265364,-106.680701,46.265364],
+  "bbox": [
+    -106.680701,
+    46.265364,
+    -106.680701,
+    46.265364
+],
   "geometry": {"coordinates":[-106.680701,46.265364],"type":"Point"}
 }

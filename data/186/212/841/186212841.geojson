@@ -2,13 +2,14 @@
   "id": 186212841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.329322,48.221189,-114.329322,48.221189",
     "geom:latitude":48.221189,
     "geom:longitude":-114.329322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Commons Way",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186212841,
-    "wof:lastmodified":1449052111,
+    "wof:lastmodified":1466642374,
     "wof:name":"Kalispell Diagnostic Svc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-114.329322,48.221189,-114.329322,48.221189],
+  "bbox": [
+    -114.329322,
+    48.221189,
+    -114.329322,
+    48.221189
+],
   "geometry": {"coordinates":[-114.329322,48.221189],"type":"Point"}
 }

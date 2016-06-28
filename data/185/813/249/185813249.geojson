@@ -2,13 +2,14 @@
   "id": 185813249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.069972,47.399112,-114.069972,47.399112",
     "geom:latitude":47.399112,
     "geom:longitude":-114.069972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1171 E Post Creek Rd",
     "sg:city":"Saint Ignatius",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185813249,
-    "wof:lastmodified":1449007021,
+    "wof:lastmodified":1466641543,
     "wof:name":"Eagle Pass Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.069972,47.399112,-114.069972,47.399112],
-  "geometry": {"coordinates":[-114.069972,47.399112],"type":"Point"}
+  "bbox": [
+    -114.069972,
+    47.399112,
+    -114.069972,
+    47.399112
+],
+  "geometry": {"coordinates":[-114.06997200000001,47.399112],"type":"Point"}
 }

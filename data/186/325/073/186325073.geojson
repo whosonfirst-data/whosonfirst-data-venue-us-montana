@@ -2,13 +2,14 @@
   "id": 186325073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030628,46.640577,-112.030628,46.640577",
     "geom:latitude":46.640577,
     "geom:longitude":-112.030628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 Carol Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186325073,
-    "wof:lastmodified":1449051413,
+    "wof:lastmodified":1466642664,
     "wof:name":"TP Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-112.030628,46.640577,-112.030628,46.640577],
-  "geometry": {"coordinates":[-112.030628,46.640577],"type":"Point"}
+  "bbox": [
+    -112.030628,
+    46.640577,
+    -112.030628,
+    46.640577
+],
+  "geometry": {"coordinates":[-112.03062799999999,46.640577],"type":"Point"}
 }

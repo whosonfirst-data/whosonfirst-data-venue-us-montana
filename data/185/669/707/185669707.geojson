@@ -2,13 +2,14 @@
   "id": 185669707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.040891,48.149242,-114.040891,48.149242",
     "geom:latitude":48.149242,
     "geom:longitude":-114.040891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Whispering Pines",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185669707,
-    "wof:lastmodified":1449006790,
+    "wof:lastmodified":1466641390,
     "wof:name":"Quilt Gallery Bernina",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.040891,48.149242,-114.040891,48.149242],
+  "bbox": [
+    -114.040891,
+    48.149242,
+    -114.040891,
+    48.149242
+],
   "geometry": {"coordinates":[-114.040891,48.149242],"type":"Point"}
 }

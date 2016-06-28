@@ -2,13 +2,14 @@
   "id": 186131477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.393284,48.283834,-114.393284,48.283834",
     "geom:latitude":48.283834,
     "geom:longitude":-114.393284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1493 Church Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186131477,
-    "wof:lastmodified":1449051188,
+    "wof:lastmodified":1466641922,
     "wof:name":"Sam Collett Trucking",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.393284,48.283834,-114.393284,48.283834],
-  "geometry": {"coordinates":[-114.393284,48.283834],"type":"Point"}
+  "bbox": [
+    -114.393284,
+    48.283834,
+    -114.393284,
+    48.283834
+],
+  "geometry": {"coordinates":[-114.39328399999999,48.283834],"type":"Point"}
 }

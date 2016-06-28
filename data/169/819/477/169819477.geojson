@@ -2,13 +2,14 @@
   "id": 169819477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.52804,46.000854,-112.52804,46.000854",
     "geom:latitude":46.000854,
     "geom:longitude":-112.52804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 E Front St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169819477,
-    "wof:lastmodified":1449033478,
+    "wof:lastmodified":1466641288,
     "wof:name":"Kleen To Xtreme",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-112.52804,46.000854,-112.52804,46.000854],
+  "bbox": [
+    -112.52804,
+    46.000854,
+    -112.52804,
+    46.000854
+],
   "geometry": {"coordinates":[-112.52804,46.000854],"type":"Point"}
 }

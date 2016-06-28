@@ -2,13 +2,14 @@
   "id": 186168995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.541765,45.748641,-108.541765,45.748641",
     "geom:latitude":45.748641,
     "geom:longitude":-108.541765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Maggie St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186168995,
-    "wof:lastmodified":1449051774,
+    "wof:lastmodified":1466642152,
     "wof:name":"Dismas Pumps",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pumping"
     ]
 },
-  "bbox": [-108.541765,45.748641,-108.541765,45.748641],
+  "bbox": [
+    -108.541765,
+    45.748641,
+    -108.541765,
+    45.748641
+],
   "geometry": {"coordinates":[-108.541765,45.748641],"type":"Point"}
 }

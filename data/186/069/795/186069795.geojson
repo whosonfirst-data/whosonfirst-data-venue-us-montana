@@ -2,13 +2,14 @@
   "id": 186069795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.486135,45.791729,-108.486135,45.791729",
     "geom:latitude":45.791729,
     "geom:longitude":-108.486135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 1st Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186069795,
-    "wof:lastmodified":1449052066,
+    "wof:lastmodified":1466642019,
     "wof:name":"Sagebrush Trading",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.486135,45.791729,-108.486135,45.791729],
+  "bbox": [
+    -108.486135,
+    45.791729,
+    -108.486135,
+    45.791729
+],
   "geometry": {"coordinates":[-108.486135,45.791729],"type":"Point"}
 }

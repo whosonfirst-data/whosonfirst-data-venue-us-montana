@@ -2,13 +2,14 @@
   "id": 186162987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.440276,45.862244,-108.440276,45.862244",
     "geom:latitude":45.862244,
     "geom:longitude":-108.440276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3550 Clint Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186162987,
-    "wof:lastmodified":1449052621,
+    "wof:lastmodified":1466642148,
     "wof:name":"Diamond 4 Performance",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.440276,45.862244,-108.440276,45.862244],
+  "bbox": [
+    -108.440276,
+    45.862244,
+    -108.440276,
+    45.862244
+],
   "geometry": {"coordinates":[-108.440276,45.862244],"type":"Point"}
 }

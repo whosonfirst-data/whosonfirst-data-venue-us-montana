@@ -2,13 +2,14 @@
   "id": 186357291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.679564,45.712924,-108.679564,45.712924",
     "geom:latitude":45.712924,
     "geom:longitude":-108.679564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3042 S 64th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186357291,
-    "wof:lastmodified":1449052686,
+    "wof:lastmodified":1466642735,
     "wof:name":"MSST Transport",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-108.679564,45.712924,-108.679564,45.712924],
+  "bbox": [
+    -108.679564,
+    45.712924,
+    -108.679564,
+    45.712924
+],
   "geometry": {"coordinates":[-108.679564,45.712924],"type":"Point"}
 }

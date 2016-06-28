@@ -2,13 +2,14 @@
   "id": 185740015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.500266,45.788599,-108.500266,45.788599",
     "geom:latitude":45.788599,
     "geom:longitude":-108.500266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 4th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185740015,
-    "wof:lastmodified":1449007350,
+    "wof:lastmodified":1466641774,
     "wof:name":"Ornamental Iron Shop",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "work"
     ]
 },
-  "bbox": [-108.500266,45.788599,-108.500266,45.788599],
+  "bbox": [
+    -108.500266,
+    45.788599,
+    -108.500266,
+    45.788599
+],
   "geometry": {"coordinates":[-108.500266,45.788599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186050879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.274265,48.252753,-114.274265,48.252753",
     "geom:latitude":48.252753,
     "geom:longitude":-114.274265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2765 US Hwy 2 E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186050879,
-    "wof:lastmodified":1449051857,
+    "wof:lastmodified":1466641833,
     "wof:name":"Parsons Kubota Tractor",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "compact"
     ]
 },
-  "bbox": [-114.274265,48.252753,-114.274265,48.252753],
+  "bbox": [
+    -114.274265,
+    48.252753,
+    -114.274265,
+    48.252753
+],
   "geometry": {"coordinates":[-114.274265,48.252753],"type":"Point"}
 }

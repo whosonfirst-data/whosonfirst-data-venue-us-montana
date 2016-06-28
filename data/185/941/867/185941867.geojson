@@ -2,13 +2,14 @@
   "id": 185941867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.731733,47.106897,-104.731733,47.106897",
     "geom:latitude":47.106897,
     "geom:longitude":-104.731733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 W Towne St",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185941867,
-    "wof:lastmodified":1449007571,
+    "wof:lastmodified":1466641696,
     "wof:name":"Maddhatters Restaurant/Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-104.731733,47.106897,-104.731733,47.106897],
-  "geometry": {"coordinates":[-104.731733,47.106897],"type":"Point"}
+  "bbox": [
+    -104.731733,
+    47.106897,
+    -104.731733,
+    47.106897
+],
+  "geometry": {"coordinates":[-104.73173300000001,47.106897],"type":"Point"}
 }

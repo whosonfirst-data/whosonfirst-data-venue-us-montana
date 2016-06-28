@@ -2,13 +2,14 @@
   "id": 185600665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.506552,45.823129,-108.506552,45.823129",
     "geom:latitude":45.823129,
     "geom:longitude":-108.506552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Governors Blvd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185600665,
-    "wof:lastmodified":1449006759,
+    "wof:lastmodified":1466641153,
     "wof:name":"Highrock Christian Church",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-108.506552,45.823129,-108.506552,45.823129],
+  "bbox": [
+    -108.506552,
+    45.823129,
+    -108.506552,
+    45.823129
+],
   "geometry": {"coordinates":[-108.506552,45.823129],"type":"Point"}
 }

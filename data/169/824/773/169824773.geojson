@@ -2,13 +2,14 @@
   "id": 169824773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.330445,48.200445,-114.330445,48.200445",
     "geom:latitude":48.200445,
     "geom:longitude":-114.330445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 N Meridian Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169824773,
-    "wof:lastmodified":1449033863,
+    "wof:lastmodified":1466641297,
     "wof:name":"Creative Crafts & Homes",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "variety"
     ]
 },
-  "bbox": [-114.330445,48.200445,-114.330445,48.200445],
+  "bbox": [
+    -114.330445,
+    48.200445,
+    -114.330445,
+    48.200445
+],
   "geometry": {"coordinates":[-114.330445,48.200445],"type":"Point"}
 }

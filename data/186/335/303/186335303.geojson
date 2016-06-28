@@ -2,13 +2,14 @@
   "id": 186335303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.007983,46.832189,-114.007983,46.832189",
     "geom:latitude":46.832189,
     "geom:longitude":-114.007983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Continental Way",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186335303,
-    "wof:lastmodified":1449052134,
+    "wof:lastmodified":1466642828,
     "wof:name":"W-W Transport",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-114.007983,46.832189,-114.007983,46.832189],
+  "bbox": [
+    -114.007983,
+    46.832189,
+    -114.007983,
+    46.832189
+],
   "geometry": {"coordinates":[-114.007983,46.832189],"type":"Point"}
 }

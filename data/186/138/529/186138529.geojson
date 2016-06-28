@@ -2,13 +2,14 @@
   "id": 186138529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.552772,48.390464,-115.552772,48.390464",
     "geom:latitude":48.390464,
     "geom:longitude":-115.552772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Mineral Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186138529,
-    "wof:lastmodified":1449051149,
+    "wof:lastmodified":1466641980,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-115.552772,48.390464,-115.552772,48.390464],
+  "bbox": [
+    -115.552772,
+    48.390464,
+    -115.552772,
+    48.390464
+],
   "geometry": {"coordinates":[-115.552772,48.390464],"type":"Point"}
 }

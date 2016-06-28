@@ -2,13 +2,14 @@
   "id": 185817683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.043619,47.575671,-114.043619,47.575671",
     "geom:latitude":47.575671,
     "geom:longitude":-114.043619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4133 Canyon Mill Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185817683,
-    "wof:lastmodified":1449007904,
+    "wof:lastmodified":1466641554,
     "wof:name":"North Crow Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.043619,47.575671,-114.043619,47.575671],
-  "geometry": {"coordinates":[-114.043619,47.575671],"type":"Point"}
+  "bbox": [
+    -114.043619,
+    47.575671,
+    -114.043619,
+    47.575671
+],
+  "geometry": {"coordinates":[-114.04361900000001,47.575671],"type":"Point"}
 }

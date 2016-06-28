@@ -2,13 +2,14 @@
   "id": 169816559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.818006,45.863157,-110.818006,45.863157",
     "geom:latitude":45.863157,
     "geom:longitude":-110.818006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16125 Brackett Creek Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169816559,
-    "wof:lastmodified":1449034611,
+    "wof:lastmodified":1466641287,
     "wof:name":"Rolling Stock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-110.818006,45.863157,-110.818006,45.863157],
+  "bbox": [
+    -110.818006,
+    45.863157,
+    -110.818006,
+    45.863157
+],
   "geometry": {"coordinates":[-110.818006,45.863157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185619707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.661209,47.822951,-110.661209,47.822951",
     "geom:latitude":47.822951,
     "geom:longitude":-110.661209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 21st St",
     "sg:city":"Fort Benton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185619707,
-    "wof:lastmodified":1449006903,
+    "wof:lastmodified":1466641214,
     "wof:name":"Sunrise Bluff Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-110.661209,47.822951,-110.661209,47.822951],
+  "bbox": [
+    -110.661209,
+    47.822951,
+    -110.661209,
+    47.822951
+],
   "geometry": {"coordinates":[-110.661209,47.822951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185887279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.726846,46.411648,-112.726846,46.411648",
     "geom:latitude":46.411648,
     "geom:longitude":-112.726846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 I- 90 Bus",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185887279,
-    "wof:lastmodified":1449007902,
+    "wof:lastmodified":1466641621,
     "wof:name":"I-90 Auto-Truck Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.726846,46.411648,-112.726846,46.411648],
-  "geometry": {"coordinates":[-112.726846,46.411648],"type":"Point"}
+  "bbox": [
+    -112.726846,
+    46.411648,
+    -112.726846,
+    46.411648
+],
+  "geometry": {"coordinates":[-112.72684599999999,46.411648],"type":"Point"}
 }

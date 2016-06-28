@@ -2,13 +2,14 @@
   "id": 185911615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.679662,48.554062,-109.679662,48.554062",
     "geom:latitude":48.554062,
     "geom:longitude":-109.679662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 2nd Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185911615,
-    "wof:lastmodified":1449007970,
+    "wof:lastmodified":1466641654,
     "wof:name":"Kb Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.679662,48.554062,-109.679662,48.554062],
-  "geometry": {"coordinates":[-109.679662,48.554062],"type":"Point"}
+  "bbox": [
+    -109.679662,
+    48.554062,
+    -109.679662,
+    48.554062
+],
+  "geometry": {"coordinates":[-109.67966199999999,48.554062],"type":"Point"}
 }

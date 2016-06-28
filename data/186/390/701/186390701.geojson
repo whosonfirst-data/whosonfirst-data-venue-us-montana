@@ -2,13 +2,14 @@
   "id": 186390701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.999563,46.559163,-113.999563,46.559163",
     "geom:latitude":46.559163,
     "geom:longitude":-113.999563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"952 Ambrose Creek Rd",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186390701,
-    "wof:lastmodified":1449053056,
+    "wof:lastmodified":1466642964,
     "wof:name":"Adios Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.999563,46.559163,-113.999563,46.559163],
-  "geometry": {"coordinates":[-113.999563,46.559163],"type":"Point"}
+  "bbox": [
+    -113.999563,
+    46.559163,
+    -113.999563,
+    46.559163
+],
+  "geometry": {"coordinates":[-113.99956299999999,46.559163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186332375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.732313,46.39568,-112.732313,46.39568",
     "geom:latitude":46.39568,
     "geom:longitude":-112.732313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 5th St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186332375,
-    "wof:lastmodified":1449051870,
+    "wof:lastmodified":1466642822,
     "wof:name":"Great Divide Education Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.732313,46.39568,-112.732313,46.39568],
+  "bbox": [
+    -112.732313,
+    46.39568,
+    -112.732313,
+    46.39568
+],
   "geometry": {"coordinates":[-112.732313,46.39568],"type":"Point"}
 }

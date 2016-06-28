@@ -2,13 +2,14 @@
   "id": 185820059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.673378,48.558443,-109.673378,48.558443",
     "geom:latitude":48.558443,
     "geom:longitude":-109.673378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 5th St N",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185820059,
-    "wof:lastmodified":1449007462,
+    "wof:lastmodified":1466641780,
     "wof:name":"Sam Shrauger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-109.673378,48.558443,-109.673378,48.558443],
+  "bbox": [
+    -109.673378,
+    48.558443,
+    -109.673378,
+    48.558443
+],
   "geometry": {"coordinates":[-109.673378,48.558443],"type":"Point"}
 }

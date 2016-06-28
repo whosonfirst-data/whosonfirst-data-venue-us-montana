@@ -2,13 +2,14 @@
   "id": 186281983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.470777,45.815519,-108.470777,45.815519",
     "geom:latitude":45.815519,
     "geom:longitude":-108.470777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186281983,
-    "wof:lastmodified":1449052601,
+    "wof:lastmodified":1466642367,
     "wof:name":"Heights Drop In Child Care Ctr",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.470777,45.815519,-108.470777,45.815519],
+  "bbox": [
+    -108.470777,
+    45.815519,
+    -108.470777,
+    45.815519
+],
   "geometry": {"coordinates":[-108.470777,45.815519],"type":"Point"}
 }

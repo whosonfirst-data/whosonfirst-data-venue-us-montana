@@ -2,13 +2,14 @@
   "id": 185900745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.558905,45.787204,-108.558905,45.787204",
     "geom:latitude":45.787204,
     "geom:longitude":-108.558905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Ave D",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185900745,
-    "wof:lastmodified":1449007306,
+    "wof:lastmodified":1466641643,
     "wof:name":"Star Office Machines Inc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.558905,45.787204,-108.558905,45.787204],
+  "bbox": [
+    -108.558905,
+    45.787204,
+    -108.558905,
+    45.787204
+],
   "geometry": {"coordinates":[-108.558905,45.787204],"type":"Point"}
 }

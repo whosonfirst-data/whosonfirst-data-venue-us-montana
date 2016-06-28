@@ -2,13 +2,14 @@
   "id": 186293303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.541025,45.761268,-108.541025,45.761268",
     "geom:latitude":45.761268,
     "geom:longitude":-108.541025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186293303,
-    "wof:lastmodified":1449050933,
+    "wof:lastmodified":1466642607,
     "wof:name":"Dale & Jax Door & Glass",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "devices"
     ]
 },
-  "bbox": [-108.541025,45.761268,-108.541025,45.761268],
+  "bbox": [
+    -108.541025,
+    45.761268,
+    -108.541025,
+    45.761268
+],
   "geometry": {"coordinates":[-108.541025,45.761268],"type":"Point"}
 }

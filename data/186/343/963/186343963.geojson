@@ -2,13 +2,14 @@
   "id": 186343963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.723638,46.395303,-112.723638,46.395303",
     "geom:latitude":46.395303,
     "geom:longitude":-112.723638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Kohrs St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186343963,
-    "wof:lastmodified":1449052259,
+    "wof:lastmodified":1466642704,
     "wof:name":"Scully Outfitting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outfitter"
     ]
 },
-  "bbox": [-112.723638,46.395303,-112.723638,46.395303],
-  "geometry": {"coordinates":[-112.723638,46.395303],"type":"Point"}
+  "bbox": [
+    -112.723638,
+    46.395303,
+    -112.723638,
+    46.395303
+],
+  "geometry": {"coordinates":[-112.72363799999999,46.395303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186386023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.749898,46.393621,-112.749898,46.393621",
     "geom:latitude":46.393621,
     "geom:longitude":-112.749898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Arizona St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186386023,
-    "wof:lastmodified":1449051783,
+    "wof:lastmodified":1466642673,
     "wof:name":"L & B Taxi Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-112.749898,46.393621,-112.749898,46.393621],
+  "bbox": [
+    -112.749898,
+    46.393621,
+    -112.749898,
+    46.393621
+],
   "geometry": {"coordinates":[-112.749898,46.393621],"type":"Point"}
 }

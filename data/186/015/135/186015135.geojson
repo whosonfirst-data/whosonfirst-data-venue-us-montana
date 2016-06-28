@@ -2,13 +2,14 @@
   "id": 186015135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.163708,47.705852,-104.163708,47.705852",
     "geom:latitude":47.705852,
     "geom:longitude":-104.163708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 S Central Ave",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186015135,
-    "wof:lastmodified":1449051010,
+    "wof:lastmodified":1466641379,
     "wof:name":"Reynolds Warehouse Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-104.163708,47.705852,-104.163708,47.705852],
+  "bbox": [
+    -104.163708,
+    47.705852,
+    -104.163708,
+    47.705852
+],
   "geometry": {"coordinates":[-104.163708,47.705852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185792695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.614684,45.787096,-108.614684,45.787096",
     "geom:latitude":45.787096,
     "geom:longitude":-108.614684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1641 Country Manor Blvd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185792695,
-    "wof:lastmodified":1449006959,
+    "wof:lastmodified":1466641522,
     "wof:name":"Home Check-Up Inspection Svc",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-108.614684,45.787096,-108.614684,45.787096],
+  "bbox": [
+    -108.614684,
+    45.787096,
+    -108.614684,
+    45.787096
+],
   "geometry": {"coordinates":[-108.614684,45.787096],"type":"Point"}
 }

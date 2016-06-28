@@ -2,13 +2,14 @@
   "id": 186228421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.674354,48.545495,-109.674354,48.545495",
     "geom:latitude":48.545495,
     "geom:longitude":-109.674354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 8th St",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186228421,
-    "wof:lastmodified":1449051219,
+    "wof:lastmodified":1466642408,
     "wof:name":"Doggy Daycare Pet Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.674354,48.545495,-109.674354,48.545495],
-  "geometry": {"coordinates":[-109.674354,48.545495],"type":"Point"}
+  "bbox": [
+    -109.674354,
+    48.545495,
+    -109.674354,
+    48.545495
+],
+  "geometry": {"coordinates":[-109.67435399999999,48.545495],"type":"Point"}
 }

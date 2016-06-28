@@ -2,13 +2,14 @@
   "id": 186061631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.006905,48.071714,-114.006905,48.071714",
     "geom:latitude":48.071714,
     "geom:longitude":-114.006905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Three Eagle Ln",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186061631,
-    "wof:lastmodified":1449052294,
+    "wof:lastmodified":1466641850,
     "wof:name":"Designs By Myrna Lee",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "novelty"
     ]
 },
-  "bbox": [-114.006905,48.071714,-114.006905,48.071714],
+  "bbox": [
+    -114.006905,
+    48.071714,
+    -114.006905,
+    48.071714
+],
   "geometry": {"coordinates":[-114.006905,48.071714],"type":"Point"}
 }

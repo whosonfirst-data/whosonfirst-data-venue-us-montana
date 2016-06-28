@@ -2,13 +2,14 @@
   "id": 186400367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.094677,46.812795,-114.094677,46.812795",
     "geom:latitude":46.812795,
     "geom:longitude":-114.094677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6150 US Hwy 93",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186400367,
-    "wof:lastmodified":1449050503,
+    "wof:lastmodified":1466642856,
     "wof:name":"Iti Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-114.094677,46.812795,-114.094677,46.812795],
+  "bbox": [
+    -114.094677,
+    46.812795,
+    -114.094677,
+    46.812795
+],
   "geometry": {"coordinates":[-114.094677,46.812795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185933125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.5563,45.778805,-108.5563,45.778805",
     "geom:latitude":45.778805,
     "geom:longitude":-108.5563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 16th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185933125,
-    "wof:lastmodified":1449006945,
+    "wof:lastmodified":1466641680,
     "wof:name":"Jim's Junction",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-108.5563,45.778805,-108.5563,45.778805],
-  "geometry": {"coordinates":[-108.5563,45.778805],"type":"Point"}
+  "bbox": [
+    -108.5563,
+    45.778805,
+    -108.5563,
+    45.778805
+],
+  "geometry": {"coordinates":[-108.55629999999999,45.778805],"type":"Point"}
 }

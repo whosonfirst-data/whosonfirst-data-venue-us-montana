@@ -2,13 +2,14 @@
   "id": 185742295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.758049,48.555019,-109.758049,48.555019",
     "geom:latitude":48.555019,
     "geom:longitude":-109.758049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5051 US Hwy 2 NW",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185742295,
-    "wof:lastmodified":1449006708,
+    "wof:lastmodified":1466641466,
     "wof:name":"Bear Paw Veterinary Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.758049,48.555019,-109.758049,48.555019],
+  "bbox": [
+    -109.758049,
+    48.555019,
+    -109.758049,
+    48.555019
+],
   "geometry": {"coordinates":[-109.758049,48.555019],"type":"Point"}
 }

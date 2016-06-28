@@ -2,13 +2,14 @@
   "id": 185648249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.185415,47.812314,-112.185415,47.812314",
     "geom:latitude":47.812314,
     "geom:longitude":-112.185415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 1st Ave NW",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185648249,
-    "wof:lastmodified":1449007047,
+    "wof:lastmodified":1466641364,
     "wof:name":"Choteau Acantha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "publishing"
     ]
 },
-  "bbox": [-112.185415,47.812314,-112.185415,47.812314],
-  "geometry": {"coordinates":[-112.185415,47.812314],"type":"Point"}
+  "bbox": [
+    -112.185415,
+    47.812314,
+    -112.185415,
+    47.812314
+],
+  "geometry": {"coordinates":[-112.18541500000001,47.812314],"type":"Point"}
 }

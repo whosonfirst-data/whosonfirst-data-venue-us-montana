@@ -2,13 +2,14 @@
   "id": 186053907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.570932,48.386105,-115.570932,48.386105",
     "geom:latitude":48.386105,
     "geom:longitude":-115.570932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Garden Rd",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186053907,
-    "wof:lastmodified":1449050913,
+    "wof:lastmodified":1466641834,
     "wof:name":"Harold Wise Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.570932,48.386105,-115.570932,48.386105],
+  "bbox": [
+    -115.570932,
+    48.386105,
+    -115.570932,
+    48.386105
+],
   "geometry": {"coordinates":[-115.570932,48.386105],"type":"Point"}
 }

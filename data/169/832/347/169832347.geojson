@@ -2,13 +2,14 @@
   "id": 169832347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.123887,47.607125,-114.123887,47.607125",
     "geom:latitude":47.607125,
     "geom:longitude":-114.123887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5151 Obrien Rd",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169832347,
-    "wof:lastmodified":1449032704,
+    "wof:lastmodified":1466641301,
     "wof:name":"Peter Weimer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "horseshoe"
     ]
 },
-  "bbox": [-114.123887,47.607125,-114.123887,47.607125],
+  "bbox": [
+    -114.123887,
+    47.607125,
+    -114.123887,
+    47.607125
+],
   "geometry": {"coordinates":[-114.123887,47.607125],"type":"Point"}
 }

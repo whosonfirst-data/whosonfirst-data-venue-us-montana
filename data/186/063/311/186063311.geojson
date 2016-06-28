@@ -2,13 +2,14 @@
   "id": 186063311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.670032,46.27066,-106.670032,46.27066",
     "geom:latitude":46.27066,
     "geom:longitude":-106.670032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"383 N 17th Ave",
     "sg:city":"Forsyth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186063311,
-    "wof:lastmodified":1449050478,
+    "wof:lastmodified":1466641851,
     "wof:name":"Dbc Forsyth Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-106.670032,46.27066,-106.670032,46.27066],
-  "geometry": {"coordinates":[-106.670032,46.27066],"type":"Point"}
+  "bbox": [
+    -106.670032,
+    46.27066,
+    -106.670032,
+    46.27066
+],
+  "geometry": {"coordinates":[-106.67003200000001,46.27066],"type":"Point"}
 }

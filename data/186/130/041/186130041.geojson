@@ -2,13 +2,14 @@
   "id": 186130041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.060881,46.660569,-114.060881,46.660569",
     "geom:latitude":46.660569,
     "geom:longitude":-114.060881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Chief Looking Glass Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186130041,
-    "wof:lastmodified":1449051315,
+    "wof:lastmodified":1466642080,
     "wof:name":"Anders Custom Wood Working",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "woodworker"
     ]
 },
-  "bbox": [-114.060881,46.660569,-114.060881,46.660569],
-  "geometry": {"coordinates":[-114.060881,46.660569],"type":"Point"}
+  "bbox": [
+    -114.060881,
+    46.660569,
+    -114.060881,
+    46.660569
+],
+  "geometry": {"coordinates":[-114.06088099999999,46.660569],"type":"Point"}
 }

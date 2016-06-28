@@ -2,13 +2,14 @@
   "id": 186091247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.180553,46.617903,-113.180553,46.617903",
     "geom:latitude":46.617903,
     "geom:longitude":-113.180553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Airport Rd",
     "sg:city":"Drummond",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186091247,
-    "wof:lastmodified":1449050507,
+    "wof:lastmodified":1466641934,
     "wof:name":"Whalen Willow View Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-113.180553,46.617903,-113.180553,46.617903],
+  "bbox": [
+    -113.180553,
+    46.617903,
+    -113.180553,
+    46.617903
+],
   "geometry": {"coordinates":[-113.180553,46.617903],"type":"Point"}
 }

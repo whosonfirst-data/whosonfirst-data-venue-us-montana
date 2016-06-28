@@ -2,13 +2,14 @@
   "id": 186193633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.8626,48.508559,-111.8626,48.508559",
     "geom:latitude":48.508559,
     "geom:longitude":-111.8626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 6th Ave N",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186193633,
-    "wof:lastmodified":1449050847,
+    "wof:lastmodified":1466642248,
     "wof:name":"Northern Gateway Ent Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-111.8626,48.508559,-111.8626,48.508559],
+  "bbox": [
+    -111.8626,
+    48.508559,
+    -111.8626,
+    48.508559
+],
   "geometry": {"coordinates":[-111.8626,48.508559],"type":"Point"}
 }

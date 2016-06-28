@@ -2,13 +2,14 @@
   "id": 185810887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.713091,47.105525,-104.713091,47.105525",
     "geom:latitude":47.105525,
     "geom:longitude":-104.713091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Towne St",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185810887,
-    "wof:lastmodified":1449007083,
+    "wof:lastmodified":1466641547,
     "wof:name":"Montana East Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "an"
     ]
 },
-  "bbox": [-104.713091,47.105525,-104.713091,47.105525],
-  "geometry": {"coordinates":[-104.713091,47.105525],"type":"Point"}
+  "bbox": [
+    -104.713091,
+    47.105525,
+    -104.713091,
+    47.105525
+],
+  "geometry": {"coordinates":[-104.71309100000001,47.105525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185885427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.066021,45.690054,-111.066021,45.690054",
     "geom:latitude":45.690054,
     "geom:longitude":-111.066021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Brentwood Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185885427,
-    "wof:lastmodified":1449007479,
+    "wof:lastmodified":1466641623,
     "wof:name":"KLW Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.066021,45.690054,-111.066021,45.690054],
-  "geometry": {"coordinates":[-111.066021,45.690054],"type":"Point"}
+  "bbox": [
+    -111.066021,
+    45.690054,
+    -111.066021,
+    45.690054
+],
+  "geometry": {"coordinates":[-111.06602100000001,45.690054],"type":"Point"}
 }

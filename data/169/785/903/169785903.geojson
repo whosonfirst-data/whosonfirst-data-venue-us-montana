@@ -2,13 +2,14 @@
   "id": 169785903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.405265,45.812107,-108.405265,45.812107",
     "geom:latitude":45.812107,
     "geom:longitude":-108.405265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3208 Becraft Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169785903,
-    "wof:lastmodified":1449035398,
+    "wof:lastmodified":1466641249,
     "wof:name":"Becraft Mobile Park",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-108.405265,45.812107,-108.405265,45.812107],
+  "bbox": [
+    -108.405265,
+    45.812107,
+    -108.405265,
+    45.812107
+],
   "geometry": {"coordinates":[-108.405265,45.812107],"type":"Point"}
 }

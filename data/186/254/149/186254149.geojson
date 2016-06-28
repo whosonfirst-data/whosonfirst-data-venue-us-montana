@@ -2,13 +2,14 @@
   "id": 186254149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.183273,47.812439,-112.183273,47.812439",
     "geom:latitude":47.812439,
     "geom:longitude":-112.183273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 1st St NE",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186254149,
-    "wof:lastmodified":1449052213,
+    "wof:lastmodified":1466642529,
     "wof:name":"Front Range Supply LLC",
     "wof:parent_id":85810939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-112.183273,47.812439,-112.183273,47.812439],
+  "bbox": [
+    -112.183273,
+    47.812439,
+    -112.183273,
+    47.812439
+],
   "geometry": {"coordinates":[-112.183273,47.812439],"type":"Point"}
 }

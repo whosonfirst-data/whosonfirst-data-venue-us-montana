@@ -2,13 +2,14 @@
   "id": 169817239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.534214,46.015347,-112.534214,46.015347",
     "geom:latitude":46.015347,
     "geom:longitude":-112.534214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 E Quartz St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169817239,
-    "wof:lastmodified":1449035312,
+    "wof:lastmodified":1466641282,
     "wof:name":"O'Bro Audio",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-112.534214,46.015347,-112.534214,46.015347],
-  "geometry": {"coordinates":[-112.534214,46.015347],"type":"Point"}
+  "bbox": [
+    -112.534214,
+    46.015347,
+    -112.534214,
+    46.015347
+],
+  "geometry": {"coordinates":[-112.53421400000001,46.015347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186172597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.817941,45.154338,-110.817941,45.154338",
     "geom:latitude":45.154338,
     "geom:longitude":-110.817941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Sphinx Dr",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186172597,
-    "wof:lastmodified":1449051453,
+    "wof:lastmodified":1466642386,
     "wof:name":"Ron Burke Owner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "weed"
     ]
 },
-  "bbox": [-110.817941,45.154338,-110.817941,45.154338],
+  "bbox": [
+    -110.817941,
+    45.154338,
+    -110.817941,
+    45.154338
+],
   "geometry": {"coordinates":[-110.817941,45.154338],"type":"Point"}
 }

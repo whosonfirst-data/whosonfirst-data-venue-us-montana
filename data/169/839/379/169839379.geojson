@@ -2,13 +2,14 @@
   "id": 169839379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.180038,46.042973,-114.180038,46.042973",
     "geom:latitude":46.042973,
     "geom:longitude":-114.180038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 Old Darby Rd",
     "sg:city":"Darby",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169839379,
-    "wof:lastmodified":1449034665,
+    "wof:lastmodified":1466641310,
     "wof:name":"Pine Door Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-114.180038,46.042973,-114.180038,46.042973],
+  "bbox": [
+    -114.180038,
+    46.042973,
+    -114.180038,
+    46.042973
+],
   "geometry": {"coordinates":[-114.180038,46.042973],"type":"Point"}
 }

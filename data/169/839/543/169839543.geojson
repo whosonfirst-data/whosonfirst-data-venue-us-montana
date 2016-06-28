@@ -2,13 +2,14 @@
   "id": 169839543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.553104,48.387323,-115.553104,48.387323",
     "geom:latitude":48.387323,
     "geom:longitude":-115.553104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 E 9th St",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169839543,
-    "wof:lastmodified":1449034665,
+    "wof:lastmodified":1466641313,
     "wof:name":"Hav-A-Java Espresso To-Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.553104,48.387323,-115.553104,48.387323],
+  "bbox": [
+    -115.553104,
+    48.387323,
+    -115.553104,
+    48.387323
+],
   "geometry": {"coordinates":[-115.553104,48.387323],"type":"Point"}
 }

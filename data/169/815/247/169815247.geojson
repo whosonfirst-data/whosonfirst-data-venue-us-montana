@@ -2,13 +2,14 @@
   "id": 169815247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.491327,45.791397,-108.491327,45.791397",
     "geom:latitude":45.791397,
     "geom:longitude":-108.491327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N 15th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169815247,
-    "wof:lastmodified":1449034283,
+    "wof:lastmodified":1466641284,
     "wof:name":"Swanke Saddle Co",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.491327,45.791397,-108.491327,45.791397],
+  "bbox": [
+    -108.491327,
+    45.791397,
+    -108.491327,
+    45.791397
+],
   "geometry": {"coordinates":[-108.491327,45.791397],"type":"Point"}
 }

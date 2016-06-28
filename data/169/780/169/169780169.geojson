@@ -2,13 +2,14 @@
   "id": 169780169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.112911,46.208312,-114.112911,46.208312",
     "geom:latitude":46.208312,
     "geom:longitude":-114.112911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Fish Hatchery Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169780169,
-    "wof:lastmodified":1449035143,
+    "wof:lastmodified":1466641233,
     "wof:name":"Becky Brandborg Website Dsgn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-114.112911,46.208312,-114.112911,46.208312],
+  "bbox": [
+    -114.112911,
+    46.208312,
+    -114.112911,
+    46.208312
+],
   "geometry": {"coordinates":[-114.112911,46.208312],"type":"Point"}
 }

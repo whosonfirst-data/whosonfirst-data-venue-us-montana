@@ -2,13 +2,14 @@
   "id": 186344863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.514348,45.781508,-108.514348,45.781508",
     "geom:latitude":45.781508,
     "geom:longitude":-108.514348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N 33rd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186344863,
-    "wof:lastmodified":1449050403,
+    "wof:lastmodified":1466642839,
     "wof:name":"Terry L Seiffert",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.514348,45.781508,-108.514348,45.781508],
+  "bbox": [
+    -108.514348,
+    45.781508,
+    -108.514348,
+    45.781508
+],
   "geometry": {"coordinates":[-108.514348,45.781508],"type":"Point"}
 }

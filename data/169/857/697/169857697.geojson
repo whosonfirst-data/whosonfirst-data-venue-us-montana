@@ -2,13 +2,14 @@
   "id": 169857697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.002607,46.616751,-112.002607,46.616751",
     "geom:latitude":46.616751,
     "geom:longitude":-112.002607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 E Custer Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169857697,
-    "wof:lastmodified":1449034826,
+    "wof:lastmodified":1466641347,
     "wof:name":"Lewis & Clark Humane Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "humane"
     ]
 },
-  "bbox": [-112.002607,46.616751,-112.002607,46.616751],
+  "bbox": [
+    -112.002607,
+    46.616751,
+    -112.002607,
+    46.616751
+],
   "geometry": {"coordinates":[-112.002607,46.616751],"type":"Point"}
 }

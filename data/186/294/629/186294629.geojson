@@ -2,13 +2,14 @@
   "id": 186294629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.610619,48.27823,-113.610619,48.27823",
     "geom:latitude":48.27823,
     "geom:longitude":-113.610619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 Izaak Walton Inn Rd",
     "sg:city":"Essex",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186294629,
-    "wof:lastmodified":1449052270,
+    "wof:lastmodified":1466642608,
     "wof:name":"Izaak Walton Inn",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.610619,48.27823,-113.610619,48.27823],
+  "bbox": [
+    -113.610619,
+    48.27823,
+    -113.610619,
+    48.27823
+],
   "geometry": {"coordinates":[-113.610619,48.27823],"type":"Point"}
 }

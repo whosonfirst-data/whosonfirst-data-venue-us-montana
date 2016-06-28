@@ -2,13 +2,14 @@
   "id": 186448195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.628058,48.195159,-106.628058,48.195159",
     "geom:latitude":48.195159,
     "geom:longitude":-106.628058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 US Hwy 2",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186448195,
-    "wof:lastmodified":1449052911,
+    "wof:lastmodified":1466643007,
     "wof:name":"Prewett Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "custom"
     ]
 },
-  "bbox": [-106.628058,48.195159,-106.628058,48.195159],
+  "bbox": [
+    -106.628058,
+    48.195159,
+    -106.628058,
+    48.195159
+],
   "geometry": {"coordinates":[-106.628058,48.195159],"type":"Point"}
 }

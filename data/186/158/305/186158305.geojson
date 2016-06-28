@@ -2,13 +2,14 @@
   "id": 186158305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.156973,46.256862,-114.156973,46.256862",
     "geom:latitude":46.256862,
     "geom:longitude":-114.156973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 N 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186158305,
-    "wof:lastmodified":1449052154,
+    "wof:lastmodified":1466642135,
     "wof:name":"Bitterroot Arts & Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-114.156973,46.256862,-114.156973,46.256862],
-  "geometry": {"coordinates":[-114.156973,46.256862],"type":"Point"}
+  "bbox": [
+    -114.156973,
+    46.256862,
+    -114.156973,
+    46.256862
+],
+  "geometry": {"coordinates":[-114.15697299999999,46.256862],"type":"Point"}
 }

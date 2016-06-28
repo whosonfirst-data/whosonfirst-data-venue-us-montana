@@ -2,13 +2,14 @@
   "id": 186423751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.311954,48.196887,-114.311954,48.196887",
     "geom:latitude":48.196887,
     "geom:longitude":-114.311954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 2nd St E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186423751,
-    "wof:lastmodified":1449050854,
+    "wof:lastmodified":1466642924,
     "wof:name":"Rollin E Schauble",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.311954,48.196887,-114.311954,48.196887],
+  "bbox": [
+    -114.311954,
+    48.196887,
+    -114.311954,
+    48.196887
+],
   "geometry": {"coordinates":[-114.311954,48.196887],"type":"Point"}
 }

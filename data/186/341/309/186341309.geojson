@@ -2,13 +2,14 @@
   "id": 186341309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.476911,45.804394,-108.476911,45.804394",
     "geom:latitude":45.804394,
     "geom:longitude":-108.476911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186341309,
-    "wof:lastmodified":1449052919,
+    "wof:lastmodified":1466642836,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.476911,45.804394,-108.476911,45.804394],
+  "bbox": [
+    -108.476911,
+    45.804394,
+    -108.476911,
+    45.804394
+],
   "geometry": {"coordinates":[-108.476911,45.804394],"type":"Point"}
 }

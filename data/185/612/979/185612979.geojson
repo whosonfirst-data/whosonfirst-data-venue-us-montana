@@ -2,13 +2,14 @@
   "id": 185612979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.568333,45.751861,-108.568333,45.751861",
     "geom:latitude":45.751861,
     "geom:longitude":-108.568333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Overland Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185612979,
-    "wof:lastmodified":1449007321,
+    "wof:lastmodified":1466641202,
     "wof:name":"Rocky Mountain Ranch Realty",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.568333,45.751861,-108.568333,45.751861],
+  "bbox": [
+    -108.568333,
+    45.751861,
+    -108.568333,
+    45.751861
+],
   "geometry": {"coordinates":[-108.568333,45.751861],"type":"Point"}
 }

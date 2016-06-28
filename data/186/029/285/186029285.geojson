@@ -2,13 +2,14 @@
   "id": 186029285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.343825,47.593714,-115.343825,47.593714",
     "geom:latitude":47.593714,
     "geom:longitude":-115.343825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Main St",
     "sg:city":"Thompson Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186029285,
-    "wof:lastmodified":1449051507,
+    "wof:lastmodified":1466641604,
     "wof:name":"Cenex Supply & Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-115.343825,47.593714,-115.343825,47.593714],
+  "bbox": [
+    -115.343825,
+    47.593714,
+    -115.343825,
+    47.593714
+],
   "geometry": {"coordinates":[-115.343825,47.593714],"type":"Point"}
 }

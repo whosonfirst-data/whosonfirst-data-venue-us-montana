@@ -2,13 +2,14 @@
   "id": 185655391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.674646,48.553149,-109.674646,48.553149",
     "geom:latitude":48.553149,
     "geom:longitude":-109.674646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 1st St",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185655391,
-    "wof:lastmodified":1449007526,
+    "wof:lastmodified":1466641374,
     "wof:name":"Rays Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "carpet"
     ]
 },
-  "bbox": [-109.674646,48.553149,-109.674646,48.553149],
+  "bbox": [
+    -109.674646,
+    48.553149,
+    -109.674646,
+    48.553149
+],
   "geometry": {"coordinates":[-109.674646,48.553149],"type":"Point"}
 }

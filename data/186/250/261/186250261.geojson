@@ -2,13 +2,14 @@
   "id": 186250261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.553221,45.666548,-110.553221,45.666548",
     "geom:latitude":45.666548,
     "geom:longitude":-110.553221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 E Park St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186250261,
-    "wof:lastmodified":1449051908,
+    "wof:lastmodified":1466642524,
     "wof:name":"Town Pump Inc & Affiliates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.553221,45.666548,-110.553221,45.666548],
-  "geometry": {"coordinates":[-110.553221,45.666548],"type":"Point"}
+  "bbox": [
+    -110.553221,
+    45.666548,
+    -110.553221,
+    45.666548
+],
+  "geometry": {"coordinates":[-110.55322099999999,45.666548],"type":"Point"}
 }

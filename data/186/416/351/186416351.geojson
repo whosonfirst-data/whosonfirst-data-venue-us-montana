@@ -2,13 +2,14 @@
   "id": 186416351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.420273,48.791404,-105.420273,48.791404",
     "geom:latitude":48.791404,
     "geom:longitude":-105.420273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Main St",
     "sg:city":"Scobey",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186416351,
-    "wof:lastmodified":1449051583,
+    "wof:lastmodified":1466643061,
     "wof:name":"Independence Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.420273,48.791404,-105.420273,48.791404],
-  "geometry": {"coordinates":[-105.420273,48.791404],"type":"Point"}
+  "bbox": [
+    -105.420273,
+    48.791404,
+    -105.420273,
+    48.791404
+],
+  "geometry": {"coordinates":[-105.42027299999999,48.791404],"type":"Point"}
 }

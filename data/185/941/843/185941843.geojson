@@ -2,13 +2,14 @@
   "id": 185941843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.548217,48.38194,-115.548217,48.38194",
     "geom:latitude":48.38194,
     "geom:longitude":-115.548217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 US Hwy 2 S",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185941843,
-    "wof:lastmodified":1449007567,
+    "wof:lastmodified":1466641695,
     "wof:name":"Kootenai Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.548217,48.38194,-115.548217,48.38194],
-  "geometry": {"coordinates":[-115.548217,48.38194],"type":"Point"}
+  "bbox": [
+    -115.548217,
+    48.38194,
+    -115.548217,
+    48.38194
+],
+  "geometry": {"coordinates":[-115.54821699999999,48.38194],"type":"Point"}
 }

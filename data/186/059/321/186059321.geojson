@@ -2,13 +2,14 @@
   "id": 186059321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.036884,45.67934,-111.036884,45.67934",
     "geom:latitude":45.67934,
     "geom:longitude":-111.036884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 E Main St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186059321,
-    "wof:lastmodified":1449051114,
+    "wof:lastmodified":1466641837,
     "wof:name":"Powder Horn The",
     "wof:parent_id":85876469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "apparel"
     ]
 },
-  "bbox": [-111.036884,45.67934,-111.036884,45.67934],
+  "bbox": [
+    -111.036884,
+    45.67934,
+    -111.036884,
+    45.67934
+],
   "geometry": {"coordinates":[-111.036884,45.67934],"type":"Point"}
 }

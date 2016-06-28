@@ -2,13 +2,14 @@
   "id": 169700129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.228652,48.184267,-114.228652,48.184267",
     "geom:latitude":48.184267,
     "geom:longitude":-114.228652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 Egan Rd",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169700129,
-    "wof:lastmodified":1449035670,
+    "wof:lastmodified":1466641149,
     "wof:name":"Siberius Construction",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-114.228652,48.184267,-114.228652,48.184267],
+  "bbox": [
+    -114.228652,
+    48.184267,
+    -114.228652,
+    48.184267
+],
   "geometry": {"coordinates":[-114.228652,48.184267],"type":"Point"}
 }

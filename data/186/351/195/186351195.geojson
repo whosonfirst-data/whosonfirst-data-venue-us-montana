@@ -2,13 +2,14 @@
   "id": 186351195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.957785,46.632413,-111.957785,46.632413",
     "geom:latitude":46.632413,
     "geom:longitude":-111.957785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3515 Birkland Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186351195,
-    "wof:lastmodified":1449052608,
+    "wof:lastmodified":1466642860,
     "wof:name":"Aire-Master of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-111.957785,46.632413,-111.957785,46.632413],
+  "bbox": [
+    -111.957785,
+    46.632413,
+    -111.957785,
+    46.632413
+],
   "geometry": {"coordinates":[-111.957785,46.632413],"type":"Point"}
 }

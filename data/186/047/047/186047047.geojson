@@ -2,13 +2,14 @@
   "id": 186047047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.228517,46.348533,-114.228517,46.348533",
     "geom:latitude":46.348533,
     "geom:longitude":-114.228517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"897 Bourne Loop",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186047047,
-    "wof:lastmodified":1449052103,
+    "wof:lastmodified":1466641813,
     "wof:name":"Ragged Mountain Antler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fixture"
     ]
 },
-  "bbox": [-114.228517,46.348533,-114.228517,46.348533],
+  "bbox": [
+    -114.228517,
+    46.348533,
+    -114.228517,
+    46.348533
+],
   "geometry": {"coordinates":[-114.228517,46.348533],"type":"Point"}
 }

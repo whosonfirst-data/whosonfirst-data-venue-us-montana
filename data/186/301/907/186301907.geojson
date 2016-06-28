@@ -2,13 +2,14 @@
   "id": 186301907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.230781,48.049037,-114.230781,48.049037",
     "geom:latitude":48.049037,
     "geom:longitude":-114.230781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Deer Creek Rd",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186301907,
-    "wof:lastmodified":1449051083,
+    "wof:lastmodified":1466642625,
     "wof:name":"Jochim Mechanical Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-114.230781,48.049037,-114.230781,48.049037],
-  "geometry": {"coordinates":[-114.230781,48.049037],"type":"Point"}
+  "bbox": [
+    -114.230781,
+    48.049037,
+    -114.230781,
+    48.049037
+],
+  "geometry": {"coordinates":[-114.23078099999999,48.049037],"type":"Point"}
 }

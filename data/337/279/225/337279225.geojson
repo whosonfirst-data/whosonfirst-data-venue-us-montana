@@ -2,13 +2,14 @@
   "id": 337279225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.134752,47.693147,-114.134752,47.693147",
     "geom:latitude":47.693147,
     "geom:longitude":-114.134752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 US Hwy 93",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337279225,
-    "wof:lastmodified":1449027318,
+    "wof:lastmodified":1466641225,
     "wof:name":"Flathead Raft Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.134752,47.693147,-114.134752,47.693147],
-  "geometry": {"coordinates":[-114.134752,47.693147],"type":"Point"}
+  "bbox": [
+    -114.134752,
+    47.693147,
+    -114.134752,
+    47.693147
+],
+  "geometry": {"coordinates":[-114.13475200000001,47.693147],"type":"Point"}
 }

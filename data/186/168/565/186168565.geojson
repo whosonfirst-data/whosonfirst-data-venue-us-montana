@@ -2,13 +2,14 @@
   "id": 186168565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.457404,45.830219,-108.457404,45.830219",
     "geom:latitude":45.830219,
     "geom:longitude":-108.457404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 Erb Cir",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186168565,
-    "wof:lastmodified":1449051774,
+    "wof:lastmodified":1466642152,
     "wof:name":"Seasilver Authorized Dealer -",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vitamin"
     ]
 },
-  "bbox": [-108.457404,45.830219,-108.457404,45.830219],
+  "bbox": [
+    -108.457404,
+    45.830219,
+    -108.457404,
+    45.830219
+],
   "geometry": {"coordinates":[-108.457404,45.830219],"type":"Point"}
 }

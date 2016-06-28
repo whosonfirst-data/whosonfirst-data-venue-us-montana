@@ -2,13 +2,14 @@
   "id": 186342315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.29232,47.513966,-111.29232,47.513966",
     "geom:latitude":47.513966,
     "geom:longitude":-111.29232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 8th Ave N",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186342315,
-    "wof:lastmodified":1449052841,
+    "wof:lastmodified":1466642699,
     "wof:name":"Bk Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.29232,47.513966,-111.29232,47.513966],
+  "bbox": [
+    -111.29232,
+    47.513966,
+    -111.29232,
+    47.513966
+],
   "geometry": {"coordinates":[-111.29232,47.513966],"type":"Point"}
 }

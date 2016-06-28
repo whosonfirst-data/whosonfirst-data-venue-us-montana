@@ -2,13 +2,14 @@
   "id": 186459707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.735647,46.391226,-112.735647,46.391226",
     "geom:latitude":46.391226,
     "geom:longitude":-112.735647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1139 Main St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186459707,
-    "wof:lastmodified":1449051466,
+    "wof:lastmodified":1466643045,
     "wof:name":"Heany's Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-112.735647,46.391226,-112.735647,46.391226],
+  "bbox": [
+    -112.735647,
+    46.391226,
+    -112.735647,
+    46.391226
+],
   "geometry": {"coordinates":[-112.735647,46.391226],"type":"Point"}
 }

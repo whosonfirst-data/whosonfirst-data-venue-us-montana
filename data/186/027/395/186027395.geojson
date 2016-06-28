@@ -2,13 +2,14 @@
   "id": 186027395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.735226,46.397806,-112.735226,46.397806",
     "geom:latitude":46.397806,
     "geom:longitude":-112.735226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Main St",
     "sg:city":"Deer Lodge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186027395,
-    "wof:lastmodified":1449050908,
+    "wof:lastmodified":1466641570,
     "wof:name":"Western States Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-112.735226,46.397806,-112.735226,46.397806],
+  "bbox": [
+    -112.735226,
+    46.397806,
+    -112.735226,
+    46.397806
+],
   "geometry": {"coordinates":[-112.735226,46.397806],"type":"Point"}
 }

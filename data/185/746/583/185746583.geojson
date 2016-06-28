@@ -2,13 +2,14 @@
   "id": 185746583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.034733,46.911916,-114.034733,46.911916",
     "geom:latitude":46.911916,
     "geom:longitude":-114.034733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5059 N Reserve St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185746583,
-    "wof:lastmodified":1449006584,
+    "wof:lastmodified":1466641473,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85891727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.034733,46.911916,-114.034733,46.911916],
+  "bbox": [
+    -114.034733,
+    46.911916,
+    -114.034733,
+    46.911916
+],
   "geometry": {"coordinates":[-114.034733,46.911916],"type":"Point"}
 }

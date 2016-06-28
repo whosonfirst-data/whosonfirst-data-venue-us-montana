@@ -2,13 +2,14 @@
   "id": 185929243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.248552,47.511573,-111.248552,47.511573",
     "geom:latitude":47.511573,
     "geom:longitude":-111.248552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3308 6th Ave N",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185929243,
-    "wof:lastmodified":1449007229,
+    "wof:lastmodified":1466641677,
     "wof:name":"Phantom Zone Electronics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-111.248552,47.511573,-111.248552,47.511573],
+  "bbox": [
+    -111.248552,
+    47.511573,
+    -111.248552,
+    47.511573
+],
   "geometry": {"coordinates":[-111.248552,47.511573],"type":"Point"}
 }

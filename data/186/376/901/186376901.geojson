@@ -2,13 +2,14 @@
   "id": 186376901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.756965,45.650895,-108.756965,45.650895",
     "geom:latitude":45.650895,
     "geom:longitude":-108.756965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 US Hwy 212 S",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186376901,
-    "wof:lastmodified":1449051309,
+    "wof:lastmodified":1466642886,
     "wof:name":"Rivers Edge",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-108.756965,45.650895,-108.756965,45.650895],
-  "geometry": {"coordinates":[-108.756965,45.650895],"type":"Point"}
+  "bbox": [
+    -108.756965,
+    45.650895,
+    -108.756965,
+    45.650895
+],
+  "geometry": {"coordinates":[-108.75696499999999,45.650895],"type":"Point"}
 }

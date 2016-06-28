@@ -2,13 +2,14 @@
   "id": 186392785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.55346,46.010823,-112.55346,46.010823",
     "geom:latitude":46.010823,
     "geom:longitude":-112.55346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1139 W Mercury St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186392785,
-    "wof:lastmodified":1449052478,
+    "wof:lastmodified":1466642847,
     "wof:name":"Ken Reick Piano Tuning & Rpr",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-112.55346,46.010823,-112.55346,46.010823],
+  "bbox": [
+    -112.55346,
+    46.010823,
+    -112.55346,
+    46.010823
+],
   "geometry": {"coordinates":[-112.55346,46.010823],"type":"Point"}
 }

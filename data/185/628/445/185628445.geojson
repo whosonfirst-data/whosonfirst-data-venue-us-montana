@@ -2,13 +2,14 @@
   "id": 185628445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.039302,46.587399,-112.039302,46.587399",
     "geom:latitude":46.587399,
     "geom:longitude":-112.039302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185628445,
-    "wof:lastmodified":1449007918,
+    "wof:lastmodified":1466641318,
     "wof:name":"Hollow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-112.039302,46.587399,-112.039302,46.587399],
-  "geometry": {"coordinates":[-112.039302,46.587399],"type":"Point"}
+  "bbox": [
+    -112.039302,
+    46.587399,
+    -112.039302,
+    46.587399
+],
+  "geometry": {"coordinates":[-112.03930200000001,46.587399],"type":"Point"}
 }

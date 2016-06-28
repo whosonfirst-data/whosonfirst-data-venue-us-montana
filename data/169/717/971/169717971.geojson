@@ -2,13 +2,14 @@
   "id": 169717971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.636067,48.438705,-115.636067,48.438705",
     "geom:latitude":48.438705,
     "geom:longitude":-115.636067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5683 Kootenai River Rd",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169717971,
-    "wof:lastmodified":1449032774,
+    "wof:lastmodified":1466641727,
     "wof:name":"Vallay Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sporting"
     ]
 },
-  "bbox": [-115.636067,48.438705,-115.636067,48.438705],
+  "bbox": [
+    -115.636067,
+    48.438705,
+    -115.636067,
+    48.438705
+],
   "geometry": {"coordinates":[-115.636067,48.438705],"type":"Point"}
 }

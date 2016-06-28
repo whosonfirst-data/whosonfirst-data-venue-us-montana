@@ -2,13 +2,14 @@
   "id": 185824857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.321387,48.201006,-114.321387,48.201006",
     "geom:latitude":48.201006,
     "geom:longitude":-114.321387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 W Idaho St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185824857,
-    "wof:lastmodified":1449007161,
+    "wof:lastmodified":1466641566,
     "wof:name":"AAA Montana",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-114.321387,48.201006,-114.321387,48.201006],
+  "bbox": [
+    -114.321387,
+    48.201006,
+    -114.321387,
+    48.201006
+],
   "geometry": {"coordinates":[-114.321387,48.201006],"type":"Point"}
 }

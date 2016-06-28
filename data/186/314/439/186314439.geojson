@@ -2,13 +2,14 @@
   "id": 186314439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.713799,45.627321,-108.713799,45.627321",
     "geom:latitude":45.627321,
     "geom:longitude":-108.713799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2835 Spring Creek Rd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186314439,
-    "wof:lastmodified":1449052922,
+    "wof:lastmodified":1466642645,
     "wof:name":"Don Schraudner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-108.713799,45.627321,-108.713799,45.627321],
-  "geometry": {"coordinates":[-108.713799,45.627321],"type":"Point"}
+  "bbox": [
+    -108.713799,
+    45.627321,
+    -108.713799,
+    45.627321
+],
+  "geometry": {"coordinates":[-108.71379899999999,45.627321],"type":"Point"}
 }

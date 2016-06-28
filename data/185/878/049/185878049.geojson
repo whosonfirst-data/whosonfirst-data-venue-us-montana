@@ -2,13 +2,14 @@
   "id": 185878049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.032796,46.838874,-114.032796,46.838874",
     "geom:latitude":46.838874,
     "geom:longitude":-114.032796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3502 Brooks St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185878049,
-    "wof:lastmodified":1449007467,
+    "wof:lastmodified":1466641784,
     "wof:name":"First Interstate Bank",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-114.032796,46.838874,-114.032796,46.838874],
+  "bbox": [
+    -114.032796,
+    46.838874,
+    -114.032796,
+    46.838874
+],
   "geometry": {"coordinates":[-114.032796,46.838874],"type":"Point"}
 }

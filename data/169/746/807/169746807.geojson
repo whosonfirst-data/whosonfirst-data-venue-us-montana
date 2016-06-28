@@ -2,13 +2,14 @@
   "id": 169746807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.976854,45.482901,-108.976854,45.482901",
     "geom:latitude":45.482901,
     "geom:longitude":-108.976854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 W Front Ave",
     "sg:city":"Joliet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169746807,
-    "wof:lastmodified":1449032654,
+    "wof:lastmodified":1466641186,
     "wof:name":"Joliet Motel & Expresso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.976854,45.482901,-108.976854,45.482901],
+  "bbox": [
+    -108.976854,
+    45.482901,
+    -108.976854,
+    45.482901
+],
   "geometry": {"coordinates":[-108.976854,45.482901],"type":"Point"}
 }

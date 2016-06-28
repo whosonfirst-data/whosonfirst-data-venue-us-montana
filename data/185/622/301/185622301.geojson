@@ -2,13 +2,14 @@
   "id": 185622301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.694552,47.125842,-104.694552,47.125842",
     "geom:latitude":47.125842,
     "geom:longitude":-104.694552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 California St",
     "sg:city":"Glendive",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185622301,
-    "wof:lastmodified":1449007934,
+    "wof:lastmodified":1466641222,
     "wof:name":"Dawson County Housing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-104.694552,47.125842,-104.694552,47.125842],
+  "bbox": [
+    -104.694552,
+    47.125842,
+    -104.694552,
+    47.125842
+],
   "geometry": {"coordinates":[-104.694552,47.125842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169719569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.533825,46.012263,-112.533825,46.012263",
     "geom:latitude":46.012263,
     "geom:longitude":-112.533825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 E Galena St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169719569,
-    "wof:lastmodified":1449033112,
+    "wof:lastmodified":1466641729,
     "wof:name":"Butte Sheltered Workshop",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [-112.533825,46.012263,-112.533825,46.012263],
-  "geometry": {"coordinates":[-112.533825,46.012263],"type":"Point"}
+  "bbox": [
+    -112.533825,
+    46.012263,
+    -112.533825,
+    46.012263
+],
+  "geometry": {"coordinates":[-112.53382499999999,46.012263],"type":"Point"}
 }

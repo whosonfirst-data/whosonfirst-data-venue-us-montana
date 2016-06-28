@@ -2,13 +2,14 @@
   "id": 186170179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.598759,45.763643,-108.598759,45.763643",
     "geom:latitude":45.763643,
     "geom:longitude":-108.598759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3328 Pipestone Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186170179,
-    "wof:lastmodified":1449050489,
+    "wof:lastmodified":1466642153,
     "wof:name":"Cakes & Bake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.598759,45.763643,-108.598759,45.763643],
+  "bbox": [
+    -108.598759,
+    45.763643,
+    -108.598759,
+    45.763643
+],
   "geometry": {"coordinates":[-108.598759,45.763643],"type":"Point"}
 }

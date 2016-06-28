@@ -2,13 +2,14 @@
   "id": 185603513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.246525,48.027177,-110.246525,48.027177",
     "geom:latitude":48.027177,
     "geom:longitude":-110.246525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6249 Virgelle Ferry Rd N",
     "sg:city":"Loma",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185603513,
-    "wof:lastmodified":1449007984,
+    "wof:lastmodified":1466641177,
     "wof:name":"J & B Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-110.246525,48.027177,-110.246525,48.027177],
-  "geometry": {"coordinates":[-110.246525,48.027177],"type":"Point"}
+  "bbox": [
+    -110.246525,
+    48.027177,
+    -110.246525,
+    48.027177
+],
+  "geometry": {"coordinates":[-110.24652500000001,48.027177],"type":"Point"}
 }

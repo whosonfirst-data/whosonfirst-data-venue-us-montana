@@ -2,13 +2,14 @@
   "id": 185874287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.627784,45.210522,-112.627784,45.210522",
     "geom:latitude":45.210522,
     "geom:longitude":-112.627784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 E Glendale St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185874287,
-    "wof:lastmodified":1449008106,
+    "wof:lastmodified":1466641608,
     "wof:name":"Adam Hildreth Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-112.627784,45.210522,-112.627784,45.210522],
-  "geometry": {"coordinates":[-112.627784,45.210522],"type":"Point"}
+  "bbox": [
+    -112.627784,
+    45.210522,
+    -112.627784,
+    45.210522
+],
+  "geometry": {"coordinates":[-112.62778400000001,45.210522],"type":"Point"}
 }

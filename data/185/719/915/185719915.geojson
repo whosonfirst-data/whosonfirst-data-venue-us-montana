@@ -2,13 +2,14 @@
   "id": 185719915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.537326,46.013507,-112.537326,46.013507",
     "geom:latitude":46.013507,
     "geom:longitude":-112.537326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 W Broadway St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185719915,
-    "wof:lastmodified":1449006811,
+    "wof:lastmodified":1466641448,
     "wof:name":"Butte Prerelease Center",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-112.537326,46.013507,-112.537326,46.013507],
-  "geometry": {"coordinates":[-112.537326,46.013507],"type":"Point"}
+  "bbox": [
+    -112.537326,
+    46.013507,
+    -112.537326,
+    46.013507
+],
+  "geometry": {"coordinates":[-112.53732599999999,46.013507],"type":"Point"}
 }

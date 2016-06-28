@@ -2,13 +2,14 @@
   "id": 185923779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.497406,45.760814,-108.497406,45.760814",
     "geom:latitude":45.760814,
     "geom:longitude":-108.497406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2915 Hannon Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185923779,
-    "wof:lastmodified":1449008136,
+    "wof:lastmodified":1466641670,
     "wof:name":"Big Sky Fire Protection Inc",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "sprinkling"
     ]
 },
-  "bbox": [-108.497406,45.760814,-108.497406,45.760814],
+  "bbox": [
+    -108.497406,
+    45.760814,
+    -108.497406,
+    45.760814
+],
   "geometry": {"coordinates":[-108.497406,45.760814],"type":"Point"}
 }

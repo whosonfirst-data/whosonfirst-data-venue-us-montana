@@ -2,13 +2,14 @@
   "id": 185995267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.568652,45.78398,-108.568652,45.78398",
     "geom:latitude":45.78398,
     "geom:longitude":-108.568652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2032 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185995267,
-    "wof:lastmodified":1449008045,
+    "wof:lastmodified":1466641710,
     "wof:name":"Carpet Barn",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.568652,45.78398,-108.568652,45.78398],
+  "bbox": [
+    -108.568652,
+    45.78398,
+    -108.568652,
+    45.78398
+],
   "geometry": {"coordinates":[-108.568652,45.78398],"type":"Point"}
 }

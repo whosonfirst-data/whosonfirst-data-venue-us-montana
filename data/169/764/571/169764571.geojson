@@ -2,13 +2,14 @@
   "id": 169764571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.124654,45.930614,-114.124654,45.930614",
     "geom:latitude":45.930614,
     "geom:longitude":-114.124654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Conner Cutoff Rd",
     "sg:city":"Conner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169764571,
-    "wof:lastmodified":1449035806,
+    "wof:lastmodified":1466641209,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.124654,45.930614,-114.124654,45.930614],
-  "geometry": {"coordinates":[-114.124654,45.930614],"type":"Point"}
+  "bbox": [
+    -114.124654,
+    45.930614,
+    -114.124654,
+    45.930614
+],
+  "geometry": {"coordinates":[-114.12465400000001,45.930614],"type":"Point"}
 }

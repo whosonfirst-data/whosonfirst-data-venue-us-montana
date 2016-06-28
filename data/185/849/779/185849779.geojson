@@ -2,13 +2,14 @@
   "id": 185849779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.014616,46.586769,-112.014616,46.586769",
     "geom:latitude":46.586769,
     "geom:longitude":-112.014616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N Sanders St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185849779,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1466641587,
     "wof:name":"Robert Scarr DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.014616,46.586769,-112.014616,46.586769],
+  "bbox": [
+    -112.014616,
+    46.586769,
+    -112.014616,
+    46.586769
+],
   "geometry": {"coordinates":[-112.014616,46.586769],"type":"Point"}
 }

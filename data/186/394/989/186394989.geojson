@@ -2,13 +2,14 @@
   "id": 186394989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.857435,47.151001,-105.857435,47.151001",
     "geom:latitude":47.151001,
     "geom:longitude":-105.857435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"585 Hughes Rd",
     "sg:city":"Brockway",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186394989,
-    "wof:lastmodified":1449050928,
+    "wof:lastmodified":1466642859,
     "wof:name":"Lawrence Rath Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.857435,47.151001,-105.857435,47.151001],
+  "bbox": [
+    -105.857435,
+    47.151001,
+    -105.857435,
+    47.151001
+],
   "geometry": {"coordinates":[-105.857435,47.151001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185687305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.662583,48.551718,-109.662583,48.551718",
     "geom:latitude":48.551718,
     "geom:longitude":-109.662583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 1st St",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185687305,
-    "wof:lastmodified":1449007055,
+    "wof:lastmodified":1466641405,
     "wof:name":"Emporium Food & Fuel Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "store"
     ]
 },
-  "bbox": [-109.662583,48.551718,-109.662583,48.551718],
+  "bbox": [
+    -109.662583,
+    48.551718,
+    -109.662583,
+    48.551718
+],
   "geometry": {"coordinates":[-109.662583,48.551718],"type":"Point"}
 }

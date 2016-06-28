@@ -2,13 +2,14 @@
   "id": 185839291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.145354,45.948761,-108.145354,45.948761",
     "geom:latitude":45.948761,
     "geom:longitude":-108.145354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2268 2nd St W",
     "sg:city":"Ballantine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185839291,
-    "wof:lastmodified":1449007582,
+    "wof:lastmodified":1466641574,
     "wof:name":"Boardwalk Cafe & Bar",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.145354,45.948761,-108.145354,45.948761],
+  "bbox": [
+    -108.145354,
+    45.948761,
+    -108.145354,
+    45.948761
+],
   "geometry": {"coordinates":[-108.145354,45.948761],"type":"Point"}
 }

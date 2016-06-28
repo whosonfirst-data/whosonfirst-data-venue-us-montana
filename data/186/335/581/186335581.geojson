@@ -2,13 +2,14 @@
   "id": 186335581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.44088,45.521813,-109.44088,45.521813",
     "geom:latitude":45.521813,
     "geom:longitude":-109.44088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 S Woodard Ave",
     "sg:city":"Absarokee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186335581,
-    "wof:lastmodified":1449052136,
+    "wof:lastmodified":1466642829,
     "wof:name":"American Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-109.44088,45.521813,-109.44088,45.521813],
-  "geometry": {"coordinates":[-109.44088,45.521813],"type":"Point"}
+  "bbox": [
+    -109.44088,
+    45.521813,
+    -109.44088,
+    45.521813
+],
+  "geometry": {"coordinates":[-109.44088000000001,45.521813],"type":"Point"}
 }

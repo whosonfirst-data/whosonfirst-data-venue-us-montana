@@ -2,13 +2,14 @@
   "id": 185748311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.537876,45.988196,-112.537876,45.988196",
     "geom:latitude":45.988196,
     "geom:longitude":-112.537876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Placer St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185748311,
-    "wof:lastmodified":1449007814,
+    "wof:lastmodified":1466641473,
     "wof:name":"AAA Appraisal & Home Inspctn",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-112.537876,45.988196,-112.537876,45.988196],
+  "bbox": [
+    -112.537876,
+    45.988196,
+    -112.537876,
+    45.988196
+],
   "geometry": {"coordinates":[-112.537876,45.988196],"type":"Point"}
 }

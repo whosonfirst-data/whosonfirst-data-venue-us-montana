@@ -2,13 +2,14 @@
   "id": 186239883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.614893,45.72829,-107.614893,45.72829",
     "geom:latitude":45.72829,
     "geom:longitude":-107.614893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 W Division St",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186239883,
-    "wof:lastmodified":1449050499,
+    "wof:lastmodified":1466642515,
     "wof:name":"Custer Cntry SEC Investigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-107.614893,45.72829,-107.614893,45.72829],
+  "bbox": [
+    -107.614893,
+    45.72829,
+    -107.614893,
+    45.72829
+],
   "geometry": {"coordinates":[-107.614893,45.72829],"type":"Point"}
 }

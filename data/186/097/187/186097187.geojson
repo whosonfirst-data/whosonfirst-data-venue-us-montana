@@ -2,13 +2,14 @@
   "id": 186097187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.028902,47.909507,-114.028902,47.909507",
     "geom:latitude":47.909507,
     "geom:longitude":-114.028902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19676 E Shore Rd",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186097187,
-    "wof:lastmodified":1449051421,
+    "wof:lastmodified":1466641964,
     "wof:name":"Jacob Wormsbecker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tree"
     ]
 },
-  "bbox": [-114.028902,47.909507,-114.028902,47.909507],
+  "bbox": [
+    -114.028902,
+    47.909507,
+    -114.028902,
+    47.909507
+],
   "geometry": {"coordinates":[-114.028902,47.909507],"type":"Point"}
 }

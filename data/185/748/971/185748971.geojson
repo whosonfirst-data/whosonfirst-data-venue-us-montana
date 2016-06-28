@@ -2,13 +2,14 @@
   "id": 185748971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.036889,46.850724,-114.036889,46.850724",
     "geom:latitude":46.850724,
     "geom:longitude":-114.036889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 W Central Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185748971,
-    "wof:lastmodified":1449007814,
+    "wof:lastmodified":1466641479,
     "wof:name":"We RE Nuts",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-114.036889,46.850724,-114.036889,46.850724],
+  "bbox": [
+    -114.036889,
+    46.850724,
+    -114.036889,
+    46.850724
+],
   "geometry": {"coordinates":[-114.036889,46.850724],"type":"Point"}
 }

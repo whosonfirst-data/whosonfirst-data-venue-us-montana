@@ -2,13 +2,14 @@
   "id": 186388457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.229919,48.012998,-114.229919,48.012998",
     "geom:latitude":48.012998,
     "geom:longitude":-114.229919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Blacktail Rd",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186388457,
-    "wof:lastmodified":1449050375,
+    "wof:lastmodified":1466642835,
     "wof:name":"Lakeside Car Wash Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-114.229919,48.012998,-114.229919,48.012998],
+  "bbox": [
+    -114.229919,
+    48.012998,
+    -114.229919,
+    48.012998
+],
   "geometry": {"coordinates":[-114.229919,48.012998],"type":"Point"}
 }

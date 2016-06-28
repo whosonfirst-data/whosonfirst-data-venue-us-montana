@@ -2,13 +2,14 @@
   "id": 186441801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.026887,45.67927,-111.026887,45.67927",
     "geom:latitude":45.67927,
     "geom:longitude":-111.026887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 E Main St",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186441801,
-    "wof:lastmodified":1449050454,
+    "wof:lastmodified":1466642993,
     "wof:name":"Attic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.026887,45.67927,-111.026887,45.67927],
+  "bbox": [
+    -111.026887,
+    45.67927,
+    -111.026887,
+    45.67927
+],
   "geometry": {"coordinates":[-111.026887,45.67927],"type":"Point"}
 }

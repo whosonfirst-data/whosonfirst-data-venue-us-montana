@@ -2,13 +2,14 @@
   "id": 185885795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.512232,45.781221,-108.512232,45.781221",
     "geom:latitude":45.781221,
     "geom:longitude":-108.512232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 N 32nd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185885795,
-    "wof:lastmodified":1449007480,
+    "wof:lastmodified":1466641625,
     "wof:name":"Granite Tower",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "land"
     ]
 },
-  "bbox": [-108.512232,45.781221,-108.512232,45.781221],
+  "bbox": [
+    -108.512232,
+    45.781221,
+    -108.512232,
+    45.781221
+],
   "geometry": {"coordinates":[-108.512232,45.781221],"type":"Point"}
 }

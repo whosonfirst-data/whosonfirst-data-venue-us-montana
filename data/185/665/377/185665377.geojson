@@ -2,13 +2,14 @@
   "id": 185665377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.32533,47.488316,-111.32533,47.488316",
     "geom:latitude":47.488316,
     "geom:longitude":-111.32533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 Alder Dr",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185665377,
-    "wof:lastmodified":1449007098,
+    "wof:lastmodified":1466641383,
     "wof:name":"Chinatown Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.32533,47.488316,-111.32533,47.488316],
-  "geometry": {"coordinates":[-111.32533,47.488316],"type":"Point"}
+  "bbox": [
+    -111.32533,
+    47.488316,
+    -111.32533,
+    47.488316
+],
+  "geometry": {"coordinates":[-111.32532999999999,47.488316],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185852063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.949201,45.706097,-110.949201,45.706097",
     "geom:latitude":45.706097,
     "geom:longitude":-110.949201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5917 Bridger Canyon Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185852063,
-    "wof:lastmodified":1449007960,
+    "wof:lastmodified":1466641584,
     "wof:name":"CP Blasting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.949201,45.706097,-110.949201,45.706097],
+  "bbox": [
+    -110.949201,
+    45.706097,
+    -110.949201,
+    45.706097
+],
   "geometry": {"coordinates":[-110.949201,45.706097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185871761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.474969,45.805957,-108.474969,45.805957",
     "geom:latitude":45.805957,
     "geom:longitude":-108.474969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185871761,
-    "wof:lastmodified":1449007122,
+    "wof:lastmodified":1466641612,
     "wof:name":"Western Drug Store",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "finishing"
     ]
 },
-  "bbox": [-108.474969,45.805957,-108.474969,45.805957],
+  "bbox": [
+    -108.474969,
+    45.805957,
+    -108.474969,
+    45.805957
+],
   "geometry": {"coordinates":[-108.474969,45.805957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186216181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.659838,48.553104,-109.659838,48.553104",
     "geom:latitude":48.553104,
     "geom:longitude":-109.659838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 US Hwy 2 E",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186216181,
-    "wof:lastmodified":1449052718,
+    "wof:lastmodified":1466642581,
     "wof:name":"Archies Auto Body Repair Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-109.659838,48.553104,-109.659838,48.553104],
-  "geometry": {"coordinates":[-109.659838,48.553104],"type":"Point"}
+  "bbox": [
+    -109.659838,
+    48.553104,
+    -109.659838,
+    48.553104
+],
+  "geometry": {"coordinates":[-109.65983799999999,48.553104],"type":"Point"}
 }

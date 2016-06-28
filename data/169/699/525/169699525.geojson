@@ -2,13 +2,14 @@
   "id": 169699525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.492156,45.770228,-108.492156,45.770228",
     "geom:latitude":45.770228,
     "geom:longitude":-108.492156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 S 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169699525,
-    "wof:lastmodified":1449033139,
+    "wof:lastmodified":1466641150,
     "wof:name":"Mc Dunn's Tire & Auto",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-108.492156,45.770228,-108.492156,45.770228],
-  "geometry": {"coordinates":[-108.492156,45.770228],"type":"Point"}
+  "bbox": [
+    -108.492156,
+    45.770228,
+    -108.492156,
+    45.770228
+],
+  "geometry": {"coordinates":[-108.49215599999999,45.770228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185621549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.509696,45.797052,-108.509696,45.797052",
     "geom:latitude":45.797052,
     "geom:longitude":-108.509696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 N 22nd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185621549,
-    "wof:lastmodified":1449008029,
+    "wof:lastmodified":1466641222,
     "wof:name":"Kristen Erickson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "health"
     ]
 },
-  "bbox": [-108.509696,45.797052,-108.509696,45.797052],
-  "geometry": {"coordinates":[-108.509696,45.797052],"type":"Point"}
+  "bbox": [
+    -108.509696,
+    45.797052,
+    -108.509696,
+    45.797052
+],
+  "geometry": {"coordinates":[-108.50969600000001,45.797052],"type":"Point"}
 }

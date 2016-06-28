@@ -2,13 +2,14 @@
   "id": 185909233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.53719,46.013524,-112.53719,46.013524",
     "geom:latitude":46.013524,
     "geom:longitude":-112.53719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 W Broadway St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185909233,
-    "wof:lastmodified":1449007822,
+    "wof:lastmodified":1466641649,
     "wof:name":"Green Thumb",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employment"
     ]
 },
-  "bbox": [-112.53719,46.013524,-112.53719,46.013524],
+  "bbox": [
+    -112.53719,
+    46.013524,
+    -112.53719,
+    46.013524
+],
   "geometry": {"coordinates":[-112.53719,46.013524],"type":"Point"}
 }

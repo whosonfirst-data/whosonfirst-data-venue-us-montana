@@ -2,13 +2,14 @@
   "id": 169834353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.078331,48.063609,-114.078331,48.063609",
     "geom:latitude":48.063609,
     "geom:longitude":-114.078331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 Grand Dr",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169834353,
-    "wof:lastmodified":1449032973,
+    "wof:lastmodified":1466641305,
     "wof:name":"Knight Financial-Bigfork",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-114.078331,48.063609,-114.078331,48.063609],
-  "geometry": {"coordinates":[-114.078331,48.063609],"type":"Point"}
+  "bbox": [
+    -114.078331,
+    48.063609,
+    -114.078331,
+    48.063609
+],
+  "geometry": {"coordinates":[-114.07833100000001,48.063609],"type":"Point"}
 }

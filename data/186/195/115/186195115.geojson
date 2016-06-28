@@ -2,13 +2,14 @@
   "id": 186195115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.66061,45.994948,-110.66061,45.994948",
     "geom:latitude":45.994948,
     "geom:longitude":-110.66061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Elliot St",
     "sg:city":"Wilsall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186195115,
-    "wof:lastmodified":1449052129,
+    "wof:lastmodified":1466642255,
     "wof:name":"Local Color",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-110.66061,45.994948,-110.66061,45.994948],
-  "geometry": {"coordinates":[-110.66061,45.994948],"type":"Point"}
+  "bbox": [
+    -110.66061,
+    45.994948,
+    -110.66061,
+    45.994948
+],
+  "geometry": {"coordinates":[-110.66061000000001,45.994948],"type":"Point"}
 }

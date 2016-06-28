@@ -2,13 +2,14 @@
   "id": 186067291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.031229,46.811885,-114.031229,46.811885",
     "geom:latitude":46.811885,
     "geom:longitude":-114.031229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6105 Skyview Dr",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186067291,
-    "wof:lastmodified":1449050428,
+    "wof:lastmodified":1466641858,
     "wof:name":"Varsovia Trckg Incorporation",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.031229,46.811885,-114.031229,46.811885],
+  "bbox": [
+    -114.031229,
+    46.811885,
+    -114.031229,
+    46.811885
+],
   "geometry": {"coordinates":[-114.031229,46.811885],"type":"Point"}
 }

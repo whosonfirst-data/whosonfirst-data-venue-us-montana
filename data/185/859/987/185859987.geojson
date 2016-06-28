@@ -2,13 +2,14 @@
   "id": 185859987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.667589,48.545508,-109.667589,48.545508",
     "geom:latitude":48.545508,
     "geom:longitude":-109.667589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Center St",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185859987,
-    "wof:lastmodified":1449007744,
+    "wof:lastmodified":1466641598,
     "wof:name":"North Star Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.667589,48.545508,-109.667589,48.545508],
-  "geometry": {"coordinates":[-109.667589,48.545508],"type":"Point"}
+  "bbox": [
+    -109.667589,
+    48.545508,
+    -109.667589,
+    48.545508
+],
+  "geometry": {"coordinates":[-109.66758900000001,48.545508],"type":"Point"}
 }

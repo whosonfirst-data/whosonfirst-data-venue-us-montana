@@ -2,13 +2,14 @@
   "id": 185611649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.48673,47.747697,-115.48673,47.747697",
     "geom:latitude":47.747697,
     "geom:longitude":-115.48673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3716 State Hwy 200",
     "sg:city":"Trout Creek",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185611649,
-    "wof:lastmodified":1449007884,
+    "wof:lastmodified":1466641191,
     "wof:name":"Schuster Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-115.48673,47.747697,-115.48673,47.747697],
-  "geometry": {"coordinates":[-115.48673,47.747697],"type":"Point"}
+  "bbox": [
+    -115.48673,
+    47.747697,
+    -115.48673,
+    47.747697
+],
+  "geometry": {"coordinates":[-115.48672999999999,47.747697],"type":"Point"}
 }

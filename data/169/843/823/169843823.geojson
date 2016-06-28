@@ -2,13 +2,14 @@
   "id": 169843823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036743,46.592345,-112.036743,46.592345",
     "geom:latitude":46.592345,
     "geom:longitude":-112.036743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 N Last Chance Gulch St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169843823,
-    "wof:lastmodified":1449032970,
+    "wof:lastmodified":1466641325,
     "wof:name":"Budget Inn Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.036743,46.592345,-112.036743,46.592345],
+  "bbox": [
+    -112.036743,
+    46.592345,
+    -112.036743,
+    46.592345
+],
   "geometry": {"coordinates":[-112.036743,46.592345],"type":"Point"}
 }

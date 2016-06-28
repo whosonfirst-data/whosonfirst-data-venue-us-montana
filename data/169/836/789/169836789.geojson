@@ -2,13 +2,14 @@
   "id": 169836789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.541904,46.008745,-112.541904,46.008745",
     "geom:latitude":46.008745,
     "geom:longitude":-112.541904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Porphyry St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169836789,
-    "wof:lastmodified":1449034868,
+    "wof:lastmodified":1466641311,
     "wof:name":"Surgical Solutions",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.541904,46.008745,-112.541904,46.008745],
+  "bbox": [
+    -112.541904,
+    46.008745,
+    -112.541904,
+    46.008745
+],
   "geometry": {"coordinates":[-112.541904,46.008745],"type":"Point"}
 }

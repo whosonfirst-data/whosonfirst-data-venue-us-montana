@@ -2,13 +2,14 @@
   "id": 186415241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.103668,46.364308,-114.103668,46.364308",
     "geom:latitude":46.364308,
     "geom:longitude":-114.103668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1885 Eastside Hwy",
     "sg:city":"Corvallis",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186415241,
-    "wof:lastmodified":1449052293,
+    "wof:lastmodified":1466642891,
     "wof:name":"A E Thorson & Sons Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-114.103668,46.364308,-114.103668,46.364308],
+  "bbox": [
+    -114.103668,
+    46.364308,
+    -114.103668,
+    46.364308
+],
   "geometry": {"coordinates":[-114.103668,46.364308],"type":"Point"}
 }

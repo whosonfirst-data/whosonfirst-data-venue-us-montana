@@ -2,13 +2,14 @@
   "id": 185885303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.543622,46.028767,-112.543622,46.028767",
     "geom:latitude":46.028767,
     "geom:longitude":-112.543622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 W Daly St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185885303,
-    "wof:lastmodified":1449007479,
+    "wof:lastmodified":1466641621,
     "wof:name":"Barry Bail Bonds",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-112.543622,46.028767,-112.543622,46.028767],
+  "bbox": [
+    -112.543622,
+    46.028767,
+    -112.543622,
+    46.028767
+],
   "geometry": {"coordinates":[-112.543622,46.028767],"type":"Point"}
 }

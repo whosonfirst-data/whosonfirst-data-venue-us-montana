@@ -2,13 +2,14 @@
   "id": 186177971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.246517,45.196555,-109.246517,45.196555",
     "geom:latitude":45.196555,
     "geom:longitude":-109.246517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 N Broadway Ave",
     "sg:city":"Red Lodge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186177971,
-    "wof:lastmodified":1449053025,
+    "wof:lastmodified":1466642390,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-109.246517,45.196555,-109.246517,45.196555],
+  "bbox": [
+    -109.246517,
+    45.196555,
+    -109.246517,
+    45.196555
+],
   "geometry": {"coordinates":[-109.246517,45.196555],"type":"Point"}
 }

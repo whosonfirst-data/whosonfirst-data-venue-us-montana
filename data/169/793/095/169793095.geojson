@@ -2,13 +2,14 @@
   "id": 169793095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.614583,45.766712,-108.614583,45.766712",
     "geom:latitude":45.766712,
     "geom:longitude":-108.614583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 Swallow Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169793095,
-    "wof:lastmodified":1449034507,
+    "wof:lastmodified":1466641755,
     "wof:name":"Frances Ivie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "closed"
     ]
 },
-  "bbox": [-108.614583,45.766712,-108.614583,45.766712],
+  "bbox": [
+    -108.614583,
+    45.766712,
+    -108.614583,
+    45.766712
+],
   "geometry": {"coordinates":[-108.614583,45.766712],"type":"Point"}
 }

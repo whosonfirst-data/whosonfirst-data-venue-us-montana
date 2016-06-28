@@ -2,13 +2,14 @@
   "id": 169819647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.315348,48.198093,-114.315348,48.198093",
     "geom:latitude":48.198093,
     "geom:longitude":-114.315348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 1st Ave W",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169819647,
-    "wof:lastmodified":1449033478,
+    "wof:lastmodified":1466641291,
     "wof:name":"Lazer Graphics",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-114.315348,48.198093,-114.315348,48.198093],
+  "bbox": [
+    -114.315348,
+    48.198093,
+    -114.315348,
+    48.198093
+],
   "geometry": {"coordinates":[-114.315348,48.198093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185644189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576207,45.753924,-108.576207,45.753924",
     "geom:latitude":45.753924,
     "geom:longitude":-108.576207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 S 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":185644189,
-    "wof:lastmodified":1449007525,
+    "wof:lastmodified":1466641361,
     "wof:name":"Priori Care Staffing Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "registry"
     ]
 },
-  "bbox": [-108.576207,45.753924,-108.576207,45.753924],
+  "bbox": [
+    -108.576207,
+    45.753924,
+    -108.576207,
+    45.753924
+],
   "geometry": {"coordinates":[-108.576207,45.753924],"type":"Point"}
 }

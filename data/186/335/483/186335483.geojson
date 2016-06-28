@@ -2,13 +2,14 @@
   "id": 186335483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.278949,47.529411,-111.278949,47.529411",
     "geom:latitude":47.529411,
     "geom:longitude":-111.278949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 17th St NE",
     "sg:city":"Black Eagle",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186335483,
-    "wof:lastmodified":1449052138,
+    "wof:lastmodified":1466642684,
     "wof:name":"Sullivans Computers & Elec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sales"
     ]
 },
-  "bbox": [-111.278949,47.529411,-111.278949,47.529411],
+  "bbox": [
+    -111.278949,
+    47.529411,
+    -111.278949,
+    47.529411
+],
   "geometry": {"coordinates":[-111.278949,47.529411],"type":"Point"}
 }

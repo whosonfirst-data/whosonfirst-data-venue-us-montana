@@ -2,13 +2,14 @@
   "id": 169703809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.080844,48.06768,-114.080844,48.06768",
     "geom:latitude":48.06768,
     "geom:longitude":-114.080844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8271 State Hwy 35",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169703809,
-    "wof:lastmodified":1449033688,
+    "wof:lastmodified":1466641159,
     "wof:name":"Lakeshore Country Journal",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-114.080844,48.06768,-114.080844,48.06768],
+  "bbox": [
+    -114.080844,
+    48.06768,
+    -114.080844,
+    48.06768
+],
   "geometry": {"coordinates":[-114.080844,48.06768],"type":"Point"}
 }

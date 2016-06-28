@@ -2,13 +2,14 @@
   "id": 185826761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.172105,45.773963,-111.172105,45.773963",
     "geom:latitude":45.773963,
     "geom:longitude":-111.172105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E Main St",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185826761,
-    "wof:lastmodified":1449007762,
+    "wof:lastmodified":1466641564,
     "wof:name":"Emily Krushefski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-111.172105,45.773963,-111.172105,45.773963],
+  "bbox": [
+    -111.172105,
+    45.773963,
+    -111.172105,
+    45.773963
+],
   "geometry": {"coordinates":[-111.172105,45.773963],"type":"Point"}
 }

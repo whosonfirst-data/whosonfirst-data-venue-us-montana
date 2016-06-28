@@ -2,13 +2,14 @@
   "id": 186153511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.158243,46.273974,-114.158243,46.273974",
     "geom:latitude":46.273974,
     "geom:longitude":-114.158243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2148 N 1st St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186153511,
-    "wof:lastmodified":1449052221,
+    "wof:lastmodified":1466642279,
     "wof:name":"Farmers Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-114.158243,46.273974,-114.158243,46.273974],
+  "bbox": [
+    -114.158243,
+    46.273974,
+    -114.158243,
+    46.273974
+],
   "geometry": {"coordinates":[-114.158243,46.273974],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185702729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.952707,46.125894,-112.952707,46.125894",
     "geom:latitude":46.125894,
     "geom:longitude":-112.952707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Oak St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185702729,
-    "wof:lastmodified":1449007431,
+    "wof:lastmodified":1466641426,
     "wof:name":"K T Riddle Funeral Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-112.952707,46.125894,-112.952707,46.125894],
+  "bbox": [
+    -112.952707,
+    46.125894,
+    -112.952707,
+    46.125894
+],
   "geometry": {"coordinates":[-112.952707,46.125894],"type":"Point"}
 }

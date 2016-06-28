@@ -2,13 +2,14 @@
   "id": 185845413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.179598,45.77746,-111.179598,45.77746",
     "geom:latitude":45.77746,
     "geom:longitude":-111.179598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Main St",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185845413,
-    "wof:lastmodified":1449006872,
+    "wof:lastmodified":1466641583,
     "wof:name":"KWIK Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.179598,45.77746,-111.179598,45.77746],
+  "bbox": [
+    -111.179598,
+    45.77746,
+    -111.179598,
+    45.77746
+],
   "geometry": {"coordinates":[-111.179598,45.77746],"type":"Point"}
 }

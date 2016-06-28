@@ -2,13 +2,14 @@
   "id": 186102793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.018321,46.589663,-112.018321,46.589663",
     "geom:latitude":46.589663,
     "geom:longitude":-112.018321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 11th Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186102793,
-    "wof:lastmodified":1449052825,
+    "wof:lastmodified":1466641990,
     "wof:name":"Keegan Thomas M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.018321,46.589663,-112.018321,46.589663],
+  "bbox": [
+    -112.018321,
+    46.589663,
+    -112.018321,
+    46.589663
+],
   "geometry": {"coordinates":[-112.018321,46.589663],"type":"Point"}
 }

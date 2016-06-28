@@ -2,13 +2,14 @@
   "id": 169743125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.252041,45.765492,-111.252041,45.765492",
     "geom:latitude":45.765492,
     "geom:longitude":-111.252041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3080 Veltkamp Rd",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169743125,
-    "wof:lastmodified":1449035948,
+    "wof:lastmodified":1466641173,
     "wof:name":"Jane Compton Hammett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ornamental"
     ]
 },
-  "bbox": [-111.252041,45.765492,-111.252041,45.765492],
-  "geometry": {"coordinates":[-111.252041,45.765492],"type":"Point"}
+  "bbox": [
+    -111.252041,
+    45.765492,
+    -111.252041,
+    45.765492
+],
+  "geometry": {"coordinates":[-111.25204100000001,45.765492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185744785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.386028,45.823693,-108.386028,45.823693",
     "geom:latitude":45.823693,
     "geom:longitude":-108.386028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4053 Old Hardin Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185744785,
-    "wof:lastmodified":1449007177,
+    "wof:lastmodified":1466641472,
     "wof:name":"Lockwood Auto & Truck Salvage",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "used"
     ]
 },
-  "bbox": [-108.386028,45.823693,-108.386028,45.823693],
+  "bbox": [
+    -108.386028,
+    45.823693,
+    -108.386028,
+    45.823693
+],
   "geometry": {"coordinates":[-108.386028,45.823693],"type":"Point"}
 }

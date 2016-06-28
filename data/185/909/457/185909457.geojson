@@ -2,13 +2,14 @@
   "id": 185909457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.109463,47.528658,-114.109463,47.528658",
     "geom:latitude":47.528658,
     "geom:longitude":-114.109463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 Main St SW",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185909457,
-    "wof:lastmodified":1449007819,
+    "wof:lastmodified":1466641651,
     "wof:name":"West Side Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rest"
     ]
 },
-  "bbox": [-114.109463,47.528658,-114.109463,47.528658],
-  "geometry": {"coordinates":[-114.109463,47.528658],"type":"Point"}
+  "bbox": [
+    -114.109463,
+    47.528658,
+    -114.109463,
+    47.528658
+],
+  "geometry": {"coordinates":[-114.10946300000001,47.528658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185675663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.256204,47.428331,-114.256204,47.428331",
     "geom:latitude":47.428331,
     "geom:longitude":-114.256204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7479 Ridgeway Rd",
     "sg:city":"Charlo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185675663,
-    "wof:lastmodified":1449007456,
+    "wof:lastmodified":1466641394,
     "wof:name":"Daugherty Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.256204,47.428331,-114.256204,47.428331],
+  "bbox": [
+    -114.256204,
+    47.428331,
+    -114.256204,
+    47.428331
+],
   "geometry": {"coordinates":[-114.256204,47.428331],"type":"Point"}
 }

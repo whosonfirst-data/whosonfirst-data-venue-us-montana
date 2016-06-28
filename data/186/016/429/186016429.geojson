@@ -2,13 +2,14 @@
   "id": 186016429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.548131,48.778523,-104.548131,48.778523",
     "geom:latitude":48.778523,
     "geom:longitude":-104.548131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Grover St",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186016429,
-    "wof:lastmodified":1449050885,
+    "wof:lastmodified":1466641398,
     "wof:name":"Savemore Dollar Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.548131,48.778523,-104.548131,48.778523],
+  "bbox": [
+    -104.548131,
+    48.778523,
+    -104.548131,
+    48.778523
+],
   "geometry": {"coordinates":[-104.548131,48.778523],"type":"Point"}
 }

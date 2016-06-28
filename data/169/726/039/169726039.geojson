@@ -2,13 +2,14 @@
   "id": 169726039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.49428,45.774234,-108.49428,45.774234",
     "geom:latitude":45.774234,
     "geom:longitude":-108.49428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 S 26th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169726039,
-    "wof:lastmodified":1449034955,
+    "wof:lastmodified":1466641738,
     "wof:name":"Express Mail Information",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.49428,45.774234,-108.49428,45.774234],
+  "bbox": [
+    -108.49428,
+    45.774234,
+    -108.49428,
+    45.774234
+],
   "geometry": {"coordinates":[-108.49428,45.774234],"type":"Point"}
 }

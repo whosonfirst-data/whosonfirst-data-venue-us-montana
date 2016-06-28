@@ -2,13 +2,14 @@
   "id": 186272153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.970381,46.131183,-112.970381,46.131183",
     "geom:latitude":46.131183,
     "geom:longitude":-112.970381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Sycamore St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186272153,
-    "wof:lastmodified":1449052846,
+    "wof:lastmodified":1466642725,
     "wof:name":"Peterson Paint Contg HM GL Ho",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.970381,46.131183,-112.970381,46.131183],
+  "bbox": [
+    -112.970381,
+    46.131183,
+    -112.970381,
+    46.131183
+],
   "geometry": {"coordinates":[-112.970381,46.131183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186196573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.324258,48.211187,-114.324258,48.211187",
     "geom:latitude":48.211187,
     "geom:longitude":-114.324258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Claremont St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186196573,
-    "wof:lastmodified":1449051005,
+    "wof:lastmodified":1466642263,
     "wof:name":"Mark J Sorensen MD",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-114.324258,48.211187,-114.324258,48.211187],
+  "bbox": [
+    -114.324258,
+    48.211187,
+    -114.324258,
+    48.211187
+],
   "geometry": {"coordinates":[-114.324258,48.211187],"type":"Point"}
 }

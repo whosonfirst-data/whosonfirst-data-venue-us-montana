@@ -2,13 +2,14 @@
   "id": 169775621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.561026,45.65727,-110.561026,45.65727",
     "geom:latitude":45.65727,
     "geom:longitude":-110.561026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S Yellowstone St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169775621,
-    "wof:lastmodified":1449035119,
+    "wof:lastmodified":1466641232,
     "wof:name":"Remember When Bed & Breakfast",
     "wof:parent_id":85867993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-110.561026,45.65727,-110.561026,45.65727],
+  "bbox": [
+    -110.561026,
+    45.65727,
+    -110.561026,
+    45.65727
+],
   "geometry": {"coordinates":[-110.561026,45.65727],"type":"Point"}
 }

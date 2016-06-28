@@ -2,13 +2,14 @@
   "id": 185808837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.185217,46.015338,-114.185217,46.015338",
     "geom:latitude":46.015338,
     "geom:longitude":-114.185217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Tin Cup Rd",
     "sg:city":"Darby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185808837,
-    "wof:lastmodified":1449006650,
+    "wof:lastmodified":1466641547,
     "wof:name":"Ritson Family Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "management"
     ]
 },
-  "bbox": [-114.185217,46.015338,-114.185217,46.015338],
-  "geometry": {"coordinates":[-114.185217,46.015338],"type":"Point"}
+  "bbox": [
+    -114.185217,
+    46.015338,
+    -114.185217,
+    46.015338
+],
+  "geometry": {"coordinates":[-114.18521699999999,46.015338],"type":"Point"}
 }

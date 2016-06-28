@@ -2,13 +2,14 @@
   "id": 186179821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.027442,46.704484,-112.027442,46.704484",
     "geom:latitude":46.704484,
     "geom:longitude":-112.027442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 W Lincoln Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186179821,
-    "wof:lastmodified":1449052744,
+    "wof:lastmodified":1466642178,
     "wof:name":"Drake Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-112.027442,46.704484,-112.027442,46.704484],
-  "geometry": {"coordinates":[-112.027442,46.704484],"type":"Point"}
+  "bbox": [
+    -112.027442,
+    46.704484,
+    -112.027442,
+    46.704484
+],
+  "geometry": {"coordinates":[-112.02744199999999,46.704484],"type":"Point"}
 }

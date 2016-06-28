@@ -2,13 +2,14 @@
   "id": 169868093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.307672,48.216023,-114.307672,48.216023",
     "geom:latitude":48.216023,
     "geom:longitude":-114.307672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Whitefish Stage",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169868093,
-    "wof:lastmodified":1449032834,
+    "wof:lastmodified":1466641359,
     "wof:name":"Flathead Storage",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-114.307672,48.216023,-114.307672,48.216023],
+  "bbox": [
+    -114.307672,
+    48.216023,
+    -114.307672,
+    48.216023
+],
   "geometry": {"coordinates":[-114.307672,48.216023],"type":"Point"}
 }

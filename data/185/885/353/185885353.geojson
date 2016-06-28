@@ -2,13 +2,14 @@
   "id": 185885353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.30612,48.186383,-114.30612,48.186383",
     "geom:latitude":48.186383,
     "geom:longitude":-114.30612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 2nd Ave E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185885353,
-    "wof:lastmodified":1449007478,
+    "wof:lastmodified":1466641621,
     "wof:name":"Jones Music Education Center",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "music"
     ]
 },
-  "bbox": [-114.30612,48.186383,-114.30612,48.186383],
-  "geometry": {"coordinates":[-114.30612,48.186383],"type":"Point"}
+  "bbox": [
+    -114.30612,
+    48.186383,
+    -114.30612,
+    48.186383
+],
+  "geometry": {"coordinates":[-114.30612000000001,48.186383],"type":"Point"}
 }

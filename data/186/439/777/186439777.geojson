@@ -2,13 +2,14 @@
   "id": 186439777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.830117,46.435227,-109.830117,46.435227",
     "geom:latitude":46.435227,
     "geom:longitude":-109.830117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 1st St SE",
     "sg:city":"Harlowton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186439777,
-    "wof:lastmodified":1449051127,
+    "wof:lastmodified":1466642985,
     "wof:name":"Tri County Federal Credit Unio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.830117,46.435227,-109.830117,46.435227],
+  "bbox": [
+    -109.830117,
+    46.435227,
+    -109.830117,
+    46.435227
+],
   "geometry": {"coordinates":[-109.830117,46.435227],"type":"Point"}
 }

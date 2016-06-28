@@ -2,13 +2,14 @@
   "id": 169814251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.889705,47.466719,-114.889705,47.466719",
     "geom:latitude":47.466719,
     "geom:longitude":-114.889705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 State Hwy 200 W",
     "sg:city":"Plains",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169814251,
-    "wof:lastmodified":1449033293,
+    "wof:lastmodified":1466641280,
     "wof:name":"Special Y Hm Htg & Cooling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.889705,47.466719,-114.889705,47.466719],
-  "geometry": {"coordinates":[-114.889705,47.466719],"type":"Point"}
+  "bbox": [
+    -114.889705,
+    47.466719,
+    -114.889705,
+    47.466719
+],
+  "geometry": {"coordinates":[-114.88970500000001,47.466719],"type":"Point"}
 }

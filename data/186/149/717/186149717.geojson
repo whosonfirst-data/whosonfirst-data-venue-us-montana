@@ -2,13 +2,14 @@
   "id": 186149717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.698424,48.544208,-109.698424,48.544208",
     "geom:latitude":48.544208,
     "geom:longitude":-109.698424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 Washington Ave",
     "sg:city":"Havre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186149717,
-    "wof:lastmodified":1449050260,
+    "wof:lastmodified":1466642121,
     "wof:name":"Griffith Intelligence Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "research"
     ]
 },
-  "bbox": [-109.698424,48.544208,-109.698424,48.544208],
+  "bbox": [
+    -109.698424,
+    48.544208,
+    -109.698424,
+    48.544208
+],
   "geometry": {"coordinates":[-109.698424,48.544208],"type":"Point"}
 }

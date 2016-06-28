@@ -2,13 +2,14 @@
   "id": 185665811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.576487,45.78574,-108.576487,45.78574",
     "geom:latitude":45.78574,
     "geom:longitude":-108.576487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185665811,
-    "wof:lastmodified":1449007098,
+    "wof:lastmodified":1466641390,
     "wof:name":"Scandia Down Shops",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-108.576487,45.78574,-108.576487,45.78574],
+  "bbox": [
+    -108.576487,
+    45.78574,
+    -108.576487,
+    45.78574
+],
   "geometry": {"coordinates":[-108.576487,45.78574],"type":"Point"}
 }

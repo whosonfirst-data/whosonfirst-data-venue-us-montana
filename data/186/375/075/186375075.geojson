@@ -2,13 +2,14 @@
   "id": 186375075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.544137,45.780585,-108.544137,45.780585",
     "geom:latitude":45.780585,
     "geom:longitude":-108.544137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Lewis Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186375075,
-    "wof:lastmodified":1449050364,
+    "wof:lastmodified":1466642796,
     "wof:name":"Evolution LLC",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-108.544137,45.780585,-108.544137,45.780585],
-  "geometry": {"coordinates":[-108.544137,45.780585],"type":"Point"}
+  "bbox": [
+    -108.544137,
+    45.780585,
+    -108.544137,
+    45.780585
+],
+  "geometry": {"coordinates":[-108.54413700000001,45.780585],"type":"Point"}
 }

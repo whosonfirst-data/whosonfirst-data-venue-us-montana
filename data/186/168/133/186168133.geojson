@@ -2,13 +2,14 @@
   "id": 186168133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.441538,45.768748,-108.441538,45.768748",
     "geom:latitude":45.768748,
     "geom:longitude":-108.441538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Jack Pine Canyon Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186168133,
-    "wof:lastmodified":1449051772,
+    "wof:lastmodified":1466642150,
     "wof:name":"Dr David Drill",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.441538,45.768748,-108.441538,45.768748],
-  "geometry": {"coordinates":[-108.441538,45.768748],"type":"Point"}
+  "bbox": [
+    -108.441538,
+    45.768748,
+    -108.441538,
+    45.768748
+],
+  "geometry": {"coordinates":[-108.44153799999999,45.768748],"type":"Point"}
 }

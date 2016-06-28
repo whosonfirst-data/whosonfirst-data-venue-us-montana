@@ -2,13 +2,14 @@
   "id": 169699143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.848755,48.50695,-111.848755,48.50695",
     "geom:latitude":48.50695,
     "geom:longitude":-111.848755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Madison St",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169699143,
-    "wof:lastmodified":1449033140,
+    "wof:lastmodified":1466641149,
     "wof:name":"Pizza Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-111.848755,48.50695,-111.848755,48.50695],
+  "bbox": [
+    -111.848755,
+    48.50695,
+    -111.848755,
+    48.50695
+],
   "geometry": {"coordinates":[-111.848755,48.50695],"type":"Point"}
 }

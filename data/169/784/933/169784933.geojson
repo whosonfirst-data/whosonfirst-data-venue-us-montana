@@ -2,13 +2,14 @@
   "id": 169784933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.507015,45.78162,-108.507015,45.78162",
     "geom:latitude":45.78162,
     "geom:longitude":-108.507015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2807 1st Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169784933,
-    "wof:lastmodified":1449034892,
+    "wof:lastmodified":1466641249,
     "wof:name":"Alfred E Avery MD",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-108.507015,45.78162,-108.507015,45.78162],
+  "bbox": [
+    -108.507015,
+    45.78162,
+    -108.507015,
+    45.78162
+],
   "geometry": {"coordinates":[-108.507015,45.78162],"type":"Point"}
 }

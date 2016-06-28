@@ -2,13 +2,14 @@
   "id": 185785279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.078619,48.077005,-114.078619,48.077005",
     "geom:latitude":48.077005,
     "geom:longitude":-114.078619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 State Hwy 35",
     "sg:city":"Bigfork",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185785279,
-    "wof:lastmodified":1449007957,
+    "wof:lastmodified":1466641512,
     "wof:name":"Flathead Mortgage Inc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-114.078619,48.077005,-114.078619,48.077005],
+  "bbox": [
+    -114.078619,
+    48.077005,
+    -114.078619,
+    48.077005
+],
   "geometry": {"coordinates":[-114.078619,48.077005],"type":"Point"}
 }

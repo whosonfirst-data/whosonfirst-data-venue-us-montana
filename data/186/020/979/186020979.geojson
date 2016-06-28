@@ -2,13 +2,14 @@
   "id": 186020979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.632151,48.193034,-106.632151,48.193034",
     "geom:latitude":48.193034,
     "geom:longitude":-106.632151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 2nd St S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186020979,
-    "wof:lastmodified":1449051632,
+    "wof:lastmodified":1466641465,
     "wof:name":"Coca-Cola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "soft"
     ]
 },
-  "bbox": [-106.632151,48.193034,-106.632151,48.193034],
-  "geometry": {"coordinates":[-106.632151,48.193034],"type":"Point"}
+  "bbox": [
+    -106.632151,
+    48.193034,
+    -106.632151,
+    48.193034
+],
+  "geometry": {"coordinates":[-106.63215099999999,48.193034],"type":"Point"}
 }

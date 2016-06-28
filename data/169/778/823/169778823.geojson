@@ -2,13 +2,14 @@
   "id": 169778823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.359879,48.48247,-114.359879,48.48247",
     "geom:latitude":48.48247,
     "geom:longitude":-114.359879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3842 Winter Ln",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169778823,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1466641241,
     "wof:name":"Kristianna Mountain Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-114.359879,48.48247,-114.359879,48.48247],
-  "geometry": {"coordinates":[-114.359879,48.48247],"type":"Point"}
+  "bbox": [
+    -114.359879,
+    48.48247,
+    -114.359879,
+    48.48247
+],
+  "geometry": {"coordinates":[-114.35987900000001,48.48247],"type":"Point"}
 }

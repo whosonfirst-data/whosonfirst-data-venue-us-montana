@@ -2,13 +2,14 @@
   "id": 186220157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.630867,45.213643,-112.630867,45.213643",
     "geom:latitude":45.213643,
     "geom:longitude":-112.630867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 E Bannack St",
     "sg:city":"Dillon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186220157,
-    "wof:lastmodified":1449052942,
+    "wof:lastmodified":1466642590,
     "wof:name":"First Evang Lthran Church Elca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "church"
     ]
 },
-  "bbox": [-112.630867,45.213643,-112.630867,45.213643],
-  "geometry": {"coordinates":[-112.630867,45.213643],"type":"Point"}
+  "bbox": [
+    -112.630867,
+    45.213643,
+    -112.630867,
+    45.213643
+],
+  "geometry": {"coordinates":[-112.63086699999999,45.213643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169834699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.833141,45.639355,-108.833141,45.639355",
     "geom:latitude":45.639355,
     "geom:longitude":-108.833141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3112 S Park City Rd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169834699,
-    "wof:lastmodified":1449032973,
+    "wof:lastmodified":1466641310,
     "wof:name":"Watts Feeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.833141,45.639355,-108.833141,45.639355],
+  "bbox": [
+    -108.833141,
+    45.639355,
+    -108.833141,
+    45.639355
+],
   "geometry": {"coordinates":[-108.833141,45.639355],"type":"Point"}
 }

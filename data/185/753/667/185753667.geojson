@@ -2,13 +2,14 @@
   "id": 185753667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.513847,45.792327,-108.513847,45.792327",
     "geom:latitude":45.792327,
     "geom:longitude":-108.513847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 N 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185753667,
-    "wof:lastmodified":1449006793,
+    "wof:lastmodified":1466641484,
     "wof:name":"Rimview Inn",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-108.513847,45.792327,-108.513847,45.792327],
+  "bbox": [
+    -108.513847,
+    45.792327,
+    -108.513847,
+    45.792327
+],
   "geometry": {"coordinates":[-108.513847,45.792327],"type":"Point"}
 }

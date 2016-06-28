@@ -2,13 +2,14 @@
   "id": 185819765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.171029,46.247249,-114.171029,46.247249",
     "geom:latitude":46.247249,
     "geom:longitude":-114.171029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Westwood Dr",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185819765,
-    "wof:lastmodified":1449006991,
+    "wof:lastmodified":1466641553,
     "wof:name":"Rocky Mountain Natural Mdcn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "practitioner"
     ]
 },
-  "bbox": [-114.171029,46.247249,-114.171029,46.247249],
+  "bbox": [
+    -114.171029,
+    46.247249,
+    -114.171029,
+    46.247249
+],
   "geometry": {"coordinates":[-114.171029,46.247249],"type":"Point"}
 }
