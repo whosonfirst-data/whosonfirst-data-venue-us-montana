@@ -2,14 +2,20 @@
   "id": 169765817,
   "type": "Feature",
   "properties": {
+    "addr:full":"708 E 2nd Ave N Columbus MT 59019",
+    "addr:housenumber":"708",
+    "addr:postcode":"59019",
+    "addr:street":"E 2Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-109.250039,45.638523,-109.250039,45.638523",
     "geom:latitude":45.638523,
     "geom:longitude":-109.250039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"708 E 2nd Ave N",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85972899,
         102085143
     ],
+    "wof:brand_id":1125152801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28fFNFLcWgMtFOZjVPMFTc_45.638523_-109.250039@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b2f6d949dce1ed08a148cc783c01623",
+    "wof:geomhash":"9edf39c70ff65d25c0e246a43d1d1539",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169765817,
-    "wof:lastmodified":1466641212,
+    "wof:lastmodified":1510696885,
     "wof:name":"New Life Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

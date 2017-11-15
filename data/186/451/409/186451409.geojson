@@ -2,14 +2,20 @@
   "id": 186451409,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 1st Ave N Billings MT 59101",
+    "addr:housenumber":"2900",
+    "addr:postcode":"59101",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.508216,45.780946,-108.508216,45.780946",
     "geom:latitude":45.780946,
     "geom:longitude":-108.508216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2900 1st Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85972929,
         102085087
     ],
+    "wof:brand_id":1125159113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NPWCsLfWI4QhDIPM7WYJY_45.780946_-108.508216@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"11ff84ec9ab6a1a96c513f148370c774",
+    "wof:geomhash":"e1950d478186a62a994529fe99bd7951",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186451409,
-    "wof:lastmodified":1466643018,
+    "wof:lastmodified":1510698951,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

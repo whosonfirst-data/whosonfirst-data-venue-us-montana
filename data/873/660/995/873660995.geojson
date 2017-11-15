@@ -2,14 +2,20 @@
   "id": 873660995,
   "type": "Feature",
   "properties": {
+    "addr:full":"12011 US Hwy 93 Lolo MT 59847",
+    "addr:housenumber":"12011",
+    "addr:postcode":"59847",
+    "addr:street":"Us Hwy 93",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.082289,46.756666,-114.082289,46.756666",
     "geom:latitude":46.756666,
     "geom:longitude":-114.082289,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12011 US Hwy 93",
     "sg:city":"Lolo",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085103,
         85868993
     ],
+    "wof:brand_id":1125155015,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K64tYajr4Y12r4XzFGclL_46.756666_-114.082289@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295708,
-    "wof:geomhash":"6b173edf39517357748ff4df74957a39",
+    "wof:geomhash":"942d977e2473fb92c5a0b725ade3640f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873660995,
-    "wof:lastmodified":1466643051,
+    "wof:lastmodified":1510700057,
     "wof:name":"Hot Stuff Pizza",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",

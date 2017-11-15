@@ -2,14 +2,20 @@
   "id": 873702295,
   "type": "Feature",
   "properties": {
+    "addr:full":"790 King Park Dr Billings MT 59102",
+    "addr:housenumber":"790",
+    "addr:postcode":"59102",
+    "addr:street":"King Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.56859,45.755449,-108.56859,45.755449",
     "geom:latitude":45.755449,
     "geom:longitude":-108.56859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"790 King Park Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85859347,
         102085087
     ],
+    "wof:brand_id":420573801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CH622bFnGTUlqv6Zkw0Uy_45.755930_-108.568534@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464296428,
-    "wof:geomhash":"828670842e76107df956bc5b66f68100",
+    "wof:geomhash":"0698d4057eb63abf48fa9d94ba83c3f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873702295,
-    "wof:lastmodified":1466643150,
+    "wof:lastmodified":1510603509,
     "wof:name":"Burger King",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",

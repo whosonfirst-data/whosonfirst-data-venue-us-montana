@@ -2,14 +2,20 @@
   "id": 185746215,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 N 4th St Hamilton MT 59840",
+    "addr:housenumber":"117",
+    "addr:postcode":"59840",
+    "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.160303,46.247731,-114.160303,46.247731",
     "geom:latitude":46.247731,
     "geom:longitude":-114.160303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 N 4th St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -42,12 +48,13 @@
         85972787,
         102085185
     ],
+    "wof:brand_id":1125150619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wrv6x6d6cMRsc3RhQx23N_46.247731_-114.160303@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf01c409be756fb1d18368e6c3bac4e1",
+    "wof:geomhash":"cc426f3ee1b992f194726c8d069d9704",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":185746215,
-    "wof:lastmodified":1466641468,
+    "wof:lastmodified":1510604908,
     "wof:name":"Allegra Print & Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

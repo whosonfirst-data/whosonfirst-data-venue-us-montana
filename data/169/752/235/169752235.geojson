@@ -2,14 +2,20 @@
   "id": 169752235,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 N 23rd St Billings MT 59101",
+    "addr:housenumber":"360",
+    "addr:postcode":"59101",
+    "addr:street":"N 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.501789,45.787056,-108.501789,45.787056",
     "geom:latitude":45.787056,
     "geom:longitude":-108.501789,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"360 N 23rd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102085087,
         85876257
     ],
+    "wof:brand_id":1125154085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FoekjY0Eh9aY5tRX3Zs1h_45.787056_-108.501789@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"02bca5701c98b15ee60c8a9f2c96265d",
+    "wof:geomhash":"c903a89be8a2ad130fd3e173246bad42",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169752235,
-    "wof:lastmodified":1466641189,
+    "wof:lastmodified":1510613290,
     "wof:name":"Senior Citizens Center",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",

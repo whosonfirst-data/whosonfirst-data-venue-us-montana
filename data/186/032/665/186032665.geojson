@@ -2,14 +2,20 @@
   "id": 186032665,
   "type": "Feature",
   "properties": {
+    "addr:full":"907 Poly Dr Billings MT 59102",
+    "addr:housenumber":"907",
+    "addr:postcode":"59102",
+    "addr:street":"Poly Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.540777,45.795006,-108.540777,45.795006",
     "geom:latitude":45.795006,
     "geom:longitude":-108.540777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"907 Poly Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102085087,
         85876251
     ],
+    "wof:brand_id":1125152655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yJm4ICXLs1I7IBWlIR0DG_45.795006_-108.540777@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"72deff4a684c1c34432f4fbdcf545666",
+    "wof:geomhash":"a4f6a5b46284772c5975f3cc7cb77663",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186032665,
-    "wof:lastmodified":1466641657,
+    "wof:lastmodified":1510698889,
     "wof:name":"Great Harvest Bread Co",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",

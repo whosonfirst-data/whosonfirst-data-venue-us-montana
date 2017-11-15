@@ -2,14 +2,20 @@
   "id": 186099459,
   "type": "Feature",
   "properties": {
+    "addr:full":"1655 Pepsi Cola Ave Helena MT 59601",
+    "addr:housenumber":"1655",
+    "addr:postcode":"59601",
+    "addr:street":"Pepsi Cola Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.993229,46.600938,-111.993229,46.600938",
     "geom:latitude":46.600938,
     "geom:longitude":-111.993229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1655 Pepsi Cola Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         85972711,
         102085151
     ],
+    "wof:brand_id":1125155827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YUujdcoM1cILCth6NRprL_46.600938_-111.993229@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"27843a20b06b33c013c073407a3b63f5",
+    "wof:geomhash":"4e954bd9011ba3da47668b371ea07093",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":186099459,
-    "wof:lastmodified":1466641972,
+    "wof:lastmodified":1510699021,
     "wof:name":"Pepsico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

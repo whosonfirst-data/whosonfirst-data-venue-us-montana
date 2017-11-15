@@ -2,14 +2,20 @@
   "id": 185606921,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 E Commercial Ave Anaconda MT 59711",
+    "addr:housenumber":"1020",
+    "addr:postcode":"59711",
+    "addr:street":"E Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.939535,46.128139,-112.939535,46.128139",
     "geom:latitude":46.128139,
     "geom:longitude":-112.939535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1020 E Commercial Ave",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85972705,
         102085161
     ],
+    "wof:brand_id":1125159719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GEBCIPRAlp4D4bQvuzqrj_46.128139_-112.939535@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb6bd6edaef4532f78ef735dc65efdef",
+    "wof:geomhash":"0707bfc30c04222f39f01e252b887328",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185606921,
-    "wof:lastmodified":1466641185,
+    "wof:lastmodified":1510613171,
     "wof:name":"Title Cash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

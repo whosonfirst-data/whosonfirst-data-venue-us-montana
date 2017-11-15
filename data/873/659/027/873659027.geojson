@@ -2,14 +2,20 @@
   "id": 873659027,
   "type": "Feature",
   "properties": {
+    "addr:full":"1139 N 27th St Billings MT 59101",
+    "addr:housenumber":"1139",
+    "addr:postcode":"59101",
+    "addr:street":"N 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.51521,45.793643,-108.51521,45.793643",
     "geom:latitude":45.793643,
     "geom:longitude":-108.51521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1139 N 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85876257,
         102085087
     ],
+    "wof:brand_id":1125150601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hw5p0CGkVcWPmJx0CTO0W_45.793643_-108.515210@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295689,
-    "wof:geomhash":"1c8f0caf39784de54611f8ff524f44fe",
+    "wof:geomhash":"e87cb1a07d665fc33ce0226042e34746",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873659027,
-    "wof:lastmodified":1466643031,
+    "wof:lastmodified":1510697771,
     "wof:name":"Apria Healthcare Inc",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",

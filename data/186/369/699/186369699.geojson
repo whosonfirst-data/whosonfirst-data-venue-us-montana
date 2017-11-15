@@ -2,14 +2,20 @@
   "id": 186369699,
   "type": "Feature",
   "properties": {
+    "addr:full":"1327 Main St Billings MT 59105",
+    "addr:housenumber":"1327",
+    "addr:postcode":"59105",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.4708,45.824234,-108.4708,45.824234",
     "geom:latitude":45.824234,
     "geom:longitude":-108.4708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1327 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85972929,
         102085087
     ],
+    "wof:brand_id":1125154535,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ClJvVZy4brj3rEUszeSyn_45.824234_-108.470800@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9805e003077176bdb9e40ab44d97319",
+    "wof:geomhash":"3948e53c7ca78ab001767701d939be35",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186369699,
-    "wof:lastmodified":1466642779,
+    "wof:lastmodified":1510613564,
     "wof:name":"Just Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873611131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2751 Enterprise Ave Billings MT 59102",
+    "addr:housenumber":"2751",
+    "addr:postcode":"59102",
+    "addr:street":"Enterprise Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.584507,45.750206,-108.584507,45.750206",
     "geom:latitude":45.750206,
     "geom:longitude":-108.584507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2751 Enterprise Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085087,
         85859347
     ],
+    "wof:brand_id":420575395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_198AxDzeYAiB0graiFFXcz_45.750206_-108.584507@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295155,
-    "wof:geomhash":"ab769405c7aad9a93ecaeee42a5005e6",
+    "wof:geomhash":"33bfdfa3a4f36bfb33a34017c38f62e3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":873611131,
-    "wof:lastmodified":1466642621,
+    "wof:lastmodified":1510602858,
     "wof:name":"Glass Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873536003,
   "type": "Feature",
   "properties": {
+    "addr:full":"2110 Overland Ave Billings MT 59102",
+    "addr:housenumber":"2110",
+    "addr:postcode":"59102",
+    "addr:street":"Overland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.568333,45.751861,-108.568333,45.751861",
     "geom:latitude":45.751861,
     "geom:longitude":-108.568333,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2110 Overland Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85859347,
         102085087
     ],
+    "wof:brand_id":1125150315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vdfxLkdvEzlqWlpOIjj58_45.751861_-108.568333@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294215,
-    "wof:geomhash":"3317607165b39138a9f5e857eeeb4dd7",
+    "wof:geomhash":"8daf9f8083f5ab55957e20a39e08c1e9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873536003,
-    "wof:lastmodified":1466641377,
+    "wof:lastmodified":1510697386,
     "wof:name":"Principal Financial Group",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",

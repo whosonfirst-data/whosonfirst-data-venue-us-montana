@@ -2,14 +2,20 @@
   "id": 873555189,
   "type": "Feature",
   "properties": {
+    "addr:full":"2922 Brooks St Missoula MT 59801",
+    "addr:housenumber":"2922",
+    "addr:postcode":"59801",
+    "addr:street":"Brooks St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.024373,46.844524,-114.024373,46.844524",
     "geom:latitude":46.844524,
     "geom:longitude":-114.024373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2922 Brooks St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085103,
         85868993
     ],
+    "wof:brand_id":420575279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aTuQYYDu3Ah6alP0zPX3e_46.844524_-114.024373@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294439,
-    "wof:geomhash":"1437dade0fd5e53e5681061f28d21152",
+    "wof:geomhash":"3304eaccf6018f1c067a5b2de3bf58a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873555189,
-    "wof:lastmodified":1466641941,
+    "wof:lastmodified":1510602643,
     "wof:name":"Dennys",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",

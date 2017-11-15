@@ -2,14 +2,20 @@
   "id": 185786017,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Palmer St Miles City MT 59301",
+    "addr:housenumber":"1000",
+    "addr:postcode":"59301",
+    "addr:street":"Palmer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.845862,46.410025,-105.845862,46.410025",
     "geom:latitude":46.410025,
     "geom:longitude":-105.845862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Palmer St",
     "sg:city":"Miles City",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85972691,
         102085197
     ],
+    "wof:brand_id":1125152167,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62G3nXAxcX1bwgGqb6PL4s_46.410025_-105.845862@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"70d9cba64e6cd485852cf16bdab7622c",
+    "wof:geomhash":"186d50a3ed2c92fcd275da4f4199e8d0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":185786017,
-    "wof:lastmodified":1466641778,
+    "wof:lastmodified":1510693952,
     "wof:name":"Order of Eastern Star of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

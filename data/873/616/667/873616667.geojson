@@ -2,6 +2,10 @@
   "id": 873616667,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 N Browns Gulch Rd Butte MT 59701",
+    "addr:housenumber":"123",
+    "addr:postcode":"mt 59701",
+    "addr:street":"N Browns Gulch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873616667,
-    "wof:lastmodified":1466642766,
+    "wof:lastmodified":1472631683,
     "wof:name":"Dallaserra Ranches",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",

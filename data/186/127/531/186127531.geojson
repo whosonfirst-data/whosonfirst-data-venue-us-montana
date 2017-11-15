@@ -2,14 +2,20 @@
   "id": 186127531,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 S 1st Ave Laurel MT 59044",
+    "addr:housenumber":"112",
+    "addr:postcode":"59044",
+    "addr:street":"S 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.771505,45.667179,-108.771505,45.667179",
     "geom:latitude":45.667179,
     "geom:longitude":-108.771505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 S 1st Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102085087,
         85876267
     ],
+    "wof:brand_id":1125155897,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ufubuPlKHIK1rT8L3VLbo_45.667179_-108.771505@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"0549a97d04243e9a8944af6ffa9b0854",
+    "wof:geomhash":"a910d4071ad6b05a998c418f4d83283b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":186127531,
-    "wof:lastmodified":1466642082,
+    "wof:lastmodified":1510699288,
     "wof:name":"Cellular Plus",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",

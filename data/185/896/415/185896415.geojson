@@ -2,14 +2,20 @@
   "id": 185896415,
   "type": "Feature",
   "properties": {
+    "addr:full":"7496 Dubay Rd Polson MT 59860",
+    "addr:housenumber":"7496",
+    "addr:postcode":"59860",
+    "addr:street":"Dubay Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.070454,47.636681,-114.070454,47.636681",
     "geom:latitude":47.636681,
     "geom:longitude":-114.070454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7496 Dubay Rd",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -28,12 +34,13 @@
         85633793,
         85688617
     ],
+    "wof:brand_id":1125153453,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CGYn5NVGPIkU245jpBh3k_47.636681_-114.070454@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"f30d429650f4a61a484d28dedae55ff9",
+    "wof:geomhash":"cd2c1d0a346f8c953be40779f3f7b3bc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":185896415,
-    "wof:lastmodified":1466641630,
+    "wof:lastmodified":1510699761,
     "wof:name":"Independent Order of Odd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

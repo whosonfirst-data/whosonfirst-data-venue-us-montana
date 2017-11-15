@@ -2,14 +2,20 @@
   "id": 186284135,
   "type": "Feature",
   "properties": {
+    "addr:full":"960 S 29th St Billings MT 59101",
+    "addr:housenumber":"960",
+    "addr:postcode":"59101",
+    "addr:street":"S 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.497354,45.771721,-108.497354,45.771721",
     "geom:latitude":45.771721,
     "geom:longitude":-108.497354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"960 S 29th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102085087,
         85876261
     ],
+    "wof:brand_id":1125153985,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XWmCwv8PJinv9wPsc5eYX_45.771721_-108.497354@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"6df2820ab82dc6b099b1d87d17ba2f38",
+    "wof:geomhash":"636a6054f4b14b2c9782de0f9c234bee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186284135,
-    "wof:lastmodified":1466642379,
+    "wof:lastmodified":1510699548,
     "wof:name":"Oreck Floor Care Ctr",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",

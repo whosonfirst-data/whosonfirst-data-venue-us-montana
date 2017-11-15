@@ -2,14 +2,20 @@
   "id": 873661449,
   "type": "Feature",
   "properties": {
+    "addr:full":"2030 Overland Ave Billings MT 59102",
+    "addr:housenumber":"2030",
+    "addr:postcode":"59102",
+    "addr:street":"Overland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.566515,45.754327,-108.566515,45.754327",
     "geom:latitude":45.754327,
     "geom:longitude":-108.566515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2030 Overland Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85859347,
         102085087
     ],
+    "wof:brand_id":420574085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fk22J8OsHMrvymRtmK96T_45.754327_-108.566515@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295714,
-    "wof:geomhash":"bb049cd0f8ccc17d44c23492490ae5de",
+    "wof:geomhash":"3ec460f86dad9ef8d498a04d39fcfef6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873661449,
-    "wof:lastmodified":1466643125,
+    "wof:lastmodified":1510604033,
     "wof:name":"Comfort Inn",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",

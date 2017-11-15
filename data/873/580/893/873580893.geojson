@@ -2,14 +2,20 @@
   "id": 873580893,
   "type": "Feature",
   "properties": {
+    "addr:full":"4525 Grand Ave Billings MT 59106",
+    "addr:housenumber":"4525",
+    "addr:postcode":"",
+    "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.630537,45.78417,-108.630537,45.78417",
     "geom:latitude":45.78417,
     "geom:longitude":-108.630537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4525 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085087,
         85876267
     ],
+    "wof:brand_id":1125153857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ogqr7YcAVjrGwr17mBFyZ_45.784170_-108.630537@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294731,
-    "wof:geomhash":"d9cc5a68cf4dcf3e86eb42d624cea092",
+    "wof:geomhash":"debbb72a56d4dbe2503eced187eaea72",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873580893,
-    "wof:lastmodified":1466642259,
+    "wof:lastmodified":1510697164,
     "wof:name":"Cornerstone Community Church",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",

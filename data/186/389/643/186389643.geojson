@@ -2,14 +2,20 @@
   "id": 186389643,
   "type": "Feature",
   "properties": {
+    "addr:full":"223 S Montana St Butte MT 59701",
+    "addr:housenumber":"223",
+    "addr:postcode":"mt 59701",
+    "addr:street":"S Montana St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.539431,46.010764,-112.539431,46.010764",
     "geom:latitude":46.010764,
     "geom:longitude":-112.539431,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"223 S Montana St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102085099,
         85868995
     ],
+    "wof:brand_id":1125159087,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xuDvt6OICB4Q6ZxuGzOXy_46.010764_-112.539431@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"13787f76467e5a95249151084f1f17c8",
+    "wof:geomhash":"ed49bade1a5ba9084d947bdd6a9a9add",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186389643,
-    "wof:lastmodified":1466642841,
+    "wof:lastmodified":1510693764,
     "wof:name":"St Mark's Lutheran Church",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",

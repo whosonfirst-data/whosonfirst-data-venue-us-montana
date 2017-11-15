@@ -2,14 +2,20 @@
   "id": 185756455,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 W Mercury St Butte MT 59701",
+    "addr:housenumber":"305",
+    "addr:postcode":"mt 59701",
+    "addr:street":"W Mercury St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.540534,46.011002,-112.540534,46.011002",
     "geom:latitude":46.011002,
     "geom:longitude":-112.540534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 W Mercury St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102085099,
         85868995
     ],
+    "wof:brand_id":1125151077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Oh7dTCVpcecjfGMfUdudf_46.011002_-112.540534@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"f84d8b3a5fe963c4e02ce6daf58fdd4d",
+    "wof:geomhash":"ddbc460dc4c12bee24214d8177b3a99b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":185756455,
-    "wof:lastmodified":1466641482,
+    "wof:lastmodified":1510696088,
     "wof:name":"Natural Rsrces Cnservation Svc",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",

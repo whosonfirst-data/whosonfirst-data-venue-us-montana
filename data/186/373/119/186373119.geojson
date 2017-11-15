@@ -2,14 +2,20 @@
   "id": 186373119,
   "type": "Feature",
   "properties": {
+    "addr:full":"2910 S Reserve St Missoula MT 59801",
+    "addr:housenumber":"2910",
+    "addr:postcode":"59801",
+    "addr:street":"S Reserve St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.039491,46.843435,-114.039491,46.843435",
     "geom:latitude":46.843435,
     "geom:longitude":-114.039491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2910 S Reserve St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102085103,
         85868993
     ],
+    "wof:brand_id":1125154129,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FCe7JLne2aWtM6zXThFtI_46.843435_-114.039491@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5a25fba47d89befb27b6e711d78b484",
+    "wof:geomhash":"1a77b0fa8cb538f76fe79709ede8075a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":186373119,
-    "wof:lastmodified":1466642785,
+    "wof:lastmodified":1510697510,
     "wof:name":"Medtronic",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",

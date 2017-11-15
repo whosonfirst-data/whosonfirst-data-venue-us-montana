@@ -2,14 +2,20 @@
   "id": 186049555,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Monroe St Anaconda MT 59711",
+    "addr:housenumber":"501",
+    "addr:postcode":"59711",
+    "addr:street":"Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.936979,46.123436,-112.936979,46.123436",
     "geom:latitude":46.123436,
     "geom:longitude":-112.936979,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 Monroe St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85972705,
         102085161
     ],
+    "wof:brand_id":1125158811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UdvW9UXkt6DOKUbkn21Wj_46.123436_-112.936979@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"09e6f647e41bb68e9b7f86f5af78998d",
+    "wof:geomhash":"0efbeb0d647f6d7424ec60b072106573",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186049555,
-    "wof:lastmodified":1466641828,
+    "wof:lastmodified":1510697442,
     "wof:name":"Maintenance Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

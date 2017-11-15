@@ -2,14 +2,20 @@
   "id": 185646849,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Main St Victor MT 59875",
+    "addr:housenumber":"103",
+    "addr:postcode":"59875",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.143444,46.418057,-114.143444,46.418057",
     "geom:latitude":46.418057,
     "geom:longitude":-114.143444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 Main St",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85973313,
         102085185
     ],
+    "wof:brand_id":1125150803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CCUbowAqTwjEG1AGBymL5_46.418057_-114.143444@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5aceb3e02eefd02c54ece3538182467",
+    "wof:geomhash":"7574e88b6fd24cfcb45ae50f4222f9c8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":185646849,
-    "wof:lastmodified":1466641370,
+    "wof:lastmodified":1510697334,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

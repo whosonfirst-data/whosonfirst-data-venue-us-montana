@@ -2,14 +2,20 @@
   "id": 873640531,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Harrison Ave Butte MT 59701",
+    "addr:housenumber":"1500",
+    "addr:postcode":"mt 59701",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.517979,46.000061,-112.517979,46.000061",
     "geom:latitude":46.000061,
     "geom:longitude":-112.517979,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085099,
         85868995
     ],
+    "wof:brand_id":1125152059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vBBuPTmBHI6A2Ec6CgOY7_46.000061_-112.517979@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295482,
-    "wof:geomhash":"91b62445a04a5f7bbc352ba4825c5a94",
+    "wof:geomhash":"20d5ca47ad7e507252d445c03189375a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873640531,
-    "wof:lastmodified":1466642955,
+    "wof:lastmodified":1510697079,
     "wof:name":"Papa Murphy's Take 'N' Bake",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",

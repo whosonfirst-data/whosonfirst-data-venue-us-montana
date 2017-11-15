@@ -2,14 +2,20 @@
   "id": 186130051,
   "type": "Feature",
   "properties": {
+    "addr:full":"2560 Canyon Ferry Rd Helena MT 59602",
+    "addr:housenumber":"2560",
+    "addr:postcode":"59602",
+    "addr:street":"Canyon Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.959441,46.616933,-111.959441,46.616933",
     "geom:latitude":46.616933,
     "geom:longitude":-111.959441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2560 Canyon Ferry Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85973105,
         102085151
     ],
+    "wof:brand_id":1125154385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YBkEHTfMa6qxlasyrIYtz_46.616933_-111.959441@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3ecb11a33005322cacd35603776cd24",
+    "wof:geomhash":"91c923c13e4d2a86e1960d85bd8b9504",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186130051,
-    "wof:lastmodified":1466642081,
+    "wof:lastmodified":1510696957,
     "wof:name":"Water Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

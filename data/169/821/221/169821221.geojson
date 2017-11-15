@@ -2,14 +2,20 @@
   "id": 169821221,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 S 1st Ave Laurel MT 59044",
+    "addr:housenumber":"315",
+    "addr:postcode":"59044",
+    "addr:street":"S 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.771347,45.665874,-108.771347,45.665874",
     "geom:latitude":45.665874,
     "geom:longitude":-108.771347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 S 1st Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102085087,
         85876267
     ],
+    "wof:brand_id":1125159495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6X5kgQf9IPOrZRUQPBaF4A_45.665874_-108.771347@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a2b2833509823251ded5c9369df9b44",
+    "wof:geomhash":"b17c47799a3c7e883fca8f9072dafbce",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":169821221,
-    "wof:lastmodified":1466641287,
+    "wof:lastmodified":1510695422,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873564877,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Cobban St Butte MT 59701",
+    "addr:housenumber":"1500",
+    "addr:postcode":"mt 59701",
+    "addr:street":"Cobban St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.518647,45.993338,-112.518647,45.993338",
     "geom:latitude":45.993338,
     "geom:longitude":-112.518647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 Cobban St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085099,
         85857839
     ],
+    "wof:brand_id":1125153121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Kmp9nfHX07dPFN7BJVj5q_45.993338_-112.518647@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294553,
-    "wof:geomhash":"f9494844cda1e65cc31ed805e0deaa38",
+    "wof:geomhash":"8cd911b05fb25d983a9151210d13a109",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873564877,
-    "wof:lastmodified":1466642073,
+    "wof:lastmodified":1510699546,
     "wof:name":"St John's Catholic Church",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",

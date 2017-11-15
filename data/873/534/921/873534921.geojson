@@ -2,14 +2,20 @@
   "id": 873534921,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Rocky Cliff Dr Kalispell MT 59901",
+    "addr:housenumber":"215",
+    "addr:postcode":"59901",
+    "addr:street":"Rocky Cliff Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.282962,48.139137,-114.282962,48.139137",
     "geom:latitude":48.139137,
     "geom:longitude":-114.282962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Rocky Cliff Dr",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085177,
         85838307
     ],
+    "wof:brand_id":1125155195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DU6cVz3fkHcAQ4112Tl42_48.139137_-114.282962@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294203,
-    "wof:geomhash":"5a6114eb2610cd516814084c3c9e9f0b",
+    "wof:geomhash":"945d680e7d6766c4de63fe67f8727be7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873534921,
-    "wof:lastmodified":1466641300,
+    "wof:lastmodified":1510699646,
     "wof:name":"Total Lawn Care",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",

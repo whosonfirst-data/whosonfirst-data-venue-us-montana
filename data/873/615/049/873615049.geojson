@@ -2,14 +2,20 @@
   "id": 873615049,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 Grand Ave Billings MT 59101",
+    "addr:housenumber":"710",
+    "addr:postcode":"59101",
+    "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.535695,45.783915,-108.535695,45.783915",
     "geom:latitude":45.783915,
     "geom:longitude":-108.535695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"710 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085087,
         85876251
     ],
+    "wof:brand_id":1125151945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HxJIStRq7R6d5jlPs1WNF_45.783915_-108.535695@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295196,
-    "wof:geomhash":"a7878085c7eb3d243130ce81a68486ed",
+    "wof:geomhash":"f51f21ae495b410fbe8ffeaf10b7c803",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873615049,
-    "wof:lastmodified":1466642712,
+    "wof:lastmodified":1510698670,
     "wof:name":"Hair Loft",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",

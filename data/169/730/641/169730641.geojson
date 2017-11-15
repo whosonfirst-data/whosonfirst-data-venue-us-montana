@@ -2,14 +2,20 @@
   "id": 169730641,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 E Broadway St Helena MT 59601",
+    "addr:housenumber":"2525",
+    "addr:postcode":"59601",
+    "addr:street":"E Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.992337,46.584154,-111.992337,46.584154",
     "geom:latitude":46.584154,
     "geom:longitude":-111.992337,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2525 E Broadway St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85972711,
         102085151
     ],
+    "wof:brand_id":1125151735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SaWPeBTaPshZmga6A5Txe_46.584154_-111.992337@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc07e7bb5eaf44734cfcbeb004a771b3",
+    "wof:geomhash":"f2806cf485c9274724051b50f7a9fd4c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169730641,
-    "wof:lastmodified":1466641162,
+    "wof:lastmodified":1510712384,
     "wof:name":"Internal Medicine Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

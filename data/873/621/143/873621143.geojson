@@ -2,6 +2,10 @@
   "id": 873621143,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Daniel St Billings MT 59101",
+    "addr:housenumber":"501",
+    "addr:postcode":"59101",
+    "addr:street":"Daniel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":873621143,
-    "wof:lastmodified":1466642787,
+    "wof:lastmodified":1472631682,
     "wof:name":"Circuit Electric",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",

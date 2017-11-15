@@ -2,14 +2,20 @@
   "id": 873698515,
   "type": "Feature",
   "properties": {
+    "addr:full":"4780 King Ave E Billings MT 59101",
+    "addr:housenumber":"4780",
+    "addr:postcode":"59101",
+    "addr:street":"King Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.544764,45.75531,-108.544764,45.75531",
     "geom:latitude":45.75531,
     "geom:longitude":-108.544764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4780 King Ave E",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85876259,
         102085087
     ],
+    "wof:brand_id":420573801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uT99YNCkJQGBvmw39H26J_45.755310_-108.544764@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464296389,
-    "wof:geomhash":"3c683b438953cc3f52d14616ce811dbe",
+    "wof:geomhash":"2663ef53e7256e482e49b43810c03c54",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873698515,
-    "wof:lastmodified":1466643160,
+    "wof:lastmodified":1510603509,
     "wof:name":"Burger King",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",

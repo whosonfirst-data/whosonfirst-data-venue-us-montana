@@ -2,14 +2,20 @@
   "id": 186307577,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Moore Ln Billings MT 59101",
+    "addr:housenumber":"205",
+    "addr:postcode":"59101",
+    "addr:street":"Moore Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.542127,45.763374,-108.542127,45.763374",
     "geom:latitude":45.763374,
     "geom:longitude":-108.542127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 Moore Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102085087,
         85876247
     ],
+    "wof:brand_id":1125155589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00GSTJL13BJqmIReAGlRSh_45.763374_-108.542127@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"c81cea2d237e63e8d2c95c30a7eb9a3c",
+    "wof:geomhash":"97c727af44b58dc048e6e137c301ff7c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":186307577,
-    "wof:lastmodified":1466642635,
+    "wof:lastmodified":1510694030,
     "wof:name":"Crescent Electric Supply Co",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",

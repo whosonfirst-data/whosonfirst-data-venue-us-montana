@@ -2,14 +2,20 @@
   "id": 873572765,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 N 35th St Billings MT 59101",
+    "addr:housenumber":"3",
+    "addr:postcode":"59101",
+    "addr:street":"N 35Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.514301,45.777998,-108.514301,45.777998",
     "geom:latitude":45.777998,
     "geom:longitude":-108.514301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 N 35th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102085087,
         85876243
     ],
+    "wof:brand_id":1125151231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RAz2OsEjr7nvNHgBATeZT_45.777998_-108.514301@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294639,
-    "wof:geomhash":"c2eef4d221e8ab8e3efba42e70379576",
+    "wof:geomhash":"9a9ca7e531da803730fb0e577f5d9fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":873572765,
-    "wof:lastmodified":1466642217,
+    "wof:lastmodified":1510694072,
     "wof:name":"Otis Elevator Company",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",

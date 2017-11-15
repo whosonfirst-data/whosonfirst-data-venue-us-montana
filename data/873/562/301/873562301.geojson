@@ -2,14 +2,20 @@
   "id": 873562301,
   "type": "Feature",
   "properties": {
+    "addr:full":"58 W Quartz St Butte MT 59701",
+    "addr:housenumber":"58",
+    "addr:postcode":"mt 59701",
+    "addr:street":"W Quartz St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.536833,46.0152,-112.536833,46.0152",
     "geom:latitude":46.0152,
     "geom:longitude":-112.536833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"58 W Quartz St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085099,
         85868995
     ],
+    "wof:brand_id":1125153257,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xtX8hEXn73fiHlbJYTfQT_46.015200_-112.536833@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294523,
-    "wof:geomhash":"1289f76de56c552afd2d7d5551b20b7c",
+    "wof:geomhash":"8212d918ab30d473820746c2307cb03d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873562301,
-    "wof:lastmodified":1466642045,
+    "wof:lastmodified":1510697118,
     "wof:name":"United Food & Commercial Wrkrs",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",

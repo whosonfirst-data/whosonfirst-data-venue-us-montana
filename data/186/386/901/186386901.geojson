@@ -2,6 +2,10 @@
   "id": 186386901,
   "type": "Feature",
   "properties": {
+    "addr:full":"1005 Main St Billings MT 59105",
+    "addr:housenumber":"1005",
+    "addr:postcode":"59105",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":186386901,
-    "wof:lastmodified":1466642827,
+    "wof:lastmodified":1472631658,
     "wof:name":"Paint Doctor",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",

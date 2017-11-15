@@ -2,14 +2,20 @@
   "id": 185606093,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 Main St Anaconda MT 59711",
+    "addr:housenumber":"319",
+    "addr:postcode":"59711",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.953558,46.127482,-112.953558,46.127482",
     "geom:latitude":46.127482,
     "geom:longitude":-112.953558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"319 Main St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85972705,
         102085161
     ],
+    "wof:brand_id":1125155121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30ZvmXwGMM45EIIsB3tY2u_46.127482_-112.953558@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"6d1958339a9b262ad2579fdb4382f387",
+    "wof:geomhash":"b9a011311ecaec975af723c848043b17",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":185606093,
-    "wof:lastmodified":1466641175,
+    "wof:lastmodified":1510694062,
     "wof:name":"First Presbyterian Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 169817573,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Main St Anaconda MT 59711",
+    "addr:housenumber":"119",
+    "addr:postcode":"59711",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.952626,46.130076,-112.952626,46.130076",
     "geom:latitude":46.130076,
     "geom:longitude":-112.952626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"119 Main St",
     "sg:city":"Anaconda",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85972705,
         102085161
     ],
+    "wof:brand_id":1125159515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4By4beCcAAriUXVHZEoFMc_46.130076_-112.952626@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"60297907077c31237e33acc0f1cc077f",
+    "wof:geomhash":"8f633bb02280e1097c73a0a0259c56d2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169817573,
-    "wof:lastmodified":1466641288,
+    "wof:lastmodified":1510698877,
     "wof:name":"Computers Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

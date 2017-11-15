@@ -2,6 +2,10 @@
   "id": 185830181,
   "type": "Feature",
   "properties": {
+    "addr:full":"10765 US Hwy 2 S Libby MT 59923",
+    "addr:housenumber":"10765",
+    "addr:postcode":"59923",
+    "addr:street":"Us Hwy 2 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":185830181,
-    "wof:lastmodified":1466641561,
+    "wof:lastmodified":1472631629,
     "wof:name":"Souther Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

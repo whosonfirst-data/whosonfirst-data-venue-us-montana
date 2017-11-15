@@ -2,14 +2,20 @@
   "id": 186117585,
   "type": "Feature",
   "properties": {
+    "addr:full":"1715 Vaughn Rd Great Falls MT 59404",
+    "addr:housenumber":"1715",
+    "addr:postcode":"59404",
+    "addr:street":"Vaughn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.347117,47.514248,-111.347117,47.514248",
     "geom:latitude":47.514248,
     "geom:longitude":-111.347117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1715 Vaughn Rd",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85972763,
         102085113
     ],
+    "wof:brand_id":1125153383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pXRf6MqHkXJIwsxX5qS8i_47.514248_-111.347117@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"8137a02d3858762e6a5f808562435e16",
+    "wof:geomhash":"63d9836eb24a62e6a06211414e4d7031",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186117585,
-    "wof:lastmodified":1466642219,
+    "wof:lastmodified":1510695718,
     "wof:name":"Flying J Travel Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

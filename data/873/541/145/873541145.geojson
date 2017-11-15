@@ -2,14 +2,20 @@
   "id": 873541145,
   "type": "Feature",
   "properties": {
+    "addr:full":"1940 C St Butte MT 59701",
+    "addr:housenumber":"1940",
+    "addr:postcode":"mt 59701",
+    "addr:street":"C St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.511254,45.98944,-112.511254,45.98944",
     "geom:latitude":45.98944,
     "geom:longitude":-112.511254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1940 C St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085099,
         85857839
     ],
+    "wof:brand_id":1125154959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rcZ4LECZkFh57DkWBUJ3I_45.989440_-112.511254@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294271,
-    "wof:geomhash":"ba750bcccc6def54e337e0959958214c",
+    "wof:geomhash":"f9fdc8ce10fb559d0ed7474d9dfd8066",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873541145,
-    "wof:lastmodified":1466641682,
+    "wof:lastmodified":1510696060,
     "wof:name":"ADT Security Svc",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",

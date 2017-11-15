@@ -2,14 +2,20 @@
   "id": 873563009,
   "type": "Feature",
   "properties": {
+    "addr:full":"6231 Alamosa Ln Bozeman MT 59718",
+    "addr:housenumber":"6231",
+    "addr:postcode":"59718",
+    "addr:street":"Alamosa Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.086602,45.597464,-111.086602,45.597464",
     "geom:latitude":45.597464,
     "geom:longitude":-111.086602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6231 Alamosa Ln",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85891701,
         102085133
     ],
+    "wof:brand_id":420575357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z8CT1gC4P39QcopehuF5V_45.597464_-111.086602@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294531,
-    "wof:geomhash":"74e668f217cf6632f648c17651823fd4",
+    "wof:geomhash":"d74ecddf7be1f2b0331392a236002d20",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873563009,
-    "wof:lastmodified":1466642027,
+    "wof:lastmodified":1510602999,
     "wof:name":"ServiceMaster",
     "wof:parent_id":85891701,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873644563,
   "type": "Feature",
   "properties": {
+    "addr:full":"2825 3rd Ave S Billings MT 59101",
+    "addr:housenumber":"2825",
+    "addr:postcode":"59101",
+    "addr:street":"3Rd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.50254,45.777447,-108.50254,45.777447",
     "geom:latitude":45.777447,
     "geom:longitude":-108.50254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2825 3rd Ave S",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085087,
         85876253
     ],
+    "wof:brand_id":1125150857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51Aa7NLIHJ34I9iPxmL6Of_45.777447_-108.502540@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295531,
-    "wof:geomhash":"d7e3d72ca517f9e898418c86a5bc5444",
+    "wof:geomhash":"041608edab7ca6f4df46e3644195bb41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873644563,
-    "wof:lastmodified":1466642978,
+    "wof:lastmodified":1510694215,
     "wof:name":"Burlington Northern",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",

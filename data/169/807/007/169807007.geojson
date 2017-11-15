@@ -2,14 +2,20 @@
   "id": 169807007,
   "type": "Feature",
   "properties": {
+    "addr:full":"223 Main St SW Ronan MT 59864",
+    "addr:housenumber":"223",
+    "addr:postcode":"59864",
+    "addr:street":"Main St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.101449,47.52866,-114.101449,47.52866",
     "geom:latitude":47.52866,
     "geom:longitude":-114.101449,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"223 Main St SW",
     "sg:city":"Ronan",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85972721,
         102085121
     ],
+    "wof:brand_id":1125153829,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nGzqWtb5yeRTce51b3J8g_47.528660_-114.101449@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"7559469d3409916229e82af10d213bcc",
+    "wof:geomhash":"736039a993c2c9a759cf4d7001e55ae5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169807007,
-    "wof:lastmodified":1466641762,
+    "wof:lastmodified":1510693755,
     "wof:name":"Video Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

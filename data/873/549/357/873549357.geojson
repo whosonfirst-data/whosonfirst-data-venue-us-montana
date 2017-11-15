@@ -2,14 +2,20 @@
   "id": 873549357,
   "type": "Feature",
   "properties": {
+    "addr:full":"2802 Belvedere Dr Billings MT 59102",
+    "addr:housenumber":"2802",
+    "addr:postcode":"59102",
+    "addr:street":"Belvedere Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.588847,45.782231,-108.588847,45.782231",
     "geom:latitude":45.782231,
     "geom:longitude":-108.588847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2802 Belvedere Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085087,
         85876255
     ],
+    "wof:brand_id":1125159727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GJQYEKl4oEdsFo7V4MQiP_45.782231_-108.588847@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294370,
-    "wof:geomhash":"3a7cf3e91809f7b5d32240c83f651fde",
+    "wof:geomhash":"9a5d1dd81af69fb9e111759b65700603",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873549357,
-    "wof:lastmodified":1466641905,
+    "wof:lastmodified":1510697222,
     "wof:name":"Trinity Lutheran School",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",

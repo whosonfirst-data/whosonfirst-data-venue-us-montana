@@ -2,14 +2,20 @@
   "id": 169749093,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 1st Ave Laurel MT 59044",
+    "addr:housenumber":"319",
+    "addr:postcode":"59044",
+    "addr:street":"1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.771513,45.672243,-108.771513,45.672243",
     "geom:latitude":45.672243,
     "geom:longitude":-108.771513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"319 1st Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102085087,
         85876267
     ],
+    "wof:brand_id":1125151597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tg9jdykTJSiLOZ17D0aYp_45.672243_-108.771513@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b0b8b2a3bcca1ba9e898ffcb589470c",
+    "wof:geomhash":"4509ceaf902d1058612c1d45fd0a84b0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169749093,
-    "wof:lastmodified":1466641184,
+    "wof:lastmodified":1510693869,
     "wof:name":"Healthsouth Sports Medicine",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",

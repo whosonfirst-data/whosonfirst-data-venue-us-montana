@@ -2,14 +2,20 @@
   "id": 873587245,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Greenwood Ave W Butte MT 59701",
+    "addr:housenumber":"45",
+    "addr:postcode":"mt 59701",
+    "addr:street":"Greenwood Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.534922,45.989498,-112.534922,45.989498",
     "geom:latitude":45.989498,
     "geom:longitude":-112.534922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"45 Greenwood Ave W",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085099,
         85857839
     ],
+    "wof:brand_id":1125154201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZSK0XtEYG8p0ZYL1Nx7H3_45.989498_-112.534922@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294799,
-    "wof:geomhash":"40251e6b7a39164f1ccfd4b3312c691c",
+    "wof:geomhash":"14bac8171d0ea4cd7792138599c9328e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873587245,
-    "wof:lastmodified":1466642310,
+    "wof:lastmodified":1510694738,
     "wof:name":"Family Worship Ctr",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",

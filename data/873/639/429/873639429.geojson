@@ -2,14 +2,20 @@
   "id": 873639429,
   "type": "Feature",
   "properties": {
+    "addr:full":"1008 Park Ave Whitefish MT 59937",
+    "addr:housenumber":"1008",
+    "addr:postcode":"59937",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.330239,48.402163,-114.330239,48.402163",
     "geom:latitude":48.402163,
     "geom:longitude":-114.330239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1008 Park Ave",
     "sg:city":"Whitefish",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085177,
         85838307
     ],
+    "wof:brand_id":1125151809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SpRnzhiGH7MWbEbchKaSw_48.402163_-114.330239@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295468,
-    "wof:geomhash":"3381613237d79b57c581fc20850bc1fa",
+    "wof:geomhash":"d88670c968e93eb460ebf7f12227a357",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873639429,
-    "wof:lastmodified":1466643086,
+    "wof:lastmodified":1510693838,
     "wof:name":"United Transportation Union",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",

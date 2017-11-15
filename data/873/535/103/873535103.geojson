@@ -2,14 +2,20 @@
   "id": 873535103,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Holiday Way Butte MT 59701",
+    "addr:housenumber":"1",
+    "addr:postcode":"mt 59701",
+    "addr:street":"Holiday Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.505106,45.985355,-112.505106,45.985355",
     "geom:latitude":45.985355,
     "geom:longitude":-112.505106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Holiday Way",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085099,
         85857839
     ],
+    "wof:brand_id":420574657,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IUYqhCeywlM2MdXaOQJsc_45.985355_-112.505106@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294205,
-    "wof:geomhash":"e017c03422be481ae017b8246c0ea4f1",
+    "wof:geomhash":"7fbb566114df87e25518d5c61e865379",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873535103,
-    "wof:lastmodified":1466641316,
+    "wof:lastmodified":1510604306,
     "wof:name":"Holiday Inn",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",

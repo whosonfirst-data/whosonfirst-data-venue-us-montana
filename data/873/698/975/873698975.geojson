@@ -2,14 +2,20 @@
   "id": 873698975,
   "type": "Feature",
   "properties": {
+    "addr:full":"3042 King Ave W Billings MT 59102",
+    "addr:housenumber":"3042",
+    "addr:postcode":"59102",
+    "addr:street":"King Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.592935,45.755116,-108.592935,45.755116",
     "geom:latitude":45.755116,
     "geom:longitude":-108.592935,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3042 King Ave W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85972929,
         85876247
     ],
+    "wof:brand_id":1125153581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mUxU4UwJ8V8rOLBmHdiHR_45.755116_-108.592935@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464296393,
-    "wof:geomhash":"08715ac3cf7bd36ebc1a52a2f2555b99",
+    "wof:geomhash":"5ae3b0c0e0fa33e6bd98a35178cf92f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":873698975,
-    "wof:lastmodified":1466643222,
+    "wof:lastmodified":1510697326,
     "wof:name":"Carino's Italian Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

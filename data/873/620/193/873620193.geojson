@@ -2,14 +2,20 @@
   "id": 873620193,
   "type": "Feature",
   "properties": {
+    "addr:full":"1623 East Ln Billings MT 59101",
+    "addr:housenumber":"1623",
+    "addr:postcode":"59101",
+    "addr:street":"East Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.57594,45.733783,-108.57594,45.733783",
     "geom:latitude":45.733783,
     "geom:longitude":-108.57594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1623 East Ln",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85859347,
         102085087
     ],
+    "wof:brand_id":420575357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MIQhrEeKjJTnvgBzhFaUx_45.733783_-108.575940@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295253,
-    "wof:geomhash":"0ceff15b600d282abdbb07e234ffacd0",
+    "wof:geomhash":"e063dc65c96fa89af1c76a7e4f9aa899",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873620193,
-    "wof:lastmodified":1466642738,
+    "wof:lastmodified":1510602999,
     "wof:name":"ServiceMaster",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",

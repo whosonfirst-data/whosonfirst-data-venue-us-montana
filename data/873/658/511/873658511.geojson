@@ -2,14 +2,20 @@
   "id": 873658511,
   "type": "Feature",
   "properties": {
+    "addr:full":"6538 S 12th St Huntley MT 59037",
+    "addr:housenumber":"6538",
+    "addr:postcode":"59037",
+    "addr:street":"S 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.317145,45.877442,-108.317145,45.877442",
     "geom:latitude":45.877442,
     "geom:longitude":-108.317145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6538 S 12th St",
     "sg:city":"Huntley",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085087,
         85831151
     ],
+    "wof:brand_id":1125158531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4heJPu0PNYJvFCFCduSd1S_45.877442_-108.317145@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295683,
-    "wof:geomhash":"bf379b410c8873656355c012a20f3266",
+    "wof:geomhash":"55605002dadf4d21a7616912f4f4526d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873658511,
-    "wof:lastmodified":1466643119,
+    "wof:lastmodified":1510698664,
     "wof:name":"Flowserve Corp",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",

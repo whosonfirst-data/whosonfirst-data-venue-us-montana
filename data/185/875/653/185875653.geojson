@@ -2,6 +2,10 @@
   "id": 185875653,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Main St Three Forks MT 59752",
+    "addr:housenumber":"123",
+    "addr:postcode":"59752",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":185875653,
-    "wof:lastmodified":1466641612,
+    "wof:lastmodified":1472631629,
     "wof:name":"Industrial Automation Cnsltng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

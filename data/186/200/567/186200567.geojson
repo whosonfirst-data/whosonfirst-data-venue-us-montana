@@ -2,14 +2,20 @@
   "id": 186200567,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 E Main St Laurel MT 59044",
+    "addr:housenumber":"407",
+    "addr:postcode":"59044",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.76584,45.670576,-108.76584,45.670576",
     "geom:latitude":45.670576,
     "geom:longitude":-108.76584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"407 E Main St",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102085087,
         85876267
     ],
+    "wof:brand_id":1125159719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42hdkhJuDfxgCUgIzsacao_45.670576_-108.765840@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"8dd1e2dcce9e16135f96e9e280db905d",
+    "wof:geomhash":"5fb64df345b4801480f54a753ffd7cc9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186200567,
-    "wof:lastmodified":1466642272,
+    "wof:lastmodified":1510613171,
     "wof:name":"Title Cash",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",

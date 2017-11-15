@@ -2,14 +2,20 @@
   "id": 186104037,
   "type": "Feature",
   "properties": {
+    "addr:full":"2575 Old Hardin Rd Billings MT 59101",
+    "addr:housenumber":"2575",
+    "addr:postcode":"59101",
+    "addr:street":"Old Hardin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.420939,45.809651,-108.420939,45.809651",
     "geom:latitude":45.809651,
     "geom:longitude":-108.420939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2575 Old Hardin Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102085087,
         85831151
     ],
+    "wof:brand_id":1125151053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IZ44r6RzE0bwnBcm0xC7k_45.809651_-108.420939@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4349a12499be17d401654ef0dbcd8c9",
+    "wof:geomhash":"43d03eb7fade37f2c76868a83d79444c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186104037,
-    "wof:lastmodified":1466641803,
+    "wof:lastmodified":1510613134,
     "wof:name":"Schwans Home Service Inc",
     "wof:parent_id":85831151,
     "wof:placetype":"venue",

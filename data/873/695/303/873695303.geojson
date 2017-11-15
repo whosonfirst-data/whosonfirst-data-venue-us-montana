@@ -2,6 +2,10 @@
   "id": 873695303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 Main St Billings MT 59105",
+    "addr:housenumber":"1111",
+    "addr:postcode":"59105",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873695303,
-    "wof:lastmodified":1466643203,
+    "wof:lastmodified":1472631710,
     "wof:name":"Billings Bench Water Assn",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 185607499,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 N 32nd St Billings MT 59101",
+    "addr:housenumber":"222",
+    "addr:postcode":"59101",
+    "addr:street":"N 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.512232,45.781221,-108.512232,45.781221",
     "geom:latitude":45.781221,
     "geom:longitude":-108.512232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"222 N 32nd St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102085087,
         85876243
     ],
+    "wof:brand_id":1125154523,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5C6mGJaXRkktEpyUgdIjBM_45.781221_-108.512232@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"de607058c6271a27b54f835a02541fc9",
+    "wof:geomhash":"cc2b9e9e84e7e8d264ebd9861c1024c9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185607499,
-    "wof:lastmodified":1466641181,
+    "wof:lastmodified":1510695739,
     "wof:name":"Comcast Cable Holdings LLC",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",

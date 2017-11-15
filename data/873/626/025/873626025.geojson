@@ -2,14 +2,20 @@
   "id": 873626025,
   "type": "Feature",
   "properties": {
+    "addr:full":"1123 2nd Ave N Billings MT 59101",
+    "addr:housenumber":"1123",
+    "addr:postcode":"59101",
+    "addr:street":"2Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.486747,45.792629,-108.486747,45.792629",
     "geom:latitude":45.792629,
     "geom:longitude":-108.486747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1123 2nd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85876257,
         102085087
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qGMDvHL5EzG2NXKSZpZTa_45.792629_-108.486747@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295320,
-    "wof:geomhash":"243c9fb80693751449e7566b3fb8ad29",
+    "wof:geomhash":"f6f511632948355290d62085c4631cfd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873626025,
-    "wof:lastmodified":1466642931,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",

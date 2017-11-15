@@ -2,6 +2,10 @@
   "id": 873586785,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Declaration Ave Billings MT 59105",
+    "addr:housenumber":"456",
+    "addr:postcode":"59105",
+    "addr:street":"Declaration Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873586785,
-    "wof:lastmodified":1466642362,
+    "wof:lastmodified":1472631671,
     "wof:name":"J & D Inc",
     "wof:parent_id":85876249,
     "wof:placetype":"venue",

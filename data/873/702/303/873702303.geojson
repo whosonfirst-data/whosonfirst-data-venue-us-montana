@@ -2,14 +2,20 @@
   "id": 873702303,
   "type": "Feature",
   "properties": {
+    "addr:full":"770 King Park Dr Billings MT 59102",
+    "addr:housenumber":"770",
+    "addr:postcode":"59102",
+    "addr:street":"King Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.56839,45.75541,-108.56839,45.75541",
     "geom:latitude":45.75541,
     "geom:longitude":-108.56839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"770 King Park Dr",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85859347,
         102085087
     ],
+    "wof:brand_id":420575749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UdfocjDCy5RgBKWePOYEw_45.755613_-108.568536@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464296429,
-    "wof:geomhash":"030ef546a2f11dc71b7657be76c75de7",
+    "wof:geomhash":"acee70ddd2e376d7cd7590d6bf8b8922",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873702303,
-    "wof:lastmodified":1466643150,
+    "wof:lastmodified":1510601916,
     "wof:name":"Del Taco",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",

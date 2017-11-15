@@ -2,14 +2,20 @@
   "id": 873676597,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 1st Ave N Billings MT 59101",
+    "addr:housenumber":"3400",
+    "addr:postcode":"59101",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.514376,45.777975,-108.514376,45.777975",
     "geom:latitude":45.777975,
     "geom:longitude":-108.514376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3400 1st Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085087,
         85876243
     ],
+    "wof:brand_id":420574809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_556cW9GuaAFUMBkDokUFAP_45.777975_-108.514376@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295902,
-    "wof:geomhash":"11ec7f1927048d4ae8a3d507b9de29ba",
+    "wof:geomhash":"e5e4da5f710a0db806fc76148842cd77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873676597,
-    "wof:lastmodified":1466643135,
+    "wof:lastmodified":1510604465,
     "wof:name":"Hanger Prosthetics & Orthotics",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",

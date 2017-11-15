@@ -2,14 +2,20 @@
   "id": 873620349,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 W Idaho St Kalispell MT 59901",
+    "addr:housenumber":"130",
+    "addr:postcode":"59901",
+    "addr:street":"W Idaho St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.316893,48.201764,-114.316893,48.201764",
     "geom:latitude":48.201764,
     "geom:longitude":-114.316893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"130 W Idaho St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085177,
         85838307
     ],
+    "wof:brand_id":1125155021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0roo33CrrKNKIDYQ9BxraN_48.201764_-114.316893@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295254,
-    "wof:geomhash":"d508a4dfd32cc7fc25090b1d26aa782c",
+    "wof:geomhash":"e1085fe2b3a59c789cbfb8e4122d0da2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873620349,
-    "wof:lastmodified":1466642742,
+    "wof:lastmodified":1510613114,
     "wof:name":"King Buffet",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873561181,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 4th Ave N Billings MT 59101",
+    "addr:housenumber":"2900",
+    "addr:postcode":"59101",
+    "addr:street":"4Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.51073,45.783452,-108.51073,45.783452",
     "geom:latitude":45.783452,
     "geom:longitude":-108.51073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2900 4th Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085087,
         85876243
     ],
+    "wof:brand_id":1125151613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25ETPtynDg3WmGjjsMTjA4_45.783452_-108.510730@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294511,
-    "wof:geomhash":"d785c4b4e55e99e60e2911e2823a055f",
+    "wof:geomhash":"e5be8d238f68fbf90f04b3da209d17e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873561181,
-    "wof:lastmodified":1466642037,
+    "wof:lastmodified":1510696954,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",

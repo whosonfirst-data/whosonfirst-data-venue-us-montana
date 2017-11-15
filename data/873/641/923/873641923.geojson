@@ -2,14 +2,20 @@
   "id": 873641923,
   "type": "Feature",
   "properties": {
+    "addr:full":"3755 Harrison Ave Butte MT 59701",
+    "addr:housenumber":"3755",
+    "addr:postcode":"mt 59701",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.507995,45.968778,-112.507995,45.968778",
     "geom:latitude":45.968778,
     "geom:longitude":-112.507995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3755 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085099,
         85857839
     ],
+    "wof:brand_id":1125156471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14YuHu8MLS2GKvK0iYmtD3_45.968778_-112.507995@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295498,
-    "wof:geomhash":"30d2fc54c2db48971e315e7b8b10ae19",
+    "wof:geomhash":"615fdd97388f0c361c1f8c5e8610350e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873641923,
-    "wof:lastmodified":1466642952,
+    "wof:lastmodified":1510696795,
     "wof:name":"Rex TV & Appliances",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",

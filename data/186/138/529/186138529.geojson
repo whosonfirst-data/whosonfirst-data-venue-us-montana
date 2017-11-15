@@ -2,14 +2,20 @@
   "id": 186138529,
   "type": "Feature",
   "properties": {
+    "addr:full":"603 Mineral Ave Libby MT 59923",
+    "addr:housenumber":"603",
+    "addr:postcode":"59923",
+    "addr:street":"Mineral Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.552772,48.390464,-115.552772,48.390464",
     "geom:latitude":48.390464,
     "geom:longitude":-115.552772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"603 Mineral Ave",
     "sg:city":"Libby",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85972735,
         102085175
     ],
+    "wof:brand_id":1125150803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30ft1ho1Yv4QEysHOoLbxo_48.390464_-115.552772@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"3a0d5e411e227404e9a78dcc235cb226",
+    "wof:geomhash":"1e17dfc86e9cd3de2c3d656f86226150",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186138529,
-    "wof:lastmodified":1466641980,
+    "wof:lastmodified":1510697333,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

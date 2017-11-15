@@ -2,14 +2,20 @@
   "id": 186035911,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 W Main St Cut Bank MT 59427",
+    "addr:housenumber":"111",
+    "addr:postcode":"59427",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.334183,48.637611,-112.334183,48.637611",
     "geom:latitude":48.637611,
     "geom:longitude":-112.334183,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 W Main St",
     "sg:city":"Cut Bank",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85972679,
         102085069
     ],
+    "wof:brand_id":1125159897,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TeYZq1ISNy2cuCEyzyGRl_48.637611_-112.334183@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"3463e6b8e557896bbc02fe2f357ef2f5",
+    "wof:geomhash":"4d4a6ac940b970ff44fcb3775a3a1b0a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186035911,
-    "wof:lastmodified":1466641712,
+    "wof:lastmodified":1510693986,
     "wof:name":"Jack's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873550217,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Kaw Ave Butte MT 59701",
+    "addr:housenumber":"1601",
+    "addr:postcode":"mt 59701",
+    "addr:street":"Kaw Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.530549,45.994764,-112.530549,45.994764",
     "geom:latitude":45.994764,
     "geom:longitude":-112.530549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1601 Kaw Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085099,
         85857839
     ],
+    "wof:brand_id":1125155507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n97e5l09RzS7mLgpCK3Uq_45.994764_-112.530549@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294381,
-    "wof:geomhash":"300eb7ad3cbf23d177533eeb2a545763",
+    "wof:geomhash":"3fefcb14a030948ea83bfc7303e7cf39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873550217,
-    "wof:lastmodified":1466641901,
+    "wof:lastmodified":1510696756,
     "wof:name":"KOA Kampgrounds",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",

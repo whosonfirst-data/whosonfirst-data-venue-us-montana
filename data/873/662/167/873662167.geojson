@@ -2,14 +2,20 @@
   "id": 873662167,
   "type": "Feature",
   "properties": {
+    "addr:full":"2929 3rd Ave N Billings MT 59101",
+    "addr:housenumber":"2929",
+    "addr:postcode":"59101",
+    "addr:street":"3Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.509643,45.78286,-108.509643,45.78286",
     "geom:latitude":45.78286,
     "geom:longitude":-108.509643,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2929 3rd Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085087,
         85876243
     ],
+    "wof:brand_id":1125153145,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gfAx3CU9MOEr6USpFegQw_45.782860_-108.509643@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295721,
-    "wof:geomhash":"da5aa6c19451b636bf8040600e0ae177",
+    "wof:geomhash":"4fe4673077a062001afe02e57701eebd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873662167,
-    "wof:lastmodified":1466643121,
+    "wof:lastmodified":1510613261,
     "wof:name":"FBI",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",

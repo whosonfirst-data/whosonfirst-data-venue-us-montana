@@ -2,14 +2,20 @@
   "id": 873636483,
   "type": "Feature",
   "properties": {
+    "addr:full":"5400 Midland Rd Billings MT 59101",
+    "addr:housenumber":"5400",
+    "addr:postcode":"59101",
+    "addr:street":"Midland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.553532,45.749859,-108.553532,45.749859",
     "geom:latitude":45.749859,
     "geom:longitude":-108.553532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5400 Midland Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85876259,
         102085087
     ],
+    "wof:brand_id":420574233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TcrHSOVXNSt4B5I5llGIv_45.749859_-108.553532@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295436,
-    "wof:geomhash":"9e0e49cb02ebb1bb1412129b4c79d7c4",
+    "wof:geomhash":"28ae18635175b13fb7bcf23569482ad9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873636483,
-    "wof:lastmodified":1466642822,
+    "wof:lastmodified":1510603984,
     "wof:name":"Motel 6",
     "wof:parent_id":85876259,
     "wof:placetype":"venue",

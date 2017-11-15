@@ -2,14 +2,20 @@
   "id": 185912233,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Colonial Dr Helena MT 59601",
+    "addr:housenumber":"2401",
+    "addr:postcode":"59601",
+    "addr:street":"Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.997732,46.589292,-111.997732,46.589292",
     "geom:latitude":46.589292,
     "geom:longitude":-111.997732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2401 Colonial Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85972711,
         102085151
     ],
+    "wof:brand_id":1125156441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kga93Hzn3SfiEdSkWC5me_46.589292_-111.997732@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c80f0357907258fea6efd791897c62c",
+    "wof:geomhash":"c3e28dc15731f18aa402711fab08b02e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185912233,
-    "wof:lastmodified":1466641649,
+    "wof:lastmodified":1510694598,
     "wof:name":"Northrop Grumman Space",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

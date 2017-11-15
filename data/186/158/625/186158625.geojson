@@ -2,14 +2,20 @@
   "id": 186158625,
   "type": "Feature",
   "properties": {
+    "addr:full":"2221 Livingston Ave Missoula MT 59801",
+    "addr:housenumber":"2221",
+    "addr:postcode":"59801",
+    "addr:street":"Livingston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.032891,46.847783,-114.032891,46.847783",
     "geom:latitude":46.847783,
     "geom:longitude":-114.032891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2221 Livingston Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102085103,
         85868993
     ],
+    "wof:brand_id":1125150601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bKtLKCSNx91uNdkzxmjrv_46.847783_-114.032891@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"f6484486bc52c4086eee459016950101",
+    "wof:geomhash":"9a1815a7ca2f79ab74e07577554f25eb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":186158625,
-    "wof:lastmodified":1466642135,
+    "wof:lastmodified":1510697771,
     "wof:name":"Apria Healthcare Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",

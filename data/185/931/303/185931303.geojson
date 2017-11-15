@@ -2,14 +2,20 @@
   "id": 185931303,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 S Wisconsin St Conrad MT 59425",
+    "addr:housenumber":"701",
+    "addr:postcode":"59425",
+    "addr:street":"S Wisconsin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.955054,48.165952,-111.955054,48.165952",
     "geom:latitude":48.165952,
     "geom:longitude":-111.955054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 S Wisconsin St",
     "sg:city":"Conrad",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85972687,
         102083907
     ],
+    "wof:brand_id":1125157051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jcZNHdP26bqMan5IwaBGs_48.165952_-111.955054@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"90f087b80fdb0cd0491f499be8f94715",
+    "wof:geomhash":"d4e4d3856f8e04aa85670c47a2e5c1ba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":185931303,
-    "wof:lastmodified":1466641679,
+    "wof:lastmodified":1510613522,
     "wof:name":"Royal Neighbors of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

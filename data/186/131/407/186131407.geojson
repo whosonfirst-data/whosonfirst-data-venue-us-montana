@@ -2,14 +2,20 @@
   "id": 186131407,
   "type": "Feature",
   "properties": {
+    "addr:full":"821 S Arizona St Butte MT 59701",
+    "addr:housenumber":"821",
+    "addr:postcode":"mt 59701",
+    "addr:street":"S Arizona St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.528519,46.005861,-112.528519,46.005861",
     "geom:latitude":46.005861,
     "geom:longitude":-112.528519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"821 S Arizona St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102085099,
         85868995
     ],
+    "wof:brand_id":1125155589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bvyAF66w4kHosixSeN62q_46.005861_-112.528519@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"b478d1e15b832df32183002084a1e877",
+    "wof:geomhash":"c20ca975e9443433136e2fdf7b244b71",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":186131407,
-    "wof:lastmodified":1466641922,
+    "wof:lastmodified":1510694031,
     "wof:name":"Crescent Electric Supply Co",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",

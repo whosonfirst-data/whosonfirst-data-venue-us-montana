@@ -2,14 +2,20 @@
   "id": 186292175,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 S 23rd Ave Bozeman MT 59718",
+    "addr:housenumber":"200",
+    "addr:postcode":"59718",
+    "addr:street":"S 23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.067028,45.677185,-111.067028,45.677185",
     "geom:latitude":45.677185,
     "geom:longitude":-111.067028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 S 23rd Ave",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85972647,
         102085133
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZXfl79Oc9UTj6fvkAJjh2_45.677185_-111.067028@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"243e5a1339bd893d9142aeba96d331e5",
+    "wof:geomhash":"26a69f73774fff37e91d72bd6f020249",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":186292175,
-    "wof:lastmodified":1466642798,
+    "wof:lastmodified":1510694975,
     "wof:name":"Insty-Prints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

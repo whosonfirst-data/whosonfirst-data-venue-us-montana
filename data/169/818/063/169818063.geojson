@@ -2,14 +2,20 @@
   "id": 169818063,
   "type": "Feature",
   "properties": {
+    "addr:full":"2709 Ivy Dr Great Falls MT 59404",
+    "addr:housenumber":"2709",
+    "addr:postcode":"59404",
+    "addr:street":"Ivy Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.34664,47.475283,-111.34664,47.475283",
     "geom:latitude":47.475283,
     "geom:longitude":-111.34664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2709 Ivy Dr",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85972763,
         102085113
     ],
+    "wof:brand_id":1125154757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y3gyjLOzoQrgRUE3COXl1_47.475283_-111.346640@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"05bb3ac519109b45de268c3d049988ee",
+    "wof:geomhash":"dc7cb3caf8d5c5a16055e18a13776c9f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169818063,
-    "wof:lastmodified":1466641282,
+    "wof:lastmodified":1510697725,
     "wof:name":"House Master Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

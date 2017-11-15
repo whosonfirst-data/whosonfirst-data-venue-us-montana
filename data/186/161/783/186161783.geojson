@@ -2,14 +2,20 @@
   "id": 186161783,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 Division St Polson MT 59860",
+    "addr:housenumber":"202",
+    "addr:postcode":"59860",
+    "addr:street":"Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.160298,47.687896,-114.160298,47.687896",
     "geom:latitude":47.687896,
     "geom:longitude":-114.160298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 Division St",
     "sg:city":"Polson",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85972719,
         102085121
     ],
+    "wof:brand_id":1125151379,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32SCoFSAWIZIIeLjM1r36l_47.687896_-114.160298@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"52266e62e49522b798712cdbe6f7bb59",
+    "wof:geomhash":"029fadad419f36a2e5d7cfcde07def68",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":186161783,
-    "wof:lastmodified":1466642145,
+    "wof:lastmodified":1510695797,
     "wof:name":"Pampered Pets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

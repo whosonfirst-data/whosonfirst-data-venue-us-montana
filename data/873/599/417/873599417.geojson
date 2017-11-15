@@ -2,14 +2,20 @@
   "id": 873599417,
   "type": "Feature",
   "properties": {
+    "addr:full":"2237 34th St Missoula MT 59801",
+    "addr:housenumber":"2237",
+    "addr:postcode":"59801",
+    "addr:street":"34Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.032748,46.837806,-114.032748,46.837806",
     "geom:latitude":46.837806,
     "geom:longitude":-114.032748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2237 34th St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085103,
         85868993
     ],
+    "wof:brand_id":1125158401,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZQ89yWOZhokHLNl47Hyy2_46.837806_-114.032748@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294981,
-    "wof:geomhash":"ed97524fed03daccda16ccca99ba19ae",
+    "wof:geomhash":"e81284a45bd97f73e1af8d412d2432e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873599417,
-    "wof:lastmodified":1466642448,
+    "wof:lastmodified":1510698899,
     "wof:name":"Sterling Savings Bank",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",

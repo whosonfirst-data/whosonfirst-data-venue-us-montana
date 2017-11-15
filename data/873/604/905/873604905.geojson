@@ -2,6 +2,10 @@
   "id": 873604905,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S 27th St Billings MT 59101",
+    "addr:housenumber":"123",
+    "addr:postcode":"59101",
+    "addr:street":"S 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873604905,
-    "wof:lastmodified":1466642249,
+    "wof:lastmodified":1472631684,
     "wof:name":"Community Health Ctr Pharmacy",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",

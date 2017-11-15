@@ -2,14 +2,20 @@
   "id": 169778977,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 N Higgins Ave Missoula MT 59802",
+    "addr:housenumber":"217",
+    "addr:postcode":"59802",
+    "addr:street":"N Higgins Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.994169,46.871995,-113.994169,46.871995",
     "geom:latitude":46.871995,
     "geom:longitude":-113.994169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"217 N Higgins Ave",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102085103,
         85891731
     ],
+    "wof:brand_id":1125152475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qqRXY6hMiYI6tD8oVR3QZ_46.871995_-113.994169@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"e55a6d0197ffe9f1004bdf81c16ea4fe",
+    "wof:geomhash":"26d29da8bfd8766da4a49cb495929152",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169778977,
-    "wof:lastmodified":1466641243,
+    "wof:lastmodified":1510696661,
     "wof:name":"Independent Order-Odd Fellows",
     "wof:parent_id":85891731,
     "wof:placetype":"venue",

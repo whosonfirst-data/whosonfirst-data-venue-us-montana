@@ -2,14 +2,20 @@
   "id": 185917141,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 2nd Ave S Glasgow MT 59230",
+    "addr:housenumber":"435",
+    "addr:postcode":"59230",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-106.636465,48.193771,-106.636465,48.193771",
     "geom:latitude":48.193771,
     "geom:longitude":-106.636465,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"435 2nd Ave S",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85972901,
         102085109
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3idyE1QLGeYnpeoqgN8pFP_48.193771_-106.636465@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"e481db472749dda59331c8161b409058",
+    "wof:geomhash":"97480c76e375c686322e1ebd4ed03cba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":185917141,
-    "wof:lastmodified":1466641655,
+    "wof:lastmodified":1510694975,
     "wof:name":"Insty-Prints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

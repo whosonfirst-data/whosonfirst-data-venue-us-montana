@@ -2,14 +2,20 @@
   "id": 186173297,
   "type": "Feature",
   "properties": {
+    "addr:full":"1510 S Reserve St Missoula MT 59801",
+    "addr:housenumber":"1510",
+    "addr:postcode":"59801",
+    "addr:street":"S Reserve St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.039513,46.857153,-114.039513,46.857153",
     "geom:latitude":46.857153,
     "geom:longitude":-114.039513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1510 S Reserve St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102085103,
         85868993
     ],
+    "wof:brand_id":1125158401,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29Wkuj8B3BYC70IgQSc5Jc_46.857153_-114.039513@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"763debbda673b62cb9530ecdd35599cc",
+    "wof:geomhash":"136865bb235ced368131fbb15fc72986",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186173297,
-    "wof:lastmodified":1466642381,
+    "wof:lastmodified":1510698900,
     "wof:name":"Sterling Savings Bank",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 186084561,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 N Main St Plentywood MT 59254",
+    "addr:housenumber":"106",
+    "addr:postcode":"59254",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.558323,48.775264,-104.558323,48.775264",
     "geom:latitude":48.775264,
     "geom:longitude":-104.558323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 N Main St",
     "sg:city":"Plentywood",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85972917,
         102085165
     ],
+    "wof:brand_id":1125150857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PXplru6ekCrE8CQ3elMUz_48.775264_-104.558323@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"3427c70e211d07a980dc46f6107ed49e",
+    "wof:geomhash":"cbc26346ea86116691c88cc83d8d2063",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186084561,
-    "wof:lastmodified":1466642069,
+    "wof:lastmodified":1510694216,
     "wof:name":"Burlington Northern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 186079767,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Blackleaf Rd Bynum MT 59419",
+    "addr:housenumber":"123",
+    "addr:postcode":"59419",
+    "addr:street":"Blackleaf Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":186079767,
-    "wof:lastmodified":1466641890,
+    "wof:lastmodified":1472631604,
     "wof:name":"Boneyard Coulee Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

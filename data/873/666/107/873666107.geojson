@@ -2,14 +2,20 @@
   "id": 873666107,
   "type": "Feature",
   "properties": {
+    "addr:full":"1144 N 30th St Billings MT 59101",
+    "addr:housenumber":"1144",
+    "addr:postcode":"59101",
+    "addr:street":"N 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.518232,45.790943,-108.518232,45.790943",
     "geom:latitude":45.790943,
     "geom:longitude":-108.518232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1144 N 30th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085087,
         85876251
     ],
+    "wof:brand_id":1125153717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JcDqvdEtYY68HJCkic0av_45.790943_-108.518232@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295761,
-    "wof:geomhash":"e8ae891a75d16ec749584477e2f2798a",
+    "wof:geomhash":"cfdfe59e560247787b89e25b4f6fa315",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873666107,
-    "wof:lastmodified":1466642911,
+    "wof:lastmodified":1510694613,
     "wof:name":"Ronald Mc Donald House",
     "wof:parent_id":85876251,
     "wof:placetype":"venue",

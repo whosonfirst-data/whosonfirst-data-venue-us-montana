@@ -2,14 +2,20 @@
   "id": 873640463,
   "type": "Feature",
   "properties": {
+    "addr:full":"3219 Harrison Ave Butte MT 59701",
+    "addr:housenumber":"3219",
+    "addr:postcode":"mt 59701",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.508088,45.978534,-112.508088,45.978534",
     "geom:latitude":45.978534,
     "geom:longitude":-112.508088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3219 Harrison Ave",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085099,
         85857839
     ],
+    "wof:brand_id":1125152085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kHdpSYp2g6WwcYXJXGNHG_45.978534_-112.508088@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295478,
-    "wof:geomhash":"2306ea45e729629f724ea18a33884065",
+    "wof:geomhash":"3739e17a07e36ceb24183e9242122961",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873640463,
-    "wof:lastmodified":1466643088,
+    "wof:lastmodified":1510695087,
     "wof:name":"Creative Cuts",
     "wof:parent_id":85857839,
     "wof:placetype":"venue",

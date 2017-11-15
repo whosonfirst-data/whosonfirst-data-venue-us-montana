@@ -2,14 +2,20 @@
   "id": 185644675,
   "type": "Feature",
   "properties": {
+    "addr:full":"1156 16th St W Billings MT 59102",
+    "addr:housenumber":"1156",
+    "addr:postcode":"59102",
+    "addr:street":"16Th St W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.556471,45.78115,-108.556471,45.78115",
     "geom:latitude":45.78115,
     "geom:longitude":-108.556471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1156 16th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102085087,
         85876247
     ],
+    "wof:brand_id":1125152279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DkCceDuTbTpDEPeLVFcmy_45.781150_-108.556471@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2349db83d58cbebd73b269161897aa5",
+    "wof:geomhash":"e15a14ed31f956701d79b3989f7a18fe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185644675,
-    "wof:lastmodified":1466641368,
+    "wof:lastmodified":1510613256,
     "wof:name":"GAB Robins",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",

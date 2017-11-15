@@ -2,6 +2,10 @@
   "id": 873669815,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 N 32nd St Billings MT 59101",
+    "addr:housenumber":"222",
+    "addr:postcode":"59101",
+    "addr:street":"N 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873669815,
-    "wof:lastmodified":1466643053,
+    "wof:lastmodified":1472631705,
     "wof:name":"US Land Mgmt-Fluids-Oil & Gas",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",

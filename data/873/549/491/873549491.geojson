@@ -2,14 +2,20 @@
   "id": 873549491,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 24th St W Billings MT 59102",
+    "addr:housenumber":"323",
+    "addr:postcode":"59102",
+    "addr:street":"24Th St W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.576165,45.774309,-108.576165,45.774309",
     "geom:latitude":45.774309,
     "geom:longitude":-108.576165,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"323 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085087,
         85876247
     ],
+    "wof:brand_id":1125151769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MDPq4rbI4POcukK1t7s4y_45.774309_-108.576165@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294372,
-    "wof:geomhash":"e8894bf2cea9c63230ab13707dc803da",
+    "wof:geomhash":"869c89d410d8b936bb5d6eaf5d363c3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873549491,
-    "wof:lastmodified":1466642059,
+    "wof:lastmodified":1510693699,
     "wof:name":"Cellular Connection",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",

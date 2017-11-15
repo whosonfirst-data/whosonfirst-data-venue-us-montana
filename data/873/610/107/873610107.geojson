@@ -2,6 +2,10 @@
   "id": 873610107,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Moore Ln Billings MT 59101",
+    "addr:housenumber":"312",
+    "addr:postcode":"59101",
+    "addr:street":"Moore Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873610107,
-    "wof:lastmodified":1466642806,
+    "wof:lastmodified":1472631677,
     "wof:name":"Clock Works",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 185608099,
   "type": "Feature",
   "properties": {
+    "addr:full":"1511 S Central Ave Sidney MT 59270",
+    "addr:housenumber":"1511",
+    "addr:postcode":"59270",
+    "addr:street":"S Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-104.166324,47.70199,-104.166324,47.70199",
     "geom:latitude":47.70199,
     "geom:longitude":-104.166324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1511 S Central Ave",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85972669,
         102085141
     ],
+    "wof:brand_id":1125153043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39BN5dg3ykCSebI8LukIr3_47.701990_-104.166324@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ff38b32fda4b003807533ad32bb4dda",
+    "wof:geomhash":"e22adcd86482b8872444ac579e693606",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":185608099,
-    "wof:lastmodified":1466641183,
+    "wof:lastmodified":1510697674,
     "wof:name":"Mane Event",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

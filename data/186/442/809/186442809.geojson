@@ -2,6 +2,10 @@
   "id": 186442809,
   "type": "Feature",
   "properties": {
+    "addr:full":"4141 State Ave Billings MT 59101",
+    "addr:housenumber":"4141",
+    "addr:postcode":"59101",
+    "addr:street":"State Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":186442809,
-    "wof:lastmodified":1466642994,
+    "wof:lastmodified":1472631665,
     "wof:name":"Home Delivery Svc",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",

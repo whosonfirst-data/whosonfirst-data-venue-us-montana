@@ -2,14 +2,20 @@
   "id": 873701783,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 N Main St Kalispell MT 59901",
+    "addr:housenumber":"20",
+    "addr:postcode":"59901",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.314043,48.19926,-114.314043,48.19926",
     "geom:latitude":48.19926,
     "geom:longitude":-114.314043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 N Main St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085177,
         85838307
     ],
+    "wof:brand_id":1125155831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wIsd5wcrtlIkphI8lmX3l_48.199260_-114.314043@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464296423,
-    "wof:geomhash":"97052f4f65fafbc285d2f7d7b7b16eae",
+    "wof:geomhash":"0aefd31d87b056ae0eb9549455059675",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873701783,
-    "wof:lastmodified":1466643164,
+    "wof:lastmodified":1510613549,
     "wof:name":"Pretzel Maker",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",

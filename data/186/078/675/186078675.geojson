@@ -2,14 +2,20 @@
   "id": 186078675,
   "type": "Feature",
   "properties": {
+    "addr:full":"5330 Holiday Ave Billings MT 59101",
+    "addr:housenumber":"5330",
+    "addr:postcode":"59101",
+    "addr:street":"Holiday Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.547034,45.744965,-108.547034,45.744965",
     "geom:latitude":45.744965,
     "geom:longitude":-108.547034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5330 Holiday Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         102085087,
         85859347
     ],
+    "wof:brand_id":1125154659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hfGx3BDPn1os9N3QoO9Ec_45.744965_-108.547034@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"a372324a75a8863946dc0728b3578cfe",
+    "wof:geomhash":"2fd851deec711a3e3bc2deb2dcb6892a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":186078675,
-    "wof:lastmodified":1466641887,
+    "wof:lastmodified":1510694720,
     "wof:name":"Lamar Advertising Co",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",

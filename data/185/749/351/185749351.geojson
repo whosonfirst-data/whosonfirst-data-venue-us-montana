@@ -2,14 +2,20 @@
   "id": 185749351,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 Briarwood Ln Helena MT 59601",
+    "addr:housenumber":"180",
+    "addr:postcode":"59601",
+    "addr:street":"Briarwood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.045357,46.613815,-112.045357,46.613815",
     "geom:latitude":46.613815,
     "geom:longitude":-112.045357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"180 Briarwood Ln",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85972711,
         102085151
     ],
+    "wof:brand_id":1125158325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_519dij48E1xilAg2fJNWpF_46.613815_-112.045357@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7fe015dadb08b2dc231fd3452e0d742",
+    "wof:geomhash":"a65cf0588919c023d2723895dfa0e156",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":185749351,
-    "wof:lastmodified":1466641475,
+    "wof:lastmodified":1510700025,
     "wof:name":"International Reading Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

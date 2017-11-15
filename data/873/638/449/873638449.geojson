@@ -2,14 +2,20 @@
   "id": 873638449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 Eaton St Missoula MT 59801",
+    "addr:housenumber":"1405",
+    "addr:postcode":"59801",
+    "addr:street":"Eaton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.034274,46.857299,-114.034274,46.857299",
     "geom:latitude":46.857299,
     "geom:longitude":-114.034274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1405 Eaton St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085103,
         85868993
     ],
+    "wof:brand_id":1125153173,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_115fIKLpVyWbRLE7ezAHN8_46.857299_-114.034274@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295459,
-    "wof:geomhash":"4c1632f60c1b2054bb35afcd383d2a55",
+    "wof:geomhash":"6c4af72c43fd2cd5d3da74b7c60e22ba",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873638449,
-    "wof:lastmodified":1466643088,
+    "wof:lastmodified":1510699296,
     "wof:name":"Rainbow International",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",

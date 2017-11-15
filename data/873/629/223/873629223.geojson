@@ -2,14 +2,20 @@
   "id": 873629223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3843 Brooks St Missoula MT 59804",
+    "addr:housenumber":"3843",
+    "addr:postcode":"59804",
+    "addr:street":"Brooks St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.043661,46.835343,-114.043661,46.835343",
     "geom:latitude":46.835343,
     "geom:longitude":-114.043661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3843 Brooks St",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085103,
         85868993
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75ip6nyFDBEPvGag8R283y_46.835343_-114.043661@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295351,
-    "wof:geomhash":"9255d6a30ca9e9870c005b6f037be4a6",
+    "wof:geomhash":"5d8c47d537af017505a172d8ffb7c1fc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873629223,
-    "wof:lastmodified":1466642727,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",

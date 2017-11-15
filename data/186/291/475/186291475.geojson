@@ -2,14 +2,20 @@
   "id": 186291475,
   "type": "Feature",
   "properties": {
+    "addr:full":"3016 1st Ave N Billings MT 59101",
+    "addr:housenumber":"3016",
+    "addr:postcode":"59101",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.509283,45.780377,-108.509283,45.780377",
     "geom:latitude":45.780377,
     "geom:longitude":-108.509283,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3016 1st Ave N",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102085087,
         85876253
     ],
+    "wof:brand_id":1125158979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ttYHAMaIFQmQIJZlsBttH_45.780377_-108.509283@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"70e1feac647cdfce4de1739e2fccb16b",
+    "wof:geomhash":"827cb48aab50adf63b99d76d4dec479a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186291475,
-    "wof:lastmodified":1466642601,
+    "wof:lastmodified":1510696035,
     "wof:name":"Expert Tire",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873628457,
   "type": "Feature",
   "properties": {
+    "addr:full":"2671 Gabel Rd Billings MT 59102",
+    "addr:housenumber":"2671",
+    "addr:postcode":"59102",
+    "addr:street":"Gabel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.583275,45.744486,-108.583275,45.744486",
     "geom:latitude":45.744486,
     "geom:longitude":-108.583275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2671 Gabel Rd",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085087,
         85859347
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eB46Py6NmkqvP1V8ldNeY_45.744486_-108.583275@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464295345,
-    "wof:geomhash":"fea602fff8b53df9960647ed67a05e22",
+    "wof:geomhash":"edafde11624a3f620948b13bc7a82d3f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873628457,
-    "wof:lastmodified":1466642840,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 185689589,
   "type": "Feature",
   "properties": {
+    "addr:full":"7555 Shedhorn Dr Bozeman MT 59718",
+    "addr:housenumber":"7555",
+    "addr:postcode":"59718",
+    "addr:street":"Shedhorn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.183071,45.674489,-111.183071,45.674489",
     "geom:latitude":45.674489,
     "geom:longitude":-111.183071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7555 Shedhorn Dr",
     "sg:city":"Bozeman",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85972957,
         102085133
     ],
+    "wof:brand_id":1125159051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZWhWeV8HtogLzBImfXXTX_45.674489_-111.183071@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"419992c8ef4f094358204337c2cb16d0",
+    "wof:geomhash":"3296cf1353f8167c463a4b77eb32535f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":185689589,
-    "wof:lastmodified":1466641409,
+    "wof:lastmodified":1510697215,
     "wof:name":"New Life Tabernacle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

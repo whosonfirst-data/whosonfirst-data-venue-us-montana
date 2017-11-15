@@ -2,14 +2,20 @@
   "id": 185867177,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S 9th St Livingston MT 59047",
+    "addr:housenumber":"123",
+    "addr:postcode":"59047",
+    "addr:street":"S 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.568813,45.656292,-110.568813,45.656292",
     "geom:latitude":45.656292,
     "geom:longitude":-110.568813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 S 9th St",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102085059,
         85867995
     ],
+    "wof:brand_id":1125152183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iDNA3FKaazTrosTfKszCW_45.656292_-110.568813@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb06459efe8f5076cd931552a4513f66",
+    "wof:geomhash":"e232d11913c529822cdad617bca61a73",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185867177,
-    "wof:lastmodified":1466641601,
+    "wof:lastmodified":1510693997,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85867995,
     "wof:placetype":"venue",

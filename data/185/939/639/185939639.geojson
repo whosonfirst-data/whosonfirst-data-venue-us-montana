@@ -2,14 +2,20 @@
   "id": 185939639,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N Park Ave Helena MT 59601",
+    "addr:housenumber":"100",
+    "addr:postcode":"59601",
+    "addr:street":"N Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.0402,46.589343,-112.0402,46.589343",
     "geom:latitude":46.589343,
     "geom:longitude":-112.0402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 N Park Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85972711,
         102085151
     ],
+    "wof:brand_id":1125154235,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5S95ihosULESUXWdumQ8tV_46.589343_-112.040200@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"25b7adb4a052755f4a69cccf34221990",
+    "wof:geomhash":"00c0283d661560b5b7b57dc6d90ca01e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185939639,
-    "wof:lastmodified":1466641694,
+    "wof:lastmodified":1510694886,
     "wof:name":"Maximus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

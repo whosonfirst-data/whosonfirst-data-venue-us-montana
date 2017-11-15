@@ -2,14 +2,20 @@
   "id": 873599539,
   "type": "Feature",
   "properties": {
+    "addr:full":"2170 Overland Ave Billings MT 59102",
+    "addr:housenumber":"2170",
+    "addr:postcode":"59102",
+    "addr:street":"Overland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.568508,45.751703,-108.568508,45.751703",
     "geom:latitude":45.751703,
     "geom:longitude":-108.568508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2170 Overland Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85859347,
         102085087
     ],
+    "wof:brand_id":1125157919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08ZJObhxxHEnyG2wFwaqmw_45.751703_-108.568508@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294982,
-    "wof:geomhash":"45ea302668ef21b05c87f1c827e69bfe",
+    "wof:geomhash":"76ccaadcedaec31c6a6830920023012d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873599539,
-    "wof:lastmodified":1466642455,
+    "wof:lastmodified":1510697542,
     "wof:name":"National Weather Svc",
     "wof:parent_id":85859347,
     "wof:placetype":"venue",

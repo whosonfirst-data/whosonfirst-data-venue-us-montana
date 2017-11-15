@@ -2,14 +2,20 @@
   "id": 185845443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1117 Main St Billings MT 59105",
+    "addr:housenumber":"1117",
+    "addr:postcode":"59105",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.470661,45.818713,-108.470661,45.818713",
     "geom:latitude":45.818713,
     "geom:longitude":-108.470661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1117 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102085087,
         85806105
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AgYUmcrABQgWE4k53kHY3_45.818713_-108.470661@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"203cea5b9f9e3ef511d2416739d426be",
+    "wof:geomhash":"f61c12aeb6c183f6ce4ca20a24259ab4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":185845443,
-    "wof:lastmodified":1466641583,
+    "wof:lastmodified":1510699336,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":85806105,
     "wof:placetype":"venue",

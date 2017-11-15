@@ -2,14 +2,20 @@
   "id": 873586639,
   "type": "Feature",
   "properties": {
+    "addr:full":"2403 Locust St Butte MT 59701",
+    "addr:housenumber":"2403",
+    "addr:postcode":"mt 59701",
+    "addr:street":"Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.502012,46.001795,-112.502012,46.001795",
     "geom:latitude":46.001795,
     "geom:longitude":-112.502012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2403 Locust St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085099,
         85868995
     ],
+    "wof:brand_id":1125155811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Dvk8yTMUsSakyJl1K1lRG_46.001795_-112.502012@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294791,
-    "wof:geomhash":"dd1d389fb5321994aefe20781996e4aa",
+    "wof:geomhash":"e68b8f2f90162f0ef9fede471a130486",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873586639,
-    "wof:lastmodified":1466642349,
+    "wof:lastmodified":1510695385,
     "wof:name":"National Assoc of Retired",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",

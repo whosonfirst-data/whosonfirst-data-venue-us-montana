@@ -2,14 +2,20 @@
   "id": 873585169,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 8th Ave Laurel MT 59044",
+    "addr:housenumber":"911",
+    "addr:postcode":"59044",
+    "addr:street":"8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.781829,45.679002,-108.781829,45.679002",
     "geom:latitude":45.679002,
     "geom:longitude":-108.781829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"911 8th Ave",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085087,
         85876267
     ],
+    "wof:brand_id":1125151969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BXf03WDz2Odt32s73Ynej_45.679002_-108.781829@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294775,
-    "wof:geomhash":"413fd74fa84d68c7127b192a62828673",
+    "wof:geomhash":"4cedae58b58d61bb150ca91b426d46af",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873585169,
-    "wof:lastmodified":1466642309,
+    "wof:lastmodified":1510613289,
     "wof:name":"American Bowling Congress",
     "wof:parent_id":85876267,
     "wof:placetype":"venue",

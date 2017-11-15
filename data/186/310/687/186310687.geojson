@@ -2,14 +2,20 @@
   "id": 186310687,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 Main St Kalispell MT 59901",
+    "addr:housenumber":"131",
+    "addr:postcode":"59901",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.313277,48.197489,-114.313277,48.197489",
     "geom:latitude":48.197489,
     "geom:longitude":-114.313277,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"131 Main St",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102085177,
         85838307
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Cw7Ha6MUPUKwXCdrW8q3N_48.197489_-114.313277@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"af34c0d548d9ed7fe124799bcbe391c4",
+    "wof:geomhash":"c282111750dcc555694fdb0f3a70772d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":186310687,
-    "wof:lastmodified":1466642640,
+    "wof:lastmodified":1510694976,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",

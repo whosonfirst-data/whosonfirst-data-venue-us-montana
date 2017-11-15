@@ -2,6 +2,10 @@
   "id": 873703205,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 N Willson Ave 300C Bozeman MT 59715",
+    "addr:housenumber":"300;300c",
+    "addr:postcode":"59715",
+    "addr:street":"N Willson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":873703205,
-    "wof:lastmodified":1466643152,
+    "wof:lastmodified":1472631713,
     "wof:name":"Mealer, Wm R Md",
     "wof:parent_id":85876471,
     "wof:placetype":"venue",

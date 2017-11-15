@@ -2,14 +2,20 @@
   "id": 185809441,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 N 25th St Billings MT 59101",
+    "addr:housenumber":"211",
+    "addr:postcode":"59101",
+    "addr:street":"N 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.503626,45.785563,-108.503626,45.785563",
     "geom:latitude":45.785563,
     "geom:longitude":-108.503626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 N 25th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102085087,
         85876257
     ],
+    "wof:brand_id":1125151817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xBkkLqghsslNckSlToQc3_45.785563_-108.503626@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b2fee7506738489c828a2976c5ed72a",
+    "wof:geomhash":"52c834514ad6c54fde29433e98af2d6f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":185809441,
-    "wof:lastmodified":1466641543,
+    "wof:lastmodified":1510699271,
     "wof:name":"Airborne",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",

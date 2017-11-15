@@ -2,14 +2,20 @@
   "id": 873564015,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 Main St Billings MT 59105",
+    "addr:housenumber":"810",
+    "addr:postcode":"59105",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.471093,45.81301,-108.471093,45.81301",
     "geom:latitude":45.81301,
     "geom:longitude":-108.471093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"810 Main St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85876257,
         102085087
     ],
+    "wof:brand_id":1125153411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bTU9Ao409lU19ZLNE7MDF_45.813010_-108.471093@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294544,
-    "wof:geomhash":"bd9454e82b5dbe405c7e0379611ffbd0",
+    "wof:geomhash":"91fcbc5db7c2f3e2cb416035df4b8c0f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873564015,
-    "wof:lastmodified":1466642027,
+    "wof:lastmodified":1510695030,
     "wof:name":"Natural Resource Conservation",
     "wof:parent_id":85876257,
     "wof:placetype":"venue",

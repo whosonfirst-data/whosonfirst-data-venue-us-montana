@@ -2,14 +2,20 @@
   "id": 873584331,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 2nd St E Kalispell MT 59901",
+    "addr:housenumber":"17",
+    "addr:postcode":"59901",
+    "addr:street":"2Nd St E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.311759,48.19709,-114.311759,48.19709",
     "geom:latitude":48.19709,
     "geom:longitude":-114.311759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17 2nd St E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085177,
         85838307
     ],
+    "wof:brand_id":1125150593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15aXOJKMLDSVrFZQw340hb_48.197090_-114.311759@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294766,
-    "wof:geomhash":"368a3401fc7ce82fa3f7f7e16c399831",
+    "wof:geomhash":"7b3a8e598c6d3a3dba47357496ccef36",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873584331,
-    "wof:lastmodified":1466642313,
+    "wof:lastmodified":1510613421,
     "wof:name":"Lutheran Social Svc",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",

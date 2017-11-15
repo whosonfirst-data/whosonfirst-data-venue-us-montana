@@ -2,6 +2,10 @@
   "id": 873624883,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 W Broadway St Butte MT 59701",
+    "addr:housenumber":"123",
+    "addr:postcode":"mt 59701",
+    "addr:street":"W Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873624883,
-    "wof:lastmodified":1466642649,
+    "wof:lastmodified":1472631682,
     "wof:name":"Central Collections",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",

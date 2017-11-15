@@ -2,14 +2,20 @@
   "id": 186116019,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 N 26th St Billings MT 59101",
+    "addr:housenumber":"15",
+    "addr:postcode":"59101",
+    "addr:street":"N 26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.503178,45.783236,-108.503178,45.783236",
     "geom:latitude":45.783236,
     "geom:longitude":-108.503178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 N 26th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85972929,
         102085087
     ],
+    "wof:brand_id":1125152423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A9eOIHigFX06MF9CjCuFX_45.783236_-108.503178@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"77269bc28a0c83037c82fad346169bd5",
+    "wof:geomhash":"affb58a219620922bd341376a43f8142",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186116019,
-    "wof:lastmodified":1466642044,
+    "wof:lastmodified":1510693822,
     "wof:name":"Securitas Security Svc USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

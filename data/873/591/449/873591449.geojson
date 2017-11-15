@@ -2,14 +2,20 @@
   "id": 873591449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1238 US Hwy 2 E Kalispell MT 59901",
+    "addr:housenumber":"1238",
+    "addr:postcode":"59901",
+    "addr:street":"Us Hwy 2 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.286937,48.21093,-114.286937,48.21093",
     "geom:latitude":48.21093,
     "geom:longitude":-114.286937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1238 US Hwy 2 E",
     "sg:city":"Kalispell",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085177,
         85838307
     ],
+    "wof:brand_id":420574573,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3as7BbBw0obcZB3QiTFoHF_48.210930_-114.286937@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294849,
-    "wof:geomhash":"80f7bff856d8154e91ac72c21553a5dd",
+    "wof:geomhash":"7c85beea724f23f515ca2a994f2d7216",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873591449,
-    "wof:lastmodified":1466642322,
+    "wof:lastmodified":1510604685,
     "wof:name":"Big O Tires",
     "wof:parent_id":85838307,
     "wof:placetype":"venue",
