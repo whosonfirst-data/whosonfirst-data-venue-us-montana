@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-108.576291,45.764628,-108.576291,45.764628",
     "geom:latitude":45.764628,
     "geom:longitude":-108.576291,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 S 24th St W",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464296393,
-    "wof:geomhash":"3df2bd3938c9d1578ed4809fe1f07f7f",
+    "wof:geomhash":"44ef5d53fefbd1f94f9857162cd8f1a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,16 @@
         }
     ],
     "wof:id":873698927,
-    "wof:lastmodified":1472631715,
+    "wof:lastmodified":1510942524,
     "wof:name":"Arby's",
     "wof:parent_id":85876247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873569473,
+        185691833
+    ],
     "wof:tags":[
         "burger",
         "american"
