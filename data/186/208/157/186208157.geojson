@@ -7,6 +7,7 @@
     "addr:postcode":"59101",
     "addr:street":"S 27Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.501211,45.779559,-108.501211,45.779559",
@@ -14,6 +15,7 @@
     "geom:longitude":-108.501211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"123 S 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_2ZAPTpyVE4TpsFJ5OyicRq_45.779559_-108.501211@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb4f35cb7a85ab381b6b2adf4f7b982a",
+    "wof:geomhash":"a938157f1a905210d3837e0a0f33f288",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":186208157,
-    "wof:lastmodified":1472631636,
+    "wof:lastmodified":1534190003,
     "wof:name":"Bereavement Center Of Big Sky",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186171775
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"

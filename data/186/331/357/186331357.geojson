@@ -14,6 +14,7 @@
     "geom:longitude":-114.045896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2825 Fort Missoula Rd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
         "sg:id":"SG_3P7UrBpqk8QbNLQ7VaFfCI_46.846034_-114.045896@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7c1a1d9143bb5f6e58fe86e3adfdf80",
+    "wof:geomhash":"48087ec141e041118c4ca6c253ea23e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":186331357,
-    "wof:lastmodified":1472631651,
+    "wof:lastmodified":1534190003,
     "wof:name":"Ted B Laine MD",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873545401
+    ],
     "wof:tags":[
         "medical"
     ]

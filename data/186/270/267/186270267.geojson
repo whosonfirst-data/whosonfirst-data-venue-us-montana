@@ -2,18 +2,24 @@
   "id": 186270267,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 W Broadway St Butte MT 59701",
+    "addr:city":"Butte",
+    "addr:full":"20 W Broadway St Butte, Mt 59701",
+    "addr:house_number":"20",
     "addr:housenumber":"20",
-    "addr:postcode":"mt 59701",
+    "addr:phone":"+1 406-723-3034",
+    "addr:postcode":"59701",
+    "addr:road":"W Broadway St",
+    "addr:state":"MT",
     "addr:street":"W Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-112.536325,46.013581,-112.536325,46.013581",
-    "geom:latitude":46.013581,
-    "geom:longitude":-112.536325,
+    "geom:bbox":"-112.53742,46.01349,-112.53742,46.01349",
+    "geom:latitude":46.01349,
+    "geom:longitude":-112.53742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"20 W Broadway St",
     "sg:city":"Butte",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "antique"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527603
+    ],
     "wof:belongsto":[
         85688617,
         85633793,
@@ -40,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403000013,
         "sg:id":"SG_5zfHy2BvLHeo9dJYjSJFrk_46.013581_-112.536325@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ee8fb9e752d39e97215648760865131",
+    "wof:geomhash":"ed5e4aacffe5fb99bb762f1eba2eefdb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":186270267,
-    "wof:lastmodified":1472631645,
-    "wof:name":"Piccadilly Museum",
+    "wof:lastmodified":1534190003,
+    "wof:name":"Piccadilly Museum Of Transportation",
     "wof:parent_id":85868995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
@@ -68,10 +78,10 @@
     ]
 },
   "bbox": [
-    -112.536325,
-    46.013581,
-    -112.536325,
-    46.013581
+    -112.53742,
+    46.01349,
+    -112.53742,
+    46.01349
 ],
-  "geometry": {"coordinates":[-112.53632500000001,46.013581],"type":"Point"}
+  "geometry": {"coordinates":[-112.53742,46.01349],"type":"Point"}
 }

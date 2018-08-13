@@ -2,18 +2,24 @@
   "id": 186424117,
   "type": "Feature",
   "properties": {
-    "addr:full":"22 Railroad Sq Great Falls MT 59401",
+    "addr:city":"Great Falls",
+    "addr:full":"22 Railroad Sq Great Falls, Mt 59401-4003",
+    "addr:house_number":"22",
     "addr:housenumber":"22",
-    "addr:postcode":"59401",
+    "addr:phone":"+1 406-452-6661",
+    "addr:postcode":"59401-4003",
+    "addr:road":"Railroad Sq",
+    "addr:state":"MT",
     "addr:street":"Railroad Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-111.307378,47.5052,-111.307378,47.5052",
-    "geom:latitude":47.5052,
-    "geom:longitude":-111.307378,
+    "geom:bbox":"-111.30721,47.50442,-111.30721,47.50442",
+    "geom:latitude":47.50442,
+    "geom:longitude":-111.30721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"22 Railroad Sq",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 406 452 6661",
     "sg:postcode":"59401",
     "sg:province":"MT",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528273
+    ],
     "wof:belongsto":[
         85688617,
         85633793,
@@ -36,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403000299,
         "sg:id":"SG_3my60hFLGyXTZ9Tl6l6Iyo_47.505200_-111.307378@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"316842a79fe7e8e5c81903fd93f14511",
+    "wof:geomhash":"8ea829a1a503461c7122830c573ab92a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":186424117,
-    "wof:lastmodified":1472631655,
-    "wof:name":"Childrens Museum of Montana",
+    "wof:lastmodified":1534190003,
+    "wof:name":"Children'S Museum Of Montana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -111.307378,
-    47.5052,
-    -111.307378,
-    47.5052
+    -111.30721,
+    47.50442,
+    -111.30721,
+    47.50442
 ],
-  "geometry": {"coordinates":[-111.307378,47.5052],"type":"Point"}
+  "geometry": {"coordinates":[-111.30721,47.50442],"type":"Point"}
 }

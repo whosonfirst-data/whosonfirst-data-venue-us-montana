@@ -14,6 +14,7 @@
     "geom:longitude":-114.04587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2831 Fort Missoula Rd",
     "sg:city":"Missoula",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_0D44KTJTIijdP0MToYNoVw_46.846050_-114.045870@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"791b21b65606db19d94ee83ef1d97885",
+    "wof:geomhash":"8233b8e9355baa5270daa2f12aea3595",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":185811393,
-    "wof:lastmodified":1472631619,
+    "wof:lastmodified":1534190003,
     "wof:name":"Duncan L Hubbard MD",
     "wof:parent_id":85868993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186084951
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

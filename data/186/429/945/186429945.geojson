@@ -14,6 +14,7 @@
     "geom:longitude":-108.559038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1603 Grand Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_2yaP3EtPs1QxKDTuTeqwpA_45.784216_-108.559038@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"135d376580e4ad27711d09b9561ce90a",
+    "wof:geomhash":"d02fd14329ae886597f6ab5cd6f36c93",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":186429945,
-    "wof:lastmodified":1472631665,
+    "wof:lastmodified":1534190003,
     "wof:name":"Kasper's Phot Shops",
     "wof:parent_id":85876255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873647033
+    ],
     "wof:tags":[
         "photo",
         "finishing"

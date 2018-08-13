@@ -2,18 +2,24 @@
   "id": 873562703,
   "type": "Feature",
   "properties": {
-    "addr:full":"2310 Montana Ave Billings MT 59101",
+    "addr:city":"Billings",
+    "addr:full":"2310 Montana Ave Billings, Mt 59101-2420",
+    "addr:house_number":"2310",
     "addr:housenumber":"2310",
-    "addr:postcode":"59101",
+    "addr:phone":"+1 406-656-7273",
+    "addr:postcode":"59101-2420",
+    "addr:road":"Montana Ave",
+    "addr:state":"MT",
     "addr:street":"Montana Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-108.499973,45.783565,-108.499973,45.783565",
-    "geom:latitude":45.783565,
-    "geom:longitude":-108.499973,
+    "geom:bbox":"-108.50241,45.78234,-108.50241,45.78234",
+    "geom:latitude":45.78234,
+    "geom:longitude":-108.50241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2310 Montana Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "wedding",
         "supply"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528971
+    ],
     "wof:belongsto":[
         85688617,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403000248,
         "sg:id":"SG_4yOyRshkV0sAoNHJt93eOs_45.783565_-108.499973@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294528,
-    "wof:geomhash":"3d83aa5bedaa4eb094c80de5fd047108",
+    "wof:geomhash":"0b1559aeb7b0241976e5061255062e5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":873562703,
-    "wof:lastmodified":1472631606,
-    "wof:name":"Billings Depot Inc",
+    "wof:lastmodified":1534190003,
+    "wof:name":"Billings Depot",
     "wof:parent_id":420525793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -108.499973,
-    45.783565,
-    -108.499973,
-    45.783565
+    -108.50241,
+    45.78234,
+    -108.50241,
+    45.78234
 ],
-  "geometry": {"coordinates":[-108.499973,45.783565],"type":"Point"}
+  "geometry": {"coordinates":[-108.50241,45.78234],"type":"Point"}
 }

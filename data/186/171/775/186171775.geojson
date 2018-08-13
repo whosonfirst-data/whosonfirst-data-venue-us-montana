@@ -14,6 +14,7 @@
     "geom:longitude":-108.501211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 S 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
         "sg:id":"SG_00eWChtfDplu7UNRU24q7z_45.779559_-108.501211@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb4f35cb7a85ab381b6b2adf4f7b982a",
+    "wof:geomhash":"a938157f1a905210d3837e0a0f33f288",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":186171775,
-    "wof:lastmodified":1472631629,
+    "wof:lastmodified":1534190003,
     "wof:name":"Bereavment Ctr Big Sky Hospice",
     "wof:parent_id":85876261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186208157
+    ],
     "wof:tags":[
         "skilled"
     ]

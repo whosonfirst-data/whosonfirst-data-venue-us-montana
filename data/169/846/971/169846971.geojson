@@ -7,6 +7,7 @@
     "addr:postcode":"59101",
     "addr:street":"N 27Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-108.505336,45.783584,-108.505336,45.783584",
@@ -14,6 +15,7 @@
     "geom:longitude":-108.505336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 N 27th St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_3qoJGlfkgiyAFvrNb7efdc_45.783584_-108.505336@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"b82d4cdbd86ea58f185d9453b68aac50",
+    "wof:geomhash":"c3fde4351ee59f4f52672bbf0fb6074a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":169846971,
-    "wof:lastmodified":1472631594,
+    "wof:lastmodified":1534190003,
     "wof:name":"Foley Group",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185842225
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "designer",

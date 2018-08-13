@@ -2,18 +2,24 @@
   "id": 169800875,
   "type": "Feature",
   "properties": {
-    "addr:full":"2915 Country Club Ave Helena MT 59602",
+    "addr:city":"Helena",
+    "addr:full":"2915 Country Club Avenue Helena, Mt 59602",
+    "addr:house_number":"2915",
     "addr:housenumber":"2915",
+    "addr:phone":"+1 406-443-3502",
     "addr:postcode":"59602",
+    "addr:road":"Country Club Avenue",
+    "addr:state":"MT",
     "addr:street":"Country Club Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-112.083502,46.616967,-112.083502,46.616967",
-    "geom:latitude":46.616967,
-    "geom:longitude":-112.083502,
+    "geom:bbox":"-112.08236,46.61538,-112.08236,46.61538",
+    "geom:latitude":46.61538,
+    "geom:longitude":-112.08236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2915 Country Club Ave",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -34,7 +40,10 @@
         "class",
         "clay"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532633
+    ],
     "wof:belongsto":[
         85688617,
         85633793,
@@ -43,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403000061,
         "sg:id":"SG_0ZVaXwrjE9Msiv0AQby7Zh_46.616967_-112.083502@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b5397aa846470f4f02b2b9130c07baa",
+    "wof:geomhash":"127da587b219e4c4f1fd028052f39fa4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":169800875,
-    "wof:lastmodified":1472631587,
-    "wof:name":"Archie Bray Foundation",
+    "wof:lastmodified":1534190003,
+    "wof:name":"Archie Bray Foundation For The Ceramic Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
@@ -75,10 +85,10 @@
     ]
 },
   "bbox": [
-    -112.083502,
-    46.616967,
-    -112.083502,
-    46.616967
+    -112.08236,
+    46.61538,
+    -112.08236,
+    46.61538
 ],
-  "geometry": {"coordinates":[-112.083502,46.616967],"type":"Point"}
+  "geometry": {"coordinates":[-112.08235999999999,46.61538],"type":"Point"}
 }

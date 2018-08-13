@@ -2,18 +2,24 @@
   "id": 873559129,
   "type": "Feature",
   "properties": {
-    "addr:full":"1400 1st Ave N Great Falls MT 59401",
+    "addr:city":"Great Falls",
+    "addr:full":"1400 First Avenue North Great Falls, Mt 59401-3299",
+    "addr:house_number":"1400",
     "addr:housenumber":"1400",
-    "addr:postcode":"59401",
+    "addr:phone":"+1 406-727-8255",
+    "addr:postcode":"59401-3299",
+    "addr:road":"First Avenue North",
+    "addr:state":"MT",
     "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-111.281599,47.506294,-111.281599,47.506294",
-    "geom:latitude":47.506294,
-    "geom:longitude":-111.281599,
+    "geom:bbox":"-111.28275,47.50425,-111.28275,47.50425",
+    "geom:latitude":47.50425,
+    "geom:longitude":-111.28275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1400 1st Ave N",
     "sg:city":"Great Falls",
     "sg:classifiers":[
@@ -31,19 +37,23 @@
         "art",
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528273
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403000010,
         "sg:id":"SG_0f8ntRPpbYPaTNMqw4MyO4_47.506294_-111.281599@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294490,
-    "wof:geomhash":"18487fb82a31869ec4a15b0b7aabc512",
+    "wof:geomhash":"b3c2bc5dfd13a0538d131ecd8fc6da74",
     "wof:hierarchy":[],
     "wof:id":873559129,
-    "wof:lastmodified":1472631575,
-    "wof:name":"Paris Gibson Square Museum Art",
+    "wof:lastmodified":1534190003,
+    "wof:name":"Paris Gibson Square Museum Of Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
@@ -55,10 +65,10 @@
     ]
 },
   "bbox": [
-    -111.281599,
-    47.506294,
-    -111.281599,
-    47.506294
+    -111.28275,
+    47.50425,
+    -111.28275,
+    47.50425
 ],
-  "geometry": {"coordinates":[-111.281599,47.506294],"type":"Point"}
+  "geometry": {"coordinates":[-111.28274999999999,47.50425],"type":"Point"}
 }

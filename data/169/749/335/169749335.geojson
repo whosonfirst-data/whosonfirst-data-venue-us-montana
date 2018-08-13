@@ -2,18 +2,24 @@
   "id": 169749335,
   "type": "Feature",
   "properties": {
-    "addr:full":"2822 Montana Ave Billings MT 59101",
+    "addr:city":"Billings",
+    "addr:full":"2822 Montana Ave Billings, Mt 59101-2305",
+    "addr:house_number":"2822",
     "addr:housenumber":"2822",
-    "addr:postcode":"59101",
+    "addr:phone":"+1 406-256-6809",
+    "addr:postcode":"59101-2305",
+    "addr:road":"Montana Ave",
+    "addr:state":"MT",
     "addr:street":"Montana Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-108.505811,45.780678,-108.505811,45.780678",
-    "geom:latitude":45.780678,
-    "geom:longitude":-108.505811,
+    "geom:bbox":"-108.50494,45.78108,-108.50494,45.78108",
+    "geom:latitude":45.78108,
+    "geom:longitude":-108.50494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2822 Montana Ave",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -37,7 +43,10 @@
         "gallery"
     ],
     "sg:website":"www.ywhc.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528971
+    ],
     "wof:belongsto":[
         85688617,
         85633793,
@@ -47,10 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403000001,
         "sg:id":"SG_3pm2kcqmijJaDBw0JkyHXb_45.780678_-108.505811@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e4d96d818bf5d71b1a0a85376ff2fd8",
+    "wof:geomhash":"818be13953934d465059a523b82293ec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,7 +73,7 @@
         }
     ],
     "wof:id":169749335,
-    "wof:lastmodified":1472631575,
+    "wof:lastmodified":1534190003,
     "wof:name":"Western Heritage Center",
     "wof:parent_id":85876253,
     "wof:placetype":"venue",
@@ -76,10 +86,10 @@
     ]
 },
   "bbox": [
-    -108.505811,
-    45.780678,
-    -108.505811,
-    45.780678
+    -108.50494,
+    45.78108,
+    -108.50494,
+    45.78108
 ],
-  "geometry": {"coordinates":[-108.50581099999999,45.780678],"type":"Point"}
+  "geometry": {"coordinates":[-108.50494,45.78108],"type":"Point"}
 }

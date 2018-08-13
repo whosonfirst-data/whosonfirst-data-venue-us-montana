@@ -2,18 +2,24 @@
   "id": 186139967,
   "type": "Feature",
   "properties": {
-    "addr:full":"823 N Main Ave Choteau MT 59422",
+    "addr:city":"Choteau",
+    "addr:full":"823 Main Ave N Choteau, Mt 59422-9272",
+    "addr:house_number":"823",
     "addr:housenumber":"823",
-    "addr:postcode":"59422",
+    "addr:phone":"+1 406-466-5332",
+    "addr:postcode":"59422-9272",
+    "addr:road":"Main Ave N",
+    "addr:state":"MT",
     "addr:street":"N Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-112.188645,47.818525,-112.188645,47.818525",
-    "geom:latitude":47.818525,
-    "geom:longitude":-112.188645,
+    "geom:bbox":"-112.18874,47.81937,-112.18874,47.81937",
+    "geom:latitude":47.81937,
+    "geom:longitude":-112.18874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"823 N Main Ave",
     "sg:city":"Choteau",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 406 466 5332",
     "sg:postcode":"59422",
     "sg:province":"MT",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688617,
         85633793,
@@ -37,10 +44,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403000112,
         "sg:id":"SG_2fqrKGGG1e1JBqY5oBrvDV_47.818525_-112.188645@1294163950"
     },
     "wof:country":"US",
-    "wof:geomhash":"87d2b8eb4d02dbbfcfd4787dc738c207",
+    "wof:geomhash":"18baa814d87ca6c024856a4715f8b8a3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,8 +61,8 @@
         }
     ],
     "wof:id":186139967,
-    "wof:lastmodified":1472631632,
-    "wof:name":"Old Trail Museum Inc",
+    "wof:lastmodified":1534190003,
+    "wof:name":"Old Trail Museum",
     "wof:parent_id":85810939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -112.188645,
-    47.818525,
-    -112.188645,
-    47.818525
+    -112.18874,
+    47.81937,
+    -112.18874,
+    47.81937
 ],
-  "geometry": {"coordinates":[-112.18864499999999,47.818525],"type":"Point"}
+  "geometry": {"coordinates":[-112.18874,47.81937],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 873567815,
   "type": "Feature",
   "properties": {
-    "addr:full":"914 Division St Billings MT 59101",
+    "addr:city":"Billings",
+    "addr:full":"914 Division St Billings, Mt 59101-1921",
+    "addr:house_number":"914",
     "addr:housenumber":"914",
-    "addr:postcode":"59101",
+    "addr:phone":"+1 406-256-5100",
+    "addr:postcode":"59101-1921",
+    "addr:road":"Division St",
+    "addr:state":"MT",
     "addr:street":"Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-108.515244,45.78025,-108.515244,45.78025",
-    "geom:latitude":45.78025,
-    "geom:longitude":-108.515244,
+    "geom:bbox":"-108.5159,45.77962,-108.5159,45.77962",
+    "geom:latitude":45.77962,
+    "geom:longitude":-108.5159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"914 Division St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"59101",
     "sg:province":"MT",
     "sg:website":"www.mossmansion.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528971
+    ],
     "wof:belongsto":[
         85688617,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403000247,
         "sg:id":"SG_7W04Uo4zXH86aWvpe74D4c_45.780250_-108.515244@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294584,
-    "wof:geomhash":"2b08bb2d6738785fa3b11738011a55dc",
+    "wof:geomhash":"da37ac007202b7c1d20b9328b26b401f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":873567815,
-    "wof:lastmodified":1472631614,
-    "wof:name":"Moss Mansion Museum",
+    "wof:lastmodified":1534190003,
+    "wof:name":"Moss Mansion",
     "wof:parent_id":85876243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -108.515244,
-    45.78025,
-    -108.515244,
-    45.78025
+    -108.5159,
+    45.77962,
+    -108.5159,
+    45.77962
 ],
-  "geometry": {"coordinates":[-108.515244,45.78025],"type":"Point"}
+  "geometry": {"coordinates":[-108.5159,45.77962],"type":"Point"}
 }

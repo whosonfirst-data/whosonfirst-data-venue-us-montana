@@ -2,18 +2,24 @@
   "id": 873547423,
   "type": "Feature",
   "properties": {
-    "addr:full":"12 E Lawrence St Helena MT 59601",
+    "addr:city":"Helena",
+    "addr:full":"12 E Lawrence St Helena, Mt 59601-4019",
+    "addr:house_number":"12",
     "addr:housenumber":"12",
-    "addr:postcode":"59601",
+    "addr:phone":"+1 406-442-6400",
+    "addr:postcode":"59601-4019",
+    "addr:road":"E Lawrence St",
+    "addr:state":"MT",
     "addr:street":"E Lawrence",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-112.0388,46.59054,-112.0388,46.59054",
-    "geom:latitude":46.59054,
-    "geom:longitude":-112.0388,
+    "geom:bbox":"-112.03645,46.59085,-112.03645,46.59085",
+    "geom:latitude":46.59085,
+    "geom:longitude":-112.03645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"12 E Lawrence St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -30,19 +36,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532633
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403000234,
         "sg:id":"SG_0Fr0kwuEdsJTdiUoZCQ3ka_46.590540_-112.038800@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464294344,
-    "wof:geomhash":"28d5cc0a3be044e8b9cae5ebd840b543",
+    "wof:geomhash":"98f07f429b3ace6143f65fc76ee436b1",
     "wof:hierarchy":[],
     "wof:id":873547423,
-    "wof:lastmodified":1472631582,
-    "wof:name":"Holter Museum of Art",
+    "wof:lastmodified":1534190003,
+    "wof:name":"Holter Museum Of Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mt",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -112.0388,
-    46.59054,
-    -112.0388,
-    46.59054
+    -112.03645,
+    46.59085,
+    -112.03645,
+    46.59085
 ],
-  "geometry": {"coordinates":[-112.03879999999999,46.59054],"type":"Point"}
+  "geometry": {"coordinates":[-112.03645,46.59085],"type":"Point"}
 }
